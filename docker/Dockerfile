@@ -74,6 +74,31 @@ RUN curl -s -L "https://github.com/PrestaShop/PrestaShop/releases/download/1.7.8
     && rm /tmp/prestashop.zip \
     && chown -R www-data:www-data /var/www/html
 
+RUN unzip -o -q /var/www/html/prestashop.zip -d /var/www/html \
+    && rm -f /var/www/html/prestashop.zip \
+    && chown -R www-data:www-data /var/www/html
+
+# Automatyczna instalacja PrestaShop
+RUN php /var/www/html/install/index_cli.php \
+    --domain=localhost \
+    --db_server=database \
+    --db_name=prestashop \
+    --db_user=root \
+    --db_password=root1 \
+    --language=pl \
+    --name=HardPC \
+    --country=pl \
+    --firstname=John \
+    --lastname=Doe \
+    --password=admin1234 \
+    --email=john.doe@example.com \
+    --newsletter=0 \
+    --send_email=0 \
+    --ssl=1
+
+# Usuń katalog instalacyjny
+RUN rm -rf /var/www/html/install
+
 # Wystaw port 80 i 443
 EXPOSE 443
 EXPOSE 80
