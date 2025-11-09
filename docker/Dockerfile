@@ -65,6 +65,9 @@ RUN a2ensite prestashop.conf
 # Włącz mod_rewrite (wymagane przez PrestaShop)
 RUN a2enmod rewrite
 
+# Apache ServerName warning
+RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
+
 # Konfiguracja PHP dla PrestaShop
 RUN echo "short_open_tag = Off" >> /usr/local/etc/php/conf.d/prestashop-custom.ini
 
@@ -78,27 +81,69 @@ RUN unzip -o -q /var/www/html/prestashop.zip -d /var/www/html \
     && rm -f /var/www/html/prestashop.zip \
     && chown -R www-data:www-data /var/www/html
 
-# Automatyczna instalacja PrestaShop
-RUN php /var/www/html/install/index_cli.php \
-    --domain=localhost \
-    --db_server=database \
-    --db_name=prestashop \
-    --db_user=root \
-    --db_password=root1 \
-    --language=pl \
-    --name=HardPC \
-    --country=pl \
-    --firstname=John \
-    --lastname=Doe \
-    --password=admin1234 \
-    --email=john.doe@example.com \
-    --newsletter=0 \
-    --send_email=0 \
-    --ssl=1
+# Uruchom iniclalizację PrestaShop przy starcie kontenera
+RUN cat > /usr/local/bin/prestashop-entrypoint.sh <<'EOF'
+#!/bin/bash
+set -e
 
-# Usuń katalog instalacyjny
-RUN rm -rf /var/www/html/install
+# Czekaj na db
+echo "Waiting for database..."
+until php -r "new PDO('mysql:host=database;dbname=prestashop', 'root', 'root1');" 2>/dev/null; do
+    echo "Database is unavailable - sleeping"
+    sleep 2
+done
+echo "Database is up!"
+
+# Sprawdź czy prestashop już istnieje
+if [ -d "/var/www/html/install" ]; then
+    echo "Installing PrestaShop..."
+    php /var/www/html/install/index_cli.php \
+        --domain=localhost \
+        --db_server=database \
+        --db_name=prestashop \
+        --db_user=root \
+        --db_password=root1 \
+        --language=pl \
+        --name=HardPC \
+        --country=pl \
+        --fixtures=0 \
+        --activity=7 \
+        --firstname=John \
+        --lastname=Doe \
+        --password=admin1234 \
+        --email=john.doe@example.com \
+        --newsletter=0 \
+        --send_email=0 \
+        --ssl=1
+    
+    echo "Removing install directory..."
+    # Usuń katalog instalacyjny (Presta wymaga)
+    rm -rf /var/www/html/install
+
+    # Zmień nazwe admin (PrestaShop wymaga)
+    mv /var/www/html/admin /var/www/html/adminportal
+
+    chown -R www-data:www-data /var/www/html
+    chmod -R 755 /var/www/html
+    find /var/www/html -type d -exec chmod 775 {} \;
+    find /var/www/html -type f -exec chmod 664 {} \;
+
+    echo "PrestaShop installation complete!"
+else
+    echo "PrestaShop already installed, skipping installation."
+fi
+
+# Start Apache
+exec apache2-foreground
+EOF
+
+# naprawa końcówek linii
+RUN sed -i 's/\r$//' /usr/local/bin/prestashop-entrypoint.sh && \
+    chmod +x /usr/local/bin/prestashop-entrypoint.sh
 
 # Wystaw port 80 i 443
 EXPOSE 443
 EXPOSE 80
+
+# Ustaw skrypt startowy
+ENTRYPOINT ["/usr/local/bin/prestashop-entrypoint.sh"]
