@@ -1,0 +1,38 @@
+name: PrestaShop
+services:
+  database:
+    image: mariadb:latest
+    container_name: prestashop-db
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: root1
+      MARIADB_DATABASE: prestashop
+    networks:
+      - prestashop-network
+
+  prestashop:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: prestashop-app
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - database
+    networks:
+      - prestashop-network
+
+  adminer:
+    image: adminer:latest
+    container_name: prestashop-adminer
+    restart: always
+    ports:
+      - "8081:8080"
+    networks:
+      - prestashop-network
+
+networks:
+  prestashop-network:
+    driver: bridge
