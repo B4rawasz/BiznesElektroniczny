@@ -55,7 +55,7 @@ $(document).ready(function() {
                   root_id.append('<nav id="mobile-bar"><ul></ul></nav>');
                   top_id.each(function(){ $(this).find('#logo a').clone().addClass('home').appendTo('#mobile-bar ul').wrap('<li></li>'); });
                   $('#mobile-bar ul').append('<li><a href="./" class="search">Search</a></li>').find('.search').on('click',function(){ html_tag.toggleClass('search-active'); return false; });
-                  top_id.each(function(){ $(this).find('.storebox a').clone().addClass('store').appendTo('#mobile-bar ul').wrap('<li></li>'); });
+                //  top_id.each(function(){ $(this).find('.storebox a').clone().addClass('store').appendTo('#mobile-bar ul').wrap('<li></li>'); });
                   top_id.each(function(){ $(this).find('#mKoszyk a').clone().addClass('cart').appendTo('#mobile-bar ul').wrap('<li></li>'); });
                   top_id.each(function(){ $(this).find('#up .list-log li:first a').clone().addClass('user').appendTo('#mobile-bar ul').wrap('<li></li>'); });
                   link_discount.on('click',function(){ html_tag.toggleClass('discount-active'); return false; });
