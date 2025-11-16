@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Hard-Pc.pl - Twój sklep komputerowy</title>
+	<link rel="canonical" href="https://sklep.hard-pc.pl">
+
+	<link rel="preload" as="image" href="galerie/m/mysz-dream-machines-dm1-s2_37322_k.webp">
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<meta name="MobileOptimized" content="320">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+	<!-- Safari/Chrome mobilne – jasny pasek UI -->
+	<meta name="theme-color" content="#ffffff">
+	<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+	<meta name="theme-color" content="#111111" media="(prefers-color-scheme: dark)">
+
+	<!-- iOS przy "Add to Home Screen" (PWA) -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+
+	<link rel="preload" as="image" href="SUCRO/images/logo.webp" crossorigin>
+	<link rel="preload" href="SUCRO/styles/icons/icomoon.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+	<link rel="preload" as="style" href="SUCRO/styles/screen.css">
+	<link rel="preload" as="style" href="_css/product-visit-counter.css">
+	<link rel="preload" href="SUCRO/styles/fonts/roboto-300.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="SUCRO/styles/fonts/roboto-300i.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="SUCRO/styles/fonts/roboto-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="SUCRO/styles/fonts/roboto-400i.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="SUCRO/styles/fonts/roboto-500.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="SUCRO/styles/fonts/roboto-500i.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="SUCRO/styles/fonts/roboto-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<link rel="preload" href="SUCRO/styles/fonts/roboto-700i.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<link rel="stylesheet" media="screen" href="_css/product-visit-counter.css">
+
+	<link rel="stylesheet" media="screen" href="SUCRO/styles/screen.css?v=6111124">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+</head>
+
+<body>
+	<img id="loading-image" src="img/loading.gif" alt="loading"
+		style="height: 1px; width: 1px; position: absolute; left: 0; top: 0; display: none">
+	<div id="kqs-tlo"
+		style="width: 100%; height: 100%; display: none; position: fixed; top: 0; left: 0; background-color: #000000; z-index: 1000; opacity: 0; transition: opacity 0.5s linear;"
+		onclick="kqs_off();"></div>
+	<div id="galeria-box"
+		style="display: none; position: fixed; color: #000000; background-color: #ffffff; z-index: 1001; border: 0; box-shadow: 0 5px 20px #808080; opacity: 0; transition: opacity 0.5s linear;">
+		<div id="galeria-podklad" style="width: 32px; height: 32px; margin: 20px; text-align: center"><img
+				src="img/loading.gif" alt="loading" id="galeria-obraz" onclick="kqs_off();"></div>
+		<div style="margin: -10px 10px 10px 10px" id="galeria-miniatury"></div>
+		<div id="galeria-nazwa" style="margin: 10px; color: #000000; font-weight: bold; text-align: center"></div>
+		<div class="kqs-iks"
+			style="width: 20px; height: 20px; position: absolute; cursor: pointer; top: 0; right: 0; background: #ffffff url(img/iks.png) 2px 6px/12px no-repeat; box-sizing: content-box;"
+			onclick="kqs_off();"></div>
+	</div>
+	<table id="kqs-box-tlo"
+		style="width: 100%; height: 100%; display: none; position: fixed; top: 0; left: 0; z-index: 1001; opacity: 0; transition: opacity 0.5s linear;">
+		<tr>
+			<td style="width: 100%; height: 100%; vertical-align: middle">
+				<div id="kqs-box"
+					style="width: 95%; height: 95%; position: relative; margin: auto; color: #000000; background-color: #ffffff; border-radius: 10px; border: 0; box-shadow: 0 5px 20px #808080">
+					<div id="kqs-box-zawartosc" style="height: 100%; padding: 20px"></div>
+					<div class="kqs-iks"
+						style="width: 20px; height: 20px; position: absolute; cursor: pointer; top: 0; right: 0; background: url(img/iks.png) 2px 6px/12px no-repeat; box-sizing: content-box"
+						onclick="kqs_off();"></div>
+				</div>
+			</td>
+		</tr>
+	</table>
+	<!--<div class="top-info">ZE WZGLĘDU NA REMANENT ZAMÓWIENIA ZŁOŻONE PO 31.12.2024 GODZ: 15 BĘDĄ REALIZOWANE OD 9.01.2025</div>-->
+	<!-- Ecomail starts -->
+
+
+	<div id="root">
+		<header id="top">
+			<p id="logo"><a href="https://sklep.hard-pc.pl" accesskey="h" title="Hard-Pc Sklep komputerowy">Hard-Pc
+					Sklep komputerowy</a></p>
+			<nav id="skip">
+				<ul>
+					<li><a href="#nav" accesskey="n">Skip to navigation (n)</a></li>
+					<li><a href="#content" accesskey="c">Skip to content (c)</a></li>
+					<li><a href="#footer" accesskey="f">Skip to footer (f)</a></li>
+				</ul>
+			</nav>
+			<nav id="up">
+				<div>
+					<ul class="list-contact">
+						<li class="link-phone"><a href="tel:48813070345 "
+								title="zadzwoń +48 813 070 345 "><span>+48</span> 813 070 345 </a></li>
+					</ul>
+					<ul class="list-social">
+						<li><a href="https://www.instagram.com/hardpc.pl/" title="zobacz nasz Instagram" target="_blank"
+								rel="noreferrer"><i class="icon-instagram"></i> <span>Instagram</span></a></li>
+						<li><a href="https://www.facebook.com/HardPcpl/" title="zobacz nasz Facebook" target="_blank"
+								rel="noreferrer"><i class="icon-facebook"></i> <span>Facebook</span></a></li>
+						<li><a href="https://www.youtube.com/HardPcTV" title="zobacz kanał na YouTube" target="_blank"
+								rel="noreferrer"><i class="icon-youtube"></i> <span>YouTube</span></a></li>
+					</ul>
+				</div>
+				<ul class="list-log">
+					<li><a href="logowanie.html" rel="nofollow">Zaloguj się</a></li>
+					<li><a href="rejestracja.html" rel="nofollow">Załóż konto</a></li>
+				</ul>
+
+			</nav>
+			<nav id="nav" aria-label="Navigation">
+
+				<ul>
+					<li><a href="kategoria.html" title="Myszki">Myszki</a>
+						<ul>
+							<li><a href="podkategoria.html" title="Myszki bezprzewodowe">Myszki
+									bezprzewodowe</a></li>
+							<li><a href="podkategoria.html" title="Myszki przewodowe">Myszki przewodowe</a></li>
+							<li><a href="podkategoria.html" title="Akcesoria do myszek">Akcesoria do myszek</a>
+							</li>
+					</li>
+				</ul>
+				</li>
+				<li><a href="kategoria.html" title="Monitory">Monitory</a>
+					<ul>
+						<li><a href="podkategoria.html" title="Monitory">Monitory</a></li>
+						<li><a href="podkategoria.html" title="Akcesoria do monitorów">Akcesoria do monitorów</a>
+						</li>
+						<li><a href="podkategoria.html" title="Uchwyty na monitor">Uchwyty na monitor</a></li>
+					</ul>
+				</li>
+				<li><a href="kategoria.html" title="Klawiatury">Klawiatury</a>
+					<ul>
+						<li><a href="podkategoria.html" title="Klawiatury mechaniczne">Klawiatury mechaniczne</a></li>
+						<li><a href="podkategoria.html" title="Klawiatury magnetyczne">Klawiatury magnetyczne</a>
+						</li>
+						<li><a href="podkategoria.html" title="Akcesoria do klawiatur">Akcesoria do klawiatur</a></li>
+					</ul>
+				</li>
+				<li><a href="kategoria.html" title="Słuchawki">Słuchawki</a>
+					<ul>
+						<li><a href="podkategoria.html" title="Słuchawki nauszne/wokółuszne">Słuchawki
+								nauszne/wokółuszne</a></li>
+						<li><a href="podkategoria.html" title="Słuchawki dokanałowe/douszne">Słuchawki
+								dokanałowe/douszne</a></li>
+						<li><a href="podkategoria.html" title="Słuchawki sportowe">Słuchawki sportowe</a></li>
+					</ul>
+				</li>
+				</ul>
+
+
+			</nav>
+
+			<div id="panel">
+				<form action="index.php" method="get" class="form-search"><input type="hidden" name="d" value="szukaj">
+					<p><input type="text" placeholder="wpisz szukaną nazwę produktu" name="szukaj"
+							onkeyup="podpowiedz(this.value);" id="szukaj"><button type="submit"
+							aria-label="szukaj">Szukaj</button></p>
+
+					<div id="podpowiedzi" style="visibility: hidden; position: absolute; width: 500px"></div>
+				</form>
+
+
+
+
+				<div id="mKoszyk">
+					<p><a href="koszyk.html" title="Twój koszyk"><span>Koszyk: <span>0,00 zł</span></span> <span
+								class="no"><span>0</span></span></a></p>
+				</div>
+			</div>
+		</header>
+		<main id="content">
+
+			<div id="featured">
+
+				<figure><a
+						href="https://sklep.hard-pc.pl/index.php?d=szukaj&szukaj=anda+seat+x-air&kategoria1=0&producent=&cenaMin=&cenaMax="><img
+							src="SUCRO/images/content/andaseat.webp" width="1900" height="400"
+							alt="Ergonomiczne fotele Anda Seat X-Air"></a></figure>
+
+				<figure><a href="https://sklep.hard-pc.pl/index.php?d=szukaj&szukaj=crazy+light"><img
+							src="SUCRO/images/content/crazylight-banner.webp" width="1900" height="400"
+							alt="Myszka Pulsar CrazyLight"></a></figure>
+
+
+
+				<figure><a href="https://sklep.hard-pc.pl/index.php?d=szukaj&szukaj=lamzu+jet75"><img
+							src="SUCRO/images/content/jet75.webp" width="1900" height="400"
+							alt="Klawiatura Lamzu JET75"></a></figure>
+
+
+				<figure><a href="https://sklep.hard-pc.pl/p18134,sluchawki-truthear-zero-blue-2dd.html"><img
+							src="SUCRO/images/content/truthearzero.webp" width="1900" height="400"
+							alt="Truthear Zero Blue"></a></figure>
+
+			</div>
+
+			<section class="no-mobile">
+				<ul class="list-i">
+					<li>
+						<p><i class="icon-call-center"></i> Profesjonalne doradztwo</p>
+						<p>W zakresie wyboru sprzętu</p>
+					</li>
+					<li>
+						<p><i class="icon-security"></i> Bezpieczne zakupy</p>
+						<p>W pełni szyfrowane połączenie SSL</p>
+					</li>
+					<li>
+						<p><i class="icon-return"></i> Bezproblemowe zwroty</p>
+						<p>Do 14 dni bez podania przyczyny</p>
+					</li>
+				</ul>
+			</section>
+
+			<div class="cols-a">
+				<div>
+					<article class="box-f">
+						<header>
+							<h2>Gorąca okazja</h2>
+						</header>
+
+						<div class="product-a">
+							<figure>
+								<a href="p20539,zestaw-ryzen-5-7500f-rtx-5070-12gb-32gb-ddr5-1tb-ssd-650w-night-hunter.html"
+									title="Zestaw | Ryzen 5 7500F, RTX 5070 12GB, 32GB DDR5, 1TB SSD, 650W, Night Hunter"><img
+										src="galerie/z/zestaw-ryzen-7-7700-rx-9070-1_76729_k.webp"
+										alt="Zestaw | Ryzen 5 7500F, RTX 5070 12GB, 32GB DDR5, 1TB SSD, 650W, Night Hunter"
+										title="Zestaw | Ryzen 5 7500F, RTX 5070 12GB, 32GB DDR5, 1TB SSD, 650W, Night Hunter"
+										width="500" heigh="500"></a>
+
+							</figure>
+							<h3><a href="p20539,zestaw-ryzen-5-7500f-rtx-5070-12gb-32gb-ddr5-1tb-ssd-650w-night-hunter.html"
+									title="Zestaw | Ryzen 5 7500F, RTX 5070 12GB, 32GB DDR5, 1TB SSD, 650W, Night Hunter">Zestaw
+									| Ryzen 5 7500F, RTX 5070 12GB, 32GB DDR5, 1TB SSD, 650W, Night Hunter</a></h3>
+							<div class="attr">
+
+							</div>
+							<p class="prices"> <span class="default promo">5 199,00 zł</span>
+								<span class="old">5 699,00 zł</span>
+							</p>
+							<div class="omn hit-omn">Najniższa cena z 30 dni: <span>4 999,00 zł</span></div>
+
+						</div>
+
+					</article>
+				</div>
+
+				<div>
+					<form method="post" name="listaZakupowPromocje" action="koszyk.php?akcja=dodaj"><input type="hidden"
+							name="koszyk" value="zbiorczy"><input type="hidden" name="tablicaZbiorcza"
+							value="19396,19204,16306,20255,18215,19256,10156,18874,19284,20336,20690,21004">
+						<article>
+							<header class="heading-c b">
+								<h2>Promocje <span>Produkty w specjalnie obniżonej cenie. Śpiesz się, ilość produktów i
+										czas trwania ograniczony.</span></h2>
+							</header>
+							<div class="module-pattern c">
+								<div class="slide-promo">
+
+									<div class="product-a">
+										<figure>
+											<a
+												href="p19396,zestaw-intel-ultra-7-265kf-rtx-5070-12gb-32gb-ddr5-1tb-ssd-750w-signum-300-argb.html"><img
+													src="galerie/o/obudowa-endorfy-signum-300-ar_50864_k.jpg"
+													width="320" height="320"
+													alt="Zestaw | Intel Ultra 7 265KF, RTX 5070 12GB, 32GB DDR5, 1TB SSD, 750W, Signum 300 ARGB"
+													loading="lazy"></a>
+										</figure>s
+										<h2><a href="p19396,zestaw-intel-ultra-7-265kf-rtx-5070-12gb-32gb-ddr5-1tb-ssd-750w-signum-300-argb.html"
+												title="zobacz Zestaw | Intel Ultra 7 265KF, RTX 5070 12GB, 32GB DDR5, 1TB SSD, 750W, Signum 300 ARGB">Zestaw
+												| Intel Ultra 7 265KF, RTX 5070 12GB, 32GB DDR5, 1TB SSD, 750W, Signum
+												300 ARGB</a></h2>
+										<div class="attr"> </div>
+										<div class="omn">Najniższa cena z 30 dni: <span>6 099,00 zł</span></div>
+										<p class="prices"><span id="cena_19396_4"> <span class="default promo">6 349,00
+													zł</span>
+												<span class="old">7 429,00 zł</span></span></p>
+										<div class="avail" style="display:none">
+											<div style="margin: 5px">Dostępność: <span class="pogrubienie">Wysyłka:
+													<span class="a">do 7 dni roboczych</span></span></div>
+										</div>
+
+										<p class="add"><button type="submit"
+												onclick="if(upKoszyk(19396,4) == 1){ return false; }else if(koszyk_dodaj(4) == 1){ return false; }"
+												product_ids="19396">Dodaj do koszyka</button></p>
+
+									</div>
+
+
+
+
+									<div class="product-a">
+										<figure>
+											<a
+												href="p19204,zestaw-ryzen-5-7600-rtx-5070-ti-16gb-32gb-ddr5-1tb-ssd-750w-arx-700-argb.html"><img
+													src="galerie/o/obudowa-endorfy-arx-700-argb_55620_k.jpg" width="320"
+													height="320"
+													alt=" Zestaw | Ryzen 5 7600, RTX 5070 Ti 16GB, 32GB DDR5, 1TB SSD, 750W, ARX 700 ARGB"
+													loading="lazy"></a>
+										</figure>
+										<h2><a href="p19204,zestaw-ryzen-5-7600-rtx-5070-ti-16gb-32gb-ddr5-1tb-ssd-750w-arx-700-argb.html"
+												title="zobacz  Zestaw | Ryzen 5 7600, RTX 5070 Ti 16GB, 32GB DDR5, 1TB SSD, 750W, ARX 700 ARGB">
+												Zestaw | Ryzen 5 7600, RTX 5070 Ti 16GB, 32GB DDR5, 1TB SSD, 750W, ARX
+												700 ARGB</a></h2>
+										<div class="attr"> </div>
+										<div class="omn">Najniższa cena z 30 dni: <span>7 549,00 zł</span></div>
+										<p class="prices"><span id="cena_19204_4"> <span class="default promo">7 749,00
+													zł</span>
+												<span class="old">9 449,00 zł</span></span></p>
+										<div class="avail" style="display:none">
+											<div style="margin: 5px">Dostępność: <span class="pogrubienie">Wysyłka:
+													<span class="a">do 7 dni roboczych</span></span></div>
+										</div>
+
+										<p class="add"><button type="submit"
+												onclick="if(upKoszyk(19204,4) == 1){ return false; }else if(koszyk_dodaj(4) == 1){ return false; }"
+												product_ids="19204">Dodaj do koszyka</button></p>
+
+									</div>
+
+
+								</div>
+							</div>
+
+
+
+							<div class="module-banners">
+								<div class="ban baner-a">
+									<h3><span>Pulsar CrazyLight</span></h3>
+									<p class="link-btn d"><a
+											href="https://sklep.hard-pc.pl/index.php?d=szukaj&szukaj=pulsar+crazylight"
+											title="Myszka Pulsar CrazyLight">Zobacz teraz</a></p>
+									<figure><img loading="lazy" src="SUCRO/images/content/crazylight.webp" width="220"
+											height="481" alt="Niezawodne myszki Pulsar"></figure>
+								</div>
+								<div class="ban baner-b">
+									<h3>Złóż komputer<br> za <span>0 zł</span></h3>
+									<p class="link-more"><a href="i19,zloz-komputer.html"
+											title="Uzupełnij formularz wyceny złożenia komputera">Zobacz teraz</a></p>
+									<figure><img loading="lazy" src="SUCRO/images/content/skladanie-komputerow.webp"
+											width="200" height="228" alt="Złóż komputer za 0,00 zł"></figure>
+								</div>
+								<div class="ban baner-c">
+									<h3>Zestaw komputerowy do <span>2 500,00 zł</span></h3>
+									<p class="link-btn d"><a
+											href="k572,komputery-i-czesci-komputerowe-zestawy-komputerowe-zestaw-komputerowy-do-2500-zl.html"
+											title="Zobacz Zestawy komputerowe do 2000,00 zł">Zobacz teraz</a></p>
+									<p class="info">Idealny dla początkujących graczy</p>
+									<figure><img loading="lazy"
+											src="SUCRO/images/content/zestaw-komputerowy-do-2500.webp" width="405"
+											height="228" alt="Zestaw komputerowy do 2000,00 zł"></figure>
+								</div>
+								<div class="ban baner-d">
+									<h3>Zestaw komputerowy do <span>3 000,00 zł</span></h3>
+									<p class="link-btn d"><a
+											href="k573,komputery-i-czesci-komputerowe-zestawy-komputerowe-zestaw-komputerowy-do-3000-zl.html"
+											title="Zobacz Zestawy komputerowe do 3000,00 z">Zobacz teraz</a></p>
+									<p class="info">Cichy i wydajny sprzęt</p>
+									<figure><img loading="lazy"
+											src="SUCRO/images/content/zestaw-komputerowy-do-3000.webp" width="405"
+											height="228" alt="Zestaw komputerowy do 3000,00 zł"></figure>
+								</div>
+								<div class="ban baner-e">
+									<h3>Zestaw komputerowy do <span>4 000,00 zł</span></h3>
+									<p class="link-btn d"><a
+											href="k574,komputery-i-czesci-komputerowe-zestawy-komputerowe-zestaw-komputerowy-do-4000-zl.html"
+											title="Zobacz Zestawy komputerowe do 4000,00 zł">Zobacz teraz</a></p>
+									<p class="info">Wysoka klasa sprzętu w atrakcyjnej cenie</p>
+									<figure><img loading="lazy"
+											src="SUCRO/images/content/zestaw-komputerowy-do-4000.webp" width="405"
+											height="228" alt="Zestaw komputerowy do 4000,00 zł"></figure>
+								</div>
+								<div class="ban baner-f">
+									<h3>Zestaw komputerowy powyżej <span>4 000,00 zł</span></h3>
+									<p class="link-btn d"><a
+											href="k575,komputery-i-czesci-komputerowe-zestawy-komputerowe-zestaw-komputerowy-4000-zl.html"
+											title="Zobacz Zestawy komputerowe powyżej 4000,00 zł">Zobacz teraz</a></p>
+									<p class="info">Dla grafika, programisty i montażysty</p>
+									<figure><img loading="lazy"
+											src="SUCRO/images/content/zestaw-komputerowy-powyzej-4000.webp" width="405"
+											height="228" alt="Zestaw komputerowy powyżej 4000,00 zł"></figure>
+								</div>
+								<div class="ban baner-g">
+									<h3>Napraw komputer<br> <span>Narzędzia iFixit</span></h3>
+									<p class="link-more"><a href="k554,narzedzia-ifixit.html"
+											title="Zobacz Narzędzia iFixit">Zobacz teraz</a></p>
+									<figure><img loading="lazy" src="SUCRO/images/content/baner-g.webp" width="200"
+											height="228" alt="Narzędzia iFixit"></figure>
+								</div>
+							</div>
+
+
+							<form method="post" name="listaZakupow" action="koszyk.php?akcja=dodaj"><input type="hidden"
+									name="koszyk" value="zbiorczy"><input type="hidden" name="tablicaZbiorcza"
+									value="19888,20433,20358,20596,19876,20507,19870,19909,20161,19150,20656,19899">
+								<article>
+									<header class="heading-c a">
+										<h2>Nowe produkty w sklepie <span>Które w ostatnich dniach pojawiły się w
+												Naszych magazynach</span></h2>
+									</header>
+									<div class="module-pattern a">
+										<div class="slide-products">
+
+
+											<div class="product-a">
+												<figure>
+													<a
+														href="p19888,mysz-pulsar-x2-crazylight-8k-wireless-volt-shadow.html"><img
+															src="galerie/m/mysz-pulsar-x2-crazylight-8k_74497_k.jpg"
+															width="320" height="320"
+															alt="Mysz Pulsar X2 CRAZYLIGHT 8K Wireless Volt Shadow"
+															loading="lazy"></a>
+												</figure>
+												<h2><a href="p19888,mysz-pulsar-x2-crazylight-8k-wireless-volt-shadow.html"
+														title="zobacz Mysz Pulsar X2 CRAZYLIGHT 8K Wireless Volt Shadow">Mysz
+														Pulsar X2 CRAZYLIGHT 8K Wireless Volt Shadow</a></h2>
+												<div class="attr"> </div>
+												<p class="prices"><span id="cena_19888_0"><span class="default">599,00
+															zł</span></span></p>
+												<div class="avail" style="display:none">
+													<div style="margin: 5px">Dostępność: <span
+															class="pogrubienie">Wysyłka: <span class="a"> w ciągu
+																24h</span></span></div>
+												</div>
+
+												<p class="add"><button type="submit"
+														onclick="if(upKoszyk(19888,0) == 1){ return false; }else if(koszyk_dodaj(0) == 1){ return false; }"
+														product_ids="19888">Dodaj do koszyka</button></p>
+
+											</div>
+
+
+
+
+											<div class="product-a">
+												<figure>
+													<a
+														href="p20433,obudowa-phanteks-evolv-x2-mid-tower-black-gold.html"><img
+															src="galerie/o/obudowa-phanteks-evolv-x2-mid_77158_k.jpg"
+															width="320" height="320"
+															alt="Obudowa Phanteks Evolv X2 Mid Tower Black/Gold"
+															loading="lazy"></a>
+												</figure>
+												<h2><a href="p20433,obudowa-phanteks-evolv-x2-mid-tower-black-gold.html"
+														title="zobacz Obudowa Phanteks Evolv X2 Mid Tower Black/Gold">Obudowa
+														Phanteks Evolv X2 Mid Tower Black/Gold</a></h2>
+												<div class="attr">
+													<p class="new">Nowość</p>
+												</div>
+												<p class="prices"><span id="cena_20433_0"><span class="default">729,00
+															zł</span></span></p>
+												<div class="avail" style="display:none">
+													<div style="margin: 5px">Dostępność: <span
+															class="pogrubienie">Wysyłka: <span class="a"> w ciągu
+																24h</span></span></div>
+												</div>
+
+												<p class="add"><button type="submit"
+														onclick="if(upKoszyk(20433,0) == 1){ return false; }else if(koszyk_dodaj(0) == 1){ return false; }"
+														product_ids="20433">Dodaj do koszyka</button></p>
+
+											</div>
+
+
+
+
+											<div class="product-a">
+												<figure>
+													<a
+														href="p20358,profesjonalne-niskoprofilowe-ramie-mikrofonowe-statyw-mikrofonowy-mozos-sb40-low.html"><img
+															src="galerie/p/profesjonalne-niskoprofilowe_76414_k.jpg"
+															width="320" height="320"
+															alt="Profesjonalne niskoprofilowe ramię mikrofonowe - statyw mikrofonowy MOZOS SB40-LOW"
+															loading="lazy"></a>
+												</figure>
+												<h2><a href="p20358,profesjonalne-niskoprofilowe-ramie-mikrofonowe-statyw-mikrofonowy-mozos-sb40-low.html"
+														title="zobacz Profesjonalne niskoprofilowe ramię mikrofonowe - statyw mikrofonowy MOZOS SB40-LOW">Profesjonalne
+														niskoprofilowe ramię mikrofonowe - statyw mikrofonowy MOZOS
+														SB40-LOW</a></h2>
+												<div class="attr">
+													<p class="new">Nowość</p>
+												</div>
+												<p class="prices"><span id="cena_20358_0"><span class="default">148,99
+															zł</span></span></p>
+												<div class="avail" style="display:none">
+													<div style="margin: 5px">Dostępność: <span
+															class="pogrubienie">Wysyłka: <span class="a"> w ciągu
+																24h</span></span></div>
+												</div>
+
+												<p class="add"><button type="submit"
+														onclick="if(upKoszyk(20358,0) == 1){ return false; }else if(koszyk_dodaj(0) == 1){ return false; }"
+														product_ids="20358">Dodaj do koszyka</button></p>
+
+											</div>
+										</div>
+									</div>
+									<div class="promo-button"> <a href="nowosci.html"
+											title="Zobacz najnowsze produkty w sklepie">Zobacz wszystkie nowości</a>
+									</div>
+								</article>
+							</form>
+
+
+		</main>
+		<footer id="footer">
+
+			<ul class="list-a">
+				<li><i class="icon-address"></i> Hard-Pc.pl, ul. Długa 6, 24-300 Opole lubelskie</li>
+				<li><i class="icon-phone"></i> <a href="tel:48813070345" class="link-phone"
+						title="zadzwoń +48 813070345 "><span>+48</span> 813 070 345</a></li>
+				<li><i class="icon-mail"></i> <a href="mailto:info@hardpc.pl"
+						title="napisz wiadomość e-mail">info@hardpc.pl</a></li>
+			</ul>
+
+
+
+			<!-- 
+<script src="https://rep.leaselink.pl/plugin/61add4.js"></script>
+<script src="https://rep.leaselink.pl/plugin/LeaseLinkLib.min.js"></script>
+-->
+			<script src="/_js/linki.js"></script>
+			<script src="/_js/autolinker.js"></script>
+
+
+
+			<!-- 3. Uruchomienie (po załadowaniu strony) -->
+			<script>
+				document.addEventListener("DOMContentLoaded", () => {
+					autoLinkContent(2, 10); // 1 link na frazę, maks 3 linki na stronę
+				});
+			</script>
+
+
+			<ul>
+				<li>&copy; Hard-Pc.pl. Wszelkie prawa zastrzeżone. <a href="https://www.kqs.pl"
+						title="Oprogramowanie sklepu internetowego" rel="noopener" target="_blank">Oprogramowanie
+						<span>kqs</span>.store</a></li>
+				<li>Realizacja: <a href="https://www.sucro.pl" title="Grafika i wdrożenie sklepu KQS.store"
+						rel="noopener" target="_blank"><span>sucro</span>.pl</a></li>
+			</ul>
+		</footer>
+		<div class="mobile-search">
+			<form action="index.php" method="get" class="form-search"><input type="hidden" name="d" value="szukaj">
+				<p><input type="text" placeholder="wpisz szukaną nazwę produktu" name="szukaj"
+						onkeyup="podpowiedz(this.value);" id="szukaj"><button type="submit"
+						aria-label="szukaj">Szukaj</button></p>
+
+				<div id="podpowiedzi" style="visibility: hidden; position: absolute; width: 500px"></div>
+			</form>
+
+
+
+
+		</div>
+	</div>
+
+
+
+	<!--<script src="SUCRO/javascript/scripts.js"></script> -->
+	<!--<script src="SUCRO/javascript/custom.js"></script> -->
+
+	<script>
+
+
+
+		$(document).on('scroll', function () {
+			eventThrottler();
+		});
+	</script>
+</body>
+
+</html>
