@@ -24,6 +24,7 @@
  *}
 {foreach $stylesheets.external as $stylesheet}
   <link rel="stylesheet" href="{$stylesheet.uri}" type="text/css" media="{$stylesheet.media}">
+
 {/foreach}
 
 {foreach $stylesheets.inline as $stylesheet}
@@ -31,3 +32,4 @@
     {$stylesheet.content}
   </style>
 {/foreach}
+<link rel="stylesheet" href="{$shop_url}themes/dev/assets/css/screen.css">
