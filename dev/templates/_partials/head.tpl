@@ -70,8 +70,8 @@
   <link rel="stylesheet"
         href="{$shop_url}themes/dev/assets/css/screen.css">
 
-  <link rel="stylesheet"
-        href="{$shop_url}themes/dev/assets/css/custom-disable.css">
+  {*<link rel="stylesheet"
+        href="{$shop_url}themes/dev/assets/css/custom-disable.css">*}
 
   {* optional: jeśli masz product-visit-counter *}
   <link rel="stylesheet"
