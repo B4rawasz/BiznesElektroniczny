@@ -22,6 +22,7 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
+ {*
 <div class="container">
   <div class="row">
     {block name='hook_footer_before'}
@@ -54,3 +55,45 @@
     </div>
   </div>
 </div>
+*}
+<footer id="footer">
+
+    <ul class="list-a">
+        <li><i class="icon-address"></i> Hard-Pc.pl, ul. Długa 6, 24-300 Opole lubelskie</li>
+        <li><i class="icon-phone"></i> 
+            <a href="tel:48813070345" class="link-phone" title="zadzwoń +48 813070345">
+                <span>+48</span> 813 070 345
+            </a>
+        </li>
+        <li><i class="icon-mail"></i> 
+            <a href="mailto:info@hardpc.pl" title="napisz wiadomość e-mail">info@hardpc.pl</a>
+        </li>
+    </ul>
+
+    {*
+    <script src="https://rep.leaselink.pl/plugin/61add4.js"></script>
+    <script src="https://rep.leaselink.pl/plugin/LeaseLinkLib.min.js"></script>
+    *}
+
+    <script src="{$link->getMediaLink('_js/linki.js')|escape:'html'}"></script>
+    <script src="{$link->getMediaLink('_js/autolinker.js')|escape:'html'}"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            autoLinkContent(2, 10); // 1 link na frazę, maks 3 linki na stronę
+        });
+    </script>
+
+    <ul>
+        <li>&copy; Hard-Pc.pl. Wszelkie prawa zastrzeżone. 
+            <a href="https://www.kqs.pl" title="Oprogramowanie sklepu internetowego" rel="noopener" target="_blank">
+                Oprogramowanie <span>kqs</span>.store
+            </a>
+        </li>
+        <li>Realizacja: 
+            <a href="https://www.sucro.pl" title="Grafika i wdrożenie sklepu KQS.store" rel="noopener" target="_blank">
+                <span>sucro</span>.pl
+            </a>
+        </li>
+    </ul>
+</footer>
