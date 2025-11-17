@@ -6,6 +6,8 @@ def extract(page: BeautifulSoup) -> dict:
         "name": "",
         "price": 0,
         "description": "",
+        "technical_data": "",
+        "security_data": "",
         "manufacturer_img": "",
         "images": []
         }
