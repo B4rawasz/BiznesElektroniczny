@@ -63,16 +63,19 @@
 {/block}
 
 {block name='stylesheets'}
+
   {include file="_partials/stylesheets.tpl" stylesheets=$stylesheets}
-  <link rel="stylesheet"
-        href="{$shop_url}themes/{$theme.name}/assets/css/custom-disable.css">
+
   {* SUCRO główny CSS z motywu *}
   <link rel="stylesheet"
-        href="{$shop_url}themes/{$theme.name}/assets/css/screen.css">
+        href="{$shop_url}themes/dev/assets/css/screen.css">
+
+  <link rel="stylesheet"
+        href="{$shop_url}themes/dev/assets/css/custom-disable.css">
 
   {* optional: jeśli masz product-visit-counter *}
   <link rel="stylesheet"
-        href="{$shop_url}themes/{$theme.name}/assets/css/product-visit-counter.css">
+        href="{$shop_url}themes/dev/assets/css/product-visit-counter.css">
 {/block}
 
 {block name='javascript_head'}
