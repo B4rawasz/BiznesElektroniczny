@@ -12,7 +12,7 @@
 #mobile_top_menu_wrapper,
 #_desktop_top_menu,
 #_mobile_top_menu {
-    display: none !important;
+	display: none !important;
 }
 
 /* 2) Usuwamy style dropdownów i top-menu Presty,
@@ -23,101 +23,98 @@
 .js-top-menu,
 .popover,
 .sub-menu {
-    all: unset !important;
+	all: unset !important;
 }
 
 /* 3) Header SUCRO jako główna struktura */
 header#top {
-    position: relative !important;
-    z-index: 50;
-    background: #fff;
-    width: 100%;
+	position: relative !important;
+	z-index: 50;
+	background: #fff;
+	width: 100%;
 }
 
 /* 4) Logo Presty (renderLogo) — zamieniamy na styl SUCRO */
 #logo {
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 #logo a img {
-    display: inline-block !important;
-    width: auto !important;
-    height: auto !important;
-    max-height: 95px !important;
+	display: inline-block !important;
+	width: auto !important;
+	height: auto !important;
+	max-height: 95px !important;
 }
 
 /* 5) Górny pasek SUCRO (kontakt, social, logowanie) */
 #up {
-    display: flex !important;
-    justify-content: space-between !important;
-    align-items: center !important;
-    padding: 10px 20px !important;
+	display: flex !important;
+	justify-content: space-between !important;
+	align-items: center !important;
+	padding: 10px 20px !important;
 }
 
 #up .list-contact,
 #up .list-social,
 #up .list-log {
-    display: flex !important;
-    gap: 15px !important;
-    align-items: center !important;
+	display: flex !important;
+	gap: 15px !important;
+	align-items: center !important;
 }
 
 /* 6) PANEL — wyszukiwarka + koszyk SUCRO */
 #panel {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    padding: 20px 0 !important;
-    gap: 40px !important;
-    width: 100%;
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+	padding: 20px 0 !important;
+	gap: 40px !important;
+	width: 100%;
 }
 
 /* 7) Wyszukiwarka Presty w trybie SUCRO */
 #panel .form-search input[type="text"],
 #search_widget input {
-    width: 600px !important;
-    max-width: 100%;
+	width: 600px !important;
+	max-width: 100%;
 }
 
 /* 8) Koszyk — wygląd SUCRO, ale treść z Prestashop */
 #mKoszyk {
-    display: flex !important;
-    justify-content: flex-end !important;
-    align-items: center !important;
+	display: flex !important;
+	justify-content: flex-end !important;
+	align-items: center !important;
 }
 
 /* Chowanie tekstów Presty, zostaje tylko wygląd SUCRO */
 #mKoszyk .blockcart .header span.hidden-sm-down {
-    display: none !important;
+	display: none !important;
 }
 
 /* Ikona koszyka w stylu SUCRO */
 #mKoszyk .shopping-cart {
-    font-size: 26px !important;
-    color: #fff !important;
+	font-size: 26px !important;
+	color: #fff !important;
 }
 
 /* Wyrównanie liczby produktów */
 #mKoszyk .cart-products-count {
-    font-weight: bold;
-    color: #fff !important;
-    margin-left: 5px;
+	font-weight: bold;
+	color: #fff !important;
+	margin-left: 5px;
 }
 
 /* 9) MENU SUCRO — upewniamy się, że Presta nie nadpisuje */
 #nav ul {
-    list-style: none;
-    padding: 0 !important;
-    margin: 0 !important;
+	list-style: none;
+	padding: 0 !important;
+	margin: 0 !important;
 }
 
 /* 10) Zapobieganie nachodzeniu treści na header */
-body {
-    padding-top: 180px !important;
-}
 
 /* 11) Fix marginesów podstawowych */
 #content {
-    margin-top: 20px !important;
+	margin-top: 20px !important;
 }
