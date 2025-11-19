@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 
+import elements.name as element_name
+
 def extract(page: BeautifulSoup) -> dict:
     result = {
         "category": [],
@@ -12,13 +14,6 @@ def extract(page: BeautifulSoup) -> dict:
         "images": []
         }
 
-    breadcrumb = page.find("div", class_="breadcrumb")
-    if breadcrumb:
-        for crumb in breadcrumb.find_all("a"):
-            result["category"].append(crumb.get_text().strip())
-
-    product_name = page.find("h1", class_="product-title")
-    if product_name:
-        result["name"] = product_name.get_text().strip()
+    result["name"] = element_name.getName(page)
 
     return result
