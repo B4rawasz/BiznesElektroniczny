@@ -55,7 +55,6 @@ for idx, product_link in enumerate(product_links[:1800]):
     time.sleep(delay)
 
     print(f"Processing product {idx + 1}/{len(product_links[:1800])}: {product_link}")
-
     response_product = requests.get(product_link, headers=headers)
     soup_product = BeautifulSoup(response_product.content, "html.parser")
     data = extractor.extract(soup_product)

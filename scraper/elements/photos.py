@@ -7,5 +7,6 @@ def getPhotos(page: BeautifulSoup) -> list:
         for img_tag in image_gallery.find_all("img"):
             img_url = img_tag.get("src")
             if img_url:
+                img_url = img_url.replace("_p.", ".") # pobierał pełnowymiarowe zdjęcia
                 photos.append(img_url)
     return photos
