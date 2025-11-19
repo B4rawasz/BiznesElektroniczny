@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Karty sieciowe"
+    ],
+    "id": "12207",
+    "code": "ARCHER T3U",
+    "name": "Karta sieciowa WiFi TP-LINK Archer T3U USB AC1300",
+    "price": 67.9,
+    "description": "<h2>Dwupasmowe karty sieciowe dla szybszych połączeń bezprzewodowych</h2><p>Karta sieciowa Archer T3U obsługuje połączenia bezprzewodowe w standardzie 802.11ac o 3 razy większej prędkości niż dotychczas dostępne połączenia w standardzie 802.11n. Dzięki dużym prędkościom Wi-Fi (do 867Mb/s w paśmie 5GHz i 400Mb/s w paśmie 2,4GHz) Archer T3U idealnie sprawdzi się do każdej aktywności online, od strumieniowania wideo w jakości HD, po wrażliwe na opóźnienia gry online czy codzienne przeszukiwanie sieci.</p><figure><img src=\"galerie/k/karta-sieciowa-wifi-tp-link-a_43175.jpg\"/></figure><h2>Niewielkie rozmiary – idealny wybór na podróż</h2><p>Archer T3U ma kompaktowe rozmiary i jest cieńszy od standardowej karty sieciowej. Urządzenie pasuje do każdego portu USB, jest też praktycznym wyborem w przypadku podróży - można zabrać je ze sobą wszędzie!</p><figure><img src=\"galerie/k/karta-sieciowa-wifi-tp-link-a_43172.jpg\"/></figure><h2>Superszybki port USB 3.0</h2><p>Port USB 3.0 w najnowszym standardzie połączeń USB zapewnia przesył danych o prędkości sięgającej nawet do 4,8Gb/s. USB 3.0 jest do 10 razy szybszy niż port USB 2.0, z którym jest wstecznie kompatybilny. Dzięki połączeniu USB 3.0 ze standardem Wi-Fi 802.11ac Archer T3U jest idealnym wyborem do strumieniowania wideo w jakości HD, gier online czy pobierania dużych plików.</p><h2>Zwiększona wydajność sieci z MU-MIMO</h2><p>Dzięki technologii MU-MIMO Archer T3U może wytworzyć jednocześnie dwa strumienie danych. W przypadku pracy z kompatybilnym routerem MU-MIMO, przełoży się to na większą przepustowość i wydajność całej sieci.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Porty</p><p>USB 3.0</p></li><li><p>Wymiary (S x G x W)</p><p>40,5 × 19,72 × 10,29 mm (1,59 × 0,78 × 0,41 cala)</p></li><li><p>Typ anteny</p><p>Dookólna</p></li><li><p>Standardy bezprzewodowe</p><p>IEEE 802.11ac, IEEE 802.11a,IEEE 802.11n, IEEE 802.11g, IEEE 802.11b</p></li><li><p>Częstotliwość pracy</p><p>5GHz <br/>2,4GHz</p></li><li><p>Prędkość transmisji 5GHz</p><p>11ac do 867Mb/s(dynamicznie) <br/>11n do 300Mb/s(dynamicznie) <br/>11a do 54Mb/s(dynamicznie)</p></li><li><p>Prędkość transmisji 2,4GHz</p><p>11n do 400Mb/s(dynamicznie) <br/>11g do 54Mb/s(dynamicznie) <br/>11b do 11Mb/s(dynamicznie)</p></li><li><p>Czułość odbiornika 5GHz</p><p>11a 6Mb/s -91dBm <br/>11a 54Mb/s -76dBm <br/>11n HT20-71dBm <br/>11n HT40-70dBm <br/>11ac HT20 -68dBm <br/>11ac HT40 -64dBm <br/>11ac HT80 -62dBm</p></li><li><p>Czułość odbiornika 2,4GHz</p><p>11b 11Mb/s -86dBm <br/>11g 54Mb/s -73dBm <br/>11n HT20 -71dBm <br/>11n HT40 -70dBm</p></li><li><p>EIRP</p><p>&lt;23dBm (EIRP)</p></li><li><p>Tryby pracy bezprzewodowej</p><p>Ad-Hoc / Tryb infrastruktury</p></li><li><p>Bezpieczeństwo transmisji bezprzewodowej</p><p>WEP 64/128 bit, WPA/WPA2, WPA-PSK/WPA2-PSK</p></li><li><p>Modulacja</p><p>DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM</p></li><li></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tp-link.jpg",
+    "images": [
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43174.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43173.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43172.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43175.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43174.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43173.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43172.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43175.webp"
+    ]
+}

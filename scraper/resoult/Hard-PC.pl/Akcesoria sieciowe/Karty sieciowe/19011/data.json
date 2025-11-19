@@ -1,0 +1,34 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Karty sieciowe"
+    ],
+    "id": "19011",
+    "code": "WU1300S",
+    "name": "Karta sieciowa WiFi Cudy WU1300S 2,4GHz/5GHz USB 3.0",
+    "price": 49.0,
+    "description": "<h2>Szybka karta sieciowa Wi-Fi AC1300</h2><p>Karta sieciowa Cudy WU1300S to zaawansowane urządzenie wykorzystujące technologię Wi-Fi AC1300. Zapewnia szybkie i stabilne połączenie internetowe, idealne dla wymagających użytkowników.</p><h2>Dwuzakresowa łączność</h2><p>Karta sieciowa USB pracuje w dwóch pasmach: 2,4 GHz oraz 5 GHz. Pasmo 2,4 GHz oferuje duży zasięg, a pasmo 5 GHz - wysoką prędkość do 867 Mb/s, idealną do gier i streamingu.</p><h2>Wysoka prędkość USB 3.0</h2><p>Urządzenie jest kompatybilne z systemami Windows, MAC OS i Linux, co zapewnia uniwersalność. Standard USB 3.0 gwarantuje szybką transmisję danych, nawet 10-krotnie szybszą niż w przypadku USB 2.0.</p><h2>Łatwa instalacja i bezpieczeństwo</h2><p>Karta sieciowa Cudy WU1300S jest prosta w instalacji dzięki dołączonym sterownikom. Zgodność ze standardem Home Security zapewnia dodatkowe bezpieczeństwo.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj</p><p>bezprzewodowa</p></li><li><p>Interfejs</p><p>USB</p></li><li><p>Obsługiwany standard bezprzewodowy</p><p>Wi-Fi 5 (802.11 a/b/g/n/ac)</p></li><li><p>Rodzaje wejść/wyjść</p><p>USB 3.2 Gen. 1 - 1 szt.</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz, 5 GHz</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>do 1300 Mb/s</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/cudy.jpg",
+    "images": [
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69920.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69921.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69922.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69923.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69924.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69925.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69926.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69927.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69928.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69920.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69921.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69922.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69923.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69924.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69925.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69926.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69927.webp",
+        "galerie/k/karta-sieciowa-wifi-cudy-wu13_69928.webp"
+    ]
+}

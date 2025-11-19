@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Dyski",
+        "Akcesoria"
+    ],
+    "id": "15756",
+    "code": "S1222A",
+    "name": "Stacja klonująca Unitek S1222A do dysków SATA i M.2",
+    "price": 259.99,
+    "description": "<p>Innowacyjny mostek do dysków M.2 oraz dysków SATA 2,5” i 3,5” rozwiązuje problem przenoszenia danych ze starszych dysków twardych SATA na nowe, małe dyski M.2 bez użycia pamięci komputera. Teraz możesz przenieść dane na nowy dysk jednym kliknięciem! Klonowanie offline działa w obu kierunkach: z M.2 na SATA i z SATA na M.2.</p><h2>Aluminiowa obudowa do dysku M.2</h2><p>Małe dyski M.2 montuje się wewnątrz metalowego korpusu adaptera, bez konieczności używania narzędzi. Złącze PCIe jest kompatybilne z dyskami PCIe Gen 3x2 NVMe 1.3 z interfejsem M-Key oraz B+M-Key, w trzech rozmiarach: 2242, 2260 i 2280 (42 mm, 60 mm i 80 mm długości).</p><p>Jak wiadomo, superszybkie dyski SSD M.2 znacznie nagrzewają się podczas pracy, dlatego obudowa jest wykonana z dobrze przewodzącego ciepło aluminium. Dodatkowo obudowa do dysku M.2 jest wyposażona w aluminiowy wymiennik ciepła i dwie silikonowe podkładki termiczne.</p><h2>Mostek SATA III 6 Gbps</h2><p>Uniwersalny adapter SATA obsługuje wszystkie dyski SATA III HDD oraz SSD w rozmiarach 2,5” i 3,5”. Aby zapewnić dyskom 3,5 cala odpowiednią podaż energii w zestawie znajduje się odpowiednio mocny zasilacz 12 V / 2 A. Dyski SATA również montuje się beznarzędziowo. Kiedy mostek USB-SATA nie jest w użyciu, chroni go plastikowa zaślepka.</p><h2>Szybkość USB 3.2 Gen 2</h2><p>Port USB-C w obudowie jest kompatybilny ze standardem USB 3.2 Gen 2, co umożliwia transfer danych o prędkości nawet 10 Gb na sekundę. Złącze jest wstecznie kompatybilne z poprzednimi wersjami USB. W zestawie znajduje się 30 cm przewód danych USB-C na USB-C z adapterem na USB-A.</p><p>Chipset wspiera technologię UASP (USB Attached SCSI Protocol) i instrukcje TRIM (ATA Data Set Management Command). Dzięki UASP urządzenie USB może kolejkować komendy i wykonywać kilka poleceń naraz. Zwielokrotnia to transfery odczytu i zapisu o średnio 30% w porównaniu do tradycyjnych urządzeń USB. Polecenia Trim informują dysk SSD, które bloki danych nie są już używane i pozwala na ich ponowne zapełnienie danymi. To także zwiększa wydajność dysku oraz wydłuża jego żywotność.</p><h2>Klonowanie dysków offline</h2><p>Tak jak inne stacje dokujące Unitek, S1222A oferuje opcję klonowania offline. Możliwe jest kopiowanie danych z dysków SATA 2,5/2,5\" na dysku M.2 lub odwrotnie. O postępie procesu klonowania informują diody LED na obudowie. Dysk B, na który kopiujesz dane, powinien być równy bądź większy niż dysk źródłowy. Dokładna instrukcja obsługi jest dołączona do zestawu.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Obudowa na dyski PCI-e/NVM-e:</li><li>42 mm M.2 SSD</li><li>60 mm M.2 SSD</li><li>80 mm M.2 SSD</li><li>Mostek SATA III na USB</li><li>Zasilacz 24W w zestawie, obsługa dysków 2,5 i 3,5 cala</li><li>USB3.2 Gen2 10Gbps SuperSpeed</li><li>Instrukcja obsługi do pobrania</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Obsługiwane technologie</p><p>Klonowanie dysku bez użycia komputera<br/>Plug&amp;Play<br/>Sleep Mode<br/>TRIM<br/>UASP</p></li><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>W zestawie</p><p>Przewód USB-C<br/>Zasilacz</p></li><li><p>Współpraca z systemami</p><p>Linux<br/>MacOS<br/>Windows</p></li><li><p>Włącznik / wyłącznik zasilania</p><p>tak</p></li><li><p>Zastosowanie</p><p>Transfer danych</p></li><li><p>Port USB</p><p>tak</p></li><li><p>Rodzaj urządzenia</p><p>Mostek / Stacja dokująca</p></li><li><p>Standard USB</p><p>USB 10Gbps</p></li><li><p>Waga</p><p>0.38 kg</p></li><li><p>Złącze 1</p><p>Port tulejkowy 3.5mm</p></li><li><p>Port USB-C</p></li><li><p>Interfejs dysku</p><p>NVMe<br/>PCI-E<br/>SATA</p></li><li><p>Ilość portów USB-C</p><p>1 szt</p></li><li><p>Ilość obsługiwanych dysków</p><p>2 szt</p></li><li><p>Format dysku</p><p>2.5''<br/>3.5''<br/>M.2</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/unitek.jpg",
+    "images": [
+        "galerie/s/stacja-klonujaca-unitek-s1222_56174.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56175.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56176.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56177.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56178.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56179.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56180.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56181.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56182.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56174.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56175.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56176.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56177.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56178.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56179.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56180.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56181.webp",
+        "galerie/s/stacja-klonujaca-unitek-s1222_56182.webp"
+    ]
+}

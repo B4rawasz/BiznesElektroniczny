@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Klawiatury Gamingowe",
+        "Akcesoria do klawiatur"
+    ],
+    "id": "16512",
+    "code": "GAKC-170",
+    "name": "Keycap Ducky x Hot Keys Project Ducky League - Lucky",
+    "price": 168.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rozmiar</p><p>1u</p></li><li><p>Kolor</p><p>Lucky</p></li><li><p>Materiał</p><p>Plastik</p></li><li><p>Kompatybilność</p><p>Cherry MX and compatible switches (+ stem)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/ducky.jpg",
+    "images": [
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58926.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58927.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58928.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58929.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58930.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58931.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58932.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58933.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58934.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58926.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58927.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58928.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58929.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58930.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58931.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58932.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58933.webp",
+        "galerie/k/keycap-ducky-x-hot-keys-proje_58934.webp"
+    ]
+}

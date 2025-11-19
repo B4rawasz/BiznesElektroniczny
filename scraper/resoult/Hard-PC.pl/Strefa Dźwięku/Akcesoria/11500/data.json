@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Akcesoria"
+    ],
+    "id": "11500",
+    "code": "MCABLE-XLR-FJ",
+    "name": "Kabel mikrofonowy XLR Żeński - Jack 6,35mm 3m",
+    "price": 27.9,
+    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Wtyk Jack 6.35mm to najpopularniejszy rodzaj złącza (tak zwany duży jack). Kable z wtykami Jack 6,35 mm najczęściej służą do podłączenia sprzętu z zakresu audio ze sprzętem nagłośniającym, mikserem, keybordem czy gitarą. Nadaje się również do stosowania z mikrofonami, kamerami, zasilaniem fantomowym, mikserem, wzmacniaczem mocy, głośnikach itp. Wybrana linia zbalansowana przesyła dźwięk w sposób dwukanałowy.</p><p>Przewody XLR charakteryzują się bezstratną, bez zniekształceń transmisją sygnału. Wbudowana warstwa ekranująca z czystej miedzi eliminuje zakłócenia a wbudowany rdzeń z czystej miedzi o wysokiej gęstości gwarantuje bardziej stabilną transmisję z najwyższą jakością dźwięku i niższym współczynnik zniekształceń. Wysoka reprodukcja źródła dźwięku. Mocny, trwały i gruby kabel. Solidne materiały i miękki korpus PCV mają dobrą elastyczność i wytrzymałość.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:<!-- ATRYBUTY --></h2><ul class=\"attribs\"><li>Długość: 3 m</li><li>Rdzeń z czystej miedzi</li><li>Shell: metal</li><li>Korpus: materiał PVC</li><li>Ekran: kabel z czystej miedzi</li><li>Średnica przewodu: 6 mm</li><li>Kolor czarny</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/mozos.jpg",
+    "images": [
+        "galerie/k/kabel-mikrofonowy-xlr-zenski_38814.webp",
+        "galerie/k/kabel-mikrofonowy-xlr-zenski_38815.webp",
+        "galerie/k/kabel-mikrofonowy-xlr-zenski_38816.webp",
+        "galerie/k/kabel-mikrofonowy-xlr-zenski_38817.webp",
+        "galerie/k/kabel-mikrofonowy-xlr-zenski_38814.webp",
+        "galerie/k/kabel-mikrofonowy-xlr-zenski_38815.webp",
+        "galerie/k/kabel-mikrofonowy-xlr-zenski_38816.webp",
+        "galerie/k/kabel-mikrofonowy-xlr-zenski_38817.webp"
+    ]
+}

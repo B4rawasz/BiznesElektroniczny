@@ -1,0 +1,20 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Karty dźwiękowe - Wzmacniacze DAC"
+    ],
+    "id": "12177",
+    "code": "SAVAK-01",
+    "name": "Karta dźwiękowa Savio AK-01 7.1 USB",
+    "price": 19.0,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standard</p><p>Plug&amp;Play</p></li><li><p>Wymagania systemowe</p><p>Windows XP/Vista/7/8/8.1/10 i Port USB 2.0</p></li><li><p>Cechy</p><p>Pełny 16 bitowy dupleks nagrywania i odtwarzania bez karty dźwiękowej w PC<br/>Symulacja systemu stereo 7.1<br/>Interfejs MIDI zgodny z MPU-401 MIDI UART i SoundBlaster MIDI</p></li><li><p>Interfejs USB 2.0</p><p>USB 2.0</p></li><li><p>Regulacja głośności na urządzeniu</p><p>Tak</p></li><li><p>Wejścia</p><p>mic in – mini jack 3,5mm</p></li><li><p>Wyjścia</p><p>audio out – mini jack 3,5mm</p></li><li></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/savio.jpg",
+    "images": [
+        "galerie/k/karta-dzwiekowa-savio-ak-01-7_43031.webp",
+        "galerie/k/karta-dzwiekowa-savio-ak-01-7_43032.webp",
+        "galerie/k/karta-dzwiekowa-savio-ak-01-7_43031.webp",
+        "galerie/k/karta-dzwiekowa-savio-ak-01-7_43032.webp"
+    ]
+}

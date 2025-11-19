@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenie wodne - zestawy AiO"
+    ],
+    "id": "20810",
+    "code": "ACFRE00179A",
+    "name": "Chłodzenie wodne AiO Arctic Liquid Freezer III Pro 280 Black",
+    "price": 334.9,
+    "description": "<h2>Zaawansowane chłodzenie wodne dla wymagających</h2><p>Arctic Liquid Freezer III Pro 280 to układ chłodzenia wodnego klasy premium, który łączy wysoką wydajność z przemyślanym designem. Wyposażony w masywny radiator 280 mm oraz dwa wentylatory P14 Pro, zapewnia stabilne temperatury nawet przy maksymalnym obciążeniu procesora. Dzięki dodatkowej 38-milimetrowej grubości radiatora i zoptymalizowanemu przepływowi powietrza, ten zestaw AIO z łatwością radzi sobie z procesorami najnowszej generacji, stając się idealnym rozwiązaniem dla graczy, twórców i entuzjastów overclockingu.</p><h2>Unikalne chłodzenie VRM</h2><p>Liquid Freezer III Pro 280 wyróżnia się na tle konkurencji zintegrowanym wentylatorem VRM, który znajduje się bezpośrednio na bloku wodnym. To innowacyjne rozwiązanie zapewnia dodatkowy nawiew na sekcję zasilania płyty głównej, co przekłada się na stabilniejsze działanie całej platformy. To szczególnie istotne w przypadku procesorów o wysokim poborze mocy oraz płyt głównych z zaawansowanymi układami zasilania.</p><h2>Pełna kompatybilność z Intel i AMD</h2><p>Producent zadbał o wsparcie zarówno najnowszych, jak i starszych platform. Chłodzenie jest kompatybilne z gniazdami Intel LGA1851 i LGA1700 oraz AMD AM5 i AM4. Arctic zastosował także inteligentne rozwiązania montażowe – specjalny contact frame chroniący procesory Intel przed wygięciem oraz offset montażowy dla procesorów AMD z architekturą chipletową, który poprawia odprowadzanie ciepła z hotspotu CPU.</p><h2>Cicha praca i wygodne okablowanie</h2><p>Wentylatory P14 Pro zostały zaprojektowane z myślą o wysokim ciśnieniu statycznym i niskim poziomie hałasu. Dzięki regulacji PWM mogą pracować w zakresie od 400 do 2500 rpm, zapewniając optymalne dopasowanie między ciszą a wydajnością. Dodatkowym atutem jest sprytne poprowadzenie przewodów wzdłuż węży chłodzenia – całość wygląda schludnie, a użytkownik podłącza do płyty głównej tylko jedno złącze. To rozwiązanie, które znacząco upraszcza montaż i poprawia estetykę wnętrza obudowy.</p><h2>Gotowe na lata pracy</h2><p>Arctic Liquid Freezer III Pro 280 oferuje aż 6 lat gwarancji producenta, co świadczy o wysokiej niezawodności tego zestawu. Do zestawu dołączono pastę termoprzewodzącą MX-6, znaną z doskonałej przewodności cieplnej i łatwej aplikacji. Całość zamknięto w solidnej konstrukcji, która jest gotowa sprostać wyzwaniom współczesnych komputerów do gier i pracy kreatywnej.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Model</p><p>Arctic Liquid Freezer III Pro 280 (ACFRE00179A)</p></li><li><p>Typ chłodzenia</p><p>AIO – układ chłodzenia cieczą</p></li><li><p>Kompatybilność gniazd</p><p>Intel LGA1851 / LGA1700, AMD AM5 / AM4</p></li><li><p>Radiator</p><p>Aluminiowy, 317 × 138 × 38 mm</p></li><li><p>Węże</p><p>Długość 450 mm, średnica 12,4 mm (zew.) / 6 mm (wew.)</p></li><li><p>Pompa</p><p>800–2800 rpm (PWM), miedziana podstawa</p></li><li><p>Wentylatory radiatora</p><p>2 × P14 Pro 140 mm, 400–2500 rpm, 110 CFM, 5,2 mmH₂O</p></li><li><p>Wentylator VRM</p><p>400–2500 rpm, PWM</p></li><li><p>Pasta termiczna</p><p>MX-6 (0,8 g)</p></li><li><p>Waga</p><p>1905 g (bez opakowania)</p></li><li><p>Wymiary z opakowaniem</p><p>170 × 155 × 335 mm; 2,32 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/arctic.jpg",
+    "images": [
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78343.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78344.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78345.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78346.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78347.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78348.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78343.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78344.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78345.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78346.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78347.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78348.webp"
+    ]
+}

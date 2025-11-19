@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Myszki",
+        "Myszki bezprzewodowe"
+    ],
+    "id": "16955",
+    "code": "A4TMYS47344",
+    "name": "Mysz Bezprzewodowa A4Tech G3-330NS RF (Silent)",
+    "price": 46.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li><p>Częstotliwość próbkowania</p><p>125 Hz</p></li><li><p>Sensor</p><p>Optyczny</p></li><li><p>Rozdzielczość</p><p>1200 DPI</p></li><li><p>Ilość przycisków</p><p>3</p></li><li><p>Kształt</p><p>Symmetric</p></li><li><p>Zasilanie</p><p>1 bateria/akumulator AA</p></li><li><p>Waga</p><p>83 g (z baterią)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>A4Tech</p></li><li><p>Dane producenta</p><p>A-Four Tech Co., Ltd., 6F, No. 108, Min-Chuan Rd., Hsin-Tien City, New Taipei City, Tajwan, market@a4tech.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/a4tech.jpg",
+    "images": [
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59883.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59884.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59885.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59886.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59887.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59883.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59884.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59885.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59886.webp",
+        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59887.webp"
+    ]
+}

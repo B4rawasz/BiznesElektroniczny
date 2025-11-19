@@ -1,0 +1,22 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Słuchawki nauszne/wokółuszne"
+    ],
+    "id": "5836",
+    "code": "HD668B",
+    "name": "Słuchawki Superlux HD668B",
+    "price": 149.0,
+    "description": "<p><strong>HD668B</strong> to profesjonalne półotwarte słuchawki monitorowe, których wysoka jakość dźwięku sprosta wysokim wymaganiom studia nagraniowego i zadowoli niemal każdego inżyniera dźwięku. Opatentowana, lekka, a zarazem solidna konstrukcja pałąka, zagwarantuje trwałość, oraz zapewni komfort podczas długotrwałego noszenia.Wyposażone są w dwa odpinane kable. W zależności od potrzeb i sytuacji w jakiej się znajdujemy mamy do dyspozycji kabel 1m i 3m.W zestawie znajdziemy również klips zabezpieczający przed niekontrolowanym wysunięciem się wtyczek.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Typ: półotwarte, dynamiczne</li><li>Pasmo przenoszenia: 10 Hz – 30 kHz</li><li>Impedancja: 56 Ohm</li><li>Max. SPL: 98 dB</li><li>Moc: 300 mW</li><li>Waga: 222 g</li><li>Przewód: 1m + 3m</li><li>Złącze: stereo mini-jack 1/8\" + redukcja na stereo jack 1/4\"</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Superlux</p></li><li><p>Dane producenta</p><p>Goang-Fann Co., Ltd, 3F #7 Alley 2 Lane 342 Fu-Der 1st Rd, Hsichih Taipei Taiwan R. O. C. sales@superlux.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Arcade Audio Sp. z o.o., Ul. Galicyjska, 2 32-091 Michalowice, info@arcadeaudio.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/superlux.jpg",
+    "images": [
+        "galerie/s/sluchawki-superlux-hd668_10938.webp",
+        "galerie/s/sluchawki-superlux-hd668_10940.webp",
+        "galerie/s/sluchawki-superlux-hd668_10941.webp",
+        "galerie/s/sluchawki-superlux-hd668_10938.webp",
+        "galerie/s/sluchawki-superlux-hd668_10940.webp",
+        "galerie/s/sluchawki-superlux-hd668_10941.webp"
+    ]
+}

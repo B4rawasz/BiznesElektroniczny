@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Myszki",
+        "Akcesoria do myszek"
+    ],
+    "id": "15716",
+    "code": "LAMZU-4K-Reciever",
+    "name": "Adapter Odbiornik Lamzu Atlantis 4K 4000Hz USB Receiver Atlantis",
+    "price": 69.0,
+    "description": "<p>Odbiornik Lamzu Atlantis 4K pozwala na zwiększenie częstotliwości próbkowania myszek Lamzu Atlantis Pro, co pozwala na przesłanie do komputera czterokrotnie więcej danych w ciągu jednej milisekundy. Ma to niebagatelny wpływ na szybkość i precyzję w odwzorowaniu ruchów myszką.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Częstotliwość próbkowania</p><p>4000Hz</p></li><li><p>Kompatybilność</p><p>Lamzu Atlantis OG V2 Pro / Lamzu Atlantis Mini Pro</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Shenzhen Lamzu Electronic Technology Co., Ltd., RM 209, Building B, ChuangJing Yi Hao, No. 125, ChuangYe ER Road, Block 28, Baoan District, Shenzhen, China, service@lamzu.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Hard-Pc.pl Sp. z o.o., ul. Długa 6, 24-300 Opole lubelskie, info@hard-pc.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/lamzu.jpg",
+    "images": [
+        "galerie/a/adapter-lamzu-atlantis-4k-400_56060.webp",
+        "galerie/a/adapter-lamzu-atlantis-4k-400_56061.webp",
+        "galerie/a/adapter-lamzu-atlantis-4k-400_56062.webp",
+        "galerie/a/adapter-lamzu-atlantis-4k-400_56060.webp",
+        "galerie/a/adapter-lamzu-atlantis-4k-400_56061.webp",
+        "galerie/a/adapter-lamzu-atlantis-4k-400_56062.webp"
+    ]
+}

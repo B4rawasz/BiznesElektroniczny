@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenie wodne - zestawy AiO"
+    ],
+    "id": "20812",
+    "code": "ACFRE00181A",
+    "name": "Chłodzenie wodne AiO Arctic Liquid Freezer III Pro 420 Black",
+    "price": 439.0,
+    "description": "<h2>Maksymalna wydajność chłodzenia dla topowych CPU</h2><p>Arctic Liquid Freezer III Pro 420 to układ AIO zaprojektowany pod wysokie TDP i długotrwałe obciążenia. Masywny radiator 420 mm o grubości 38 mm oraz trzy wentylatory P14 Pro zapewniają szybkie odprowadzanie ciepła i stabilne temperatury nawet w konfiguracjach z Core i9 czy Ryzen 9. To wybór dla użytkowników, którzy stawiają na realną wydajność zamiast gadżetów — liczy się powierzchnia wymiany ciepła, wysoki nacisk statyczny i sprawna regulacja PWM.</p><h2>Zintegrowany nawiew na VRM = stabilniejsza płyta</h2><p>W bloku pompy znalazł się dodatkowy, sterowany PWM wentylator VRM. Obniża on temperatury sekcji zasilania płyty głównej, co przekłada się na stabilność pod obciążeniem i w pracy ciągłej. Przy renderach, kompilacjach czy streamingu ten zapas bezpieczeństwa ma znaczenie — spada ryzyko throttlingu, a kultura pracy pozostaje przewidywalna.</p><h2>Bezpieczny i skuteczny montaż na Intel i AMD</h2><p>Zestaw wspiera gniazda Intel LGA1851/LGA1700 oraz AMD AM5/AM4. Arctic dorzuca **Intel Contact Frame**, który wyrównuje docisk i ogranicza ryzyko wygięcia CPU przez ILM. Dodatkowo zastosowano przesunięcie (offset) cold-plate’u względem hotspotu, aby lepiej odbierać ciepło z nowoczesnych układów chipletowych. W praktyce: łatwiejszy montaż, równy kontakt i niższe temperatury.</p><h2>Gruby radiator i nowe P14 Pro</h2><p>Radiator klasy „premium” ma 38 mm grubości, dzięki czemu mieści więcej cieczy i lepiej tłumi skoki temperatur. Trzy 140-milimetrowe P14 Pro pracują w szerokim zakresie 400–2500 rpm, oferując do 110 cfm przepływu i nacisk statyczny do 5,2 mmH₂O. W połączeniu z miedzianą podstawą z micro-skived fins daje to bardzo dobrą charakterystykę przepływu i szybkie zbijanie temperatur pod obciążeniem.</p><h2>Porządek w okablowaniu i długa elastyczna instalacja</h2><p>Przewody wentylatorów są zintegrowane w oplotach węży, więc w obudowie jest czysto i przejrzyście. Możesz wybrać podłączenie „All-in-One” jednym wtykiem 4-pin PWM albo tryb rozdzielony na trzy osobne złącza 4-pin dla niezależnego sterowania. 500-milimetrowe węże ułatwiają montaż w większych obudowach i niestandardowych układach przepływu.</p><h2>Trwałość i komplet w pudełku</h2><p>Pompa sterowana PWM (800–2800 rpm), łożyskowanie FDB w wentylatorach i solidne materiały przekładają się na długą żywotność. W zestawie jest pasta termiczna MX-6 (0,8 g), więc niczego nie musisz dokupować. Producent daje 6 lat gwarancji, co dobrze oddaje pewność co do jakości tej serii.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Model</p><p>Arctic Liquid Freezer III Pro 420 (ACFRE00181A)</p></li><li><p>Typ chłodzenia</p><p>AIO – chłodzenie cieczą, bez podświetlenia</p></li><li><p>Kompatybilność gniazd</p><p>Intel LGA1851 / LGA1700; AMD AM5 / AM4</p></li><li><p>Radiator</p><p>Aluminium, 458 × 138 × 38 mm</p></li><li><p>Wentylatory radiatora</p><p>3 × P14 Pro 140 mm, 400–2500 rpm, do 110 cfm (186 m³/h), do 5,2 mmH₂O, łożysko FDB, 4-pin PWM</p></li><li><p>Wentylator VRM</p><p>400–2500 rpm (PWM), 0,05 A / 12 V DC</p></li><li><p>Pompa</p><p>800–2800 rpm (PWM), 0,35 A / 12 V DC; podstawa miedziana, micro-skived fins</p></li><li><p>Okablowanie</p><p>Tryb All-in-One: 1 × 4-pin PWM; tryb rozdzielony: 3 × 4-pin PWM</p></li><li><p>Węże</p><p>Długość 500 mm; średnica: zewn. 12,4 mm / wewn. 6,0 mm; oplot</p></li><li><p>Pasta termiczna</p><p>MX-6 (0,8 g) w zestawie</p></li><li><p>Temperatura pracy otoczenia</p><p>0–40 °C</p></li><li><p>Waga</p><p>2370 g (zestaw); 2994 g brutto (pudełko)</p></li><li><p>Wymiary opakowania</p><p>447 × 328 × 158 mm</p></li><li><p>Kolor</p><p>Czarny</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/arctic.jpg",
+    "images": [
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78349.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78350.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78351.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78352.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78353.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78354.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78349.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78350.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78351.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78352.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78353.webp",
+        "galerie/c/chlodzenie-wodne-aio-arctic-l_78354.webp"
+    ]
+}

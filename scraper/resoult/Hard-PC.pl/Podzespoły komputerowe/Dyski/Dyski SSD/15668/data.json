@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Dyski",
+        "Dyski SSD"
+    ],
+    "id": "15668",
+    "code": "S78-440K160-P83",
+    "name": "Dysk SSD MSI Spatium M371 500GB M.2 PCIe NVMe",
+    "price": 115.0,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pojemność</p><p>500GB</p></li><li><p>Kontroler</p><p>PHISON E13T</p></li><li><p>Kości pamięci</p><p>3D NAND</p></li><li><p>Standard</p><p>M.2 2280</p></li><li><p>Interfejs</p><p>PCIe Gen3x4, NVMe 1.3</p></li><li><p>Kompatybilność</p><p>PCIe Gen3 / Gen2 / Gen1</p></li><li><p>Wymiary</p><p>80.00mm (L) x 22.00mm (W) x 2.15mm (H)</p></li><li><p>Odczyt sekwencyjny</p><p>do 2200 MB/s</p></li><li><p>Zapis sekwencyjny</p><p>do 1150MB/s</p></li><li><p>Odczyt losowy 4KB</p><p>60 000 IOPS</p></li><li><p>Zapis losowy 4KB</p><p>200 000 IOPS</p></li><li><p>TBW</p><p>110</p></li><li><p>MTBF</p><p>1 5000 000godzin</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/msi.jpg",
+    "images": [
+        "galerie/d/dysk-ssd-msi-spatium-m371-500_55692.webp",
+        "galerie/d/dysk-ssd-msi-spatium-m371-500_55693.webp",
+        "galerie/d/dysk-ssd-msi-spatium-m371-500_55694.webp",
+        "galerie/d/dysk-ssd-msi-spatium-m371-500_55695.webp",
+        "galerie/d/dysk-ssd-msi-spatium-m371-500_55692.webp",
+        "galerie/d/dysk-ssd-msi-spatium-m371-500_55693.webp",
+        "galerie/d/dysk-ssd-msi-spatium-m371-500_55694.webp",
+        "galerie/d/dysk-ssd-msi-spatium-m371-500_55695.webp"
+    ]
+}

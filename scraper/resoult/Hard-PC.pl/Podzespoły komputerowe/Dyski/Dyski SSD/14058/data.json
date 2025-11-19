@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Dyski",
+        "Dyski SSD"
+    ],
+    "id": "14058",
+    "code": "LNM620X512G-RNNNG",
+    "name": "Dysk SSD Lexar NM620 512GB NVMe M.2 2280 3300/2400MB/s",
+    "price": 144.9,
+    "description": "<p>Lexar NM620 M.2 2280 PCIe Gen3x4 NVMe stworzono z myślą o intensywnym użytkowaniu. Dzięki zastosowanym technologiom osiąga on wysoką przepustowość zapisu i odczytu jednocześnie pozwalając na uniknięciu spowolnienia w sytuacji transferu uszkodzonych plików.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Model</p><p>NM620</p></li><li><p>Typ dysku</p><p>SSD</p></li><li><p>Format szerokości</p><p>M.2 2280</p></li><li><p>Typ napędu</p><p>Wewnętrzny</p></li><li><p>Pojemność dysku</p><p>512 GB</p></li><li><p>Interfejs dysku</p><p>PCI-Express</p></li><li><p>TBW</p><p>250 TB</p></li><li><p>Prędkość odczytu</p><p>3300 MB/s</p></li><li><p>Prędkość zapisu</p><p>2400 MB/s</p></li><li><p>Ilość operacji odczytu IOPS (maks.)</p><p>200 K</p></li><li><p>Ilość operacji zapisu IOPS (maks.)</p><p>256 K</p></li><li><p>Kolor</p><p>Nie dotyczy</p></li><li><p>Wysokość</p><p>2.45 mm</p></li><li><p>Szerokość</p><p>22 mm</p></li><li><p>Głębokość</p><p>80 mm</p></li><li><p>Waga</p><p>9 g</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lexuar</p></li><li><p>Dane producenta</p><p>Lexar Europe B.V, Grevelingstraat 40, 2161WG Lisse, Netherlands, nfo-europe@lexar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/lexar.jpg",
+    "images": [
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50422.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50423.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50424.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50425.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50427.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50426.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50422.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50423.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50424.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50425.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50427.webp",
+        "galerie/d/dysk-ssd-lexar-nm620-512gb-nv_50426.webp"
+    ]
+}

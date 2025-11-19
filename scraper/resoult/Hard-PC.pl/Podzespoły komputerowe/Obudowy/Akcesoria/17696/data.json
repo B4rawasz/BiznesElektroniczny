@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Akcesoria"
+    ],
+    "id": "17696",
+    "code": "LULS-366",
+    "name": "HUB ARGB DeepCool SC700 – 12 portów",
+    "price": 36.9,
+    "description": "<p>W przypadku połączeń ARGB czasami może być dość ciasno. Dzięki DeepCool Twoje zmartwienia rozpłyną się w powietrzu. Za pomocą tego koncentratora ARGB możesz podłączyć wszystkie kolorowe wentylatory lub paski LED z indywidualnie adresowalnymi diodami LED. Można do niego podłączyć maksymalnie 12 komponentów RGB . Hub ten jest zasilany poprzez złącze SATA. Podłącza się go do płyty głównej za pomocą dołączonego 3-pinowego kabla ARGB , którego oprogramowanie umożliwia sterowanie oświetleniem.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ kontrolera</p><p>ARGB</p></li><li><p>Złącza wewnętrzne</p><p>ARGB (3-pin) - 12 szt<br/>Złącze zasilania SATA 15pin</p></li><li><p>Szerokość</p><p>45 mm</p></li><li><p>głębokość</p><p>84 mm</p></li><li><p>Wysokość</p><p>15 mm</p></li><li><p>Waga</p><p>38 gr</p></li><li><p>kolor</p><p>Czarny</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/h/hub-argb-deepcool-sc700-12-po_65979.webp",
+        "galerie/h/hub-argb-deepcool-sc700-12-po_65980.webp",
+        "galerie/h/hub-argb-deepcool-sc700-12-po_65981.webp",
+        "galerie/h/hub-argb-deepcool-sc700-12-po_65979.webp",
+        "galerie/h/hub-argb-deepcool-sc700-12-po_65980.webp",
+        "galerie/h/hub-argb-deepcool-sc700-12-po_65981.webp"
+    ]
+}

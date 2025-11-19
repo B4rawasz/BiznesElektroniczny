@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "17335",
+    "code": "LGA1700",
+    "name": "Chłodzenie Intel BOX Laminar RM1 LGA 1700",
+    "price": 9.9,
+    "description": "<p>Chłodzenia są nowe, nie używane. Pochodzą z demontażu wersji BOXowych procesorów. Pakowane w jednostkowy kartonik.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li><p>Producent</p><p>Intel</p></li><li><p>Połączenie</p><p>4-pin PWM</p></li><li><p>Gniazdo</p><p>LGA1700</p></li></ul></article>",
+    "security_data": "",
+    "manufacturer_img": "galerie/c/chlodzenie-intel-box-oem-lga_61967_p.webp",
+    "images": [
+        "galerie/c/chlodzenie-intel-box-oem-lga_61967.webp",
+        "galerie/c/chlodzenie-intel-box-oem-lga_61967.webp"
+    ]
+}

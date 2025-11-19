@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Akcesoria"
+    ],
+    "id": "11592",
+    "code": "GEPH-093",
+    "name": "Klatka do montażu dysków 2x 3,5 cala Phanteks",
+    "price": 41.9,
+    "description": "OPIS <p>Klatka do montażu dysków 2x 3.5 cala do obudów Phanteks</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Kolor</p><p>czarny</p></li><li><p>Przeznaczenie</p><p>Obudowy Phanteks Evolv X</p></li><li><p>Najważniejsze cechy</p><p>umożliwia monta dodatkoweych dysków 3.5\" w kompatybolnych obudowach</p></li><li></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/phanteks.jpg",
+    "images": [
+        "galerie/k/klatka-do-montazu-dyskow-2x-3_39363.webp",
+        "galerie/k/klatka-do-montazu-dyskow-2x-3_39364.webp",
+        "galerie/k/klatka-do-montazu-dyskow-2x-3_39365.webp",
+        "galerie/k/klatka-do-montazu-dyskow-2x-3_39366.webp",
+        "galerie/k/klatka-do-montazu-dyskow-2x-3_39363.webp",
+        "galerie/k/klatka-do-montazu-dyskow-2x-3_39364.webp",
+        "galerie/k/klatka-do-montazu-dyskow-2x-3_39365.webp",
+        "galerie/k/klatka-do-montazu-dyskow-2x-3_39366.webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Akcesoria dla streamera"
+    ],
+    "id": "10800",
+    "code": "NGM-1407",
+    "name": "Mikrofon Genesis Radium 100",
+    "price": 86.9,
+    "description": "<p>Mikrofon to ważne akcesorium w każdej rozgrywce online, która wymaga gry zespołowej i dobrej komunikacji. Nie każde słuchawki dla graczy mają dobrej jakości mikrofon, a coraz częściej gracze wybierają słuchawki bez wbudowanego mikrofonu na rzecz innych parametrów. Mikrofon Genesis Radium 100 zaspokoi wszelkie podstawowe potrzeby w zakresie rozgrywki czy nagrywania audio i video. Niewielki rozmiar, przycisk wyciszenia, łatwa instalacja i dobre parametry to jego główne zalety.</p><p><strong>Mikrofon Radium 100</strong> działa na zasadzie Plug&amp;Play, czyli nie wymaga konfiguracji ani instalacji. Giętkie ramię, możliwość podłączenia słuchawek do wejścia mini Jack 3,5mm oraz specjalny przycisk wyciszenia (MUTE) sprawiają, że Radium 100 jest dobrym rozwiązanie zarówno dla graczy jak i dla streamerów. Warto też dodać, że mikrofon podłączany jest na USB, co również zwiększa jego uniwersalny charakter.</p><p>Charakterystykę mikrofonu można określić, jako wszechkierunkową, czyli odbiera on w podobny sposób dźwięki ze wszystkich kierunków. Znacznie ułatwia to ustawienie mikrofonu, ponieważ nie wymaga precyzyjnego ustawienia na wprost użytkownika. Gracz może, zatem swobodnie mówić w trakcie gry nawet, gdy poniosą go emocje.</p><p>Długi półtorametrowy kabel w czarno czerwonym oplocie oraz efektowne podświetlenie LED, dodają mikrofonowi charakteru, dzięki czemu będzie się on z dumą prezentował na każdym biurku. Podświetlenie ma jeszcze jedną pożyteczną funkcję, w czasie, gdy mikrofon jest wyciszony jest ono wygaszone – dzięki temu gracz dobrze wie, kiedy mikrofon jest aktywny a kiedy nie.</p><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><li>Typ mikrofonu: Dynamiczny</li><li>Odbiór dźwięku: Dookólny</li><li>Podświetlenie: Tak</li><li>Czułość mikrofonu: 30 dB</li><li>Pasmo przenoszenia mikrofonu: 50 - 16000 Hz</li><li>Złącza: USB 2.0</li><li>Długość przewodu: 150 cm</li><li>Komunikacja: Przewodowa</li><li>Kolor: Czarny-Czerwony</li><li>Impedancja: 2 200 Ohm</li><li>Gwarancja: 24 miesiace</li></ul>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Genesis</p></li><li><p>Dane producenta</p><p>Impakt S.A., ul. Stanisława Lema 16, 62-050 Mosina, Polska, info@impakt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/genesis.jpg",
+    "images": [
+        "galerie/m/mikrofon-genesis-radium-100-1_34860.webp",
+        "galerie/m/mikrofon-genesis-radium-100-2_34861.webp",
+        "galerie/m/mikrofon-genesis-radium-100-3_34862.webp",
+        "galerie/m/mikrofon-genesis-radium-100-4_34863.webp",
+        "galerie/m/mikrofon-genesis-radium-100-5_34864.webp",
+        "galerie/m/mikrofon-genesis-radium-100-6_34865.webp",
+        "galerie/m/mikrofon-genesis-radium-100-7_34866.webp",
+        "galerie/m/mikrofon-genesis-radium-100-1_34860.webp",
+        "galerie/m/mikrofon-genesis-radium-100-2_34861.webp",
+        "galerie/m/mikrofon-genesis-radium-100-3_34862.webp",
+        "galerie/m/mikrofon-genesis-radium-100-4_34863.webp",
+        "galerie/m/mikrofon-genesis-radium-100-5_34864.webp",
+        "galerie/m/mikrofon-genesis-radium-100-6_34865.webp",
+        "galerie/m/mikrofon-genesis-radium-100-7_34866.webp"
+    ]
+}

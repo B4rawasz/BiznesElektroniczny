@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Klawiatury Gamingowe",
+        "Akcesoria do klawiatur"
+    ],
+    "id": "16551",
+    "code": "GAKC-464",
+    "name": "Keycap Ducky x Hotkeys Ducky League Lucky (Dark Edition)",
+    "price": 170.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rozmiar</p><p>1u</p></li><li><p>Kolor</p><p>Lucky (Dark Edition)</p></li><li><p>Materiał</p><p>Plastik</p></li><li><p>Kompatybilność</p><p>Cherry MX and compatible switches (+ stem)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/ducky.jpg",
+    "images": [
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59123.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59124.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59125.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59126.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59127.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59128.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59129.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59130.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59131.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59132.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59123.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59124.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59125.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59126.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59127.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59128.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59129.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59130.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59131.webp",
+        "galerie/k/keycap-ducky-x-hotkeys-ducky_59132.webp"
+    ]
+}

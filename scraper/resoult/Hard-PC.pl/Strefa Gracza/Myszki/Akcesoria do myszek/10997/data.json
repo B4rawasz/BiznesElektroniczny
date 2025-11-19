@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Myszki",
+        "Akcesoria do myszek"
+    ],
+    "id": "10997",
+    "code": "GAZU-631",
+    "name": "Mouse Bungee Endgame Gear MB1 Black",
+    "price": 79.0,
+    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p><strong>Mouse Bungee Endgame Gear MB1</strong> to uniwersalny <strong>uchwyt na kabel</strong>, dzięki któremu możesz mieć pewność, że przewód myszki nie będzie ograniczał ruchu podczas gry.</p><p>Zapewne znasz to uczucie, gdy w nerwowym momencie rozgrywki musisz wykonać dynamiczny zwrot, ale niestety nie możesz, gdyż kabel zahacza o coś na biurku. Innym razem potrzebujesz maksymalnej precyzji, ale ten sam kabel okazuje się dodatkowym obciążeniem, którego nie przewidziałeś. Mouse Bungee to idealne rozwiązanie nie tylko dla graczy, ale również dla grafików. Sprawdza się wszędzie tam, gdzie niezbędna jest dokładność czy szybkość. Wystarczy zamocować kabel w uchwycie pozostawiając sobie jego odpowiednią do własnych potrzeb długość oraz ustawić wysokość ramienia i możesz cieszyć się możliwością wykonywania nieskrępowanych ruchów.</p><p>Edgame Gear XM1 charakteryzuje się prostą stylistyką, charakterystyczną dla wszystkich produktów tej marki. Stonowany wygląd sprawia, że XM1 wpasuje się w każde stanowisko.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 72 x 115 x 95</li><li>Waga: 260g</li><li>Materiał: Plastik, guma, metal</li><li>Kolor: Czarno-Biały</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Endgame Gear</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/endgame-gear.jpg",
+    "images": [
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35861.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35862.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35863.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35864.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35865.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35866.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35867.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35861.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35862.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35863.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35864.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35865.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35866.webp",
+        "galerie/m/mouse-bungee-endgame-gear-mb1_35867.webp"
+    ]
+}

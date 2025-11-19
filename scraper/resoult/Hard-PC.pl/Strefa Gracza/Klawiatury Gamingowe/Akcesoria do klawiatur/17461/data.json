@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Klawiatury Gamingowe",
+        "Akcesoria do klawiatur"
+    ],
+    "id": "17461",
+    "code": "GAKC-404",
+    "name": "Kecyap Fnatic Artisan Loeya Blue",
+    "price": 111.9,
+    "description": "<p>Keycap Fnatic Artisan Loeya nadaje Twojej klawiaturze artystyczny akcent. Grafika przedstawia kota rasy Scottish Fold trzymającego mysz i klawiaturę.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Żywica</p></li><li><p>Rozmiar</p><p>1U</p></li><li><p>Kompatybilność</p><p>Cherry MX Stem</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fnatic</p></li><li><p>Dane producenta</p><p>Fnatic Gear Ltd, 1 Kingsland Passage, E8 2BB London, UK, shop@fnatic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/fnatic.jpg",
+    "images": [
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63736.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63737.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63738.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63739.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63740.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63741.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63736.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63737.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63738.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63739.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63740.webp",
+        "galerie/k/kecyap-fnatic-artisan-loeya-b_63741.webp"
+    ]
+}
