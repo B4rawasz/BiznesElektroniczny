@@ -1,5 +1,5 @@
 import json
-from random import random
+import random
 import time
 from bs4 import BeautifulSoup
 import requests
@@ -40,11 +40,11 @@ with open("product_links.txt", "w", encoding="utf-8") as file:
 
 #data = extractor.extract(soup_product)
 
-for idx, product_link in enumerate(product_links):
+for idx, product_link in enumerate(product_links[:1800]):
     delay = random.uniform(2, 4)
     time.sleep(delay)
 
-    print(f"Processing product {idx + 1}/{len(product_links)}: {product_link}")
+    print(f"Processing product {idx + 1}/{len(product_links[:1800])}: {product_link}")
 
     response_product = requests.get(product_link, headers=headers)
     soup_product = BeautifulSoup(response_product.content, "html.parser")
@@ -55,7 +55,7 @@ for idx, product_link in enumerate(product_links):
     for category in data['category']:
         category_path = category_path / category
         category_path.mkdir(exist_ok=True)
-    file_path = category_path / data["name"]
+    file_path = category_path / data["id"]
     file_path.mkdir(exist_ok=True)
 
     with open(file_path / "data.json", "w", encoding="utf-8") as file:
