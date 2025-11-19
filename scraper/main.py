@@ -1,5 +1,6 @@
 import json
 import random
+import re
 import time
 from bs4 import BeautifulSoup
 import requests
@@ -19,6 +20,15 @@ DATA_PATH.mkdir(exist_ok=True)
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
+
+def sanitize_folder_name(name):
+    """Remove or replace invalid characters for Windows folder names"""
+    # Replace invalid characters with underscore
+    invalid_chars = r'[<>:"/\\|?*]'
+    sanitized = re.sub(invalid_chars, '_', name)
+    # Remove trailing dots and spaces
+    sanitized = sanitized.rstrip('. ')
+    return sanitized
 
 response = requests.get(base_url + site_map, headers=headers)
 soup = BeautifulSoup(response.content, "html.parser")
@@ -53,7 +63,8 @@ for idx, product_link in enumerate(product_links[:1800]):
     #from data[category] list make folder structure
     category_path = DATA_PATH
     for category in data['category']:
-        category_path = category_path / category
+        sanitized_category = sanitize_folder_name(category)
+        category_path = category_path / sanitized_category
         category_path.mkdir(exist_ok=True)
     file_path = category_path / data["id"]
     file_path.mkdir(exist_ok=True)
