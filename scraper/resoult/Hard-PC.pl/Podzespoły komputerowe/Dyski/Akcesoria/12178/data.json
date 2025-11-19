@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Dyski",
+        "Akcesoria"
+    ],
+    "id": "12178",
+    "code": "AK-43",
+    "name": "Nagrywarka zewnętrzna Savio AK-43 Slim CD/DVD R/RW-USB",
+    "price": 74.9,
+    "description": "<p>Zewnętrzna nagrywarka typu SLIM CD/DVD R/RW – USB jest to zewnętrzny napęd optyczny z interfejsem USB 2.0, który umożliwia odtwarzanie i nagrywanie nośników CD/DVD z prędkościami do 24x w przypadku płyt CD oraz do 8x dla płyt DVD.</p><p>To kompaktowe urządzenie jest doskonałym wyborem dla użytkowników komputerów osobistych typu notebook, ultrabook oraz innego sprzętu, który nie jest wyposażony w nagrywarkę płyt CD/DVD. Napęd jest zasilany poprzez port USB, dodatkowo jest to urządzenie typu Plug &amp; Play, kompatybilne z systemami Windows oraz MacOS.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Zapis</p><p>Zapis DVD+/-R, DVD +/-RW: 8 x<br/>Zapis DVD+/-R DL, DVD +/-RW DL: 6 x<br/>Zapis DVD-RAM: 5x<br/>Zapis DVD-Video: 4x<br/>Zapis CD-R, CD-RW, CD-DA: 24 x</p></li><li><p>Odczyt</p><p>Odczyt DVD-ROM, DVD+/-R, DVD +/-RW, DVD M-DISC: 8 x<br/>Odczyt DVD-RAM: 6 x<br/>Odczyt DVD-Video: 4x<br/>Odczyt CD-R, CD-RW, CD-DA: 24 x</p></li><li><p>Interfejs</p><p>USB 2.0</p></li><li><p>Zawartość zestawu:</p><p>Zewnętrzna nagrywarka CD/DVD R/RW – USB<br/>Kabel USB B – USB<br/>Kabel zasilający 5V – USB<br/>Instrukcja obsługi</p></li><li></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/savio.jpg",
+    "images": [
+        "galerie/n/nagrywarka-zewnetrzna-savio-a_43033.webp",
+        "galerie/n/nagrywarka-zewnetrzna-savio-a_43034.webp",
+        "galerie/n/nagrywarka-zewnetrzna-savio-a_43035.webp",
+        "galerie/n/nagrywarka-zewnetrzna-savio-a_43036.webp",
+        "galerie/n/nagrywarka-zewnetrzna-savio-a_43033.webp",
+        "galerie/n/nagrywarka-zewnetrzna-savio-a_43034.webp",
+        "galerie/n/nagrywarka-zewnetrzna-savio-a_43035.webp",
+        "galerie/n/nagrywarka-zewnetrzna-savio-a_43036.webp"
+    ]
+}

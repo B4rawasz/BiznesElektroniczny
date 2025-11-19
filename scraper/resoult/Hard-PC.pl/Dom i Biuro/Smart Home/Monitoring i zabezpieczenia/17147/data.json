@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Monitoring i zabezpieczenia"
+    ],
+    "id": "17147",
+    "code": "TSL-SEN-DOOR",
+    "name": "Tesla Smart Czujnik otwarcia okien i drzwi",
+    "price": 79.99,
+    "description": "<h2>Inteligentny czujnik do okien i drzwi</h2><p>Niezależnie od tego, czy jedziemy na wakacje, w podróż służbową, czy po prostu na zwykłe zakupy czujnik będzie monitorował, czy Twój dom jest bezpieczny. Rozmiary sprawiają, że urządzenie jest dyskretne, a ty będziesz mógł podróżować spokojnie.</p><h2>Stylowy design i praktyczne użytkowanie</h2><p>Urządzenia TESLA Smart mogą zachwycić nie tylko designem. Imponujący jest również czas działania na baterii, który wynosi nawet dwa lata. Ponadto czujniki powiadomią Cię o konieczności wymiany baterii.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy wykorzystującej protokół ZigBee, za pomocą którego urządzenia komunikują się ze sobą. Do prawidłowego funkcjonowania tych produktów niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wykryje podwyższoną wilgotność, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><h2>Powiadomienia na Twój smartfon i tablet</h2><p>TESLA Inteligentny czujnik do okien i drzwi wykorzystuje protokół ZigBee, który łączy inteligentne urządzenia w domu. W ten sposób nie przegapisz niczego, co dzieje się w domu. Każdy ruch okien lub drzwi zostanie zarejestrowany przez czujniki, a aplikacja powiadomi cię o tym bezpośrednio na smartfonie lub tablecie. Instalacja aplikacji zajmuje tylko kilka minut, a jej użytkowanie jest intuicyjne i proste.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>168 szt</p></li><li><p>Wysokość:</p><p>1.1 cm</p></li><li><p>Szerokość:</p><p>4.93 cm</p></li><li><p>Głębokość:</p><p>3.63 cm</p></li><li><p>Waga:</p><p>0.016 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-czujnik-otwarcia_63566.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63567.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63568.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63569.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63570.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63566.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63567.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63568.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63569.webp",
+        "galerie/t/tesla-smart-czujnik-otwarcia_63570.webp"
+    ]
+}

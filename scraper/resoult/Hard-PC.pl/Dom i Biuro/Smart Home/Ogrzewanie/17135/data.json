@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Ogrzewanie"
+    ],
+    "id": "17135",
+    "code": "TSL-TRV-GS361A",
+    "name": "Tesla Smart  Głowica termostatyczna Valve Style",
+    "price": 249.0,
+    "description": "<h2>Oszczędności i wygoda</h2><p>Dzięki wykrywaniu otwartych okien lub trybowi eco inteligentny zawór termostatyczny obniży koszty ogrzewania w Twoim domu nawet o 30%. Sterujesz nim za pomocą aplikacji mobilnej, która jest dostępna w języku polskim na systemy iOS i Android i oferuje wygodny tryb automatyczny.</p><h2>Łatwe sterowanie dla każdego</h2><p>Każdy może sterować zaworem termostatycznym. Dzięki wysokiemu kontrastowi wyświetlacz jest czytelny i podobnie jak w klasycznej głowicy temperaturę ustawiasz, obracając go. Następnie naciskając przycisk, możesz przełączać się między poszczególnymi funkcjami.</p><h2>Zmniejsza koszty ogrzewania</h2><p>Dzięki głowicy termostatycznej podczas ogrzewania zużywasz tylko tyle energii, ile naprawdę potrzebujesz. Na przykład w przypadku nagłego spadku temperatury w pomieszczeniu zawór rozpoznaje, że masz otwarte okno i odpowiednio reguluje ogrzewanie. W ten sposób oszczędzasz pieniądze, nie rezygnując z własnego komfortu.</p><h2>Inteligentny pomocnik dla Twojego komfortu</h2><p>Dla maksymalnej wygody udostępnij dane lokalizacji telefonu komórkowego. Gdy tylko zbliżysz się do domu, system automatycznie włączy ogrzewanie, a kiedy znowu go opuścisz, ogrzewanie wyłączy się lub zmniejszy swoją moc.</p><h2>TESLA Smart Thermostatic Valve Style</h2><p>Głowica termostatyczna jest wyposażona w kilka trybów, które regulują ogrzewanie w zależności od sytuacji.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy korzystającej z protokołu ZigBee, za pomocą którego produkty komunikują się ze sobą. Do ich prawidłowego funkcjonowania niezbędne jest posiadanie jednostki centralnej TESLA Smart ZigBee Hub. W ten sposób stworzysz wspólną sieć dla wszystkich inteligentnych produktów i umożliwisz im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wartość, automatycznie powiadomi osuszacz powietrza, który się uruchomi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>25 szt</p></li><li><p>Wysokość:</p><p>5.7 cm</p></li><li><p>Szerokość:</p><p>8.9 cm</p></li><li><p>Głębokość:</p><p>5.7 cm</p></li><li><p>Waga:</p><p>0.224 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-glowica-termostat_63827.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63828.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63829.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63830.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63831.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63832.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63833.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63827.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63828.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63829.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63830.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63831.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63832.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63833.webp"
+    ]
+}

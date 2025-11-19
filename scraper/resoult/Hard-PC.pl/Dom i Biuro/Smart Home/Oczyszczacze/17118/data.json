@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Oczyszczacze"
+    ],
+    "id": "17118",
+    "code": "TSL-AC-3006HEPA13-AC",
+    "name": "Tesla Filtr HEPA do oczyszczacza Smart Pro L",
+    "price": 179.0,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>16 szt</p></li><li><p>Wysokość:</p><p>3 cm</p></li><li><p>Szerokość:</p><p>39 cm</p></li><li><p>Głębokość:</p><p>28 cm</p></li><li><p>Waga:</p><p>0.28 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63895.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63896.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63897.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63898.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63899.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63900.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63901.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63895.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63896.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63897.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63898.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63899.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63900.webp",
+        "galerie/t/tesla-filtr-hepa-do-oczyszcza_63901.webp"
+    ]
+}

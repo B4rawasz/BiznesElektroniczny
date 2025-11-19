@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Elektryka i oświetlenie"
+    ],
+    "id": "17237",
+    "code": "TSL-LIG-E14ZB-3PC",
+    "name": "Tesla Smart Żarówka E14 RGB 4.5W  3 szt.",
+    "price": 149.0,
+    "description": "<h2>Inteligentne oświetlenie w inteligentnym ekosystemie</h2><p>Inteligentne oświetlenie od dawna jest nieodłącznym elementem wielu domów. Niezależnie od tego, czy chodzi o wygodę, oszczędności, czy po prostu poprawę nastroju, inteligentne żarówki TechToy mogą poprawić Twoją wygode na co dzień.</p><h2>Oszczędzanie energii</h2><p>Ważną cechą inteligentnych żarówek TechToy jest bez wątpienia ich niskie zużycie energii. Są to zatem żarówki energooszczędne, które szczególnie nadają się do pomieszczeń i przestrzeni, które nie muszą być oświetlane bardzo jasnym światłem.</p><h2>Temperatura barwowa żarówki według Twoich upodobań</h2><p>Inteligentna żarówka TechToy ma zakres temperatur barwowych od 2200K do 6500K Model barw RGB (czerwony, zielony, niebieski) + CCT (skorelowana temperatura barwowa). Pozwala to nie tylko wybrać prawie każdy kolor ze spektrum, ale w przypadku wyboru koloru białego dostosować również jego temperaturę.</p><h2>Oszczędzanie energii</h2><p>Przy poborze elektrycznym 6 W i jasności 470 lumenów jest to żarówka energooszczędna.</p><h2>Automatyzacja oświetlenia za pomocą aplikacji TESLA Smart</h2><p>Nie musisz już włączać i wyłączać światła za pomocą klasycznego włącznika. Jeśli nie chcesz, w ogóle nie potrzebujesz przełącznika. Możesz wygodnie sterować całym oświetleniem za pomocą aplikacji TESLA Smart, która jest całkowicie w języku polskim. Tutaj można także skonfigurować inteligentne scenariusze. Światła włączają się na przykład, gdy inteligentny czujnik drzwi wykryje wejście do domu i wyłączają się, gdy wychodzisz.</p><h2>Protokół ZigBee</h2><p>Inteligentne żarówki TechToy wykorzystują zaawansowany protokół bezprzewodowy ZigBee do łączenia się z inteligentnym domem. Aby inteligentne żarówki działały, musisz także posiadać jednostkę centralną TESLA Smart ZigBee Hub. Łączy wszystkie inteligentne elementy, które nie mają własnego wbudowanego modułu Wi-Fi i współpracują z protokołem ZigBee. Ale to też przynosi szereg korzyści. Najważniejszym z nich jest niska energochłonność tych produktów. Przepływ danych między jednostką centralną ZigBee a aplikacją TESLA Smart jest niski, więc prawie nie używasz pasma 2,4 GHz w swojej sieci bezprzewodowej. Mieszana topologia sieci (topologia siatki) zapewnia wtedy prawidłowe funkcjonowanie ekosystemu nawet wtedy, gdy któryś z elementów inteligentnego domu nagle przestanie działać. Ostatnią zaletą jest kompatybilność różnych producentów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>30 szt</p></li><li><p>Wysokość:</p><p>10 cm</p></li><li><p>Szerokość:</p><p>3.7 cm</p></li><li><p>Głębokość:</p><p>3.7 cm</p></li><li><p>Waga:</p><p>0.055 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-zarowka-e14-rgb-4_62789.webp",
+        "galerie/t/tesla-smart-zarowka-e14-rgb-4_62790.webp",
+        "galerie/t/tesla-smart-zarowka-e14-rgb-4_62791.webp",
+        "galerie/t/tesla-smart-zarowka-e14-rgb-4_62792.webp",
+        "galerie/t/tesla-smart-zarowka-e14-rgb-4_62789.webp",
+        "galerie/t/tesla-smart-zarowka-e14-rgb-4_62790.webp",
+        "galerie/t/tesla-smart-zarowka-e14-rgb-4_62791.webp",
+        "galerie/t/tesla-smart-zarowka-e14-rgb-4_62792.webp"
+    ]
+}

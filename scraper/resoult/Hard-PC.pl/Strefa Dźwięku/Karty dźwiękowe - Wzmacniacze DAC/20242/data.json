@@ -1,0 +1,20 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Karty dźwiękowe - Wzmacniacze DAC"
+    ],
+    "id": "20242",
+    "code": "6953175710707",
+    "name": "Wzmacniacz słuchawkowy FiiO JA11 White DAC",
+    "price": 79.0,
+    "description": "<h2>FiiO JA11 Black – kompaktowy DAC i wzmacniacz słuchawkowy</h2><p>FiiO JA11 to elegancki i funkcjonalny DAC/AMP, który łączy wysoką jakość dźwięku z mobilnością i personalizacją. Mimo niewielkich rozmiarów oferuje zaawansowane funkcje dla wymagających użytkowników słuchawek z gniazdem 3,5 mm.</p><h2>Dostosowywalny korektor PEQ</h2><p>JA11 został wyposażony w profesjonalny procesor DSP, który umożliwia precyzyjne dostrojenie brzmienia za pomocą własnych krzywych PEQ. Dzięki aplikacji FIIO Control użytkownik ma dostęp do oficjalnych presetów, jak i możliwość tworzenia i udostępniania własnych ustawień EQ.</p><h2>Obsługa mikrofonu i sterowanie liniowe</h2><p>Urządzenie wspiera mikrofony oraz standardy CTIA/OMTP, co pozwala na prowadzenie rozmów, nagrywanie dźwięku, a nawet karaoke. Uwaga: niektóre telefony mogą nie obsługiwać funkcji mikrofonu ze względu na ograniczenia systemu operacyjnego.</p><h2>Wysoka jakość wykonania</h2><p>Obudowa JA11 została wykonana ze stopu aluminium i magnezu, poddana procesowi wtórnej anodyzacji. Zapewnia to nie tylko luksusowy wygląd i trwałość, ale również skuteczną ochronę przed zakłóceniami elektromagnetycznymi.</p><h2>Pełna kontrola z poziomu aplikacji</h2><p>Aplikacja FIIO Control dla Androida umożliwia precyzyjne zarządzanie JA11 – od regulacji głośności, przez wybór presetów PEQ, aż po przełączanie trybu UAC. Dzięki temu zyskujesz pełną kontrolę nad dźwiękiem.</p><h2>Zaawansowane okablowanie</h2><p>JA11 korzysta z wysokiej jakości przewodów z miedziowo-palladowego drutu wolnego od tlenu. Dwuwarstwowa osłona z elastycznego silikonu i plecionej przędzy gwarantuje stabilną transmisję sygnału i odporność na zakłócenia mechaniczne.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Połączenie USB</p><p>USB Type-C (kabel nieodłączalny)</p></li><li><p>Wyjście jednostronne</p><p>Gniazdo audio 3,5 mm</p></li><li><p>Kolor</p><p>Czarny / Srebrny</p></li><li><p>Waga</p><p>Około 5 g</p></li><li><p>Moc wyjściowa</p><p>L+R 230 mW + 30 mW (32Ω, THD+N&lt;1%, USB IN)</p></li><li><p>Zniekształcenia</p><p>&lt;0,004% (0 dB, 32Ω); &lt;0,003% (0 dB, 300Ω)</p></li><li><p>Poziom szumu</p><p>1,7 μV (ważony A)</p></li><li><p>Stosunek sygnału do szumu (SNR)</p><p>115 dB (32Ω, A-ważony)</p></li><li><p>Separacja kanałów</p><p>65 dB (1 kHz, 32Ω)</p></li><li><p>Impedancja wyjściowa</p><p>&lt;0,5 Ω</p></li><li><p>Pasmo przenoszenia</p><p>20 Hz – 20 kHz: +0,1 dB tłumienie<br/>20 Hz – 50 kHz: +0,2 dB tłumienie</p></li><li><p>Obsługiwane częstotliwości próbkowania</p><p>PCM: 384 kHz / 32 bit, DSD: DoP 128</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>FiiO</p></li><li><p>Dane producenta</p><p>FIIO Electronics Technology Co., Ltd., No.21 Longliang Road, Xialiang village, Longgui Street, Baiyun District, Guangzhou city,China,510540, sunny@fiio.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/fiio.jpg",
+    "images": [
+        "galerie/w/wzmacniacz-sluchawkowy-fiio-j_77358.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-fiio-j_77359.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-fiio-j_77358.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-fiio-j_77359.webp"
+    ]
+}

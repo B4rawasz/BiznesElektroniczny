@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Akcesoria kuchenne",
+        "Noże kuchenne"
+    ],
+    "id": "12328",
+    "code": "Kuro Sifu",
+    "name": "Nóż kuchenny ze stali damasceńskiej Shiori 撓 Kuro Sifu",
+    "price": 399.0,
+    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Nóż Shiori z serii 撓 Kuro Sifu, to dalszy rozwój klasycznego noża szefa kuchni. W tym celu stworzono bardzo specjalną formę japońskiego ostrza. Z wyjątkowo twardym rdzeniem i unikalną strukturą powierzchni, wykonaną z cienkiej stali damasceńskiej.</p><p>Długie ostrze podzielone jest na różne strefy, dzięki czemu można osiągnąć bardzo dobre rezultaty podczas krojenia warzyw czy ziół, a także podczas krojenia mięsa. Dzięki optymalnie wyważonej konstrukcji nóż szefa kuchni jest niezastąpiony - dla każdego szefa kuchni!</p><p>Ostrze wykonane jest z oryginalnej japońskiej stali damasceńskiej z 67 warstwami stali. Wielowarstwowość stali sprawia, że ​​struktura różnych warstw każdego noża jest bardzo wytrzymała i elastyczna.</p><p>Rękojeść wykonana jest z drewna Pakka, dodaje klasycznej elegancji. Połączenie bardzo dobrych surowców zapewnia unikalny produkt - sprężysty, twardy, ostry. Idealny nóż w każdej kuchni. Idealny produkt na prezent.</p><p>Uwaga: Noży należy używać w połączeniu z deskami drewnianymi. Deski kamienne, szklane czy z tworzywa sztucznego (plastiku) mogą doprowadzić do szybkiego stępienia noża bądź uszkodzenia ostrza</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Długość rękojeści</p><p>12,50 cm</p></li><li><p>Długość ostrza</p><p>20,00 cm</p></li><li><p>Stal</p><p>VG10</p></li><li><p>Hartowanie</p><p>60 +/-2HRC</p></li><li><p>Rękojeść</p><p>Pakka</p></li><li><p>Zastosowanie</p><p>profesjonalna kuchnia, kuchnia hobby</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Shiori</p></li><li><p>Dane producenta</p><p>Sinus Sp. z o.o., Świtezianki 16, 91-496 Łódź ,info@shiori.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/shiori.jpg",
+    "images": [
+        "galerie/n/noz-kuchenny-ze-stali-damasce_43887.webp",
+        "galerie/n/noz-kuchenny-ze-stali-damasce_43888.webp",
+        "galerie/n/noz-kuchenny-ze-stali-damasce_43889.webp",
+        "galerie/n/noz-kuchenny-ze-stali-damasce_43887.webp",
+        "galerie/n/noz-kuchenny-ze-stali-damasce_43888.webp",
+        "galerie/n/noz-kuchenny-ze-stali-damasce_43889.webp"
+    ]
+}

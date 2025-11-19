@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Wentylatory 140mm"
+    ],
+    "id": "11642",
+    "code": "LUNO-084",
+    "name": "Wentylator NoiseBlocker NB-eLoop X B14-P ARGB PWM - 140mm",
+    "price": 144.9,
+    "description": "<p>Jeśli chcesz zadbać o swój komputer, musisz mieć na uwadze odpowiednia temperaturę wewnątrz obudowy. Aby zapewnić sobie jak najlepszą wydajność oraz żywotność każdego z elementów komputera musisz wyposażyć się w wysokiej jakości wentylator taki jak Blacknoise NoiseBlocker eLoop.</p><h2>Wentylator Blacknoise wykonany jest z wytrzymałego materiału</h2><p>Seria wentylatorów Blacknoise NoiseBlocker eLoop to wysokiej klasy urządzenia, które zadbają o odpowiednią temperaturę podzespołów komputera. O klasie produktu świadczy materiał z jakiego zostały wykonane wentylatory z serii eLoop. W produkcji użyto materiału o nazwie makrolon. Makrolon to poliwęglan lity, który charakteryzuje się wysoką odpornością na uderzenia czy uszkodzenia mechaniczne. Konstrukcja jest w stanie wytrzymać bardzo duże przeciążenia. Modele z serii eLoop występują w dwóch wersjach kolorystycznych - biało czarnej oraz czarnej.</p><h2>Nowoczesne łożysko BionicLoopFan wydajniejsze niż klasyczne zastosowania</h2><p>Jeśli chodzi o specyfikację, to wentylatory Noiseblocker BlackNoise eLoop zostały wyposażone w bioniczny wirnik pętlowy, który nosi nazwę BionicLoopFan. Wykorzystanie tej technologii sprawia, że wentylatory z serii NB-eLoop są o wiele bardziej wydajne niż wentylatory osiowe. Modele z tej serii zostały wyposażone w system tłumienia wibracji, które nie tylko niwelują hałas generowany przez wentylatory podczas dużego obciążenia, ale również nie przenoszą wibracji na aluminiową obudowę komputera.</p><h2>Gwarancja długowieczności</h2><p>Producent chcąc zadbać o dużą żywotność swojego produktu wykorzystał specjalne rozwiązania, które mają za zadanie chronić łożysko wentylatora oraz jego silnik przed pyłem i kurzem. Modele NoiseBlocker eLoop dostępne są w dwóch rozmiarach - 120 i 140 mm.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Wymiary: 140 x 140 x 29 mm</li><li>Waga: 202 g</li><li>Materiał: Plastik</li><li>Głośność: max. 29.6 dB (A)</li><li>Prędkość: max. 0 - 1,500 rpm</li><li>Przepływ powietrza: max. 186 m³ / h</li><li>Napięcie startowe: 5V</li><li>Napięcie nominalne: 12V</li><li>Napięcie robocze: 8 - 13,8V</li><li>Zużycie energii: 2.88 W.</li><li>Połączenie: 4-pin PWM (wentylator), 3-pin 5VDG (LED)</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Noiseblocker</p></li><li><p>Dane producenta</p><p>Blacknoise, Giesenheide 25, D-40724 Hilden, info@blacknoise.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/noiseblocker.jpg",
+    "images": [
+        "galerie/w/wentylator-noiseblocker-nb-el_39599.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39600.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39601.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39602.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39603.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39604.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39605.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39599.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39600.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39601.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39602.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39603.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39604.webp",
+        "galerie/w/wentylator-noiseblocker-nb-el_39605.webp"
+    ]
+}

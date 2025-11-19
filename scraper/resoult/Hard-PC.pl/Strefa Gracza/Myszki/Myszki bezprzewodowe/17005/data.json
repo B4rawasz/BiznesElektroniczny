@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Myszki",
+        "Myszki bezprzewodowe"
+    ],
+    "id": "17005",
+    "code": "GAMO-1186",
+    "name": "Mysz VGN Dragonfly F1 PRO MAX Wireless Black",
+    "price": 259.9,
+    "description": "OPIS   Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Bezprzewodowa mysz do gier VGN Dragonfly F1 PRO MAX</h2><p>VGN Dragonfly F1 PRO MAX to <strong>myszka bezprzewodowa dla graczy</strong>, która łączy nowoczesne komponenty, ultralekką konstrukcję i maksymalną precyzję. Zaprojektowana z myślą o e-sporcie, pozwala osiągać szybkie i precyzyjne reakcje w każdej rozgrywce.</p><p>Wykorzystuje wysokiej klasy przełączniki Kailh Golden Black Mamba 8.0, które zapewniają szybkie i sprężyste kliknięcia, a jednocześnie wyraźny feedback przy każdym naciśnięciu. W połączeniu z sensorem PixArt PAW3395 o rozdzielczości do 26 000 CPI, <strong>bezprzewodowa myszka do komputera</strong> VGN Dragonfly F1 PRO MAX oferuje wyjątkową kontrolę i dokładność.</p><p>Standardowa częstotliwość odpytywania wynosi 1000 Hz, ale po dokupieniu adaptera możesz podnieść ją do 4000 Hz – to rozwiązanie doceni każdy gracz, który szuka najmniejszego możliwego opóźnienia. Mysz łączy się z komputerem przez stabilne pasmo 2,4 GHz, obsługiwane przez układ Nordic 52833, ale działa też w trybie przewodowym, gdy ją ładujesz (USB-C do USB-A).</p><h2>Zaawansowany czujnik zapewniający lepszą czułość</h2><p>Serce urządzenia stanowi precyzyjny sensor PixArt PAW3395 – jeden z najbardziej zaawansowanych w swojej klasie. Umożliwia regulację rozdzielczości od 50 do 26 000 CPI w krokach co 50 CPI. Dzięki temu możesz idealnie dopasować czułość do własnych preferencji – zarówno w grach FPS, jak i strategiach czasu rzeczywistego.</p><p>Brak interpolacji, wygładzania i uśredniania sprawia, że dane śledzenia są maksymalnie surowe i dokładne. Takiej precyzji oczekuje się od <strong>myszki gamingowej bezprzewodowej</strong>, która ma działać bezbłędnie nawet w najbardziej dynamicznych sytuacjach.</p><p>Do dyspozycji masz 4 profile CPI, które możesz zapisać w pamięci myszki i zmieniać je w locie przyciskiem na spodzie urządzenia. Oprogramowanie umożliwia także personalizację podświetlenia RGB, zmianę LOD, konfigurację przycisków oraz innych parametrów technicznych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>ok. 121,2 x 37,6 x 63,5 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>ok. 55g</p></li><li><p>Materiały</p><p>tworzywo sztuczne (podwozie), PTFE (łyżwy)</p></li><li><p>Żywotność baterii</p><p>130 godzin</p></li><li><p>Czujnik</p><p>PixArt PAW3395</p></li><li><p>Rozdzielczość</p><p>do 26 000 CPI (regulowana w krokach co 50 CPI)</p></li><li><p>Mikrokontroler</p><p>Nordic 52833</p></li><li><p>Prędkość</p><p>650IPS</p></li><li><p>Przyspieszenie</p><p>50G</p></li><li><p>Odległość odrywania</p><p>1 mm</p></li><li><p>Częstotliwość odpytywania</p><p>1000 Hz (4000Hz po zakupie dodatkowego adaptera)</p></li><li><p>Przełączniki Główne przyciski</p><p>Kailh Golden Black Mamba GM 8.0</p></li><li><p>Średnia żywotność</p><p>90 milionów kliknięć</p></li><li><p>Kółko myszy</p><p>Enkoder TCC Silver, koder Kailh GE2.0</p></li><li><p>Kabel myszy</p><p>kabel USB-C do USB 2.0 typu A</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>VGN</p></li><li><p>Dane producenta</p><p>SHENZHEN TENGMI TECHNOLOGY CO.,LTD, ZhIHuiGu, BaoHuaSenTongLe ,Qianjin 2nd xixiang Street ,BaoAn District, Guangdong, 302 Room Shenzhen, Chiny</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland ,info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/vgn.jpg",
+    "images": [
+        "galerie/m/mysz-vgn-dragonfly-f1-pro-max_60127.webp",
+        "galerie/m/mysz-vgn-dragonfly-f1-pro-max_60128.webp",
+        "galerie/m/mysz-vgn-dragonfly-f1-pro-max_60127.webp",
+        "galerie/m/mysz-vgn-dragonfly-f1-pro-max_60128.webp"
+    ]
+}

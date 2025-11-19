@@ -1,0 +1,20 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Akcesoria dla streamera"
+    ],
+    "id": "16832",
+    "code": "Y-274",
+    "name": "Wzmacniacz sygnału USB Unitek Y-274 - 20m",
+    "price": 106.99,
+    "description": "<h2>Podłącz urządzenie USB na 20 metrów +</h2><p>Aktywny przedłużacz Unitek Y-274 pozwala podłączyć urządzenie USB 2.0 za komputerem na odległość 20 metrów i więcej. Jest to możliwe, dzięki wmontowanym w przewód wzmacniaczom. Unitek Y-274 został wykonany z najlepszych materiałów w celu zapewnienia optymalnego działania. Przewód wykonano z 100% miedzi, zastosowano chipsety premium i pozłacane końcówki. Aluminiowa obudowa sprawia, że przedłużacz nie tylko ładnie wygląda, ale będzie nam służył przez lata.</p><h2>Lepszy sygnał LTE i bogactwo zastosowań</h2><p>Aktywny przedłużacz często wykorzystuje się do polepszenia sygnału LTE lub DVB-T. Notebook lub komputer zazwyczaj mamy przy biurku, które może być oddalone od okna, przy którym zazwyczaj jest najsilniejszy zasięg. Umieszczając modem LTE lub DVB-T przy oknie możemy go podłączyć do oddalonego komputera właśnie za pomocą Unitek Y-274. Możliwość zastosowań jest jednak nieograniczona, możemy do niego podłączyć każde urządzenie USB: drukarkę, kamerę, czytnik kodów kreskowych czy tablicę multimedialną.</p><h2>Dodatkowe zasilanie</h2><p>Dzięki kompatybilności ze standardem USB 2.0, wzmacniacz umożliwia transfer z prędkością do 480Mbps. Posiada wejście na dodatkowe zasilanie w razie gdyby prąd z portu USB był zbyt słaby. Utrzymanie stałego prądu do 500 mA, wpływa na stabilność pracy podłączonych urządzeń. Do większości zastosowań, gdzie pobór mocy jest niewielki dodatkowe zasilanie nie będzie jednak konieczne. Przewód jest stosunkowo cienki i giętki.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj urządzenia</p><p>Przedłużacz (Extender)</p></li><li><p>Zastosowanie</p><p>Transfer danych</p></li><li><p>Zasilanie / ładowanie</p></li><li><p>Pozłacane końcówki</p><p>nie</p></li><li><p>Długość przewodu</p><p>20 m</p></li><li><p>Przepustowość</p><p>0.48 Gbps</p></li><li><p>Standard USB</p><p>USB 2.0</p></li><li><p>Złącze 2</p><p>Port tulejkowy 3.5mm<br/>Port USB-A</p></li><li><p>Złącze 1</p><p>Wtyk USB-A</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/unitek.jpg",
+    "images": [
+        "galerie/w/wzmacniacz-sygnalu-usb-unitek_57113.webp",
+        "galerie/w/wzmacniacz-sygnalu-usb-unitek_57114.webp",
+        "galerie/w/wzmacniacz-sygnalu-usb-unitek_57113.webp",
+        "galerie/w/wzmacniacz-sygnalu-usb-unitek_57114.webp"
+    ]
+}

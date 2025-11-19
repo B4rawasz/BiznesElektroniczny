@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Elektryka i oświetlenie"
+    ],
+    "id": "17221",
+    "code": "TSL-SWI-DIMMERT",
+    "name": "Tesla Smart Ściemniacz światła dotykowy",
+    "price": 129.0,
+    "description": "<h2>Prosta kontrola nad światłem</h2><p>Ustaw dokładnie takie światło jakiego potrzebujesz. Możesz dostosować przyciemnienie za pomocą dotyku.</p><h2>Ustaw swoje scenariusze</h2><p>Skonfiguruj scenariusz tak, aby dom już na Ciebie czekał, w wybranym przez Ciebie oświetleniu.</p><h2>Sterowanie z dowolnego miejsca</h2><p>Możesz użyć ściemniacza fizycznie lub za pomocą aplikacji TESLA Smart. Sam wybierz, co jest dla Ciebie wygodniejsze.</p><h2>Dostosuj ustawienia dla siebie</h2><p>Możesz dowolnie konfigurować oświetlenie. Światło dostosuje się do Twoich preferencji, wieczorem np. może automatycznie zapalić się w trybie energooszczędnym. Wystarczy, że ustawisz to w przejrzystej aplikacji TESLI.</p><h2>Łączność WiFi</h2><p>TESLA Smart Dimmer Touch zawiera również odbiornik Wi-Fi. Dzięki temu możesz sterować ściemniaczem z dowolnego miejsca za pomocą inteligentnej aplikacji TESLA Smart. Jest również kompatybilny z osobistymi asystentami Google Assistant i Amazon Alexa, które obsługują między innymi sterowanie głosowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>60 szt</p></li><li><p>Wysokość:</p><p>4.3 cm</p></li><li><p>Szerokość:</p><p>8.6 cm</p></li><li><p>Głębokość:</p><p>8.6 cm</p></li><li><p>Waga:</p><p>0.116 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62993.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62994.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62995.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62996.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62997.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62993.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62994.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62995.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62996.webp",
+        "galerie/t/tesla-smart-sciemniacz-swiatl_62997.webp"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Karty dźwiękowe - Wzmacniacze DAC"
+    ],
+    "id": "17549",
+    "code": "6972585501064",
+    "name": "Wzmacniacz słuchawkowy MOONDROP Click - Mini USB-DAC/AMP",
+    "price": 119.0,
+    "description": "<h2>Lekka, poręczna konstrukcja</h2><p>Konstrukcja urządzenia jest bardzo lekka i kompaktowa, zapewniając super wygodę użytkowania. Click jest kompatybilny z systemami Android, MacOS i Windows. Ciesz się czystym brzmieniem kiedy tylko chcesz!</p><h2>Obsługa pilotów na kablu</h2><p>Click obsługuje większość słuchawek z wbudowanym pilotem i mikrofonem, dzięki czemu możesz nadal prowadzić rozmowy, czy sterować odtwarzaniem. * Click nie posiada wbudowanego pilota z mikrofonem.</p><h2>Niestandardowy ekranowany kabel koaksjalny</h2><p>Zastosowany w Click kabel, to 24AWG 6N OFC w splocie Litz, wraz z posrebrzaną warstwą ekranującą 4N Litz z miedzi monokrystalicznej jako rdzeń. Koncentryczna struktura kabla potrafi skutecznie tłumić zakłócenia pola elektromagnetycznego do sygnału. Masz więc pewność, że dźwięk jest czystszy i delikatniejszy.</p><h2>Aluminiowa obudowa obrabiana CNC</h2><p>Obudowa Click wykonana jest ze stopu aluminium obrabianego metodą CNC, co nadaje urządzeniu delikatnej tekstury. Odgrywa również doskonałą rolę w ochronie i ekranowaniu wewnętrznego obwodu dekodującego i wzmacniającego.</p><h2>Niesłyszalny szum tła</h2><p>Szum tła pozostaje na poziomie 2,5 uVrms. SNR wynosi aż 120 dB (AES17 20 kHz, A-ważony). Oznacza to, że szum tła jest niesłyszalny i pozwala uzyskać w pełni czyste brzmienie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga:</p><p>7,4g</p></li><li><p>Złącze:</p><p>3,5 mm SE</p></li><li><p>THD+N:</p><p>0,001% (AES17-20kHz, Z-ważony)</p></li><li><p>SNR:</p><p>120dB (AES17-20kHz, A-ważony)</p></li><li><p>SINAD:</p><p>113dB (AES17-20kHz, A-ważony)</p></li><li><p>Szum tła:</p><p>2,5 uV (AES17-20 kHz)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOONDROP</p></li><li><p>Dane producenta</p><p>Chengdu shuiyueyu technology Co.,Ltd 13th Floor, Building B, Building 1, Yuetiandi Commercial Building Project, No.159 Haichuan Road, Wenjiang District, Chengdu City, Sichuan Province, China, support@moondroplab.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/moondrop.jpg",
+    "images": [
+        "galerie/w/wzmacniacz-sluchawkowy-moondr_64430.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-click_64349.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-moondr_64430.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-click_64349.webp"
+    ]
+}

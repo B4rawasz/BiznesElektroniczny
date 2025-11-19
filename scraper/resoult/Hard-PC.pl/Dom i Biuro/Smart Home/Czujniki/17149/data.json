@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Czujniki"
+    ],
+    "id": "17149",
+    "code": "TSL-SEN-TAHLCD",
+    "name": "Tesla Smart Czujnik temp. i wilgotności (ekran)",
+    "price": 99.99,
+    "description": "<h2>Miej kontrolę nad klimatem w domu dzięki inteligentnemu czujnikowi</h2><p>TESLA Inteligentny czujnik temperatury i wilgotności stanie się nieodłączną częścią Twojego inteligentnego domu. To urządzenie zrobi wszystko, abyś czuł się jak najlepiej w pomieszczeniu. Możesz go ustawić lub powiesić w dowolnym miejscu, aby mieć zawsze dostęp do informacji.</p><h2>Łatwy w obsłudze</h2><p>Dzięki aplikacji TESLA Smart zarządzanie czujnikiem jest proste, możesz skonfigurować go w kilku krokach. Wyświetlacz czujnika jest czytelny dzięki dużemu ekranowi LCD. Monitoruj i kontroluj wszystko za pomocą smartfona lub tabletu.</p><h2>Kompatybilny z asystentami głosowymi</h2><p>Obsługa czujnika temperatury i wilgotności TESLA jest jeszcze łatwiejsza dzięki inteligentnym asystentom głosowym Amazon Alexa i Google Assistant. Na podstawie polecenia głosowego możesz sterować nie tylko czujnikami, ale także innymi elementami Twojego inteligentnego domu.</p><h2>Doskonała kompatybilność</h2><p>Inteligentne urządzenia wykorzystujące protokół ZigBee są podłączane i mogą się ze sobą łatwo komunikować.</p><h2>System ZigBee</h2><p>Produkt należy do grupy wykorzystującej system ZigBee, za pomocą którego produkty komunikują się ze sobą. Do prawidłowego funkcjonowania tych produktów niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wartość, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>120 szt</p></li><li><p>Wysokość:</p><p>2.3 cm</p></li><li><p>Szerokość:</p><p>6.12 cm</p></li><li><p>Głębokość:</p><p>6.12 cm</p></li><li><p>Waga:</p><p>0.047 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63556.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63557.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63558.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63559.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63560.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63556.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63557.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63558.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63559.webp",
+        "galerie/t/tesla-smart-czujnik-temp-i-wi_63560.webp"
+    ]
+}

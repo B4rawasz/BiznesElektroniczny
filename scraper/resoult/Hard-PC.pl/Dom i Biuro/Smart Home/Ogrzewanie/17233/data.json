@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Ogrzewanie"
+    ],
+    "id": "17233",
+    "code": "TSL-TRV500-TV05ZG",
+    "name": "Tesla Smart Zawór termostatyczny TV500",
+    "price": 199.0,
+    "description": "<h2>Minimalizacja kosztów</h2><p>Inteligentny zawór termostatyczny został zaprojektowany, aby pomóc zmniejszyć zużycie energii elektrycznej. Dzięki odpowiedniej regulacji temperatury możesz zaoszczędzić ponad 15% na rachunkach za ogrzewanie. Inteligentna technologia dostosowuje się do trybu pracy w domu i zużywa tylko tyle energii, ile potrzebujesz.</p><h2>Wyświetlacz LED</h2><p>Minimalistyczny design ze wbudowanymi ikonami i dyskretnym podświetleniem zapewnia doskonałą widoczność i łatwość użytkowania. Temperaturę można regulować, kręcąc termostatem jak normalnym zaworem, a następnie wybrać konkretny tryb za pomocą poszczególnych ikon.</p><h2>Wiele trybów do wyboru</h2><p>Czasy, w których polegałeś na 5 poziomach regulacji temperatury grzejnika, minęły. Inteligentny zawór oferuje wybór opcji, które odpowiadają twoim aktualnym potrzebom. Temperaturę można regulować ręcznie w zakresie od 5 do 30 °C lub wybrać jeden z kilku trybów - automatyczny, ręczny, świąteczny, ekologiczny, szybkie nagrzewanie lub przeciwzamrożeniowy.</p><h2>Automatyzacja i planowanie</h2><p>Aplikacja mobilna i inteligentne funkcje umożliwiają szybką integrację zaworu z systemem inteligentnego domu. Funkcje automatyzacji i planowania pomogą Ci skonfigurować go do samodzielnego działania, dzięki czemu nie musisz w ogóle zajmować się zarządzaniem ogrzewaniem. Na przykład zawór może sam podnieść temperaturę, gdy zbliżasz się do domu, lub użyć tygodniowego harmonogramu, aby dostosować ogrzewanie w ciągu dnia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>42 szt</p></li><li><p>Wysokość:</p><p>10 cm</p></li><li><p>Szerokość:</p><p>5.9 cm</p></li><li><p>Głębokość:</p><p>5.9 cm</p></li><li><p>Waga:</p><p>0.142 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-zawor-termostatyc_62922.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62923.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62924.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62925.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62926.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62922.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62923.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62924.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62925.webp",
+        "galerie/t/tesla-smart-zawor-termostatyc_62926.webp"
+    ]
+}

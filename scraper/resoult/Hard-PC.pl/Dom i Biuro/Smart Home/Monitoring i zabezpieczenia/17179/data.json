@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Monitoring i zabezpieczenia"
+    ],
+    "id": "17179",
+    "code": "TSL-CAM-SNAP11S",
+    "name": "Tesla Smart kamera PIR bateria",
+    "price": 399.0,
+    "description": "<p>Dzięki inteligentnej detekcji ruchu i zasięgu czujnika PIR do 10 metrów kamera nagrywa ostry obraz nawet w ciemności lub przy złej pogodzie. Wbudowany akumulator zapewnia działanie nawet do 3 miesięcy, dzięki czemu nie musi być na stałe podłączona do źródła zasilania.</p><h2>Energia na 90 dni pracy</h2><p>Kamera zasilana jest akumulatorem litowo-jonowym o pojemności 9 600 mAh, który według naszego doświadczenia wystarcza na 3 miesiące pracy na jednym ładowaniu. Urządzenie można więc zainstalować nawet w miejscach, w których brakuje źródeł energii elektrycznej.</p><h2>Aplikacja jest dostępna w języku polskim</h2><p>W przypadku, gdy jesteś fanem inteligentnych asystentów lub masz inteligentny dom, kamera TESLA Smart Camera PIR Battery będzie pasować do niego idealnie. Dodatkowo możesz łatwo zarządzać wszystkimi ustawieniami za pomocą aplikacji w języku polskim, która jest dostępna zarówno dla systemu iOS, jak i Android. Twoje Wi-Fi musi być ustawione na 2,4 GHz, aby zapewnić poprawne parowanie.</p><h2>Obraz w rozdzielczości Full HD</h2><p>W kamerze zastosowano sensor 1/2.9\" CMOS o rozdzielczości 2 megapikseli i zmiennej liczbie klatek na sekundę.</p><h2>Czujnik wykrywa ruch nawet podczas burzy i w ciemności</h2><p>Główną zaletę kamery TESLA stanowi czujnik z czujnikiem podczerwieni, który potrafi wykryć nawet najmniejszy ruch. Niezależnie od tego, czy na dworze jest wiatr, burza czy słabe oświetlenie. Ponadto technologia ta cechuje się wyjątkowo niskim zużyciem energii, co przedłuża żywotność baterii.</p><h2>Za pomocą jednej aplikacji sterujesz wszystkimi produktami</h2><p>Nie ma nic prostszego od sterowania całym domem za pomocą smartfona. Dokładnie to umożliwia aplikacja TESLA Smart. Pozwala kontrolować i zarządzać wszystkimi inteligentnymi urządzeniami. Dzięki automatyzacji i scenariuszom możesz stworzyć inteligentny dom, który uwolni Cię od stresu, a codzienność uczyni przyjemniejszą.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-kamera-pir-bateri_63322.webp",
+        "galerie/t/tesla-smart-kamera-pir-bateri_63323.webp",
+        "galerie/t/tesla-smart-kamera-pir-bateri_63324.webp",
+        "galerie/t/tesla-smart-kamera-pir-bateri_63322.webp",
+        "galerie/t/tesla-smart-kamera-pir-bateri_63323.webp",
+        "galerie/t/tesla-smart-kamera-pir-bateri_63324.webp"
+    ]
+}

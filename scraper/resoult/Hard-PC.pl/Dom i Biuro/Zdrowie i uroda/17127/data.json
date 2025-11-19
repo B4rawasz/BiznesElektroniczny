@@ -1,0 +1,18 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Zdrowie i uroda"
+    ],
+    "id": "17127",
+    "code": "TSL-PC-TS200GACC",
+    "name": "Tesla Końcówki do szczoteczki TS200 zielone 2 szt.",
+    "price": 79.99,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>50 szt</p></li><li><p>Wysokość:</p><p>8.5 cm</p></li><li><p>Szerokość:</p><p>1.1 cm</p></li><li><p>Głębokość:</p><p>1.1 cm</p></li><li><p>Waga:</p><p>0.017 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-koncowki-do-szczoteczki_63859.webp",
+        "galerie/t/tesla-koncowki-do-szczoteczki_63859.webp"
+    ]
+}

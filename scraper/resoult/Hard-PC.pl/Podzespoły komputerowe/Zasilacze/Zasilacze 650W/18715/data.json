@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zasilacze 650W"
+    ],
+    "id": "18715",
+    "code": "R-PL650D-FC0B-EU-V2",
+    "name": "Zasilacz DeepCool PL650D PCIE5 650W 80Plus Bronze",
+    "price": 217.9,
+    "description": "<h2>DeepCool PL650D – Zasilacz ATX3.0 z certyfikatem 80 PLUS Bronze</h2><p>PL650D to nowoczesny zasilacz od DeepCool, dostosowany do najnowszych wymagań standardu ATX3.0 firmy INTEL. Dzięki zaawansowanemu złączu 12VHPWR, model ten idealnie nadaje się do zasilania zarówno starszych, jak i nowej generacji komputerów PC, oferując stabilność i niezawodność na lata. Jego certyfikat 80 PLUS Bronze gwarantuje efektywność na poziomie co najmniej 85% przy typowym obciążeniu, co pozwala na oszczędność energii i mniejsze straty cieplne.</p><p>PL650D to idealne rozwiązanie dla osób szukających wydajnego i bezpiecznego zasilania dla swojego komputera, które poradzi sobie z wymaganiami najnowszych komponentów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Standard ATX3.0: PL650D został zaprojektowany zgodnie z najnowszymi wytycznymi INTEL, co pozwala na obsługę dwukrotnej mocy całkowitej systemu w ciągu 0,1 ms, dzięki czemu skoki napięcia nie stanowią zagrożenia.</li><li>Złącze PCIe 5.0: Wbudowane natywne złącze PCIe 5.0 umożliwia dostarczenie mocy aż do 300 W, idealnie wspierając wymagające karty graficzne.</li><li>Wysokiej jakości kondensatory: Kondensatory elektrolityczne utrzymują stabilność nawet przy pełnym obciążeniu (≥16 ms czasu podtrzymania), zapewniając niezawodne działanie i odporność na krótkie przerwy w zasilaniu.</li><li>Solidna konstrukcja: Zastosowanie wysokiej jakości komponentów i przemyślana topologia zasilania, oparta na aktywnym PFC oraz konwersji DC-DC, sprawia, że PL650D działa sprawnie nawet na wysokości do 5000 m n.p.m.</li><li>Wszechstronne zabezpieczenia: Pełen pakiet ochrony obejmujący OPP, OVP, SCP, OTP, OCP, UVP, SIP oraz NLO chroni komputer przed różnymi zagrożeniami.</li><li>5-letnia gwarancja: DeepCool zapewnia 5-letnią ograniczoną gwarancję, co świadczy o zaufaniu do trwałości i jakości swojego produktu.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>ATX12V V2.4W</p></li><li><p>Wymiary produktu</p><p>150×140×86mm (W x L x H)</p></li><li><p>Certyfikaty</p><p>80PLUS Bronze</p></li><li><p>Rozmiar wentylatora</p><p>120mm</p></li><li><p>Łożysko wentylatora</p><p>Hypro Bearing</p></li><li><p>Topologia</p><p>Aktywne PFC+DC-DC</p></li><li><p>Sprawność</p><p>≥85%</p></li><li><p>Ochrona</p><p>SCP,OPP,OTP,OVP,OCP,UVP</p></li><li><p>Temperatura prac</p><p>0 - 40 °C</p></li><li><p>Zabezpieczenia</p><p>OPP/OVP/SCP/OTP/OCP/UVP/SIP/NLO</p></li><li><p>Regulacje prawne</p><p>CE/FCC/CCC/RCM/EAC/BIS/ CAN ICES-003(B)/NMB-003(B) /TUV-RH</p></li><li><p>Regulacja Erp</p><p>ErP 2013</p></li><li><p>Złącza</p><p>ATX 24pin: 1<br/>EPS 12V 8pin: 2<br/>12VHPWR 16pin: 1<br/>PCI-E 6+2pin: 3<br/>SATA: 6<br/>Molex 4pin: 2</p></li><li><p>Charakterystyka prądowa</p><p>+3.3V: 20A<br/>+5V: 20A<br/>+12V: 54A<br/>-12V: 0.3A<br/>+5VSB: 3A</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68852.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68853.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68854.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68855.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68856.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68857.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68858.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68859.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68860.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68852.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68853.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68854.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68855.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68856.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68857.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68858.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68859.webp",
+        "galerie/z/zasilacz-deepcool-pl650d-pcie_68860.webp"
+    ]
+}

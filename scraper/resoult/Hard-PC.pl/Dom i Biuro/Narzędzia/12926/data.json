@@ -1,0 +1,20 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Narzędzia"
+    ],
+    "id": "12926",
+    "code": "ZUWS-117",
+    "name": "Narzędzie do otwierania elektroniki iFixit Opening Tool - 6szt",
+    "price": 22.9,
+    "description": "<p>Rozbieranie nowoczesnych urządzeń elektronicznych jest dość problematyczne. Producenci często stosują klej, a spasowanie elementów jest na tyle dobre, że bardzo ciężko podważyć. Z pomocą przychodzi narzędzie od iFixit w kształcie koski do gitary. Ten niewielki otwierak jest wyjątkowo cienki i dlatego idealnie sprawdza się do otwierania sprzętu elektronicznego takiego jak iPady, tablety czy smart fony. Wykonanie z trwałego, a jednocześnie miękkiego plastiku zapobiega zadrapaniom, uszkodzeniem co pozwala chronić wrażliwe powierzchnie. Zestaw narzędzi składa się z sześciu kostek, które nie tylko umożliwiają otwieranie, ale również podważanie.</p><p>Jeśli lubisz majsterkować przy komputerze lub innych urządzeniach elektronicznych, wcześniej czy później natkniesz się na iFixit. Firma nie tylko wyrobiła sobie markę dzięki wielu darmowym poradnikom zachęcającym konsumentów do samodzielnej naprawy sprzętu, ale również sprzedaje narzędzia. Narzędzia iFixit to profesjonalne rozwiązania stosowane przez wiele serwisów. Ich przemyślane, zorganizowane zestawy ułatwiają i przyspieszają pracę a dodatkowe akcesoria są idealnym uzupełnieniem warsztatu każdego serwisanta.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość</p><p>6szt</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/ifixit.jpg",
+    "images": [
+        "galerie/n/narzedzie-do-otwierania-elekt_46803.webp",
+        "galerie/n/narzedzie-do-otwierania-elekt_46804.webp",
+        "galerie/n/narzedzie-do-otwierania-elekt_46803.webp",
+        "galerie/n/narzedzie-do-otwierania-elekt_46804.webp"
+    ]
+}

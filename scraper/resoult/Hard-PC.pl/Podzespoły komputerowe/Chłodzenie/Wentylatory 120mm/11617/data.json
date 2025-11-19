@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Wentylatory 120mm"
+    ],
+    "id": "11617",
+    "code": "LUNO-014",
+    "name": "Wentylator NoiseBlocker Multiframe S-Series M12-2 - 120mm",
+    "price": 89.9,
+    "description": "<p>Odpowiednia temperatura podzespołów jest niezwykle ważna. Elementy, które pracują w optymalnej dla siebie temperaturze nie tylko mogą pochwalić się wydajniejszą pracą, ale też wydłuża się ich żywotność. Jeśli chcemy zadbać o elementy naszego komputera powinniśmy zaopatrzyć się w najlepsze wentylatory chłodzące. Takim modelem są z pewnością wentylatory Blacknoise NoiseBlocker Multiframe Series.</p><h2>Konstrukcja wykonana z niezwykle wytrzymałego materiału</h2><p>Wentylatory z serii NoiseBlocker Multiframe to wysokiej jakości modele, które zapewniają odpowiednie chłodzenie podzespołów komputera nawet przy dużym obciążeniu. Model ten został wykonany z wytrzymałych materiałów, które wpływają na pracę całego układu. W produkcji wentylatorów Multiframe wykorzystano materiał zwany makrolonem, czyli poliwęglan lity. Materiał ten jest niezwykle wytrzymały i jest w stanie wytrzymać duże przeciążania oraz jest odporny na uszkodzenia mechaniczne. Materiał ten sprawia również, że wentylatory są bardzo lekkie.</p><h2>Wysoka kultura pracy</h2><p>Wytrzymałość to nie jedyna zaleta wentylatorów z NoiseBlocker Multiframe. Producent w celu zapewniania jak największej kultury pracy wykorzystano specjalnie zaprojektowaną konstrukcję. Wentylatory posiadają zintegrowane tłumiki hałasu, które skutecznie niweluje wszelkie odgłosy podczas wysokiego obciążenia i eliminuje wszelkie wibracje przenoszące się na obudowę komputera.</p><h2>Magnetyczne łożysko i wydajny silnik gwarantują dobre chłodzenie</h2><p>Blacknoise NoiseBlocker Multiframe Series została wyposażona w magnetyczne łożyska NB-NanoSLI oraz silnik NB-EKA Plus o niezmiennej pozycji, co gwarantuje wysoką wydajność. Model ten dostępny jest w dwóch rozmiarach - 80 mm i 120 mm.</p> OPIS <article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Wymiary: 120 x 120 x 25 mm</li><li>Głośność: 19 dB (A)</li><li>Prędkość obrotowa: 1250 rpm</li><li>Przepływ powietrza: max. 87 m³ / h</li><li>Ciśnienie powietrza: 1.044 mm-H2O</li><li>Napięcie startowe: 4.5 V.</li><li>Zużycie energii: 0.72 W.</li><li>Wtyczka: 3-pin</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Noiseblocker</p></li><li><p>Dane producenta</p><p>Blacknoise, Giesenheide 25, D-40724 Hilden, info@blacknoise.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/noiseblocker.jpg",
+    "images": [
+        "galerie/w/wentylator-noiseblocker-multi_39480.webp",
+        "galerie/w/wentylator-noiseblocker-multi_39481.webp",
+        "galerie/w/wentylator-noiseblocker-multi_39482.webp",
+        "galerie/w/wentylator-noiseblocker-multi_39480.webp",
+        "galerie/w/wentylator-noiseblocker-multi_39481.webp",
+        "galerie/w/wentylator-noiseblocker-multi_39482.webp"
+    ]
+}

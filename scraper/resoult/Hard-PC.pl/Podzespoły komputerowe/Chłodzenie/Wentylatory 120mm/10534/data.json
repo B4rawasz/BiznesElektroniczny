@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Wentylatory 120mm"
+    ],
+    "id": "10534",
+    "code": "LUAR-075",
+    "name": "Wentylator Arctic P12 PWM PST 120mm Czarny",
+    "price": 20.9,
+    "description": "OPIS <p><strong>Arctic P12 PWM PST</strong> to nowy wentylator, który zaprojektowano z myślą o maksymalnej wydajności. Szczególny nacisk położono na skoncentrowanie strumienia powietrza, a tym samym osiągnięcie wyższego ciśnienia statycznego.</p><p>P12 PWM PST wykorzystuje nowej generacji silnik z pierścieniem ze stopu neodymu, żelaza, boru i magnesu, dzięki czemu udało się obniżyć temperaturę cewki co przełożyło się na jeszcze wydajniejszą pracę. Rozwiązanie to pozwoliło również na zmniejszenie do jedynie 5% wibracji pochodzących z komutacji.</p><p>P12 PWM posiada wysokiej jakości łożysko FDB, które w połączeniu z nowoczesnym silnikiem oraz zastosowaniem specjalnie opracowanego smaru wydłuża żywotność wentylatora aż4-krotnie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Rozmiar: 120x120x25mm </li><li>Prędkość obroota: 200 – 1.800 RPM (PWM)</li><li>Przpływ powietrza: 56.3 CFM / 95.65 m³/h (@ 1.800 RPM)</li><li>Głośność: 0.3 Sone (@ 1.800 RPM)</li><li>Ciśnienie statyczne: 2.2 mm H2O (@ 1.800 RPM)</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/arctic.jpg",
+    "images": [
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33769.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33770.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33771.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33772.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33773.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33774.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33769.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33770.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33771.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33772.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33773.webp",
+        "galerie/w/wentylator-arctic-p12-pwm-pst_33774.webp"
+    ]
+}

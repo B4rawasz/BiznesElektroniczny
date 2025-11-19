@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Wentylatory 120mm"
+    ],
+    "id": "14440",
+    "code": "LUPH-073",
+    "name": "Wentylator Phanteks M25 D-RGB 120mm 3-pack Black",
+    "price": 172.9,
+    "description": "<p>Najnowsza seria wentylatorów Phanteks M25 bazuje na wielokrotnie nagradzanym wydajnym modelu T30. Dzięki temu zapewnia odpowiednie chłodzenie sprzętu nowej generacji. Specjalnie zaprojektowane łopatki generują wysoki przepływ powietrza. Zoptymalizowano je pod kątem jak najlepszego działania z filtrami o drobnych oczkach oraz radiatorami i chłodnicami, gdzie zachowują wysoką wydajność przy niskich obrotach. Wpływa to również na zmniejszenie niepożądanego hałasu.</p><p>Wentylator Phanteks M25 jest wyposażony w innowacyjną technologię PWM, która umożliwia automatyczną regulację prędkości wentylatora w zależności od temperatury wewnątrz komputera.</p><p>Zastosowane w M25 łożysko zapewnia cichą pracę i długą żywotność. Wentylator Phanteks M25 jest bardzo łatwy w montażu dzięki zastosowaniu standardowych śrub mocujących i gumowych dystansów. Jego konstrukcja została zaprojektowana w taki sposób, aby minimalizować wibracje i hałas.</p><p>Wentylator Phanteks M25 jest doskonałym wyborem dla osób, które potrzebują wydajnego i cichego wentylatora do swojego komputera. Dzięki swojej jakości wykonania, nowoczesnej technologii i funkcjonalności, z pewnością spełni oczekiwania nawet najbardziej wymagających użytkowników.</p><p>Model dostępny jest w dwóch rozmiarach (120 i 140mm) zarówno w wariancie bez podświetlania, jak i z podświetlaniem ARGB, w tym również w białym i czarnym kolorze ramki oraz jako pojedynczy egzemplarz i 3-pack.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 120 x 25 mm (W x H x D)</p></li><li><p>Materiał</p><p>Plastik</p></li><li><p>Kolor</p><p>Czarny, przezroczysty</p></li><li><p>Łożysko</p><p>Hydrodynamic plain bearing</p></li><li><p>Prędkość obrotowa</p><p>400 - 2,000 rpm</p></li><li><p>Hałas</p><p>max. 35.7 dB(A)</p></li><li><p>Przepływ powietrza</p><p>max. 143.16 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>2.67 mmH2O max</p></li><li><p>Napięcie robocze</p><p>7-13.2V</p></li><li><p>Napięcie startowe</p><p>7V</p></li><li><p>Natężenie</p><p>0.19A</p></li><li><p>Moc</p><p>2.4W</p></li><li><p>Podświetlenie</p><p>Typ D-RGB<br/>12x LED<br/>Natężenie 0.25A<br/>Wtyczka 4-pin PWM</p></li><li><p>Długość przewodów</p><p>4-pin PWM 15 + 120 mm<br/>3-pin ARGB 300 + 100 mm</p></li><li><p>W zestawie</p><p>3x PHANTEKS M25-120 fan<br/>2x 500 mm 4-pin extension cable<br/>12x fan screws<br/>1x 600 mm ARGB extension cable</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/phanteks.jpg",
+    "images": [
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52301.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52302.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52303.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52304.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52305.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52306.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52307.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52301.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52302.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52303.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52304.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52305.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52306.webp",
+        "galerie/w/wentylator-phanteks-m25-d-rgb_52307.webp"
+    ]
+}

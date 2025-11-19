@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Elektryka i oświetlenie"
+    ],
+    "id": "17185",
+    "code": "TSL-SPL-SPS300",
+    "name": "Tesla Smart listwa 4+2+1 USB, USB-C",
+    "price": 179.0,
+    "description": "<h2>Aplikacja do łatwego sterowania</h2><p>Dzięki bezpłatnej aplikacji obsługa przedłużacza jest bardzo prosta. Aplikacja, dostępna również w języku polskim, umożliwia intuicyjne zarządzanie z telefonu komórkowego lub tabletu z systemem iOS lub Android. W aplikacji możesz sprawdzić, czy porty USB lub poszczególne gniazda są włączone, czy wyłączone, i możesz zmienić ten status w dowolnym miejscu i czasie.</p><h2>Oszczędź nerwy i pieniądze</h2><p>Czy włączasz urządzenia elektryczne w domu, kiedy ich nie potrzebujesz? Chcesz wiedzieć, czy ktoś zostawił włączone żelazko? Zapomniałeś włączyć światło w terrarium przed wyjściem? Nie musisz się już o to martwić. Możesz wyłączyć lub włączyć wszystko z dowolnego miejsca za pomocą aplikacji, a nawet użyć aplikacji do nazwania poszczególnych gniazd. Teraz zawsze będziesz wiedzieć, w którym gniazdku jest włączona lokówka, szczoteczka elektryczna czy golarka.</p><h2>Automatyzuj! Tak, jak chcesz</h2><p>Inteligentny dom to dom, w którym poszczególne urządzenia działają samodzielnie. Dzięki automatyzacji i scenariuszom możesz sobie pozwolić na taką wygodę. Gniazdo może włączyć lampę, gdy tylko wrócisz do domu. Może włączyć ogrzewanie, gdy temperatura spadnie poniżej ustawionego progu, lub wyłączyć je, gdy osiągnie określoną temperaturę. Możesz ustawić oświetlenie, telewizor lub muzykę, aby włączały się o określonej godzinie, nawet kiedy nie ma Cię w domu.</p><h2>Energia dla 4 + 2 + 1 urządzeń</h2><p>Dwa porty USB typu A, jeden port USB typu C i cztery klasyczne gniazda do zasilania do 7 urządzeń jednocześnie. Moc 15 W wystarczy do ładowania telefonów komórkowych przez noc, a także urządzeń elektronicznych o niskim poborze mocy, takich jak inteligentne zegarki i słuchawki Bluetooth. A dzięki długiemu kablowi, przedłużacz Power Strip pozwala dotrzeć do urządzeń oddalonych od gniazda na odległość do dwóch metrów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>4.2 cm</p></li><li><p>Szerokość:</p><p>5.7 cm</p></li><li><p>Głębokość:</p><p>29.4 cm</p></li><li><p>Waga:</p><p>0.59 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-listwa-4-2-1-usb_63186.webp",
+        "galerie/t/tesla-smart-listwa-4-2-1-usb_63187.webp",
+        "galerie/t/tesla-smart-listwa-4-2-1-usb_63188.webp",
+        "galerie/t/tesla-smart-listwa-4-2-1-usb_63186.webp",
+        "galerie/t/tesla-smart-listwa-4-2-1-usb_63187.webp",
+        "galerie/t/tesla-smart-listwa-4-2-1-usb_63188.webp"
+    ]
+}

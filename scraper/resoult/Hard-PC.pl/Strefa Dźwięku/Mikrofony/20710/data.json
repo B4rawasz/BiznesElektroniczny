@@ -1,0 +1,22 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Mikrofony"
+    ],
+    "id": "20710",
+    "code": "PS400",
+    "name": "Zasilacz Phantom +12V / 48V do mikrofonów XLR MOZOS PS400",
+    "price": 79.0,
+    "description": "<h2>Mozos PS400 – kompaktowy zasilacz phantom 12V/48V do mikrofonów pojemnościowych</h2><p>Mozos PS400 to niezawodny zasilacz phantom, który dostarcza stabilne i czyste zasilanie dla mikrofonów pojemnościowych. Dzięki przełącznikowi napięcia 12V lub 48V sprawdzi się zarówno w domowym studiu, jak i w zastosowaniach profesjonalnych – radiu, nagraniach muzycznych czy streamingu. Kompaktowe wymiary 58×32×103 mm i wytrzymała obudowa z żelaza czynią go praktycznym i trwałym rozwiązaniem dla osób ceniących niezawodność i wygodę.</p><h2>Skuteczne i stabilne zasilanie</h2><p>PS400 został zaprojektowany tak, aby gwarantować czysty sygnał i brak zakłóceń w pracy mikrofonów. Jego energooszczędna konstrukcja pobiera jedynie 2W mocy, co zapewnia długotrwałą, stabilną i ekonomiczną eksploatację. Dzięki wadze zaledwie 0,36 kg urządzenie jest łatwe w przenoszeniu i idealnie nadaje się do nagrań w plenerze oraz mobilnych zastosowań. To praktyczny wybór dla muzyków, podcasterów, streamerów i wszystkich, którzy wymagają profesjonalnego zasilania w kompaktowej formie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Żelazo</p></li><li><p>Wymiary</p><p>58 × 32 × 103 mm</p></li><li><p>Waga</p><p>0,36 kg</p></li><li><p>Dostarczane napięcie</p><p>12V lub 48V</p></li><li><p>Wejście zasilania</p><p>12V 150 mA</p></li><li><p>Wyjście zasilania</p><p>230V ~ 50Hz</p></li><li><p>Moc</p><p>2W</p></li></ul><h2>Cechy:</h2><ul><li>Przełączane napięcie 12V/48V – obsługa różnych typów mikrofonów pojemnościowych</li><li>Kompaktowy rozmiar – tylko 58 × 32 × 103 mm</li><li>Metalowa obudowa – trwała i odporna konstrukcja</li><li>Niski pobór mocy – energooszczędne działanie (2W)</li><li>Lekki i mobilny – waży jedynie 0,36 kg</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/mozos.jpg",
+    "images": [
+        "galerie/z/zasilacz-phantom-12v-48v-do-m_78043.webp",
+        "galerie/z/zasilacz-phantom-12v-48v-do-m_78044.webp",
+        "galerie/z/zasilacz-phantom-12v-48v-do-m_78045.webp",
+        "galerie/z/zasilacz-phantom-12v-48v-do-m_78043.webp",
+        "galerie/z/zasilacz-phantom-12v-48v-do-m_78044.webp",
+        "galerie/z/zasilacz-phantom-12v-48v-do-m_78045.webp"
+    ]
+}

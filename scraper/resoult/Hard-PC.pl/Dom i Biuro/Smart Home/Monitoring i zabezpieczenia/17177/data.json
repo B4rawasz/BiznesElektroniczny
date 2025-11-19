@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Monitoring i zabezpieczenia"
+    ],
+    "id": "17177",
+    "code": "TSL-CAM-MINI22S",
+    "name": "Tesla Smart kamera mini",
+    "price": 139.0,
+    "description": "<h2>Mini kamera z inteligentnymi funkcjami</h2><p>Dzięki inteligentnemu wykrywaniu ruchu i podświetleniu IR kamera ta zapewnia wyraźne i szczegółowe ujęcia nawet w ciemności. Jest kompaktowa, a zatem niezwykle wygodna do umieszczenia w każdym zakątku domu. Możesz łatwo sterować kamerą za pomocą aplikacji mobilnej dostępnej w języku angielskim zarówno na iOS, jak i Android.</p><h2>Zaawansowane funkcje nowej generacji</h2><p>Zaawansowane tryby pracy zapewniają prywatność: kamera nie nagrywa gdy jesteś w domu. Wystarczy ustawić godziny pracy kamery i monitorować swój dom w aplikacji TESLA Smart. Łatwo też skonfigurować funkcję wykrywania ruchu w polu widzenia kamery. Zalecamy na przykład skonfigurowanie tego systemu w celu ochrony drzwi lub okien. Optyka kamery w całości mieści się w niewielkiej obudowie.</p><h2>Więcej niż tylko kamera</h2><p>Obraz ma nie tylko wysoką jakość, ale towarzyszy mu także nagrywanie dźwięku. Dzięki dwukierunkowej komunikacji audio możesz zdalnie rozmawiać przez kamerę za pomocą telefonu, na przykład, aby uspokoić swojego zwierzaka lub przestraszyć intruza.</p><h2>Nowa ulepszona konstrukcja</h2><p>Kamera TESLA Smart Camera Mini ma nową, ulepszoną konstrukcję. Jej mała obudowa o wymiarach 6,5 × 5,7 × 12 cm spełnia wszystkie najnowsze funkcje, aby zapewnić maksymalne bezpieczeństwo domu.</p><h2>Spełni wymagania Twojego inteligentnego domu</h2><p>Jeśli jesteś fanem inteligentnych technologii, ta kamera będzie idealnie pasowała do Twojego domu. Ponadto możesz łatwo skonfigurować wszystkie funkcje za pomocą aplikacji mobilnej dostępnej w języku angielskim na iOS i Androida. Urządzenie jest zasilane z gniazdka lub skrzynki odbiorczej i zapisuje materiał w chmurze, lub na karcie pamięci.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-kamera-mini_63331.webp",
+        "galerie/t/tesla-smart-kamera-mini_63332.webp",
+        "galerie/t/tesla-smart-kamera-mini_63333.webp",
+        "galerie/t/tesla-smart-kamera-mini_63334.webp",
+        "galerie/t/tesla-smart-kamera-mini_63335.webp",
+        "galerie/t/tesla-smart-kamera-mini_63331.webp",
+        "galerie/t/tesla-smart-kamera-mini_63332.webp",
+        "galerie/t/tesla-smart-kamera-mini_63333.webp",
+        "galerie/t/tesla-smart-kamera-mini_63334.webp",
+        "galerie/t/tesla-smart-kamera-mini_63335.webp"
+    ]
+}

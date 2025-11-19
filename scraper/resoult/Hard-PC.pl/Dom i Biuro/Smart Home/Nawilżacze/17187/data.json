@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Nawilżacze"
+    ],
+    "id": "17187",
+    "code": "TSL-AC-PRO4",
+    "name": "Tesla Smart Nawilżacz powietrza",
+    "price": 299.0,
+    "description": "<h2>Inteligentny nawilżacz, który pozostawia przyjemne powietrze w pomieszczeniu</h2><p>Nie znosisz gorącego i suchego powietrza? TESLA Smart Humidifier przyjemnie nawilża powietrze w pomieszczeniach o powierzchni do 21 m². Możesz nim w łatwy sposób sterować za pomocą aplikacji mobilnej, która jest również dostępna w języku polskim na systemy iOS i Android.</p><h2>Dostosuj nawilżacz do swoich potrzeb</h2><p>Niektórzy ludzie lubią delikatne nawilżanie, podczas gdy inni chcą, aby ich pokój przypominał las deszczowy. Wszystko zależy od Ciebie. Nawilżacz ma trzy tryby wydajności o różnej intensywności pary i zegar do ustawiania cyklu na dwie, cztery lub osiem godzin. Ty decydujesz, jak wilgotne będzie powietrze w Twoim domu.</p><h2>Łatwe sterowanie i inteligentne funkcje</h2><p>Jeśli jesteś fanem inteligentnych rozwiązań, nawilżacz TESLA będzie dla Ciebie świetnym wyborem. Posiada wbudowany moduł Wi-Fi i współpracuje z Asystentem Google oraz Amazon Alexa, dzięki czemu możesz nim w łatwy sposób sterować za pomocą telefonu. Dzięki temu, że komunikuje się również z GPS, może się uruchomić, gdy będziesz w drodze do domu.</p><h2>Dzięki delikatnej parze będzie Ci się lepiej oddychać</h2><p>Suche powietrze w pomieszczeniu jest problemem zwykle zimą, kiedy pomieszczenia są ogrzewane i nie ma w nich zbyt dużej wentylacji, co w efekcie powoduje kaszel i zmęczenie. Dzięki ultradźwiękowemu atomizerowi nawilżacz ten wytwarza drobną parę z miniaturowymi kropelkami wody, dzięki czemu niemalże od razu można odczuć poprawę jakości powietrza.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>8 szt</p></li><li><p>Wysokość:</p><p>21.8 cm</p></li><li><p>Szerokość:</p><p>25 cm</p></li><li><p>Głębokość:</p><p>15 cm</p></li><li><p>Waga:</p><p>1.05 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-nawilzacz-powietr_63177.webp",
+        "galerie/t/tesla-smart-nawilzacz-powietr_63178.webp",
+        "galerie/t/tesla-smart-nawilzacz-powietr_63179.webp",
+        "galerie/t/tesla-smart-nawilzacz-powietr_63180.webp",
+        "galerie/t/tesla-smart-nawilzacz-powietr_63177.webp",
+        "galerie/t/tesla-smart-nawilzacz-powietr_63178.webp",
+        "galerie/t/tesla-smart-nawilzacz-powietr_63179.webp",
+        "galerie/t/tesla-smart-nawilzacz-powietr_63180.webp"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Oczyszczacze"
+    ],
+    "id": "17161",
+    "code": "TSL-AC-S2-3W-ACC",
+    "name": "Tesla Smart Filtr do oczyszczacza 3w1 S200W/S300W",
+    "price": 189.0,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>8 szt</p></li><li><p>Wysokość:</p><p>15.5 cm</p></li><li><p>Szerokość:</p><p>21.3 cm</p></li><li><p>Głębokość:</p><p>21.3 cm</p></li><li><p>Waga:</p><p>0.5 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-filtr-do-oczyszcz_63459.webp",
+        "galerie/t/tesla-smart-filtr-do-oczyszcz_63460.webp",
+        "galerie/t/tesla-smart-filtr-do-oczyszcz_63461.webp",
+        "galerie/t/tesla-smart-filtr-do-oczyszcz_63462.webp",
+        "galerie/t/tesla-smart-filtr-do-oczyszcz_63459.webp",
+        "galerie/t/tesla-smart-filtr-do-oczyszcz_63460.webp",
+        "galerie/t/tesla-smart-filtr-do-oczyszcz_63461.webp",
+        "galerie/t/tesla-smart-filtr-do-oczyszcz_63462.webp"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Ogrzewanie"
+    ],
+    "id": "17169",
+    "code": "TSL-AC-HTR300",
+    "name": "Tesla Smart Inteligentny grzejnik HTR300",
+    "price": 599.0,
+    "description": "<h2>Nowoczesne technologie</h2><p>Za pomocą szybkoobrotowego silnika, który zapewnia 2 poziomy ogrzewania i tryb wentylacji, TESLA Smart Heater może ogrzać pomieszczenie do odpowiedniej temperatury i automatycznie ją utrzyma bez konieczności żadnej interwencji dzięki nowoczesnej metodzie ogrzewania PTC, która jest wydajna, ekonomiczna i bezpieczna.</p><h2>Szeroka funkcjonalność</h2><p>Naciśnij przycisk MODE i przełącz się pomiędzy trzema dostępnymi trybami - Wentylator, Niski poziom ogrzewania i Wysoki poziom ogrzewania. Za pomocą przycisku Timer możesz następnie ustawić zakres czasu, w którym grzejnik będzie działać - od jednej do dwunastu godzin. Naciśnij przycisk Light, aby włączyć oświetlenie otaczające wylot powietrza od wewnątrz. Wielokrotne naciskanie przycisku umożliwia wybór pomiędzy niebieskim, zielonym, fioletowym i białym kolorem oświetlenia.Przycisk Swing z kolei aktywuje rotację górnej części grzałki pod kątem 60°.</p><h2>Bezpieczeństwo na pierwszym miejscu</h2><p>Grzejnik TESLA Smart Heater HTR300 posiada szereg funkcji bezpieczeństwa, które w razie problemu natychmiast dezaktywują urządzenie. Elementy te obejmują zabezpieczenie przed niezamierzonym przewróceniem grzejnika oraz zabezpieczenie przed przegrzaniem grzałki.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość:</p><p>70 cm</p></li><li><p>Szerokość:</p><p>23 cm</p></li><li><p>Głębokość:</p><p>23 cm</p></li><li><p>Waga:</p><p>3.9 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-inteligentny-grze_63423.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63424.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63425.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63426.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63427.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63428.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63429.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63430.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63431.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63423.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63424.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63425.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63426.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63427.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63428.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63429.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63430.webp",
+        "galerie/t/tesla-smart-inteligentny-grze_63431.webp"
+    ]
+}

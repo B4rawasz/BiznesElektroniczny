@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Wentylatory 120mm"
+    ],
+    "id": "17641",
+    "code": "LUAF-103",
+    "name": "Wentylator APNX FP1-120 PWM ARGB -120mm White",
+    "price": 46.9,
+    "description": "<h2>Zoptymalizowana konstrukcja połączona z wysoką wydajnością</h2><p>Szukasz wentylatora, który zapewni doskonałą wydajność chłodzenia i sprawi, że Twój komputer będzie przyciągał wzrok? Wentylator APNX FP1 120 mm PWM ARGB nie pozostawia nic do życzenia! Jego wydajna konstrukcja wtłacza do obudowy więcej powietrza niż w przypadku konwencjonalnych wentylatorów. Jednocześnie wentylator pozostaje wyjątkowo cichy nawet przy dużych prędkościach.</p><h2>Naprawdę wszechstronny</h2><p>Irytujący hałas wentylatora jest absolutnie nie do przyjęcia dla graczy. Tym lepiej, że wentylatory APNX FP1 120 mm PWM ARGB są naturalnie ciche dzięki zastosowaniu łożyska hydraulicznego. Wentylator generuje maksymalnie 33,2 dB(A) przy maksymalnej prędkości 1600 obr./min. Niskim temperaturom sprzyja również zwiększona wysokość o 30 milimetrów . Maksymalne wartości objętości tłoczenia 126,7 m³/h i ciśnienia statycznego 2,26 mmH2O mówią same za siebie.</p><h2>Zoptymalizowana koncepcja oświetlenia i designu</h2><p>APNX wykazał się również dobrą ręką, jeśli chodzi o projektowanie. Najbardziej uderzającą cechą jest ciągła rama APNX FP1 , która nie tylko nadaje fanom niepowtarzalny wygląd, ale także doskonale wpasowuje się w ekosystem APNX. Oświetlenie ARGB ogranicza się do łopat wirnika i wnętrza ramy, nadając systemowi subtelny wygląd. Dzięki 4-pinowym gniazdom PWM i 3-pinowym gniazdom ARGB wentylatory APNX FP1 120 mm PWM ARGB można podłączyć do niemal każdej standardowej płyty głównej lub kontrolera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary:</p><p>120 x 120 x 30 mm (szer. x wys. x gł.)</p></li><li><p>Materiał:</p><p>tworzywo sztuczne</p></li><li><p>Kolor:</p><p>Biały</p></li><li><p>Łożysko:</p><p>Łożysko hydrodynamiczne</p></li><li><p>Prędkość:</p><p>500 - 1600 obr/min</p></li><li><p>Głośność:</p><p>15,3 - 33,2 dB(A)</p></li><li><p>Wydajność tłoczenia:</p><p>maks. 126,7 m³/h</p></li><li><p>Ciśnienie statyczne:</p><p>maks. 2,26 mmH2O</p></li><li><p>Napięcie:</p><p>12 V</p></li><li><p>Napięcie początkowe:</p><p>5 V</p></li><li><p>Prąd:</p><p>0,4A</p></li><li><p>Pobór mocy</p><p>4,8 W</p></li><li><p>Złącza:</p><p>1x 4pin PWM<br/>1x 3-pin ARGB</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>APNX</p></li><li><p>Dane producenta</p><p>Aerocool Advanced Technologies Corp., 3F. -6, No. 79, Sec. 1, Xintai 5th Rd., Xizhi Dist., 22010 New Taipei City , Tajwan, info@apnxdrive.onmicrosoft.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH , Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/apnx.jpg",
+    "images": [
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64547.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64548.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64549.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64550.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64551.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64552.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64553.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64554.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64555.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64547.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64548.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64549.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64550.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64551.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64552.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64553.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64554.webp",
+        "galerie/w/wentylator-apnx-fp1-120-pwm-a_64555.webp"
+    ]
+}

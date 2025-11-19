@@ -1,0 +1,34 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Karty dźwiękowe - Wzmacniacze DAC"
+    ],
+    "id": "12691",
+    "code": "SH-UA2",
+    "name": "Wzmacniacz słuchawkowy Shanling UA2 DAC Black",
+    "price": 399.0,
+    "description": "OPIS <p>UA2 to kolejny model z nowej linii przenośnych DAC-ów od firmy Shanling. Po ciepło przyjętym UA1 nadeszła pora na bardziej zaawansowane urządzenie. UA2 to mobilny przetwornik cyfrowo-analogowy z funkcją wzmacniacza słuchawkowego, który wyróżnia się niewielkimi wymiarami i charakterystycznym eleganckim designer.</p><figure><img alt=\"\" height=\"921\" src=\"galerie/w/wzmacniacz-sluchawkowy-shanli_45562.webp\" width=\"1014\"/></figure><p>Shanling UA2 oparto o nowoczesny układ DAC ES9038Q2M z linii Sabre od ESS Technology, który znany jest z przenośnych playerów HiFi i stacjonarnych przetworników cyfrowo-analogowych. Zapewnia on wsparcie dla dźwięku o rozdzielczości 32-bit/768kHz i obsługuje pliki DSD512. Dzięki świetnej implementacji możemy cieszyć się brzmieniem o wiele wyższej jakości, niż w przypadku jakiegokolwiek smartfona czy przenośnego DAC-a. Dedykowany wzmacniacz słuchawkowy o dużej mocy Shanling UA2 posiada poza wysokiej klasy DAC-iem posiada również dedykowany wzmacniacz słuchawkowy. Zastosowano tutaj moduł Ricore RT6863, który zaprojektowano z myślą o współpracy z układami od ESS Technology. Wzmacniacz posiada moc 195mW przy 32Ohm i wysoką jakość dźwięku. UA2 korzysta również regulatora LDO (low-dropout), dzięki któremu zredukowano poziom szumu, który nie jest słyszalny nawet przy korzystaniu z bardzo czułych słuchawek dokanałowych.</p><h2>Dwa wyjścia słuchawkowe</h2><p>Shanling UA2 poza standardowym wyjściem mini-jack 3.5mm posiada również zbalansowane złącze 2.5mm, które zapewnia moc do 195mW przy impedancji 32Ohm.</p><h2>Duże możliwości</h2><p>UA2 posiada wbudowane złącze USB typu C, co pozwala na wykorzystywanie różnych kabli i tym samym umożliwia podłączenie niemal dowolnego urządzenia. W zestawie znajduje się przewód USB-C do USB-C oraz adapter umożliwiający podłączenie DAC-a do USB-A. W każdej chwili jednak można dokupić przewód np. USB-C na Lightning i cieszyć się wysoką jakością dźwięku w urządzeniach Apple.</p><h2>Aplikacja Eddict Player</h2><p>Shanling między innymi dla modelu UA2 przygotował aplikację Eddict Player, za sprawą której możliwie jest zarządzanie urządzeniem z poziomu smartfona. Poza dopasowaniem głośności, aplikacja daje dostęp do zaawansowanych ustawień jak poziom wzmocnienia czy zastosowania filtrów cyfrowych.</p><h2>Wysoka jakość wykonania i wskaźniki LED</h2><p>Shanling UA2 posiada elegancką i lekką obudowę wykonaną z odpornego na uszkodzenia mechaniczne stopu aluminium. Urządzenie ma wbudowaną diodę LED, która swoim kolorem komunikuje aktualną częstotliwość próbkowania oraz sygnalizuje przejście w tryb gamingowy.</p><figure><img alt=\"\" height=\"642\" src=\"galerie/w/wzmacniacz-sluchawkowy-shanli_45642.webp\" width=\"790\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>54 x 18 x 9 mm</p></li><li><p>Ciężar</p><p>12,6 g</p></li><li><p>DAC</p><p>ESS SABRE ES9038Q2M</p></li><li><p>AMP</p><p>Ricore RT6863</p></li><li><p>Wyjścia</p><p>2,5 mm (bal.), 3,5 mm (SE)</p></li><li><p>Port USB</p><p>typu C</p></li><li><p>Panel</p><p>USB-C do USB-C</p></li><li><p>Adapter</p><p>USB-C do USB-A</p></li><li><p>Charakterystyka wyjścia 3,5 mm (single ended)</p><p>moc wyjściowa 125 mW @ 32 Ω (2 V @ 32 Ω)<br/>pasmo przenoszenia 20 Hz - 50 kHz (+/- 0,5 dB)<br/>SNR 121 dB @ 32 Ω (A-weighting)<br/>separacja kanałów 76 dB @ 32 Ω<br/>zakres dynamiczny 122 dB @ 32 Ω (A-weighting)<br/>THD+N 0,0008% @ 32 Ω (A-weighting @ 0,5 V)<br/>impedancja wyjściowa 0,8 Ω</p></li><li><p>Charakterystyka wyjścia 2,5 mm (balanced)</p><p>moc wyjściowa 195 mW @ 32 Ω (2,5 V @ 32 Ω) <br/>pasmo przenoszenia 20 Hz - 50 kHz (+/- 0,5 dB) <br/>SNR 116 dB @ 32 Ω (A-weighting)<br/>separacja kanałów 109 dB @ 32 Ω<br/>zakres dynamiczny 120 dB @ 32 Ω (A-weighting)<br/>THD+N 0,0008% @ 32 Ω (A-weighting @ 0,5 V)<br/>impedancja wyjściowa 1,6 Ω</p></li><li></li></ul></article>",
+    "security_data": "",
+    "manufacturer_img": "galerie/producenci/shanling.jpg",
+    "images": [
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45560.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45561.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45562.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45563.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45564.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45565.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45566.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45567.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45642.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45560.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45561.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45562.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45563.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45564.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45565.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45566.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45567.webp",
+        "galerie/w/wzmacniacz-sluchawkowy-shanli_45642.webp"
+    ]
+}

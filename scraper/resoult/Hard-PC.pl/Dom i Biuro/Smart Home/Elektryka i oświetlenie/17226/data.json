@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Elektryka i oświetlenie"
+    ],
+    "id": "17226",
+    "code": "TSL-SWI-WIFI1",
+    "name": "Tesla Smart Włącznik światła",
+    "price": 84.9,
+    "description": "<h2>Inteligentny przełącznik dla Twojej wygody</h2><p>Ustaw światła tak, aby automatycznie wyłączały się w zależności od pory dnia lub godziny. Dzięki TESLA Smart Switch i aplikacji mobilnej TESLA Smart możesz to zrobić w mgnieniu oka na swoim smartfonie lub tablecie.</p><h2>Współpraca z inteligentnymi asystentami</h2><p>Inteligentny przełącznik TESLA jest kompatybilny z Google Assistant i Amazon Alexa.</p><h2>Przełącznik obsłużysz zdalnie</h2><p>TESLA Smart Switch jest wyposażony w moduł Wi-Fi, dzięki czemu możesz sterować oświetleniem w domu z dowolnego miejsca. Wystarczy sparować go z aplikacją mobilną, która jest dostępna za darmo w języku polskim dla Android i iOS.</p><h2>Twórz zautomatyzowane funkcje</h2><p>Aplikacja mobilna zapewnia możliwość wcześniejszego skonfigurowania określonych funkcji dla określonych sytuacji. Nie musisz się o nic martwić. Podłącz oświetlenie do czujnika ruchu tak, aby włączało się zaraz po wejściu do pomieszczenia. Ustaw parametry wyłączania - na przykład o określonej porze każdego dnia, kiedy wychodzisz z domu, lub gdy czujnik nie rejestruje ruchu przez dłuższy czas. A kiedy jesteś na wakacjach? Użyj ich jako elementu bezpieczeństwa. Zdalnie włącz światła i stwórz iluzję, że ktoś nadal jest w domu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>80 szt</p></li><li><p>Wysokość:</p><p>3.75 cm</p></li><li><p>Szerokość:</p><p>8.6 cm</p></li><li><p>Głębokość:</p><p>8.6 cm</p></li><li><p>Waga:</p><p>0.152 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-wlacznik-swiatla_62971.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62972.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62973.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62974.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62975.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62976.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62977.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62971.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62972.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62973.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62974.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62975.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62976.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62977.webp"
+    ]
+}

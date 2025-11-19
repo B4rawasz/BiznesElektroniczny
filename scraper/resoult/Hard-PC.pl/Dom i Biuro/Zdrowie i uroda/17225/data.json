@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Zdrowie i uroda"
+    ],
+    "id": "17225",
+    "code": "TSL-HC-F48E-W",
+    "name": "Tesla Smart Waga łazienkowa Wi-Fi",
+    "price": 149.0,
+    "description": "<h2>Wszystkie dane zawsze w zasięgu wzroku</h2><p>Waga posiada czytelny wyświetlacz LED, dzięki któremu szybko odczytasz najważniejsze dane. Poprzez połączenie Wi-Fi, waga przesyła informacje do smartfona lub tabletu dla jeszcze większej przejrzystości.</p><h2>Waga, która mierzy tylko masę ciała?</h2><p>Absolutnie nie! Dzięki wbudowanym czujnikom i elektrodom waga może przetwarzać do 13 różnych danych.</p><h2>Idealny pomiar</h2><p>Waga jest wyposażona w cztery czujniki tensometryczne, które są strategicznie rozłożone, aby zapewnić dokładne ważenie. Oprócz tych czujników, na górze urządzenia znajduje się kilka elektrod, które określają i mierzą dodatkowe dane.</p><h2>Łatwa praca z danymi</h2><p>Urządzenie można bardzo łatwo połączyć z aplikacją TESLA Smart, która pomaga w dostępie do informacji i ostrzega, gdy zdrowie jest zagrożone. Aplikację można pobrać na urządzenia z systemami operacyjnymi iOS i Android.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>5 szt</p></li><li><p>Wysokość:</p><p>2.2 cm</p></li><li><p>Szerokość:</p><p>30 cm</p></li><li><p>Głębokość:</p><p>30 cm</p></li><li><p>Waga:</p><p>1.691 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-waga-lazienkowa-w_62978.webp",
+        "galerie/t/tesla-smart-waga-lazienkowa-w_62979.webp",
+        "galerie/t/tesla-smart-waga-lazienkowa-w_62980.webp",
+        "galerie/t/tesla-smart-waga-lazienkowa-w_62981.webp",
+        "galerie/t/tesla-smart-waga-lazienkowa-w_62978.webp",
+        "galerie/t/tesla-smart-waga-lazienkowa-w_62979.webp",
+        "galerie/t/tesla-smart-waga-lazienkowa-w_62980.webp",
+        "galerie/t/tesla-smart-waga-lazienkowa-w_62981.webp"
+    ]
+}

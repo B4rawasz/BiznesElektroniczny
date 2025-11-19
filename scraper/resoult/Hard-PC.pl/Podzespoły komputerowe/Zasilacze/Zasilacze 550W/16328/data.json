@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zasilacze 550W"
+    ],
+    "id": "16328",
+    "code": "PS-LTP-0550NPCNEU-2",
+    "name": "Zasilacz Thermaltake Litepower II Black 550W",
+    "price": 189.0,
+    "description": "OPIS <p>Seria Litepower dostępna jest w zakresie mocy od 350 W do 650 W. Dzięki wysokiej sprawności (do 85%) zasilacze tej serii oszczędzają energię i dostosowują się do każdej konstrukcji o najbardziej wymagających wymaganiach. Wbudowany inteligentny wentylator chłodzący zapewnia doskonały przepływ powietrza przy wyjątkowo niskim poziomie hałasu. Ponadto konstrukcja z pojedynczą linią + 12V umożliwia nieprzerwane użytkowanie ze stabilną i niezawodną wydajnością.</p><h2>Niezwykle cichy wentylator</h2><p>Seria Litepower wykorzystuje wentylator chłodzący 120 mm, który zapewnia doskonały przepływ powietrza przy wyjątkowo niskim poziomie hałasu.</p><h2>Kable o dużej elastyczności</h2><p>Aby zapobiec blokowaniu przepływu powietrza, dostosowaliśmy kable zasilacza w sposób, który umożliwia optymalne zarządzanie okablowaniem we wnętrzu obudowy. Wyjątkowo długi kabel procesora EPS / ATX 12V 4 + 4pin (550mm) gwarantuje wystarczającą długość, zwłaszcza w obudowach typu full tower. 24-pinowy kabel główny w oplocie również ułatwia zarządzanie kablami, zmniejszając bałagan i zwiększając przepływ powietrza w obudowie.</p><h2>Wysokiej jakości komponenty</h2><p>Wysokiej jakości komponenty umożliwiają nieprzerwane użytkowanie ze stabilną i niezawodną wydajnością (bez problemów z kondensatorami).</p><h2>Masywna, pojedyńcza szyna + 12V</h2><p>Seria Litepower jest wyposażona w mocną, pojedyńczą szynę + 12V, zapewniającą doskonałą wydajność przy wszystkich typach obciążeń systemu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>550W</p></li><li><p>Wymiary</p><p>150x86x140mm</p></li><li><p>PFC</p><p>Aktywne</p></li><li><p>Napięcie robocze</p><p>230V</p></li><li><p>Wentylator</p><p>120mm Fan</p><p>1800±10% RPM</p></li><li><p>Złącza PCIE 6+2pin</p><p>2szt</p></li><li><p>Specyfikacja prądowo napięciowa</p><p>+3.3V - 21A<br/>+5V - 16A<br/>Moc wyjściowa na linii +3.3V i 5V - 105W<br/>+12V - 38A<br/>Moc Wyjściowa na linii +12V - 456W<br/>-12V - 0.5A<br/>Moc wyjściowa na linii 12V</p><p>6W<br/>+5Vsb - 2.5A<br/>Moc wyjściowa na linii +5Vsb - 12.5V</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermaltake</p></li><li><p>Dane producenta</p><p>Thermaltake Technology Co., Ltd., 5F,No.185, Sec.2 Tiding Blvd., Neihu Dist., Tajpej, Tajwan</p></li><li><p>Podmiot odpowiedzialny</p><p>eXtremeMem, Michał Chmura, Szyszkowa 35, 02-291 Warszawa, michal.chmura@extrememem.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/thermaltake.jpg",
+    "images": [
+        "galerie/z/zasilacz-thermaltake-litepowe_58032.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58033.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58034.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58035.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58036.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58037.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58032.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58033.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58034.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58035.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58036.webp",
+        "galerie/z/zasilacz-thermaltake-litepowe_58037.webp"
+    ]
+}

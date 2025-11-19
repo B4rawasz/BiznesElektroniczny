@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Myszki",
+        "Myszki bezprzewodowe"
+    ],
+    "id": "17002",
+    "code": "GAMO-1183",
+    "name": "Mysz VGN Dragonfly F1 PRO Wireless White",
+    "price": 269.0,
+    "description": "OPIS   Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Bezprzewodowa mysz do gier VGN Dragonfly F1 PRO</h2><p>VGN Dragonfly F1 PRO to <strong>myszka bezprzewodowa dla graczy</strong>, która łączy lekkość, precyzję i niezawodność. Została zaprojektowana z myślą o maksymalnej wydajności w grach, gdzie liczy się każda milisekunda. Nowoczesna konstrukcja, trwałe komponenty i ergonomiczny kształt zapewniają komfort nawet podczas wielogodzinnych sesji.</p><p>Za wyjątkową responsywność odpowiadają przełączniki Kailh Golden Black Mamba 8.0, które oferują precyzyjne, sprężyste kliknięcie. Wbudowany sensor PixArt PAW3395 zapewnia czułość do 26 000 CPI, z możliwością regulacji co 50 CPI. Standardowo myszka pracuje z częstotliwością 1000Hz, którą można rozszerzyć do 4000Hz po dokupieniu adaptera 4K. Stabilne połączenie bezprzewodowe zapewnia moduł Nordic 52833, a możliwość podłączenia przewodowego przez USB-C pozwala grać również w trybie ładowania.</p><h2>Precyzja, jakiej oczekują profesjonaliści</h2><p>Sercem tej <strong>bezprzewodowej myszki gamingowej</strong> jest zaawansowany sensor PixArt PAW3395. Zapewnia on błyskawiczną reakcję, bez wygładzania, interpolacji i opóźnień. Dane śledzenia są przesyłane w najczystszej formie, co przekłada się na maksymalną kontrolę nad kursorem – nawet przy szybkich i dynamicznych ruchach.</p><p>Czułość w zakresie 50–26 000 CPI można dostosować precyzyjnie co 50 jednostek. Dodatkowo, cztery profile CPI możesz zapisać bezpośrednio w pamięci myszy i wygodnie przełączać za pomocą przycisku na spodzie. Oprogramowanie umożliwia również pełną personalizację – od podświetlenia RGB po debounce time i LOD. To <strong>mysz komputerowa bezprzewodowa</strong>, która daje Ci pełną kontrolę nad każdym aspektem działania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>ok. 49g</p></li><li><p>Materiały</p><p>tworzywo sztuczne, PTFE</p></li><li><p>Żywotność baterii</p><p>65 godzin</p></li><li><p>Czujnik</p><p>PixArt PAW3395</p></li><li><p>Rozdzielczość</p><p>do 26 000 CPI (regulowana w krokach co 50 CPI)</p></li><li><p>Mikrokontroler</p><p>Nordic 52833</p></li><li><p>Prędkość</p><p>650IPS</p></li><li><p>Przyspieszenie</p><p>50G</p></li><li><p>Odległość odrywania</p><p>1 mm</p></li><li><p>Częstotliwość odpytywania</p><p>1000Hz (4000Hz po zakupie dodatkowego adaptera)</p></li><li><p>Przełączniki Główne przyciski</p><p>Kailh Golden Black Mamba GM 8.0</p></li><li><p>Średnia żywotność</p><p>90 milionów kliknięć</p></li><li><p>Kółko myszy</p><p>Enkoder TTC Slver, koder Kailh GE2.0</p></li><li><p>Kabel myszy</p><p>kabel USB-C do USB 2.0 typu A</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>VGN</p></li><li><p>Dane producenta</p><p>SHENZHEN TENGMI TECHNOLOGY CO.,LTD, ZhIHuiGu, BaoHuaSenTongLe ,Qianjin 2nd xixiang Street ,BaoAn District, Guangdong, 302 Room Shenzhen, Chiny</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland ,info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/vgn.jpg",
+    "images": [
+        "galerie/m/mysz-vgn-dragonfly-f1-pro-4k_60121.webp",
+        "galerie/m/mysz-vgn-dragonfly-f1-pro-4k_60122.webp",
+        "galerie/m/mysz-vgn-dragonfly-f1-pro-4k_60121.webp",
+        "galerie/m/mysz-vgn-dragonfly-f1-pro-4k_60122.webp"
+    ]
+}

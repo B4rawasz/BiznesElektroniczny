@@ -1,0 +1,33 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Ogrzewanie"
+    ],
+    "id": "17163",
+    "code": "TSL-TVR100-TV01ZG",
+    "name": "Tesla Smart Głowica termostatyczna Valve TV100",
+    "price": 189.0,
+    "description": "<h2>Sterowanie prostsze niż myślisz</h2><p>Wyświetlacz LCD z podświetleniem LED i dużymi przyciskami sprawią, że każdy poradzi sobie z inteligentną głowicą termostatyczną. Jeśli jednak nie ma Cię w pobliżu, możesz ustawić temperaturę z dowolnego miejsca za pomocą telefonu. Inteligentne urządzenie jest zasilane dwiema bateriami AA, które wytrzymują do 18 miesięcy. Nowe baterie kupisz w każdym sklepie.</p><h2>Oszczędza do 30% kosztów ogrzewania</h2><p>Inteligentna głowica termostatyczna wykrywa nagły spadek temperatury po otwarciu okna i odpowiednio reguluje ogrzewanie. Dzięki temu zużywasz tylko tyle energii, ile potrzebujesz. Dzięki temu oszczędzasz pieniądze, ale nie ogranicza to w żaden sposób Twojego komfortu.</p><h2>Wygoda na pierwszym miejscu</h2><p>Automatycznie włącza ogrzewanie, gdy tylko zbliżasz się do domu, lub wyłącza je, gdy z niego wychodzisz.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy korzystającej z protokołu ZigBee, za pomocą którego produkty komunikują się ze sobą. Do ich prawidłowego funkcjonowania niezbędne jest posiadanie jednostki centralnej TESLA Smart ZigBee Hub. W ten sposób stworzysz wspólną sieć dla wszystkich inteligentnych produktów i umożliwisz im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wartość, automatycznie powiadomi osuszacz powietrza, który się uruchomi.</p><h2>Wybierz tryb, który Ci odpowiada</h2><p>Wybierasz się na urlop, ale musisz pozostawić włączone ogrzewanie, aby zapobiec zamarźnięciu domu? W takich sytuacjach inteligentna głowica termostatyczna jest wyposażona w kilka trybów, które regulują ogrzewanie w zależności od sytuacji. Tryb Eco lub wakacyjny zapewni, że nie zmarnujesz ani jednej kilowatogodziny.</p><h2>Za pomocą jednej aplikacji sterujesz wszystkimi produktami</h2><p>Nie ma nic prostszego od sterowania całym domem za pomocą smartfona. Dokładnie to umożliwia aplikacja TESLA Smart. Pozwala kontrolować i zarządzać wszystkimi inteligentnymi urządzeniami. Dzięki automatyzacji i scenariuszom możesz stworzyć inteligentny dom, który uwolni Cię od stresu, a codzienność uczyni przyjemniejszą.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>48 szt</p></li><li><p>Wysokość:</p><p>9.83 cm</p></li><li><p>Szerokość:</p><p>5.53 cm</p></li><li><p>Głębokość:</p><p>5.4 cm</p></li><li><p>Waga:</p><p>0.142 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-glowica-termostat_63447.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63448.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63449.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63450.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63451.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63452.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63453.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63454.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63447.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63448.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63449.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63450.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63451.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63452.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63453.webp",
+        "galerie/t/tesla-smart-glowica-termostat_63454.webp"
+    ]
+}

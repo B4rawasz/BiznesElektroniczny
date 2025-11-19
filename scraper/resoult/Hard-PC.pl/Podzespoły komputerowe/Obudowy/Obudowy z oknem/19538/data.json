@@ -1,0 +1,33 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Obudowy z oknem"
+    ],
+    "id": "19538",
+    "code": "0000008302",
+    "name": "Obudowa Antec Constellation C8 White ARGB",
+    "price": 658.9,
+    "description": "<h2>Obudowa do komputera Antec Constellation C8 White ARGB</h2><p>Antec C8 ARGB White to obudowa klasy premium, która spełni oczekiwania nawet najbardziej wymagających użytkowników. Zintegrowane podświetlenie ARGB, solidna konstrukcja z hartowanego szkła i metalu oraz możliwość montażu zaawansowanych systemów chłodzenia wyróżniają ten model wśród konkurencji. Dzięki przemyślanemu projektowi oferuje dużą przestrzeń wewnętrzną, nowoczesny system zarządzania kablami oraz wsparcie dla szerokiej gamy podzespołów, w tym najnowszych kart graficznych serii RTX 40. To idealne rozwiązanie dla osób poszukujących stylu, wydajności i funkcjonalności w jednym.</p><h2>Nowoczesny design i wytrzymała konstrukcja</h2><p>Antec C8 ARGB wyróżnia się szklanym panelem bocznym i przednim, które podkreślają estetykę zestawu komputerowego. Wykonana z połączenia stali i plastiku, zapewnia trwałość i odporność na uszkodzenia. Panele są łatwe w demontażu, co upraszcza dostęp do wnętrza obudowy.</p><h2>Zaawansowane możliwości chłodzenia</h2><p>Obudowa oferuje wsparcie dla maksymalnie 10 wentylatorów, w tym 2 fabrycznie zamontowanych ARGB na dole i 1 na tyle. Dodatkowo można zamontować chłodzenie wodne o długości do 360 mm na górze, boku lub na dole, zapewniając doskonałą wydajność termiczną nawet w intensywnym użytkowaniu.</p><h2>Elastyczność montażu podzespołów</h2><p>Obsługa płyt głównych w formatach E-ATX, ATX, Micro ATX oraz Mini ITX sprawia, że obudowa jest bardzo uniwersalna. Duża przestrzeń wewnętrzna pozwala na montaż kart graficznych o długości do 440 mm oraz chłodzenia procesora o wysokości do 175 mm.</p><h2>Stylowe i funkcjonalne oświetlenie ARGB</h2><p>Zintegrowany hub ARGB i PWM umożliwia łatwe zarządzanie podświetleniem i wentylatorami. Synchronizacja z płytą główną pozwala dostosować efekty świetlne do indywidualnych preferencji użytkownika.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Rozmiar E-ATX: Obsługa płyt głównych E-ATX, ATX, Micro ATX i Mini ITX</li><li>Zaawansowane chłodzenie: Możliwość montażu do 10 wentylatorów i chłodzenia wodnego o długości do 360 mm</li><li>Podświetlenie ARGB: Wbudowany hub sterowania ARGB i PWM dla synchronizacji z płytą główną</li><li>Pojemność na karty graficzne: Obsługuje GPU o długości do 440 mm</li><li>Szklane panele: Panel frontowy i boczny z hartowanego szkła dla eleganckiego wyglądu</li><li>Modularne kieszenie na dyski: Obsługa 2 dysków 3,5” i 4 dysków 2,5”</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Full Tower</p></li><li><p>Standard zasilacza</p><p>ATX</p></li><li><p>Format płyty głównej</p><p>E-ATX / ATX / MICROATX / MITX</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Podświetlenie obudowy</p><p>ARGB</p></li><li><p>Ilość wewnętrznych zatok 3.5</p><p>2 szt</p></li><li><p>Ilość wewnętrznych zatok 2.5</p><p>2 szt</p></li><li><p>Wentylatory zainstalowane</p><p>3 szt</p></li><li><p>Wentylatory maksymalna ilość</p><p>10 szt</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak</p></li><li><p>Limit wysokości chłodzenia CPU</p><p>175 mm</p></li><li><p>Limit długości karty graficznej</p><p>440 mm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Antec</p></li><li><p>Podmiot odpowiedzialny</p><p>Antec Europe BV, Corkstraat 46, 3047 AC Rotterdam, Holandia, eusupport@antec.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/antec.jpg",
+    "images": [
+        "galerie/o/obudowa-antec-constellation-c_73137.webp",
+        "galerie/o/obudowa-antec-constellation-c_73138.webp",
+        "galerie/o/obudowa-antec-constellation-c_73139.webp",
+        "galerie/o/obudowa-antec-constellation-c_73140.webp",
+        "galerie/o/obudowa-antec-constellation-c_73141.webp",
+        "galerie/o/obudowa-antec-constellation-c_73142.webp",
+        "galerie/o/obudowa-antec-constellation-c_73143.webp",
+        "galerie/o/obudowa-antec-constellation-c_73144.webp",
+        "galerie/o/obudowa-antec-constellation-c_73137.webp",
+        "galerie/o/obudowa-antec-constellation-c_73138.webp",
+        "galerie/o/obudowa-antec-constellation-c_73139.webp",
+        "galerie/o/obudowa-antec-constellation-c_73140.webp",
+        "galerie/o/obudowa-antec-constellation-c_73141.webp",
+        "galerie/o/obudowa-antec-constellation-c_73142.webp",
+        "galerie/o/obudowa-antec-constellation-c_73143.webp",
+        "galerie/o/obudowa-antec-constellation-c_73144.webp"
+    ]
+}

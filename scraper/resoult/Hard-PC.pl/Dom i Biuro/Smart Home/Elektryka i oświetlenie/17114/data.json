@@ -1,0 +1,33 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Elektryka i oświetlenie"
+    ],
+    "id": "17114",
+    "code": "TSL-LIG-A70ZB",
+    "name": "TechToy Smart Żarówka LED RGB 9W E27 Zigbee",
+    "price": 49.0,
+    "description": "<h2>Oświetl drogę do inteligentnych domów</h2><p>Pragniesz zaoszczędzić na rachunkach za energię? Inteligentna żarówka TechToy to doskonały wybór. Przy poborze mocy elektrycznej 9 W i jasności 806 lumenów jest to żarówka energooszczędna, która utrzymuje rachunek za prąd na niskim poziomie, ale nadal dobrze oświetla pomieszczenie.</p><h2>Programy oświetlenia dla każdej sytuacji</h2><p>Każda osoba preferuje różne odcienie i intensywność światła. Podobnie każda czynność wymaga innych ustawień oświetlenia. Wybierz automatyzacje dla określonej sytuacji naciśnięciem jednego przycisku. Na przykład jeżeli chciałbyś, żeby na wieczór światło było ciemniejsze to wystarczy, że ustawisz to w aplikacji.</p><h2>Temperatura barwowa żarówki według własnego gustu</h2><p>Inteligentna żarówka TechToy oferuje zakres temperatur barwowych od 2200 K do 6500 K RGB+CCT. Pozwala to nie tylko wybrać niemal dowolną barwę ze spektrum barw, ale także jej temperaturę w przypadku światła białego.</p><h2>Oszczędzanie energii</h2><p>Ważną cechą inteligentnych żarówek TechToy jest bez wątpienia ich niskie zużycie energii. Są to zatem żarówki energooszczędne, które szczególnie nadają się do pomieszczeń i przestrzeni, które nie muszą być oświetlane bardzo jasnym światłem. Dzięki poborowi energii na poziomie 9 W i jasności 806 lumenów jest to żarówka energooszczędna.</p><h2>Automatyzacja oświetlenia za pomocą aplikacji TESLA Smart</h2><p>Po co masz sterować swoim oświetleniem za pomocą tradycyjnego włącznika, skoro możesz to robić równie łatwo za pomocą aplikacji Tesla Smart? Możesz również ustawić inteligentne programy, które będą dostosowane do Twoich potrzeb i stylu życia. Na przykład, światła włączają się w momencie, gdy inteligentny czujnik ruchu wykryje, że wszedłeś do pokoju i wyłączają się, gdy wychodzisz.</p><h2>Protokół ZigBee</h2><p>Inteligentne żarówki TechToy wykorzystują zaawansowany protokół bezprzewodowy ZigBee do łączenia się z inteligentnym domem. Aby inteligentne żarówki działały, musisz także posiadać jednostkę centralną TESLA Smart ZigBee Hub. Łączy wszystkie inteligentne elementy, które nie mają własnego wbudowanego modułu Wi-Fi i współpracują z protokołem ZigBee. Ale to też przynosi szereg korzyści. Najważniejszym z nich jest niska energochłonność tych produktów. Przepływ danych między jednostką centralną ZigBee a aplikacją TESLA Smart jest niski, więc prawie nie używasz pasma 2,4 GHz w swojej sieci bezprzewodowej. Mieszana topologia sieci (topologia siatki) zapewnia wtedy prawidłowe funkcjonowanie ekosystemu nawet wtedy, gdy któryś z elementów inteligentnego domu nagle przestanie działać. Ostatnią zaletą jest kompatybilność różnych producentów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>50 szt</p></li><li><p>Wysokość:</p><p>13.6 cm</p></li><li><p>Szerokość:</p><p>7 cm</p></li><li><p>Głębokość:</p><p>7 cm</p></li><li><p>Waga:</p><p>0.055 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64014.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64015.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64016.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64017.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64018.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64019.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64020.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64021.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64014.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64015.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64016.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64017.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64018.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64019.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64020.webp",
+        "galerie/t/techtoy-smart-zarowka-led-rgb_64021.webp"
+    ]
+}

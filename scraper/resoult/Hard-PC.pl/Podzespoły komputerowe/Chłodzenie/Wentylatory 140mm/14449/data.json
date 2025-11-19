@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Wentylatory 140mm"
+    ],
+    "id": "14449",
+    "code": "LUPH-065",
+    "name": "Wentylator Phanteks SK PH-F140SK D-RGB 140mm PWM 3-pack White",
+    "price": 142.9,
+    "description": "OPIS <h2> </h2><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Wymiary: 140 x 140 x 25 mm (W x H x D)</li><li>Materiał: Plastik, guma</li><li>Podświetlenie: RGB, 12 LED</li><li>Kolor: Czarny (ramka), biały (łopatki)</li><li>Głośność: 36 dB (A)</li><li>Prędkość obrotowa: 500 - 1500 rpm (-10 / + 5%)</li><li>Przepływ powietrza: 143.56 m³ / h</li><li>Cisnienie statyczne: 1.23 mm H2O</li><li>Zakres pracy: 4 - 13 V</li><li>Zużycie energii: max. 2.64 W.</li><li>Wtyczka: 4-pin PWM, Phanteks RGB 3-pin</li><li>Długość przewodu: 550 mm (zasilanie), 300mm + 100mm (RGB + Y-switch)</li><li>MTBF: 40,000 godzin</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/phanteks.jpg",
+    "images": [
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52372.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52373.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52374.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52375.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52376.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52372.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52373.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52374.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52375.webp",
+        "galerie/w/wentylator-phanteks-sk-ph-f14_52376.webp"
+    ]
+}

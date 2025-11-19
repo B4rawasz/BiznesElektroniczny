@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Elektryka i oświetlenie"
+    ],
+    "id": "17230",
+    "code": "TSL-SWI-ZIGBEE2",
+    "name": "Tesla Smart Włącznik światła podwójny Zigbee",
+    "price": 129.0,
+    "description": "<p>TESLA Smart Switch Dual ZigBee działa bez podłączania przewodu neutralnego (zerowego).</p><h2>System, na którym możesz polegać</h2><p>ZigBee to bardzo stabilna i niezawodna technologia, która tworzy wspólną sieć pomiędzy poszczególnymi urządzeniami, w której urządzenia mogą się ze sobą komunikować, a nawet reagować na siebie. Wiele czynności w domu może działać automatycznie bez Twoich zmartwień.</p><h2>Uzyskaj inteligentne oświetlenie za pomocą przełącznika TESLA</h2><p>Możesz kupić przełącznik w klasycznej wersji z jednym przyciskiem lub dwuprzyciskowy TESLA Smart Switch Dual ZigBee, do którego podłączasz dwa obwody świateł, którymi następnie sterujesz osobno.</p><h2>Wszystko w jednym miejscu</h2><p>Całym inteligentnym domem można sterować za pomocą aplikacji TESLA Smart na smartfonie lub tablecie z systemem iOS lub Android. Aplikacja jest bardzo przejrzysta, łatwa w obsłudze i dostępna w języku polskim.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy wykorzystującej protokół ZigBee, za pomocą którego produkty komunikują się ze sobą. Do prawidłowego funkcjonowania tych produktów niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wartość, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><h2>Kontroler ZigBee Hub</h2><p>Za pomocą kontrolera ZigBee Hub możesz łączyć ze sobą różne urządzenia. Ta jednostka centralna daje możliwość dostosowania domu do własnych potrzeb bez konieczności przechodzenia do aplikacji TESLA Smart za każdym razem. Co więcej, jeśli masz wiele inteligentnych urządzeń, ZigBee Hub znacznie uprości Twoje życie. W zależności od Twoich nawyków zawsze możesz ustawić określone scenariusze, w których poszczególne urządzenia włączą się i zaczną ze sobą współdziałać. Zasięg Zigbee Hub wynosi 50 metrów, ale urządzenie jest małe, lekkie i kompaktowe, dzięki czemu idealnie pasuje do każdego wnętrza. Ponadto za pomocą sieci bezprzewodowej można podłączyć do niego zawory termostatyczne, przełączniki, żarówki, czujniki ruchu, czujniki temperatury i wilgotności oraz inne inteligentne urządzenia domowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>80 szt</p></li><li><p>Wysokość:</p><p>3.75 cm</p></li><li><p>Szerokość:</p><p>8.6 cm</p></li><li><p>Głębokość:</p><p>8.6 cm</p></li><li><p>Waga:</p><p>0.156 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-wlacznik-swiatla_62940.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62941.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62942.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62943.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62944.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62945.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62946.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62940.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62941.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62942.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62943.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62944.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62945.webp",
+        "galerie/t/tesla-smart-wlacznik-swiatla_62946.webp"
+    ]
+}

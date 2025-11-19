@@ -1,0 +1,33 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Wentylatory 120mm"
+    ],
+    "id": "17746",
+    "code": "LUDC-001",
+    "name": "Wentylatory DeepCool FK120 120mm Black - 3-pack",
+    "price": 101.9,
+    "description": "<p>Zaprojektowane z niezwykłą precyzją i szeroko przetestowane w celu zwiększenia ciśnienia statycznego i specjalnie ukierunkowanego przepływu powietrza, aby zapewnić doskonałą wydajność chłodzenia w każdym zastosowaniu montażowym. Niezależnie od tego, czy są to radiatory, grzejniki czy konfiguracje wentylatorów – wąska rama i szerokie łopatki wentylatora zapewniają większą powierzchnię dla maksymalnej wydajności.</p><h2>Silna wydajność chłodzenia</h2><p>Najwyższa wydajność w zakresie PWM do 1850 obr./min: Wentylator FK120 maksymalizuje ciśnienie i przepływ powietrza, zapewniając imponujące rezultaty chłodzenia. Dzieje się to w harmonijnej interakcji z dynamiczną równowagą pomiędzy maksymalną wydajnością i cichą pracą.</p><h2>Cicha praca</h2><p>Wyjątkowo cichy, nawet przy pełnym obciążeniu – wentylator FK120 osiąga maksymalną wartość jedynie 28 dB(A). Dzięki łożysku dynamicznemu typu Fluid zapewnia wyjątkową wydajność i niezawodną, ​​długoterminową stabilność.</p><h2>Wysoka jakość wykonania</h2><p>Wykonany z najwyższej jakości politereftalanu butylenu (PBT), wentylator charakteryzuje się zwiększoną trwałością i odpornością na zużycie, dzięki czemu łopatki wentylatora mają wyjątkowo wysoką wytrzymałość na rozciąganie. Amortyzujące amortyzatory gumowe izolują połączenia śrubowe, minimalizując niepotrzebne wibracje i zapewniając niezawodne działanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 25 x 120 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>tworzywo sztuczne/guma</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Łożysko</p><p>łożysko ślizgowe z łożyskiem płynnym</p></li><li><p>Głośność</p><p>28 dB(A)</p></li><li><p>Prędkość</p><p>500 - 1850 obr./min</p></li><li><p>Ciśnienie statyczne</p><p>2,19 mmH2O</p></li><li><p>Wydajność dostawy</p><p>117,2 m³/h</p></li><li><p>Prąd</p><p>0,12 A</p></li><li><p>Napięcie</p><p>12 V</p></li><li><p>Pobór mocy</p><p>1,44 W</p></li><li><p>Połączenia</p><p>Wentylator: 4-pin PWM</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/w/wentylatory-deepcool-fk120-12_64865.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64866.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64867.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64868.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64869.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64870.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64871.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64872.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64865.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64866.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64867.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64868.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64869.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64870.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64871.webp",
+        "galerie/w/wentylatory-deepcool-fk120-12_64872.webp"
+    ]
+}

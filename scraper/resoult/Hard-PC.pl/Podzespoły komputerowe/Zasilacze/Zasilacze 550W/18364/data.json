@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zasilacze 550W"
+    ],
+    "id": "18364",
+    "code": "B12-BC-550",
+    "name": "Zasilacz Seasonic B12-BC-550 80Plus Bronze 550W",
+    "price": 264.9,
+    "description": "<p>Seasonic B12-BC 550W to doskonały wybór dla osób szukających wydajnego i niezawodnego zasilacza komputerowego w przystępnej cenie. Dzięki mocy ciągłej 550 W oraz wysokiej obciążalności linii +12V wynoszącej 540 W, ten zasilacz idealnie sprawdzi się w zarówno w standardowych, jak i zaawansowanych systemach komputerowych.</p><h2>Efektywność i oszczędność energii</h2><p>Zasilacz Seasonic B12-BC 550W spełnia wymagania certyfikatu 80Plus Bronze, co oznacza, że przetwarza co najmniej 82% energii elektrycznej na użyteczną moc. Taka efektywność pozwala na obniżenie rachunków za energię, co jest istotnym atutem dla oszczędnych użytkowników.</p><h2>Cicha i efektywna wentylacja</h2><p>Zastosowanie wentylatora 120 mm na łożysku ślizgowym zapewnia cichą pracę oraz długowieczność, sięgającą nawet 25 000 godzin. Technologia S2FC automatycznie dostosowuje prędkość wentylatora w zależności od obciążenia, co zapewnia optymalną kulturę pracy — przy niskim obciążeniu wentylator pracuje cicho, a zwiększa prędkość tylko wtedy, gdy jest to konieczne.</p><h2>Wygodne zarządzanie kablami</h2><p>Zasilacz Seasonic B12-BC 550W oferuje bogaty zestaw złącz, w tym standardowy kabel 24-pin, 4+4 PIN do zasilania procesora oraz dwa 6+2 PIN do kart graficznych. Dodatkowe złącza SATA i MOLEX umożliwiają elastyczne połączenie różnych komponentów. Płaskie kable ułatwiają organizację wnętrza obudowy, co sprzyja lepszemu przepływowi powietrza.</p><h2>Bezpieczeństwo i niezawodność</h2><p>Seasonic B12-BC został wyposażony w zaawansowane zabezpieczenia, w tym OPP (ochrona przed przeciążeniem), OVP (ochrona przed przepięciami), OCP (ochrona przed nadmiernym prądem) i SCP (ochrona przed zwarciem). Te funkcje zapewniają bezpieczeństwo nie tylko samego zasilacza, ale również podzespołów komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Moc ciągła 550W</li><li>Obciążalność linii +12V aż 540W</li><li>Wysoka stabilność napięć</li><li>Przetworniki rezonansowe LLC</li><li>Certyfikat 80Plus Bronze</li><li>Inteligentne zarządzanie obrotami wentylatora</li><li>Płaskie kable</li><li>Bardzo dobry stosunek ceny do jakości i mocy zasilacza</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>550 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>Brak</p></li><li><p>Certyfikat sprawności</p><p>80Plus Bronze</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Nie</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>15 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>2.5 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5V</p><p>15 A</p></li><li><p>Obciążalność linii +12V1</p><p>45 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>2</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>4</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>1</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>140 mm</p></li><li><p>Wymiary</p><p>86x150x140 mm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/seasonic.jpg",
+    "images": [
+        "galerie/z/zasilacz-seasonic-b12-bc-550_68412.webp",
+        "galerie/z/zasilacz-seasonic-b12-bc-550_68413.webp",
+        "galerie/z/zasilacz-seasonic-b12-bc-550_68414.webp",
+        "galerie/z/zasilacz-seasonic-b12-bc-550_68415.webp",
+        "galerie/z/zasilacz-seasonic-b12-bc-550_68412.webp",
+        "galerie/z/zasilacz-seasonic-b12-bc-550_68413.webp",
+        "galerie/z/zasilacz-seasonic-b12-bc-550_68414.webp",
+        "galerie/z/zasilacz-seasonic-b12-bc-550_68415.webp"
+    ]
+}

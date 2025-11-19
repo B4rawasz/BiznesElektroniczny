@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zasilacze 650W"
+    ],
+    "id": "18367",
+    "code": "G12-GC-650",
+    "name": "Zasilacz Seasonic G12-GC-650 80Plus Gold 650W",
+    "price": 421.9,
+    "description": "<p>Zasilacz Seasonic G12-GC 650W 80Plus Gold to doskonałe rozwiązanie dla entuzjastów komputerowych oraz graczy poszukujących wysokiej jakości zasilacza w przystępnej cenie. Oferując moc ciągłą na poziomie 650W oraz obciążalność linii +12V wynoszącą aż 648W, ten model idealnie sprawdzi się w nawet najbardziej wymagających konfiguracjach.</p><h2>Efektywność energetyczna</h2><p>Dzięki spełnieniu wymagań certyfikatu 80Plus Gold, zasilacz G12-GC 650W zapewnia efektywność, co przekłada się na niższe rachunki za prąd oraz lepsze wykorzystanie energii.</p><h2>Ciche chłodzenie</h2><p>Zasilacz wyposażony jest w 120 mm wentylator, który działa cicho i efektywnie, zapewniając długą żywotność. W technologii S2FC wentylator pracuje z niską prędkością przy mniejszych obciążeniach, co sprawia, że nie słychać go podczas codziennego użytkowania.</p><p>Zasilacz Seasonic G12-GC 650W 80Plus Gold to idealne połączenie wydajności, jakości oraz przystępnej ceny, które zaspokoi potrzeby zarówno graczy, jak i profesjonalistów. Wybierz Seasonic i ciesz się niezawodnym zasilaniem swojego zestawu komputerowego przez długie lata!&lt;/&gt;</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Moc ciągła 650W</li><li>Obciążalność linii +12V aż 648W</li><li>Wysoka stabilność napięć</li><li>Przetworniki rezonansowe LLC</li><li>Certyfikat 80Plus Gold</li><li>Inteligentne zarządzanie obrotami wentylatora</li><li>Płaskie kable</li><li>5 lat gwarancji</li><li>Bardzo dobry stosunek ceny do jakości i mocy zasilacza</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>650 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>Brak</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Nie</p></li><li><p>Obciążalność linii +3.3V</p><p>15 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>2.5 A</p></li><li><p>Obciążalność linii +5V</p><p>15 A</p></li><li><p>Obciążalność linii +12V1</p><p>45 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>4</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>6</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>1</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>150 mm</p></li><li><p>Wymiary</p><p>86x140x150 mm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/seasonic.jpg",
+    "images": [
+        "galerie/z/zasilacz-seasonic-g12-gc-650_68426.webp",
+        "galerie/z/zasilacz-seasonic-g12-gc-650_68427.webp",
+        "galerie/z/zasilacz-seasonic-g12-gc-650_68428.webp",
+        "galerie/z/zasilacz-seasonic-g12-gc-650_68429.webp",
+        "galerie/z/zasilacz-seasonic-g12-gc-650_68426.webp",
+        "galerie/z/zasilacz-seasonic-g12-gc-650_68427.webp",
+        "galerie/z/zasilacz-seasonic-g12-gc-650_68428.webp",
+        "galerie/z/zasilacz-seasonic-g12-gc-650_68429.webp"
+    ]
+}

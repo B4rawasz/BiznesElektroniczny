@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zasilacze 650W"
+    ],
+    "id": "17943",
+    "code": "306-7ZP0A11-CE0",
+    "name": "Zasilacz MSI MPG A650GF 650W 80Plus Gold",
+    "price": 398.0,
+    "description": "<p>Gamingowe zasilacze z rodziny MPG bez problemu mogą obsługiwać karty graficzne bazujące na procesorach graficznych z serii NVIDIA GeForce RTX™ 30. Zasilacze MPG przygotowano tak, aby spełniały one najwyższe wymagania. Wykorzystywane w nich złącza We/Wy przystosowano do obsługi różnorodnych i wszechstronnych sposobów podłączania zasilania kart graficznych, zgodnie z ich budową i specyfikacją.</p><h2>CERTYFIKAT 80 PLUS GOLD</h2><p>Sprawność zasilacza bezpośrednio wpływa na wydajność systemu komputerowego i zużycie energii. Zasilacz zgodny z certyfikatem 80 PLUS Gold oferuje niższe zużycie energii i wyższą sprawność.</p><h2>SKUTECZNY I GODNY ZAUFANIA</h2><p>Gamingowe zasilacze z serii MPG pochwalić się mogą 10-letnią, ograniczoną gwarancję, która daje użytkownikowi pewność długotrwałej i niezawodnej pracy urządzenia.</p><h2>Wszystko jeszcze bardziej zorganizowane</h2><p>Wszystkie kable dołączane do gamingowych zasilaczy z serii MPG są płaskie i czarne. Płaskie kable sprawiają, że zarządzanie przewodami jest łatwiejsze i nie przyprawia użytkownika o ból głowy! Dzięki płaskim kablom cały system może być lepiej zorganizowany i jest w nim więcej miejsca na swobodny przepływ powietrza. Użyj tylko potrzebnych kabli, a resztę schowaj w dołączonej do zestawu torbie na przewody.</p><h2>Czuj się jak u siebie w domu</h2><p>Gamingowy zasilacz MPG o długości 160 mm i szerokości 150 mm oferuje łatwy montaż i jest dobrze dopasowany do większości dostępnych na rynku obudów komputerów PC. Jego konstrukcja i wymiary zapewniają więcej miejsca na zarządzanie kablami i dużą przestrzeń na niezakłócony przepływ powietrza do reszty systemu.</p><h2>ZŁĄCZA Z MIEDZI STOPOWEJ</h2><p>Złącza wtyczek zasilania procesora, karty graficznej i płyty głównej, które wykorzystywane są w gamingowych zasilaczach z serii MPG wykonane zostały ze stopu miedzi. Dzięki temu mogą wytrzymać wyższe wartości prądu znamionowego niż tradycyjne złącza przewodów, które wykonane są z brązu fosforowego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Obsługa kart graficznych z serii NVIDIA GeForce RTX™ 30</li><li>W pełni modułowa konstrukcja zasilacza z odpinanymi kablami</li><li>Płaskie przewody na wyposażeniu zasilacza</li><li>10-letnia gwarancja</li><li>Certyfikat 80 Plus Gold gwarantujący wysoką sprawność</li><li>Zastosowane w zasilaczu kondensatory to w 100% japońskie kondensatory mogące pracować w temperaturze 105°C</li><li>Aktywna konstrukcja układu korekcji współczynnika mocy PFC</li><li>Przemysłowej klasy zabezpieczenia: OVP (przeciwprzepięciowe), OCP (nadprądowe), OPP (przeciążeniowe), OTP (temperaturowe), SCP (przeciwzwarciowe), UVP (zabezpieczenie przed zbyt niskim napięciem)</li><li>Modułowa konstrukcja przetwornicy DC-DC w topologii LLC Half Bridge</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Sprawność</p><p>80 PLUS Gold (up to 90%)</p></li><li><p>Konstrukcja</p><p>modularna</p></li><li><p>Rozmiar wentylatora</p><p>120mm</p></li><li><p>Łożysko wentylatira</p><p>Fluid Dynamic Bearing</p></li><li><p>Wymiary zasilacza</p><p>160 x 150 x 86 mm</p></li><li><p>PFC</p><p>Aktywne</p></li><li><p>Moc</p><p>650W</p></li><li><p>Zabezpieczenia</p><p>OVP (Over Voltage Protection) / zabezpieczenie nadnapięciowe;<br/>OCP (Over Current Protection) / zabezpieczenie przed przeciążeniem stabilizatora;<br/>OTP (Over Temperature Protection) / zabezpieczenie przed przegrzaniem zasilacza;<br/>OPP (Over Power Protection) / zabezpieczenie przeciw przeciążeniowe;<br/>SCP (Short Circuit Protection) / zabezpieczenie przeciwzwarciowe;<br/>UVP (Under Voltage Protection) / zabezpieczenie przed zbyt niskim napięciem.</p></li><li><p>Specyfikacja prądowa</p><p>+3,3V (A) 20, <br/>+5V (A) 20, <br/>+12V MBPH (A) 25,<br/>+12V CPU (A) 25 ;<br/>+ 12V VGA1 (A) 30, <br/>+ 12 VGA2 (A) 30, <br/>- 12V (A) 0.3, <br/>+5Vsb (A) 2,5.</p></li><li><p>Złącza</p><p>MB 24/20-pin x 1;<br/>CPU 8/4-pin x 2;<br/>SATA x 8;<br/>Molex 4-pin x 1;<br/>PCI-E 8/6-pin x 4.</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/msi.jpg",
+    "images": [
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66349.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66350.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66351.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66352.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66353.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66349.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66350.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66351.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66352.webp",
+        "galerie/z/zasilacz-msi-mpg-a650gf-650w_66353.webp"
+    ]
+}

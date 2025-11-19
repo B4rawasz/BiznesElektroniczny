@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Monitoring i zabezpieczenia"
+    ],
+    "id": "17181",
+    "code": "TSL-CAM-CB500",
+    "name": "Tesla Smart kamera z wbudowanym akumulatorem CB500",
+    "price": 399.0,
+    "description": "<h2>Inteligentna aplikacja TESLA</h2><p>Aplikacja TESLA oferuje kompleksowe rozwiązanie dla Twojego inteligentnego domu. Automatyzacja, w której poszczególne produkty współpracują ze sobą, zapewnia wysoki poziom komfortu dla Twojego życia. Aplikacja wyświetla jednocześnie pełny widok z kamer bezpieczeństwa, więc nie musisz się między nimi przełączać. Powiadomienia można skonfigurować tak, aby były jak najbardziej treściwe - tak, aby dostarczały potrzebnych informacji, ale niepotrzebnie nie przeszkadzały.</p><h2>Zaawansowane funkcje wykrywania ruchu</h2><p>Przedstawiamy kamerę z zaawansowanymi funkcjami wykrywania, które umożliwiają rozpoznawanie postaci ludzkich. Zmniejsza to liczbę fałszywych alarmów, co ostatecznie pozwala zaoszczędzić energię oraz poprawia spokój ducha i bezpieczeństwo.</p><h2>Aplikacja służy nie tylko do zdalnego monitorowania</h2><p>Kamera bezpieczeństwa sterowana za pomocą aplikacji mobilnej TESLA Smart to prosty i wygodny sposób na monitorowanie Twojej posesji z dowolnego miejsca. Dzięki aplikacji masz dostęp do obrazu w czasie rzeczywistym, powiadomień o zdarzeniach oraz możliwość ustawienia różnych trybów pracy. Ta najnowocześniejsza technologia zwiększa kontrolę nad domem lub firmą i przyczynia się do ogólnego poczucia bezpieczeństwa.</p><h2>Mów przez kamerę</h2><p>Dzięki dwukierunkowej komunikacji audio z naszej kamery możesz wygodnie komunikować się z gośćmi lub kurierami. Wbudowany mikrofon i głośnik ułatwiają komunikację za pośrednictwem naszej aplikacji mobilnej. Kontroluj sytuację oraz szybko i skutecznie komunikuj się przez kamerę.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>5.7 cm</p></li><li><p>Szerokość:</p><p>6.3 cm</p></li><li><p>Głębokość:</p><p>6.3 cm</p></li><li><p>Waga:</p><p>0.313 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63312.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63313.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63314.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63315.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63316.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63317.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63312.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63313.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63314.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63315.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63316.webp",
+        "galerie/t/tesla-smart-kamera-z-wbudowan_63317.webp"
+    ]
+}

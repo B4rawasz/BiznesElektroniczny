@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Thermalpady"
+    ],
+    "id": "16461",
+    "code": "TP-GP01-F",
+    "name": "Thermalpad Gelid GP-Extreme TP-GP01-F 12W/mK 80x40x2.5mm",
+    "price": 36.9,
+    "description": "OPIS <p>Podkładka termoprzewodząca (thermalpad, termopad) stosowana wszędzie tam gdzie niezbędne jest zastosowanie elastycznego materiału o wysokiej przewodności termicznej np.: połączenia blok wodny pamięci ram, sekcja zasilania, elementy SMD itp. Dzięki miękkiej strukturze doskonale nadaje się do chłodzenie elementów o nieregularnym kształcie oraz elementów umieszczonych na różnej wysokości. Umożliwiają wypełnianie połączeń od mikroskopijnych rys aż do widocznych nieregularnych powierzchni.</p><p>Ze względu ma wyśmienitą przewodność cieplną możliwe jest stosowanie podkładek nawet do elementów o dużej powierzchni jak mostki na płycie głównej, dyski twarde, gęsto upakowane elementy na PCB itp.</p><p>Podkładkę można przycinać do żądanych wymiarów.</p><p>Przed użyciem należy ściągnąć zabezpieczającą folie z obu stron thermalpada. Tak jak w przypadku pozostałych produktów z serii Gelid GC-Extreme Thermalpad zwraca uwagę ponadprzecietna przewodność cieplana aż 12W/mK.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wysoka przewodność cieplna 12W/mK - lider w swojej klasie.</li><li>Łatwośc aplikacji.</li><li>Nie przewodzi prądu elektrycznego.</li><li>Nie powoduje korozji, nie twardnieje , nie jest toksyczny</li></ul><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 80x40x2,5mm.</li><li>Przewodność cieplna: 12W/mK.</li><li>Gęstość: 2.8g/cm3</li><li>Twardość (Shore): 35 OO</li><li>Nie przewodzi prądu elektrycznego.</li><li>Nie zaleca się używać thermalpada ściśniętego o ponad połowę swojej nominalnej grubości.</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/gelid.jpg",
+    "images": [
+        "galerie/t/thermalpad-gelid-gp-extreme-t_58880.webp",
+        "galerie/t/thermalpad-gelid-gp-extreme-t_58881.webp",
+        "galerie/t/thermalpad-gelid-gp-extreme-t_58880.webp",
+        "galerie/t/thermalpad-gelid-gp-extreme-t_58881.webp"
+    ]
+}

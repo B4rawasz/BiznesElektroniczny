@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Elektryka i oświetlenie"
+    ],
+    "id": "17166",
+    "code": "TSL-SPL-2",
+    "name": "Tesla Smart Gniazdko podwójne Wi-Fi",
+    "price": 89.99,
+    "description": "<h2>Inteligentna wtyczka umożliwiająca podłączenie dwóch urządzeń</h2><p>Inteligentna wtyczka, do której można podłączyć do dwóch urządzeń jednocześnie. Zapewnia stały podgląd nie tylko podłączonych urządzeń, ale przede wszystkim zużycia energii elektrycznej. To pozwala zoptymalizować gospodarkę domową, a tym samym zaoszczędzić pieniądze.</p><h2>Śledź swoje zużycie energii</h2><p>Inteligentna wtyczka umożliwia stały przegląd zużycia energii elektrycznej. Także w perspektywie długoterminowej. Można zdalnie wyłączyć urządzenie, które nie musi pracować. Można również wykryć na czas, czy urządzenie zużywa więcej energii, niż powinno. Sama wtyczka ma maksymalne napięcie 230 V i maksymalny prąd 16 A.</p><h2>Dwie wtyczki, dwa razy więcej opcji</h2><p>Aplikacja zawsze wyświetla, która z używanych przez użytkownika wtyczek jest aktualnie włączona lub co się z nią dzieje. W każdej chwili można je obsługiwać i automatyzować oddzielnie. Tak więc jeśli do jednej wtyczki podłączona jest zwykła lampa, a do drugiej Smartwatch, można zdalnie naładować Smartwatch bez włączania lampy.</p><h2>Kontrola dla każdego</h2><p>Aplikacja TESLA Smart jest w całości w języku polskim, więc jej obsługa jest bardzo prosta. W ciągu kilku minut można ustawić poszczególne funkcje. Po połączeniu z Google Assistant i Amazon Alexa, można sterować inteligentnymi urządzeniami również za pomocą głosu.</p><h2>Możliwość podłączenia do dwóch urządzeń</h2><p>Przekazuje na bieżąco informacje o podłączonych urządzeniach oraz ich aktualnym i długotrwałym zużyciu energii elektrycznej.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>40 szt</p></li><li><p>Wysokość:</p><p>8.2 cm</p></li><li><p>Szerokość:</p><p>10.5 cm</p></li><li><p>Głębokość:</p><p>5 cm</p></li><li><p>Waga:</p><p>0.135 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-gniazdko-podwojne_63439.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63440.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63441.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63442.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63443.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63439.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63440.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63441.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63442.webp",
+        "galerie/t/tesla-smart-gniazdko-podwojne_63443.webp"
+    ]
+}

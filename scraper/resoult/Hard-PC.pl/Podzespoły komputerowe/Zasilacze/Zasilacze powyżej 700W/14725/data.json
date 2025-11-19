@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zasilacze powyżej 700W"
+    ],
+    "id": "14725",
+    "code": "NEEV-059",
+    "name": "Zasilacz EVGA SuperNova G+ 2000W 80Plus Gold",
+    "price": 1970.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>150 x 86 x 220 mm (W x H x D)</p></li><li><p>Wentylator</p><p>140 mm (automatyczna kontrola)</p></li><li><p>Efektywność</p><p>80 Plus Gold</p></li><li><p>PFC</p><p>Aktywne</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Moc</p><p>2000W</p></li><li><p>+3.3V</p><p>25A</p></li><li><p>5V</p><p>25A</p></li><li><p>+3.3V &amp; +5V</p><p>150W</p></li><li><p>+12V</p><p>166.6A / 1999W</p></li><li><p>Złącza (modularne)</p><p>1x 24-pin EPS12V<br/>2x 4+4-pin EPS12V/ATX12V<br/>16x 6+2-pin PCIe<br/>5x 6-pin PCIe<br/>18x SATA<br/>8x 4-pin Molex<br/>2x floppy</p></li></ul></article>",
+    "security_data": "",
+    "manufacturer_img": "galerie/producenci/evga.jpg",
+    "images": [
+        "galerie/z/zasilacz-evga-supernova-g-200_53874.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53875.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53876.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53877.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53878.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53874.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53875.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53876.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53877.webp",
+        "galerie/z/zasilacz-evga-supernova-g-200_53878.webp"
+    ]
+}

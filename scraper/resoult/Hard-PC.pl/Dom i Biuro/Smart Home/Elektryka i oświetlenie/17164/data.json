@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Smart Home",
+        "Elektryka i oświetlenie"
+    ],
+    "id": "17164",
+    "code": "TSL-SPL-3PLG",
+    "name": "Tesla Smart Gniazdko 3szt",
+    "price": 199.0,
+    "description": "<h2>Kontroluj i oszczędzaj</h2><p>Inteligentne gniazdo jest idealnym rozwiązaniem do automatycznego i ręcznego sterowania urządzeniami elektrycznymi, a także do pomiaru zużycia energii elektrycznej w czasie rzeczywistym i przez długi czas. Otrzymujesz przegląd wszystkich podłączonych urządzeń i ilości zużycia energii elektrycznej w domu. W ten sposób możesz zdalnie wyłączyć niepotrzebne urządzenia, które nie są obecnie używane. Co więcej, zauważysz na czas, że określone urządzenie zużywa więcej energii elektrycznej, niż powinno. Dzięki temu unikniesz nieoczekiwanych niespodzianek w rachunkach za zużytą energię.</p><h2>Sterowanie jednym kliknięciem</h2><p>Aplikację TESLA Smart możesz pobrać na swój telefon lub tablet z systemem operacyjnym iOS lub Android. Aplikacja jest w języku polskim, więc nie będziesz mieć problemu z jej obsługą. Możesz połączyć ją z osobistymi asystentami Google Assistant i Amazon Alexa, co jeszcze bardziej ułatwi Ci pracę z inteligentnym gniazdkiem.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>30 szt</p></li><li><p>Wysokość:</p><p>7.5 cm</p></li><li><p>Szerokość:</p><p>5.4 cm</p></li><li><p>Głębokość:</p><p>5.4 cm</p></li><li><p>Waga:</p><p>0.085 kg</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tesla.jpg",
+    "images": [
+        "galerie/t/tesla-smart-gniazdko-3szt_63445.webp",
+        "galerie/t/tesla-smart-gniazdko-3szt_63446.webp",
+        "galerie/t/tesla-smart-gniazdko-3szt_63445.webp",
+        "galerie/t/tesla-smart-gniazdko-3szt_63446.webp"
+    ]
+}

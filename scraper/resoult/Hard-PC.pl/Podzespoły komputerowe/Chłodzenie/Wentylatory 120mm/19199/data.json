@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Wentylatory 120mm"
+    ],
+    "id": "19199",
+    "code": "LULI-030",
+    "name": "Wentylator Lian Li Uni Fan SL-INF 120 ARGB Black - 120mm",
+    "price": 127.9,
+    "description": "<h2>Maksymalna wydajność i unikalny design</h2><p>Lian Li UNI FAN SL-INF 120 to innowacyjny wentylator 120 mm PWM, który łączy wysoką wydajność chłodzenia z nowoczesnym designem. Wyposażony w aluminiową ramę oraz 40 cyfrowo adresowalnych diod RGB, tworzy efekt nieskończoności dzięki lustrzanym powierzchniom. Praktyczny system łączenia umożliwia łatwy montaż bez nadmiaru kabli, co przekłada się na estetyczny wygląd wnętrza obudowy.</p><h2>Praktyczny system łączenia – mniej kabli, więcej porządku</h2><p>Wentylatory UNI FAN SL-INF 120 wykorzystują unikalny system pinów do przesyłania sygnałów PWM i ARGB. Dzięki temu można łączyć je w klastry bez konieczności stosowania wielu kabli. Modułowe złącze zostało dodatkowo zmniejszone i umieszczone centralnie, co ułatwia montaż na radiatorach.</p><h2>Zaawansowane podświetlenie ARGB z efektem nieskończoności</h2><p>40 adresowalnych diod RGB umieszczonych w rotorze i aluminiowej ramie, w połączeniu z lustrzanymi powierzchniami, zapewnia efekt głębi i nowoczesny wygląd. Oświetlenie oraz prędkość wentylatora można kontrolować za pomocą oprogramowania L-Connect 3 lub podłączając wentylator do kompatybilnej płyty głównej.</p><p>Uwaga: Model pojedynczy zawiera adapter umożliwiający podłączenie do płyty głównej. Wersje 3-pak zawierają kontroler L-Connect 3.</p><h2>Podsumowanie</h2><p>Lian Li UNI FAN SL-INF 120 to doskonały wybór dla osób, które szukają wydajnego, cichego i stylowego wentylatora do obudowy, radiatora lub chłodzenia procesora. Innowacyjny system łączenia, wysokie parametry pracy oraz efektowne podświetlenie sprawiają, że jest to jeden z najlepszych wentylatorów klasy premium na rynku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 122,1 x 25 mm</p></li><li><p>Materiał</p><p>Tworzywo sztuczne, aluminium</p></li><li><p>Łożysko</p><p>Hydrodynamiczne</p></li><li><p>Prędkość obrotowa</p><p>200 – 2 100 obr./min</p></li><li><p>Poziom hałasu</p><p>maks. 29 dB(A)</p></li><li><p>Przepływ powietrza</p><p>maks. 104,14 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>maks. 2,66 mmH2O</p></li><li><p>Napięcie</p><p>12 V</p></li><li><p>Pobór mocy</p><p>5,16 W</p></li><li><p>Podświetlenie</p><p>Cyfrowo adresowalne RGB (40 diod)</p></li><li><p>Złącze</p><p>7-pinowe (PWM + ARGB)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/lian-li.jpg",
+    "images": [
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70957.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70961.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70958.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70959.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70960.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70957.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70961.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70958.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70959.webp",
+        "galerie/w/wentylator-lian-li-uni-fan-sl_70960.webp"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zasilacze 600W"
+    ],
+    "id": "19293",
+    "code": "PRIME-TX-600",
+    "name": "Zasilacz Seasonic PRIME TX-600 600W Fanless",
+    "price": 1139.99,
+    "description": "<h2>Pasywny zasilacz Seasonic PRIME TX-600 Fanless 80Plus Titanium 600W</h2><p>PRIME 600 Titanium Fanless wykorzystuje technologię bez wentylatora, która całkowicie eliminuje hałas, zapewniając cichą pracę. Jednostka jest nie tylko oceniona jako wydajność 80PLUS Titanium, ale ma też najwyższą moc na rynku zasilaczy bez wentylatora w chwili obecnej. Zasilacz jest idealny w sytuacjach wymagających ciszy. Wysokiej jakości komponenty wewnętrzne i innowacyjny projekt obwodów zapewniają czystą i stabilną moc wyjściową. W pełni modularne kable pozwalają na lepsze zarządzanie okablowaniem w obudowie komputera.</p><h2>80 PLUS Titanium</h2><p>Seria PRIME Titanium osiąga najwyższy poziom certyfikacji 80 PLUS Titanium na rynku z 94% skutecznością przy 50% obciążeniu systemu.</p><h2>Mikrotolerancja w regulacji obciążenia</h2><p>Najnowszy projekt Seasonic utrzymuje napięcie wyjściowe w bardzo wąskim przedziale, na poziomie 0,5%. Ta imponująca wydajność elektryczna i stabilność sprawiają, że zasilanie jest idealnym wyborem dla systemów o wysokiej wydajności.</p><h2>Seasonic Fanless Design</h2><p>Wentylatory chłodzące wewnątrz zasilacza zostały zastąpione pasywnym chłodzeniem w oparciu o rozproszenie ciepła. Cichy zasilacz nie tylko zapewnia przyjemniejsze warunki pracy, ale również zmniejsza zużycie energii tym samym obniża rachunki za prąd.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Moc ciągła na poziomie 600W</li><li>Całkowie pasywna praca zasilacza</li><li>Mikro tolerancja wahań napięć podczas obciążenia (0.5 %)</li><li>Certyfikat 80 PLUS Titanium</li><li>W pełni modularna konstrukcja okablowania</li><li>Konfiguracja Multi-GPU</li><li>Konstrukcja konwertera DC-DC</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>600 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Titanium</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Tak</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>50 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>4</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>6</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>5</p></li><li><p>Ilość wtyczek FDD 4-pin</p><p>1</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>170 mm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/seasonic.jpg",
+    "images": [
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71628.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71629.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71630.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71631.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71632.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71633.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71634.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71635.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71636.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71637.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71628.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71629.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71630.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71631.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71632.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71633.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71634.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71635.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71636.webp",
+        "galerie/z/zasilacz-seasonic-prime-tx-60_71637.webp"
+    ]
+}
