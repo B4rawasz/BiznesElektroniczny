@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Słuchawki dla graczy",
+        "Słuchawki przewodowe"
+    ],
+    "id": "17469",
+    "code": "GAPL-1393",
+    "name": "Słuchawki Fnatic REACT - Analog",
+    "price": 303.9,
+    "description": "<p>Słuchawki Fnatic React zostały zaprojektowane specjalnie dla graczy, którzy nie tylko chcą cieszyć się wysokiej jakości dźwiękiem, ale także komunikować się ze swoim zespołem z krystaliczną klarownością. Zamknięte słuchawki dostarczają naturalny i zrównoważony dźwięk dzięki szerokiemu zakresowi częstotliwości i pozwalają na łatwe zlokalizowanie przeciwników.</p><p>Funkcje słuchawek Fnatic React zostały doskonale dopasowane do ich zamierzonego zastosowania. 1,2-metrowy, jednostronny kabel ułatwia codzienne użytkowanie odbiornika, a solidna konstrukcja ze sprężystej stali zapewnia pewne dopasowanie i niezawodne trzymanie. Miękkie, wyściełane i wymienne muszle z sztucznej skóry zapewniają wysoki poziom komfortu noszenia przez długi czas. Dzięki temu Fnatic React to właściwy wybór dla graczy, którzy cenią wyjątkowy komfort i chcą komunikować się bez zakłóceń.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>350g</p></li><li><p>Średnica przetwornika</p><p>52 mm</p></li><li><p>Konstrukcja</p><p>zamknięta</p></li><li><p>Pasmo przenoszenia</p><p>20 - 40,000 Hz</p></li><li><p>Ciśnienie akustyczne</p><p>117 dB / mW</p></li><li><p>Moc znamionowa</p><p>500 mW</p></li><li><p>Impedancja</p><p>23 Ohm</p></li><li><p>Połączenie</p><p>3.5 mm jack (4-pin)</p></li><li><p>W zestawie</p><p>Fnatic React<br/>1x 4-pin to 2x 3-pin 3.5 mm jack (2 m)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fnatic</p></li><li><p>Dane producenta</p><p>Fnatic Gear Ltd, 1 Kingsland Passage, E8 2BB London, UK, shop@fnatic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/fnatic.jpg",
+    "images": [
+        "galerie/s/sluchawki-fnatic-react-analog_63802.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63803.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63804.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63805.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63806.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63802.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63803.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63804.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63805.webp",
+        "galerie/s/sluchawki-fnatic-react-analog_63806.webp"
+    ]
+}

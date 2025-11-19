@@ -1,0 +1,27 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Pasty termoprzewodzące"
+    ],
+    "id": "17507",
+    "code": "TM-501",
+    "name": "Pasta termoprzewodząca Rampage TM-501 1g 5.15w/m.K Gray",
+    "price": 16.99,
+    "description": "<h2>Pasta termoprzewodząca Rampage TM-501</h2><p>Termoprzewodząca pasta Rampage TM-501 charakteryzuje się wysokim przewodnictwem cieplnym, dlatego doskonale sprawdzi się jako przewodnik ciepła z rozgrzanego układu do radiatora. Jest trwała i nie kruszy się nawet przy bardzo wysokich temperaturach – dzięki niej Twój procesor znów powróci na wysokie obroty!</p><h2>Sprawdzi się pod każdym radiatorem</h2><p>Pasta termoprzewodząca Rampage dedykowana jest wydajnym procesorom. Umożliwia pełen obieg temperaturowy – dzięki niej nadmiar ciepła jest odprowadzany do radiatora, co z kolei zapewnia optymalną pracę układu.</p><h2>Struktura na bazie składników nieprzewodzących prądu składników</h2><p>Nanocząsteczkowa struktura pasty Rampage TM-501 została opracowana na bazie zaawansowanych testów laboratyoryjnych. Pasta ta nie traci właściwości nawet pod wpływem skrajnych temperatur.</p><h2>Popraw wydajność procesora</h2><p>Pasta termoprzewodząca Rampage TM-501 to produkt stworzony z myślą o świadomych użytkownikach komputerów i wszelkiej innej elektroniki wymagającej chłodzenia przy użyciu radiatora. Przegrzewanie się procesora lub innych układów może świadczyć o tym, że wyłożona na ich powierzchni stara pasta termoprzewodząca straciła już swoje właściwości. W takiej sytuacji należy ją wymienić na nową warstwę – sprawdź, jak bardzo poprawi to wydajność Twojego komputera już dziś!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Temperatura robocza:</p><p>-30~230 °C</p></li><li><p>Przewodność cieplna:</p><p>5.15 W/mK</p></li><li><p>Wysokość:</p><p>2 cm</p></li><li><p>Szerokość:</p><p>0.5 cm</p></li><li><p>Kolor:</p><p>Szary</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/rampage.jpg",
+    "images": [
+        "galerie/p/pasta-termoprzewodzaca-rampag_64253.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64254.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64255.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64256.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64257.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64253.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64254.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64255.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64256.webp",
+        "galerie/p/pasta-termoprzewodzaca-rampag_64257.webp"
+    ]
+}

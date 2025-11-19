@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Obudowy z oknem"
+    ],
+    "id": "20829",
+    "code": "306-7G28R21-JA4",
+    "name": "Obudowa MSI MAG PANO 110R PZ ARGB Tempered Glass Black",
+    "price": 369.0,
+    "description": "<h2>MSI MAG PANO 110R PZ WHITE – panoramiczna obudowa gamingowa</h2><p>Seria MAG firmy MSI to synonim trwałości i stabilności, stworzona dla graczy oczekujących od sprzętu niezawodności i doskonałego chłodzenia. Obudowa <strong>MSI MAG PANO 110R PZ WHITE</strong> wyróżnia się nowoczesnym designem i panoramicznym panelem bocznym z hartowanego szkła, który umożliwia podziwianie wnętrza komputera w zakresie aż 270°. To propozycja dla użytkowników, którzy chcą połączyć estetykę, funkcjonalność i pełną kompatybilność z najnowszymi rozwiązaniami technologicznymi.</p><h2>Efektowne podświetlenie ARGB</h2><p>Obudowa została fabrycznie wyposażona w trzy boczne wentylatory ARGB z odwróconym ciągiem oraz jeden tylny wentylator ARGB. Dzięki temu nie tylko zapewnia skuteczne chłodzenie, ale też oferuje efektowny, czysty widok na iluminacje świetlne. Sterowanie odbywa się za pomocą dołączonego kontrolera, który obsługuje do 5 wentylatorów i pozwala wybrać aż 18 efektów świetlnych ARGB.</p><h2>Chłodzenie i przepływ powietrza</h2><p>MAG PANO 110R PZ umożliwia instalację nawet 10 wentylatorów oraz chłodnic o długości do 360 mm na górze i 120 mm z tyłu. Perforacje w dolnej komorze dodatkowo wspierają wentylację, co przekłada się na stabilną pracę komponentów podczas najbardziej wymagających sesji gamingowych.</p><h2>Łatwy montaż i ergonomia</h2><p>MSI zadbało o komfort użytkownika – panel boczny i wspornik PCIe zostały oparte na systemie zatrzasków, co przyspiesza proces instalacji. Zintegrowany przewód do panelu przedniego ułatwia podłączenie elementów obudowy do płyt głównych MSI. Metalowe logo MAG na froncie podkreśla przynależność do gamingowej rodziny produktów MSI.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Seria</p><p>MAG</p></li><li><p>Model</p><p>PANO 110R PZ</p></li><li><p>Typ obudowy</p><p>Mid-Tower</p></li><li><p>Wspierane formaty płyt głównych</p><p>ATX / Micro-ATX / Mini-ITX, Back-connect: ATX / Micro-ATX</p></li><li><p>Wymiary</p><p>420 x 225 x 485 mm</p></li><li><p>Złącza przednie</p><p>1 x USB 20 Gb/s (Type-C), 2 x USB 5 Gb/s (Type-A), Audio In/Out, przycisk LED, przycisk zasilania</p></li><li><p>Zatoki dysków</p><p>2 x 2.5\", 2 x 3.5\", 2 x combo 2.5\"/3.5\"</p></li><li><p>Sloty rozszerzeń</p><p>7</p></li><li><p>Preinstalowane wentylatory</p><p>3 x 120 mm ARGB (bok, reverse blades), 1 x 120 mm ARGB (tył)</p></li><li><p>Maksymalna liczba wentylatorów</p><p>10</p></li><li><p>Obsługa wentylatorów</p><p>Top: 3 x 120 mm / 2 x 140 mm, Tył: 1 x 120 mm, Bok: 3 x 120 mm / 2 x 140 mm, Dół: 3 x 120 mm (nad komorą PSU)</p></li><li><p>Montaż chłodnic</p><p>Top: 120 / 140 / 240 / 280 / 360 mm, Tył: 120 mm</p></li><li><p>Maksymalna długość karty graficznej</p><p>400 mm</p></li><li><p>Maksymalna długość zasilacza</p><p>200 mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>160 mm</p></li><li><p>Oświetlenie</p><p>ARGB (kompatybilność z MSI Mystic Light)</p></li><li><p>Panel boczny</p><p>Hartowane szkło panoramiczne 270°</p></li><li><p>Format zasilacza</p><p>ATX</p></li><li><p>Kolor</p><p>Biały</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/msi.jpg",
+    "images": [
+        "galerie/o/obudowa-msi-mag-pano-110r-pz_78406.webp",
+        "galerie/o/obudowa-msi-mag-pano-110r-pz_78404.webp",
+        "galerie/o/obudowa-msi-mag-pano-110r-pz_78405.webp",
+        "galerie/o/obudowa-msi-mag-pano-110r-pz_78406.webp",
+        "galerie/o/obudowa-msi-mag-pano-110r-pz_78404.webp",
+        "galerie/o/obudowa-msi-mag-pano-110r-pz_78405.webp"
+    ]
+}

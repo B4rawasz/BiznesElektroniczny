@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Pasty termoprzewodzące"
+    ],
+    "id": "11228",
+    "code": "ACTCP00008B",
+    "name": "Pasta termoprzewodząca Arctic MX-4 - 8g",
+    "price": 22.9,
+    "description": "OPIS <p>Arctic MX-4 to jedna z najpopularniejszych past termoprzewodzących dostępnych na rynku. Należy ona do ścisłej czołówki pod względem wydajności oraz ma doskonały stosunek jakości do ceny. W składzie MX-4 znajdują się mikrocząsteczki węgla, które idealnie wypełniają nierówności procesora czy układu graficznego zapewniając możliwie najlepsze przewodnictwo cieplne, a tym samym ułatwiając schłodzenie podzespołów. Pasta MX-4 jest chętnie wybierana przez overclockerów i entuzjastów.</p><p>Pasta termoprzewodząca Arctic MX-4 jest banalnie prosta w aplikacji, dlatego jej nałożenie nie sprawi trudu nawet początkującym użytkownikom. Dodatkowo MX-4 w swoim składzie nie zawiera metalu, zatem nie przewodzi prądu. Zwiększa to zdecydowanie bezpieczeństwo jej użycia i pozwala wyeliminować uszkodzenia korozyjne.</p><p>Formuła Arctic MX-4 została opracowana w taki sposób, by zapewnić długowieczność. W odróżnieniu od pasty z ciekłego metalu czy silikonowej, nie wysycha tak szybko. Producent przewidział jej trwałość na 8 lat.</p><p>Dzięki doskonałemu stosunkowi ceny do wydajności pasty Arctic są bardzo często wykorzystywane przez integratorów. Model MX-4 dostępny jest w wielu wariantach pojemności, od 2 aż do 500g. Szczelnie zamykane opakowania zapobiegają wysychaniu pasty. Wygląd opakowania past Arctic zmieniał się kilkukrotnie na przestrzeni lat. Formuła pozostała niezmienna dzięki czemu seria MX jest synonimem najwyższej jakości i wydajności. Nowe opakowania nadają się do recyklingu, a zatem podczas przetwarzania zmniejszona jest emisja CO2. Tym samym Arctic jest producentem dbającym o ochronę środowiska.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Przewodność cieplna: 8.5 W/(mK)</li><li>Lepkość: 870 poise</li><li>Gęstość: 2.50 g/cm³</li><li>Reztsrancja: 3.8 x 1013 Ω-c</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/arctic.jpg",
+    "images": [
+        "galerie/p/pasta-termoprzewodzaca-arctic_37305.webp",
+        "galerie/p/pasta-termoprzewodzaca-arctic_37306.webp",
+        "galerie/p/pasta-termoprzewodzaca-arctic_37307.webp",
+        "galerie/p/pasta-termoprzewodzaca-arctic_37305.webp",
+        "galerie/p/pasta-termoprzewodzaca-arctic_37306.webp",
+        "galerie/p/pasta-termoprzewodzaca-arctic_37307.webp"
+    ]
+}

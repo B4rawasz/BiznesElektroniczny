@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Obudowy z oknem"
+    ],
+    "id": "14355",
+    "code": "GEPH-152",
+    "name": "Obudowa Phanteks Eclipse G360A ARGB Tempered Glass White",
+    "price": 338.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wymiary</p><p>200 x 465 x 455 mm (W x H x D)</p></li><li><p>Kolor</p><p>Black</p></li><li><p>Materiał</p><p>Stal, szkło hartowane</p></li><li><p>Standard</p><p>Micro-ATX, Mini-ITX, ATX, E-ATX</p></li><li><p>Możliwość montażu wentylatorów</p><p>3x 120 mm / 2x 140 mm (front)<br/>3x 120 mm / 2x 140 mm (lid)<br/>1x 120 mm (back)</p></li><li><p>Zainstalowane wentylatory</p><p>3x 120 mm D-RGB fans (front)</p></li><li><p>Możliwość montażu chłodnicy</p><p>1x max. 360 mm / 1x max. 280 mm (front)<br/>1x max. 360 mm (lid)<br/>1x max. 120 mm (rear)</p></li><li><p>Filtr przeciwkurzowy</p><p>front, bottom, cover</p></li><li><p>Miejsca na napędy</p><p>2x 3.5\" lub 2x 2.5\" (klatka HDD)<br/>2x 2.5\" i 1x 2.5\" (tacka płyty głównej)</p></li><li><p>Zasilacz</p><p>1x standard ATX do 280mm długości</p></li><li><p>MIejsce na karty rozszerzeń</p><p>7</p></li><li><p>I/O panel</p><p>1x power button<br/>2x D-RGB buttons (mode, color)<br/>2x USB 3.0 (Type-A, USB 3.2 Gen 1, max. 5 Gbit/s)<br/>1x 3.5 mm combo connector</p></li><li><p>Maksymalna długość karty graficznej</p><p>400mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>162mm</p></li><li><p>W zestawie</p><p>1x PHANTEKS Eclipse G360A Midi Tower, Tempered Glass, ARGB - black<br/>3x 120 mm D-RGB fan (preinstalled)<br/>1x PHANTEKS Accessory Box</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/phanteks.jpg",
+    "images": [
+        "galerie/o/obudowa-phanteks-eclipse-g360_51832.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51833.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51834.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51835.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51836.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51837.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51838.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51839.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51840.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51841.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51832.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51833.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51834.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51835.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51836.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51837.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51838.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51839.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51840.webp",
+        "galerie/o/obudowa-phanteks-eclipse-g360_51841.webp"
+    ]
+}

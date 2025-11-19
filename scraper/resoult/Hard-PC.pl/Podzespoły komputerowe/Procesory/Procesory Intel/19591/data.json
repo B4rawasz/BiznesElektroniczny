@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Procesory",
+        "Procesory Intel"
+    ],
+    "id": "19591",
+    "code": "BX8071513400",
+    "name": "Procesor Intel Core i5-13400 2.5GHz 20MB LGA1700 box",
+    "price": 773.9,
+    "description": "<p>Postaw na idealny balans między mocą a efektywnością dzięki procesorom Intel Core i5 13. generacji. Zaprojektowane z myślą o użytkownikach, którzy oczekują płynnej pracy w każdej sytuacji – od codziennych zadań, przez gaming, aż po profesjonalne zastosowania.</p><p>Nowa architektura hybrydowa, oparta na podziale na rdzenie Performance i Efficient, zapewnia znacznie wyższą wydajność wielozadaniową oraz lepszą responsywność systemu. Dzięki wsparciu dla najnowszych technologii, takich jak DDR5, PCIe 5.0 czy zintegrowany układ graficzny Intel UHD, procesory z tej serii są gotowe na przyszłość.</p><p>Niezależnie, czy budujesz nowy komputer, czy modernizujesz dotychczasowy sprzęt – Intel Core i5 13. generacji to niezawodny wybór, który zapewni Ci komfort i moc na długie lata.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba rdzeni</p><p>10 (6 Performance, 4 Efficient)</p></li><li><p>Liczba wątków</p><p>16</p></li><li><p>Bazowa częstotliwość taktowania</p><p>2,5 GHz</p></li><li><p>Maksymalna częstotliwość turbo</p><p>4,6 GHz</p></li><li><p>Częstotliwość Efficient-cores</p><p>1,8 GHz</p></li><li><p>Maksymalne taktowanie Efficient-cores</p><p>3,3 GHz</p></li><li><p>Pamięć cache L2</p><p>9,5 MB</p></li><li><p>Pamięć cache L3</p><p>20 MB</p></li><li><p>TDP (moc podstawowa)</p><p>65 W</p></li><li><p>Maksymalna moc turbo</p><p>148 W</p></li><li><p>Obsługiwany typ pamięci</p><p>DDR5 do 4800 MT/s, DDR4 do 3200 MT/s</p></li><li><p>Maksymalna pojemność pamięci</p><p>192 GB</p></li><li><p>Liczba kanałów pamięci</p><p>2</p></li><li><p>Zintegrowana grafika</p><p>Intel UHD Graphics 730</p></li><li><p>Częstotliwość grafiki</p><p>300 MHz</p></li><li><p>Maksymalna częstotliwość grafiki</p><p>1,55 GHz</p></li><li><p>Liczba jednostek wykonawczych GPU</p><p>24</p></li><li><p>Maksymalna rozdzielczość przez HDMI</p><p>4096 x 2160 @ 60Hz</p></li><li><p>Maksymalna rozdzielczość przez DisplayPort</p><p>7680 x 4320 @ 60Hz</p></li><li><p>Maksymalna rozdzielczość przez eDP</p><p>5120 x 3200 @ 120Hz</p></li><li><p>Obsługiwane technologie</p><p>Hyper-Threading, Turbo Boost 2.0, Deep Learning Boost, Speed Shift, Thread Director, Gaussian &amp; Neural Accelerator 3.0</p></li><li><p>Standard PCI Express</p><p>5.0 i 4.0</p></li><li><p>Konfiguracja PCIe</p><p>do 1x16+4, 2x8+4</p></li><li><p>Maksymalna liczba linii PCIe</p><p>20</p></li><li><p>Podstawka</p><p>FCLGA1700</p></li><li><p>Wymiary</p><p>45,0 mm x 37,5 mm</p></li><li><p>Maksymalna temperatura pracy</p><p>100°C</p></li><li><p>Dołączone chłodzenie</p><p>Intel Laminar RM1</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/intel.jpg",
+    "images": [
+        "galerie/p/procesor-intel-core-i5-13400_72118.webp",
+        "galerie/p/procesor-intel-core-i5-13400_72118.webp"
+    ]
+}

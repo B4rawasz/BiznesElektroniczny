@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Pasty termoprzewodzące"
+    ],
+    "id": "11758",
+    "code": "ZUWA-210",
+    "name": "Płyn czyszczący Thermal Grizzly Remove - 10ml",
+    "price": 45.9,
+    "description": "<p>Thermal Grizzly Remove to środek czyszczący na bazie acetonu opracowany specjalnie do usuwania pasty termoprzewodzącej. Remove nie tylko oczyszcza powierzchnię z pasty, ale również ją odtłuszcza. Dzięki temu w całkowicie bezpieczny sposób można usunąć zarówno tradycyjną pastę termoprzewodzącą jak i tą z ciekłego metalu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Pojemność: 10 ml (10-20 aplikacji)</li><li>Temperatura użycia: Temperatura pokojowa</li><li>Kolor: Transparentny</li><li>Lepkość: niewielka</li><li>Przewodność elektryczna: 6.3 · 10? 7 S * m? 1</li><li>Miejsce użycia: CPU, GPU, Notebook</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+    "images": [
+        "galerie/p/plyn-czyszczacy-thermal-grizz_40115.webp",
+        "galerie/p/plyn-czyszczacy-thermal-grizz_40114.webp",
+        "galerie/p/plyn-czyszczacy-thermal-grizz_40115.webp",
+        "galerie/p/plyn-czyszczacy-thermal-grizz_40114.webp"
+    ]
+}

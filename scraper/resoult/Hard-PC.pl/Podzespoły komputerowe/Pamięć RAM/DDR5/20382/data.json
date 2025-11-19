@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Pamięć RAM",
+        "DDR5"
+    ],
+    "id": "20382",
+    "code": "PVV532G600C30K",
+    "name": "Pamięć DDR5 Patriot Viper Venom 32GB/6000 (2x16GB) CL30 XMP Expo",
+    "price": 899.0,
+    "description": "<p>Konfigurator pamięci Viper Gaming jest bardzo podekscytowany ujawnieniem pierwszej generacji pamięci DDR5, serii Viper Venom DDR5 DRAM! Seria pamięci Viper Venom DDR5 to pierwsza generacja naszej pamięci DDR5, stworzona z myślą o niesamowitej wydajności systemu na platformach DDR5! Moduły pamięci Viper Venom DDR5 zostały zaprojektowane w oparciu o przełomową technologię, aby ustanowić standardy nawet wyższe niż większość ekstremalnie podkręconych modułów DDR4 i zapewniają dwukrotnie większą prędkość, podwajając obecną przepustowość DDR4.</p><p>Moduły Viper Venom DDR5 posiadają innowacyjne wbudowane układy scalone zarządzania energią, zapewniające bardziej wydajną pracę i mniejsze zużycie energii, a także wbudowaną technologię zarządzania temperaturą zapewniającą dłuższą żywotność modułów. Dzięki ograniczonej dożywotniej gwarancji ta najnowocześniejsza technologia umożliwi niezwykle szybkie uruchamianie aplikacji, jednocześnie rozszerzając możliwości systemu.</p><p>Moduły Viper Venom DDR5 DRAM zapewniają doskonałą poprawę komfortu użytkowania w porównaniu z poprzednimi liniami pamięci i będą kolejnym najlepszym rozwiązaniem dla entuzjastów gier na całym świecie!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj pamięci</p><p>DDR5</p></li><li><p>Całkowita pojemność pamięci</p><p>32 GB</p></li><li><p>Częstotliwość szyny pamięci</p><p>6000 MHz</p></li><li><p>Liczba pamięci w zestawie</p><p>2</p></li><li><p>CAS Latency</p><p>CL30</p></li><li><p>Obsługa ECC</p><p>Tak</p></li><li><p>Radiator</p><p>Tak</p></li><li><p>Wymiary</p><p>7 x 137 x 43 mm</p></li><li><p>Waga</p><p>52 g</p></li><li><p>Obsługa</p><p>AMD EXPO, Intel XMP</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Patriot</p></li><li><p>Dane producenta</p><p>Patriot Memory B.V., Innsbruckweg 190, 3047 AH ROTTERDAM, patrioteuropeoffice@patriotmemory.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/patriot.jpg",
+    "images": [
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76681.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76682.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76683.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76684.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76685.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76686.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76687.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76688.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76689.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76690.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76681.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76682.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76683.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76684.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76685.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76686.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76687.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76688.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76689.webp",
+        "galerie/p/pamiec-ddr5-patriot-viper-ven_76690.webp"
+    ]
+}

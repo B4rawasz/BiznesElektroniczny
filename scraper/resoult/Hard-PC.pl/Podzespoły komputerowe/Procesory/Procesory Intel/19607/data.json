@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Procesory",
+        "Procesory Intel"
+    ],
+    "id": "19607",
+    "code": "BX8071514700F",
+    "name": "Procesor Intel Core i7-14700F 5,4 GHz 28 MB LGA1700",
+    "price": 1419.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Gniazdo procesora (socket)</p><p>Socket 1700</p></li><li><p>Architektura</p><p>Raptor Lake Refresh (14 Generacja)</p></li><li><p>Taktowanie rdzenia</p><p>2.1 GHz (5.4 GHz w trybie turbo)</p></li><li><p>Liczba rdzeni fizycznych</p><p>20 rdzeni</p></li><li><p>Typy rdzeni</p><p>8 rdzeni Performance<br/>12 rdzeni Efficient</p></li><li><p>Liczba wątków</p><p>28 wątków</p></li><li><p>Odblokowany mnożnik</p><p>Nie</p></li><li><p>Pamięć podręczna</p><p>33 MB</p></li><li><p>Zintegrowany układ graficzny</p><p>Nie</p></li><li><p>Model układu graficznego</p><p>Brak</p></li><li><p>Rodzaj obsługiwanej pamięci</p><p>DDR5-5600<br/>DDR4-3200 (PC4-25600)</p></li><li><p>Proces litograficzny</p><p>10 nm</p></li><li><p>Pobór mocy (TDP)</p><p>65 W</p></li><li><p>Maksymalna Moc Turbo (MTP)</p><p>219 W</p></li><li><p>Dodatkowe informacje</p><p>Wersja BOX</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/intel.jpg",
+    "images": [
+        "galerie/p/procesor-intel-core-i7-14700f_74688.webp",
+        "galerie/p/procesor-intel-core-i7-14700f_74688.webp"
+    ]
+}

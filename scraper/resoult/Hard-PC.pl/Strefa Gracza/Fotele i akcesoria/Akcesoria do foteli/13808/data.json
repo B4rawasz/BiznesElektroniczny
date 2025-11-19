@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Fotele i akcesoria",
+        "Akcesoria do foteli"
+    ],
+    "id": "13808",
+    "code": "GAGC-110",
+    "name": "Podnóżek Noblechairs Real Leather Black",
+    "price": 1091.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Specyfikacja wymiarów (siedziska)</p><p>Wysokość (z podstawą) - ok. 43,5 cm<br/>Szerokość (w najszerszym miejscu) - ok. 49 cm<br/>Głębokość - ok. 39,5 cm<br/>Kąt pochylenia - max. 57°<br/>Kąt nachylenia - max. 57°</p></li><li><p>Materiał</p><p>Zimna pianka (tapicerka)<br/>Prawdziwa skóra ziarnista (poszycie)<br/>Aluminium / tworzywo sztuczne (podstawa)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Noblechairs</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/noblechairs.jpg",
+    "images": [
+        "galerie/p/podnozek-noblechairs-real-lea_49784.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49785.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49786.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49787.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49788.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49789.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49790.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49791.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49792.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49793.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49784.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49785.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49786.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49787.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49788.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49789.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49790.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49791.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49792.webp",
+        "galerie/p/podnozek-noblechairs-real-lea_49793.webp"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Routery"
+    ],
+    "id": "19022",
+    "code": "LT400 OUTDOOR_EU",
+    "name": "Router SIM Cudy LT400 Outdoor WiFi 4, 4G, LTE Zewnętrzny",
+    "price": 259.0,
+    "description": "<h2>Wytrzymały router zewnętrzny</h2><p>Router Cudy LT400 Outdoor to solidne urządzenie do korzystania z Internetu LTE w różnych warunkach atmosferycznych. Oferuje dostęp do sieci 4G, łączność LAN oraz Wi-Fi.</p><h2>Odporność na ekstremalne warunki</h2><p>Router zewnętrzny jest zabezpieczony na poziomie IP65, co umożliwia pracę w różnych warunkach, nie straszny mu deszcz, kurz ani niskie i wysokie temperatury. Ochrona przed zwarciem (4 kV) oraz wyładowaniami elektrycznymi (8 kV – ESD) dodatkowo zwiększa jego trwałość.</p><h2>Wsparcie dla VPN i DDNS</h2><p>LT400 Outdoor umożliwia bezpieczne połączenia VPN, wspierając PPTP, L2TP, OpenVPN, WireGuard, IPSec, Zerotier. Protokół DDNS zapewnia prywatność.</p><h2>Szybkie połączenie 4G i Wi-Fi</h2><p>Ciesz się szybkim dostępem do Internetu 4G z prędkością do 150/50 Mb/s. Zintegrowane Wi-Fi 802.11n w paśmie 2,4 GHz zapewnia stabilność i szybkość połączenia.</p><h2>Łatwy montaż i zasilanie PoE</h2><p>Dzięki dołączonemu zestawowi montażowemu i adapterowi zasilającemu 24 V Passive PoE, instalacja routera jest prosta i wygodna. Możesz go zamocować na różnych powierzchniach, np. na ścianie lub słupie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Tryb pracy</p><p>Access Point, Router</p></li><li><p>Rodzaj urządzenia</p><p>router bezprzewodowy z modemem 4G</p></li><li><p>Rodzaje wejść/wyjść</p><p>RJ-45 10/100 (LAN/WAN) - 1 szt.; gniazdo kart nano SIM - 1 szt.</p></li><li><p>Obsługiwane standardy</p><p>Wi-Fi 4 (802.11 b/g/n)</p></li><li><p>Częstotliwość pracy</p><p>2.4 GHz</p></li><li><p>Pasma transmisji 3G/4G</p><p>LTE</p><p>700/800/900/1800/2100/2600 MHz</p></li><li><p>Antena</p><p>zewnętrzna - 2 szt.; wewnętrzna - 2 szt.</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>150 Mb/s (LTE); 300 Mb/s (Wi-Fi)</p></li><li><p>Zabezpieczenia transmisji bezprzewodowej</p><p>WPA-PSK, WPA2-PSK</p></li><li><p>Zarządzanie i konfiguracja</p><p>strona WWW</p></li><li><p>Dodatkowe funkcje</p><p>obsługa IPv4, obsługa IPv6, DDNS, przekierowanie portów, DHCP, UPNP, DMZ, PPoE, dynamiczne / statyczne IP, przycisk Reset</p></li><li><p>Wymiary</p><p>438 x 100 x 54 mm</p></li><li><p>Dołączone akcesoria</p><p>kabel RJ-45, instrukcja szybkiej instalacji, adapter PoE, zestaw montażowy</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/cudy.jpg",
+    "images": [
+        "galerie/r/router-sim-cudy-lt400-outdoor_70466.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70467.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70468.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70469.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70470.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70471.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70472.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70473.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70474.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70475.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70466.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70467.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70468.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70469.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70470.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70471.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70472.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70473.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70474.webp",
+        "galerie/r/router-sim-cudy-lt400-outdoor_70475.webp"
+    ]
+}

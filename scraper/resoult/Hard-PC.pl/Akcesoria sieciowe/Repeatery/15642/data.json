@@ -1,0 +1,22 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Repeatery"
+    ],
+    "id": "15642",
+    "code": "TL-WA855RE",
+    "name": "Repeater sieciowy TP-Link TL-WA855RE 300Mb/s",
+    "price": 87.9,
+    "description": "<h2>Małe wymiary. Duża moc.</h2><p>Pomimo kompaktowego rozmiaru urządzenia nie sposób nie dostrzec jego niesamowitego potencjału — sieć bezprzewodowa będzie dostępna nawet w tych miejscach, w których aktualny router nie jest w stanie dotrzeć ze swoim zasięgiem. TL-WA855RE zapewnia prędkości dochodzące do 300 Mb/s, aby wszystkie twoje urządzenia mogły w pełni wykorzystać możliwości sieci.</p><h2>Niezawodna sieć bezprzewodowa</h2><p>TL-WA855RE wyróżnia się dzięki dwóm zewnętrznym antenom z technologią MIMO. Technologia MIMO pozwala na znaczne zwiększenie prędkości połączeń, a anteny dbają o stabilność sygnału i brak zakłóceń.</p><p>Instalacja bez wysiłku. Dwa przyciski i gotowe Aby skonfigurować połączenie wystarczy nacisnąć przycisk WPS na routerze, a następnie przycisk Range Extender na wzmacniaczu.</p><h2>Pewny sygnał</h2><p>Inteligentny wskaźnik określa siłę sygnału, aby ułatwić dobór optymalnej lokalizacji.</p><h2>Wzmacniacz sygnału, gdy router to za mało</h2><p>TL-WA855RE w trybie wzmacniacza obejmie zasięgiem sieci bezprzewodowej całą powierzchnię twojego domu.</p><h2>Punkt dostępowy, by utworzyć nową sieć</h2><p>Pracując w trybie AP TL-WA855RE używa portu Ethernet do utworzenia prywatnego hotspotu Wi-Fi, zapewniając tym samym dostęp do nowej sieci.</p><h2>Łatwy monitoring i kontrola sieci</h2><p>Aplikacja Tether pozwala na monitorowanie stanu sieci i zarządzanie nią za pomocą urządzeń mobilnych z systemami iOS oraz Android.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li>Rozszerza zasięg sieci bezprzewodowej zapewniając niezwykłą wydajność łącza.</li><li>Dwie regulowane anteny zewnętrzne zapewniają optymalny zasięg sieci oraz stabilność połączeń.</li><li>Obsługa trybu AP.</li><li>Łatwe zwiększanie zasięgu sieci bezprzewodowej za pomocą przycisku Range Extender.</li><li>Skonfiguruj harmonogram zasilania i oszczędzaj prąd.</li><li>Aplikacja TP-LINK Tether pozwala na łatwe zarządzanie wzmacniaczem za pomocą smartfona.</li><li>Współpracuje z każdym routerem bezprzewodowym oraz bezprzewodowym punktem dostępowym.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Porty</p><p>1 port Ethernet 10/100 Mb/s (RJ45)</p></li><li><p>Przyciski</p><p>Przycisk RE (Range Extender), przycisk Reset</p></li><li><p>Zasilanie wejściowe</p><p>100-240V~50/60Hz</p></li><li><p>Pobór mocy</p><p>3,6 W</p></li><li><p>Wymiary (S x G x W)</p><p>80 x 77,8 x 77,3 mm</p></li><li><p>Antena</p><p>2 zewnętrzne</p></li><li><p>Standardy bezprzewodowe</p><p>IEEE 802.11n, IEEE 802.11g, IEEE 802.11b</p></li><li><p>Częstotliwość pracy</p><p>2,4~2,4835 GHz</p></li><li><p>Prędkość transmisji</p><p>11n do 300 Mb/s (dynamicznie)<br/>11g do 54 Mb/s (dynamicznie)<br/>11b do 11 Mb/s (dynamicznie)</p></li><li><p>Czułość odbiornika</p><p>270M &lt;-68dBm@10% PER<br/>130M &lt;-68dBm@10% PER<br/>108M &lt;-68dBm@10% PER<br/>54M &lt;-68dBm@10% PER<br/>11M &lt;-68dBm@8% PER<br/>6M &lt;-68dBm@10% PER<br/>1M &lt;-68dBm@8% PER</p></li><li><p>Funkcje transmisji bezprzewodowej</p><p>Wł./wył. sieci bezprzewodowej<br/>Kontrola dostępu<br/>Kontrola LED<br/>Harmonogram zasilania<br/>Zasięg Wi-Fi</p></li><li><p>Bezpieczeństwo transmisji bezprzewodowej</p><p>64/128/152-bitowe szyforwanie WEP, WPA-PSK / WPA2-PSK</p></li><li><p>Moc transmisji</p><p>&lt; 20 dBm (EIRP)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tp-link.jpg",
+    "images": [
+        "galerie/r/repeater-sieciowy-tp-link-tl_55677.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55678.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55679.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55677.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55678.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55679.webp"
+    ]
+}

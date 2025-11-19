@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Ładowarki"
+    ],
+    "id": "16321",
+    "code": "Y-C435GBK",
+    "name": "Przewód Unitek USB - Micro USB - 3m",
+    "price": 9.99,
+    "description": "<h2>Podłącz i korzystaj z komfortu</h2><p>Przewód do ładowania i synchronizacji telefonów z wejściem Micro USB. Długi na 3 metry, stanowi ułatwienie dla tych, którzy lubią podczas pracy na tablecie lub telefonie, siedzieć wygodnie na kanapie, a do ładującego gniazdka mają trochę dalej.</p><h2>Solidne wykonanie</h2><p>Porządnie wykonany z miedzi przewód, z solidnymi acz niewielkim złączami, będzie nam służył przez lata. Złącze Micro USB zaprojektowano możliwie niewielkie, tak aby można go było używać z telefonem umieszczonym w etui.</p><h2>Błyskawiczne ładowanie</h2><p>Maksymalny prąd ładowania 1,5A przy tej długości przewodu sprawia, że urządzenia będą ładowane szybko a przesył danych będzie stabilny.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować, zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>0.48 Gbps</p></li><li><p>Standard USB</p><p>USB 2.0</p></li><li><p>Złącze 2</p><p>Wtyk microUSB</p></li><li><p>Złącze 1</p><p>Wtyk USB-A</p></li><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowani</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/unitek.jpg",
+    "images": [
+        "galerie/p/przewod-unitek-usb-micro-usb_58025.webp",
+        "galerie/p/przewod-unitek-usb-micro-usb_58026.webp",
+        "galerie/p/przewod-unitek-usb-micro-usb_58025.webp",
+        "galerie/p/przewod-unitek-usb-micro-usb_58026.webp"
+    ]
+}

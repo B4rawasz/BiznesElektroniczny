@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na SSD, NB, VGA"
+    ],
+    "id": "16215",
+    "code": "CC-IceR-02",
+    "name": "Radiator RAM Gelid IceRock DDR Silver",
+    "price": 46.9,
+    "description": "<p>Gelid IceRock to wydajny zestaw do chłodzenia pamięci DDR. Zastosowanie czystego aluminium oraz zoptymalizowanie kształtu radiatora pozwala osiągnąć świetne rezultaty nawet przy podkręconych pamięciach DRAM. Dodatkowa zaleta to łatwość instalacji oraz minimalistyczny industrialny wygląd.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/r/radiator-ram-gelid-icerock-dd_57641.webp\" width=\"2000\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wysoka wydajność.</li><li>Niska waga.</li><li>Atrakcyjny wygląd.</li><li>Łatwa instalacja.</li><li>Obsługa wszystkich pamięci DDR3/DDR4/DDR5.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>aluminium</p></li><li><p>Wymiary</p><p>137.7x 8.7x 33.8mm</p></li><li><p>Kolor</p><p>srebrny</p></li><li><p>Waga</p><p>60g</p></li><li><p>Kompatybilność</p><p>DDR3, DDR4 i DDR5, moduły jedno i dwustronne oraz high/low profile</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/gelid.jpg",
+    "images": [
+        "galerie/r/radiator-ram-gelid-icerock-dd_57639.webp",
+        "galerie/r/radiator-ram-gelid-icerock-dd_57642.webp",
+        "galerie/r/radiator-ram-gelid-icerock-dd_57641.webp",
+        "galerie/r/radiator-ram-gelid-icerock-dd_57640.webp",
+        "galerie/r/radiator-ram-gelid-icerock-dd_57639.webp",
+        "galerie/r/radiator-ram-gelid-icerock-dd_57642.webp",
+        "galerie/r/radiator-ram-gelid-icerock-dd_57641.webp",
+        "galerie/r/radiator-ram-gelid-icerock-dd_57640.webp"
+    ]
+}

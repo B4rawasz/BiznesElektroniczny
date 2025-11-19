@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Akcesoria"
+    ],
+    "id": "14541",
+    "code": "GAZU-791",
+    "name": "Podpórka GPU Jonsbo VC-20 Black",
+    "price": 59.99,
+    "description": "<p>Josnbo VC-20 to uniwersalna podpórka do karty graficznej. Zapobiega ona uszkodzeniu portu PCI-E poprzez jego odciążenie a także niweluje efekt opadania karty w slocie. Wspornik można umieścić w dowolnym miejscu w obudowie. Składa się ze stabilnej podstawy z magnetycznym i antypoślizgowym spodem.</p><figure><img alt=\"\" height=\"800\" src=\"galerie/p/podporka-gpu-jonsbo-vc-20-bla_53060.webp\" width=\"800\"/></figure><p>Uchwyt Jonsbo VC-20 jest w pełni regulowany. Jego wysokość można dostosować do konkretnej konfiguracji komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>15x15x74mm</p></li><li><p>Regulacja</p><p>74-120mm</p></li><li><p>Waga</p><p>36g</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Jonsbo</p></li><li><p>Dane producenta</p><p>Dongguan Sibositong Industrial Co., Ltd., No. 5, Xinglong Lu, Sanzhong Village, Qingxi Town, Dongguan City, Guangdong Province, 523651, China, jane@jonsbo.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/jonsbo.jpg",
+    "images": [
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53059.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53061.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53062.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53063.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53064.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53060.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53059.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53061.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53062.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53063.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53064.webp",
+        "galerie/p/podporka-gpu-jonsbo-vc-20-bla_53060.webp"
+    ]
+}

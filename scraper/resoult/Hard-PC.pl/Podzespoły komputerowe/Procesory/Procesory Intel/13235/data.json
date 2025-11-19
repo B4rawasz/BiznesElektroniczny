@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Procesory",
+        "Procesory Intel"
+    ],
+    "id": "13235",
+    "code": "BX8071512100F",
+    "name": "Procesor Intel Core i3-12100F BOX 3,3GHz, LGA1700",
+    "price": 347.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Liczba rdzeni</p><p>4</p></li><li><p>Liczba wątków</p><p>8</p></li><li><p>Maks. częstotliwość turbo</p><p>4.3 GHz</p></li><li><p>Intel® Turbo Boost Technology 2.0 Frequency</p><p>4.3 GHz</p></li><li><p>Bazowa częstotliwość procesora</p><p>3,3 GHz</p></li><li><p>Cache</p><p>12 MB Intel® Smart Cache</p></li><li><p>Maks. wielkość pamięci (w zależności od rodzaju pamięci)</p><p>128 GB</p></li><li><p>Rodzaje pamięci</p><p>DDR4 3200 MT/s<br/>DDR5 4800 MT/s</p></li><li><p>Maks. liczba kanałów pamięci</p><p>2</p></li><li><p>Maks. przepustowość pamięci</p><p>76.8 GB/s</p></li><li><p>Obsługa pamięci ECC</p><p>Nie</p></li><li><p>Rozszerzony zestaw instrukcji</p><p>Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512</p></li><li> </li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/intel.jpg",
+    "images": [
+        "galerie/p/procesor-intel-core-i3-12100_47849.webp",
+        "galerie/p/procesor-intel-core-i3-12100_47849.webp"
+    ]
+}

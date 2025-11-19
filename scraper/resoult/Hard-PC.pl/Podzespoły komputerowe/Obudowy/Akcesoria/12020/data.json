@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Akcesoria"
+    ],
+    "id": "12020",
+    "code": "GELI-830",
+    "name": "Riser Lian Li Lancool II-1 + PCI Slot Cover",
+    "price": 208.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>118 x 141 x 141 mm (L x W x H)</p></li><li><p>Kolor</p><p>black</p></li><li><p>Materiał</p><p>Stal</p></li><li><p>Połączenie</p><p>PCIe 16x (wtyczka), PCIe 16x (socket)</p></li><li><p>Długość</p><p>200 mm</p></li><li><p>Obsługa standardiu PCI-E</p><p>2.0, 3.0</p></li><li><p>Produkty kompatybilne</p><p>Lian Li LANCOOL II</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/lian-li.jpg",
+    "images": [
+        "galerie/r/riser-lian-li-lancool-ii-1-pc_41933.webp",
+        "galerie/r/riser-lian-li-lancool-ii-1-pc_41934.webp",
+        "galerie/r/riser-lian-li-lancool-ii-1-pc_41935.webp",
+        "galerie/r/riser-lian-li-lancool-ii-1-pc_41933.webp",
+        "galerie/r/riser-lian-li-lancool-ii-1-pc_41934.webp",
+        "galerie/r/riser-lian-li-lancool-ii-1-pc_41935.webp"
+    ]
+}

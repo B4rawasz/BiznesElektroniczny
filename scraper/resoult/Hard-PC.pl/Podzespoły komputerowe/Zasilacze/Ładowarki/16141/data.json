@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Ładowarki"
+    ],
+    "id": "16141",
+    "code": "PB-Y37",
+    "name": "Powerbank Aukey PB-Y37 20000mAh 65W",
+    "price": 299.9,
+    "description": "<h2>Duża pojemność</h2><p>Pojemność 20 000 mAh wystarcza do wielokrotnego ładowania twoich urządzeń.</p><figure><img alt=\"\" height=\"1500\" src=\"galerie/p/powerbank-aukey-pb-y37-20000m_57294.webp\" width=\"1500\"/></figure><h2>Uniwersalne ładowanie</h2><p>65 W mocy umożliwia szybkie ładowanie telefonów, MacBooka Pro 13'', Nintendo Switch, iPada innych urządzeń.</p><h2>Szybkie ładowanie</h2><p>Port Quick Charge 3.0 ładuje kompatybilne urządzenia nawet do 4 razy szybciej niż ładowanie konwencjonalne.</p><h2>Szybkie ładowanie</h2><p>Naładuj powerbanka w pełni w zaledwie 2 godziny przy wejściu 45 W.</p><h2>Tryb niskiego prądu</h2><p>Specjalny tryb do ładowania urządzeń o niskim poborze prądu, takich jak słuchawki i smartwatche.</p><h2>Wszechstronna ochrona</h2><p>Technologia chroniąca Twoje urządzenia przed nadmiernym ładowaniem, zabezpieczeniem przed zwarciem, ochroną przed przepływem prądu i wykrywaniem temperatury.</p><h2>Przyjazne dla podróżnych</h2><p>Pojemność 20 000 mAh mieści się w międzynarodowym limicie na podróżowanie samolotem.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Rodzaj ładowania</p><p>Przewodowe</p></li><li><p>Port ładujący USB</p><p>tak</p></li><li><p>Pojemność baterii</p><p>20000 mAh</p></li><li><p>Obsługiwane technologie</p><p>Power Delivery</p></li><li><p>Moc (W)</p><p>65 W</p></li><li><p>Ilość portów USB-C</p><p>2 szt</p></li><li><p>Ilość portów USB-A</p><p>1 szt</p></li><li><p>Ilość portów</p><p>3 szt</p></li><li><p>Standard ładowania</p><p>Power Delivery<br/>Quick Charge</p></li><li><p>Rodzaj portów ładowania</p><p>USB-A<br/>USB-C</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Aukey</p></li><li><p>Dane producenta</p><p>AuGroup (SHENZHEN) Cross-Border Business Co., Ltd, Kangli information Valley Building, Shenzhen 518111, CHRL, support@aukey.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, aukey@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/aukey.jpg",
+    "images": [
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57287.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57288.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57289.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57290.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57291.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57292.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57293.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57294.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57295.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57287.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57288.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57289.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57290.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57291.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57292.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57293.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57294.webp",
+        "galerie/p/powerbank-aukey-pb-y37-20000m_57295.webp"
+    ]
+}

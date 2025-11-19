@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Słuchawki dokanałowe/douszne"
+    ],
+    "id": "11816",
+    "code": "HI1200",
+    "name": "Słuchawki dokanałowe Takstar HI1200",
+    "price": 99.0,
+    "description": "<p>Dokanałowe słuchawki premium doskonale izolujące hałas.</p><p>HI1200 zapewniają doskonały dźwięk z głębokim basem i imponującą izolacją dźwiękową.</p><p>HI1200 oferuje w zestawie nakładki izolacyjne w wielu rozmiarach, które blokują hałas zewnętrzny do 37 dB i jednocześnie są bezpieczne i wygodne w noszeniu.</p><p>Testowane przez profesjonalnych muzyków, którzy potwierdzają szczegółowość dźwięku tych słuchawek dla użytku osobistego lub monitoringu studyjnego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY --><!--<li>Atrybut: <span>wartość</span></li>--><li>Przetwornik: Dynamiczny</li><li>Średnica przetwornika: Ф8mm</li><li>Impedancja: 20Ω ± 30%</li><li>Pasmo przenoszenia: 10Hz-20kHz</li><li>Czułość: 100 ± 3dB przy 1kHz</li><li>Max. Moc wejściowa: 30mW</li><li>Moc znamionowa: 15MW</li><li>Długość kabla: 1,4 m, typ Y</li><li>Wtyk - adapter: Ф3.5mm, pozłacany</li><li>Waga netto: 12,5 g</li></ul><h2>Cechy:</h2><ul id=\"attribs\"><!-- ATRYBUTY --><!--<li>Atrybut: <span>wartość</span></li>--><li>Metalowa membrana przetwornika zapewnia znakomitą jakość oraz szczegółowość dźwięku</li><li>Drewniana konstrukcja zapewnia zachowanie  akustyczne oraz czysty i naturalny dźwięk</li><li>Doskonała, ergonomiczna konstrukcja dla dopasowania i komfortu noszenia</li><li>Dostarczane z 6 rodzajami miękkich gumowych nakładek  </li><li>W zestawie elegancka skórzana torebka do wygodnego przenoszenia.</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Soundmagic</p></li><li><p>Dane producenta</p><p>Shenzhen SoundMAGIC Technology Development Co.,Ltd, No.8, Fulong Industrial Zone, Shipai town, Dongguan City, Guangdong Province, sales2@soundmagic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/soundmagic.jpg",
+    "images": [
+        "galerie/s/sluchawki-dokanalowe-takstar_40504.webp",
+        "galerie/s/sluchawki-dokanalowe-takstar_40503.webp",
+        "galerie/s/sluchawki-dokanalowe-takstar_40505.webp",
+        "galerie/s/sluchawki-dokanalowe-takstar_40506.webp",
+        "galerie/s/sluchawki-dokanalowe-takstar_40504.webp",
+        "galerie/s/sluchawki-dokanalowe-takstar_40503.webp",
+        "galerie/s/sluchawki-dokanalowe-takstar_40505.webp",
+        "galerie/s/sluchawki-dokanalowe-takstar_40506.webp"
+    ]
+}

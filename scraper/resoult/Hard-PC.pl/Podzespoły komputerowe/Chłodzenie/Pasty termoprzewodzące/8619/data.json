@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Pasty termoprzewodzące"
+    ],
+    "id": "8619",
+    "code": "ZUWA-151",
+    "name": "Pasta termoprzewodząca Thermal Grizzly Aeronaut - 1g",
+    "price": 12.9,
+    "description": "OPIS <p><strong>Thermal Grizzly Aeronaut</strong> to pasta termoprzewodząca to idealne rozwiązanie dla początkujących. Dzięki niewielkiej cenie i wysokiemu przewodnictwu cieplnemu świetnie sprawują się jako znacznie wydajniejszy zamiennik preaplikowanych past.</p><h2>Uwaga na podróbki</h2><p>W związku z pojawieniem się w sprzedaży nieoryginalnych produktów Thermal Grizzly otrzymujemy wiele zapytań o sprzedawane przez nas pasty termoprzewodzące TG. Pragniemy zapewnić, że jesteśmy oficjalnym partnerem producenta i gwarantujemy oryginalność sprzedawanych past, którą możecie Państwo potwierdzić podczas elektronicznej weryfikacji towaru na stronie thermal-grizzly.com</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Przewodność cieplna: 8,5 W/mk</li><li>Rezystancaj cieplna: 0,0129 K/W</li><li>Przewodność elektryczna: 0 pS/m</li><li>Lepkośc: 110-160 Pas</li><li>Zakrtes pracy: -150 °C / +200 °C</li><li>Waga: 1g</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+    "images": [
+        "galerie/p/pasta-termoprzewodzaca-therma_23947.webp",
+        "galerie/p/pasta-termoprzewodzaca-therma_23948.webp",
+        "galerie/p/pasta-termoprzewodzaca-therma_23949.webp",
+        "galerie/p/pasta-termoprzewodzaca-therma_23947.webp",
+        "galerie/p/pasta-termoprzewodzaca-therma_23948.webp",
+        "galerie/p/pasta-termoprzewodzaca-therma_23949.webp"
+    ]
+}

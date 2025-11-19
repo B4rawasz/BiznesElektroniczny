@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Fotele i akcesoria",
+        "Akcesoria do foteli"
+    ],
+    "id": "13809",
+    "code": "GAGC-105",
+    "name": "Podnóżek Noblechairs Black",
+    "price": 714.0,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Specyfikacja wymiarów (siedziska)</p><p>Wysokość (z podstawą) - ok. 43,5 cm<br/>Szerokość (w najszerszym miejscu) - ok. 49 cm<br/>Głębokość - ok. 39,5 cm<br/>Kąt pochylenia - max. 57°<br/>Kąt nachylenia - max. 57°</p></li><li><p>Materiał</p><p>Zimna pianka (tapicerka)<br/>Syntetyczna skóra PU (poszycie)<br/>Aluminium / tworzywo sztuczne (podstawa)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Noblechairs</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/noblechairs.jpg",
+    "images": [
+        "galerie/p/podnozek-noblechairs-black_49794.webp",
+        "galerie/p/podnozek-noblechairs-black_49795.webp",
+        "galerie/p/podnozek-noblechairs-black_49796.webp",
+        "galerie/p/podnozek-noblechairs-black_49797.webp",
+        "galerie/p/podnozek-noblechairs-black_49798.webp",
+        "galerie/p/podnozek-noblechairs-black_49799.webp",
+        "galerie/p/podnozek-noblechairs-black_49800.webp",
+        "galerie/p/podnozek-noblechairs-black_49801.webp",
+        "galerie/p/podnozek-noblechairs-black_49802.webp",
+        "galerie/p/podnozek-noblechairs-black_49803.webp",
+        "galerie/p/podnozek-noblechairs-black_49794.webp",
+        "galerie/p/podnozek-noblechairs-black_49795.webp",
+        "galerie/p/podnozek-noblechairs-black_49796.webp",
+        "galerie/p/podnozek-noblechairs-black_49797.webp",
+        "galerie/p/podnozek-noblechairs-black_49798.webp",
+        "galerie/p/podnozek-noblechairs-black_49799.webp",
+        "galerie/p/podnozek-noblechairs-black_49800.webp",
+        "galerie/p/podnozek-noblechairs-black_49801.webp",
+        "galerie/p/podnozek-noblechairs-black_49802.webp",
+        "galerie/p/podnozek-noblechairs-black_49803.webp"
+    ]
+}

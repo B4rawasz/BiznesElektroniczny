@@ -1,0 +1,20 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Słuchawki dokanałowe/douszne"
+    ],
+    "id": "12731",
+    "code": "KZ-EDX",
+    "name": "Słuchawki KZ EDX Czarne",
+    "price": 69.0,
+    "description": "<p>KZ EDX to budżetowe słuchawki dokanałowe oferujące sceniczną jakość dźwięku i maksymalną wygodę użytkowania. Wyposażono jest w najnowszy przetwornik dynamiczny generujący fantastyczne brzmienie.</p><p>Silny magnes pozwala na uzyskanie wysokiej klasy dźwięku o dużej dynamice i doskonałym odwzorowaniu wokali oraz instrumentów.</p><p>Obudowę KZ EDX wykonano z przyjaznej skórze żywicy, którą ukształtowano w wysokiej temperaturze i utwardzono lampą UV w celu uzyskania lustrzanej powłoki. Miękkie zausznice zapewniają komfort użytkowania i ułatwiają aplikację. Poprawne założenie słuchawek gwarantuje również redukcję dźwięków otoczenia i umożliwia skupienie się na muzyce przy zachowaniu niskiego poziomu głośności.</p><p>KZ EDX wyposażono w dwupinowe gniazdo 0.75mm umożliwiające zastosowanie wielu kabli, a także modułu bezprzewodowego Bluetooth.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Sposób noszenia</p><p>zauszne</p></li><li><p>Czułość</p><p>112dB</p></li><li><p>Impedancja</p><p>23Ohm</p></li><li><p>Pasmo przenoszenia</p><p>10-20000Hz</p></li><li><p>Wtyk</p><p>3,5mm</p></li><li><p>Waga</p><p>23+/-3g</p></li><li><p>Długość kabla</p><p>125+/-5cm</p></li><li></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>KZ ACOUSTICS</p></li><li><p>Dane producenta</p><p>KZ ACOUSTICS, 2nd Floor, Building A, Longchang MicroPort Park, No.26 Hantang Street, Gutou Community, Dongcheng, Dongguan, Guangdong, China, sales@kzhifi.com</p></li><li><p>Podmiot odpowiedzialny</p><p> </p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/kz-acoustics.jpg",
+    "images": [
+        "galerie/s/sluchawki-kz-edx-z-mikrofonem_45781.webp",
+        "galerie/s/sluchawki-kz-edx-z-mikrofonem_45782.webp",
+        "galerie/s/sluchawki-kz-edx-z-mikrofonem_45781.webp",
+        "galerie/s/sluchawki-kz-edx-z-mikrofonem_45782.webp"
+    ]
+}

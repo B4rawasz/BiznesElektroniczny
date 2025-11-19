@@ -1,0 +1,32 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Repeatery"
+    ],
+    "id": "15640",
+    "code": "TL-WA860RE",
+    "name": "Repeater sieciowy TP-Link TL-WA860RE 300Mb/s",
+    "price": 104.9,
+    "description": "<h2>Pozbądź się \"martwych stref\" ze swojego domu</h2><p>TL-WA860RE to urządzenie stworzone do zwiększania zasięgu i poprawiania sygnału sieci bezprzewodowej. Dwie zewnętrzne anteny dbają o to, aby dostęp do Wi-Fi był możliwy w każdym pomieszczeniu twojego domu, a wszystkie urządzenia mobilne, odtwarzacze multimedialne i komputery miały stałe połączenie ze stabilną siecią.</p><h2>Plug and Play — instalacja prostsza niż myślisz</h2><p>Aby połączyć się z siecią, wystarczy tylko nacisnąć przycisk WPS na routerze, a następnie na wzmacniaczu. To wszystko! Po uzyskaniu połączenia z routerem możesz przenieść swój wzmacniacz w dowolne miejsce znajdujące się w zasięgu sieci routera.</p><h2>Praktyczna konstrukcja dla wygody użytkowania</h2><p>Wzmacniacz TL-WA860RE wyposażony jest we własne gniazdko, dlatego podłączając go do kontaktu nie blokujesz możliwości zasilania innych urządzeń. Liczba dostępnych gniazdek pozostaje taka sama!</p><h2>Inteligentny wskaźnik sygnału</h2><p>Inteligentny sygnalizator informuje o sile odbieranego sygnału i pomaga znaleźć najlepszą lokalizację dla wzmacniacza.</p><h2>TL-WA860RE to nie tylko wzmacniacz sygnału</h2><p>TL-WA860RE obsługuje także tryb AP, używając przewodowego połączenia z Internetem do utworzenia bezprzewodowego punktu dostępowego. Może również pełnić funkcję bezprzewodowej karty sieciowej i zapewniać połączenie urządzeniom przewodowym — odtwarzaczom Blu-ray®, konsolom do gier, dekoderom telewizji cyfrowej czy też telewizji internetowej.</p><h2>Wielofunkcyjna aplikacja Tether</h2><p>TP-Link Tether to intuicyjna aplikacja, umożliwiająca użytkownikom stałe monitorowanie stanu wzmacniacza sygnału, kontrolę jego funkcji oraz zmianę ustawień na każdym urządzeniu mobilnym z systemem Android lub iOS.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li>Tryb Range Extender umożliwia doprowadzenie sieci bezprzewodowej do miejsc trudnych do okablowania i dotychczas nieobjetych zasięgiem sieci.</li><li>Miniaturowe wymiary i możliwość montażu w gnieździe zasilającym pozwalają na łatwe umieszczenie urządzenia w miejscu docelowym.</li><li>Wbudowane gniazdko sieci elektrycznej umożliwia podłączenie do prądu dodatkowego urządzenia.</li><li>Dwie stałe anteny zapewniają duży zasięg sygnału i stabilność połączeń.</li><li>Łatwe zwiększenie zasięgu sieci bezprzewodowej za pomocą przycisku Range Extender.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standardy i protokoły</p><p>IEEE 802.11n, IEEE 802.11g, IEEE 802.11b</p></li><li><p>Porty</p><p>1 port Ethernet 10/100 Mb/s (RJ45)</p></li><li><p>Porty</p><p>1 x 10/100Mbps Ethernet Port (RJ45)</p></li><li><p>Przyciski</p><p>Przycisk RE (Range Extender), Przycisk Reset</p></li><li><p>Zasilanie wejściowe</p><p>100-240V~50/60Hz</p></li><li><p>Pobór mocy</p><p>Około 3 W</p></li><li><p>Wymiary (S x G x W)</p><p>110,0 x 65,8 x 75,2 mm</p></li><li><p>Antena</p><p>2 zewnętrzne anteny</p></li><li><p>Standardy bezprzewodowe</p><p>IEEE 802.11n, IEEE 802.11g, IEEE 802.11b</p></li><li><p>Częstotliwość pracy</p><p>2,4~2,4835 GHz</p></li><li><p>Prędkość transmisji</p><p>11n Do 300 Mb/s (dynamicznie)<br/>11g Do 54 Mb/s (dynamicznie)<br/>11b Do 11 Mb/s (dynamicznie)</p></li><li><p>Czułość odbiornika</p><p>270M</p><p>-69dBm@10% PER<br/>130M -69dBm@10% PER<br/>108M -69dBm@10% PER<br/>54M -69dBm@10% PER<br/>11M -86Bm@8% PER<br/>6M -89dBm@10% PER<br/>1M -91dBm@8% PER</p></li><li><p>EIRP</p><p>&lt;20 dBm (EIRP)</p></li><li><p>Tryby pracy bezprzewodowej</p><p>Wzmacniacz sygnału<br/>Punkt dostępowy</p></li><li><p>Funkcje transmisji bezprzewodowej</p><p>WMM (Wi-Fi Multimedia)<br/>Filtrowanie adresów MAC<br/>Statystyki transmisji bezprzewodowej<br/>Logowanie z użyciem nazwy domenowej<br/>Kontrola diod<br/>Harmonogram zasilania</p></li><li><p>Bezpieczeństwo transmisji bezprzewodowej</p><p>64/128/152-bitowe szyfrowanie WEP, WPA-PSK / WPA2-PSK</p></li><li><p>Moc transmisji</p><p>CE &lt;15dBm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tp-link.jpg",
+    "images": [
+        "galerie/r/repeater-sieciowy-tp-link-tl_55665.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55666.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55667.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55668.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55669.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55670.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55671.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55672.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55665.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55666.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55667.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55668.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55669.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55670.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55671.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55672.webp"
+    ]
+}

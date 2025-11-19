@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "18946",
+    "code": "ZUWA-307",
+    "name": "Ramka Thermal Grizzly CPU Contact Frame Intel 1700 LT",
+    "price": 29.9,
+    "description": "<h2>Thermal Grizzly CPU Contact Frame Intel 1700 LT – Wydajność w zasięgu ręki!</h2><p>Thermal Grizzly CPU Contact Frame Intel 1700 LT to idealne rozwiązanie dla użytkowników procesorów Intel 12., 13. i 14. generacji, którzy chcą zoptymalizować chłodzenie swoich jednostek. Wykonany z wysokiej jakości tworzywa ABS wzbogaconego o 15% włókna szklanego, zapewnia nie tylko doskonałą stabilność, ale także przystępną cenę dzięki ekonomicznemu procesowi produkcji. Konstrukcja została zaprojektowana z myślą o maksymalnej funkcjonalności, aby zapewnić lepsze odprowadzanie ciepła i obniżyć temperatury procesora.</p><h2>Optymalizacja chłodzenia procesora</h2><p>Standardowy mechanizm mocujący (ILM) często powoduje nierównomierny nacisk na procesor, prowadząc do powstawania wypukłości na powierzchni IHS (Integrated Heatspreader). W efekcie radiator chłodzenia styka się głównie z krawędziami, co utrudnia odprowadzanie ciepła z centrum procesora. Contact Frame Intel 1700 LT eliminuje ten problem, równomiernie rozkładając nacisk i zapewniając większą powierzchnię kontaktu radiatora z procesorem.</p><h2>Łatwa instalacja</h2><p>Instalacja Contact Frame jest intuicyjna i zajmuje tylko kilka kroków. Bez względu na używany system chłodzenia, możesz osiągnąć widoczne obniżenie temperatur procesora.</p><h2>Kompatybilność</h2><p>Produkt jest w pełni kompatybilny z procesorami Intel LGA 1700, w tym jednostkami \"Alder Lake\", \"Raptor Lake\" oraz \"Meteor Lake\". Dodatkowo, wspiera procesory, których IHS został zeszlifowany do 0,2 mm, co czyni go idealnym wyborem dla entuzjastów modyfikacji.</p><h2>Ostrzeżenie</h2><p>Demontaż IHS lub modułu mocowania na płycie głównej (Retention Module) odbywa się na własne ryzyko i powoduje utratę gwarancji producenta. Szczególną uwagę należy zwrócić na konstrukcję płyt głównych w formacie Mini-ITX, aby uniknąć konfliktu z elementami elektronicznymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Lepsze chłodzenie: Zwiększona powierzchnia kontaktu radiatora z procesorem.</li><li>Wytrzymałe materiały: Wysokiej jakości ABS z włóknem szklanym.</li><li>Kompatybilność: Obsługa Intel LGA 1700 (12., 13. i 14. generacja).</li><li>Łatwość montażu: Intuicyjna instalacja nawet dla początkujących użytkowników.</li><!-- KONIEC ATRYBUTÓW --></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wymiary</p><p>51 x 6 x 71 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>ABS z włóknem szklanym</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Kompatybilność</p><p>Intel LGA 1700 (Intel 12., 13., 14. generacja)</p></li><!-- KONIEC ATRYBUTÓW --></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+    "images": [
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69789.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69790.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69793.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69791.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69794.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69792.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69789.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69790.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69793.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69791.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69794.webp",
+        "galerie/r/ramka-thermal-grizzly-cpu-con_69792.webp"
+    ]
+}

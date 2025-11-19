@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Obudowy bez okna"
+    ],
+    "id": "12346",
+    "code": "GEPH-136",
+    "name": "Obudowa Phanteks Eclipse P200A Black",
+    "price": 229.99,
+    "description": "<h2>Phanteks P200A - Obudowa mini-ITX z dużymi możliwościami</h2><p>Phanteks Eclipse P200A to obudowa w standardzie mini-tower stworzona dla graczu i entuzjastów. Jej rozmiar jest nieco większy niż klasycznej obudowy mini-ITX, ale dzięki temu oferuje więcej miejsca na sprzęt, jak choćby zasilacz w formacie ATX. Front wykonano z siatki Mesh o niewielkich oczkach, co zapewnia obfity dopływ powietrza i jednocześnie zapobiega przedstawianiu się kurzu do wnętrza obudowy. Znajduje się tutaj również miejsce na dwa wentylatory 120 lub 140mm. Boczne panele również posiadają siatkowane elementy by wspomóc przepływ powietrza. Obudowa posiada zainstalowane dwa wentylatory; jeden z przodu drugi z tyłu.</p><h2>Więcej powietrza, mniej kurzu</h2><p>Phanteks Eclipse P200A Performance nawiązuje stylistycznie do pozostałych produktów z linii Eclipse. Trapezoidalny front to kratka wentylacyjna o małych oczkach wykonana zestali. Dzięki perforacji o wielkości zaledwie jednego milimetra powietrze zasysane jest do wnętrza bez oporu, a jednocześnie stanowi on skuteczną blokadę dla drobin kurzu. Za przednim panelem można zamontować dwa wentylatory 120 lub 140mm. Producent domyślnie umieścił tutaj jedne wentylator 120mm PWM. Przedni panel można łatwo ściągnąć i wyczyścić.</p><p>Na tylnej ścianie znajduje się miejsce na wentylator 120mm. Na prawnym bocznym panelu również znajduje się perforacja i miejsce na dwa wentylatory 120mm. Dodatkowe dwie 120-tki można zamontować w dolnej części. Zarówno z boku (240mm) jak i na froncie (280mm) można zainstalować chłodnice chłodzenia cieczą. Warto jednak dodać, że nie mogą one przekroczyć rozmiaru odpowiednio 279mm i 325mm.</p><h2>Dużo miejsca na podzespoły</h2><p>Phanteks Eclipce P200A pozwala na montaż płyty w standardzie mini-ITX. Jeśli zdecydujemy się na chłodzenie powietrzne, można zamontować cooler o wysokości do 165mm. Sporo! Niewielki rozmiar obudowy nie wyklucza możliwości montażu długich kart graficznych. W P200A jest aż 355mm miejsca na VGA. Za pomocą dodatkowego risera kartę można również zamontować wertykalnie. Obudowa daje możliwość montażu zasilacza ATX o maksymalnej długości 205mm. Za tacą płyty głównej znajduje się miejsce na dwa dyski 2.5”. Kolejne dwa można zamontować z tuż obok, jednak tracimy wtedy możliwość korzystania z chłodnicy 240mm lub dwóch wentylatorów. Przy użyciu opcjonalnych szyn (brak w zestawie) można również zastosować aż 4dyski w formacie 3.5”. Panel I/O poza przyciskiem Power oraz Reset posiada dwa gniazda USB 3.0 oraz złącze audio combo-jack.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>205 x 365 x 400mm</p></li><li><p>Standard</p><p>Mini-ITX, Mini-DTX</p></li><li><p>Miejsca na dyski 3.5\"</p><p>4 (brak w zestawie/sprzedawane osobno)</p></li><li><p>Miejsca na dyski 2.5\"</p><p>4 (w zestawie)</p></li><li><p>Możliwość montażu wertkalnego dla GPU</p><p>Tak, 3 sloty (zestaw montażowy w zestawie, brak risera)</p></li><li><p>System chłodzenia</p><p>max 7x 120mm lub 2x 140mm + 5x 120mm<br/>Front 2 x 120mm/2x140mm (1x 120mm PWM w zestawie)<br/>Bok 2x 120mm<br/>Tył 1 x 120mm (w zestawie)<br/>Dół 2 x 120mm</p></li><li><p>Filtr przeciwkurzowy</p><p>na dole</p></li><li><p>Możliwość montażu chłodnic</p><p>Front 240/280mm<br/>Bok 240mm<br/>Tył 120mm</p></li><li><p>Miejsce na chłodnicę</p><p>Front 140x325mm<br/>Bok 120x 279mm</p></li><li><p>Maksymalna długość GPU</p><p>355mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>165mm</p></li><li><p>Maksymalna wysokosć chłodzenia CPU przy wertykalnym montażu GPU</p><p>72 lub 92mm (w zależności o pozycji)</p></li><li><p>Maksymalna długość zasilacza</p><p>205mm (190mm rekomendowana)</p></li><li><p>Waga</p><p>6.4kg</p></li><li><p>Panel IO</p><p>2x USB 3.0<br/>Mikrofon/Słuchawki<br/>Reset<br/>Power</p></li><li> </li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/phanteks.jpg",
+    "images": [
+        "galerie/o/obudowa-phanteks-eclipse-p200_43918.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43919.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43920.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43921.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43922.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43923.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43924.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43925.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43926.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43927.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43918.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43919.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43920.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43921.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43922.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43923.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43924.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43925.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43926.webp",
+        "galerie/o/obudowa-phanteks-eclipse-p200_43927.webp"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Procesory",
+        "Procesory Intel"
+    ],
+    "id": "15742",
+    "code": "BX8071513700KF",
+    "name": "Procesor Intel Core i7-13700KF BOX 3,4GHz, LGA1700",
+    "price": 1587.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Liczba rdzeni</p><p>16</p></li><li><p>Liczba rdzeni Performance-core</p><p>8</p></li><li><p>Liczba rdzeni Efficient-core</p><p>8</p></li><li><p>Liczba wątków</p><p>24</p></li><li><p>Maks. częstotliwość turbo</p><p>5.40 GHz</p></li><li><p>Częstotliwość technologii Intel® Turbo Boost Max 3.0</p><p>5.40 GHz</p></li><li><p>Maksymalna częstotliwość turbo rdzeni Performance-core</p><p>5.30 GHz</p></li><li><p>Maksymalna częstotliwość turbo rdzeni Efficient-core</p><p>4.20 GHz</p></li><li><p>Częstotliwość bazowa rdzeni Performance-core</p><p>3.40 GHz</p></li><li><p>Częstotliwość bazowa rdzeni Efficient-core</p><p>2.50 GHz</p></li><li><p>Cache</p><p>30 MB Intel® Smart Cache</p></li><li><p>Łącznie pamięci podręcznej L2</p><p>24 MB</p></li><li><p>Podstawowa moc procesora</p><p>125 W</p></li><li><p>Maksymalna moc turbo</p><p>253 W</p></li><li><p>Maks. wielkość pamięci (w zależności od rodzaju pamięci)</p><p>128 GB</p></li><li><p>Rodzaje pamięci</p><p>Up to DDR5 5600 MT/s<br/>Up to DDR4 3200 MT/s</p></li><li><p>Maks. liczba kanałów pamięci</p><p>2</p></li><li><p>Maks. przepustowość pamięci</p><p>89.6 GB/s</p></li><li><p>Wersja magistrali DMI (Direct Media Interface)</p><p>4.0</p></li><li><p>Maksymalna liczba linii DMI</p><p>8</p></li><li><p>Skalowalność</p><p>1S Only</p></li><li><p>Wersja PCI Express</p><p>5.0 and 4.0</p></li><li><p>Liczba konfiguracji PCI Express</p><p>Up to 1x16+4, 2x8+4</p></li><li><p>Maksymalna liczba linii PCI Express</p><p>20</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/intel.jpg",
+    "images": [
+        "galerie/p/procesor-intel-core-i7-13700_56127.webp",
+        "galerie/p/procesor-intel-core-i7-13700_56128.webp",
+        "galerie/p/procesor-intel-core-i7-13700_56127.webp",
+        "galerie/p/procesor-intel-core-i7-13700_56128.webp"
+    ]
+}

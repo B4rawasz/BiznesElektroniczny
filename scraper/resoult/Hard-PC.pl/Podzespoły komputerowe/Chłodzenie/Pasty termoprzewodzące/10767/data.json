@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Pasty termoprzewodzące"
+    ],
+    "id": "10767",
+    "code": "TC-GC-03-10g",
+    "name": "Pasta termoprzewodząca Gelid GC-Extreme TC-GC-03 - 10g",
+    "price": 82.9,
+    "description": "OPIS <p>Ultrawydajna pasta termoprzewodząca zaprojektowana tak aby osiągnąć maksymalną wydajność w każdych warunkach. Przeznaczona jest do wypełniania połączeń procesor - radiator w celu polepszenia odprowadzania ciepła. Dzięki temu że nie przewodzi prądu elektrycznego doskonale nadaje się do zastosowań na pamięci, elementy zasilania płyty głównej, procesory graficzne GPU, itp.Pasta nie wymaga dużego docisku, doskonale sprawdza się przy coolerach o słabszym docisku. Zaprojektowana do nowoczesnych chłodzeń opartych o ciepłowody, doskonale sprawdza się również przy klasycznych radiatorach.Wysoka jakość gwarantuje długą pracę bez pogorszenia parametrów termicznych pasty.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Kolor: szary</li><li>Przewodność cieplna: 8.5 W/mK.</li><li>Temperatura pracy: -45 do 240*C</li><li>Lepkość: 83500 cP</li><li>Opakowanie: 10 g.</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/gelid.jpg",
+    "images": [
+        "galerie/p/pasta-termoprzewodzaca-gelid_34645.webp",
+        "galerie/p/pasta-termoprzewodzaca-gelid_34644.webp",
+        "galerie/p/pasta-termoprzewodzaca-gelid_34646.webp",
+        "galerie/p/pasta-termoprzewodzaca-gelid_34645.webp",
+        "galerie/p/pasta-termoprzewodzaca-gelid_34644.webp",
+        "galerie/p/pasta-termoprzewodzaca-gelid_34646.webp"
+    ]
+}

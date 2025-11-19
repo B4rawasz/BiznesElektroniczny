@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Repeatery"
+    ],
+    "id": "15641",
+    "code": "TL-WA854RE",
+    "name": "Repeater sieciowy TP-Link TL-WA854RE 300Mb/s",
+    "price": 59.0,
+    "description": "<h2>Skuteczne wzmocnienie sygnału sieci</h2><p>Masz dosyć słabego sygnału Wi-Fi? Wzmacniacz TL-WA854RE pozwala na łatwe i wygodne zwiększenie zasięgu sieci bezprzewodowej tak, by zapewnić dostęp do szybkich i stabilnych połączeń w całym domu lub biurze.</p><h2>Łatwa instalacja, szybki wybór lokalizacji</h2><p>W celu połączenia się z siecią wystarczy tylko nacisnąć przycisk WPS na routerze, a następnie, w ciągu dwóch minut, przycisk RE na wzmacniaczu. To wszystko! Po uzyskaniu połączenia z routerem możesz przenieść swój wzmacniacz w dowolne miejsce znajdujące się w zasięgu sieci bezprzewodowej. Jeśli zmienisz lokalizację wzmacniacza, nie musisz konfigurować go ponownie.</p><h2>Inteligentny wskaźnik siły sygnału</h2><p>Wzmacniacz wyposażony jest w 5 diod pokazujących siłę odbieranego sygnału sieci bezprzewodowej – znacznie ułatwia to wybór dogodnej lokalizacji dla urządzenia.</p><p>Jeśli chcesz, by twoje urządzenie pracowało z optymalną wydajnością, umieść je w miejscu, w którym co najmniej 3 diody świecą się na zielono.</p><h2>Wielofunkcyjna aplikacja Tether</h2><p>Dzięki aplikacji Tether możesz kontrolować wzmacniacz za pomocą dowolnego urządzenia mobilnego. Do dyspozycji masz m.in. funkcję trybu nocnego, która wyłącza diody urządzenia, gdy nadchodzi pora snu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li>Tryb Range Extender wzmacnia sygnał sieci bezprzewodowej, pozwalając na jego dotarcie do trudno dostępnych obszarów.</li><li>Niewielka konstrukcja oraz możliwość montażu w gnieździe zasilającym sprawiają, że znalezienie optymalnego miejsca dla urządzenia nie stanowi problemu.</li><li>Zwiększenie zasięgu sieci trwa dosłownie chwilę – wystarczy nacisnąć przycisk Range Extender.</li><li>Aplikacja TP-Link Tether pozwala na łatwe zarządzanie wzmacniaczem za pomocą dowolnego urządzenia mobilnego.</li><li>Funkcja kontroli diod umożliwia korzystanie z trybu nocnego, który dba o to, aby światło diody nie zakłócało snu.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przyciski</p><p>WPS, Reset</p></li><li><p>Zasilanie wejściowe</p><p>100-240V~50/60Hz</p></li><li><p>Pobór mocy</p><p>3,3 W</p></li><li><p>Wymiary (S x G x W)</p><p>65,8 × 75,2 × 110 mm</p></li><li><p>Antena</p><p>2 anteny wewnętrzne</p></li><li><p>Standardy bezprzewodowe</p><p>IEEE 802.11b/g/n</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz</p></li><li><p>Prędkość transmisji</p><p>11n do 300 Mb/s (dynamicznie)<br/>11g do 54 Mb/s (dynamicznie)<br/>11b do 11 Mb/s (dynamicznie)</p></li><li><p>Czułość odbiornika</p><p>2,4 GHz</p><p>11g 54 Mb/s -80 dBm, 11n HT20 MCS7</p><p>-79 dBm<br/>11n HT40 MCS7</p><p>-76 dBm</p></li><li><p>Funkcje transmisji bezprzewodowej</p><p>Wł./wył. sieci bezprzewodowej<br/>Kontrola dostępu<br/>Kontrola LED<br/>Harmonogram zasilania<br/>Zasięg Wi-Fi</p></li><li><p>Bezpieczeństwo transmisji bezprzewodowej</p><p>64/128-bitowe szyfrowanie WEP, WPA-PSK / WPA2-PSK</p></li><li><p>Moc transmisji</p><p>CE &lt;15 dBm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tp-link.jpg",
+    "images": [
+        "galerie/r/repeater-sieciowy-tp-link-tl_55673.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55674.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55675.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55676.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55673.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55674.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55675.webp",
+        "galerie/r/repeater-sieciowy-tp-link-tl_55676.webp"
+    ]
+}

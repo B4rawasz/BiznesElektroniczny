@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Obudowy z oknem"
+    ],
+    "id": "17724",
+    "code": "GEDC-032",
+    "name": "Obudowa DeepCool Macube 110 Micro-ATX – Black",
+    "price": 165.9,
+    "description": "<h2>Prosty i przestronny</h2><p>DeepCool MACUBE 110 ma prostą czarną konstrukcję. Obsługuje płyty główne do Micro-ATX i oferuje wystarczająco dużo opcji do zainstalowania sprzętu. Zainstalowany fabrycznie wentylator oraz instalacja aż pięciu dodatkowych wentylatorów i aż trzech radiatorów zapewniają optymalne chłodzenie. Kanały wentylacyjne z przodu, u góry i na panelu siatkowym zapewniają również wystarczające chłodzenie komponentów.</p><p>Pomimo swojej kompaktowości, można zainstalować karty graficzne o długości do 320 mm i chłodnice procesora o wysokości do 165 mm . Jest też miejsce na dwa dyski 2,5-calowe i dwa 3,5-calowe, dzięki czemu masz wystarczająco dużo pamięci na gry i programy.</p><h2>Instalacja i konwersja bez użycia narzędzi</h2><p>Midi Tower zachwyca jednak także tym, że uchwyty na dyski SSD posiadają blokadę przycisków. Regulowany uchwyt na kartę graficzną i magnetycznie mocowany panel boczny sprawiają, że narzędzia nie są już potrzebne.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>225 x 431 x 400 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>6,2 kg</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>ABS, SPCC, Hartglas</p></li><li><p>Obsługiwane płyty główne</p><p>Micro-ATX/Mini-ITX</p></li><li><p>Wentylator</p><p>1x 120 mm (tył, fabrycznie zainstalowany)<br/>3x 120 mm / 2x 140 mm (przód)<br/>2x 120 mm / 2x 140 mm (góra)</p></li><li><p>Mocowanie chłodnicy</p><p>1x maks. 280 mm (przód)<br/>1x maks. 280 mm (góra)<br/>1x maks. 120 mm (tył)</p></li><li><p>Wnęki na dyski</p><p>2x 3,5 cala<br/>2x 2,5 cala</p></li><li><p>Panel I/O</p><p>2x USB-A (3.0, Gen1, 10 Gbit/s<br/>1x Front-Audio</p></li><li><p>Gniazda rozszerzeń</p><p>4</p></li><li><p>Max wysokość chłodzenia</p><p>165 mm</p></li><li><p>Max długość karty graficznej</p><p>320 mm</p></li><li><p>Typ zasilacza</p><p>ATX PS2 (maksymalna długość 160 mm)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/o/obudowa-deepcool-macube-110-m_65026.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65027.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65023.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65024.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65025.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65028.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65030.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65031.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65032.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65029.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65026.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65027.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65023.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65024.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65025.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65028.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65030.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65031.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65032.webp",
+        "galerie/o/obudowa-deepcool-macube-110-m_65029.webp"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Karty dźwiękowe - Wzmacniacze DAC"
+    ],
+    "id": "9631",
+    "code": "DAC01",
+    "name": "Przetwornik cyfrowo analogowy MOZOS DAC01 + kabel optyczny",
+    "price": 51.9,
+    "description": "<p>DAC01 to praktyczny przetwornik cyfrowo analogowy, który nada się do każdego domowego sprzętu audio-wideo.  Dzięki swoim niewielkim rozmiarom może on zapewnić swoim użytkownikom niewyobrażalną liczbę możliwości i niezwykły komfort użytkowania. Mała obudowa nie zajmuje wiele miejsca, może zostać umieszczona gdziekolwiek, gdzie nie będzie w żaden sposób zawadzać.</p><p>Możesz podłączyć konwerter do telewizora za pomocą kabla Toslink (zwanego także cyfrowym S / PDIF lub kablem optycznym) kabla koncentrycznego, i podłączyć do wzmacniacza (głośniki) za pomocą kabla RCA lub do słuchawek z kablem Jack stereo 3,5 mm. Konwerter może być również używany z PS3, PS4, XBox, Xbox One, odtwarzacze Blu-ray, HD DVD itp., Które nie mają wyjść RCA (L / R) lub wyjścia Jack 3,5 mm.</p><p>W DAC01 można wybrać między dwoma portami – optycznym lub koncentrycznym. Niewielka aluminiowa obudowa stanowi bardzo solidne zabezpieczenie elementów wewnętrznych uszkodzeniami mechanicznymi.</p><p>W zestawie masz wszystko co niezbędne jest do podłączenia tj. kabel zasilający USB (możesz go wpiąć do portu USB w TV/PC lub zasilacza) oraz kabel optyczny. </p><p>Są to alternatywy dla układów Cirrus Logic. Podobnie jak CS8416 z Cirrus Logic, MS8416T wspiera częstotliwość próbkowania audio do 192 kHz, 88,2 kHz i 176,4 kHz. MS4344 oferuje czystą i przejrzystą sygnaturą dźwiękową. AMS1117 służy jako automatyczny regulator napięcia, umożliwiając płynną, stałą moc napędową przetwornika DAC.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Czarny minimalistyczny kolor</li><li>Waga: 81g.</li><li>Porty wejściowe: 1xToslink / SPDIF, 1xCoaxial</li><li>Porty wyjściowe: 2xRCA (L / R), 1×3.5mm gniazdo słuchawkowe</li><li>Chipset MS8416T jest to alternatywa dla układów Cirrus Logic. Podobnie jak CS8416 z Cirrus Logic, MS8416T wspiera częstotliwość próbkowania audio do 192 kHz, 88,2 kHz i 176,4 kHz.</li><li>W zestawie: DAC, Kabel USB, Kabel optyczny</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/mozos.jpg",
+    "images": [
+        "galerie/p/przetwornik-cyfrowo-analogowy_29331.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29332.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29333.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29334.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29336.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29337.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29338.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29331.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29332.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29333.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29334.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29336.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29337.webp",
+        "galerie/p/przetwornik-cyfrowo-analogowy_29338.webp"
+    ]
+}

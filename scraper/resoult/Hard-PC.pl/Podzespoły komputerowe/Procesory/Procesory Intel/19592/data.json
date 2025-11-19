@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Procesory",
+        "Procesory Intel"
+    ],
+    "id": "19592",
+    "code": "BX80768245K",
+    "name": "Procesor Intel Core Ultra 5 Desktop 245K 14 cores up to 5.2 GHz",
+    "price": 915.9,
+    "description": "<p>Procesor Intel Core Ultra 5 245K (oznaczenie produktu: BX80768245K) to nowoczesny układ zaprojektowany z myślą o wymagających użytkownikach, takich jak gracze oraz profesjonaliści zajmujący się tworzeniem treści. Dzięki zaawansowanej architekturze hybrydowej i wysokiej wydajności, procesor ten zapewnia płynną obsługę zarówno gier, jak i aplikacji do obróbki multimediów.​</p><p> </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Architektura hybrydowa: 14 rdzeni (6 Performance + 8 Efficient) umożliwia efektywne zarządzanie zadaniami — wymagające procesy trafiają do rdzeni Performance, a lżejsze operacje do Efficient.</li><li>Wysokie taktowanie: Bazowe taktowanie rdzeni Performance wynosi 4,2 GHz, a w trybie Turbo osiąga do 5,2 GHz, co zapewnia dużą responsywność i szybkość działania.</li><li>Wsparcie dla DDR5: Procesor obsługuje pamięci RAM DDR5 o prędkości do 6400 MT/s, co znacząco zwiększa przepustowość danych.</li><li>Zintegrowana grafika: Układ graficzny Intel® Graphics z 4 rdzeniami Xe wspiera m.in. DirectX 12 i OpenGL 4.5, obsługuje do 4 monitorów i umożliwia wyświetlanie obrazu w 8K przy 60 Hz przez DisplayPort 2.1.</li><li>Efektywność energetyczna: Dzięki litografii 3 nm (TSMC N3B) procesor jest energooszczędny, a jego termika sprzyja stabilnej pracy bez nadmiernego nagrzewania.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba rdzeni</p><p>14 (6 Performance + 8 Efficient)</p></li><li><p>Liczba wątków</p><p>14</p></li><li><p>Taktowanie bazowe (P-cores)</p><p>4,2 GHz</p></li><li><p>Taktowanie Turbo (maks.)</p><p>5,2 GHz</p></li><li><p>Pamięć cache</p><p>24 MB Intel® Smart Cache</p></li><li><p>Zintegrowana grafika</p><p>Intel® Graphics (4 rdzenie Xe)</p></li><li><p>Obsługa pamięci</p><p>DDR5 do 6400 MT/s</p></li><li><p>Podstawka</p><p>FCLGA1851</p></li><li><p>Litografia</p><p>3 nm (TSMC N3B)</p></li><li><p>Maksymalna liczba monitorów</p><p>4</p></li><li><p>Rozdzielczość maksymalna (DisplayPort)</p><p>8K @ 60 Hz</p></li><li><p>TDP (moc bazowa)</p><p>125 W</p></li><li><p>TDP (maksymalna moc Turbo)</p><p>159 W</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/intel.jpg",
+    "images": [
+        "galerie/p/procesor-intel-core-ultra-5-d_72121.webp",
+        "galerie/p/procesor-intel-core-ultra-5-d_72121.webp"
+    ]
+}

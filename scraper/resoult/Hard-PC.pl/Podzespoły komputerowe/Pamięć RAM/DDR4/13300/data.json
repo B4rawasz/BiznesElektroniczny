@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Pamięć RAM",
+        "DDR4"
+    ],
+    "id": "13300",
+    "code": "AX4U32008G16A-DB10",
+    "name": "Pamięć RAM DDR4 ADATA XPG GAMMIX D10, 16 GB, 3200MHz, CL16",
+    "price": 372.9,
+    "description": "<p>Moduły pamięci XPG GAMMIX D10 DDR4 są przeznaczone dla graczy i entuzjastów sprzętu komputerowego i obsługują nowe procesory Intel X299 z technologią SPD 2666 MHz oraz osiągają szybkości taktowania do 3600 MHz. Dzięki zastosowaniu wysokiej jakości płytek drukowanych PCB, moduł pamięci D10 zapewnia lepszą jakość przesyłanego sygnału i stabilną pracę. Pamięci GAMMIX D10 obsługują również technologię Intel XMP 2.0, która pozwala w łatwy i bezpieczny sposób zwiększyć prędkość taktowania. Radiator dostępny w kolorach czarnym i czerwonym ma ząbkowaną strukturę z otwartą górną częścią. Podwójna warstwa miedzi wspomaga szybkie usuwanie nadmiaru ciepła. Oprócz tego jego mała wysokość umożliwia łatwą instalację nawet w systemach o ograniczonej przestrzeni. Podobnie jak wszystkie moduły pamięci ADATA, moduł GAMMIX D10 jest objęty dożywotnią gwarancją.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ pamięci</p><p>DDR4</p></li><li><p>Chłodzenie</p><p>Radiator</p></li><li><p>Pojemność łączna</p><p>16 GB</p></li><li><p>Liczba modułów</p><p>2</p></li><li><p>Częstotliwość pracy</p><p>3200MHz</p></li><li><p>Opóźnienie</p><p>CL16</p></li><li><p>Napięcie</p><p>1.35V</p></li><li><p>Dożywotnia</p></li></ul></article>",
+    "security_data": "",
+    "manufacturer_img": "galerie/producenci/adata.jpg",
+    "images": [
+        "galerie/p/pamiec-ram-ddr4-adata-xpg-gam_48058.webp",
+        "galerie/p/pamiec-ram-ddr4-adata-xpg-gam_48058.webp"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Pasty termoprzewodzące"
+    ],
+    "id": "17733",
+    "code": "ZUWA-271",
+    "name": "Pasta termoprzewodząca DeepCool EX750 - 3 g",
+    "price": 22.9,
+    "description": "<p>Pasta termoprzewodząca DeepCool EX750 to nowo opracowana pasta, która zapewnia stałą i niezawodną wydajność cieplną oraz przewodność cieplną na poziomie 6,2 W/mK.</p><p>Optymalna konsystencja sprawia, że ​​łatwo się go aplikuje i nawet najmniejsza szczelina pomiędzy procesorem a radiatorem zostaje równomiernie zamknięta. Efekt: niskie temperatury.</p><p>Zakres stosowania wynosi od -50°C do 250°C. Pasta nie przewodzi prądu elektrycznego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>3 g</p></li><li><p>Kompatybilność</p><p>dowolny procesor</p></li><li><p>Gęstość</p><p>2,6 g/cm3</p></li><li><p>Przewodność cieplna</p><p>6,2 W/mk</p></li><li><p>Przepływ powietrza</p><p>156,6 m³/h</p></li><li><p>minimalna temperatura pracy</p><p>-50°C</p></li><li><p>maksymalna temperatura pracy</p><p>250°C</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/p/pasta-termoprzewodzaca-deepco_64948.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64949.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64950.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64951.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64952.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64953.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64954.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64948.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64949.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64950.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64951.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64952.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64953.webp",
+        "galerie/p/pasta-termoprzewodzaca-deepco_64954.webp"
+    ]
+}

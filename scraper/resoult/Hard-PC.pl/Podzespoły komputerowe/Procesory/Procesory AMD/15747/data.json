@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Procesory",
+        "Procesory AMD"
+    ],
+    "id": "15747",
+    "code": "100-100000065BOX",
+    "name": "Procesor AMD Ryzen 5 5600X BOX, AM4",
+    "price": 610.0,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Gniazdo procesora</p><p>Socket AM4</p></li><li><p>Taktowanie procesora</p><p>3.7 GHz</p></li><li><p>Taktowanie (Boost)</p><p>4.6 GHz</p></li><li><p>Liczba rdzeni</p><p>6</p></li><li><p>Liczba wątków</p><p>12</p></li><li><p>Cache L2</p><p>3 MB</p></li><li><p>Cache L3</p><p>32 MB</p></li><li><p>Obsługa ECC</p><p>Nie</p></li><li><p>Technologia wykonania</p><p>7 nm</p></li><li><p>Architektura</p><p>64-bit</p></li><li><p>Dodatkowe chłodzenie</p><p>Tak</p></li><li><p>Wersja</p><p>Box</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Advanced Micro Devices, Inc., 2485 Augustine Drive, 95054, Santa Clara, CA , USA, youtube@amd.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Advanced Micro Devices GmbH, Einsteinring 22-28, 85609 Aschheim, Munich, Niemcy, +49 89-450-53100</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/amd.jpg",
+    "images": [
+        "galerie/p/procesor-amdyzen-5-5600x-box_56133.webp",
+        "galerie/p/procesor-amdyzen-5-5600x-box_56133.webp"
+    ]
+}

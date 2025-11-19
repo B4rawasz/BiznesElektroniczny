@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Procesory",
+        "Procesory Intel"
+    ],
+    "id": "19597",
+    "code": "BX8071514500",
+    "name": "Procesor Intel Core i5-14500 5,0 GHz 11.5 MB LGA1700",
+    "price": 1144.9,
+    "description": "<p>Poznaj procesory Intel Core i5 14. generacji – idealny wybór dla graczy, twórców i użytkowników domowych, którzy oczekują wysokiej wydajności w rozsądnej cenie. Najnowsza generacja oparta na hybrydowej architekturze Intel łączy wydajne rdzenie Performance z energooszczędnymi rdzeniami Efficient, zapewniając płynną pracę zarówno w wymagających grach, jak i podczas wielozadaniowej pracy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Zwiększoną liczbę rdzeni i wątków, co przekłada się na lepsze osiągi w grach i aplikacjach profesjonalnych,</li><li>Wsparcie dla najnowszych standardów, takich jak DDR5, PCIe 5.0 i Thunderbolt 4, zapewniając pełną kompatybilność z nowoczesnymi komponentami,</li><li>Zoptymalizowaną wydajność energetyczną – więcej mocy, mniej zużycia,</li><li>Zintegrowany układ graficzny Intel UHD Graphics (w wybranych modelach), umożliwiający podstawową obsługę multimediów bez potrzeby dedykowanej karty graficznej.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba rdzeni</p><p>14 (6 rdzeni Performance, 8 rdzeni Efficient)</p></li><li><p>Liczba wątków</p><p>20</p></li><li><p>Bazowa częstotliwość taktowania</p><p>2,6 GHz</p></li><li><p>Maksymalna częstotliwość Turbo</p><p>5,0 GHz</p></li><li><p>Pamięć podręczna</p><p>24 MB Intel Smart Cache</p></li><li><p>Współczynnik TDP</p><p>65 W (moc bazowa), 154 W (maksymalna moc Turbo)</p></li><li><p>Zintegrowany układ graficzny</p><p>Intel UHD Graphics 770</p></li><li><p>Obsługiwane pamięci RAM</p><p>DDR5 do 4800 MT/s, DDR4 do 3200 MT/s</p></li><li><p>Maksymalna obsługiwana pojemność pamięci RAM</p><p>192 GB</p></li><li><p>Liczba kanałów pamięci RAM</p><p>2</p></li><li><p>Obsługa PCI Express</p><p>PCIe 5.0 oraz PCIe 4.0 (maksymalnie 20 linii)</p></li><li><p>Gniazdo procesora</p><p>FCLGA1700</p></li><li><p>Wspierane technologie</p><p>Intel Hyper-Threading, Intel Turbo Boost 2.0, Intel Speed Shift, Intel Deep Learning Boost</p></li><li><p>Wymiary procesora</p><p>45,0 mm × 37,5 mm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/intel.jpg",
+    "images": [
+        "galerie/p/procesor-intel-core-i5-14500_72133.webp",
+        "galerie/p/procesor-intel-core-i5-14500_72133.webp"
+    ]
+}

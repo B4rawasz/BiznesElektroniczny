@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Klawiatury Gamingowe",
+        "Akcesoria do klawiatur"
+    ],
+    "id": "13727",
+    "code": "GAKC-050",
+    "name": "Przełącznik Glorious Gateron Blue - 1szt",
+    "price": 191.9,
+    "description": "<p>Gateron Blue to przełączniki o wyraźnym punkcie aktywacji zarówno wyczuwalnym jak i słyszalnym za sprawą charakterystycznego kliknięcia. Szalenie popularne wśród „pisarzy” i programistów, ale również coraz częściej wybierane przez graczy. Z powodu głośnego kliknięcia nie są jednak zbyt dobrze odbierane przez domowników. Siła wymagana do aktywacji to 55g.</p><p>Gateron to czołowy producent przełączników mechanicznych wykorzystanych w klawiaturach komputerowych. Nic dziwnego zatem, że Glorious PC Gaming Race w oparciu o nie postanowił zbudować klawiaturę GMMK. Switche Gateron oferują przyjemny feeling a duży wybór rodzajów pozwala na dobranie charakterystyki pracy do własnych wymagań.</p><p>Przełączniki są kompatybilne z diodami SMD, dzięki czemu bez problemu można je stosować w klawiaturach z podświetlaniem. Wykorzystują również gniazdo MX(+) co czyni je idealnym zamiennikiem w klawiaturach wykorzystujących switche Cherry MX.  </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Ilość: 1szt</li><li>Siła nacisku potrzebna do aktywacji: 55g</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/glorious.jpg",
+    "images": [
+        "galerie/p/przelacznik-glorious-gateron_58515.webp",
+        "galerie/p/przelacznik-glorious-gateron_58516.webp",
+        "galerie/p/przelacznik-glorious-gateron_58515.webp",
+        "galerie/p/przelacznik-glorious-gateron_58516.webp"
+    ]
+}

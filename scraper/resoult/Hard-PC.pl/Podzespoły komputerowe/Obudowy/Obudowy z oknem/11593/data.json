@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Obudowy z oknem"
+    ],
+    "id": "11593",
+    "code": "GEJB-001",
+    "name": "Obudowa Jonsbo A4 Mini-ITX Tempered Glass Black",
+    "price": 333.9,
+    "description": "<p>Stylowa i niewielka obudowa, która jest w stanie pomieścić wydajny zestaw komputerowy? Jonsbo A4 MINI-ITX to skrzynka o dużej pojemności i stonowanym wyglądzie, który na pewno wpadnie w oko użytkownikom stawiającym na styl.</p><h2>Stylowy wygląd obudowy przyciąga wzrok</h2><p>Jonsbo A4 MINI-ITX to obudowa wykonana z wysokiej jakości materiałów, które charakteryzują się dużą wytrzymałością. Konstrukcja obudowy została wykonana z połączenia stali oraz aluminium, a boczny panel z hartowanego szkła nadaje obudowie A4 Mini-ITX stylowego wyglądu. Obudowa Jonsbo A4 Mini-ITX ma wymiary 169 x 273 x 340 mm (szer. x wys. x gł.) i waży około 5,6 kilograma.</p><p>Panel I/O został umieszczony na froncie obudowy Jonsbo A4 MINI-ITX. Użytkownik ma dostęp do jednego portu USB 3.0 oraz jednego USB 3.1 typu C, a także przycisku zasilającego.</p><h2>Zbuduj wydajny zestaw do pracy</h2><p>Jak sama nazwa obudowy mówi, Jonsbo A4 jest przystosowana do montażu płyt głównych w formacie Mini-ITX. W obudowie znajdziemy miejsce na kartę graficzną o maksymalnej długości 325 mm, zaś chłodzenie CPU może być wysokie na 71 mm. Producent przewidział miejsce dla trzech nośników danych - dwóch 2,5-calowych i jednego 3,5-calowego (który może zostać zamontowany zamiast jednego wentylatora). W obudowie Jonsbo A4 MINI-ITX zamontujemy zasilacz SFX/SFX-L.</p><h2>Sekcja chłodzenia przygotowana do montażu chłodzenia wodnego</h2><p>Obudowa daje możliwość rozbudowania sekcji chłodzenia za pomocą łącznie czterech wentylatorów o rozmiarze 120 mm - dwa z nich mogą zostać zainstalowane na górze, a kolejne dwa na dole. W zestawie nie znajdziemy jednak żadnego z wentylatorów. W obudowie zmieści się także zestaw chłodzenia wodnego, którego chłodnica może mieć 240 mm.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><li>Wymiary: 169 x 273 x 340 mm (W x H x D)</li><li>Materiał: aluminum, stal, szkło hartowane</li><li>Waga: 5,6 kg</li><li>Standard: Mini-ITX</li><li>System chłodzenia:</li><ul><li>2x 120 mm (góra - brak)</li><li>2x 120 mm (dół - brak)</li></ul><li>Możliwość montażu chłodnic:</li><ul><li>1x 240 mm</li></ul><li>Zatoki:</li><ul><li>2x 2.5 inch</li><li>1x 3.5 inch (replaces 1x 120 fan)</li></ul><li>Zasilacz: SFX, SFX-L (brak w zestawie)</li><li>Ilość miejsc na karty rozszerzeń: 2</li><li>I / O panel:</li><ul><li>1x USB 3.0 type A</li><li>1x USB 3.1 type C</li><li>1x power switch</li></ul><li>Cechy: Moduł montażu wertkalnego (Riser PCIe 3.0 x 16)</li><li>Maksymalna wysokość chłodzenia CPU: 71 mm</li><li>Maksymalna długość karty graficznej: 325 mm</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Jonsbo</p></li><li><p>Dane producenta</p><p>Dongguan Sibositong Industrial Co., Ltd., No. 5, Xinglong Lu, Sanzhong Village, Qingxi Town, Dongguan City, Guangdong Province, 523651, China, jane@jonsbo.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/jonsbo.jpg",
+    "images": [
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39367.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39368.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39369.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39370.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39371.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39372.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39373.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39367.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39368.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39369.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39370.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39371.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39372.webp",
+        "galerie/o/obudowa-jonsbo-a4-mini-itx-te_39373.webp"
+    ]
+}

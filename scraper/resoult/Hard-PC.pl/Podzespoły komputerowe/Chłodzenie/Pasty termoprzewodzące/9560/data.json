@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Pasty termoprzewodzące"
+    ],
+    "id": "9560",
+    "code": "ART.AGT-171/P",
+    "name": "Preparat do usuwania naklejek AG Chemia Label Killer 400ml",
+    "price": 19.9,
+    "description": "<p>Preparat znakomicie usuwa wszelkiego rodzaju etykiety samoprzylepne. Substancje zawarte w produkcie działają na klej eliminując jego przyczepność. Nie oddziaływuje z większością materiałów czyszczonych powierzchni. Dodatkowo preparat łatwo usuwa naturalne tłuszcze, żywicę czy odciski palców.</p><p>Usuwanie etykiet ze wszystkich rodzajów powierzchni: szkła, porcelany, metalu, drewna, folii itp. ( sprzęt biurowy, sprzęt informatyczny, kasy fiskalne, maszyny do etykietowania, opakowania, sprzęt AGD )</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Pojemność: 400ml</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>AG Termopasty</p></li><li><p>Dane producenta</p><p>AG TermoPasty Grzegorz Gąsowski, Kolejowa 33E, 18-218, Sokoły, info@termopasty.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/ag-chemia.jpg",
+    "images": [
+        "galerie/p/preparat-do-usuwania-naklejek_28960.webp",
+        "galerie/p/preparat-do-usuwania-naklejek_28961.webp",
+        "galerie/p/preparat-do-usuwania-naklejek_28960.webp",
+        "galerie/p/preparat-do-usuwania-naklejek_28961.webp"
+    ]
+}

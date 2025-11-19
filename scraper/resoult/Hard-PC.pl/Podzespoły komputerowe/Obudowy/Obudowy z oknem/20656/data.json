@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Obudowy z oknem"
+    ],
+    "id": "20656",
+    "code": "GELI-979",
+    "name": "Obudowa Lian Li O11D Dynamic Mini V2 Flow Tempered Glass Black",
+    "price": 466.9,
+    "description": "<h2>Kompaktowa obudowa z wielkim potencjałem</h2><p>Lian Li O11 Dynamic Mini V2 Flow to miniaturowa obudowa o imponujących możliwościach montażowych. Dzięki przestronnemu wnętrzu bez trudu pomieści nawet wydajne komponenty gamingowe, a przy tym zmieści się na każdym biurku. Wersja Flow została fabrycznie wyposażona w pięć wentylatorów, co zapewnia świetną cyrkulację powietrza bez konieczności dodatkowych zakupów.</p><h2>Wszechstronny system chłodzenia i gotowość pod AiO</h2><p>Obudowa obsługuje maksymalnie dziewięć wentylatorów oraz dwa radiatory wodne (240/280/360 mm), dzięki czemu możesz dobrać idealne chłodzenie do swoich podzespołów. Regulowane mocowanie płyty głównej pozwala dostosować układ wnętrza do wybranej konfiguracji chłodzenia AiO. Dodatkowy panel mesh i filtry przeciwkurzowe dbają o czystość wnętrza i dłuższą żywotność sprzętu.</p><h2>Wyeksponuj swoje komponenty</h2><p>Hartowane szkło na froncie i boku obudowy umożliwia elegancką prezentację Twojego zestawu. Przemyślany układ kabli i kompatybilność z płytami w standardzie BackConnect (ASUS BTF, Gigabyte Project Stealth, MSI Project Zero) sprawiają, że wnętrze pozostaje estetyczne i uporządkowane – bez wystających przewodów.</p><h2>Dużo miejsca, nawet na duże GPU</h2><p>O11 Dynamic Mini V2 Flow pomieści karty graficzne o długości do 400 mm – zarówno w poziomie, jak i w pionie. W zestawie znajdziesz dedykowane wsporniki GPU do obu sposobów montażu. To idealna opcja dla użytkowników chcących wyeksponować swoją kartę w trybie vertical.</p><h2>Modularny panel I/O – elastyczność w aranżacji</h2><p>Modułowy panel z portami USB i audio można zamontować na górze lub z przodu obudowy – zależnie od preferowanego układu biurka i wygody użytkowania. Dzięki temu zyskujesz pełną kontrolę nad ergonomią swojego stanowiska.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Czarny</p></li><li><p>Wymiary (Dł. x Szer. x Wys.)</p><p>432,6 x 273,3 x 391,5 mm</p></li><li><p>Typ obudowy</p><p>Mini Tower</p></li><li><p>Obsługiwane formaty płyt głównych</p><p>Mini-ITX, Micro-ATX, ATX (BackConnect)</p></li><li><p>Maks. wysokość chłodzenia CPU</p><p>160 mm</p></li><li><p>Maks. długość GPU</p><p>400 mm</p></li><li><p>Maks. długość zasilacza</p><p>200 mm</p></li><li><p>Zasilacz w zestawie</p><p>Nie</p></li><li><p>Pozycja zasilacza</p><p>Góra – tył</p></li><li><p>Liczba wentylatorów 120 mm</p><p>Do 9 (5 w zestawie)</p></li><li><p>Liczba wentylatorów 140 mm</p><p>Do 2</p></li><li><p>Obsługa radiatorów</p><p>1x 240 mm / 280 mm / 360 mm</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak – dolny panel</p></li><li><p>Okno boczne</p><p>Tak – szkło hartowane</p></li><li><p>Montaż pionowy GPU</p><p>Tak</p></li><li><p>Kabel riser w zestawie</p><p>Nie</p></li><li><p>Panel I/O</p><p>1x USB-C, 2x USB 3.0, 1x Audio combo (3.5 mm, 4-pin TRRS)</p></li><li><p>Obsługa BackConnect</p><p>Tak (ASUS BTF, Gigabyte Stealth, MSI Project Zero)</p></li><li><p>Rozszerzenia PCI</p><p>5 slotów</p></li><li><p>Liczba miejsc na dyski 2.5”</p><p>4</p></li><li><p>Liczba miejsc na dyski 3.5”</p><p>2</p></li><li><p>Materiały</p><p>Aluminium, mesh, szkło hartowane</p></li><li><p>Podświetlenie RGB</p><p>Nie</p></li><li><p>Wentylatory w zestawie</p><p>5x 120 mm (w tym 2 z odwrotnymi łopatkami)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/lian-li.jpg",
+    "images": [
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77844.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77838.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77840.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77837.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77839.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77841.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77842.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77843.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77845.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77846.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77844.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77838.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77840.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77837.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77839.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77841.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77842.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77843.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77845.webp",
+        "galerie/o/obudowa-lian-li-o11d-dynamic_77846.webp"
+    ]
+}

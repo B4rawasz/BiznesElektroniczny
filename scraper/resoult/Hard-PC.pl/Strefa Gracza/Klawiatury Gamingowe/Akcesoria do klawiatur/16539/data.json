@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Klawiatury Gamingowe",
+        "Akcesoria do klawiatur"
+    ],
+    "id": "16539",
+    "code": "GAKC-452",
+    "name": "Przełączniki mechaniczne Ducky Gateron G Pro White - 110szt",
+    "price": 204.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Smarowanie</p><p>nie</p></li><li><p>Siła katywacji</p><p>38 g</p></li><li><p>Siła penetracji</p><p>53 g</p></li><li><p>Wysokość aktywacji</p><p>2 mm</p></li><li><p>Całkowita wysokość</p><p>4 mm</p></li><li><p>Złącze</p><p>3-pin</p></li><li><p>Kompatybilność z PCB</p><p>3-pin and 5-pin</p></li><li><p>Kompatybilność z LED</p><p>Tak</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/ducky.jpg",
+    "images": [
+        "galerie/p/przelaczniki-mechaniczne-duck_59038.webp",
+        "galerie/p/przelaczniki-mechaniczne-duck_59039.webp",
+        "galerie/p/przelaczniki-mechaniczne-duck_59040.webp",
+        "galerie/p/przelaczniki-mechaniczne-duck_59038.webp",
+        "galerie/p/przelaczniki-mechaniczne-duck_59039.webp",
+        "galerie/p/przelaczniki-mechaniczne-duck_59040.webp"
+    ]
+}
