@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Monitory",
+        "Akcesoria do monitorów"
+    ],
+    "id": "12616",
+    "code": "LBB-002",
+    "name": "Konwerter HDMI Żeński na VGA D-Sub Męski + 3.5mm Audio",
+    "price": 15.9,
+    "description": "<h2>Mozos LBB-002.</h2><p>Adapter HDMI do VGA z dodatkowym wyjściem audio, umożliwia konwersję sygnału z HDMI na VGA. Konwerter zapewnia najwyższej jakości transmisję obrazu dzięki chipsetowi ZY6511-EX. Dodatkowo adapter wyposażono w wyjście mini Jack 3.5 mm do transmisji audio. Urządzenie obsługuje szeroki zakres rozdzielczości: 800×600, 120Ox800，1280×800，1280×1200，1600×1280，1920×1080. Adapter swoje zastosowanie znajdzie w podłączeniu monitora, wyświetlacza czy też projektora ze złączem VGA do wszelkiego rodzaju urządzeń wyposażonych w złącze HDMI np. tablet, laptop, komputer PC, konsola.</p><figure><img alt=\"\" height=\"639\" src=\"galerie/k/konwerter-hdmi-zenski-na-vga_45223.webp\" width=\"800\"/></figure><h2>Adapter typu plug and play. Łatwa konfiguracja.</h2><p>Nasz adapter to urządzenie typu Plug-and-play. Automatycznie wykrywa natywną rozdzielczość sygnału i skaluje do odpowiedniego rozmiaru. Konwerter transmituje również sygnał audio z komputera za pomocą przewodu Jack (w zestawie) i przeniesie do projektora/głośników. Nasz adapter posiada najlepsze parametry na rynku. Nie daj się skusić tanimi, niemarkowymi produktami. Konwerter od Mozos, kompatybilny jest ze wszystkimi systemami Windows. Należy pamiętać, że tego typu adaptery są jednokierunkowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"attribs\"><li>Bardzo mała kompaktowa konstrukcja, łatwa do przenoszenia.</li><li>Obsługuje Plug and Play.</li><li>Szybka instalacja, prosta obsługa, nie wymaga dodatkowych sterowników.</li><li>Kompatybilny ze urządzeniami D-sub.</li><li>Nie wymaga zewnętrznego zasilania.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Obsługa rozdzielczości</p><p>800×600, 120Ox800，1280×800，1280×1200，1600×1280，1920×1080.</p></li><li><p>Wejścia</p><p>HDMI.</p></li><li><p>Wyjścia video/audio</p><p>złącze VGA + złącze audio 3,5 mm.</p></li><li><p>Kierunkowośc</p><p>Adapter jednokierunkowy.</p></li><li><p>Chipset</p><p>ZY6511-EX.</p></li><li><p>Akcesoria w zestawie</p><p>Przewód AUX</p></li><li></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/mozos.jpg",
+    "images": [
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45221.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45222.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45223.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45224.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45225.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45226.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45227.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45228.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45229.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45230.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45231.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45221.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45222.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45223.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45224.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45225.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45226.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45227.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45228.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45229.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45230.webp",
+        "galerie/k/konwerter-hdmi-zenski-na-vga_45231.webp"
+    ]
+}

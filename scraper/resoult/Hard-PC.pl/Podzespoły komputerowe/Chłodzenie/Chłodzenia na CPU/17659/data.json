@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "17659",
+    "code": "CPDC-035",
+    "name": "Chłodzenie DeepCool AK400 Digital 120 mm – White",
+    "price": 199.0,
+    "description": "<h2>Chłodzenie DeepCool AK400</h2><p>Chłodnica DeepCool AK400 zapewnia wyjątkowo wysoką wydajność chłodzenia dzięki czterem rurkom cieplnym i wentylatorowi PWM. Dzięki TDP na poziomie 220 W, chłodziarka jest również bardzo cicha i ma ogromne rezerwy chłodzenia dla podkręconych procesorów i pomimo swoich rozmiarów może być instalowana nawet z zainstalowaną płytą główną.</p><h2>Prosta konstrukcja z dużą wydajnością chłodzenia</h2><p>AK400 to wydajna chłodnica jednowieżowa , która umożliwia bardzo wydajne i ciche chłodzenie dzięki wentylatorowi. Płynnie pracujący silnik wentylatora zapewnia redukcję wibracji i w połączeniu z łożyskiem zapewnia bardzo długą żywotność. Dzięki zintegrowanemu oświetleniu RGB możesz sprawić, że Twój komputer będzie jeszcze bardziej lśnił i możesz wybrać dokładnie takie kolory, które najbardziej Ci się podobają.</p><h2>Idealne chłodzenie dla Twojego procesora</h2><p>Dzięki czterem wysokowydajnym rurkom cieplnym radiator zapewnia doskonałe odprowadzanie ciepła odpadowego. Powierzchnia żeberek chłodnicy jest bardzo duża ze względu na konstrukcję jednowieżową, dzięki czemu duża ilość ciepła może zostać przekazana przepływającemu powietrzu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>127 × 97 × 155 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>miedź (podstawa radiatora, rurki cieplne), aluminium, tworzywo sztuczne</p></li><li><p>Waga</p><p>695g</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Rurki cieplne</p><p>4x Ø 6 mm</p></li><li><p>TDP</p><p>220 W</p></li><li><p>Wentylator</p><p>1x 120 mm PWM (maks. 1850 obr./min)</p></li><li><p>Głośność</p><p>29 dB(A)</p></li><li><p>Złącze wentylatora</p><p>4-pinowe PWM</p></li><li><p>Kompatybilność</p><p>Intel: LGA 1700, 1200, 1151, 1150, 1155<br/>AMD: AM5 / AM4</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65575.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65576.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65577.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65578.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65579.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65580.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65581.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65582.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65583.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65584.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65575.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65576.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65577.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65578.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65579.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65580.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65581.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65582.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65583.webp",
+        "galerie/c/chlodzenie-deepcool-ak400-dig_65584.webp"
+    ]
+}

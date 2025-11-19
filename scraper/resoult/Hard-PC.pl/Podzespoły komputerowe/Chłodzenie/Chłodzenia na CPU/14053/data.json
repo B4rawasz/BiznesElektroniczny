@@ -1,0 +1,43 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "14053",
+    "code": "KRX0135",
+    "name": "Chłodzenie Krux Integrator RGB LGA1700",
+    "price": 46.9,
+    "description": "<p>KRUX Integrator RGB LGA1700 – kompaktowe, aczkolwiek wydajne chłodzenie pasujące z nutką RGB idealnie do minimalistycznych zestawów komputerowych, wyposażonych w procesory Intel z socketem LGA1700.</p><h2>Kompaktowe chłodzenie przeznaczone dla podstawki LGA1700</h2><p>Chłodzenie powietrzne KRUX Integrator RGB LGA1700 zostało zaprojektowane specjalnie dla podstawki Intela LGA1700. Domeną tego chłodzenia są jednostki kompaktowe.</p><h2>Podświetlenie LED ARGB</h2><p>Mleczny wentylator chłodzenia Integrator RGB LGA1700 został wyposażony w diody ARGB, które zaraz po podłączeniu mienią się różnokolorowym blaskiem. Kontroler jest wbudowany w wentylator, do zasilania wystarczy standardowy przewód 4-pin.</p><h2>Prosty montaż i obsługa</h2><p>Integrator został od początku zaprojektowany tak aby był jak najprostszy w montażu na płytach głównych wyposażonych w socket LGA1700. Chłodzenie od razu po wyjęciu z opakowania jest gotowe do montażu na swoje nowe miejsce, dzięki wsparciu dla standardowego systemu montażu od Intela, nie trzeba używać żadnych dodatkowych elementów. Pasta termoprzewodząca jest preaplikowana i znajduje się już na podstawie. Po zamocowaniu chłodzenia, wystarczy podłączyć jeden przewód i cieszyć się nowym chłodzeniem z ARGB.</p><h2>Wentylator 92 mm z kontrolą obrotów PWM</h2><p>Za schładzanie całej konstrukcji odpowiedzialny jest mleczny wentylator w rozmiarze 92 mm. Po podłączeniu do płyty głównej poprzez złącze 4-pin PWM, użytkowni może sterować obrotami w zakresie od 1000 do 2800 ±10% obr./min</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary chłodzenia [mm]</p><p>50×95×95</p></li><li><p>Wymiary opakowania [mm]</p><p>80×110×110</p></li><li><p>Waga netto [g]</p><p>273</p></li><li><p>Waga brutto [g]</p><p>319</p></li><li><p>Współczynnik TDP</p><p>85 W</p></li><li><p>Typ</p><p>owalny</p></li><li><p>Wentylator</p><p>KRUX 92 mm</p></li><li><p>Radiator</p><p>Aluminiowy</p></li><li><p>Prędkość obrotowa wentylatora</p><p>1000 – 2800 ±10% obr./min.</p></li><li><p>Żywotność wentylatora [min]</p><p>40 000 h</p></li><li><p>Wtyczka zasilania</p><p>4-pin PWM</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Kompatybilność z podstawkami AMD</p><p>-</p></li><li><p>Kompatybilność z podstawkami INTEL</p><p>LGA1700</p></li><li><p>Gwarancja [miesiące]</p><p>24</p></li><li><p>Zawartość zestawu</p><p>Układ chłodzenia KRUX Integrator RGB<br/>Instrukcja obsługi</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Krux</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, kontakt@cooling.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/krux.jpg",
+    "images": [
+        "galerie/c/chlodzenie-krux-integrator-rg_50403.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50404.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50405.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50406.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50407.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50408.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50409.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50410.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50411.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50412.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50413.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50414.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50415.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50403.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50404.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50405.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50406.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50407.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50408.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50409.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50410.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50411.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50412.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50413.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50414.webp",
+        "galerie/c/chlodzenie-krux-integrator-rg_50415.webp"
+    ]
+}

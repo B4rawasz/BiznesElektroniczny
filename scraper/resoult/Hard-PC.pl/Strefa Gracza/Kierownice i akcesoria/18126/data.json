@@ -1,0 +1,22 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Kierownice i akcesoria"
+    ],
+    "id": "18126",
+    "code": "GAJO-669",
+    "name": "Mechanizm kierownicy MOZA R21 baza, serwo (21Nm) V1",
+    "price": 4192.9,
+    "description": "<p>Odkryj szczyt naszej kolekcji rozstawów osi do symulatorów wyścigowych, MOZA R21. Dzięki niezwykłemu szczytowemu momentowi obrotowemu wynoszącemu 21 Nm, ma o 30% większy moment obrotowy niż inne podobne modele, zapewnia niezrównane sprzężenie zwrotne siły, zapewniając prawdziwie wciągające wrażenia z wyścigów. Jego całkowicie aluminiowe nadwozie łączy wytrzymałość i elegancję z unikalnym wzornictwem inspirowanym supersamochodami. Silnik R21 wykorzystuje 6 unikalnych podejść projektowych, aby zapewnić płynne wrażenia z wyścigów. Wirnik R21 to potrójnie schodkowa konstrukcja z ukośnymi biegunami, powszechnie stosowana w pojazdach z silnikami elektrycznymi, zapewniająca zrównoważony silnik bez wibracji. Dzięki 262 144 punktom rozdzielczości każdy ruch jest rejestrowany z wyjątkową precyzją. Dzięki ochronie bez użycia rąk i bardzo niskiemu statycznemu momentowi obrotowemu możesz skupić się na wyścigu bez rozpraszania uwagi. Przejmij kontrolę dzięki aplikacji MOZA Pit House App Control, która umożliwia łatwe dostrajanie ustawień. System uruchamiania jednym kliknięciem przenosi Cię na szybki pas do zwycięstwa.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Układ napędowy FFB</p><p>Napęd bezpośredni</p></li><li><p>Maksymalny obrót koła</p><p>Bezgraniczny</p></li><li><p>Materiał obudowy</p><p>Stop aluminium klasy lotniczej</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Maksymalny moment obrotowy</p><p>21 Nm</p></li><li><p>Moc szczytowa</p><p>480 W</p></li><li><p>Napięcie wejściowe</p><p>110 V~220 V prądu przemiennego —&gt;36 V prądu stałego</p></li><li><p>Rozdzielczość enkodera</p><p>262144 ppr (18 bitów)</p></li><li><p>Częstotliwość odświeżania USB</p><p>1000 Hz</p></li><li><p>Wskaźnik</p><p>TAK</p></li><li><p>Porty połączeniowe</p><p>Zasilanie, wejście DC, wyłącznik awaryjny, USB (piny Pogo do deski rozdzielczej RM)</p></li><li><p>Metoda montażu</p><p>Mocowanie dolne</p></li><li><p>Montaż boczny</p><p>TAK</p></li><li><p>Opcja montażu bocznego</p><p>Z opcjonalnym uchwytem montażowym z boku/przodu</p></li><li><p>Zacisk stołowy</p><p>Fakultatywny</p></li><li><p>Wymiary (dł. x szer. x wys.) (mm)</p><p>327*170*130</p></li><li><p>Waga</p><p>8,9 kg</p></li><li><p>Akcesoria</p><p>Instrukcja obsługi, Karta gwarancyjna, Zasilacz, Kabel USB, Zestaw narzędzi</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+    "images": [
+        "galerie/m/mechanizm-kierownicy-moza-r21_66738.webp",
+        "galerie/m/mechanizm-kierownicy-moza-r21_66739.webp",
+        "galerie/m/mechanizm-kierownicy-moza-r21_66740.webp",
+        "galerie/m/mechanizm-kierownicy-moza-r21_66738.webp",
+        "galerie/m/mechanizm-kierownicy-moza-r21_66739.webp",
+        "galerie/m/mechanizm-kierownicy-moza-r21_66740.webp"
+    ]
+}

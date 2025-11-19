@@ -1,0 +1,28 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Switche"
+    ],
+    "id": "19010",
+    "code": "FS108D",
+    "name": "Switch Cudy FS108D Przełącznik sieciowy 8-portowy",
+    "price": 39.0,
+    "description": "<h2>Prosty w użyciu switch sieciowy</h2><p>Switch Cudy 8p FS108D stanowi idealne rozwiązanie dla użytkowników poszukujących prostoty i wydajności. Plug &amp; Play oraz Auto MDI/MDIX eliminują potrzebę skomplikowanej konfiguracji i specjalistycznych kabli, co sprawia, że FS108D jest doskonałym wyborem dla domu i małych przedsiębiorstw.</p><h2>Automatyczna negocjacja portów</h2><p>Osiem portów RJ-45 switcha FS108D obsługuje funkcję automatycznej negocjacji. Pozwala to na inteligentne dopasowanie prędkości łącza do podłączonych urządzeń, gwarantując optymalną wydajność dla aplikacji multimedialnych, grafiki, czy wideo HD.</p><h2>Wysoka przepustowość i niezawodność</h2><p>Cudy FS108D charakteryzuje się nieblokującą architekturą przełączania, co gwarantuje pełną prędkość filtracji pakietów. Sterowanie przepływem IEEE 802.3x i przeciwciśnienie zapewniają wysoką przepustowość, co minimalizuje ryzyko przeciążenia sieci.</p><h2>Energooszczędna konstrukcja</h2><p>Switch FS108D to urządzenie energooszczędne. Automatyczne dostosowanie zużycia energii w zależności od stanu łącza i długości kabla pozwala na znaczne obniżenie kosztów eksploatacyjnych. To idealny wybór dla świadomych ekologicznie użytkowników.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ budowy</p><p>biurkowy</p></li><li><p>Architektura sieci</p><p>Fast Ethernet</p></li><li><p>Całkowita liczba portów</p><p>8</p></li><li><p>Złącza</p><p>RJ-45 10/100 Mbps - 8 szt.</p></li><li><p>Power over Ethernet (PoE)</p><p>Brak PoE</p></li><li><p>Obsługiwane standardy</p><p>IEEE 802.3, IEEE 802.3 u, IEEE 802.3 x</p></li><li><p>Rozmiar tablicy MAC</p><p>2 k</p></li><li><p>Algorytm przełączania</p><p>Store-and-forward</p></li><li><p>Dodatkowe informacje</p><p>automatyczne krosowanie portów (Auto MDI-MDIX), automatyczna negocjacja szybkości połączeń, praca w trybie half i full-duplex</p></li><li><p>Wymiary</p><p>20 x 131 x 52 mm</p></li><li><p>Waga</p><p>0,19 kg</p></li><li><p>Dołączone akcesoria</p><p>zasilacz</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/cudy.jpg",
+    "images": [
+        "galerie/s/switch-cudy-fs108d-przelaczni_69914.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69915.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69916.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69917.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69918.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69919.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69914.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69915.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69916.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69917.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69918.webp",
+        "galerie/s/switch-cudy-fs108d-przelaczni_69919.webp"
+    ]
+}

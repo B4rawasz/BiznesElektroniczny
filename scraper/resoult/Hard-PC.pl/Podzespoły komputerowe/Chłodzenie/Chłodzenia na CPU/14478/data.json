@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "14478",
+    "code": "DP-MCH2-IEMV2",
+    "name": "Chłodzenie DeepCool Ice Edge Mini FS V2.0",
+    "price": 45.5,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy produktu:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Kompatybilny z AM5/AM4</li><li>Wyposażona w wiele zacisków od obsługi:Intel LGA1700/1200/1151/1150/1155 and AMD AM5/AM4.</li><li>2 zespojone ciepłowody stykają siębezpośrednio z procesorem dla najwydajniejszego odprowadzenia ciepła I wyeliminowania ryzyka przegrzania.</li><li>Specjalna aluminiowa konstrukcja ciepłowodu optymalizuje odprowadzanie ciepła</li><li>obudowa wiatraka z TPE absorbuje wibracje i wygłusza konstrukcję.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wymiary</p><p>119X75X112mm</p></li><li><p>Wymiary radiatora</p><p>85X57.2X112mm</p></li><li><p>Waga</p><p>258g</p></li><li><p>Ciepłowody</p><p>Ø6 mm×2</p></li><li><p>Wymiary wentylatora</p><p>80X80X25mm</p></li><li><p>Prędkość obrotowa</p><p>2200 RPM±10%</p></li><li><p>Przepływ powietrza</p><p>25.13 CFM</p></li><li><p>Ciśnienie statyczne</p><p>2.23 mmAq</p></li><li><p>Głośność</p><p>24.7 dB(A)</p></li><li><p>Wtyczka</p><p>3-pin</p></li><li><p>Łożysko</p><p>Hydro Bearing</p></li><li><p>Napięcie</p><p>12VDC</p></li><li><p>Natężenie</p><p>0.12 A</p></li><li><p>Kompatybilność</p><p>Intel LGA1700/1200/1151/1150/1155<br/>AMD AM5/AM4</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/c/chlodzenie-deepcool-ice-edge_52595.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52596.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52597.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52598.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52599.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52600.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52601.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52602.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52603.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52604.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52595.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52596.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52597.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52598.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52599.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52600.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52601.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52602.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52603.webp",
+        "galerie/c/chlodzenie-deepcool-ice-edge_52604.webp"
+    ]
+}

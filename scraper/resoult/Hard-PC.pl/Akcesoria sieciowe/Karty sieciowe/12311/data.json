@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Karty sieciowe"
+    ],
+    "id": "12311",
+    "code": "Archer T3U Plus",
+    "name": "Karta sieciowa WiFi TP-LINK Archer T3U Plus USB AC1300",
+    "price": 94.9,
+    "description": "<h2>Wyższe prędkości, lepsze połączenia</h2><p>Archer T3U Plus odbiera sygnał Wi-Fi w dwóch oddzielnych pasmach, stwarzając przestrzeń do obsługi wszystkich twoich działań. Połącz się z pasmem 2,4 GHz, by mieć do dyspozycji 400 Mb/s do przeglądania stron internetowych, wysyłania maili i spędzania czasu na portalach społecznościowych lub wybierz pasmo 5 GHz o prędkości 867 Mb/s, gdy chcesz pograć online, obejrzeć film w dobrej jakości lub pobrać duże pliki.</p><figure><img alt=\"\" src=\"galerie/k/karta-sieciowa-wifi-tp-link-a_43755.jpg\"/></figure><h2>Duża moc ukryta w kompaktowej konstrukcji</h2><p>Archer T3U Plus wykorzystuje dwie anteny o dużym zysku zespolone w ramach jednej anteny, dzięki czemu urządzenie jest w stanie znacznie bardziej zwiększyć prędkość i zasięg transmisji danych niż tradycyjna karta sieciowa Wi-Fi z jedną anteną. Stabilne połączenia bezprzewodowe dostępne są na każdym piętrze i w każdym pomieszczeniu Twojego domu. Nie musisz martwić się o opóźnienia, bo sieć działa szybko i stabilnie.</p><h2>Zwiększona wydajność sieci z MU-MIMO</h2><p>Technologia MU-MIMO tworzy dwa równoległe strumienie danych, zwiększając przepustowość i poprawiając wydajność działania sieci we współpracy z routerem MU-MIMO.</p><h2>Regulowana antena wielokierunkowa</h2><p>Konstrukcja anteny umożliwia pełne dostosowanie jej kierunku do warunków otoczenia, aby zmaksymalizować wydajność i komfort korzystania z sieci.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Porty</p><p>USB 3.0</p></li><li><p>Wymiary (S x G x W)</p><p>57,8 × 18 × 173,4 mm (2,28 × 0,71 × 6,83 cali)</p></li><li><p>Typ anteny</p><p>Dookólna</p></li><li><p>Standardy bezprzewodowe</p><p>IEEE 802.11ac, IEEE 802.11a,IEEE 802.11n, IEEE 802.11g, IEEE 802.11b</p></li><li><p>Częstotliwość pracy</p><p>5GHz <br/>2,4GHz</p></li><li><p>Prędkość transmisji 5GHz</p><p>11ac do 867Mb/s(dynamicznie) <br/>11n do 300Mb/s(dynamicznie) <br/>11a do 54Mb/s(dynamicznie)</p></li><li><p>Prędkość transmisji 2,4GHz</p><p>11n do 400Mb/s(dynamicznie) <br/>11g do 54Mb/s(dynamicznie) <br/>11b do 11Mb/s(dynamicznie)</p></li><li><p>Czułość odbiornika 5GHz</p><p>11ac VHT80: -62dBm<br/>11ac VHT40: -64dBm<br/>11ac VHT20: -68dBm<br/>11n HT40: -71dBm<br/>11n HT20: -73dBm<br/>11a 54 Mb/s: -77dBm</p></li><li><p>Czułość odbiornika 2,4GHz</p><p>11n HT40: -70dBm<br/>11n HT20: -71dBm<br/>11g 54 Mb/s: -73dBm<br/>11b 11 Mb/s: -87dBm</p></li><li><p>EIRP</p><p>5 GHz: 20 dBm (FCC) / 20 dBm (CE) (EIRP)<br/>2,4 GHz: 18 dBm (FCC) / 18 dBm (CE) (EIRP)</p></li><li><p>Tryby pracy bezprzewodowej</p><p>Tryb Infrastructure</p></li><li><p>Bezpieczeństwo transmisji bezprzewodowej</p><p>WEP, WPA/WPA2, WPA-PSK/WPA2-PSK</p></li><li></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tp-link.jpg",
+    "images": [
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43752.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43753.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43754.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43755.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43752.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43753.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43754.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_43755.webp"
+    ]
+}

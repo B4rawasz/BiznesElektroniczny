@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zarządzenie okablowaniem"
+    ],
+    "id": "19435",
+    "code": "W0100",
+    "name": "Listwa antyprzepięciowa przedłużacz Acar F5 5-gniazdek - 3m Czarna",
+    "price": 58.9,
+    "description": "<p>acar F5 to najpopularniejsze urządzenie zabezpieczające z rodziny acar. Przy długości niespełna 33cm daje do dyspozycji pięć gniazd sieciowych z uziemieniem. Ilość ta, w większości zastosowań jest wystarczająca, a stosunkowo niewielkie rozmiary pozwalają na swobodne umieszczenie go nawet na biurku. Zastosowany bezpiecznik automatyczny pozwala nazwać go praktycznie bezobsługowym. Duża skuteczność działania predysponuje go do miana zabezpieczenia podstawowego, niezbędnego w każdym miejscu. Uchwyty do mocowania są opcjonalnie dostępne u dystrybutora.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Dopuszczalne obciążenie</p><p>PMAX 2300W</p></li><li><p>Napięcie znamionowe UN</p><p>230V</p></li><li><p>Częstotliwość znamionowa</p><p>50Hz</p></li><li><p>Prąd znamionowy obciążenia</p><p>ΣIN =10A MAX</p></li><li><p>Czas odpowiedzi układu przeciwprzepięciowego</p><p>&lt;25ns</p></li><li><p>Napięcie maksymalne UC</p><p>250V 50Hz</p></li><li><p>Poziom protekcji UP</p><p>≤1,3kV</p></li><li><p>Znamionowy prąd wyładowczy iN</p><p>2kA (L/N) – 8/20µs</p></li><li><p>Maksymalny prąd wyładowczy iMAX</p><p>6,5kA (L/N) – 8/20µs</p></li><li><p>Warystor</p><p>komponent japońskiej firmy TDK, wiodącego w świecie producenta części elektronicznych</p></li><li><p>Bezpieczniki</p><p>jeden bezpiecznik automatyczny o charakterystyce zwłocznej 10A/250V</p></li><li><p>System ochrony przeciwporażeniowej</p><p>kołki ochronne gniazd połączone z przewodem ochronnym</p></li><li><p>Ilość gniazd sieciowych</p><p>5 gniazd dwubiegunowych ze stykiem ochronnym 10A/250V</p></li><li><p>Wyłącznik</p><p>dwutorowy wyłącznik podświetlany</p></li><li><p>Obudowa</p><p>z tworzywa sztucznego samogasnącego</p></li><li><p>Wymiary</p><p>330x54x55mm</p></li><li><p>Ciężar</p><p>~0,53kg (3m)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Acar</p></li><li><p>Dane producenta</p><p>HSK DATA Ltd Sp. z o.o., ul. E. Godlewskiego 22, 30-198 Kraków</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/acar.jpg",
+    "images": [
+        "galerie/l/lista-antyprzepieciowa-przedl_71680.webp",
+        "galerie/l/lista-antyprzepieciowa-przedl_71681.webp",
+        "galerie/l/lista-antyprzepieciowa-przedl_71680.webp",
+        "galerie/l/lista-antyprzepieciowa-przedl_71681.webp"
+    ]
+}

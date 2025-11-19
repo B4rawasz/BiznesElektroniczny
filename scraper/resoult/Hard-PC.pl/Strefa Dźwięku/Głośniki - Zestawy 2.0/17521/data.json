@@ -1,0 +1,26 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Głośniki - Zestawy 2.0"
+    ],
+    "id": "17521",
+    "code": "RMS-G7",
+    "name": "Głośniki Rampage RMS-G7 FALSETTO 2.0 RGB",
+    "price": 49.0,
+    "description": "<p>Rampage FALSETTO to małe, solidnie wykonane głośniki gamingowe. Sprawdzą się nie tylko na stanowisku gamingowym, ale również w biurze czy innych pomieszczeniach. Ze względu na niewielkie gabaryty możesz je zabrać wszędzie ze sobą. Ich podświetlane membrany emitują szczegółowy dźwięk – dzięki nim wyniesiesz doznania czerpane z cyfrowej rozrywki na jeszcze wyższy poziom!</p><h2>Podświetlane membrany</h2><p>Podświetlane membrany głośników rezonują z dźwiękiem, tworząc w ten sposób grę świateł w Twoim pomieszczeniu.</p><h2>Wygodna regulacja głośności</h2><p>Głośność kolumn możesz regulować przy użyciu pokrętła umieszczonego w dolnym froncie głównego głośnika.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc RMS:</p><p>3W</p></li><li><p>Połączenie</p><p>mini-jack + USB</p></li><li><p>Kolor:</p><p>zielono-czarny</p></li><li><p>Materiał:</p><p>tworzywo sztuczne</p></li><li><p>Wysokość:</p><p>13 cm</p></li><li><p>Szerokość:</p><p>18 cm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/rampage.jpg",
+    "images": [
+        "galerie/g/glosniki-rampage-rms-g7-false_64132.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64133.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64134.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64135.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64136.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64132.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64133.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64134.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64135.webp",
+        "galerie/g/glosniki-rampage-rms-g7-false_64136.webp"
+    ]
+}

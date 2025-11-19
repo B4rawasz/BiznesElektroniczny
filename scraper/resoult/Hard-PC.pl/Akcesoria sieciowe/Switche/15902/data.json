@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Switche"
+    ],
+    "id": "15902",
+    "code": "DSP1-1008",
+    "name": "Switch Lanberg DSP1-1008 8X Gigabit",
+    "price": 65.9,
+    "description": "<p>Lanberg DSP1-1008 to niewielkich rozmiarów niezarządzalny desktopowy przełącznik, wyposażony w 8 portów Gigabit Ethernet. Urządzenie jest niewielkie i poręczne oraz działa na zasadzie Plug&amp;Play. Przełącznik zapewnia wsparcie funkcji przełączania dla 8 portów RJ-45 10/100/1000 Mbps wraz z automatyczną negocjacją połączenia oraz obsługą MDI-MDIX.</p><p>Switch Lanberg idealnie sprawdza się w domowych warunkach, dzięki bardzo małym rozmiarom oraz zastosowaniu cichego chłodzenia. Czarna kolorystyka oraz elegancka smukła obudowa, sprawiają że urządzenie pasuje do niemal każdego wnętrza. Urządzenie jest przystosowane do zastosowań biurowych, w tym SOHO oraz SMB. Przełącznik zapewnia też odpowiednią wydajność, spełniającą wymagania stawiane przez użytkowników w segmencie przełączników.</p><p>Funkcja automatycznego rozpoznawania i adaptacji do typu podłączanego kabla sieciowego (prostego lub skrosowanego), eliminuje konieczność stosowania tylko jednego rodzaju okablowania, jak również portów typu uplink, pozwalając na jednoczesną redukcję niepotrzebnych kosztów. Przełącznik wspiera tryb half-duplex oraz full duplex dla połączeń między urządzeniami. Funkcja Flow control pozwala za to, na kontrolę przepływu danych unikając w ten sposób zatoru na porcie w przypadku, gdy jedno z urządzeń odbiorczych nie jest w stanie odebrać wystarczającej ilości otrzymywanych danych.</p><p>Przełącznik Lanberg to gwarancja połączenia wysokiej jakości, automatyzacji i szeregu funkcjonalności, zapewniających działanie urządzenia bez nadmiarowej ingerencji użytkownika.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba portów Ethernet</p><p>8</p></li><li><p>Specyfikacja portów</p><p>8x 1000BASE-T</p></li><li><p>Maksymalna prędkość łącza sieciowego</p><p>1 Gbps</p></li><li><p>Rodzaj łącza sieciowego</p><p>Ethernet</p></li><li><p>Zarządzanie</p><p>Niezarządzalny</p></li><li><p>Typ obudowy</p><p>Desktop</p></li><li><p>Chipset</p><p>Realtek – RTL8370N-VB</p></li><li><p>Obsługa PoE</p><p>Nie</p></li><li><p>Bufor</p><p>0.7 Mbit</p></li><li><p>Przepustowość</p><p>16 Gbps</p></li><li><p>Tablica adresów MAC</p><p>4K</p></li><li><p>Chłodzenie</p><p>Pasywne</p></li><li><p>Wymogi zasilania</p><p>5V DC 1A<br/>100~240V AC 0.3A</p></li><li><p>Zużycie energii</p><p>2.15 W</p></li><li><p>Obsługa funkcji Plug &amp; Play</p><p>Tak</p></li><li><p>Sygnalizacja pracy</p><p>Dioda LED</p></li><li><p>Standardy przewodowe</p><p>IEEE 802.3x (Flow-Control)<br/>IEEE 802.3u 100Base-TX<br/>IEEE 802.3i 10Base-T<br/>IEEE 802.3ab 1000Base-T</p></li><li><p>Funkcje</p><p>MAC auto-learning<br/>Flow control<br/>Automatyczne MDI/MDI-X</p></li><li><p>Materiał</p><p>Plastik</p></li><li><p>Oprogramowanie</p><p>Nie</p></li><li><p>Długość</p><p>124 mm</p></li><li><p>Szerokość</p><p>59 mm</p></li><li><p>Wysokość</p><p>23 mm</p></li><li><p>Waga</p><p>0.15 kg</p></li><li><p>Zalecana temperatura otoczenia</p><p>0 - 40 °C</p></li><li><p>Zalecana wilgotność otoczenia</p><p>10 - 90 %</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lanberg</p></li><li><p>Dane producenta</p><p>Impakt S.A., ul. Stanisława Lema 16, 62-050 Mosina, Polska, info@impakt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/lanberg.jpg",
+    "images": [
+        "galerie/s/switch-lanberg-dsp1-1008-8x-g_56611.webp",
+        "galerie/s/switch-lanberg-dsp1-1008-8x-g_56610.webp",
+        "galerie/s/switch-lanberg-dsp1-1008-8x-g_56613.webp",
+        "galerie/s/switch-lanberg-dsp1-1008-8x-g_56612.webp",
+        "galerie/s/switch-lanberg-dsp1-1008-8x-g_56611.webp",
+        "galerie/s/switch-lanberg-dsp1-1008-8x-g_56610.webp",
+        "galerie/s/switch-lanberg-dsp1-1008-8x-g_56613.webp",
+        "galerie/s/switch-lanberg-dsp1-1008-8x-g_56612.webp"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenie wodne - zestawy AiO"
+    ],
+    "id": "17689",
+    "code": "WASE-807",
+    "name": "Chłodzenie wodne AiO DeepCool LS720S Zero Dark 360mm Black",
+    "price": 355.9,
+    "description": "<h2>Doskonałe chłodzenie procesora</h2><p>Uniwersalny system chłodzenia wodą Zero Dark LS720s firmy DeepCool łączy w sobie dobry wygląd z wydajnym chłodzeniem. Blok procesora wyposażony jest w kilka kanałów, które lepiej izolują od siebie gorący i zimny płyn chłodzący, zapewniając w ten sposób bardziej efektywne odprowadzanie ciepła .</p><h2>Pompa o wysokiej wydajności i miedziana chłodnica</h2><p>Silnik pompy wykorzystuje konstrukcję trójfazową, co zapewnia płynną i cichą pracę. Dostarcza płyn chłodzący z prędkością do 3100 obr/min przez solidną miedzianą płytkę podstawy chłodnicy. Chłodnica 360 mm służy jako radiator dla podgrzewanego płynu chłodzącego. Jest wykonany z aluminium i doskonale nadaje się jako rozpraszacz ciepła.</p><h2>Wentylator 120 mm zapewniający duży przepływ powietrza</h2><p>Trzy wentylatory znajdujące się w zestawie zapewniają bardzo dobry przepływ powietrza. Wentylatory 120 mm charakteryzują się bardzo cichą pracą i bardzo dobrym ciśnieniem statycznym.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Czarny</p></li><li><p>Wymiary chłodnicy (bez wentylatorów)</p><p>402 × 120 × 27 mm (szer. x wys. x gł.)</p></li><li><p>prędkość pompy</p><p>3100 obr./min.</p></li><li><p>Prędkość wentylatorów</p><p>maks. 1850 obr./min</p></li><li><p>Liczba wentylatorów</p><p>3 x 120mm</p></li><li><p>Przepływ powietrza</p><p>117,22 m³/h</p></li><li><p>Głośność</p><p>28 dB(A)</p></li><li><p>Połączenie</p><p>4-pin PWM</p></li><li><p>Kompatybilność</p><p>Intel Gniazdo: LGA 1700, 1200, 115x<br/>AMD Gniazdo: AM5, AM4</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65321.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65322.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65323.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65324.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65325.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65326.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65321.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65322.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65323.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65324.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65325.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65326.webp"
+    ]
+}

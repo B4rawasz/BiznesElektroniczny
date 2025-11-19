@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Ładowarki"
+    ],
+    "id": "15612",
+    "code": "C14068BK",
+    "name": "Kabel USB-A 2.0 - USB-C Unitek C14068BK QC 2.0 - 2m",
+    "price": 15.99,
+    "description": "<h2>Proste rozwiązania</h2><p>Czasem potrzebujesz prostego, ale niezawodnego przewodu USB-A na USB-C. I taki właśnie jest ten kabel. Jest dostępny w wersjach 1, 1,5, 2 i 3 metry, łatwo więc dobrać odpowiednią długość do danego zastosowania. Zalewane wtyczki gwarantują długą żywotność, a ekranowanie i miedziane żyły niezakłócony transfer danych.</p><h2>Szybkie ładowanie</h2><p>Kabel przewodzi prąd o maksymalnej mocy 15W (5V/3A), więc doskonale nadaje się do ładowarek z technologią QuickCharge 2.0. Przesyłanie danych jest zgodne ze specyfikacją USB 2.0 – odbywa się z prędkością 480 Mbps.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować, zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>0.48 Gbps</p></li><li><p>Standard USB</p><p>USB 2.0</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-A</p></li><li><p>Złącze 2</p><p>Wtyk USB-C</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/unitek.jpg",
+    "images": [
+        "galerie/k/kabel-usb-a-2-0-usb-c-unitek_55583.webp",
+        "galerie/k/kabel-usb-a-2-0-usb-c-unitek_55584.webp",
+        "galerie/k/kabel-usb-a-2-0-usb-c-unitek_55583.webp",
+        "galerie/k/kabel-usb-a-2-0-usb-c-unitek_55584.webp"
+    ]
+}

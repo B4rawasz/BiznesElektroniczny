@@ -1,0 +1,18 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Karty sieciowe"
+    ],
+    "id": "11644",
+    "code": "GC-WB1733D-I",
+    "name": "Karta sieciowa WiFi i BT Gigabyte GC-WB1733D-I",
+    "price": 149.0,
+    "description": "<h2>Dane techniczne</h2><ul class=\"attribs\"><li>Rodzaj: Wewnętrzna</li><li>Interfejs: PCI Express</li><li>Rodzaj anteny: Zewnętrzna Antena 1x zewnętrzna</li><li>Gniazdo antenowe: 2x RP-SMA</li><li>Zastosowane technologie: Dual Band</li><li>Obsługiwane prędkości: 1733 Mb/s</li><li>Standardy sieciowe: IEEE 802.11ac IEEE 802.11d IEEE 802.11e IEEE 802.11g IEEE 802.11h IEEE 802.11i</li><li>Zabezpieczenia WPA2</li><li>GWarancja: 24 miesiaće</li></ul>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gigabyte</p></li><li><p>Dane producenta</p><p>Gigabyte Technology Poland Sp. z o.o., Fabryczna 20, 53-609 Wrocław, Polska</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/gigabyte.jpg",
+    "images": [
+        "galerie/k/karta-sieciowa-gigabyte-gc-wb_39559.webp",
+        "galerie/k/karta-sieciowa-gigabyte-gc-wb_39559.webp"
+    ]
+}

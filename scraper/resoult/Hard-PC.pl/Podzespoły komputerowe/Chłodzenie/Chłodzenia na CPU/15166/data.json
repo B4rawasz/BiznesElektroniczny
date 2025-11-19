@@ -1,0 +1,33 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "15166",
+    "code": "CPNA-067",
+    "name": "Chłodzenie pasywne Noctua NH-P1",
+    "price": 582.9,
+    "description": "<p>Noctua NH-P1 to innowacyjne chłodzenie pasywne dla procesorów, które zostało zaprojektowane z myślą o użytkownikach poszukujących wydajnych i cichych rozwiązań. Chłodzenie to nie posiada wentylatora, co oznacza, że jest w pełni bezgłośne i nie generuje niepotrzebnego hałasu w komputerze.</p><p>Chłodzenie Noctua NH-P1 składa się z radiatorka o wysokości 158 mm, wykonanego z miedzi, który skutecznie rozprasza ciepło z procesora. Radiator jest wyposażony w sześć cienkich, podwójnych rurek cieplnych oraz kanały wentylacyjne, które zwiększają przepływ powietrza wewnątrz radiatora. Dzięki temu, chłodzenie pasywne NH-P1 jest w stanie skutecznie chłodzić nawet najbardziej wymagające procesory.</p><p>Chłodzenie Noctua NH-P1 to idealne rozwiązanie dla osób, które cenią sobie nie tylko wydajność i stabilność pracy komputera, ale także ciszę i estetykę. Produkt ten pozwala na skuteczne chłodzenie procesora, bez generowania hałasu, co jest szczególnie istotne dla osób, które prowadzą pracę wymagającą skupienia lub chcą cieszyć się ciszą podczas korzystania z komputera.</p><p>Podsumowując, Noctua NH-P1 to doskonałe rozwiązanie dla wymagających użytkowników, którzy poszukują innowacyjnego i wydajnego chłodzenia pasywnego. Dzięki doskonałym właściwościom chłodzenia, cichej pracy oraz nowoczesnemu designowi, NH-P1 to doskonały wybór dla wszystkich, którzy cenią sobie jakość, wydajność oraz estetykę swojego komputera.</p><p><i>Uwaga: chociaż NH-P1 zapewnia wyjątkową wydajność jako chłodzenie pasywne, nie jest odpowiednie do podkręcania lub dla procesorów, które generują dużo ciepła.</i></p><p><i>Należy pamiętać, że moc TDP (Thermal Design Power) lub ilość rozpraszanego ciepła, które chłodzenie może obsłużyć, zależy nie tylko od obudowy i różnych innych czynników, takich jak temperatura otoczenia czy inne komponenty w systemie, ale także zwykle różni się w zależności od modelu procesora. Dlatego też określamy wydajność chłodzenia za pomocą Noctua Standardised Performance Rating (NSPR) zamiast podawać ogólną specyfikację TDP. Ponadto, odnosimy się do naszej listy zgodności z procesorami, gdzie wskazujemy, jak dobrze chłodzenie może działać na danym procesorze w pełni zoptymalizowanym zestawie (patrz nasze wytyczne dotyczące konfiguracji).</i></p><p><i>Należy również pamiętać, że NH-P1 wymaga bezwietrznej obudowy PC z dobrym naturalnym konwekcją, otwartego stołu testowego lub obudowy PC z wentylatorami, aby osiągnąć pełną wydajność. Oferujemy listę polecanych obudów do systemów całkowicie bezwentylatorowych, wykorzystujących NH-P1. W razie potrzeby Noctua zaleca dodanie nisko-słyszalnego wentylatora o średnicy 120 mm, takiego jak NF-A12x25 LS-PWM, do radiatora, aby uzyskać lepszą wydajność.</i></p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość (bez wentylatora)</p><p>158 mm</p></li><li><p>Szerokość(bez wentylatora)</p><p>154 mm</p></li><li><p>Głębokość (bez wentylatora)</p><p>152mm</p></li><li><p>Waga (z wentylatorem)</p><p>1180 g</p></li><li><p>Materiał</p><p>Miedź (podstawa i ciepłowody), aluminium (radiator)</p></li><li><p>W zestawie</p><p>NH-P1 heatsink<br/>SecuFirm2+™ multi-socket mounting system<br/>NT-H2 high-grade thermal compound<br/>NA-CW1 cleaning wipe<br/>NM-SD1 screwdriver<br/>Fan clips for optional 120mm fan<br/>Noctua Metal Case-Badge</p></li><li><p>Kompatybilność</p><p>Intel LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-0, LGA2011-3 (Square ILM)<br/>AMD AM4, AM5</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Noctua</p></li><li><p>Dane producenta</p><p>Rascom Computerdistribution Ges.m.b.H., Linzer Straße 237, A-1140 Wien, Austria, support@noctua.at</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/noctua.jpg",
+    "images": [
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54771.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54772.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54773.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54774.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54775.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54776.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54777.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54778.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54771.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54772.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54773.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54774.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54775.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54776.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54777.webp",
+        "galerie/c/chlodzenie-pasywne-noctua-nh_54778.webp"
+    ]
+}

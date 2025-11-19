@@ -1,0 +1,18 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Monitory",
+        "Akcesoria do monitorów"
+    ],
+    "id": "12101",
+    "code": "SAVKABELCL-23/B",
+    "name": "Adapter HDMI M - VGA 15 pin F + Audio Jack 3,5mm SAVIO CL-23/B",
+    "price": 25.99,
+    "description": "<p>SAVIO Adapter HDMI (M) VGA 15 pin (F) z dźwiękiem (jack 3,5mm) CL-23/B. Pozwala podłączyć monitor z wyjściem VGA do złącza katy graficznej HDMI</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"attribs\"><li>Rozdzielczość do 1080p</li><li>Nie wymaga dodatkowego zasilania</li><li>Posiada wyjście audio Plug&amp;Play</li><li>Dołączony kabel audio 3,5 mm</li><li>Zakres działania: transfer audio video</li><li>Kierunek działania HDMI -&gt; VGA</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/savio.jpg",
+    "images": [
+        "galerie/a/adapter-hdmi-m-vga-15-pin-f-a_42374.webp",
+        "galerie/a/adapter-hdmi-m-vga-15-pin-f-a_42374.webp"
+    ]
+}

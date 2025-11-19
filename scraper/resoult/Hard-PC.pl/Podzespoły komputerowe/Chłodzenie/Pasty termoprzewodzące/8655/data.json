@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Pasty termoprzewodzące"
+    ],
+    "id": "8655",
+    "code": "ZUWA-152",
+    "name": "Łopatka do aplikacji pasty Thermal Grizzly - 3szt",
+    "price": 9.9,
+    "description": "OPIS <p>Łopatka do aplikacji pasty Thermal Grizzly</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>W zestawie 3szt</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+    "images": [
+        "galerie/l/lopatka-do-aplikacji-pasty-th_24100.webp",
+        "galerie/l/lopatka-do-aplikacji-pasty-th_24101.webp",
+        "galerie/l/lopatka-do-aplikacji-pasty-th_24100.webp",
+        "galerie/l/lopatka-do-aplikacji-pasty-th_24101.webp"
+    ]
+}
