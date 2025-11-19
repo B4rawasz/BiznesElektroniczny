@@ -4,6 +4,7 @@ import elements.name as element_name
 import elements.category as element_category
 import elements.price as element_price
 import elements.description as element_description
+import elements.security as element_security
 import elements.manufacturer_img as element_manufacturer_img
 import elements.photos as element_photos
 import elements.ID as element_id
@@ -26,6 +27,7 @@ def extract(page: BeautifulSoup) -> dict:
     result["name"] = element_name.getName(page)
     result["price"] = element_price.getPrice(page)
     result["description"] = element_description.getDescription(page)
+    result["security_data"] = element_security.getSecurityData(page)
     result["manufacturer_img"] = element_manufacturer_img.getManufacturerImg(page)
     result["images"] = element_photos.getPhotos(page)
     result["id"] = element_id.getID(page)
