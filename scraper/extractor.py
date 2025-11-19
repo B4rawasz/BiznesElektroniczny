@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 
 import elements.name as element_name
 import elements.category as element_category
+import elements.photos as element_photos
 
 def extract(page: BeautifulSoup) -> dict:
     result = {
@@ -17,5 +18,6 @@ def extract(page: BeautifulSoup) -> dict:
 
     result["category"] = element_category.getCategory(page)
     result["name"] = element_name.getName(page)
+    result["images"] = element_photos.getPhotos(page)
 
     return result
