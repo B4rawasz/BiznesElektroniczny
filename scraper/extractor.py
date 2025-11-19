@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 
 import elements.name as element_name
+import elements.category as element_category
 
 def extract(page: BeautifulSoup) -> dict:
     result = {
@@ -14,6 +15,7 @@ def extract(page: BeautifulSoup) -> dict:
         "images": []
         }
 
+    result["category"] = element_category.getCategory(page)
     result["name"] = element_name.getName(page)
 
     return result
