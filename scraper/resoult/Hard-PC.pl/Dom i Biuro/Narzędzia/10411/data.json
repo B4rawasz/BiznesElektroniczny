@@ -1,0 +1,20 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Dom i Biuro",
+        "Narzędzia"
+    ],
+    "id": "10411",
+    "code": "ZUWS-106",
+    "name": "Mata Magnetyczna iFixit Magnetic Project Mat",
+    "price": 68.9,
+    "description": "OPIS <p><strong>iFixit Project Mat</strong> to <strong>magnetyczna mata</strong> zaprojektowana przez serwisantów i dla serwisantów. Duża powierzchnia robocza (~200x250mm) może zostać wykorzystana w wieloraki sposób, a jednym z nich jest łatwiejsza organizacja pracy pozwalająca zredukować czas potrzebny do wykonania danej czynności nawet o 40%. Nie musisz już się martwić o „uciekające” śrubki, dzięki magnetycznej powierzchni mata utrzyma je w miejscu, w którym je położyłeś. To rozwiązanie idealnie nadające się do napraw smatfonów czy innych urządzeń elektronicznych.</p><p>Dołączone piór marki niemieckiej marki Steadtler zajmującej się najwyższej jakości długopisami i ołówkami dla artystów i architektów pozwala na zapisywanie notatek, czy numerowanie kolejnych kroków na powierzchni maty, tak by maksymalnie ułatwić prace serwisowe. Sprawdź także oferowane przez nas <strong><a href=\"k554,narzedzia-ifixit.html\">narzędzia do naprawy elektroniki</a></strong>.</p><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Łatwiejsza organizacja pracy podczas serwisowania urządzeń</li><li>Dołączony długopis do zapisywania notatek </li><li>Łatwe czyszczenie</li><li>Skrócenie czasu montażu nawet o 40% przy jednoczesnej redukcji błędów</li><li>Powierzchnia: około 200x250mm</li><li>Gwarancja: 24 miesiace</li></ul>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/ifixit.jpg",
+    "images": [
+        "galerie/m/mata-magnetyczna-ifixit-magne_33206.webp",
+        "galerie/m/mata-magnetyczna-ifixit-magne_33207.webp",
+        "galerie/m/mata-magnetyczna-ifixit-magne_33206.webp",
+        "galerie/m/mata-magnetyczna-ifixit-magne_33207.webp"
+    ]
+}

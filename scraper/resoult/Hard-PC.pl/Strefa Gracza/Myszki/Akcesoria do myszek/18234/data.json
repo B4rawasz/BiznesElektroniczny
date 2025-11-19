@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Myszki",
+        "Akcesoria do myszek"
+    ],
+    "id": "18234",
+    "code": "LAMZU-8K-Reciever-BK",
+    "name": "Adapter Odbiornik Lamzu 8K 8000Hz USB Receiver Black",
+    "price": 99.0,
+    "description": "<p>Odbiornik Lamzu 8K to akcesoryjny adapter umożliwiający wyciśnięcie maksymalnej wydajności z każdej myszki Lamzu z kontrolerem Nordic MCU. Pozwala on na korzystanie z częstotliwości próbkowania wynoszącej 8000Hz co przekłada się na na przesłanie do komputera aż ośmiokrotnie większej ilości danych w ciągu jednej milisekundy w porównaniu ze standardową myszką z polling rate 1000Hz. Wyższa częstotliwość próbkowania przekłada się na zmniejszenie opóźnień co ma niebagatelny wpływ na szybkość i precyzję w odwzorowaniu ruchów myszką.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Częstotliwość próbkowania</p><p>8000Hz</p></li><li><p>Kompatybilność</p><p>Myszki Lamzu z kontrolerem Nordic MCU</p></li><li><p>Wymagania sprzętowe</p><p><strong>Platforma Intel</strong><br/>CPU I7-9700K lub nowszy<br/>GPU NVIDIA RTX2060 lub nowsza<br/>RAM 16GB lub więcej<br/><br/><strong>Platforma AMD</strong><br/>CPU Ryzen 3600X lub nowszy<br/>GPU AMD RX5700XT lub nowszy<br/>RAM 16GB lub więcej</p></li><li><p>Uwaga</p><p>Wraz z odbiornikiem otrzymujesz kabel USB-C - USB-A. W celu osiągnięcia częstotliwości próbkowania 8K i zapewnienia poprawnego działania należy korzystać z dołączonego kabla.</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Shenzhen Lamzu Electronic Technology Co., Ltd., RM 209, Building B, ChuangJing Yi Hao, No. 125, ChuangYe ER Road, Block 28, Baoan District, Shenzhen, China, service@lamzu.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Hard-Pc.pl Sp. z o.o., ul. Długa 6, 24-300 Opole lubelskie, info@hard-pc.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/lamzu.jpg",
+    "images": [
+        "galerie/a/adapter-odbiornik-lamzu-8k-80_67666.webp",
+        "galerie/a/adapter-odbiornik-lamzu-8k-80_67665.webp",
+        "galerie/a/adapter-odbiornik-lamzu-8k-80_67667.webp",
+        "galerie/a/adapter-odbiornik-lamzu-8k-80_67668.webp",
+        "galerie/a/adapter-odbiornik-lamzu-8k-80_67666.webp",
+        "galerie/a/adapter-odbiornik-lamzu-8k-80_67665.webp",
+        "galerie/a/adapter-odbiornik-lamzu-8k-80_67667.webp",
+        "galerie/a/adapter-odbiornik-lamzu-8k-80_67668.webp"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Switche"
+    ],
+    "id": "19009",
+    "code": "FS105D",
+    "name": "Switch Cudy FS150D Przełącznik sieciowy 5-portowy",
+    "price": 34.0,
+    "description": "<h2>Łatwy w obsłudze switch sieciowy</h2><p>Switch Cudy 5p FS105D to urządzenie idealne dla użytkowników ceniących prostotę. Auto MDI/MDIX eliminuje potrzebę specjalistycznych kabli, a Plug &amp; Play ułatwia podłączanie urządzeń. Dzięki temu, FS105D jest doskonałym rozwiązaniem dla domu i małych biur.</p><h2>Automatyczna negocjacja portów</h2><p>Każdy z 5 portów RJ-45 switcha FS105D obsługuje funkcję automatycznej negocjacji. Pozwala to na inteligentne dopasowanie prędkości łącza do podłączonych urządzeń, zapewniając optymalną wydajność dla aplikacji multimedialnych, grafiki, czy wideo HD.</p><h2>Wysoka przepustowość i niezawodność</h2><p>Switch sieciowy Cudy FS105D charakteryzuje się nieblokującą architekturą przełączania, co gwarantuje pełną prędkość filtracji pakietów. Sterowanie przepływem IEEE 802.3x i przeciwciśnienie zapewniają wysoką przepustowość, co minimalizuje ryzyko przeciążenia sieci.</p><h2>Energooszczędna konstrukcja</h2><p>Switch FS105D to urządzenie energooszczędne. Automatyczne dostosowanie zużycia energii w zależności od stanu łącza i długości kabla pozwala na znaczne obniżenie kosztów eksploatacyjnych. To idealny wybór dla świadomych ekologicznie użytkowników.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ obudowy</p><p>biurkowy</p></li><li><p>Architektura sieci</p><p>Fast Ethernet</p></li><li><p>Całkowita liczba portów</p><p>5</p></li><li><p>Złącza</p><p>RJ-45 10/100 Mbps - 5 szt.</p></li><li><p>Power over Ethernet (PoE)</p><p>brak PoE</p></li><li><p>Obsługiwane standardy</p><p>IEEE 802.3; IEEE 802.3 u; IEEE 802.3 x</p></li><li><p>Rozmiar tablicy MAC</p><p>2 k</p></li><li><p>Algorytm przełączania</p><p>Store-and-forward</p></li><li><p>Dodatkowe informacje</p><p>automatyczne krosowanie portów (Auto MDI-MDIX), automatyczna negocjacja szybkości połączeń, praca w trybie half i full-duplex</p></li><li><p>Wymiary</p><p>22 x 88 x 53 mm</p></li><li><p>Waga</p><p>0,16 kg</p></li><li><p>Dołączone akcesoria</p><p>zasilacz</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/cudy.jpg",
+    "images": [
+        "galerie/s/switch-cudy-fs150d-przelaczni_69908.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69909.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69910.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69911.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69912.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69913.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69908.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69909.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69910.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69911.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69912.webp",
+        "galerie/s/switch-cudy-fs150d-przelaczni_69913.webp"
+    ]
+}

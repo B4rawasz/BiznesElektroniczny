@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Klawiatury Gamingowe",
+        "Akcesoria do klawiatur"
+    ],
+    "id": "12803",
+    "code": "GAZU-763",
+    "name": "Stacja do smarowania przełączników Glorious Lube Station",
+    "price": 169.9,
+    "description": "<p>Smarowanie mechanicznych przełączników może być kłopotliwe. Bez odpowiednich narzędzi łatwo o zgubienie istotnych elementów. Glorious w tym celu opracował specjalną stację, która ułatwia tę precyzyjną pracę. Lube Station posiada miejsce na każdy element składowy przełącznika i jednocześnie może obsłużyć do 36 switchy. Stacja służy również do przechowywania wszystkich niezbędnych narzędzi i przyborów.</p><figure><img alt=\"\" height=\"972\" src=\"galerie/s/stacja-do-smarowania-przelacz_46314.webp\" width=\"1727\"/></figure><p>Glorious Lube Station w znaczący sposób ułatwia pracę z przełącznikami czyniąc ją znacznie bardziej uporządkowaną i wydajną. Optymalnie zaprojektowana obudowa pozwala na przechowywanie 36 obudów, sprężyn i trzpieni. Nie zabrakło miejsca na narzędzia takie jak Switch Puller, Switch Opener, pęseta czy szczotki do nakładania smaru oraz sam smar.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>270 x 220 mm (W x D)</p></li><li><p>Materiał</p><p>Akryl(obudowa), guma(podkładki)</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Gniazda</p><p>36x Obudowa<br/>36x Trzpień<br/>36x Sprezyny<br/>1x Switch puller<br/>1x Switch opener<br/>1x Pęseta<br/>2x Pędzle do nakładania smaru (Glorious)<br/>2x Pędzle do nakładania smaru (inny producent)<br/>1x Fiolka ze smarem<br/>1x G-Lube</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/glorious.jpg",
+    "images": [
+        "galerie/s/stacja-do-smarowania-przelacz_46311.webp",
+        "galerie/s/stacja-do-smarowania-przelacz_46312.webp",
+        "galerie/s/stacja-do-smarowania-przelacz_46313.webp",
+        "galerie/s/stacja-do-smarowania-przelacz_46314.webp",
+        "galerie/s/stacja-do-smarowania-przelacz_46311.webp",
+        "galerie/s/stacja-do-smarowania-przelacz_46312.webp",
+        "galerie/s/stacja-do-smarowania-przelacz_46313.webp",
+        "galerie/s/stacja-do-smarowania-przelacz_46314.webp"
+    ]
+}

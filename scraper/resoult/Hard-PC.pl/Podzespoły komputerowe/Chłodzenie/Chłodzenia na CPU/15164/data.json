@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "15164",
+    "code": "CPNA-035",
+    "name": "Chłodzenie Noctua NH-D9L 92mm",
+    "price": 290.9,
+    "description": "<p>Noctua NH-D9L to wysokiej jakości chłodzenie dla procesorów, które charakteryzuje się niskim profilem i doskonałą wydajnością. Produkt ten jest idealnym rozwiązaniem dla osób poszukujących wydajnego chłodzenia, które zmieści się w ciasnych obudowach.</p><p>Chłodzenie Noctua NH-D9L składa się z radiatora wykonanego z aluminium, wyposażonego w cztery rurki cieplne oraz dwóch wentylatorów NF-A9 PWM o średnicy 92 mm. Dzięki temu chłodzenie skutecznie odprowadza ciepło z procesora, zapewniając stabilną pracę nawet w przypadku intensywnych obciążeń.</p><p>Noctua NH-D9L cechuje się również innowacyjnymi rozwiązaniami technologicznymi, takimi jak AAO Frame czy SSO2 Bearing, które wpływają na wysoką wydajność oraz długą żywotność produktu. Ponadto, NH-D9L cechuje się niskim poziomem hałasu, co sprawia, że jest to idealne rozwiązanie dla osób, które cenią sobie ciszę podczas pracy komputera.</p><p>Chłodzenie Noctua NH-D9L to również bardzo estetyczne rozwiązanie dla Twojego komputera. Produkt ten posiada elegancki wygląd, który idealnie komponuje się z każdą stylistyką. Ponadto, NH-D9L posiada niski profil o wymiarach 110 x 95 x 95 mm, co pozwala na łatwy montaż nawet w najmniejszych obudowach.</p><p>Podsumowując, Noctua NH-D9L to idealne rozwiązanie dla osób, które poszukują wysokiej jakości, niskoprofilowego chłodzenia dla swojego komputera. Dzięki doskonałym właściwościom chłodzenia, niskiemu poziomowi hałasu oraz eleganckiemu wyglądowi, NH-D9L to doskonały wybór dla wszystkich, którzy cenią sobie stabilność, wydajność oraz estetykę swojego komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość (bez wentylatora)</p><p>110 mm</p></li><li><p>Szerokość(bez wentylatora)</p><p>95 mm</p></li><li><p>Głębokość (bez wentylatora)</p><p>95 mm</p></li><li><p>Wysokość (z wentylatorem)</p><p>110 mm</p></li><li><p>Szerokość (z wentylatorem)</p><p>95 mm</p></li><li><p>Głębokośc (z wentylatorem)</p><p>95 mm</p></li><li><p>Waga (z wentylatorem)</p><p>531 g</p></li><li><p>Materiał</p><p>Miedź (podstawa i ciepłowody), aluminium (radiator)</p></li><li><p>Kompatybilność z wentylatorami</p><p>NF-A12x25r (square-frame 120mm fans not supported)</p></li><li><p>Model</p><p>1x Noctua NF-A9 PWM</p></li><li><p>Łożyko</p><p>SSO2</p></li><li><p>Maksymalna prędkość</p><p>(+/- 10%) 2000 RPM</p></li><li><p>Maksymalna prędkość z adapterem</p><p>(+/- 10%) 1550 RPM</p></li><li><p>Minimalna prędkość obrotowa @ 20% PWM (+/-20%)</p><p>400 RPM</p></li><li><p>Maksymalny przepływ powietrza</p><p>78.9 m³/h</p></li><li><p>Maksymalny przepływ powietrza z adapterem</p><p>62.6 m³/h</p></li><li><p>Maksymalna głośność</p><p>22,8 dB(A)</p></li><li><p>Maksymalna głośćność z adapterem</p><p>13,3 dB(A)</p></li><li><p>W zestawie</p><p>NF-A9 PWM premium fan<br/>Low-Noise Adaptor (L.N.A.)<br/>NT-H1 high-grade thermal compound<br/>SecuFirm2™ Mounting Kit<br/>Fan-clips for second NF-A9<br/>Noctua Metal Case-Badge</p></li><li><p>Kompatybilność</p><p>Intel LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-0, LGA2011-3 (Square ILM)<br/>AMD AM4, AM5</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Noctua</p></li><li><p>Dane producenta</p><p>Rascom Computerdistribution Ges.m.b.H., Linzer Straße 237, A-1140 Wien, Austria, support@noctua.at</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/noctua.jpg",
+    "images": [
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54760.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54761.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54762.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54763.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54764.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54765.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54760.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54761.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54762.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54763.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54764.webp",
+        "galerie/c/chlodzenie-noctua-nh-d9l-92mm_54765.webp"
+    ]
+}

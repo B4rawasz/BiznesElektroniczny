@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Karty sieciowe"
+    ],
+    "id": "15157",
+    "code": "Archer T3U Nano",
+    "name": "Karta sieciowa WiFi TP-LINK Archer T3U Nano USB AC1300",
+    "price": 64.9,
+    "description": "<h2>Wciągające doświadczenia dzięki dwupasmowym połączeniom</h2><p>Wysoka prędkość w dwóch pasmach wynosząca do 1300 Mb/s oznacza, że Archer T3U Nano jest w stanie sprostać wszystkim Twoim działaniom online, od przeglądania internetu, poprzez strumieniowanie filmów HD, na płynnych rozgrywkach online kończąc.</p><figure><img alt=\"\" height=\"1000\" src=\"galerie/k/karta-sieciowa-wifi-tp-link-a_54739.webp\" width=\"1000\"/></figure><h2>Zwiększona wydajność sieci przez MU-MIMO</h2><p>Archer T3U Nano wspiera technologię MU-MIMO, która zwiększa przepustowość i wydajność całej sieci działającej w tym standardzie. MU-MIMO umożliwia wysyłanie wielu strumieni danych jednocześnie.</p><h2>Zaawansowane zabezpieczenia WPA3</h2><p>Najnowszy standard zabezpieczeń, WPA3, wprowadza nowe możliwości zwiększania cyberbezpieczeństwa w sieciach. Mocniejsze szyfrowanie hasła Wi-Fi i ulepszona ochrona przed atakami Bruteforce zapewniają bezpieczeństwo domowych sieci Wi-Fi.</p><h2>Miniaturowa konstrukcja zapewnia nieskończone możliwości</h2><p>Archer T3U Nano jest zaprojektowany tak, aby być poręcznym, jak tylko jest to możliwe. Dzięki małym rozmiarom i eleganckiemu wyglądowi, możesz wpiąć nano adapter do dowolnego portu USB i pozostawić go tam, niezależnie czy podróżujesz, czy przebywasz w domu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Porty</p><p>USB 2.0</p></li><li><p>Diody LED</p><p>Stan</p></li><li><p>Wymiary</p><p>19,85 × 15,7 × 7,39 mm</p></li><li><p>Standardy bezprzewodowe</p><p>IEEE 802.11b/g/n 2,4 GHz, IEEE 802.11a/n/ac 5 GHz</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz, 5 GHz</p></li><li><p>Tryby pracy bezprzewodowej</p><p>Ad-Hoc / Tryb infrastruktury</p></li><li><p>Bezpieczeństwo transmisji bezprzewodowej</p><p>WEP, WPA/WPA2/WPA3, WPA-PSK/ WPA2-PSK, WPA3-SAE</p></li><li><p>Modulacja</p><p>DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/tp-link.jpg",
+    "images": [
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_54738.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_54741.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_54739.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_54740.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_54738.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_54741.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_54739.webp",
+        "galerie/k/karta-sieciowa-wifi-tp-link-a_54740.webp"
+    ]
+}

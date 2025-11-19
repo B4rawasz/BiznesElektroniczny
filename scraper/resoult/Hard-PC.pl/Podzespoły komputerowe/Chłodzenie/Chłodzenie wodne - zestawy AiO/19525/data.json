@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenie wodne - zestawy AiO"
+    ],
+    "id": "19525",
+    "code": "0000008318",
+    "name": "Chłodzenie wodne AiO Antec Vortex 360 White ARGB",
+    "price": 517.9,
+    "description": "<h2>Chłodzenie wodne Antec Vortex 360 White ARGB</h2><p>Poznaj Antec Vortex 360 ARGB chłodzenie wodne, które nie tylko dba o optymalną temperaturę Twojego procesora, ale również podkreśla styl Twojego zestawu komputerowego. Wykorzystując zaawansowaną technologię chłodzenia cieczą oraz dynamiczne oświetlenie ARGB, ten system łączy wydajność z estetyką, by dostarczyć Ci maksymalny komfort użytkowania. Idealny dla entuzjastów i graczy, którzy nie uznają kompromisów!</p><h2>Niezrównana wydajność chłodzenia</h2><p>Antec Vortex 360 ARGB został zaprojektowany, aby sprostać wymaganiom najbardziej wymagających użytkowników. Jego 360-milimetrowy radiator i trzy wydajne wentylatory pracują w idealnej harmonii, zapewniając optymalne odprowadzanie ciepła nawet przy ekstremalnym obciążeniu systemu.</p><h2>Efektowna personalizacja</h2><p>Podświetlenie ARGB to nie tylko estetyka - to sposób, by wyrazić siebie. Dzięki kompatybilności z większością systemów synchronizacji oświetlenia, możesz dostosować kolory i efekty świetlne do swoich preferencji, nadając komputerowi niepowtarzalny charakter.</p><h2>Kompatybilność na najwyższym poziomie</h2><p>Vortex 360 ARGB obsługuje wiele popularnych gniazd procesorów, co czyni go uniwersalnym rozwiązaniem dla użytkowników różnych platform. W zestawie znajdują się wszystkie potrzebne akcesoria montażowe, co znacznie ułatwia instalację.</p><h2>Cicha i niezawodna praca</h2><p>Dzięki hydraulicznym łożyskom wentylatory pracują nie tylko wydajnie, ale także wyjątkowo cicho, co sprawia, że chłodzenie jest niemal niezauważalne nawet podczas intensywnego grania lub pracy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>360-milimetrowy radiator – zaawansowane chłodzenie</li><li>Podświetlenie ARGB – efektowna personalizacja</li><li>Wydajne wentylatory o średnicy 120 mm – maksymalna cyrkulacja powietrza</li><li>Kompatybilność z wieloma gniazdami – uniwersalność zastosowania</li><li>Trwała konstrukcja – wysoka jakość materiałów</li><li>Intel : LGA 115X / 1200 / 1700 / 20XX</li><li>AMD : AM3 / AM4 / AM5 / TR4</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przeznaczenie</p><p>Chłodzenie wodne procesora</p></li><li><p>Liczba wentylatorów</p><p>3 szt</p></li><li><p>Rekomendowane TDP</p><p>280 W</p></li><li><p>Regulacja obrotów</p><p>Regulacja PWM</p></li><li><p>Minimalne obroty wentylatora</p><p>600 obr/min</p></li><li><p>Maksymalne obroty wentylatora</p><p>2000 obr/min</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Wymiary radiatora</p><p>397x120x27 mm</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Kolor dominujący</p><p>Biały</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Antec</p></li><li><p>Podmiot odpowiedzialny</p><p>Antec Europe BV, Corkstraat 46, 3047 AC Rotterdam, Holandia, eusupport@antec.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/antec.jpg",
+    "images": [
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73270.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73271.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73272.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73273.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73274.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73275.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73276.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73277.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73278.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73279.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73270.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73271.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73272.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73273.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73274.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73275.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73276.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73277.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73278.webp",
+        "galerie/c/chlodzenie-wodne-aio-antec-vo_73279.webp"
+    ]
+}

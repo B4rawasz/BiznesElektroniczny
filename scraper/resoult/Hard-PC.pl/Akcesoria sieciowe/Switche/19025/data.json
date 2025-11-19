@@ -1,0 +1,30 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Switche"
+    ],
+    "id": "19025",
+    "code": "GS1024",
+    "name": "Switch Cudy GS1024 Przełącznik sieciowy 24-portowy",
+    "price": 293.99,
+    "description": "<h2>Efektywna sieć dla biznesu</h2><p>Switch Cudy 24p GS1024 to zaawansowane urządzenie sieciowe idealne do rozbudowy infrastruktury firmowej. Dzięki 24 portom Ethernet Gigabit zapewnia wydajną obsługę połączeń dla licznych urządzeń.</p><h2>Wysoka przepustowość i stabilność</h2><p>Z przepustowością 48 Gb/s oraz architekturą non-blocking, GS1024 gwarantuje efektywne przesyłanie danych. Auto-negocjacja portów RJ-45 zapewnia optymalną prędkość transmisji, odpowiadającą potrzebom podłączonych urządzeń.</p><h2>Zaawansowane zarządzanie i bezpieczeństwo</h2><p>Tryb VLAN z izolacją portów downlink pozwala na kontrolowanie ruchu sieciowego, zwiększając bezpieczeństwo danych. Funkcja Extend umożliwia rozszerzenie zasięgu transmisji sygnału Ethernet do 250 metrów, idealne dla rozległych przestrzeni biurowych.</p><h2>Energooszczędność i uniwersalność montażu</h2><p>GS1024 oferuje energooszczędne rozwiązania, zmniejszając zużycie energii i koszty eksploatacji. Możliwość montażu na biurku lub w szafie RACK dodaje elastyczności w konfiguracji sieci.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ obudowy</p><p>do szaf RACK</p></li><li><p>Dostęp</p><p>przeglądarka WWW (GUI); wiersz poleceń (CLI); SNMP v1/v2c/v3; RMON; Telnet</p></li><li><p>Architektura sieci</p><p>Gigabit Ethernet</p></li><li><p>Całkowita liczba portów</p><p>24</p></li><li><p>Złącza</p><p>RJ-45 10/100/1000 Mbps - 24 szt.</p></li><li><p>Power over Ethernet (PoE)</p><p>Brak PoE</p></li><li><p>Obsługiwane standardy</p><p>IEEE 802.3; IEEE 802.3 u; IEEE 802.3 x; IEEE 802.3 ab</p></li><li><p>Rozmiar tablicy MAC</p><p>8 k</p></li><li><p>Algorytm przełączania</p><p>Store-and-forward</p></li><li><p>Przepustowość</p><p>48 Gb/s</p></li><li><p>Maksymalny pobór mocy</p><p>15 W</p></li><li><p>Dodatkowe informacje</p><p>automatyczne krosowanie portów (Auto MDI-MDIX), automatyczna negocjacja szybkości połączeń, VLAN</p></li><li><p>Wymiary</p><p>44 x 270 x 180 mm</p></li><li><p>Dołączone akcesoria</p><p>kabel zasilający</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/cudy.jpg",
+    "images": [
+        "galerie/s/switch-cudy-gs1024-przelaczni_70489.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70490.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70491.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70492.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70493.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70494.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70495.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70489.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70490.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70491.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70492.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70493.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70494.webp",
+        "galerie/s/switch-cudy-gs1024-przelaczni_70495.webp"
+    ]
+}

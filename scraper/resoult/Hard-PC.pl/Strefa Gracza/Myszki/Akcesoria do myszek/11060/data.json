@@ -1,0 +1,23 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Myszki",
+        "Akcesoria do myszek"
+    ],
+    "id": "11060",
+    "code": "GAMO-848",
+    "name": "Kabel do myszki Glorious Ascended Cable V2 - Glorious Gold",
+    "price": 70.9,
+    "description": "<p>Ascended Cable V2 to ulepszona wersja popularnego kabla do myszek Glorious PC Gaming Race Model O, Model O- oraz Model D. Dzięki wielu informacjom napływającym od użytkowników, które producent uwzględnił na etapie projektowania udało się stworzyć bardzo elastyczny i lekki kabel w materiałowym oplocie.</p><p>Ascended V2 oferuje swobodę ruchu charakterystyczną dla myszek bezprzewodowych dając przy tym pełną jakość i szybkość transmisji przewodowej. Nowy kabel jest jeszcze cieńszy i lżejszy niż poprzednik a jednocześnie odpowiednio zabezpieczony przed uszkodzeniami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Długość: 2m</li><li>Połączenie: USB</li><li>Kompatybilność: Model O, Model O-, Model D</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/glorious.jpg",
+    "images": [
+        "galerie/k/kabel-do-myszki-glorious-pc-g_36245.webp",
+        "galerie/k/kabel-do-myszki-glorious-pc-g_36246.webp",
+        "galerie/k/kabel-do-myszki-glorious-pc-g_36247.webp",
+        "galerie/k/kabel-do-myszki-glorious-pc-g_36245.webp",
+        "galerie/k/kabel-do-myszki-glorious-pc-g_36246.webp",
+        "galerie/k/kabel-do-myszki-glorious-pc-g_36247.webp"
+    ]
+}

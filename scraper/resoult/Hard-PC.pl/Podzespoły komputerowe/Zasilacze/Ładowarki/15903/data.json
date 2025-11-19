@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Ładowarki"
+    ],
+    "id": "15903",
+    "code": "C14060RD",
+    "name": "Kabel Unitek USB-C - Lightning 1m MFi",
+    "price": 59.9,
+    "description": "<h2>Dobrze zaprojektowany</h2><p>Przewód Unitek łączy iPhone'a lub iPada z ładowarką lub komputerem wyposażonym w port USB typu C. Służy do ładowania i synchronizacji telefonu lub tabletu. Do jego produkcji wykorzystano chipset Premium, zapewniający stabilny transfer danych, jak i kontrolę parametrów ładowania. Dzięki temu jest bezpieczny w użyciu. Nasady złączy są specjalnie chronione gumową harmonijką, która zabezpiecza przewód przed przetarciem u nasady.</p><h2>Szybko ładuje</h2><p>Posiada funkcję Power Delivery Fast Charging, która zapewnia szybkie ładowanie. Producent deklaruje, że korzystając z tego przewodu naładujemy iPhone'a 11 w 30 minut do 50%. Sam kabel wykonano z ocynowanej miedzi.</p><h2>Bardzo wytrzymały</h2><p>Aby jeszcze wzmocnić przewód wykończono go oplotem, w ten sposób jest odporny na przetarcia i rozciąganie. Wtyki wykonane są solidnie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Linia produktu</p><p>High</p></li><li><p>Dla urządzeń</p><p>AirPods<br/>iPad<br/>iPhone</p></li><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Współpraca z systemami</p><p>iOS</p></li><li><p>Kolor</p><p>Czerwony</p></li><li><p>Długość przewodu</p><p>1 m</p></li><li><p>Standard ładowania</p><p>Power Delivery</p></li><li><p>Standard USB</p><p>USB 2.0</p></li><li><p>Złącze 2</p><p>Wtyk Lightning</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/unitek.jpg",
+    "images": [
+        "galerie/k/kabel-unitek-usb-c-lighning-1_56614.webp",
+        "galerie/k/kabel-unitek-usb-c-lighning-1_56615.webp",
+        "galerie/k/kabel-unitek-usb-c-lighning-1_56614.webp",
+        "galerie/k/kabel-unitek-usb-c-lighning-1_56615.webp"
+    ]
+}

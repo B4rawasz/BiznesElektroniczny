@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenie wodne - zestawy AiO"
+    ],
+    "id": "17680",
+    "code": "WASE-751",
+    "name": "Chłodzenie wodne AiO DeepCool LE720 ARGB 360mm White",
+    "price": 423.9,
+    "description": "<h2>Doskonałe chłodzenie procesora</h2><p>Chłodzenie wodne typu „wszystko w jednym” LE720 ARGB firmy DeepCool łączy w sobie dobry wygląd z wydajnym chłodzeniem. Blok procesora wyposażony jest w kilka kanałów, które lepiej izolują od siebie gorący i zimny płyn chłodzący, zapewniając w ten sposób bardziej efektywne odprowadzanie ciepła .</p><h2>Pompa o wysokiej wydajności i miedziana chłodnica</h2><p>Chłodnica 360 mm służy jako radiator dla podgrzewanego płynu chłodzącego. Jest wykonana z aluminium i doskonale nadaje się jako rozpraszacz ciepła. Jest powlekana, dzięki czemu zapewnia ogromną odporność na korozję, tłuszcz, parę i rozpuszczalniki. Trzy wentylatory 120 mm RGB zawarte w zestawie zapewniają bardzo dobrą przepustowość powietrza . Przekonują bardzo cichą pracą i bardzo dobrym ciśnieniem statycznym. Dzieje się tak dzięki specjalnym skrzydełkom. Ogólnie rzecz biorąc, zapewnia to maksymalną wydajność chłodzenia przy minimalnym poziomie hałasu.</p><h2>Zintegrowane oświetlenie RGB na pompie i wentylatorach</h2><p>Całość dopełnia zintegrowane oświetlenie RGB. Wentylatory, podobnie jak blok procesora, można dowolnie regulować pod względem koloru i jasności oświetlenia. Oświetlenie można podłączyć do płyty głównej i sterować za pomocą popularnych programów RGB.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Biały</p></li><li><p>Wymiary chłodnicy (bez wentylatorów)</p><p>402 x 120 x 27 mm (szer. x wys. x gł.)</p></li><li><p>prędkość pompy</p><p>2400 obr./min.</p></li><li><p>Prędkość wentylatorów</p><p>maks. 2200 obr/min</p></li><li><p>Liczba wentylatorów</p><p>3 x 120mm</p></li><li><p>Przepływ powietrza</p><p>145,86 m³/h</p></li><li><p>Głośność</p><p>32,9 dB(A)</p></li><li><p>Połączenie</p><p>4-pin PWM</p></li><li><p>Kompatybilność</p><p>Intel Gniazdo: LGA 1700, 1200, 1151, 1150, 1155<br/>AMD Gniazdo: AM5, AM4</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65388.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65389.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65390.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65391.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65392.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65393.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65394.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65388.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65389.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65390.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65391.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65392.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65393.webp",
+        "galerie/c/chlodzenie-wodne-aio-deepcool_65394.webp"
+    ]
+}

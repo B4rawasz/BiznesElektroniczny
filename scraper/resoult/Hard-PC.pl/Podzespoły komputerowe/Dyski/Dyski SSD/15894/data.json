@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Dyski",
+        "Dyski SSD"
+    ],
+    "id": "15894",
+    "code": "HS-SSD-G4000/1024G",
+    "name": "Dysk SSD Hikvision G4000 1TB M.2 2280 PCI-E x4 Gen4 NVMe  7450 MB/s  6600 MB/s",
+    "price": 289.0,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pojemność dysku</p><p>1TB</p></li><li><p>Interfejs</p><p>PCI-E x4 Gen4 NVMe</p></li><li><p>Rodzaj kości pamięci</p><p>TLC</p></li><li><p>Szybkość odczytu</p><p>7450 MB/s</p></li><li><p>Szybkość zapisu</p><p>6600 MB/s</p></li><li><p>Odczyt losowy</p><p>860000 IOPS</p></li><li><p>Zapis losowy</p><p>670000 IOPS</p></li><li><p>Nominalny czas pracy</p><p>2 mln godzin</p></li><li><p>TBW</p><p>1800 TB</p></li><li><p>Szyfrowanie sprzętowe</p><p>Tak</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>HIKVISION</p></li><li><p>Dane producenta</p><p>HIKVISION EUROPE B.V, Dirk Storklaan 3, 2132 PX Hoofddorp, Holandia, info.eu@hikvision.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/hikvision.jpg",
+    "images": [
+        "galerie/d/dysk-ssd-hikvision-g4000-1tb_56587.webp",
+        "galerie/d/dysk-ssd-hikvision-g4000-1tb_56587.webp"
+    ]
+}

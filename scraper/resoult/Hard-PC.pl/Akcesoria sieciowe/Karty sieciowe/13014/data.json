@@ -1,0 +1,30 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Karty sieciowe"
+    ],
+    "id": "13014",
+    "code": "XLAN-USB",
+    "name": "Adapter USB-Ethernet RJ45 MOZOS XLAN USB 3.0 1000Mbps",
+    "price": 42.9,
+    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Mozos XLAN-USB to karta sieciowa USB 3.0 z Gigabitowym portem RJ45.</h2><p>Mozos XLAN-USB to małe, zgrabne urządzenie posiada ogromne możliwości. Dzięki chipsetowi RTL8153 który dostępny jest w znacznie droższych urządzeniach, osiągniesz maksymalne prędkości aż do 1000 Mbps. Wystarczy, że podłączysz je do portu USB 3.0 (kompatybilny wstecz ze starszymi USB) a sterowniki zostaną automatycznie zainstalowane. Po chwili urządzenie będzie gotowe do pracy. Po wykorzystaniu przewodu LAN w standardzie 6 możesz przesyłać dane do 5 Gb na sekundę. Urządzenie łączy komputer przenośny z siecią Gigabitową lub siecią szkieletową — doskonale sprawdza się w małych lub domowych biurach oraz w oddziałowych aplikacjach sieciowych.</p><h2>Szeroka kompabitylność.</h2><p>Rozwiązanie świetnie sprawdza się w przypadku np. laptopów, komputerów stacjonarnych, smart boxów (np. Mi boxS) które nie są wyposażone w port LAN aby podłączyć je do sieci LAN. Nasza karta jest też kompatybilna z systemami android. XLAN-USB to karta sieciowa wykonana z aluminiowej obudowy a nie z tworzywa sztucznego jak u konkurencji. To dodatkowe zabezpieczenie urządzenia przed przegrzaniem lub uszkodzeniami mechanicznymi. Wskaźniki LED informują o aktualnym stanie pracy urządzenia w sposób jasny i intuicyjny. Dzięki obsłudze takich funkcji, jak Jumbo Frames, tagowanie VLAN i Wake on LAN (WOL), oferuje wszechstronne rozwiązanie sieciowe dla użytkowników domowych i biznesowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Zaawansowany, szybki chipset Realtek RTL8153 Gigabit 10/100/1000 Mbp.</li><li>Złącze USB 3.0 (kompatybilny wstecz) umożliwia przesyłanie danych 10x szybciej od starszych interfejsów.</li><li>Ładny i elegancki design z aluminiową obudową.</li><li>Zwiększ możliwości swojej sieci i domowego lub biurowego sprzętu.</li><li>Niesamowita opłacalność.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Zaawansowany Chipset</p><p>RTL8153.</p></li><li><p>Port</p><p>USB 3.0 do RJ45.</p></li><li><p>Materiał</p><p>stop aluminium.</p></li><li><p>Kolor:</p><p>czarny.</p></li><li><p>Długość kabla</p><p>około 175mm.</p></li><li><p>Obsługuje:</p><p>10/100/1000 Mb/s na portach USB 3.0.</p></li><li><p>Zasilanie:</p><p>port USB.</p></li><li><p>Zgodność ze standardami:</p><p>IEEE 802.3,802.3u i 802.3ab (10BASE-T, 100BASE-TX i 1000BASE-T)</p></li><li><p>Obsługa tagowania VLAN:</p><p>IEEE 802.1Q</p></li><li><p>Obsługuje:</p><p>(IPv4,IPv6,TCP,UDP).</p></li><li><p>Kompatybilność:</p><p>Windows / Mac OS / Linux. Windows XP / Vista / Windows 7 / Windows 8 8.1 / Windows 10 / Macintosh OSX 10.6/10.7.</p></li><li><p>Obsługa dupleks</p><p>Obsługuje zarówno w trybie pełnego dupleksu i pół -duplex pracę w sieci Fast Ethernet.</p></li><li><p>Sterowniki:</p><p>Plug &amp; Play (sterownik znajduje się w pamięci urządzenia)</p></li><li><p>Standardy sieciowe</p><p>IEEE 802.3 802.3u oraz 802.3ab</p></li><li><p>Wskaźniki LED</p><p>link 1000 Mbps.</p></li><li><p>Interfejs sieciowy</p><p>Gniazdo RJ45 Auto MDIX.</p></li><li><p>Full duplex</p><p>10/100/1000.</p></li><li><p>Half duplex</p><p>10/100.</p></li><li><p>RAM</p><p>Wbudowane 20KB SRAM (bufor RX i TX).</p></li><li><p>Temp</p><p>pracy</p><p>0-70*C.</p></li><li><p>Uwaga</p><p>W macBook należy wyłączyć funkcję Sip podczas używania na Macu 10.13. Aby uzyskać maksymalną transmisję należy użyć kabla sieciowego Rj45 UTP CAT 6. Niższe kategorie kabli maja wpływ na znacznie niższą prędkość przesyłu danych np. do 200 Mbps.</p></li><li></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/mozos.jpg",
+    "images": [
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47263.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47264.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47265.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47266.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47267.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47268.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47269.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47263.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47264.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47265.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47266.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47267.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47268.webp",
+        "galerie/a/adapter-usb-ethernet-rj45-moz_47269.webp"
+    ]
+}

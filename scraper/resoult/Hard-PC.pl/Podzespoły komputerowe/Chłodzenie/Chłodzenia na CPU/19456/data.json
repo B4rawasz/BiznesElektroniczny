@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "19456",
+    "code": "OCTAGONC50-BLACK",
+    "name": "Chłodzenie Rampage Octagon C50 120mm ARGB Black",
+    "price": 99.99,
+    "description": "<h2>Rampage OCTAGON C50 powietrzne chłodzenie CPU</h2><p>Rampage OCTAGON C50 to wysokowydajny system chłodzenia powietrznego, zaprojektowany z myślą o utrzymaniu optymalnej temperatury procesora nawet podczas intensywnego użytkowania. Dzięki wydajnemu przepływowi powietrza, podświetleniu ARGB i szerokiej kompatybilności, jest to idealne rozwiązanie zarówno dla entuzjastów gamingu, jak i użytkowników wymagających stabilnej pracy systemu.</p><h2>Wydajne chłodzenie dla stabilnej pracy</h2><p>Rampage OCTAGON C50 zapewnia optymalną cyrkulację powietrza, co pomaga utrzymać stabilną temperaturę procesora. Dzięki wysokiemu przepływowi powietrza na poziomie 57 CFM, system działa efektywnie nawet pod dużym obciążeniem.</p><h2>Dynamiczne podświetlenie ARGB</h2><p>Efektowne oświetlenie ARGB nadaje Twojej konfiguracji gamingowej nowoczesny wygląd. Kompatybilność z popularnymi systemami ARGB pozwala na synchronizację kolorów z resztą podzespołów.</p><h2>Cicha i wydajna praca</h2><p>Wentylator pracuje z maksymalną prędkością 1800 RPM, zachowując jednocześnie niski poziom hałasu. Idealne rozwiązanie dla graczy i profesjonalistów ceniących sobie komfort pracy.</p><h2>Szeroka kompatybilność</h2><p>OCTAGON C50 obsługuje popularne gniazda AM5 i LGA1700, i wiele innych, co sprawia, że jest uniwersalnym wyborem dla użytkowników zarówno procesorów Intel, jak i AMD.</p><h2>Kompaktowy design do różnych konfiguracji</h2><p>Dzięki optymalnym wymiarom chłodzenie pasuje do większości standardowych obudów komputerowych, nie kolidując z innymi komponentami.</p><h2>Łatwy montaż i stabilność</h2><p>Chłodzenie zostało zaprojektowane tak, aby zapewnić szybki i bezproblemowy montaż. Solidna konstrukcja zapewnia stabilność wentylatora i długą żywotność.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wysoka wydajność chłodzenia: Przepływ powietrza na poziomie 57 CFM.</li><li>Szybkość obrotów: 1800 RPM dla efektywnej cyrkulacji powietrza.</li><li>Podświetlenie ARGB: Efektowne oświetlenie kompatybilne z systemami RGB.</li><li>Uniwersalna kompatybilność: Obsługa wielu gniazd Intel i AMD.</li><li>Kompaktowa konstrukcja: Pasuje do większości obudów komputerowych.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Prędkość obrotowa</p><p>1800 RPM</p></li><li><p>Kontrola obrotów</p><p>PWM</p></li><li><p>Liczba wentylatorów</p><p>1 szt</p></li><li><p>Kompatybilność (socket)</p><p>AMD AM2, AM3+, AM3, AM4, AM5, FM1, FM2<br/>Intel LGA 1150, LGA 1151, LGA 1155, LGA 1156, LGA 1200, LGA 1366, LGA 1700, LGA 775</p></li><li><p>Napięcie zasilające</p><p>5-12 V</p></li><li><p>Rodzaj łożyska</p><p>Fluid Bearing System</p></li><li><p>Poziom głośności</p><p>24 dB</p></li><li><p>Przepływ powietrza</p><p>57 CFM</p></li><li><p>Rodzaj podświetlenia</p><p>ARGB</p></li><li><p>Wysokość</p><p>10 cm</p></li><li><p>Szerokość</p><p>15.5 cm</p></li><li><p>Waga</p><p>0.507 kg</p></li><li><p>Głębokość</p><p>12.5 cm</p></li><li><p>Materiał zewnętrzny</p><p>ABS</p></li><li><p>Aluminium</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Ilość zamontowanych wentylatorów</p><p>1 szt</p></li><li><p>Złącze</p><p>4-pin</p></li><li><p>TDP</p><p>165 W</p></li><li><p>Żywotność MTBF</p><p>40000 h</p></li><li><p>W zestawie</p><p>Pasta termoprzewodząca<br/>Zestaw montażowy</p></li><li><p>Kompatybilność (ARGB)</p><p>ASRock Polychrome Sync<br/>Gigabyte RGB Fusion<br/>MSI Mystic Light</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/rampage.jpg",
+    "images": [
+        "galerie/c/chlodzenie-rampage-octagon-c5_71744.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71745.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71746.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71747.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71748.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71749.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71750.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71751.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71752.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71744.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71745.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71746.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71747.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71748.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71749.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71750.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71751.webp",
+        "galerie/c/chlodzenie-rampage-octagon-c5_71752.webp"
+    ]
+}

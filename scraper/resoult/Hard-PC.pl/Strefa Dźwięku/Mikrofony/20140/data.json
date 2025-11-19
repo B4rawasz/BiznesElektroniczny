@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Mikrofony"
+    ],
+    "id": "20140",
+    "code": "4820216974430",
+    "name": "Mikrofon Fifine AM8P",
+    "price": 329.0,
+    "description": "<h2>Dynamiczny mikrofon studyjny do podcastów i streamingu</h2><p><strong>FIFINE AM8P AMPLIGAME</strong> to mikrofon dynamiczny z przewodowym podłączeniem <strong>USB i XLR</strong>, który doskonale sprawdza się podczas <em>nagrywania podcastów</em>, <em>streamingu</em>, <em>lektorowania</em> oraz <em>transmisji na żywo</em>. Dzięki technologii Plug and Play jest gotowy do pracy natychmiast po podłączeniu.</p><h2>Kompatybilność i łatwość obsługi</h2><p>Mikrofon współpracuje z systemami <strong>Windows, Mac OS</strong> oraz <strong>PS4/PS5</strong>. Wyposażony jest w <strong>dotykowy przycisk wyciszenia</strong> i <strong>pokrętło głośności</strong>, które ułatwiają szybkie i precyzyjne sterowanie dźwiękiem podczas pracy.</p><h2>Wyraźny i czysty dźwięk</h2><p>Kardioidalna membrana mikrofonu skutecznie eliminuje szumy tła, koncentrując się na głosie użytkownika. Dzięki temu nagrania są <strong>wysokiej jakości</strong>, a dźwięk klarowny i szczegółowy, co jest szczególnie ważne podczas profesjonalnych transmisji.</p><h2>Nowoczesne podświetlenie i wygoda monitorowania</h2><p>Mikrofon wyposażony jest w <strong>tęczowe podświetlenie RGB</strong> z funkcją włączania i wyłączania, które nadaje stanowisku pracy wyjątkowy charakter. Wyjście słuchawkowe pozwala na <strong>monitorowanie dźwięku w czasie rzeczywistym</strong>, co zwiększa kontrolę nad nagraniem. W zestawie znajduje się stabilny statyw stołowy do wygodnego ustawienia mikrofonu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>różowy</p></li><li><p>Złącze</p><p>USB i XLR</p></li><li><p>Typ</p><p>dynamiczny</p></li><li><p>Wymiary</p><p>165 х 235 х 115 mm</p></li><li><p>Napięcie</p><p>5 V ± 0,25 V</p></li><li><p>Pasmo przenoszenia</p><p>50 Hz – 16 kHz</p></li><li><p>Czułość</p><p>-50 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Stosunek sygnału do szumu</p><p>&gt;80 dB</p></li><li><p>Maksymalny poziom ciśnienia akustycznego</p><p>120 dB</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/fifine.jpg",
+    "images": [
+        "galerie/m/mikrofon-fifine-am8p_76811.webp",
+        "galerie/m/mikrofon-fifine-am8p_76812.webp",
+        "galerie/m/mikrofon-fifine-am8p_76813.webp",
+        "galerie/m/mikrofon-fifine-am8p_76814.webp",
+        "galerie/m/mikrofon-fifine-am8p_76811.webp",
+        "galerie/m/mikrofon-fifine-am8p_76812.webp",
+        "galerie/m/mikrofon-fifine-am8p_76813.webp",
+        "galerie/m/mikrofon-fifine-am8p_76814.webp"
+    ]
+}

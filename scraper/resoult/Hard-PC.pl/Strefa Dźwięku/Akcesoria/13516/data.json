@@ -1,0 +1,22 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Akcesoria"
+    ],
+    "id": "13516",
+    "code": "D9",
+    "name": "Stojak na słuchawki MOZOS D9 RGB LED",
+    "price": 61.9,
+    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Mozos D9 stojak na słuchawki w gamingowym stylu.</h2><p>Słuchawki to nieodzowny element każdego stanowiska dla graczy. Po zakończonej pracy lub zabawie odpowiednim miejscem dla słuchawek jest stojak. Ważne jest aby nie tylko był stabilny ale również ergonomiczny i pasujący designem do pomieszczenia. W przypadku nowoczesnych biurek świetnym rozwiązaniem staje się wybór Mozos D9 który ma optymalną wysokość, jest delikatny dla pałąka twoich słuchawek oraz posiada nowoczesny wygląd. D9 wyposażony jest w port USB-C po podłączeniu którego statyw otrzymuje dodatkowe funkcje. Jedną z nich jest podświetlenie LED w zakresie RGB. Kolejnym natomiast bardzo przydatny HUB-USB który wspiera nie tylko ładowanie urządzeń ale również przesyłanie danych. W przypadku kiedy nie potrzebujesz podświetlenia, za pomocą jednego dłuższego przytrzymania przycisku funkcyjnego je wyłączysz.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Nowoczesny wygląd z podświetleniem RGB.</li><li>Szeroka kompatybilność ze słuchawkami nausznymi i wokółusznymi.</li><li>Hub-usb z możliwością ładowania i przesyłania danych.</li><li>Możliwość wyłączenia oświetlenia.</li><li>Nie odkształca pałąka słuchawki.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Protokoły</p><p>USB1.1, USB2.0.</p></li><li><p>Kolor</p><p>czarny – logo producenta na podstawie.</p></li><li><p>Prąd roboczy</p><p>tryb oświetlenia RGB (180MA).</p></li><li><p>Tryb wyłączenia świateł RGB (60MA).</p></li><li><p>Napięcie robocze</p><p>USB DC 5 V (4,75 V-5,25 V).</p></li><li><p>Metoda połączenia wejściowego</p><p>interfejs wejściowy USB typu C.</p></li><li><p>Metoda połączenia wyjściowego</p><p>2 interfejsy wyjściowe USB 2.0.</p></li><li><p>Wymiary</p><p>długość 12,3 * szerokość 10,3 * wysokość 26,7 cm.</p></li><li><p>Waga</p><p>204 g.</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/mozos.jpg",
+    "images": [
+        "galerie/s/stojak-na-sluchawki-mozos-d9_48670.webp",
+        "galerie/s/stojak-na-sluchawki-mozos-d9_48672.webp",
+        "galerie/s/stojak-na-sluchawki-mozos-d9_48671.webp",
+        "galerie/s/stojak-na-sluchawki-mozos-d9_48670.webp",
+        "galerie/s/stojak-na-sluchawki-mozos-d9_48672.webp",
+        "galerie/s/stojak-na-sluchawki-mozos-d9_48671.webp"
+    ]
+}

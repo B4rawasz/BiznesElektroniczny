@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Mikrofony"
+    ],
+    "id": "16019",
+    "code": "SM-16",
+    "name": "Mikrofon pojemnościowy Takstar SM-16 Phantom 48V",
+    "price": 399.0,
+    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Odkryj prawdziwą siłę dźwięku dzięki naszemu wyjątkowemu mikrofonowi pojemnościowemu. To narzędzie stworzone dla perfekcjonistów, którzy nie akceptują kompromisów w jakości dźwięku. Idealny towarzysz w studiach nagraniowych, radiowych oraz na scenie – niech Twoje brzmienie zabrzmi tak, jak tego pragniesz.</p><p>Doskonała jakość dźwięku - Nasz mikrofon to gwarancja perfekcyjnego przetwarzania dźwięku. Niezależnie od tego, czy nagrywasz, prowadzisz program radiowy czy występujesz na scenie, Twój głos i instrumenty będą brzmiały niesamowicie czysto i autentycznie.</p><p>Precyzyjne odwzorowanie - Pozłacana membrana mikrofonu to tajemnica wyjątkowej jakości dźwięku. Każdy ton, nuta i akord zostaną oddane w sposób niezwykle dokładny, dzięki czemu Twoje nagrania staną się prawdziwymi dziełami sztuki dźwiękowej.</p><p>Odkryj najdrobniejsze niuanse - Wysoka czułość mikrofonu pozwala uchwycić nawet najdelikatniejsze niuanse dźwięku. Każda emocja, subtelność i dynamika zostaną uwiecznione w Twoich nagraniach, tworząc niezapomniane wrażenia dźwiękowe.</p><p>Czystość bez zakłóceń - Niski poziom szumów to klucz do klarowności brzmienia. Twój dźwięk nie będzie zakłócony żadnymi niechcianymi hałasami czy interferencjami, pozostawiając miejsce tylko dla perfekcyjnego brzmienia.</p><p>Niech Twoja muzyka zabrzmi tak, jak zawsze tego pragnąłeś. Nasz mikrofon pojemnościowy to droga do doskonałego dźwięku, który przeniesie Twoją twórczość na zupełnie nowy poziom. Zaufaj profesjonalizmowi i ciesz się brzmieniem, które w pełni odda charakter Twojej muzyki.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja mikrofonu:</h2><ul class=\"list-specification\"><li><p>Charakterystyka</p><p>kardioidalna,</p></li><li><p>Pasmo przenoszenia</p><p>30 Hz - 20 kHz</p></li><li><p>Czułość</p><p>-34dB ± 2dB (0dB=1V/Pa przy 1kHz)</p></li><li><p>Impedancja wyjściowa</p><p>400 Ω ± 30% (przy 1kHz)</p></li><li><p>Impedancja obciążenia</p><p>≥ 1000 Ω</p></li><li><p>Poziom szumów</p><p>≤ 18dB A (IEC 581-5)</p></li><li><p>Max SPL</p><p>135dB (THD ≤ 1.0% przy 1kHz)</p></li><li><p>Zasilanie</p><p>Phantom 48V</p></li><li><p>Wymiary</p><p>45 x 150 mm</p></li><li><p>Waga</p><p>350 g</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Takstar</p></li><li><p>Dane producenta</p><p>Takstar Innovation Park, Xiagang Road, Longxi Street, Boluo County, Huizhou, Guangdong, sales @ takstar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/takstar.jpg",
+    "images": [
+        "galerie/m/mikrofon-pojemnosciowy-taksta_56945.webp",
+        "galerie/m/mikrofon-pojemnosciowy-taksta_56946.webp",
+        "galerie/m/mikrofon-pojemnosciowy-taksta_56947.webp",
+        "galerie/m/mikrofon-pojemnosciowy-taksta_56948.webp",
+        "galerie/m/mikrofon-pojemnosciowy-taksta_56945.webp",
+        "galerie/m/mikrofon-pojemnosciowy-taksta_56946.webp",
+        "galerie/m/mikrofon-pojemnosciowy-taksta_56947.webp",
+        "galerie/m/mikrofon-pojemnosciowy-taksta_56948.webp"
+    ]
+}

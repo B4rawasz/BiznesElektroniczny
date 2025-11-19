@@ -1,0 +1,33 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "18718",
+    "code": "DP-MCAL-GA",
+    "name": "Chłodzenie DeepCool Gamma Archer",
+    "price": 23.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy produktu:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Gotowy do współpracy z AMD AM4. </li><li>Kompatybilny z gniazdami Intel LGA775/1151/1150/1155/1156 do 95 W.</li><li>Wysokiej jakości profile aluminiowe zapewniające długą żywotność i doskonałą wydajność chłodzenia.</li><li>Wentylator 120 mm dostarczający silny przepływ powietrza dla efektywnego odprowadzania ciepła.</li><li>Unikalna konstrukcja ramki wentylatora i przepływu powietrza umożliwiająca szybkie usuwanie ciepła z pamięci i płyty głównej.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wymiary ogólne</p><p>124 × 121 × 65,5 mm (dł. × szer. × wys.)</p></li><li><p>Wymiary wentylatora</p><p>Φ120 × 25 mm</p></li><li><p>Waga netto</p><p>301 g</p></li><li><p>Typ łożyska</p><p>Łożysko hydrauliczne</p></li><li><p>Napięcie znamionowe</p><p>12 V DC</p></li><li><p>Napięcie robocze</p><p>10,8～13,2 V DC</p></li><li><p>Napięcie startowe</p><p>7 V DC</p></li><li><p>Prąd znamionowy</p><p>0,12 ±10% A</p></li><li><p>Pobór mocy</p><p>1,44 W</p></li><li><p>Prędkość wentylatora</p><p>1600 ±10% obr./min</p></li><li><p>Maksymalny przepływ powietrza</p><p>54,25 CFM</p></li><li><p>Poziom hałasu</p><p>26,1 dB(A)</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68874.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68875.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68876.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68877.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68878.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68879.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68880.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68881.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68874.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68875.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68876.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68877.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68878.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68879.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68880.webp",
+        "galerie/c/chlodzenie-deepcool-gamma-arc_68881.webp"
+    ]
+}

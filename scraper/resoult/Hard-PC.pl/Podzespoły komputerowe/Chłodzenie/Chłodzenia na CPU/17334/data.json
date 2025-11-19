@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "17334",
+    "code": "6097207427598",
+    "name": "Chłodzenie Intel BOX OEM LGA 1155 1151 1150 1200",
+    "price": 9.9,
+    "description": "<p>Chłodzenia są nowe, nie używane. Pochodzą z demontażu wersji BOXowych procesorów. Pakowane w jednostkowy kartonik.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li><p>Rodzaj chłodzenia</p><p>Aktywne</p></li><li><p>Kompatybilność</p><p>1156, 1155, 1151, 1150</p></li><li><p>Rozmiar</p><p>85 x 85 x 19 mm</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Wentylator</p><p>90 mm</p></li><li><p>Kontrola obrotów</p><p>PWM</p></li><li><p>Złącze</p><p>4-pin PWM</p></li><li><p>Napięcie zasilające</p><p>12 V</p></li><li><p>Prąd zasilający</p><p>0.6 A</p></li><li><p>Wysokość</p><p>48 mm</p></li><li><p>Szerokość</p><p>88 mm</p></li><li><p>Głębokość</p><p>88 mm</p></li></ul></article>",
+    "security_data": "",
+    "manufacturer_img": "galerie/c/chlodzenie-intel-box-oem-lga_61966_p.webp",
+    "images": [
+        "galerie/c/chlodzenie-intel-box-oem-lga_61966.webp",
+        "galerie/c/chlodzenie-intel-box-oem-lga_61966.webp"
+    ]
+}

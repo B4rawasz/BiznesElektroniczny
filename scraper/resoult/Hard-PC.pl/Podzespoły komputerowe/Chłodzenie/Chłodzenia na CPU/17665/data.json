@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "17665",
+    "code": "CPDC-018",
+    "name": "Chłodzenie DeepCool AK500 Zero 120mm",
+    "price": 193.9,
+    "description": "<h2>Chłodzenie DeepCool AK500 Zero Dark</h2><p>DeepCool AK500 Zero Dark to wydajna, jednowieżowa chłodnica procesora, która maksymalizuje potencjał chłodzenia dzięki dużemu radiatorowi, pięciu rurkom cieplnym i wysokowydajnemu wentylatorowi FDB 120 mm. Dzięki mocy odprowadzania ciepła 240 W jesteś idealnie przygotowany na wydajne procesory najnowszej generacji.</p><h2>Znakomita technologia rurek cieplnych</h2><p>Miedziane rurki cieplne maksymalizują rozpraszanie ciepła, niezależnie od orientacji obudowy, dzięki zoptymalizowanej strukturze kapilarnej i precyzyjnemu dostarczaniu płynu. Ten zrównoważony stosunek umożliwia efektywną zmianę fazy w całej rurze cieplnej, przy zmniejszonym oporze cieplnym w szerokim spektrum mocy. Specjalna kątowa i przesunięta konstrukcja rurek cieplnych zapewnia nieograniczony dostęp do banków pamięci, zapewniając optymalną kompatybilność nawet z potężną pamięcią RAM z dużymi rozpraszaczami ciepła. Konstrukcja ta umiejętnie podkreśla także wszystkie efekty świetlne RGB. Na czterokanałowych płytach głównych odległość między tylnymi gniazdami wynosi 45 mm.</p><h2>Fajny, cichy i mocny</h2><p>Dzięki dołączonemu wentylatorowi FK120 nie tylko uzyskasz maksymalny przepływ powietrza i ciśnienie statyczne, co zapewnia wydajne chłodzenie, ale możesz także inteligentnie przełączać, aby uzyskać cichą wydajność. Dołączony adapter umożliwia pracę przy niskich prędkościach, a dodatkowe wsporniki wentylatorów zapewniają elastyczność przy przyszłych aktualizacjach.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>127 x 117 x 158 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>miedź (podstawa radiatora, rurki cieplne), aluminium, tworzywo sztuczne</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Rurki cieplne</p><p>5x Ø 6 mm</p></li><li><p>TDP</p><p>240 W</p></li><li><p>Rodzaj łożyska</p><p>Hydrodynamiczne łożysko ślizgowe</p></li><li><p>Wentylator</p><p>1x 120 mm PWM</p></li><li><p>Głośność</p><p>31,5 dB(A)</p></li><li><p>Prędkość</p><p>500 - 1850 obr./min</p></li><li><p>Złącze wentylatora</p><p>4-pinowe PWM</p></li><li><p>Kompatybilność</p><p>Intel: LGA2066 / 2011-v3 / 2011 / 1700 / 1200 / 1151 / 1150 / 1155<br/>AMD: AM5 / AM4</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/deepcool.jpg",
+    "images": [
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65517.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65518.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65519.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65520.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65521.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65522.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65523.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65524.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65525.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65526.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65517.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65518.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65519.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65520.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65521.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65522.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65523.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65524.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65525.webp",
+        "galerie/c/chlodzenie-deepcool-ak500-zer_65526.webp"
+    ]
+}

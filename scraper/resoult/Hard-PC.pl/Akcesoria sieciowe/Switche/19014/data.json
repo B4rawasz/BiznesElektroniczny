@@ -1,0 +1,24 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Akcesoria sieciowe",
+        "Switche"
+    ],
+    "id": "19014",
+    "code": "FS1006P",
+    "name": "Switch Cudy FS1006P Przełącznik sieciowy 6-portowy PoE+ 90W",
+    "price": 124.0,
+    "description": "<h2>Cudy FS1006P 2.0 Przełącznik 4-FE PoE z 2 Uplink FE</h2><p>Przełącznik PoE FS1006P 2.0 to wszechstronne i wydajne rozwiązanie do zasilania i łączenia urządzeń w małych i średnich sieciach. Z 4 portami Fast Ethernet PoE, 2 portami uplink i zasilaczem o mocy 65W, zapewnia niezawodność i elastyczność w zarządzaniu siecią. Ciche chłodzenie, tryby VLAN i Extend oraz łatwy montaż sprawiają, że jest to doskonały wybór dla firm, biur i systemów monitoringu.</p><h2>Efektywne zasilanie i łączność PoE</h2><p>Przełącznik FS1006P 2.0 wyposażony w 4 porty Fast Ethernet (FE) z obsługą technologii PoE, zapewnia wygodne zasilanie urządzeń, takich jak kamery IP, punkty dostępowe czy telefony VoIP, bez potrzeby używania dodatkowych kabli zasilających. Dzięki wsparciu standardu 802.3at/af, każdy port PoE może dostarczyć do 30W mocy, co oznacza, że Twoje urządzenia będą pracować stabilnie i wydajnie. To idealne rozwiązanie do monitoringu wideo, systemów bezpieczeństwa czy sieci biurowych, gdzie konieczna jest niezawodna infrastruktura.</p><h2>Elastyczność dzięki 2 portom uplink</h2><p>Dwa dodatkowe porty uplink Fast Ethernet (FE) umożliwiają podłączenie do sieci nadrzędnej lub kolejnych urządzeń, co znacząco zwiększa elastyczność konfiguracji. Dzięki tym portom masz pewność, że Twoja sieć będzie mogła rozwijać się i dostosowywać do rosnących potrzeb, bez utraty wydajności. Porty uplink ułatwiają również integrację z innymi urządzeniami sieciowymi, co sprawia, że rozbudowa infrastruktury jest prostsza i bardziej efektywna.</p><h2>Zasilacz o mocy 65W i ciche chłodzenie</h2><p>FS1006P 2.0 posiada wbudowany zasilacz o mocy 65W, który zapewnia wystarczającą ilość energii dla wszystkich podłączonych urządzeń PoE. Dzięki temu możesz zasilać kilka urządzeń jednocześnie bez obaw o przeciążenie. Cichy system chłodzenia sprawia, że przełącznik pracuje bezgłośnie, co czyni go idealnym wyborem do biur, domów czy innych miejsc, gdzie hałas może być problemem. To połączenie mocy i komfortu użytkowania, na którym możesz polegać.</p><h2>Tryby VLAN i Extend dla większej kontroli</h2><p>Przełącznik oferuje tryby VLAN i Extend, które umożliwiają lepszą kontrolę nad ruchem sieciowym. Tryb VLAN separuje ruch pomiędzy portami, co zwiększa bezpieczeństwo sieci i minimalizuje ryzyko przeciążenia. Z kolei tryb Extend pozwala na wydłużenie zasięgu transmisji PoE do 250 metrów, co sprawdza się w przypadku większych instalacji, np. w budynkach biurowych czy magazynach. Te funkcje sprawiają, że Twoja sieć może działać bezproblemowo nawet w bardziej wymagających warunkach.</p><h2>Łatwy montaż i instalacja</h2><p>Dzięki możliwości montażu na ścianie lub biurku, FS1006P 2.0 jest łatwy do zainstalowania w każdym środowisku. Kompaktowe wymiary sprawiają, że urządzenie można umieścić w dyskretnym miejscu, co zwiększa jego uniwersalność. Prosta konfiguracja i intuicyjne zarządzanie sprawiają, że nawet osoby bez specjalistycznej wiedzy technicznej mogą szybko skonfigurować sieć. To oszczędność czasu i zasobów, dzięki czemu szybko uruchomisz swoje urządzenia.</p>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/cudy.jpg",
+    "images": [
+        "galerie/s/switch-cudy-fs1006p-przelaczn_69947.webp",
+        "galerie/s/switch-cudy-fs1006p-przelaczn_69948.webp",
+        "galerie/s/switch-cudy-fs1006p-przelaczn_69949.webp",
+        "galerie/s/switch-cudy-fs1006p-przelaczn_69950.webp",
+        "galerie/s/switch-cudy-fs1006p-przelaczn_69947.webp",
+        "galerie/s/switch-cudy-fs1006p-przelaczn_69948.webp",
+        "galerie/s/switch-cudy-fs1006p-przelaczn_69949.webp",
+        "galerie/s/switch-cudy-fs1006p-przelaczn_69950.webp"
+    ]
+}

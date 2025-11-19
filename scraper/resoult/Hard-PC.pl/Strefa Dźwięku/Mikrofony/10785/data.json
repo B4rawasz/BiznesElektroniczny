@@ -1,0 +1,20 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Dźwięku",
+        "Mikrofony"
+    ],
+    "id": "10785",
+    "code": "KRX0005",
+    "name": "Mikrofon biurkowy KRUX Prana",
+    "price": 23.9,
+    "description": "<p>Na scenę wkracza <strong>mikrofon biurkowy KRUX Prana</strong>. Gadacie sobie ze znajomymi na Discordzie, siedzisz sobie w swoim headsecie i już nie wytrzymujesz, musisz zmienić pozycję na bardziej wygodną, musisz rozłożyć się w fotelu, co wymaga aby przełączyć się na tryb „głośnomówiący”. Twój mikrofon nadaje się bardzo dobrze do zbierania dźwięku prosto spod twojej paszczy, jednak zupełnie nie nadaje się do innych zadań.</p><p>“W czym Prana jest lepsza niż mój obecny mikrofon w headsecie?”</p><p>Odpowiedź jest banalna! Dzięki temu że KRUX Prana to mikrofon stojący, oddzielony od twojego headsetu, możesz go umieścić i przesuwać jak tylko chcesz, albo na tyle na ile pozwoli 150-centymetrowy kabel. Na pole raczej z nim nie wyjdziesz, więc nie ma obaw że, zniknie z zasięgu twojej ręki podczas posiedzenia przed piecem. Możesz używać go do grania, umieszczając go bliżej otworu gębowego i odpowiednio wyginając jego ramię. Jeżeli potrzebujesz zmienić pozycję, bądź chcesz aby twoi współtowarzysze również mogli bez problemu porozumiewać się z osobami po drugiej stronie kabla, również z tym nie będzie problemu, dasz radę ustawić go odpowiednio do sytuacji. Dzięki dookólnej kierunkowości mikrofonu Prana Jack, twój głos oraz wszystkich twoich znajomych zostanie idealnie zarejestrowany, przetworzony do postaci 0111100001000100 i wysłany do odbiorcy poprzez złącze Jack 3,5, a następnie przez globalną sieć, prosto do ich urządzeń odbiorczych.</p><p>“Moje stanowisko pracy jest dość specyficzne, nie lubię dyskoteki. Możecie powiedzieć mi coś więcej o wyglądzie?” Ależ oczywiście! KRUX Prana ze złączem Jack idealnie wkomponuje się pomiędzy twoje pozostałe instrumenty dla gracza, jednocześnie wwiercając się w twoje poczucie gustu. Szczególnie w nocy, kiedy wszystko będzie ciemne. Będzie czyhać na dźwięk niczym skorpion polujący na pustyni na swoją ofiarę. Wystarczy nacisnąć jeden przycisk na jego tułowiu, aby wywołać atak który zakończy się nagraniem dźwięku. Te porównania to nie jedyna rzecz, która upodobania nasz mikrofon do skorpiona, to również wygląd. Pałąk mikrofonu został wkomponowany w odwłok tego pajęczaka, co tylko dodaje mu drapieżnego wyglądu, nie krępując jednocześnie możliwości dopasowania elastycznego ramienia do swoich potrzeb.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Rejestruje głos wytrawnego gracza.</li><li>Przetwarza fale dźwiękowe na formę zjadliwą dla elektroniki.</li><li>Ogarnie głos nawet kilku graczy siedzących dookólnie wokół mikrofonu.</li><li>Jack 3,5 mm jest świetnie znany na dzielni.</li><li>Zbiera mruczenie od 20 Hz aż po pisk zwycięstwa do 20 tysięcy Hz.</li><li>Sygnał przesyła kablem na odległość 150 cm.</li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Krux</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, kontakt@cooling.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/krux.jpg",
+    "images": [
+        "galerie/m/mikrofon-biurkowy-krux-prana_34765.webp",
+        "galerie/m/mikrofon-biurkowy-krux-prana_34766.webp",
+        "galerie/m/mikrofon-biurkowy-krux-prana_34765.webp",
+        "galerie/m/mikrofon-biurkowy-krux-prana_34766.webp"
+    ]
+}

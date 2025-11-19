@@ -1,0 +1,21 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Klawiatury Gamingowe",
+        "Akcesoria do klawiatur"
+    ],
+    "id": "14681",
+    "code": "GATA-2051",
+    "name": "Kabel do klawiatury AKKO Coiled Cable USB-C - USB-A - Pink",
+    "price": 25.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>TPU Plastik</p></li><li><p>Połączenie</p><p>1x USB Type-C<br/>1x USB Type-A</p></li><li><p>Długość</p><p>około 1.5m</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Akko Gear</p></li><li><p>Dane producenta</p><p>Akko Gear, 107, No. 6-18, Xinhe Avenue, Xinqiao Community Xinqiao Street, Guangdong 518000 China, Baoan District Shenzhen, support@akkogear.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/akko.jpg",
+    "images": [
+        "galerie/a/akko-coiled-cable-usb-c-auf-u_53588.webp",
+        "galerie/a/akko-coiled-cable-usb-c-auf-u_53589.webp",
+        "galerie/a/akko-coiled-cable-usb-c-auf-u_53588.webp",
+        "galerie/a/akko-coiled-cable-usb-c-auf-u_53589.webp"
+    ]
+}

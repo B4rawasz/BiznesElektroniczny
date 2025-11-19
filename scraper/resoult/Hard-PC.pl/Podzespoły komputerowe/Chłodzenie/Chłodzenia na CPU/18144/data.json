@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "18144",
+    "code": "RM-C03",
+    "name": "Chłodzenie Rampage CoolBlade",
+    "price": 69.99,
+    "description": "<p>Wyciśnij maksimum możliwości ze swojego procesora – spraw, by zbyt wysoka temperatura CPU nie była dla Ciebie już nigdy przeszkodą w kontynuowaniu rozgrywki w grze wyciskające siódme poty z Twojego komputera. Oto chłodzenie procesora RM-C03 od Rampage – marki, stworzonej przez graczy, dla graczy!</p><h2>Solidne chłodzenie do komputera gamingowego</h2><p>Przegrzewający się procesor ma bezpośredni wpływ na jakość działania komputera dlatego solidny układ chłodzenia to absolutny must have każdego wytrawnego gracza. System chłodzenia Rampage RM-C03 został skrojony w każdym calu na miarę wymagającego gamera. Radiator układu efektywnie absorbuje ciepło z CPU, a odprowadzający je cooler o średnicy 8 cm osiąga prędkość do 2100 obrotów na minutę, przy czym jest cichy i nie rozprasza gracza.</p><h2>Energooszczędny układ chłodzenia</h2><p>Chłodzenie CPU RM-C03 dostosowuje ilość obrotów coolera do temperatury procesora, dzięki czemu ogranicza zużycie energii do minimum. Diody RGB zastosowane w modelu cechują się niskim zużyciem energii – dlatego nie musisz martwić się o wymianę zasilacza w komputerze, aby zainstalować ten system chłodzenia!</p><h2>Szeroka kompatybilność</h2><p>Wydajne chłodzenie do komputera Rampage RM-C03 jest kompatybilne z procesorami Intel instalowanymi w gnieździe LGA 1700 oraz z procesorami AMD dedykowanymi do gniazda AM5. To między innymi układy serii Intel Core i3/i5/i7/i9 oraz AMD Rhyzen 3/5 i 7. Przed zakupem sprawdź jakie gniazdo posiadasz na swojej płycie głównej – lista pasujących procesorów jest szeroka i najprawdopodobniej znajdziesz na niej swój model!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Solidny radiator – radiator został wykonany z ze stopu metalu, który bardzo efektywnie absorbuje ciepło z procesora </li><li>Wydajny cooler – wentylator o średnicy 8 cm doskonale radzi sobie z odprowadzaniem ciepła z radiatora </li><li>Podświetlanie RGB – układ chłodzenia zamontowany na procesorze mieni się pelną gamą kolorów emitowanych przez diody RGB </li><li>Niskie zużycie energii – to inteligentne chłodzenie CPU samodzielnie dostosowuje ilość obrotów coolera do temperatury procesora </li><li>Szeroka kompatybilność – układ jest kompatybilny z wszystkimi procesorami Intela na gnieździe LGA 1700 i AMD na gnieździe AM5 </li><li>Ciche działanie – w przeciwieństwie do wielu konkurencyjnych produktów ten układ chłodzenia działa cicho więc możesz w pełni oddać się rozgrywce. </li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Obroty wentylatora</p><p>do 2100rpm</p></li><li><p>średnica radiatora</p><p>8 cm,</p></li><li><p>Wymiary chłodzenia</p><p>130 x 130 x 85 mm,</p></li><li><p>podświetlanie</p><p>LED RGB.</p></li><li><p>Zgodność</p><p>LGA1700 115X / 775 / LGA1200 <br/>AMD AM2 /AM2+/AM3/FM1/AM4/AM5</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/rampage.jpg",
+    "images": [
+        "galerie/c/chlodzenie-rampage-coolblade_66875.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66876.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66877.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66878.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66879.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66880.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66881.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66875.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66876.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66877.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66878.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66879.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66880.webp",
+        "galerie/c/chlodzenie-rampage-coolblade_66881.webp"
+    ]
+}

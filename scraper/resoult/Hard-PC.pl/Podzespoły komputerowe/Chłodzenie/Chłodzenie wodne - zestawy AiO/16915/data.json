@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenie wodne - zestawy AiO"
+    ],
+    "id": "16915",
+    "code": "WASE-746",
+    "name": "Chłodzenie wodne AiO Ek Water Blocks EK-Nucleus CR360 Dark 360mm",
+    "price": 684.9,
+    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Czarny</p></li><li><p>Chłodnica</p><p>Wymiary 400 x 124 x 27 mm (L x W x H)<br/>Materiał aluminum, plastik</p></li><li><p>Długość wężyków</p><p>400 mm, w oplocie</p></li><li><p>Wentylator</p><p>Typ 3x 120mm<br/>Wymiary 120 x 120 x 25 mm (L x W x H)<br/>Prędkość obrotowa 500 - 2,300 rpm<br/>Przepływ powietrza 171.6 m³/h<br/>Głośność 36 dB(A)<br/>MTTF 50,000 godzin</p></li><li><p>Pompa</p><p>Wymiary 61.6 x 69.2 x 82.3 mm (L x W x H)<br/>Prędkość max. 3,100 rpm<br/>Głośność 18.5 dB(A)<br/>Natężenie prądu 0.37 A<br/>Wtyczka &gt;4-Pin PWM<br/>MTTF 70,000 godzin</p></li><li><p>Kompatybilność</p><p>Intel LGA 1700, LGA 1200, LGA 115X, LGA 1366, LGA 775, LGA 2011, LGA 2066<br/>AMD AM4, AM5</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>EKWB</p></li><li><p>Dane producenta</p><p>EKWB d.o.o., Pod lipami 18, SI-1218 Komenda, Slovenia, info@ekwb.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/ek-water-blocks.jpg",
+    "images": [
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59696.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59697.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59698.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59699.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59700.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59701.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59702.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59703.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59704.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59705.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59696.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59697.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59698.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59699.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59700.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59701.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59702.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59703.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59704.webp",
+        "galerie/c/chlodzenie-wodne-aio-ek-water_59705.webp"
+    ]
+}

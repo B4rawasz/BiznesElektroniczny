@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Dyski",
+        "Akcesoria"
+    ],
+    "id": "12922",
+    "code": "KW9-00648",
+    "name": "System Operacyjny Microsoft Windows 11 Home 64bit OEM DVD PL",
+    "price": 519.0,
+    "description": "<p>Windows 11 to jedna z najbardziej znaczących aktualizacji Windows ostatniej dekady. Nowoczesny, świeży, przejrzysty i piękny. Od ekranu blokady, po menu Start. Taki właśnie jest nowy system Windows 11. To, czego potrzebujesz, jest bliżej Ciebie, uproszczone oraz napędzane przez chmurę, tak aby serwować Ci aplikacje i dokumenty, których aktualnie potrzebujesz.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Edycja</p><p>Home</p></li><li><p>Typ licencji</p><p>domowa</p></li><li><p>Wersja produktu</p><p>pudełkowa</p></li><li><p>Nośnik</p><p>płyta</p></li><li><p>Rodzaj licencji</p><p>nowa licencja</p></li><li><p>Okres licencji</p><p>wieczysta</p></li><li><p>Architektura</p><p>64 bit</p></li><li><p>Wersja językowa</p><p>polska</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Microsoft</p></li><li><p>Dane producenta</p><p>Microsoft Polska Sp. z o.o., Al. Jerozolimskie 195A, 02-222 Warszawa,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/microsoft.jpg",
+    "images": [
+        "galerie/s/system-operacyjny-microsoft-w_46796.webp",
+        "galerie/s/system-operacyjny-microsoft-w_46796.webp"
+    ]
+}
