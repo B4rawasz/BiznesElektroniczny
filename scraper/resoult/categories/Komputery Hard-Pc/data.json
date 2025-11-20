@@ -1,0 +1,31 @@
+{
+    "name": "Komputery Hard-Pc",
+    "description": "<h1>Komputery Hard-Pc</h1><p>Gotowe zestawy komputerowe to idealne rozwiązanie dla tych, którzy cenią sobie wygodę i bezpieczeństwo zakupu. Dla osób bez zaawansowanej wiedzy technicznej, samodzielny dobór podzespołów oraz montaż komputera może być ryzykowny i czasochłonny. Nasze zestawy oferują gotową konfigurację, która pozwala na natychmiastowe korzystanie z komputera po wyjęciu go z pudełka – wystarczy nacisnąć przycisk POWER.</p>",
+    "description_long": "<h2>Dlaczego warto nam zaufać?</h2><p>Oferujemy zestawy komputerowe zaprojektowane przez ekspertów z ponad 10-letnim doświadczeniem. Dobieramy tylko sprawdzone komponenty, aby zapewnić najwyższą jakość i wydajność. Każdy zakupiony zestaw jest w pełni zaktualizowany – instalujemy system operacyjny, sterowniki, a także przeprowadzamy overclocking, co zwiększa wydajność w grach i aplikacjach. Wybierając nasz sprzęt, unikasz pułapek niskiej jakości komponentów i zyskujesz pewność, że Twój komputer będzie gotowy na przyszłą modernizację.</p><p>Zaufaj profesjonalistom i ciesz się bezproblemową rozgrywką od pierwszego uruchomienia!</p>",
+    "sub_images": [
+        {
+            "name": "Złóż komputer",
+            "image_url": "SUCRO/komputery-hardpc/zloz.webp"
+        },
+        {
+            "name": "Zestaw komputerowy do 2500 zł",
+            "image_url": "SUCRO/komputery-hardpc/2500.webp"
+        },
+        {
+            "name": "Zestaw komputerowy do 3000 zł",
+            "image_url": "SUCRO/komputery-hardpc/3000.webp"
+        },
+        {
+            "name": "Zestaw komputerowy do 4000 zł",
+            "image_url": "SUCRO/komputery-hardpc/4000.webp"
+        },
+        {
+            "name": "Zestaw komputerowy > 4000 zł",
+            "image_url": "SUCRO/komputery-hardpc/4000plus.webp"
+        },
+        {
+            "name": "Komputery Extreme Hardware",
+            "image_url": "SUCRO/komputery-hardpc/eh.webp"
+        }
+    ]
+}

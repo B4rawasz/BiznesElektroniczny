@@ -1,0 +1,23 @@
+{
+    "name": "Klawiatury Gamingowe",
+    "description": "<h1>Klawiatury Gamingowe - wybierz najlepszy sprzęt do gier</h1><p align=\"justify\">Odpowiednio dobrana <strong>klawiatura gamingowa</strong> to jeden z najważniejszych elementów stanowiska gracza. W Hard-PC znajdziesz szeroki wybór modeli – od konstrukcji TKL, przez kompaktowe rozwiązania, po pełnowymiarowe <strong>klawiatury dla gracza</strong> z blokiem numerycznym. Oferujemy zarówno <a href=\"k556,strefa-gracza-klawiatury-gamingowe-klawiatury-mechaniczne.html\"><strong>klawiatury mechaniczne</strong></a> czy zaawansowane technologicznie <a href=\"k660,strefa-gracza-klawiatury-gamingowe-klawiatury-magnetyczne.html\"><strong>klawiatury magnetyczne</strong></a>, które gwarantują precyzję i błyskawiczny czas reakcji, jak i <a href=\"k661,strefa-gracza-klawiatury-gamingowe-klawiatury-membranowe-i-nozycowe.html\"><strong>klawiatury membranowe</strong></a> dla osób ceniących cichą pracę i korzystną cenę.</p><p align=\"JUSTIFY\" style=\"padding-top: 2%;\"><a href=\"#czytaj_wiecej\" style=\"color: #4479c2;\">Czytaj więcej</a></p>",
+    "description_long": "<p align=\"JUSTIFY\" id=\"czytaj_wiecej\"> </p><h2>Podświetlenie RGB i dodatkowe funkcje</h2><p>Efektowne <strong>podświetlenie RGB</strong> to nie tylko walory wizualne – w dynamicznych tytułach umożliwia szybką orientację na klawiszach i poprawia komfort gry w słabym świetle. W naszej ofercie znajdziesz <strong>klawiatury RGB</strong> z możliwością personalizacji kolorów, programowalnymi klawiszami makro oraz zintegrowanymi <strong>podkładkami pod nadgarstki</strong>. Dostępne są także modele z różnymi typami <strong>przełączników mechanicznych</strong>, dzięki czemu dopasujesz klawiaturę do swojego stylu gry – od liniowych, przez dotykowe, po klikające.</p><h2>Akcesoria do klawiatur gamingowych</h2><p align=\"justify\">W tej kategorii znajdziesz nie tylko gotowe <strong>klawiatury do gier</strong>, ale też szeroki wybór akcesoriów, które pozwolą Ci spersonalizować sprzęt. Oferujemy <strong>keycapy</strong> w różnych profilach i kolorach, <strong>nakładki na klawisze</strong> o unikalnych kształtach, a także <strong>kable do klawiatur mechanicznych</strong> – proste, spiralne, w oplocie lub z wymiennymi końcówkami. Dla wymagających dostępne są również <strong>stabilizatory klawiaturowe</strong> oraz zestawy <strong>przełączników mechanicznych</strong>, które umożliwiają wymianę lub modyfikację klawiatury według własnych preferencji.</p><h2>Jak wybrać klawiaturę do gier?</h2><p align=\"justify\">Przy wyborze warto określić, czy potrzebujesz sprzętu do e-sportu, pracy, czy uniwersalnego zastosowania. <strong>Klawiatura mechaniczna</strong> lub <strong>magnetyczna</strong> zapewni największą trwałość i szybkość reakcji, natomiast <strong>klawiatura membranowa</strong> będzie cicha i tańsza. Jeśli grasz w nocy lub tworzysz klimatyczne stanowisko – postaw na <strong>klawiaturę RGB</strong>. Dopełnieniem będą odpowiednio dobrane <strong>keycapy</strong> oraz <strong>kable do klawiatur</strong>, które nadadzą Twojemu zestawowi unikalny wygląd i zwiększą ergonomię.</p>",
+    "sub_images": [
+        {
+            "name": "Klawiatury mechaniczne",
+            "image_url": "SUCRO/strefa-gracza/klawiatury-mechaniczne.webp"
+        },
+        {
+            "name": "Klawiatury magnetyczne",
+            "image_url": "SUCRO/strefa-gracza/klawiatura-magnetyczna.webp"
+        },
+        {
+            "name": "Klawiatury membranowe",
+            "image_url": "SUCRO/strefa-gracza/klawiatura-membranowa.webp"
+        },
+        {
+            "name": "Akcesoria do klawiatur",
+            "image_url": "SUCRO/strefa-gracza/akcesoria-do-klawiatur.webp"
+        }
+    ]
+}

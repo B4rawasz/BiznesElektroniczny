@@ -21,6 +21,7 @@ def main():
             cats = data.get("category") or []
             ref = items
             for cat in cats:
+                print("Processing category:", cat)
                 if cat not in ref:
                     ref[cat] = {}
 

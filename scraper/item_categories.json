@@ -1,0 +1,138 @@
+{
+  "Hard-PC.pl": {
+    "Akcesoria sieciowe": {
+      "Access Pointy": {},
+      "Kable": {},
+      "Karty sieciowe": {},
+      "Repeatery": {},
+      "Routery": {},
+      "Switche": {}
+    },
+    "Dom i Biuro": {
+      "Akcesoria biurowe": {},
+      "Akcesoria dla zwierząt": {},
+      "Akcesoria kuchenne": {
+        "Akcesoria": {},
+        "Noże kuchenne": {}
+      },
+      "Narzędzia": {},
+      "Odzież": {},
+      "Smart Home": {
+        "Czujniki": {},
+        "Dla dziecka": {},
+        "Elektryka i oświetlenie": {},
+        "Monitoring i zabezpieczenia": {},
+        "Nawilżacze": {},
+        "Oczyszczacze": {},
+        "Odkurzacze": {},
+        "Ogrzewanie": {}
+      },
+      "Sport": {},
+      "Zdrowie i uroda": {}
+    },
+    "Komputery Hard-Pc": {
+      "Zestaw komputerowy do 2500 zł": {},
+      "Zestaw komputerowy do 3000 zł": {},
+      "Zestaw komputerowy do 4000 zł": {},
+      "Zestaw komputerowy > 4000 zł": {}
+    },
+    "Monitory": {
+      "Akcesoria do monitorów": {},
+      "Monitory": {},
+      "Uchwyty na monitor": {}
+    },
+    "Podzespoły komputerowe": {
+      "Chłodzenie": {
+        "Alkohol Izopropylowy (Kontakt IPA)": {},
+        "Chłodzenia na CPU": {},
+        "Chłodzenia na SSD, NB, VGA": {},
+        "Chłodzenia notebooków": {},
+        "Chłodzenie wodne - zestawy AiO": {},
+        "Pasty termoprzewodzące": {},
+        "Thermalpady": {},
+        "Wentylatory 120mm": {},
+        "Wentylatory 140mm": {}
+      },
+      "Dyski": {
+        "Akcesoria": {},
+        "Dyski HDD": {},
+        "Dyski SSD": {}
+      },
+      "Karty graficzne": {
+        "NVIDIA": {}
+      },
+      "Obudowy": {
+        "Akcesoria": {},
+        "Obudowy bez okna": {},
+        "Obudowy z oknem": {},
+        "Obudowy z oświetleniem RGB i ARGB": {}
+      },
+      "Pamięć RAM": {
+        "DDR4": {},
+        "DDR5": {}
+      },
+      "Procesory": {
+        "Procesory AMD": {},
+        "Procesory Intel": {}
+      },
+      "Zasilacze": {
+        "Zarządzenie okablowaniem": {},
+        "Zasilacze 500W": {},
+        "Zasilacze 550W": {},
+        "Zasilacze 600W": {},
+        "Zasilacze 650W": {},
+        "Zasilacze 700W": {},
+        "Zasilacze poniżej 500W": {},
+        "Zasilacze powyżej 700W": {},
+        "Ładowarki": {}
+      }
+    },
+    "Stacje dokujące i kopiujące": {},
+    "Strefa Dźwięku": {
+      "Akcesoria": {},
+      "Głośniki - Zestawy 2.0": {},
+      "Głośniki - Zestawy 2.1": {},
+      "Głośniki - Zestawy 5.1": {},
+      "Głośniki przenośne": {},
+      "Karty dźwiękowe - Wzmacniacze DAC": {},
+      "Mikrofony": {},
+      "Słuchawki dokanałowe/douszne": {},
+      "Słuchawki nauszne/wokółuszne": {},
+      "Słuchawki VoIP/Telekom": {}
+    },
+    "Strefa Gracza": {
+      "Akcesoria dla streamera": {},
+      "Fotele i akcesoria": {
+        "Akcesoria do foteli": {},
+        "Fotele biurowe i ergonomiczne": {},
+        "Fotele gamingowe": {}
+      },
+      "Gamepady": {},
+      "Gry planszowe": {
+        "Akcesoria": {},
+        "Gry i systemy gier bitewnych": {}
+      },
+      "Kierownice i akcesoria": {},
+      "Klawiatury Gamingowe": {
+        "Akcesoria do klawiatur": {},
+        "Klawiatury magnetyczne": {},
+        "Klawiatury mechaniczne": {},
+        "Klawiatury membranowe i nożycowe": {}
+      },
+      "Myszki": {
+        "Akcesoria do myszek": {},
+        "Myszki bezprzewodowe": {},
+        "Myszki przewodowe": {}
+      },
+      "Podkładki": {
+        "Podkładki Control": {},
+        "Podkładki Medium": {},
+        "Podkładki Speed": {}
+      },
+      "Słuchawki dla graczy": {
+        "Słuchawki bezprzewodowe": {},
+        "Słuchawki przewodowe": {}
+      }
+    }
+  }
+}

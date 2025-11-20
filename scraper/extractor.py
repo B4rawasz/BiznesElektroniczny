@@ -10,6 +10,11 @@ import elements.photos as element_photos
 import elements.ID as element_id
 import elements.code as element_code
 
+import elements.category_name as element_category_name
+import elements.category_description as element_category_description
+import elements.category_description_long as element_category_description_long
+import elements.category_sub_images as element_category_sub_images
+
 def extract(page: BeautifulSoup) -> dict:
     result = {
         "category": [],
@@ -33,4 +38,18 @@ def extract(page: BeautifulSoup) -> dict:
     result["id"] = element_id.getID(page)
     result["code"] = element_code.getCode(page) 
 
+    return result
+
+def extract_category(page: BeautifulSoup) -> dict:
+    result = {
+        "name": "",
+        "description": "",
+        "description_long": "",
+        "sub_images": []
+        }
+
+    result["name"] = element_category_name.getName(page)
+    result["description"] = element_category_description.getDescription(page)
+    result["description_long"] = element_category_description_long.getDescription(page)
+    result["sub_images"] = element_category_sub_images.getSubCeategoryImages(page)
     return result

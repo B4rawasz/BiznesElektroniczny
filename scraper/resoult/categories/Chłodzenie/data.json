@@ -1,0 +1,43 @@
+{
+    "name": "Chłodzenie",
+    "description": "<h1>Chłodzenie</h1>",
+    "description_long": "",
+    "sub_images": [
+        {
+            "name": "Chłodzenie wodne - zestawy AiO",
+            "image_url": "SUCRO/chlodzenie/aio.webp"
+        },
+        {
+            "name": "Chłodzenia na CPU",
+            "image_url": "SUCRO/chlodzenie/cpu.webp"
+        },
+        {
+            "name": "Chłodzenia na SSD, NB, VGA",
+            "image_url": "SUCRO/chlodzenie/ssd.webp"
+        },
+        {
+            "name": "Chłodzenia notebooków",
+            "image_url": "SUCRO/chlodzenie/notebook.webp"
+        },
+        {
+            "name": "Wentylatory 120mm",
+            "image_url": "SUCRO/chlodzenie/120.webp"
+        },
+        {
+            "name": "Wentylatory 140mm",
+            "image_url": "SUCRO/chlodzenie/140.webp"
+        },
+        {
+            "name": "Pasty termoprzewodzące",
+            "image_url": "SUCRO/chlodzenie/pasty.webp"
+        },
+        {
+            "name": "Thermalpady",
+            "image_url": "SUCRO/chlodzenie/thermalpady.webp"
+        },
+        {
+            "name": "Alkohol Izopropylowy (Kontakt IPA)",
+            "image_url": "SUCRO/chlodzenie/IPA.webp"
+        }
+    ]
+}
