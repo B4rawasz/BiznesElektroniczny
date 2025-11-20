@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "20432",
-    "code": "NEPH-022",
-    "name": "Zasilacz Phanteks AMP GH 750W 80+ Gold Black",
-    "price": 483.9,
-    "description": "<h2>Mocny i niezawodny zasilacz gamingowy</h2><p><strong>Phanteks AMP GH 750W</strong> to wydajny zasilacz ATX 3.1, który zapewnia niezawodne zasilanie sprzętu gamingowego. Kompaktowa konstrukcja o głębokości zaledwie 140 mm pozwala na montaż w większości obudów, a certyfikat <strong>80 PLUS Gold</strong> gwarantuje wysoką efektywność energetyczną. W pełni modułowa budowa z indywidualnie ekranowanymi i teksturowanymi kablami ułatwia instalację i poprawia estetykę systemu.</p><h2>Zasilacz ATX 3.1 ze złączem PCIe 5.1</h2><p>Seria AMP-GH spełnia standardy <strong>ATX 3.0 i 3.1</strong>, co czyni ją kompatybilną z najnowszymi komponentami. Wyposażenie w złącze <strong>12 V 2x6 PCIe 5.1</strong> zapewnia gotowość do obsługi aktualnych i przyszłych zaawansowanych kart graficznych.</p><h2>Maksymalna elastyczność i modułowa konstrukcja</h2><p>Pozłacane złącza redukują rezystancję, poprawiając wydajność i stabilność działania. Zasilacz dostarczany jest z pełnym zestawem kabli do płyty głównej, procesora, kart PCIe, SATA oraz Molex, co umożliwia elastyczne dopasowanie do indywidualnych potrzeb i porządek w okablowaniu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wydajny zasilacz ATX 3.1 o mocy 750 W do komputerów klasy high-end</li><li>Certyfikat 80 PLUS Gold dzięki wysokiej sprawności sięgającej 92%</li><li>Cichy wentylator 120 mm z łożyskiem ślizgowym hydrodynamicznym zapewniającym wydajne chłodzenie</li><li>Mniej plątaniny kabli i lepszy przepływ powietrza dzięki modułowemu zarządzaniu kablami</li><li>Kable z indywidualnie teksturowanymi wiązkami kablowymi dla uporządkowanej konstrukcji</li><li>Cicha praca po naciśnięciu przycisku dzięki półpasywnemu trybowi hybrydowemu</li><li>Zawiera kabel zasilający 12 V 2x6 do wydajnych kart graficznych</li></ul><h2>Dane techniczne zasilacza Phanteks AMP GH 750W</h2><ul class=\"list-specification\"><li><p>Wymiary (szer. × wys. × głęb.)</p><p>150 × 86 × 140 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Wentylator</p><p>120 mm PWM (FDB, półpasywny tryb hybrydowy przy obciążeniu poniżej 40%)</p></li><li><p>Standard</p><p>ATX 3.0 / 3.1</p></li><li><p>Sprawność</p><p>90% / 92% / 89% przy 20% / 50% / 100% obciążenia (napięcie wejściowe 230 V), certyfikat 80 PLUS Gold</p></li><li><p>Moc</p><p>750 W</p></li><li><p>Specyfikacja prądowa linii:</p><p>+3,3 V: 20 A / 66 W<br/>+5 V: 20 A / 100 W<br/>+3,3 V i +5 V (łącznie): 100 W<br/>+12 V: 62 A / 744 W (łącznie)<br/>-12 V: 0,3 A / 3,6 W<br/>+5 Vsb: 2,5 A / 12,5 W</p></li><li><p>Gniazda zasilania (modułowe)</p><p>1x 18+10-pin (płyta główna)<br/>5x 8-pin (CPU/PCIe)<br/>3x 6-pin (SATA/Molex)<br/>1x 12V-2x6 (GPU)</p></li><li><p>Obwody zabezpieczające</p><p>OVP – ochrona przed przepięciem i podnapięciem<br/>UVP – ochrona przed podnapięciem<br/>SCP – ochrona przed zwarciem<br/>OPP – ochrona przed przeciążeniem<br/>OTP – ochrona przed przegrzaniem<br/>OCP – ochrona nadprądowa Zabezpieczenie przed brakiem obciążenia Zabezpieczenie przed resetem</p></li><li><p>Zawartość opakowania</p><p>1x zasilacz Phanteks AMP GH 750W 80 PLUS Gold, PCIe 5.1, ATX 3.1 – czarny<br/>1x kabel zasilający C13 (1,5 m)</p></li><li><p>Kable modularne:</p><p>1x 18+10-pin do 24-pin (610 mm)<br/>2x 8-pin do 4+4-pin (650 mm)<br/>3x 8-pin do 6+2-pin (750 mm)<br/>1x 12V-2x6 do 12V-2x6 (720 mm)<br/>2x 6-pin do 4x SATA, w tym 3x kątowe 90° (450 - 150 - 150 - 150 mm)<br/>1x 6-pin do 2x SATA, 90° + 2x Molex (450 - 150 - 150 - 150 - 150 mm)</p></li><li><p>Akcesoria</p><p>1x instrukcja obsługi<br/>1x instrukcja instalacji<br/>1x torba na zasilacz<br/>1x zworka zasilacza<br/>1x opaski kablowe<br/>1x zestaw śrub<br/>1x rzep</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/phanteks.jpg",
-    "images": [
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77204.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77203.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77201.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77202.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77205.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77204.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77203.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77201.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77202.webp",
-        "galerie/z/zasilacz-phanteks-amp-gh-750w_77205.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "20432",
+  "code": "NEPH-022",
+  "name": "Zasilacz Phanteks AMP GH 750W 80+ Gold Black",
+  "price": 483.9,
+  "description": "<h2>Mocny i niezawodny zasilacz gamingowy</h2><p><strong>Phanteks AMP GH 750W</strong> to wydajny zasilacz ATX 3.1, który zapewnia niezawodne zasilanie sprzętu gamingowego. Kompaktowa konstrukcja o głębokości zaledwie 140 mm pozwala na montaż w większości obudów, a certyfikat <strong>80 PLUS Gold</strong> gwarantuje wysoką efektywność energetyczną. W pełni modułowa budowa z indywidualnie ekranowanymi i teksturowanymi kablami ułatwia instalację i poprawia estetykę systemu.</p><h2>Zasilacz ATX 3.1 ze złączem PCIe 5.1</h2><p>Seria AMP-GH spełnia standardy <strong>ATX 3.0 i 3.1</strong>, co czyni ją kompatybilną z najnowszymi komponentami. Wyposażenie w złącze <strong>12 V 2x6 PCIe 5.1</strong> zapewnia gotowość do obsługi aktualnych i przyszłych zaawansowanych kart graficznych.</p><h2>Maksymalna elastyczność i modułowa konstrukcja</h2><p>Pozłacane złącza redukują rezystancję, poprawiając wydajność i stabilność działania. Zasilacz dostarczany jest z pełnym zestawem kabli do płyty głównej, procesora, kart PCIe, SATA oraz Molex, co umożliwia elastyczne dopasowanie do indywidualnych potrzeb i porządek w okablowaniu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wydajny zasilacz ATX 3.1 o mocy 750 W do komputerów klasy high-end</li><li>Certyfikat 80 PLUS Gold dzięki wysokiej sprawności sięgającej 92%</li><li>Cichy wentylator 120 mm z łożyskiem ślizgowym hydrodynamicznym zapewniającym wydajne chłodzenie</li><li>Mniej plątaniny kabli i lepszy przepływ powietrza dzięki modułowemu zarządzaniu kablami</li><li>Kable z indywidualnie teksturowanymi wiązkami kablowymi dla uporządkowanej konstrukcji</li><li>Cicha praca po naciśnięciu przycisku dzięki półpasywnemu trybowi hybrydowemu</li><li>Zawiera kabel zasilający 12 V 2x6 do wydajnych kart graficznych</li></ul><h2>Dane techniczne zasilacza Phanteks AMP GH 750W</h2><ul class=\"list-specification\"><li><p>Wymiary (szer. × wys. × głęb.)</p><p>150 × 86 × 140 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Wentylator</p><p>120 mm PWM (FDB, półpasywny tryb hybrydowy przy obciążeniu poniżej 40%)</p></li><li><p>Standard</p><p>ATX 3.0 / 3.1</p></li><li><p>Sprawność</p><p>90% / 92% / 89% przy 20% / 50% / 100% obciążenia (napięcie wejściowe 230 V), certyfikat 80 PLUS Gold</p></li><li><p>Moc</p><p>750 W</p></li><li><p>Specyfikacja prądowa linii:</p><p>+3,3 V: 20 A / 66 W<br/>+5 V: 20 A / 100 W<br/>+3,3 V i +5 V (łącznie): 100 W<br/>+12 V: 62 A / 744 W (łącznie)<br/>-12 V: 0,3 A / 3,6 W<br/>+5 Vsb: 2,5 A / 12,5 W</p></li><li><p>Gniazda zasilania (modułowe)</p><p>1x 18+10-pin (płyta główna)<br/>5x 8-pin (CPU/PCIe)<br/>3x 6-pin (SATA/Molex)<br/>1x 12V-2x6 (GPU)</p></li><li><p>Obwody zabezpieczające</p><p>OVP – ochrona przed przepięciem i podnapięciem<br/>UVP – ochrona przed podnapięciem<br/>SCP – ochrona przed zwarciem<br/>OPP – ochrona przed przeciążeniem<br/>OTP – ochrona przed przegrzaniem<br/>OCP – ochrona nadprądowa Zabezpieczenie przed brakiem obciążenia Zabezpieczenie przed resetem</p></li><li><p>Zawartość opakowania</p><p>1x zasilacz Phanteks AMP GH 750W 80 PLUS Gold, PCIe 5.1, ATX 3.1 – czarny<br/>1x kabel zasilający C13 (1,5 m)</p></li><li><p>Kable modularne:</p><p>1x 18+10-pin do 24-pin (610 mm)<br/>2x 8-pin do 4+4-pin (650 mm)<br/>3x 8-pin do 6+2-pin (750 mm)<br/>1x 12V-2x6 do 12V-2x6 (720 mm)<br/>2x 6-pin do 4x SATA, w tym 3x kątowe 90° (450 - 150 - 150 - 150 mm)<br/>1x 6-pin do 2x SATA, 90° + 2x Molex (450 - 150 - 150 - 150 - 150 mm)</p></li><li><p>Akcesoria</p><p>1x instrukcja obsługi<br/>1x instrukcja instalacji<br/>1x torba na zasilacz<br/>1x zworka zasilacza<br/>1x opaski kablowe<br/>1x zestaw śrub<br/>1x rzep</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77204.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77203.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77201.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77202.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77205.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77204.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77203.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77201.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77202.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77205.webp"
+  ],
+  "manufacturer": "Phanteks"
 }

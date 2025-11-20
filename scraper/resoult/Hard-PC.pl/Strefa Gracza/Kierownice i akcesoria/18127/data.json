@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18127",
-    "code": "GAJO-700",
-    "name": "Skrzynia sekwencyjna Moza SPG Shifter",
-    "price": 655.9,
-    "description": "<p>Wykonana z aluminium lotniczego i stali o wysokiej wytrzymałości z technologią cięcia lustrzanego CNC, manetka MOZA SGP prezentuje elegancką metaliczną teksturę i niezrównaną trwałość. Precyzyjna konstrukcja zapewnia dokładną zmianę przełożeń, zapewniając wciągające wrażenia z wyścigów, a technologia bezkontaktowego czujnika Halla zapewnia stabilną i niezawodną zmianę przełożeń.</p><p>Manetka oferuje nie tylko szybką zmianę biegów, ale także dwa podświetlane przyciski mechaniczne RGB z ośmioma opcjami kolorów dla wygodnej personalizacji. Dzięki regulowanym amortyzatorom i możliwości personalizacji gałki zmiany biegów, MOZA SGP Shifter dodaje Twojemu zestawowi do gier odrobinę więcej.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>320 x 182 x 52 mm (szer. x wys. x głęb.)</p></li><li><p>Materiał</p><p>plastik, metal</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Kompatybilność</p><p>komputer</p></li><li><p>Sterowanie</p><p>4</p></li><li><p>Regulacja wysokości</p><p>64 mm</p></li><li><p>Zakres dostawy</p><p>1x system mocowania kierownicy wyścigowej<br/>1x gałka kierownicy<br/>1x akcesoria</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66741.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66742.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66743.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66744.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66745.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66746.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66747.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66748.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66749.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66741.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66742.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66743.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66744.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66745.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66746.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66747.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66748.webp",
-        "galerie/s/skrzynia-sekwencyjna-moza-spg_66749.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18127",
+  "code": "GAJO-700",
+  "name": "Skrzynia sekwencyjna Moza SPG Shifter",
+  "price": 655.9,
+  "description": "<p>Wykonana z aluminium lotniczego i stali o wysokiej wytrzymałości z technologią cięcia lustrzanego CNC, manetka MOZA SGP prezentuje elegancką metaliczną teksturę i niezrównaną trwałość. Precyzyjna konstrukcja zapewnia dokładną zmianę przełożeń, zapewniając wciągające wrażenia z wyścigów, a technologia bezkontaktowego czujnika Halla zapewnia stabilną i niezawodną zmianę przełożeń.</p><p>Manetka oferuje nie tylko szybką zmianę biegów, ale także dwa podświetlane przyciski mechaniczne RGB z ośmioma opcjami kolorów dla wygodnej personalizacji. Dzięki regulowanym amortyzatorom i możliwości personalizacji gałki zmiany biegów, MOZA SGP Shifter dodaje Twojemu zestawowi do gier odrobinę więcej.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>320 x 182 x 52 mm (szer. x wys. x głęb.)</p></li><li><p>Materiał</p><p>plastik, metal</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Kompatybilność</p><p>komputer</p></li><li><p>Sterowanie</p><p>4</p></li><li><p>Regulacja wysokości</p><p>64 mm</p></li><li><p>Zakres dostawy</p><p>1x system mocowania kierownicy wyścigowej<br/>1x gałka kierownicy<br/>1x akcesoria</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66741.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66742.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66743.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66744.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66745.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66746.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66747.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66748.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66749.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66741.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66742.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66743.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66744.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66745.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66746.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66747.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66748.webp",
+    "galerie/s/skrzynia-sekwencyjna-moza-spg_66749.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki nauszne/wokółuszne"
-    ],
-    "id": "11848",
-    "code": "PRO-30-KHAKI",
-    "name": "Słuchawki OneOdio PRO-30 Studio Khaki",
-    "price": 166.9,
-    "description": "<p>Ciesz się doskonałym, basowym dźwiękiem i najwyższym komfortem dzięki słuchawkom monitorowym ONEODIO PRO-30. Duże, 50-milimetrowe przetworniki w połączeniu z magnesami neodymowymi zapewniają dźwięk stereo Hi-Fi. Co więcej, potężny bas, czysty wokal i wyraźne wysokie tony tworzą idealnie zrównoważony dźwięk. Słuchawki sprawdzą się do miksowania i masteringu utworów. ONEODIO PRO-30 to nieodłączny element wyposażenia każdego studia nagrań.</p><h2>Ulepszona wersja nauszników.</h2><p>Nauszniki zostały zaprojektowane w celu rozproszenia ciśnienia i gromadzącego się ciepła. W połączeniu z miękkim skórzanym pałąkiem zapewniają maksymalny komfort i doskonałą izolację. Długi przewód w stylu DJ-skim o długości prawie 3 metrów daje dużo swobody i wolności. Dodatkowo w zestawie znajduje się standardowa wtyczka 6,3 mm i wtyczka 3,5 mm. Kable bez problemu można odłączyć od słuchawek. W dużym stopniu ułatwia to przechowywanie i transport naszych słuchawek.</p><h2>Dźwięk który łączy.</h2><p>Technologia shareport umożliwia szeregowe podłączenie wielu słuchawek. Dzięki temu możesz dzielić się ulubioną muzyką czy filmem z rodziną i przyjaciółmi. Słuchawki ONEODIO PRO-30 są przeznaczone dla najnowszych generacji iPodów, iPhone’ów i iPadów. Ponadto współpracują ze wszystkimi Androidami, tabletami, odtwarzaczami mp3 i powiązanymi urządzeniami. Wysokiej jakości dźwięk, wyjątkowa trwałość i maksymalny komfort. To są słuchawki, których szukałeś.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Przetwornik: 50 mm</li><li>Impedancja: 32 Ω</li><li>Czułość: 110 dB +/- 3 dB</li><li>Pasmo przenoszenia: 20 – 20000 Hz</li><li>Typ wtyczki: 3,5 mm / 6,35 mm stereo</li><li>Kabel 1: kabel spiralny 1,5 m-3 m</li><li>Kabel 2: kabel 1,2 m z mikrofonem</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>OneOdio</p></li><li><p>Dane producenta</p><p>OneOdio, Flat 1506,15/F, Lucky Center, NO. 165-171, Want Chai Road, HongKong, Chiny, info@oneodio.pl</p></li><li><p>Podmiot odpowiedzialny</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/oneodio.jpg",
-    "images": [
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40676.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40677.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40678.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40679.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40675.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40680.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40674.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40681.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40682.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40676.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40677.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40678.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40679.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40675.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40680.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40674.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40681.webp",
-        "galerie/s/sluchawki-oneodio-pro-30-stud_40682.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki nauszne/wokółuszne"
+  ],
+  "id": "11848",
+  "code": "PRO-30-KHAKI",
+  "name": "Słuchawki OneOdio PRO-30 Studio Khaki",
+  "price": 166.9,
+  "description": "<p>Ciesz się doskonałym, basowym dźwiękiem i najwyższym komfortem dzięki słuchawkom monitorowym ONEODIO PRO-30. Duże, 50-milimetrowe przetworniki w połączeniu z magnesami neodymowymi zapewniają dźwięk stereo Hi-Fi. Co więcej, potężny bas, czysty wokal i wyraźne wysokie tony tworzą idealnie zrównoważony dźwięk. Słuchawki sprawdzą się do miksowania i masteringu utworów. ONEODIO PRO-30 to nieodłączny element wyposażenia każdego studia nagrań.</p><h2>Ulepszona wersja nauszników.</h2><p>Nauszniki zostały zaprojektowane w celu rozproszenia ciśnienia i gromadzącego się ciepła. W połączeniu z miękkim skórzanym pałąkiem zapewniają maksymalny komfort i doskonałą izolację. Długi przewód w stylu DJ-skim o długości prawie 3 metrów daje dużo swobody i wolności. Dodatkowo w zestawie znajduje się standardowa wtyczka 6,3 mm i wtyczka 3,5 mm. Kable bez problemu można odłączyć od słuchawek. W dużym stopniu ułatwia to przechowywanie i transport naszych słuchawek.</p><h2>Dźwięk który łączy.</h2><p>Technologia shareport umożliwia szeregowe podłączenie wielu słuchawek. Dzięki temu możesz dzielić się ulubioną muzyką czy filmem z rodziną i przyjaciółmi. Słuchawki ONEODIO PRO-30 są przeznaczone dla najnowszych generacji iPodów, iPhone’ów i iPadów. Ponadto współpracują ze wszystkimi Androidami, tabletami, odtwarzaczami mp3 i powiązanymi urządzeniami. Wysokiej jakości dźwięk, wyjątkowa trwałość i maksymalny komfort. To są słuchawki, których szukałeś.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Przetwornik: 50 mm</li><li>Impedancja: 32 Ω</li><li>Czułość: 110 dB +/- 3 dB</li><li>Pasmo przenoszenia: 20 – 20000 Hz</li><li>Typ wtyczki: 3,5 mm / 6,35 mm stereo</li><li>Kabel 1: kabel spiralny 1,5 m-3 m</li><li>Kabel 2: kabel 1,2 m z mikrofonem</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>OneOdio</p></li><li><p>Dane producenta</p><p>OneOdio, Flat 1506,15/F, Lucky Center, NO. 165-171, Want Chai Road, HongKong, Chiny, info@oneodio.pl</p></li><li><p>Podmiot odpowiedzialny</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/oneodio.jpg",
+  "images": [
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40676.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40677.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40678.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40679.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40675.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40680.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40674.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40681.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40682.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40676.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40677.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40678.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40679.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40675.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40680.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40674.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40681.webp",
+    "galerie/s/sluchawki-oneodio-pro-30-stud_40682.webp"
+  ],
+  "manufacturer": "OneOdio"
 }

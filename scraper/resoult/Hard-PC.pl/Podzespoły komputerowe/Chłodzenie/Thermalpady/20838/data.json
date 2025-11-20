@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Thermalpady"
-    ],
-    "id": "20838",
-    "code": "PH-GC-02-I",
-    "name": "Thermalpad Gelid HeatPhase Ultra Intel PTM PH-GC-02-I",
-    "price": 16.9,
-    "description": "<h2>Gelid Heat Phase Ultra (PTM) – innowacyjne połączenie pasty i pada termicznego</h2><p>Gelid Heat Phase Ultra (PTM) to rozwiązanie nowej generacji dla osób poszukujących maksymalnej wydajności chłodzenia. Produkt łączy w sobie cechy tradycyjnej pasty termoprzewodzącej oraz wygodnego w aplikacji pada termicznego. Dzięki formie cienkiego plastra dopasowanego do procesorów AMD i Intel, montaż jest szybki i intuicyjny – wystarczy odkleić folie ochronne i umieścić pad na układzie.</p><h2>Zaawansowana technologia przemiany fazowej</h2><p>Po osiągnięciu temperatury około 45℃ struktura Gelid Heat Phase Ultra staje się bardziej miękka i plastyczna. Działa wówczas jak wysokiej klasy pasta termoprzewodząca, doskonale wypełniając mikroszczeliny pomiędzy powierzchnią procesora a radiatorem lub blokiem wodnym. Efektem jest stabilna i wydajna praca systemu chłodzenia nawet w najbardziej wymagających warunkach.</p><h2>Bezpieczeństwo i wszechstronność</h2><p>Gelid Heat Phase Ultra nie przewodzi prądu elektrycznego, dzięki czemu jest całkowicie bezpieczny w użyciu. Może być stosowany nie tylko na procesorach CPU, ale również na pamięciach RAM, układach zasilania płyty głównej czy procesorach graficznych GPU. Wysoka jakość materiałów gwarantuje długą żywotność bez utraty właściwości termicznych.</p><h2>Łatwa aplikacja i demontaż</h2><p>Montaż jest niezwykle prosty – wystarczy odkleić pierwszą folię zabezpieczającą, przyłożyć pad do powierzchni procesora i równomiernie docisnąć np. krawędzią karty płatniczej. Następnie usuwa się drugą folię i montuje radiator lub blok chłodzący. W razie potrzeby produkt można bezproblemowo usunąć nawet po długim okresie eksploatacji.</p><h2>Dlaczego warto wybrać Gelid Heat Phase Ultra?</h2><p>Ten innowacyjny pad termiczny gwarantuje wysoką przewodność cieplną, łatwość użycia, trwałość i pełne bezpieczeństwo pracy. To doskonałe rozwiązanie zarówno dla entuzjastów komputerowych, jak i początkujących użytkowników, którzy chcą poprawić efektywność chłodzenia bez ryzyka błędów montażowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>40 × 40 × 0.2 mm</p></li><li><p>Przewodność termiczna</p><p>8.5 W/mK</p></li><li><p>Gęstość</p><p>2.8 ±0.2 g/cm³</p></li><li><p>Rezystywność objętościowa</p><p>1.0 × 10¹² Ω·cm</p></li><li><p>Temperatura pracy</p><p>-50 ~ 125℃</p></li><li><p>Temperatura przemiany fazowej</p><p>45℃</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/gelid.jpg",
-    "images": [
-        "galerie/t/thermalpad-gelid-heatphase-ul_78427.webp",
-        "galerie/t/thermalpad-gelid-heatphase-ul_78429.webp",
-        "galerie/t/thermalpad-gelid-heatphase-ul_78430.webp",
-        "galerie/t/thermalpad-gelid-heatphase-ul_78428.webp",
-        "galerie/t/thermalpad-gelid-heatphase-ul_78427.webp",
-        "galerie/t/thermalpad-gelid-heatphase-ul_78429.webp",
-        "galerie/t/thermalpad-gelid-heatphase-ul_78430.webp",
-        "galerie/t/thermalpad-gelid-heatphase-ul_78428.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "20838",
+  "code": "PH-GC-02-I",
+  "name": "Thermalpad Gelid HeatPhase Ultra Intel PTM PH-GC-02-I",
+  "price": 16.9,
+  "description": "<h2>Gelid Heat Phase Ultra (PTM) – innowacyjne połączenie pasty i pada termicznego</h2><p>Gelid Heat Phase Ultra (PTM) to rozwiązanie nowej generacji dla osób poszukujących maksymalnej wydajności chłodzenia. Produkt łączy w sobie cechy tradycyjnej pasty termoprzewodzącej oraz wygodnego w aplikacji pada termicznego. Dzięki formie cienkiego plastra dopasowanego do procesorów AMD i Intel, montaż jest szybki i intuicyjny – wystarczy odkleić folie ochronne i umieścić pad na układzie.</p><h2>Zaawansowana technologia przemiany fazowej</h2><p>Po osiągnięciu temperatury około 45℃ struktura Gelid Heat Phase Ultra staje się bardziej miękka i plastyczna. Działa wówczas jak wysokiej klasy pasta termoprzewodząca, doskonale wypełniając mikroszczeliny pomiędzy powierzchnią procesora a radiatorem lub blokiem wodnym. Efektem jest stabilna i wydajna praca systemu chłodzenia nawet w najbardziej wymagających warunkach.</p><h2>Bezpieczeństwo i wszechstronność</h2><p>Gelid Heat Phase Ultra nie przewodzi prądu elektrycznego, dzięki czemu jest całkowicie bezpieczny w użyciu. Może być stosowany nie tylko na procesorach CPU, ale również na pamięciach RAM, układach zasilania płyty głównej czy procesorach graficznych GPU. Wysoka jakość materiałów gwarantuje długą żywotność bez utraty właściwości termicznych.</p><h2>Łatwa aplikacja i demontaż</h2><p>Montaż jest niezwykle prosty – wystarczy odkleić pierwszą folię zabezpieczającą, przyłożyć pad do powierzchni procesora i równomiernie docisnąć np. krawędzią karty płatniczej. Następnie usuwa się drugą folię i montuje radiator lub blok chłodzący. W razie potrzeby produkt można bezproblemowo usunąć nawet po długim okresie eksploatacji.</p><h2>Dlaczego warto wybrać Gelid Heat Phase Ultra?</h2><p>Ten innowacyjny pad termiczny gwarantuje wysoką przewodność cieplną, łatwość użycia, trwałość i pełne bezpieczeństwo pracy. To doskonałe rozwiązanie zarówno dla entuzjastów komputerowych, jak i początkujących użytkowników, którzy chcą poprawić efektywność chłodzenia bez ryzyka błędów montażowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>40 × 40 × 0.2 mm</p></li><li><p>Przewodność termiczna</p><p>8.5 W/mK</p></li><li><p>Gęstość</p><p>2.8 ±0.2 g/cm³</p></li><li><p>Rezystywność objętościowa</p><p>1.0 × 10¹² Ω·cm</p></li><li><p>Temperatura pracy</p><p>-50 ~ 125℃</p></li><li><p>Temperatura przemiany fazowej</p><p>45℃</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gelid.jpg",
+  "images": [
+    "galerie/t/thermalpad-gelid-heatphase-ul_78427.webp",
+    "galerie/t/thermalpad-gelid-heatphase-ul_78429.webp",
+    "galerie/t/thermalpad-gelid-heatphase-ul_78430.webp",
+    "galerie/t/thermalpad-gelid-heatphase-ul_78428.webp",
+    "galerie/t/thermalpad-gelid-heatphase-ul_78427.webp",
+    "galerie/t/thermalpad-gelid-heatphase-ul_78429.webp",
+    "galerie/t/thermalpad-gelid-heatphase-ul_78430.webp",
+    "galerie/t/thermalpad-gelid-heatphase-ul_78428.webp"
+  ],
+  "manufacturer": "Gelid"
 }

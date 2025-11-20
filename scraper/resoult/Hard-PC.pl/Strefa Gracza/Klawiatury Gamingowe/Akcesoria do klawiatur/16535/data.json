@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Akcesoria do klawiatur"
-    ],
-    "id": "16535",
-    "code": "GAKC-448",
-    "name": "Przełączniki mechaniczne Ducky Kailh Midnight Pro - 110szt",
-    "price": 204.9,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Smarowanie</p><p>nie</p></li><li><p>Siła katywacji</p><p>45 g</p></li><li><p>Siła penetracji</p><p>48 g</p></li><li><p>Wysokość aktywacji</p><p>1.9 mm</p></li><li><p>Całkowita wysokość</p><p>4 mm</p></li><li><p>Złącze</p><p>5-pin</p></li><li><p>Kompatybilność z PCB</p><p>5-pin</p></li><li><p>Kompatybilność z LED</p><p>Tak</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ducky.jpg",
-    "images": [
-        "galerie/p/przelaczniki-mechaniczne-duck_59026.webp",
-        "galerie/p/przelaczniki-mechaniczne-duck_59027.webp",
-        "galerie/p/przelaczniki-mechaniczne-duck_59028.webp",
-        "galerie/p/przelaczniki-mechaniczne-duck_59026.webp",
-        "galerie/p/przelaczniki-mechaniczne-duck_59027.webp",
-        "galerie/p/przelaczniki-mechaniczne-duck_59028.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "16535",
+  "code": "GAKC-448",
+  "name": "Przełączniki mechaniczne Ducky Kailh Midnight Pro - 110szt",
+  "price": 204.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Smarowanie</p><p>nie</p></li><li><p>Siła katywacji</p><p>45 g</p></li><li><p>Siła penetracji</p><p>48 g</p></li><li><p>Wysokość aktywacji</p><p>1.9 mm</p></li><li><p>Całkowita wysokość</p><p>4 mm</p></li><li><p>Złącze</p><p>5-pin</p></li><li><p>Kompatybilność z PCB</p><p>5-pin</p></li><li><p>Kompatybilność z LED</p><p>Tak</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ducky.jpg",
+  "images": [
+    "galerie/p/przelaczniki-mechaniczne-duck_59026.webp",
+    "galerie/p/przelaczniki-mechaniczne-duck_59027.webp",
+    "galerie/p/przelaczniki-mechaniczne-duck_59028.webp",
+    "galerie/p/przelaczniki-mechaniczne-duck_59026.webp",
+    "galerie/p/przelaczniki-mechaniczne-duck_59027.webp",
+    "galerie/p/przelaczniki-mechaniczne-duck_59028.webp"
+  ],
+  "manufacturer": "Ducky"
 }

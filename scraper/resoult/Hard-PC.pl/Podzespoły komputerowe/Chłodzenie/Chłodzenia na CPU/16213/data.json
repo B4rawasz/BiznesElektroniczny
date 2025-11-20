@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia na CPU"
-    ],
-    "id": "16213",
-    "code": "PT-LGA1700-01",
-    "name": "Ramka do procesora Gelid CPU Protector Frame LGA1700",
-    "price": 39.0,
-    "description": "<p>Jeśli zależy Ci na zachowaniu bezpieczeństwa Twojego procesora podczas montażu, to ramka ochronna Gelid dla procesorów Intel LGA1700 z 12, 13 i 14 generacji to doskonały wybór! Dzięki precyzyjnemu procesowi obróbki CNC, nasz produkt wyróżnia się wyjątkowym wzornictwem o przemyślanym designie. Ramkę wykonano z trwałego aluminium AL6061 najwyższej jakości, co sprawia, że nie tylko jest funkcjonalny, ale również estetycznie prezentuje się w obudowie Twojego komputera.</p><p>Co więcej, ramka została poddany procesowi anodowania, co wzmacnia jego odporność na korozję, gwarantując długotrwałą ochronę Twojego procesora. Montaż naszego produktu jest niezwykle prosty, dzięki czemu nawet mniej doświadczeni użytkownicy poradzą sobie z jego instalacją.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/gelid.jpg",
-    "images": [
-        "galerie/r/ramka-do-procesora-gelid-cpu_57633.webp",
-        "galerie/r/ramka-do-procesora-gelid-cpu_57634.webp",
-        "galerie/r/ramka-do-procesora-gelid-cpu_57633.webp",
-        "galerie/r/ramka-do-procesora-gelid-cpu_57634.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "16213",
+  "code": "PT-LGA1700-01",
+  "name": "Ramka do procesora Gelid CPU Protector Frame LGA1700",
+  "price": 39.0,
+  "description": "<p>Jeśli zależy Ci na zachowaniu bezpieczeństwa Twojego procesora podczas montażu, to ramka ochronna Gelid dla procesorów Intel LGA1700 z 12, 13 i 14 generacji to doskonały wybór! Dzięki precyzyjnemu procesowi obróbki CNC, nasz produkt wyróżnia się wyjątkowym wzornictwem o przemyślanym designie. Ramkę wykonano z trwałego aluminium AL6061 najwyższej jakości, co sprawia, że nie tylko jest funkcjonalny, ale również estetycznie prezentuje się w obudowie Twojego komputera.</p><p>Co więcej, ramka została poddany procesowi anodowania, co wzmacnia jego odporność na korozję, gwarantując długotrwałą ochronę Twojego procesora. Montaż naszego produktu jest niezwykle prosty, dzięki czemu nawet mniej doświadczeni użytkownicy poradzą sobie z jego instalacją.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gelid.jpg",
+  "images": [
+    "galerie/r/ramka-do-procesora-gelid-cpu_57633.webp",
+    "galerie/r/ramka-do-procesora-gelid-cpu_57634.webp",
+    "galerie/r/ramka-do-procesora-gelid-cpu_57633.webp",
+    "galerie/r/ramka-do-procesora-gelid-cpu_57634.webp"
+  ],
+  "manufacturer": "Gelid"
 }

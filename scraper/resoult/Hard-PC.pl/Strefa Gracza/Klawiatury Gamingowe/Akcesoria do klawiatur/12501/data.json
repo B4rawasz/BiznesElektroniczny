@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Akcesoria do klawiatur"
-    ],
-    "id": "12501",
-    "code": "GAKC-100",
-    "name": "Smar do przełączników mechanicznych Glorious G-Lube",
-    "price": 44.9,
-    "description": "<p>Przełączniki mechaniczne wymagają od czasu do czasu trochę smaru, zwłaszcza po dokładnym ich wyczyszczeniu. Zwłaszcza dla entuzjastów i hobbystów smar stosowany standardowo w wielu przełącznikach jest w najlepszym razie niewystarczający.</p><p>Syntetyczny smar Glorious G-Lube został opracowany specjalnie dla przełączników mechanicznych, zarówno liniowych jak i dotykowych. Zawartość pozwala nasmarować około 500 przełączników.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Zawartość</p><p>10g</p></li><li><p>Kompatybilność</p><p>Przełączniki mechaniczne, sprężyny, stabilizatory</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/glorious.jpg",
-    "images": [
-        "galerie/s/smar-do-przelacznikow-mechani_44766.webp",
-        "galerie/s/smar-do-przelacznikow-mechani_44766.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "12501",
+  "code": "GAKC-100",
+  "name": "Smar do przełączników mechanicznych Glorious G-Lube",
+  "price": 44.9,
+  "description": "<p>Przełączniki mechaniczne wymagają od czasu do czasu trochę smaru, zwłaszcza po dokładnym ich wyczyszczeniu. Zwłaszcza dla entuzjastów i hobbystów smar stosowany standardowo w wielu przełącznikach jest w najlepszym razie niewystarczający.</p><p>Syntetyczny smar Glorious G-Lube został opracowany specjalnie dla przełączników mechanicznych, zarówno liniowych jak i dotykowych. Zawartość pozwala nasmarować około 500 przełączników.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Zawartość</p><p>10g</p></li><li><p>Kompatybilność</p><p>Przełączniki mechaniczne, sprężyny, stabilizatory</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/s/smar-do-przelacznikow-mechani_44766.webp",
+    "galerie/s/smar-do-przelacznikow-mechani_44766.webp"
+  ],
+  "manufacturer": "Glorious"
 }

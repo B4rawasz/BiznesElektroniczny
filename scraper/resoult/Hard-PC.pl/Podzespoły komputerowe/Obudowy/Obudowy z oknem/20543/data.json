@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy z oknem"
-    ],
-    "id": "20543",
-    "code": "GELI-976",
-    "name": "Obudowa Lian Li Vector V100 RGB Tempered Glass White",
-    "price": 349.0,
-    "description": "<h2>Obudowa Lian Li Vector V100 – przestrzeń, styl i chłodzenie na poziomie premium</h2><p>Lian Li Vector V100 to elegancka obudowa typu midi tower z hartowanym szkłem i efektownym podświetleniem ARGB. Oferuje miejsce na płyty główne ATX z technologią BackConnect, układy chłodzenia cieczą i powietrzem oraz wyjątkowy element personalizacji – wnękę na figurki lub inne gadżety. Zainstalowane fabrycznie cztery wentylatory 120 mm ARGB i przestrzeń na dodatkowe chłodzenie czynią z niej idealną bazę pod nowoczesny komputer gamingowy.</p><h2>Stworzona do prezentacji i personalizacji</h2><p>Vector V100 wyróżnia się panelem bocznym i frontowym z hartowanego szkła oraz paskami LED, które podkreślają estetykę wnętrza. Wnęka tuż za frontem z wymienną zaślepką pozwala wyeksponować ulubione figurki lub gadżety – to detal, który nadaje indywidualny charakter każdemu zestawowi.</p><h2>Efektywne chłodzenie i przestrzeń na rozbudowę</h2><p>W obudowie fabrycznie zainstalowano cztery wentylatory 120 mm ARGB – trzy boczne z odwróconymi łopatkami i jeden tylny. Dodatkowo można zamontować kolejne wentylatory na górze i na dole. Obsługuje chłodnice o długości do 360 mm. Filtr przeciwkurzowy na spodzie jest łatwy do demontażu i czyszczenia.</p><h2>Duża kompatybilność sprzętowa</h2><p>Vector V100 pomieści karty graficzne do 420 mm długości i chłodzenia CPU do 178 mm wysokości. Obsługuje zasilacze ATX o długości do 220 mm. Dzięki wsparciu dla płyt z BackConnect i przemyślanemu zarządzaniu kablami, złożony komputer prezentuje się wyjątkowo schludnie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ obudowy</p><p>Midi Tower</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Materiał</p><p>Stal, szkło hartowane</p></li><li><p>Kompatybilność płyt głównych</p><p>ATX, Micro-ATX, Mini-ITX</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>178 mm</p></li><li><p>Maksymalna długość GPU</p><p>420 mm</p></li><li><p>Maksymalna długość zasilacza</p><p>220 mm</p></li><li><p>Montaż zasilacza</p><p>Na dole (tył)</p></li><li><p>Format zasilacza</p><p>ATX</p></li><li><p>Wentylatory w zestawie</p><p>4 × 120 mm ARGB</p></li><li><p>Maksymalna liczba wentylatorów</p><p>9 × 120 mm / 6 × 140 mm</p></li><li><p>Obsługa chłodnic</p><p>1 × 360 mm (góra)</p></li><li><p>Zatoki 2.5\"</p><p>1</p></li><li><p>Zatoki 3.5\"</p><p>1</p></li><li><p>Zatoki 5.25\"</p><p>Brak</p></li><li><p>Sloty rozszerzeń</p><p>7</p></li><li><p>Złącza na panelu I/O</p><p>2 × USB 3.0, 1 × USB-C, 1 × combo audio 3.5 mm</p></li><li><p>Okno boczne</p><p>Tak (szkło hartowane)</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak (spód)</p></li><li><p>Zarządzanie kablami</p><p>Tak</p></li><li><p>Obsługa BackConnect</p><p>Tak</p></li><li><p>Wymiary (D×S×W)</p><p>446 × 235.5 × 484.65 mm</p></li><li><p>Zasilacz w zestawie</p><p>Nie</p></li><li><p>Czytnik kart</p><p>Nie</p></li><li><p>Kontroler wentylatorów</p><p>Nie</p></li><li><p>Mocowanie pionowe GPU</p><p>Nie</p></li><li><p>Kabel riser w zestawie</p><p>Nie</p></li><li><p>Uchwyt do przenoszenia</p><p>Nie</p></li><li><p>Seria</p><p>Lian Li Vector V100</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/o/obudowa-lian-li-vector-v100-r_77533.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77532.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77538.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77534.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77535.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77536.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77537.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77531.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77533.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77532.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77538.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77534.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77535.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77536.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77537.webp",
-        "galerie/o/obudowa-lian-li-vector-v100-r_77531.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "20543",
+  "code": "GELI-976",
+  "name": "Obudowa Lian Li Vector V100 RGB Tempered Glass White",
+  "price": 349.0,
+  "description": "<h2>Obudowa Lian Li Vector V100 – przestrzeń, styl i chłodzenie na poziomie premium</h2><p>Lian Li Vector V100 to elegancka obudowa typu midi tower z hartowanym szkłem i efektownym podświetleniem ARGB. Oferuje miejsce na płyty główne ATX z technologią BackConnect, układy chłodzenia cieczą i powietrzem oraz wyjątkowy element personalizacji – wnękę na figurki lub inne gadżety. Zainstalowane fabrycznie cztery wentylatory 120 mm ARGB i przestrzeń na dodatkowe chłodzenie czynią z niej idealną bazę pod nowoczesny komputer gamingowy.</p><h2>Stworzona do prezentacji i personalizacji</h2><p>Vector V100 wyróżnia się panelem bocznym i frontowym z hartowanego szkła oraz paskami LED, które podkreślają estetykę wnętrza. Wnęka tuż za frontem z wymienną zaślepką pozwala wyeksponować ulubione figurki lub gadżety – to detal, który nadaje indywidualny charakter każdemu zestawowi.</p><h2>Efektywne chłodzenie i przestrzeń na rozbudowę</h2><p>W obudowie fabrycznie zainstalowano cztery wentylatory 120 mm ARGB – trzy boczne z odwróconymi łopatkami i jeden tylny. Dodatkowo można zamontować kolejne wentylatory na górze i na dole. Obsługuje chłodnice o długości do 360 mm. Filtr przeciwkurzowy na spodzie jest łatwy do demontażu i czyszczenia.</p><h2>Duża kompatybilność sprzętowa</h2><p>Vector V100 pomieści karty graficzne do 420 mm długości i chłodzenia CPU do 178 mm wysokości. Obsługuje zasilacze ATX o długości do 220 mm. Dzięki wsparciu dla płyt z BackConnect i przemyślanemu zarządzaniu kablami, złożony komputer prezentuje się wyjątkowo schludnie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ obudowy</p><p>Midi Tower</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Materiał</p><p>Stal, szkło hartowane</p></li><li><p>Kompatybilność płyt głównych</p><p>ATX, Micro-ATX, Mini-ITX</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>178 mm</p></li><li><p>Maksymalna długość GPU</p><p>420 mm</p></li><li><p>Maksymalna długość zasilacza</p><p>220 mm</p></li><li><p>Montaż zasilacza</p><p>Na dole (tył)</p></li><li><p>Format zasilacza</p><p>ATX</p></li><li><p>Wentylatory w zestawie</p><p>4 × 120 mm ARGB</p></li><li><p>Maksymalna liczba wentylatorów</p><p>9 × 120 mm / 6 × 140 mm</p></li><li><p>Obsługa chłodnic</p><p>1 × 360 mm (góra)</p></li><li><p>Zatoki 2.5\"</p><p>1</p></li><li><p>Zatoki 3.5\"</p><p>1</p></li><li><p>Zatoki 5.25\"</p><p>Brak</p></li><li><p>Sloty rozszerzeń</p><p>7</p></li><li><p>Złącza na panelu I/O</p><p>2 × USB 3.0, 1 × USB-C, 1 × combo audio 3.5 mm</p></li><li><p>Okno boczne</p><p>Tak (szkło hartowane)</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak (spód)</p></li><li><p>Zarządzanie kablami</p><p>Tak</p></li><li><p>Obsługa BackConnect</p><p>Tak</p></li><li><p>Wymiary (D×S×W)</p><p>446 × 235.5 × 484.65 mm</p></li><li><p>Zasilacz w zestawie</p><p>Nie</p></li><li><p>Czytnik kart</p><p>Nie</p></li><li><p>Kontroler wentylatorów</p><p>Nie</p></li><li><p>Mocowanie pionowe GPU</p><p>Nie</p></li><li><p>Kabel riser w zestawie</p><p>Nie</p></li><li><p>Uchwyt do przenoszenia</p><p>Nie</p></li><li><p>Seria</p><p>Lian Li Vector V100</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/o/obudowa-lian-li-vector-v100-r_77533.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77532.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77538.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77534.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77535.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77536.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77537.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77531.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77533.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77532.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77538.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77534.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77535.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77536.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77537.webp",
+    "galerie/o/obudowa-lian-li-vector-v100-r_77531.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

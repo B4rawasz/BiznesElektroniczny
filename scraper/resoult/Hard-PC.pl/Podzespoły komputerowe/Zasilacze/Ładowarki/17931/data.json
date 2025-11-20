@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Ładowarki"
-    ],
-    "id": "17931",
-    "code": "CC-A4 BK",
-    "name": "Ładowarka samochodowa Aukey CC-A4 2x USB-C, PD 30W",
-    "price": 64.99,
-    "description": "<h2>Aukey CC-A4 - Power Delivery 30W</h2><p>Ładowarka samochodowa marki Aukey CC-A4 jest wyposażona w dwa porty USB-C. Nadaje się do szybkiego ładowania smartfonów, tabletów, Nintendo Switch, a nawet małych laptopów. Uwagę zwracają jej kompaktowy rozmiar oraz niewielka waga. Ładowarka nie tylko pasuje do standardowego gniazda zapalniczki w aucie, ale zupełnie się w nim chowa, nie zaburzając oryginalnego designu kokpitu. Co więcej, obsługuje zarówno USB Power Delivery, jak i Quick Charge 3.0, dzięki czemu maksymalnie szybko naładować można nią smartfony i tablety Apple oraz wybrane urządzenia z systemem Android.</p><h2>Niewielka, lekka, z protokołem PPS i z Dynamic Detect</h2><p>Na uwagę zasługują zarówno kompaktowy rozmiar ładowarki samochodowej Aukey CC-A4 (2.7 cm x 2.7 cm x 4 cm), jak i jej bardzo niewielka waga - zaledwie 17 gramów. Niech jednak nie zwiedzie Cię ani jedno, ani drugie - ten model otwiera zupełnie nowe możliwości jeśli chodzi o ładowanie urządzeń. Oferuje nie tylko Power Delivery do 30 W, ale posiada też zaawansowany protokół PPS, używany przez smartfony (m.in. marki Samsung). Optymalny rozdział mocy między dwoma portami USB-C (z możliwością skierowania całej mocy na jeden port) zapewnia z kolei Dynamic Detect. Ta ładowarka będzie nieoceniona w podróży - nieważne czy tej krótszej, czy dłuższej. Zawsze masz pewność, że Twoje urządzenia są naładowane.</p><h2>Odporna na uszkodzenia, ze składanym uchwytem, idealnie dopasowana</h2><p>Nie można nie wspomnieć o tym, że ładowarka samochodowa CC-A4 od Aukey charakteryzuje się bardzo eleganckim designem. Wykonana została ze stopu aluminium, jest zatem bardzo odporna na uszkodzenia, odznacza się niezwykłą trwałością, a także optymalnie odprowadza ciepło. Wisienką na torcie jest specjalny składany uchwyt, dzięki któremu bez problemu wyjmiesz ładowarkę z gniazda zapalniczki - bez niepotrzebnego szarpania, jak to nierzadko bywa z ładowarkami, które takiego udogodnienia nie posiadają. Na koniec informacja dla tych wszystkich, dla których szczególne znaczenie ma estetyka: ładowarka CC-A4 jest tak mała i tak dobrze dopasowana, że nie wystaje z gniazda zapalniczki w samochodzie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Technologie</p><p>USB PD</p></li><li><p>Maksymalna moc wyjściowa</p><p>30 W (Power Delivery)</p></li><li><p>Maksymalne wyjście dwuportowe</p><p>24 W</p></li><li><p>Porty</p><p>2 x USB-C</p></li><li><p>Materiał</p><p>stop aluminium</p></li><li><p>Wymiary</p><p>2.7 cm x 2.7 cm x 4 cm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Aukey</p></li><li><p>Dane producenta</p><p>AuGroup (SHENZHEN) Cross-Border Business Co., Ltd, Kangli information Valley Building, Shenzhen 518111, CHRL, support@aukey.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, aukey@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/aukey.jpg",
-    "images": [
-        "galerie/l/ladowarka-samochodowa-aukey-c_66318.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66319.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66320.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66321.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66322.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66323.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66324.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66325.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66318.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66319.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66320.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66321.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66322.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66323.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66324.webp",
-        "galerie/l/ladowarka-samochodowa-aukey-c_66325.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Ładowarki"
+  ],
+  "id": "17931",
+  "code": "CC-A4 BK",
+  "name": "Ładowarka samochodowa Aukey CC-A4 2x USB-C, PD 30W",
+  "price": 64.99,
+  "description": "<h2>Aukey CC-A4 - Power Delivery 30W</h2><p>Ładowarka samochodowa marki Aukey CC-A4 jest wyposażona w dwa porty USB-C. Nadaje się do szybkiego ładowania smartfonów, tabletów, Nintendo Switch, a nawet małych laptopów. Uwagę zwracają jej kompaktowy rozmiar oraz niewielka waga. Ładowarka nie tylko pasuje do standardowego gniazda zapalniczki w aucie, ale zupełnie się w nim chowa, nie zaburzając oryginalnego designu kokpitu. Co więcej, obsługuje zarówno USB Power Delivery, jak i Quick Charge 3.0, dzięki czemu maksymalnie szybko naładować można nią smartfony i tablety Apple oraz wybrane urządzenia z systemem Android.</p><h2>Niewielka, lekka, z protokołem PPS i z Dynamic Detect</h2><p>Na uwagę zasługują zarówno kompaktowy rozmiar ładowarki samochodowej Aukey CC-A4 (2.7 cm x 2.7 cm x 4 cm), jak i jej bardzo niewielka waga - zaledwie 17 gramów. Niech jednak nie zwiedzie Cię ani jedno, ani drugie - ten model otwiera zupełnie nowe możliwości jeśli chodzi o ładowanie urządzeń. Oferuje nie tylko Power Delivery do 30 W, ale posiada też zaawansowany protokół PPS, używany przez smartfony (m.in. marki Samsung). Optymalny rozdział mocy między dwoma portami USB-C (z możliwością skierowania całej mocy na jeden port) zapewnia z kolei Dynamic Detect. Ta ładowarka będzie nieoceniona w podróży - nieważne czy tej krótszej, czy dłuższej. Zawsze masz pewność, że Twoje urządzenia są naładowane.</p><h2>Odporna na uszkodzenia, ze składanym uchwytem, idealnie dopasowana</h2><p>Nie można nie wspomnieć o tym, że ładowarka samochodowa CC-A4 od Aukey charakteryzuje się bardzo eleganckim designem. Wykonana została ze stopu aluminium, jest zatem bardzo odporna na uszkodzenia, odznacza się niezwykłą trwałością, a także optymalnie odprowadza ciepło. Wisienką na torcie jest specjalny składany uchwyt, dzięki któremu bez problemu wyjmiesz ładowarkę z gniazda zapalniczki - bez niepotrzebnego szarpania, jak to nierzadko bywa z ładowarkami, które takiego udogodnienia nie posiadają. Na koniec informacja dla tych wszystkich, dla których szczególne znaczenie ma estetyka: ładowarka CC-A4 jest tak mała i tak dobrze dopasowana, że nie wystaje z gniazda zapalniczki w samochodzie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Technologie</p><p>USB PD</p></li><li><p>Maksymalna moc wyjściowa</p><p>30 W (Power Delivery)</p></li><li><p>Maksymalne wyjście dwuportowe</p><p>24 W</p></li><li><p>Porty</p><p>2 x USB-C</p></li><li><p>Materiał</p><p>stop aluminium</p></li><li><p>Wymiary</p><p>2.7 cm x 2.7 cm x 4 cm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Aukey</p></li><li><p>Dane producenta</p><p>AuGroup (SHENZHEN) Cross-Border Business Co., Ltd, Kangli information Valley Building, Shenzhen 518111, CHRL, support@aukey.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, aukey@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/aukey.jpg",
+  "images": [
+    "galerie/l/ladowarka-samochodowa-aukey-c_66318.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66319.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66320.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66321.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66322.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66323.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66324.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66325.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66318.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66319.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66320.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66321.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66322.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66323.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66324.webp",
+    "galerie/l/ladowarka-samochodowa-aukey-c_66325.webp"
+  ],
+  "manufacturer": "Aukey"
 }

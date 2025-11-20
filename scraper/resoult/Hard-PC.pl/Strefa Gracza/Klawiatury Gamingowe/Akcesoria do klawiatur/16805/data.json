@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Akcesoria do klawiatur"
-    ],
-    "id": "16805",
-    "code": "GAZU-238",
-    "name": "Podkładka pod nadgarstki Ducky (Skóra) - Black",
-    "price": 127.9,
-    "description": "<p>Dużo pisania lub długie godziny grania mogą obciążać nadgarstki. Ducky łagodzi ból ręki za pomocą podkładki pod nadgarstek, opierając ją na miękkiej skórze.</p><p>Ta podpórka pod nadgarstki składa się z wygodnej wyściółki o wysokości 20 mm, wykonanej z wysokiej jakości czarnej skóry naturalnej. Dzięki temu są nawet wodoodporne i odporne na pot. Będzie dla Ciebie wiernym towarzyszem przez długi czas. Czerwone szwy stanowią wizualny akcent. Podpórka pod nadgarstki firmy Ducky zapewnia maksymalny komfort przy biurku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary:</p><p>440 x 20 x 95 mm (szer. x wys. x gł.)</p></li><li><p>Materiał:</p><p>skóra bydlęca</p></li><li><p>Kolor:</p><p>czarny, czerwony</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ducky.jpg",
-    "images": [
-        "galerie/d/ducky-handgelenkunterlage-led_59950.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59951.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59952.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59953.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59954.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59955.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59950.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59951.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59952.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59953.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59954.webp",
-        "galerie/d/ducky-handgelenkunterlage-led_59955.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "16805",
+  "code": "GAZU-238",
+  "name": "Podkładka pod nadgarstki Ducky (Skóra) - Black",
+  "price": 127.9,
+  "description": "<p>Dużo pisania lub długie godziny grania mogą obciążać nadgarstki. Ducky łagodzi ból ręki za pomocą podkładki pod nadgarstek, opierając ją na miękkiej skórze.</p><p>Ta podpórka pod nadgarstki składa się z wygodnej wyściółki o wysokości 20 mm, wykonanej z wysokiej jakości czarnej skóry naturalnej. Dzięki temu są nawet wodoodporne i odporne na pot. Będzie dla Ciebie wiernym towarzyszem przez długi czas. Czerwone szwy stanowią wizualny akcent. Podpórka pod nadgarstki firmy Ducky zapewnia maksymalny komfort przy biurku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary:</p><p>440 x 20 x 95 mm (szer. x wys. x gł.)</p></li><li><p>Materiał:</p><p>skóra bydlęca</p></li><li><p>Kolor:</p><p>czarny, czerwony</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ducky.jpg",
+  "images": [
+    "galerie/d/ducky-handgelenkunterlage-led_59950.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59951.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59952.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59953.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59954.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59955.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59950.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59951.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59952.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59953.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59954.webp",
+    "galerie/d/ducky-handgelenkunterlage-led_59955.webp"
+  ],
+  "manufacturer": "Ducky"
 }

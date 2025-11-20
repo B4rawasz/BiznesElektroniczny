@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia notebooków"
-    ],
-    "id": "20369",
-    "code": "LS7",
-    "name": "Podstawka pod laptopa MOZOS LS7 metalowa",
-    "price": 69.0,
-    "description": "OPIS <h2>Mozos LS7 to wielofunkcyjny i solidny stolik do laptopa/miksera.</h2><p>Mozos LS7 zapewnia niezrównaną stabilność oraz wygodę użytkowania. Wykonany z wysokiej jakości stali, gwarantuje trwałość i odporność na uszkodzenia, dzięki czemu stanowi doskonałe rozwiązanie dla wymagających użytkowników. Niezależnie od tego, czy potrzebujesz wsparcia dla laptopa, miksera czy innego sprzętu, Mozos LS7 dostosuje się do Twoich potrzeb dzięki regulowanej wysokości, umożliwiając ergonomiczne ustawienie urządzenia. Antypoślizgowa ochrona w postaci podkładek EVA skutecznie zapobiega przesuwaniu się sprzętu oraz zabezpiecza go przed zarysowaniami. To niezwykle ważne, szczególnie podczas intensywnego użytkowania w różnych warunkach. Stojak Mozos LS7 cechuje się także kompaktową i lekką konstrukcją, co ułatwia jego transport oraz przechowywanie. To idealne rozwiązanie zarówno do pracy stacjonarnej, jak i w podróży.</p><h2>Wysoka stabilność i uniwersalne wymiary.</h2><p>Dzięki imponującej nośności do 6 kg Mozos LS7 zapewnia stabilne podparcie nawet dla cięższego sprzętu, eliminując ryzyko chwiania się czy odkształceń. Wymiary 29x30x31 cm oraz waga netto 1,5 kg sprawiają, że jest to praktyczny i funkcjonalny dodatek do każdego stanowiska pracy lub domowego studia. Wysoka jakość materiałów, takich jak stal, plastik i EVA, gwarantuje długotrwałe użytkowanie bez kompromisów w zakresie wytrzymałości. Jeśli szukasz niezawodnego i uniwersalnego stojaka, który zapewni bezpieczeństwo Twojego sprzętu i zwiększy komfort pracy, Mozos LS7 to doskonały wybór. Jego wszechstronność, solidna konstrukcja i elegancki design czynią go nieodzownym elementem wyposażenia dla profesjonalistów i entuzjastów technologii. Wybierz Mozos LS7 i ciesz się wygodą oraz funkcjonalnością na najwyższym poziomie!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Świetny wybór do pracy w biurze, w domu czy na koncercie jako podstawka do miksera lub laptopa.</li><li>Stabilna, metalowa konstrukcja o szerokim zakresie funkcjonalności.</li><li>Dzięki antypoślizgowym podkładkom stolik będzie stabilny niezależnie od podłoża.</li><li>Pomimo dużemu udźwigowi konstrukcja jest lekka i łatwa do transportu.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>stal + plastik + EVA.</p></li><li><p>Maksymalne obciążenie</p><p>6 kg.</p></li><li><p>Kompatybilność z laptopami do 19″.</p></li><li><p>Logo producenta</p><p>tak.</p></li><li><p>Wymiary</p><p>29x30x31 cm.</p></li><li><p>Waga netto</p><p>1,5 kg.</p></li><li><p>Waga brutto</p><p>1,7 kg.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76492.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76493.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76494.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76495.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76496.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76497.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76498.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76492.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76493.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76494.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76495.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76496.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76497.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76498.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia notebooków"
+  ],
+  "id": "20369",
+  "code": "LS7",
+  "name": "Podstawka pod laptopa MOZOS LS7 metalowa",
+  "price": 69.0,
+  "description": "OPIS <h2>Mozos LS7 to wielofunkcyjny i solidny stolik do laptopa/miksera.</h2><p>Mozos LS7 zapewnia niezrównaną stabilność oraz wygodę użytkowania. Wykonany z wysokiej jakości stali, gwarantuje trwałość i odporność na uszkodzenia, dzięki czemu stanowi doskonałe rozwiązanie dla wymagających użytkowników. Niezależnie od tego, czy potrzebujesz wsparcia dla laptopa, miksera czy innego sprzętu, Mozos LS7 dostosuje się do Twoich potrzeb dzięki regulowanej wysokości, umożliwiając ergonomiczne ustawienie urządzenia. Antypoślizgowa ochrona w postaci podkładek EVA skutecznie zapobiega przesuwaniu się sprzętu oraz zabezpiecza go przed zarysowaniami. To niezwykle ważne, szczególnie podczas intensywnego użytkowania w różnych warunkach. Stojak Mozos LS7 cechuje się także kompaktową i lekką konstrukcją, co ułatwia jego transport oraz przechowywanie. To idealne rozwiązanie zarówno do pracy stacjonarnej, jak i w podróży.</p><h2>Wysoka stabilność i uniwersalne wymiary.</h2><p>Dzięki imponującej nośności do 6 kg Mozos LS7 zapewnia stabilne podparcie nawet dla cięższego sprzętu, eliminując ryzyko chwiania się czy odkształceń. Wymiary 29x30x31 cm oraz waga netto 1,5 kg sprawiają, że jest to praktyczny i funkcjonalny dodatek do każdego stanowiska pracy lub domowego studia. Wysoka jakość materiałów, takich jak stal, plastik i EVA, gwarantuje długotrwałe użytkowanie bez kompromisów w zakresie wytrzymałości. Jeśli szukasz niezawodnego i uniwersalnego stojaka, który zapewni bezpieczeństwo Twojego sprzętu i zwiększy komfort pracy, Mozos LS7 to doskonały wybór. Jego wszechstronność, solidna konstrukcja i elegancki design czynią go nieodzownym elementem wyposażenia dla profesjonalistów i entuzjastów technologii. Wybierz Mozos LS7 i ciesz się wygodą oraz funkcjonalnością na najwyższym poziomie!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Świetny wybór do pracy w biurze, w domu czy na koncercie jako podstawka do miksera lub laptopa.</li><li>Stabilna, metalowa konstrukcja o szerokim zakresie funkcjonalności.</li><li>Dzięki antypoślizgowym podkładkom stolik będzie stabilny niezależnie od podłoża.</li><li>Pomimo dużemu udźwigowi konstrukcja jest lekka i łatwa do transportu.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>stal + plastik + EVA.</p></li><li><p>Maksymalne obciążenie</p><p>6 kg.</p></li><li><p>Kompatybilność z laptopami do 19″.</p></li><li><p>Logo producenta</p><p>tak.</p></li><li><p>Wymiary</p><p>29x30x31 cm.</p></li><li><p>Waga netto</p><p>1,5 kg.</p></li><li><p>Waga brutto</p><p>1,7 kg.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76492.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76493.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76494.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76495.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76496.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76497.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76498.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76492.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76493.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76494.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76495.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76496.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76497.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76498.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

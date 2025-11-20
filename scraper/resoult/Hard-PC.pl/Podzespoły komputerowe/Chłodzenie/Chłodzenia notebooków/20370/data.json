@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia notebooków"
-    ],
-    "id": "20370",
-    "code": "LS8",
-    "name": "Podstawka pod laptopa MOZOS LS8 z półką na mikser",
-    "price": 119.0,
-    "description": "OPIS <h2>Mozos LS8 to wyjątkowo wytrzymały i wszechstronny stojak.</h2><p>Stworzony z myślą o stabilności i komforcie użytkowania. Dzięki solidnej konstrukcji ze stali zapewnia trwałość oraz odporność na obciążenia, co czyni go idealnym wyborem dla profesjonalistów i entuzjastów technologii. Niezależnie od tego, czy korzystasz z laptopa, miksera czy innego sprzętu, Mozos LS8 umożliwia optymalne ustawienie urządzenia, poprawiając ergonomię pracy i zapewniając lepszy przepływ powietrza, co skutecznie zapobiega przegrzewaniu. Antypoślizgowe podkładki EVA chronią sprzęt przed zarysowaniami i gwarantują stabilność nawet podczas intensywnego użytkowania. To doskonałe rozwiązanie dla osób poszukujących niezawodnego stojaka, który nie tylko zabezpiecza urządzenia, ale także poprawia komfort pracy. Kompaktowy i lekki design sprawia, że Mozos LS8 jest niezwykle praktyczny – łatwy do przenoszenia i szybki w montażu, co czyni go idealnym zarówno do użytku domowego, jak i profesjonalnego.</p><h2>Pomimo swojej lekkości, stojak Mozos LS8 imponuje nośnością.</h2><p>Dzięki dużej stabilności pozwala na bezpieczne użytkowanie nawet z cięższym sprzętem bez ryzyka chwiania się czy odkształceń. Jego wymiary 30x30x40 cm zapewniają odpowiednią przestrzeń na urządzenia, a waga netto wynosząca 2,8 kg gwarantuje stabilność i solidność konstrukcji. Wysokiej jakości materiały, takie jak stal, plastik i EVA, zapewniają długotrwałą trwałość oraz odporność na uszkodzenia mechaniczne. Mozos LS8 to niezawodne rozwiązanie dla osób ceniących sobie wysoką jakość i funkcjonalność. Jego nowoczesny, minimalistyczny design doskonale komponuje się z każdym wnętrzem, a możliwość regulacji wysokości pozwala na dostosowanie ustawienia do indywidualnych potrzeb. Wybierz Mozos LS8 i ciesz się większym komfortem oraz bezpieczeństwem swojego sprzętu każdego dnia. W zestawie znajduje się stojak Mozos LS8, inne elementy mają ukazać jedynie przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wytrzymała stalowa budowa zapewnia trwałość i stabilność.</li><li>Podnosi laptopa lub mikser, poprawiając komfort i cyrkulację powietrza.</li><li>Podkładki EVA zapobiegają zarysowaniom i utrzymują urządzenia na miejscu.</li><li>Lekki, ale wytrzymały, łatwy do transportu i montażu.</li><li>Wytrzymuje obciążenie do 6 kg bez chwiania się i wyginania.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>stal + plastik + EVA.</p></li><li><p>Wymiary</p><p>30x30x40 cm.</p></li><li><p>Maksymalne obciążenie</p><p>6 kg.</p></li><li><p>Kompatybilne z laptopami do 19″.</p></li><li><p>Dwa poziomy</p><p>tak.</p></li><li><p>Logo producenta</p><p>tak.</p></li><li><p>Waga netto</p><p>2,8 kg.</p></li><li><p>Waga brutto</p><p>3 kg.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76499.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76505.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76500.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76501.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76502.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76503.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76504.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76499.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76505.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76500.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76501.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76502.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76503.webp",
-        "galerie/p/podstawka-pod-laptopa-mozos-l_76504.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia notebooków"
+  ],
+  "id": "20370",
+  "code": "LS8",
+  "name": "Podstawka pod laptopa MOZOS LS8 z półką na mikser",
+  "price": 119.0,
+  "description": "OPIS <h2>Mozos LS8 to wyjątkowo wytrzymały i wszechstronny stojak.</h2><p>Stworzony z myślą o stabilności i komforcie użytkowania. Dzięki solidnej konstrukcji ze stali zapewnia trwałość oraz odporność na obciążenia, co czyni go idealnym wyborem dla profesjonalistów i entuzjastów technologii. Niezależnie od tego, czy korzystasz z laptopa, miksera czy innego sprzętu, Mozos LS8 umożliwia optymalne ustawienie urządzenia, poprawiając ergonomię pracy i zapewniając lepszy przepływ powietrza, co skutecznie zapobiega przegrzewaniu. Antypoślizgowe podkładki EVA chronią sprzęt przed zarysowaniami i gwarantują stabilność nawet podczas intensywnego użytkowania. To doskonałe rozwiązanie dla osób poszukujących niezawodnego stojaka, który nie tylko zabezpiecza urządzenia, ale także poprawia komfort pracy. Kompaktowy i lekki design sprawia, że Mozos LS8 jest niezwykle praktyczny – łatwy do przenoszenia i szybki w montażu, co czyni go idealnym zarówno do użytku domowego, jak i profesjonalnego.</p><h2>Pomimo swojej lekkości, stojak Mozos LS8 imponuje nośnością.</h2><p>Dzięki dużej stabilności pozwala na bezpieczne użytkowanie nawet z cięższym sprzętem bez ryzyka chwiania się czy odkształceń. Jego wymiary 30x30x40 cm zapewniają odpowiednią przestrzeń na urządzenia, a waga netto wynosząca 2,8 kg gwarantuje stabilność i solidność konstrukcji. Wysokiej jakości materiały, takie jak stal, plastik i EVA, zapewniają długotrwałą trwałość oraz odporność na uszkodzenia mechaniczne. Mozos LS8 to niezawodne rozwiązanie dla osób ceniących sobie wysoką jakość i funkcjonalność. Jego nowoczesny, minimalistyczny design doskonale komponuje się z każdym wnętrzem, a możliwość regulacji wysokości pozwala na dostosowanie ustawienia do indywidualnych potrzeb. Wybierz Mozos LS8 i ciesz się większym komfortem oraz bezpieczeństwem swojego sprzętu każdego dnia. W zestawie znajduje się stojak Mozos LS8, inne elementy mają ukazać jedynie przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wytrzymała stalowa budowa zapewnia trwałość i stabilność.</li><li>Podnosi laptopa lub mikser, poprawiając komfort i cyrkulację powietrza.</li><li>Podkładki EVA zapobiegają zarysowaniom i utrzymują urządzenia na miejscu.</li><li>Lekki, ale wytrzymały, łatwy do transportu i montażu.</li><li>Wytrzymuje obciążenie do 6 kg bez chwiania się i wyginania.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>stal + plastik + EVA.</p></li><li><p>Wymiary</p><p>30x30x40 cm.</p></li><li><p>Maksymalne obciążenie</p><p>6 kg.</p></li><li><p>Kompatybilne z laptopami do 19″.</p></li><li><p>Dwa poziomy</p><p>tak.</p></li><li><p>Logo producenta</p><p>tak.</p></li><li><p>Waga netto</p><p>2,8 kg.</p></li><li><p>Waga brutto</p><p>3 kg.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76499.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76505.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76500.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76501.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76502.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76503.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76504.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76499.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76505.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76500.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76501.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76502.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76503.webp",
+    "galerie/p/podstawka-pod-laptopa-mozos-l_76504.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

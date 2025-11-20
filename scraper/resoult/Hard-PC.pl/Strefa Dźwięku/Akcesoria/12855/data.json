@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "12855",
-    "code": "SPS-P04",
-    "name": "Kolce głośnikowe do kolumn MOZOS SPS-P04 - 4szt",
-    "price": 42.9,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Wysokiej jakości kolce do głośników Mozos SPS-P04.</h2><p>Celem korzystania z kolców jest izolacja od sprzężeń zwrotnych, drgań z kolumn, subwoofera. Można je zamontować nie tylko na głośnikach ale również np., odtwarzaczu CD, wzmacniaczu lub innych elementach audio. Dzięki kolcom dźwięki będą bardziej skoncentrowane, mocniejsze i bez dodatkowych zniekształceń. Wygląd naszych kolców jest minimalistyczny i elegancki. Ich montaż nie powoduje uszkodzenia powierzchni głośnika i odbywa się za pomocą mocniej 2-stronnej taśmy. W zestawie znajdują sie też podkładki antywibracyjne.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Najbardziej opłacalny zestaw na rynku.</li><li>Łatwy i intuicyjny montaż bez konieczności wiercenia w powierzchni.</li><li>Elegancki, minimalistyczny design.</li><li>Konkurencyjna cena.</li><li>Aż cztery sztuk kolców i podkładek w zestawie.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Aluminium (czysta miedź na końcówkach)</p></li><li><p>Długość kolca</p><p>20mm</p></li><li><p>Średnica podstawy</p><p>23mm</p></li><li><p>Wysokość podkładki</p><p>4mm</p></li><li><p>Wysokość produktu (kolec i podkładka)</p><p>23mm</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Waga netto</p><p>1 zestaw (4szt) około 68 g (1 stopa = 13g, 1 podkładka = 4g).</p></li><li><p>W zestawie</p><p>taśma dwustronna 3M.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46288.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46289.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46290.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46291.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46292.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46293.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46294.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46295.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46288.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46289.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46290.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46291.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46292.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46293.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46294.webp",
-        "galerie/k/kolce-glosnikowe-do-kolumn-mo_46295.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "12855",
+  "code": "SPS-P04",
+  "name": "Kolce głośnikowe do kolumn MOZOS SPS-P04 - 4szt",
+  "price": 42.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Wysokiej jakości kolce do głośników Mozos SPS-P04.</h2><p>Celem korzystania z kolców jest izolacja od sprzężeń zwrotnych, drgań z kolumn, subwoofera. Można je zamontować nie tylko na głośnikach ale również np., odtwarzaczu CD, wzmacniaczu lub innych elementach audio. Dzięki kolcom dźwięki będą bardziej skoncentrowane, mocniejsze i bez dodatkowych zniekształceń. Wygląd naszych kolców jest minimalistyczny i elegancki. Ich montaż nie powoduje uszkodzenia powierzchni głośnika i odbywa się za pomocą mocniej 2-stronnej taśmy. W zestawie znajdują sie też podkładki antywibracyjne.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Najbardziej opłacalny zestaw na rynku.</li><li>Łatwy i intuicyjny montaż bez konieczności wiercenia w powierzchni.</li><li>Elegancki, minimalistyczny design.</li><li>Konkurencyjna cena.</li><li>Aż cztery sztuk kolców i podkładek w zestawie.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Aluminium (czysta miedź na końcówkach)</p></li><li><p>Długość kolca</p><p>20mm</p></li><li><p>Średnica podstawy</p><p>23mm</p></li><li><p>Wysokość podkładki</p><p>4mm</p></li><li><p>Wysokość produktu (kolec i podkładka)</p><p>23mm</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Waga netto</p><p>1 zestaw (4szt) około 68 g (1 stopa = 13g, 1 podkładka = 4g).</p></li><li><p>W zestawie</p><p>taśma dwustronna 3M.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46288.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46289.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46290.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46291.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46292.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46293.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46294.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46295.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46288.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46289.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46290.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46291.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46292.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46293.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46294.webp",
+    "galerie/k/kolce-glosnikowe-do-kolumn-mo_46295.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

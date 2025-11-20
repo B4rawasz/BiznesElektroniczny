@@ -1,28 +1,29 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "12561",
-    "code": "HSU-ORZECH",
-    "name": "Drewniany stojak na słuchawki MOZOS HSU - Orzech",
-    "price": 65.9,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Mozos HSU w kolorze orzech.</h2><p>O stojakach słuchawkowych napisano i powiedziano już wszystko. Mozos prezentuje klasyczną formę, świetnie znaną użytkownikom. Ergonomiczny kształt statywu, eliminuje niekorzystne, długotrwałe napięcie pałąka twoich słuchawek w czasie przerwy od pracy lub zabawy. Kolor okleiny pasuje do każdego wnętrza, nawet bardzo prestiżowego. Wysokość statywu na słuchawki 25 cm to wystarczający wymiar dla wszystkich słuchawek nausznych dostępnych na rynku. Antypoślizgowe nóżki, dbają o to aby statyw nie przesuwał się samoistnie po blacie powodowany drganiami powierzchni na której stoi. Dobrej jakości wykonanie i niska cena produktu dopełnia całości jako produktu wysoce opłacalnego co jest cechą wyróżniającą produkty firmy Mozos.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><li>Idealnie wyprofilowany kształt, który zapobiega odstawaniu słuchawek</li><li>Odpowiednie wyważenie zapewnia stabilność</li><li>Zapobiega odkształcaniu się elementów słuchawek</li></ul><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li>wysoka jakość wykonania - drewno orzecha włoskiego,</li><li>wymiary: 160 x 100 x 250 m</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/d/drewniany-stojak-na-sluchawki_45045.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_45046.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_45047.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_47650.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_47651.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_47652.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_45045.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_45046.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_45047.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_47650.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_47651.webp",
-        "galerie/d/drewniany-stojak-na-sluchawki_47652.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "12561",
+  "code": "HSU-ORZECH",
+  "name": "Drewniany stojak na słuchawki MOZOS HSU - Orzech",
+  "price": 65.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Mozos HSU w kolorze orzech.</h2><p>O stojakach słuchawkowych napisano i powiedziano już wszystko. Mozos prezentuje klasyczną formę, świetnie znaną użytkownikom. Ergonomiczny kształt statywu, eliminuje niekorzystne, długotrwałe napięcie pałąka twoich słuchawek w czasie przerwy od pracy lub zabawy. Kolor okleiny pasuje do każdego wnętrza, nawet bardzo prestiżowego. Wysokość statywu na słuchawki 25 cm to wystarczający wymiar dla wszystkich słuchawek nausznych dostępnych na rynku. Antypoślizgowe nóżki, dbają o to aby statyw nie przesuwał się samoistnie po blacie powodowany drganiami powierzchni na której stoi. Dobrej jakości wykonanie i niska cena produktu dopełnia całości jako produktu wysoce opłacalnego co jest cechą wyróżniającą produkty firmy Mozos.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><li>Idealnie wyprofilowany kształt, który zapobiega odstawaniu słuchawek</li><li>Odpowiednie wyważenie zapewnia stabilność</li><li>Zapobiega odkształcaniu się elementów słuchawek</li></ul><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li>wysoka jakość wykonania - drewno orzecha włoskiego,</li><li>wymiary: 160 x 100 x 250 m</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/d/drewniany-stojak-na-sluchawki_45045.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_45046.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_45047.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_47650.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_47651.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_47652.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_45045.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_45046.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_45047.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_47650.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_47651.webp",
+    "galerie/d/drewniany-stojak-na-sluchawki_47652.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

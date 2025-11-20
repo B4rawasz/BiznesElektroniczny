@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Akcesoria dla streamera"
-    ],
-    "id": "12294",
-    "code": "CAK-03",
-    "name": "Kamera internetowa Savio CAK-03 HD 720p",
-    "price": 72.0,
-    "description": "<p>Kamera Internetowa USB HD SAVIO CAK-03 to idealne rozwiązanie dla osób ceniących sobie doskonałą jakość i wygodę. Urządzenie zapewnia obraz w rozdzielczości 1280×720 rozdzielczości przy 25 klatkach na sekundę oraz wysokiej jakości dźwięk, który sprawdzi się idealnie w przypadku prowadzenia wideokonferencji czy używania dostępnych aplikacji do obsługi wideo.</p><p>Kamera jest urządzeniem Plug &amp; Play i nie wymaga instalacji dodatkowych sterowników, a wygodny uchwyt pozwala na zamontowanie kamery na większości monitorów i ekranów laptopów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Sensor</p><p>CMOS</p></li><li><p>Interfejs</p><p>USB, Jack 3,5mm (mikrofon)</p></li><li><p>Obsługiwana rozdzielczość</p><p>1280*720</p></li><li><p>Szybkość nagrywania</p><p>25 klatek/s</p></li><li><p>Kąt widzenia kamery</p><p>59°</p></li><li><p>Format zdjęć</p><p>BMP, JPG</p></li><li><p>Format nagrań</p><p>AVI</p></li><li><p>Głębokość pola widzenia</p><p>50 cm do nieskończoności</p></li><li><p>Regulacja</p><p>Ręczna regulacja ostrości za pomocą pierścienia</p></li><li><p>Uchwyt mocujący</p><p>tak</p></li><li><p>Długość przewodu</p><p>1,5 m</p></li><li><p>Kompatybilność z systemami</p><p>Windows 7, 8, 10, MacOS, Linux</p></li><li><p>Instalacja</p><p>Plug&amp;Play</p></li><li></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/savio.jpg",
-    "images": [
-        "galerie/k/kamera-internetowa-savio-cak_43678.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43679.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43680.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43681.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43682.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43683.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43684.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43685.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43686.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43678.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43679.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43680.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43681.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43682.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43683.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43684.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43685.webp",
-        "galerie/k/kamera-internetowa-savio-cak_43686.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "12294",
+  "code": "CAK-03",
+  "name": "Kamera internetowa Savio CAK-03 HD 720p",
+  "price": 72.0,
+  "description": "<p>Kamera Internetowa USB HD SAVIO CAK-03 to idealne rozwiązanie dla osób ceniących sobie doskonałą jakość i wygodę. Urządzenie zapewnia obraz w rozdzielczości 1280×720 rozdzielczości przy 25 klatkach na sekundę oraz wysokiej jakości dźwięk, który sprawdzi się idealnie w przypadku prowadzenia wideokonferencji czy używania dostępnych aplikacji do obsługi wideo.</p><p>Kamera jest urządzeniem Plug &amp; Play i nie wymaga instalacji dodatkowych sterowników, a wygodny uchwyt pozwala na zamontowanie kamery na większości monitorów i ekranów laptopów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Sensor</p><p>CMOS</p></li><li><p>Interfejs</p><p>USB, Jack 3,5mm (mikrofon)</p></li><li><p>Obsługiwana rozdzielczość</p><p>1280*720</p></li><li><p>Szybkość nagrywania</p><p>25 klatek/s</p></li><li><p>Kąt widzenia kamery</p><p>59°</p></li><li><p>Format zdjęć</p><p>BMP, JPG</p></li><li><p>Format nagrań</p><p>AVI</p></li><li><p>Głębokość pola widzenia</p><p>50 cm do nieskończoności</p></li><li><p>Regulacja</p><p>Ręczna regulacja ostrości za pomocą pierścienia</p></li><li><p>Uchwyt mocujący</p><p>tak</p></li><li><p>Długość przewodu</p><p>1,5 m</p></li><li><p>Kompatybilność z systemami</p><p>Windows 7, 8, 10, MacOS, Linux</p></li><li><p>Instalacja</p><p>Plug&amp;Play</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/savio.jpg",
+  "images": [
+    "galerie/k/kamera-internetowa-savio-cak_43678.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43679.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43680.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43681.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43682.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43683.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43684.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43685.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43686.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43678.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43679.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43680.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43681.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43682.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43683.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43684.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43685.webp",
+    "galerie/k/kamera-internetowa-savio-cak_43686.webp"
+  ],
+  "manufacturer": "Savio"
 }

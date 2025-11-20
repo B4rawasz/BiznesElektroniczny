@@ -1,20 +1,21 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Akcesoria do monitorów"
-    ],
-    "id": "12865",
-    "code": "TRASRO42106",
-    "name": "Pianka do czyszczenia monitorów LCD Tracer 400ml + ściereczka",
-    "price": 14.99,
-    "description": "<p>Uniwersalna pianka do czyszczenia ekranów monitorów LCD/TFT o pojemności 400ml.  W zestawie znajduje się miękka ściereczka z mikrofibry ułątwiająca aplikację i czyszczenie. </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pojemność</p><p>400ml</p></li><li><p>W zestawie</p><p>Pianka 400ml, ściereczka z mikrofibry</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tracer</p></li><li><p>Dane producenta</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tracer.jpg",
-    "images": [
-        "galerie/p/pianka-do-czyszczenia-monitor_46315.webp",
-        "galerie/p/pianka-do-czyszczenia-monitor_46316.webp",
-        "galerie/p/pianka-do-czyszczenia-monitor_46315.webp",
-        "galerie/p/pianka-do-czyszczenia-monitor_46316.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Akcesoria do monitorów"
+  ],
+  "id": "12865",
+  "code": "TRASRO42106",
+  "name": "Pianka do czyszczenia monitorów LCD Tracer 400ml + ściereczka",
+  "price": 14.99,
+  "description": "<p>Uniwersalna pianka do czyszczenia ekranów monitorów LCD/TFT o pojemności 400ml.  W zestawie znajduje się miękka ściereczka z mikrofibry ułątwiająca aplikację i czyszczenie. </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pojemność</p><p>400ml</p></li><li><p>W zestawie</p><p>Pianka 400ml, ściereczka z mikrofibry</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tracer</p></li><li><p>Dane producenta</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tracer.jpg",
+  "images": [
+    "galerie/p/pianka-do-czyszczenia-monitor_46315.webp",
+    "galerie/p/pianka-do-czyszczenia-monitor_46316.webp",
+    "galerie/p/pianka-do-czyszczenia-monitor_46315.webp",
+    "galerie/p/pianka-do-czyszczenia-monitor_46316.webp"
+  ],
+  "manufacturer": "Tracer"
 }

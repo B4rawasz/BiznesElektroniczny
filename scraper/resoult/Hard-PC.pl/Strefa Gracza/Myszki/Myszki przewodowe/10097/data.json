@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Myszki przewodowe"
-    ],
-    "id": "10097",
-    "code": "GAMO-800",
-    "name": "Mysz Glorious Model O White",
-    "price": 265.9,
-    "description": "<p><strong>Glorious PC Gaming Race Model O White</strong> to myszka, która z pewnością spodoba się zapalonym graczom. Cechuje się wyjątkową szybkością i precyzją oraz zapewnia świetną kontrolę oraz poczucie komfortu. Ta wyjątkowo lekka konstrukcja działa w oparciu o znakomity <strong>sensor optyczny PixArt PMW3360</strong> i zestaw mechanicznych przełączników <strong>Omron</strong>, co sprawia, że jest bezawaryjna.</p><p>Niska waga myszki została osiągnięta dzięki technologii HoneyComb Shell. To właśnie budowa w formie plastra miodu sprawia, że waży ona <strong>zaledwie 67g</strong>. Otwory w jej obudowie odpowiedzialne są za wentylację dłoni i są praktycznie niewyczuwalne, za to zmniejszają pocenie i poprawiają chwyt.</p><p>HoneyComb Shell w Glorious PC Gaming Race Model O to nie tylko zmniejszenie wagi oraz zapewnienie wentylacji. Dzięki strukturze plastra miodu myszka wygląda niepowtarzalnie, co jest jeszcze wzmocnione atrakcyjnym podświetleniem LED.</p><p>Model O jest przeznaczony zarówno dla osób prawo, jak i leworęcznych. Ergonomiczna budowa myszki sprawia, że jest ona komfortowa nawet podczas długiej sesji gamingowej. Układ dłoni na obudowie jest naturalny, z równomiernie rozłożonym ciężarem, co zapewnia pewny chwyt.</p><h2>Glorious Model O - wyjątkowa precyzja</h2>Glorious PC Gaming Race Model O posiada powszechnie doceniany i niezwykle dokładny sensor PixArt PMW3360 o maksymalnej rozdzielczości 1200DPI. Jego przyspieszenie to 50G a prędkość śledzenia powyżej 250IPS. Aby można było wykorzystać szybkość sensora, myszka posiada teflonowe ślizgacze G-Skatez o grubości 0,81 mm i wyjątkowo wysokiej trwałości.<p>W Model O uzyskano niesamowity efekt w postaci podświetlenia wnętrza myszki za pomocą bocznych diod LED RGB. Możemy zdecydować się na jeden z 6,8 mln kolorów i 8 wbudowanych trybów. Podświetlenie spersonalizujemy dzięki dołączonemu oprogramowaniu, umożliwiającego wybór barw, rozdzielczości i innych parametrów.</p><p><strong>Uwaga: Sprzedajemy odświeżoną wersję myszki w nowym opakowaniu i z poprawionym kablem. </strong></p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Waga: ca. 67 g</li><li>Rozdzielczość: max. 12 000 DPI</li><li>Standardowe ustawienia DPI: 400 (yellow), 800 (blue), 1600 (red), 3200 (green)</li><li>Sensor: Optyczny, Pixart PWM-3360-Sensor</li><li>Maksymalna akceleracja: 50 G</li><li>Maksymalna prędkość śledzenia: 250+ IPS</li><li>Opóźnienie: 1 ms </li><li>Częstotliwość próbkowania: 1000 Hz</li><li>LOD: 0,7 mm</li><li>Ilość przycisków: 6</li><li>Rodzaj przełączników: Omron® Mechanical Rated For 20 Million Clicks</li><li>Kabel: USB 2m </li><li>Typ przewodu: Ascended Cord (ultra-flexible)</li><li>Ślizgacze: G-Skates Premium Mouse Feet</li><li>Grubość ślizgaczy: 0,81mm</li><li>Podświetlanie: RGB LED (16.8mln, 8 efektów)</li><li>Oprogramowanie: Tak, dla zaawansowanych ustawień</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/glorious.jpg",
-    "images": [
-        "galerie/m/mysz-glorious-model-o-white_31767.webp",
-        "galerie/m/mysz-glorious-model-o-white_31768.webp",
-        "galerie/m/mysz-glorious-model-o-white_31769.webp",
-        "galerie/m/mysz-glorious-model-o-white_31770.webp",
-        "galerie/m/mysz-glorious-model-o-white_31771.webp",
-        "galerie/m/mysz-glorious-model-o-white_31772.webp",
-        "galerie/m/mysz-glorious-pc-gaming-race_31773.webp",
-        "galerie/m/mysz-glorious-model-o-white_49865.webp",
-        "galerie/m/mysz-glorious-model-o-white_31767.webp",
-        "galerie/m/mysz-glorious-model-o-white_31768.webp",
-        "galerie/m/mysz-glorious-model-o-white_31769.webp",
-        "galerie/m/mysz-glorious-model-o-white_31770.webp",
-        "galerie/m/mysz-glorious-model-o-white_31771.webp",
-        "galerie/m/mysz-glorious-model-o-white_31772.webp",
-        "galerie/m/mysz-glorious-pc-gaming-race_31773.webp",
-        "galerie/m/mysz-glorious-model-o-white_49865.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki przewodowe"
+  ],
+  "id": "10097",
+  "code": "GAMO-800",
+  "name": "Mysz Glorious Model O White",
+  "price": 265.9,
+  "description": "<p><strong>Glorious PC Gaming Race Model O White</strong> to myszka, która z pewnością spodoba się zapalonym graczom. Cechuje się wyjątkową szybkością i precyzją oraz zapewnia świetną kontrolę oraz poczucie komfortu. Ta wyjątkowo lekka konstrukcja działa w oparciu o znakomity <strong>sensor optyczny PixArt PMW3360</strong> i zestaw mechanicznych przełączników <strong>Omron</strong>, co sprawia, że jest bezawaryjna.</p><p>Niska waga myszki została osiągnięta dzięki technologii HoneyComb Shell. To właśnie budowa w formie plastra miodu sprawia, że waży ona <strong>zaledwie 67g</strong>. Otwory w jej obudowie odpowiedzialne są za wentylację dłoni i są praktycznie niewyczuwalne, za to zmniejszają pocenie i poprawiają chwyt.</p><p>HoneyComb Shell w Glorious PC Gaming Race Model O to nie tylko zmniejszenie wagi oraz zapewnienie wentylacji. Dzięki strukturze plastra miodu myszka wygląda niepowtarzalnie, co jest jeszcze wzmocnione atrakcyjnym podświetleniem LED.</p><p>Model O jest przeznaczony zarówno dla osób prawo, jak i leworęcznych. Ergonomiczna budowa myszki sprawia, że jest ona komfortowa nawet podczas długiej sesji gamingowej. Układ dłoni na obudowie jest naturalny, z równomiernie rozłożonym ciężarem, co zapewnia pewny chwyt.</p><h2>Glorious Model O - wyjątkowa precyzja</h2>Glorious PC Gaming Race Model O posiada powszechnie doceniany i niezwykle dokładny sensor PixArt PMW3360 o maksymalnej rozdzielczości 1200DPI. Jego przyspieszenie to 50G a prędkość śledzenia powyżej 250IPS. Aby można było wykorzystać szybkość sensora, myszka posiada teflonowe ślizgacze G-Skatez o grubości 0,81 mm i wyjątkowo wysokiej trwałości.<p>W Model O uzyskano niesamowity efekt w postaci podświetlenia wnętrza myszki za pomocą bocznych diod LED RGB. Możemy zdecydować się na jeden z 6,8 mln kolorów i 8 wbudowanych trybów. Podświetlenie spersonalizujemy dzięki dołączonemu oprogramowaniu, umożliwiającego wybór barw, rozdzielczości i innych parametrów.</p><p><strong>Uwaga: Sprzedajemy odświeżoną wersję myszki w nowym opakowaniu i z poprawionym kablem. </strong></p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Waga: ca. 67 g</li><li>Rozdzielczość: max. 12 000 DPI</li><li>Standardowe ustawienia DPI: 400 (yellow), 800 (blue), 1600 (red), 3200 (green)</li><li>Sensor: Optyczny, Pixart PWM-3360-Sensor</li><li>Maksymalna akceleracja: 50 G</li><li>Maksymalna prędkość śledzenia: 250+ IPS</li><li>Opóźnienie: 1 ms </li><li>Częstotliwość próbkowania: 1000 Hz</li><li>LOD: 0,7 mm</li><li>Ilość przycisków: 6</li><li>Rodzaj przełączników: Omron® Mechanical Rated For 20 Million Clicks</li><li>Kabel: USB 2m </li><li>Typ przewodu: Ascended Cord (ultra-flexible)</li><li>Ślizgacze: G-Skates Premium Mouse Feet</li><li>Grubość ślizgaczy: 0,81mm</li><li>Podświetlanie: RGB LED (16.8mln, 8 efektów)</li><li>Oprogramowanie: Tak, dla zaawansowanych ustawień</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/m/mysz-glorious-model-o-white_31767.webp",
+    "galerie/m/mysz-glorious-model-o-white_31768.webp",
+    "galerie/m/mysz-glorious-model-o-white_31769.webp",
+    "galerie/m/mysz-glorious-model-o-white_31770.webp",
+    "galerie/m/mysz-glorious-model-o-white_31771.webp",
+    "galerie/m/mysz-glorious-model-o-white_31772.webp",
+    "galerie/m/mysz-glorious-pc-gaming-race_31773.webp",
+    "galerie/m/mysz-glorious-model-o-white_49865.webp",
+    "galerie/m/mysz-glorious-model-o-white_31767.webp",
+    "galerie/m/mysz-glorious-model-o-white_31768.webp",
+    "galerie/m/mysz-glorious-model-o-white_31769.webp",
+    "galerie/m/mysz-glorious-model-o-white_31770.webp",
+    "galerie/m/mysz-glorious-model-o-white_31771.webp",
+    "galerie/m/mysz-glorious-model-o-white_31772.webp",
+    "galerie/m/mysz-glorious-pc-gaming-race_31773.webp",
+    "galerie/m/mysz-glorious-model-o-white_49865.webp"
+  ],
+  "manufacturer": "Glorious"
 }

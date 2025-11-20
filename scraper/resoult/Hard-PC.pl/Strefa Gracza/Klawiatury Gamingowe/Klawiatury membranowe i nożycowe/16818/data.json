@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Klawiatury membranowe i nożycowe"
-    ],
-    "id": "16818",
-    "code": "A4TKLA47125",
-    "name": "Klawiatura A4TECH FSTYLER FX60H White LED",
-    "price": 148.9,
-    "description": "OPIS <p>Klawiatura przewodowa A4Tech FSTYLER FX60H to niezbędne akcesorium w pracy biurowej lub w szkole. Urządzenie jest bardzo wygodne w użytkowaniu i zapewnia wysoki komfort pisania, dzięki czemu sprawdzi się idealnie w pracy copywritera i blogera, a także podczas zwykłej pracy biurowej.</p><h2>Idealny wybór dla pasjonata pisania</h2><p>Klawiatura A4TECH FX60H wyposażona jest w niskoprofilowe przełączniki X-key Scissor uwielbiane przez wielu użytkowników, znane np. z laptopów. Zastosowanie klawiszy z przełącznikiem nożycowym zapewnia wysoką responsywność urządzenia, a także ciche pisanie i wygodne dotykowe naciśnięcie klawiszy. Punkt aktywacji klawiszy wynosi 1,5 mm, co oznacza mniej drgań, a wyjątkowo smukły profil i zastosowanie przycisków o ergonomicznym kształcie gwarantuje możliwość szybkiego, bezbłędnego pisania znacząco zmniejszając zmęczenie rąk po wielogodzinnej pracy. Laserowo wygrawerowane oznaczenia na klawiszach nie wycierają się, co zapewnia długotrwałe użytkowanie.</p><h2>Komunikacja za pomocą kabla USB</h2><p>Połączenie przewodowe zapewnia stabilną komunikację pomiędzy klawiaturą i komputerem. Kabel o długości 150 cm pozwala na wygodne podłączenie, nawet jeżeli urządzenia znajdują się w odległości od siebie. Ponadto klawiatura została wyposażona w 2 porty USB, co umożliwi Ci współpracę z dodatkowymi akcesoriami, jak np. mysz komputerowa lub ładowanie smartfonu. Urządzenie obsługuje takie systemy, jak Windows i Mac oraz pozwala na swobodne przełączanie między nimi.</p><h2>Smukła konstrukcja z podświetleniem LED</h2><p>Klawiatura wyposażona jest w podświetlenie LED, co zwiększa komfort użytkowania w ciemności oraz dodaje estetyki urządzeniu. Istnieje możliwość regulacji natężenia pracy diod lub całkowitego ich wyłączenia - możesz za każdym razem decydować, czy wygodniej pracuje Ci się z podświetleniem, czy bez niego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Niski profil klawiszy z przełącznikiem nożycowym X-key Scissor.</li><li>Smukła konstrukcja typu „chocolate” – układ klawiszy przypominający tabliczkę czekolady.</li><li>12 klawiszy multimedialnych.</li><li>2 porty USB.</li><li>Białe podświetlenie LED.</li><li>Ochrona przed zalaniem.</li><li>Współpraca: Windows, Mac.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Długość przewodu (m)</p><p>1,5</p></li><li><p>Liczba klawiszy multimedialnych</p><p>12</p></li><li><p>Mechanizm</p><p>X structure</p></li><li><p>Skok klawiszy</p><p>niski</p></li><li><p>Typ klawiatury</p><p>pełnowymiarowa</p></li><li><p>Podświetlenie klawiszy</p><p>1 Kolor</p></li><li><p>Transmisja danych</p><p>USB</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>A4Tech</p></li><li><p>Dane producenta</p><p>A-Four Tech Co., Ltd., 6F, No. 108, Min-Chuan Rd., Hsin-Tien City, New Taipei City, Tajwan, market@a4tech.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/a4tech.jpg",
-    "images": [
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59225.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59227.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59226.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59228.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59229.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59225.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59227.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59226.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59228.webp",
-        "galerie/k/klawiatura-a4tech-fstyler-fx6_59229.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury membranowe i nożycowe"
+  ],
+  "id": "16818",
+  "code": "A4TKLA47125",
+  "name": "Klawiatura A4TECH FSTYLER FX60H White LED",
+  "price": 148.9,
+  "description": "OPIS <p>Klawiatura przewodowa A4Tech FSTYLER FX60H to niezbędne akcesorium w pracy biurowej lub w szkole. Urządzenie jest bardzo wygodne w użytkowaniu i zapewnia wysoki komfort pisania, dzięki czemu sprawdzi się idealnie w pracy copywritera i blogera, a także podczas zwykłej pracy biurowej.</p><h2>Idealny wybór dla pasjonata pisania</h2><p>Klawiatura A4TECH FX60H wyposażona jest w niskoprofilowe przełączniki X-key Scissor uwielbiane przez wielu użytkowników, znane np. z laptopów. Zastosowanie klawiszy z przełącznikiem nożycowym zapewnia wysoką responsywność urządzenia, a także ciche pisanie i wygodne dotykowe naciśnięcie klawiszy. Punkt aktywacji klawiszy wynosi 1,5 mm, co oznacza mniej drgań, a wyjątkowo smukły profil i zastosowanie przycisków o ergonomicznym kształcie gwarantuje możliwość szybkiego, bezbłędnego pisania znacząco zmniejszając zmęczenie rąk po wielogodzinnej pracy. Laserowo wygrawerowane oznaczenia na klawiszach nie wycierają się, co zapewnia długotrwałe użytkowanie.</p><h2>Komunikacja za pomocą kabla USB</h2><p>Połączenie przewodowe zapewnia stabilną komunikację pomiędzy klawiaturą i komputerem. Kabel o długości 150 cm pozwala na wygodne podłączenie, nawet jeżeli urządzenia znajdują się w odległości od siebie. Ponadto klawiatura została wyposażona w 2 porty USB, co umożliwi Ci współpracę z dodatkowymi akcesoriami, jak np. mysz komputerowa lub ładowanie smartfonu. Urządzenie obsługuje takie systemy, jak Windows i Mac oraz pozwala na swobodne przełączanie między nimi.</p><h2>Smukła konstrukcja z podświetleniem LED</h2><p>Klawiatura wyposażona jest w podświetlenie LED, co zwiększa komfort użytkowania w ciemności oraz dodaje estetyki urządzeniu. Istnieje możliwość regulacji natężenia pracy diod lub całkowitego ich wyłączenia - możesz za każdym razem decydować, czy wygodniej pracuje Ci się z podświetleniem, czy bez niego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Niski profil klawiszy z przełącznikiem nożycowym X-key Scissor.</li><li>Smukła konstrukcja typu „chocolate” – układ klawiszy przypominający tabliczkę czekolady.</li><li>12 klawiszy multimedialnych.</li><li>2 porty USB.</li><li>Białe podświetlenie LED.</li><li>Ochrona przed zalaniem.</li><li>Współpraca: Windows, Mac.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Długość przewodu (m)</p><p>1,5</p></li><li><p>Liczba klawiszy multimedialnych</p><p>12</p></li><li><p>Mechanizm</p><p>X structure</p></li><li><p>Skok klawiszy</p><p>niski</p></li><li><p>Typ klawiatury</p><p>pełnowymiarowa</p></li><li><p>Podświetlenie klawiszy</p><p>1 Kolor</p></li><li><p>Transmisja danych</p><p>USB</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>A4Tech</p></li><li><p>Dane producenta</p><p>A-Four Tech Co., Ltd., 6F, No. 108, Min-Chuan Rd., Hsin-Tien City, New Taipei City, Tajwan, market@a4tech.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/a4tech.jpg",
+  "images": [
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59225.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59227.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59226.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59228.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59229.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59225.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59227.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59226.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59228.webp",
+    "galerie/k/klawiatura-a4tech-fstyler-fx6_59229.webp"
+  ],
+  "manufacturer": "A4Tech"
 }

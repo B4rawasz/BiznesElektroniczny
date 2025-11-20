@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 140mm"
-    ],
-    "id": "20551",
-    "code": "LULI-130",
-    "name": "Wentylator Lian Li UNI FAN TL LCD Wireless ARGB PWM Reverse White - 140mm",
-    "price": 213.9,
-    "description": "<h2>Lian Li UNI FAN TL140 LCD Wireless Reverse Blade – styl, ekran i bezkompromisowy przepływ powietrza</h2><p>Model TL140 LCD Wireless Reverse Blade od Lian Li to coś więcej niż wentylator – to połączenie nowoczesnej technologii, imponującej estetyki i wysokiej wydajności chłodzenia. Wyposażony w ekran LCD oraz odwrócone łopatki, ten 140-milimetrowy wentylator umożliwia pełną personalizację wizualną i czysty montaż dzięki systemowi plug-in oraz bezprzewodowemu sterowaniu.</p><h2>Reverse blade – maksymalny efekt wizualny przy nawiewie</h2><p>Dzięki specjalnej konstrukcji reverse blade, wentylator może działać jako nawiew, a jednocześnie prezentować swoją przednią stronę – bez naklejek, silników czy brzydkich tyłów. Wszystko wygląda czysto i estetycznie – idealnie do zestawów z widocznym wnętrzem.</p><h2>Wyświetlacz LCD – dane, animacje i personalizacja</h2><p>Centralnie umieszczony ekran LCD 1,6\" o rozdzielczości 400 × 400 px pozwala wyświetlać statystyki systemowe (temperatura, prędkość obrotowa), grafiki, GIF-y, a nawet filmy. Całość konfigurujesz przez Lian Li L-Connect 3, tworząc unikalne efekty dopasowane do Twojego stylu.</p><h2>Wydajność i cisza w jednym</h2><p>Dzięki prędkości do 1600 obr./min, przepływowi powietrza 108,7 m³/h oraz ciśnieniu statycznemu 3,1 mmH₂O wentylator skutecznie chłodzi nawet wymagające komponenty. A wszystko to przy głośności nieprzekraczającej 29,4 dB(A), dzięki zastosowaniu łożyska FDB i precyzyjnej konstrukcji.</p><h2>Czysty montaż – plug-in i bezprzewodowy kontroler</h2><p>System łączenia plug-in pozwala podłączyć kilka wentylatorów w jednym ciągu, ograniczając liczbę kabli. Podświetlane paski ARGB idealnie zgrywają się między wentylatorami. Do obsługi niezbędny jest kontroler Lian Li L-Wireless (brak w zestawie). Można mieszać wentylatory LCD i LED, o ile nie przekroczysz 4 sztuk na jednym kontrolerze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Wentylator 140 mm PWM z wyświetlaczem LCD (reverse blade)</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Materiał</p><p>Tworzywo, aluminium</p></li><li><p>Podświetlenie</p><p>ARGB (adresowalne RGB)</p></li><li><p>Efekty świetlne</p><p>Infinity mirror + boczne paski LED + ekran LCD</p></li><li><p>Wyświetlacz</p><p>LCD 1,6\" – 400 × 400 px</p></li><li><p>Układ łopatek</p><p>Odwrócony (reverse blade)</p></li><li><p>Maksymalna prędkość obrotowa</p><p>1 600 obr./min</p></li><li><p>Minimalna prędkość obrotowa</p><p>0 obr./min (tryb pasywny)</p></li><li><p>Przepływ powietrza</p><p>108,7 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>3,1 mmH₂O</p></li><li><p>Maksymalny poziom hałasu</p><p>29,4 dB(A)</p></li><li><p>Napięcie znamionowe</p><p>12 V</p></li><li><p>Napięcie startowe</p><p>5 V</p></li><li><p>Wysokość wentylatora</p><p>28 mm</p></li><li><p>Wymiary (D×S)</p><p>142 × 140 mm</p></li><li><p>Łożysko</p><p>FDB (Fluid Dynamic Bearing)</p></li><li><p>Typ połączenia</p><p>Plug-in (łańcuchowy) + sterowanie przez kontroler</p></li><li><p>Złącze wentylatora</p><p>4-pin PWM (przez kontroler)</p></li><li><p>Złącze ARGB</p><p>3-pin (5V Digital RGB)</p></li><li><p>Kompatybilność oprogramowania</p><p>Lian Li L-Connect 3</p></li><li><p>Sterowanie RGB</p><p>Tak (bezprzewodowo, przez kontroler)</p></li><li><p>Sterowanie prędkością</p><p>Tak (bezprzewodowo, przez kontroler)</p></li><li><p>Zestaw</p><p>Nie (1 szt.)</p></li><li><p>Kontroler w zestawie</p><p>Nie (wymagany, sprzedawany osobno)</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/w/wentylator-lian-li-uni-fan-tl_77636.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-tl_77637.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-tl_77638.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-tl_77639.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-tl_77636.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-tl_77637.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-tl_77638.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-tl_77639.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 140mm"
+  ],
+  "id": "20551",
+  "code": "LULI-130",
+  "name": "Wentylator Lian Li UNI FAN TL LCD Wireless ARGB PWM Reverse White - 140mm",
+  "price": 213.9,
+  "description": "<h2>Lian Li UNI FAN TL140 LCD Wireless Reverse Blade – styl, ekran i bezkompromisowy przepływ powietrza</h2><p>Model TL140 LCD Wireless Reverse Blade od Lian Li to coś więcej niż wentylator – to połączenie nowoczesnej technologii, imponującej estetyki i wysokiej wydajności chłodzenia. Wyposażony w ekran LCD oraz odwrócone łopatki, ten 140-milimetrowy wentylator umożliwia pełną personalizację wizualną i czysty montaż dzięki systemowi plug-in oraz bezprzewodowemu sterowaniu.</p><h2>Reverse blade – maksymalny efekt wizualny przy nawiewie</h2><p>Dzięki specjalnej konstrukcji reverse blade, wentylator może działać jako nawiew, a jednocześnie prezentować swoją przednią stronę – bez naklejek, silników czy brzydkich tyłów. Wszystko wygląda czysto i estetycznie – idealnie do zestawów z widocznym wnętrzem.</p><h2>Wyświetlacz LCD – dane, animacje i personalizacja</h2><p>Centralnie umieszczony ekran LCD 1,6\" o rozdzielczości 400 × 400 px pozwala wyświetlać statystyki systemowe (temperatura, prędkość obrotowa), grafiki, GIF-y, a nawet filmy. Całość konfigurujesz przez Lian Li L-Connect 3, tworząc unikalne efekty dopasowane do Twojego stylu.</p><h2>Wydajność i cisza w jednym</h2><p>Dzięki prędkości do 1600 obr./min, przepływowi powietrza 108,7 m³/h oraz ciśnieniu statycznemu 3,1 mmH₂O wentylator skutecznie chłodzi nawet wymagające komponenty. A wszystko to przy głośności nieprzekraczającej 29,4 dB(A), dzięki zastosowaniu łożyska FDB i precyzyjnej konstrukcji.</p><h2>Czysty montaż – plug-in i bezprzewodowy kontroler</h2><p>System łączenia plug-in pozwala podłączyć kilka wentylatorów w jednym ciągu, ograniczając liczbę kabli. Podświetlane paski ARGB idealnie zgrywają się między wentylatorami. Do obsługi niezbędny jest kontroler Lian Li L-Wireless (brak w zestawie). Można mieszać wentylatory LCD i LED, o ile nie przekroczysz 4 sztuk na jednym kontrolerze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Wentylator 140 mm PWM z wyświetlaczem LCD (reverse blade)</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Materiał</p><p>Tworzywo, aluminium</p></li><li><p>Podświetlenie</p><p>ARGB (adresowalne RGB)</p></li><li><p>Efekty świetlne</p><p>Infinity mirror + boczne paski LED + ekran LCD</p></li><li><p>Wyświetlacz</p><p>LCD 1,6\" – 400 × 400 px</p></li><li><p>Układ łopatek</p><p>Odwrócony (reverse blade)</p></li><li><p>Maksymalna prędkość obrotowa</p><p>1 600 obr./min</p></li><li><p>Minimalna prędkość obrotowa</p><p>0 obr./min (tryb pasywny)</p></li><li><p>Przepływ powietrza</p><p>108,7 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>3,1 mmH₂O</p></li><li><p>Maksymalny poziom hałasu</p><p>29,4 dB(A)</p></li><li><p>Napięcie znamionowe</p><p>12 V</p></li><li><p>Napięcie startowe</p><p>5 V</p></li><li><p>Wysokość wentylatora</p><p>28 mm</p></li><li><p>Wymiary (D×S)</p><p>142 × 140 mm</p></li><li><p>Łożysko</p><p>FDB (Fluid Dynamic Bearing)</p></li><li><p>Typ połączenia</p><p>Plug-in (łańcuchowy) + sterowanie przez kontroler</p></li><li><p>Złącze wentylatora</p><p>4-pin PWM (przez kontroler)</p></li><li><p>Złącze ARGB</p><p>3-pin (5V Digital RGB)</p></li><li><p>Kompatybilność oprogramowania</p><p>Lian Li L-Connect 3</p></li><li><p>Sterowanie RGB</p><p>Tak (bezprzewodowo, przez kontroler)</p></li><li><p>Sterowanie prędkością</p><p>Tak (bezprzewodowo, przez kontroler)</p></li><li><p>Zestaw</p><p>Nie (1 szt.)</p></li><li><p>Kontroler w zestawie</p><p>Nie (wymagany, sprzedawany osobno)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77636.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77637.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77638.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77639.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77636.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77637.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77638.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77639.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Ładowarki"
-    ],
-    "id": "18266",
-    "code": "CB-CL4",
-    "name": "Kabel Aukey USB-C - Lightning MFI 27W 1.8m",
-    "price": 54.99,
-    "description": "<p>Ten wykonany z mocnej plecionki nylonowej, wydajny kabel Lightning ze złączem USB-C od Aukey to model, który spełni wymagania każdego użytkownika Apple. Do jego produkcji wykorzystano wysokiej jakości materiały, by mieć pewność, że kabel posłuży mu przez wiele lat, nie tracąc przy tym na swoich parametrach.</p><h2>Długość 1,8 metra</h2><p>Długi kabel do iPhone'a umożliwia wygodne ładowanie i używanie telefonu jednocześnie. Przeglądaj memy lub Instagrama bez obaw o rozładowaną baterię! Maksymalna moc ładowania, zgodna z każdym iPhonem to 27 W ( 5V/3A - 9V/3A)</p><h2>Certyfikat Apple MFi</h2><p>Ten najwyższej jakości kabel do ładowania i synchronizacji posiada certyfikat Apple® MFi, który gwarantuje kompatybilność z iPhonem XS Max, XS, XR, X, 8, 8 Plus, iPadem Pro, iPadem Air 2, Air, iPadem Mini, Mini 2 , Mini 3, iPad 4. generacji i iPod Nano 7. generacji oraz nowszymi modelami tej marki.</p><h2>Szybkie ładowanie</h2><p>Przewód obsługuje ładowanie Power Delivery o mocy maksymalnie 27 W, z natężeniem 3 A. Możesz go podłączyć do szybkiej ładowarki lub bezpośrednio do portu USB-C lub Thunderbolt 3 w MacBooku. Szereg zabezpieczeń i certyfikowany chip gwarantują bezpieczeństwo wszytskich podłączonych urządzeń.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wyjście</p><p>5V/3A - 9V/3A</p></li><li><p>Długość przewodu</p><p>1,8 m</p></li><li><p>Certyfikat</p><p>MFI</p></li><li><p>Obsługiwane technologie</p><p>Power Delivery</p></li><li><p>Maksymalne natężenie na wyjściu</p><p>3A</p></li><li><p>Przepustowość</p><p>0.48GBps</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/k/kabel-aukey-usb-c-lightning-m_67878.webp",
-        "galerie/k/kabel-aukey-usb-c-lightning-m_67879.webp",
-        "galerie/k/kabel-aukey-usb-c-lightning-m_67880.webp",
-        "galerie/k/kabel-aukey-usb-c-lightning-m_67881.webp",
-        "galerie/k/kabel-aukey-usb-c-lightning-m_67878.webp",
-        "galerie/k/kabel-aukey-usb-c-lightning-m_67879.webp",
-        "galerie/k/kabel-aukey-usb-c-lightning-m_67880.webp",
-        "galerie/k/kabel-aukey-usb-c-lightning-m_67881.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Ładowarki"
+  ],
+  "id": "18266",
+  "code": "CB-CL4",
+  "name": "Kabel Aukey USB-C - Lightning MFI 27W 1.8m",
+  "price": 54.99,
+  "description": "<p>Ten wykonany z mocnej plecionki nylonowej, wydajny kabel Lightning ze złączem USB-C od Aukey to model, który spełni wymagania każdego użytkownika Apple. Do jego produkcji wykorzystano wysokiej jakości materiały, by mieć pewność, że kabel posłuży mu przez wiele lat, nie tracąc przy tym na swoich parametrach.</p><h2>Długość 1,8 metra</h2><p>Długi kabel do iPhone'a umożliwia wygodne ładowanie i używanie telefonu jednocześnie. Przeglądaj memy lub Instagrama bez obaw o rozładowaną baterię! Maksymalna moc ładowania, zgodna z każdym iPhonem to 27 W ( 5V/3A - 9V/3A)</p><h2>Certyfikat Apple MFi</h2><p>Ten najwyższej jakości kabel do ładowania i synchronizacji posiada certyfikat Apple® MFi, który gwarantuje kompatybilność z iPhonem XS Max, XS, XR, X, 8, 8 Plus, iPadem Pro, iPadem Air 2, Air, iPadem Mini, Mini 2 , Mini 3, iPad 4. generacji i iPod Nano 7. generacji oraz nowszymi modelami tej marki.</p><h2>Szybkie ładowanie</h2><p>Przewód obsługuje ładowanie Power Delivery o mocy maksymalnie 27 W, z natężeniem 3 A. Możesz go podłączyć do szybkiej ładowarki lub bezpośrednio do portu USB-C lub Thunderbolt 3 w MacBooku. Szereg zabezpieczeń i certyfikowany chip gwarantują bezpieczeństwo wszytskich podłączonych urządzeń.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wyjście</p><p>5V/3A - 9V/3A</p></li><li><p>Długość przewodu</p><p>1,8 m</p></li><li><p>Certyfikat</p><p>MFI</p></li><li><p>Obsługiwane technologie</p><p>Power Delivery</p></li><li><p>Maksymalne natężenie na wyjściu</p><p>3A</p></li><li><p>Przepustowość</p><p>0.48GBps</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-aukey-usb-c-lightning-m_67878.webp",
+    "galerie/k/kabel-aukey-usb-c-lightning-m_67879.webp",
+    "galerie/k/kabel-aukey-usb-c-lightning-m_67880.webp",
+    "galerie/k/kabel-aukey-usb-c-lightning-m_67881.webp",
+    "galerie/k/kabel-aukey-usb-c-lightning-m_67878.webp",
+    "galerie/k/kabel-aukey-usb-c-lightning-m_67879.webp",
+    "galerie/k/kabel-aukey-usb-c-lightning-m_67880.webp",
+    "galerie/k/kabel-aukey-usb-c-lightning-m_67881.webp"
+  ],
+  "manufacturer": "Unitek"
 }

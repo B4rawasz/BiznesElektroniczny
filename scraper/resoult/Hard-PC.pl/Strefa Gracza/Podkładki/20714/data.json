@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Podkładki"
-    ],
-    "id": "20714",
-    "code": "SAVMP-01NB",
-    "name": "Żelowa podkładka pod mysz i nadgarstek Savio MP-01NB Blue - 230x190mm",
-    "price": 14.9,
-    "description": "<h2>Podkładka żelowa pod mysz czarna Savio MP-01NB</h2><p>Żelowa podkładka pod nadgarstek Savio MP-01B to praktyczne i ergonomiczne rozwiązanie dla osób spędzających wiele godzin przy komputerze. Dzięki specjalnej żelowej podpórce rozkłada punkty nacisku, zmniejszając obciążenie nadgarstka i zapewniając większy komfort pracy. Idealnie sprawdzi się zarówno w biurze, jak i w domowym stanowisku komputerowym.</p><p>Powierzchnia typu speed została pokryta wysokiej jakości materiałem, który umożliwia płynne i dokładne poruszanie myszką. Struktura podkładki działa doskonale ze wszystkimi sensorami, zapewniając precyzyjne śledzenie ruchu. Gumowa podstawa zapobiega przesuwaniu się podkładki, gwarantując stabilność nawet podczas intensywnego użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>230 × 190 × 18 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Gumowa podstawa</p><p>Tak</p></li><li><p>Powierzchnia</p><p>Typu speed – płynny i precyzyjny ruch myszy</p></li><li><p>Kompatybilność</p><p>Działa ze wszystkimi sensorami myszek</p></li><li><p>Podkładka pod nadgarstek</p><p>Żelowa podpórka rozkładająca punkty nacisku</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/savio.jpg",
-    "images": [
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77921.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77922.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77923.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77924.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77925.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77926.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77927.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77921.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77922.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77923.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77924.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77925.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77926.webp",
-        "galerie/z/zelowa-podkladka-pod-mysz-i-n_77927.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Podkładki"
+  ],
+  "id": "20714",
+  "code": "SAVMP-01NB",
+  "name": "Żelowa podkładka pod mysz i nadgarstek Savio MP-01NB Blue - 230x190mm",
+  "price": 14.9,
+  "description": "<h2>Podkładka żelowa pod mysz czarna Savio MP-01NB</h2><p>Żelowa podkładka pod nadgarstek Savio MP-01B to praktyczne i ergonomiczne rozwiązanie dla osób spędzających wiele godzin przy komputerze. Dzięki specjalnej żelowej podpórce rozkłada punkty nacisku, zmniejszając obciążenie nadgarstka i zapewniając większy komfort pracy. Idealnie sprawdzi się zarówno w biurze, jak i w domowym stanowisku komputerowym.</p><p>Powierzchnia typu speed została pokryta wysokiej jakości materiałem, który umożliwia płynne i dokładne poruszanie myszką. Struktura podkładki działa doskonale ze wszystkimi sensorami, zapewniając precyzyjne śledzenie ruchu. Gumowa podstawa zapobiega przesuwaniu się podkładki, gwarantując stabilność nawet podczas intensywnego użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>230 × 190 × 18 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Gumowa podstawa</p><p>Tak</p></li><li><p>Powierzchnia</p><p>Typu speed – płynny i precyzyjny ruch myszy</p></li><li><p>Kompatybilność</p><p>Działa ze wszystkimi sensorami myszek</p></li><li><p>Podkładka pod nadgarstek</p><p>Żelowa podpórka rozkładająca punkty nacisku</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/savio.jpg",
+  "images": [
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77921.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77922.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77923.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77924.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77925.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77926.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77927.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77921.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77922.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77923.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77924.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77925.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77926.webp",
+    "galerie/z/zelowa-podkladka-pod-mysz-i-n_77927.webp"
+  ],
+  "manufacturer": "Savio"
 }

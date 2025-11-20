@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Elektryka i oświetlenie"
-    ],
-    "id": "17238",
-    "code": "TSL-SPL-3+4USB",
-    "name": "Tesla Smat Listwa zasilająca 3 + 4 USB Wi-Fi",
-    "price": 169.0,
-    "description": "<h2>Inteligentna wtyczka do podłączenia do 3 urządzeń z 4 portami USB</h2><p>Dla osób, które chcą zdalnie kontrolować więcej urządzeń, listwa zasilająca jest doskonałym wyborem. Pozwala on na indywidualne sterowanie nawet siedmioma urządzeniami, jednocześnie pilnując przepływu prądu i zużycia energii. Tym samym można skuteczniej zoptymalizować ekonomikę gospodarstwa domowego i zaoszczędzić na kosztach energii.</p><h2>Asystenci dla maksymalnego komfortu</h2><p>Aplikację TESLA Smart, która steruje inteligentną wtyczką, można połączyć z inteligentnymi asystentami osobistymi Google Assistant lub Amazon Alexa. Dzięki ich zastosowaniu można sterować urządzeniem za pomocą głosu, co jeszcze bardziej ułatwia korzystanie z wtyczki.</p><h2>Łatwa obsługa</h2><p>Zarządzanie wszystkimi wejściami i portami USB z poziomu jednej aplikacji na telefonie lub tablecie z systemem iOS lub Android. Każdym wejściem i portem USB można sterować oddzielnie. Ponadto aplikacja pokazuje w dowolnym miejscu i czasie, czy gniazdo lub port jest włączony czy wyłączony, więc pozostawione podłączone do prądu żelazko już nigdy nie będzie problemem. Inteligentna wtyczka może nie tylko uczynić Twój dom bardziej inteligentnym, ale także bezpiecznym.</p><h2>Do 3 urządzeń za pomocą 4 USB</h2><p>Wszystkimi wtyczkami i portami USB można sterować za pomocą jednej aplikacji na telefonie lub tablecie.</p><h2>Zamień zwykłe urządzenia na urządzenia inteligentne</h2><p>Przy pomocy aplikacji inteligentną wtyczkę można zautomatyzować na wiele sposobów. Dużą zaletą jest możliwość przekształcenia nawet zwykłych urządzeń w urządzenia inteligentne. Można skorzystać z opcji sterowania każdą wtyczką z osobna, np. np. gdy do jednej wtyczki podłączona jest zwykła lampa, a do drugiego słuchawki bezprzewodowe. Można wówczas zdalnie rozpocząć ładowanie słuchawek bezprzewodowych, bez konieczności włączania lampy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>10 szt</p></li><li><p>Wysokość:</p><p>4.5 cm</p></li><li><p>Szerokość:</p><p>35 cm</p></li><li><p>Głębokość:</p><p>7 cm</p></li><li><p>Waga:</p><p>0.825 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smat-listwa-zasilajaca_62784.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62785.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62786.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62787.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62788.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62784.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62785.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62786.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62787.webp",
-        "galerie/t/tesla-smat-listwa-zasilajaca_62788.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17238",
+  "code": "TSL-SPL-3+4USB",
+  "name": "Tesla Smat Listwa zasilająca 3 + 4 USB Wi-Fi",
+  "price": 169.0,
+  "description": "<h2>Inteligentna wtyczka do podłączenia do 3 urządzeń z 4 portami USB</h2><p>Dla osób, które chcą zdalnie kontrolować więcej urządzeń, listwa zasilająca jest doskonałym wyborem. Pozwala on na indywidualne sterowanie nawet siedmioma urządzeniami, jednocześnie pilnując przepływu prądu i zużycia energii. Tym samym można skuteczniej zoptymalizować ekonomikę gospodarstwa domowego i zaoszczędzić na kosztach energii.</p><h2>Asystenci dla maksymalnego komfortu</h2><p>Aplikację TESLA Smart, która steruje inteligentną wtyczką, można połączyć z inteligentnymi asystentami osobistymi Google Assistant lub Amazon Alexa. Dzięki ich zastosowaniu można sterować urządzeniem za pomocą głosu, co jeszcze bardziej ułatwia korzystanie z wtyczki.</p><h2>Łatwa obsługa</h2><p>Zarządzanie wszystkimi wejściami i portami USB z poziomu jednej aplikacji na telefonie lub tablecie z systemem iOS lub Android. Każdym wejściem i portem USB można sterować oddzielnie. Ponadto aplikacja pokazuje w dowolnym miejscu i czasie, czy gniazdo lub port jest włączony czy wyłączony, więc pozostawione podłączone do prądu żelazko już nigdy nie będzie problemem. Inteligentna wtyczka może nie tylko uczynić Twój dom bardziej inteligentnym, ale także bezpiecznym.</p><h2>Do 3 urządzeń za pomocą 4 USB</h2><p>Wszystkimi wtyczkami i portami USB można sterować za pomocą jednej aplikacji na telefonie lub tablecie.</p><h2>Zamień zwykłe urządzenia na urządzenia inteligentne</h2><p>Przy pomocy aplikacji inteligentną wtyczkę można zautomatyzować na wiele sposobów. Dużą zaletą jest możliwość przekształcenia nawet zwykłych urządzeń w urządzenia inteligentne. Można skorzystać z opcji sterowania każdą wtyczką z osobna, np. np. gdy do jednej wtyczki podłączona jest zwykła lampa, a do drugiego słuchawki bezprzewodowe. Można wówczas zdalnie rozpocząć ładowanie słuchawek bezprzewodowych, bez konieczności włączania lampy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>10 szt</p></li><li><p>Wysokość:</p><p>4.5 cm</p></li><li><p>Szerokość:</p><p>35 cm</p></li><li><p>Głębokość:</p><p>7 cm</p></li><li><p>Waga:</p><p>0.825 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smat-listwa-zasilajaca_62784.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62785.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62786.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62787.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62788.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62784.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62785.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62786.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62787.webp",
+    "galerie/t/tesla-smat-listwa-zasilajaca_62788.webp"
+  ],
+  "manufacturer": "Tesla"
 }

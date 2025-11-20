@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Akcesoria dla streamera"
-    ],
-    "id": "20910",
-    "code": "NGM-2290",
-    "name": "Mikrofon Genesis Radium 750D USB XLR Statyw",
-    "price": 399.0,
-    "description": "<h2>Radium 750D – dynamiczny mikrofon dla graczy i twórców</h2><p>Radium 750D to profesjonalny mikrofon dynamiczny stworzony z myślą o graczach, streamerach i twórcach treści. Dzięki połączeniu wysokiej jakości dźwięku, funkcjonalności i bogatego wyposażenia sprawdzi się zarówno w domowym studio, jak i podczas transmisji na żywo.</p><h2>Profesjonalny dźwięk w każdych warunkach</h2><p>Dynamiczna konstrukcja skutecznie eliminuje szumy otoczenia i zapewnia klarowne, naturalne brzmienie. Dzięki temu możesz brzmieć profesjonalnie, nawet bez specjalnej adaptacji akustycznej pomieszczenia.</p><h2>USB i XLR – swoboda wyboru</h2><p>Mikrofon wyposażono w dwa złącza: USB i XLR. USB gwarantuje szybkie podłączenie i natychmiastowe działanie z komputerem lub konsolą. Z kolei XLR pozwala korzystać z interfejsów audio, zapewniając jeszcze wyższą jakość dźwięku. Radium 750D dopasuje się do każdego setupu.</p><h2>Monitoring w czasie rzeczywistym</h2><p>Przy połączeniu USB możesz korzystać z wbudowanego wyjścia słuchawkowego z regulacją głośności, co umożliwia odsłuch bez opóźnień i natychmiastową kontrolę swojego głosu.</p><h2>Pełna kontrola i wygoda</h2><p>Regulacja Gain pozwala dopasować siłę sygnału do Twojego głosu i warunków nagrywania. Wbudowany przycisk Mute umożliwia szybkie wyciszenie mikrofonu jednym naciśnięciem – idealne rozwiązanie podczas streamów czy rozmów online.</p><h2>Stabilność i porządek</h2><p>W zestawie otrzymasz solidny statyw biurkowy Thulium 350D z ciężką podstawą, który zapewnia stabilność i redukuje drgania. Producent dołącza także opaski do zarządzania kablami, dzięki którym utrzymasz porządek na stanowisku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj mikrofonu</p><p>Dynamiczny</p></li><li><p>Charakterystyka kierunkowa</p><p>Kardioidalna</p></li><li><p>Złącza</p><p>USB, XLR</p></li><li><p>Pasmo przenoszenia</p><p>50 Hz – 16 kHz</p></li><li><p>Czułość</p><p>-54 dB ±3 dB</p></li><li><p>Impedancja</p><p>600 Ω</p></li><li><p>Wyjście słuchawkowe</p><p>Tak (przy połączeniu USB, z regulacją głośności)</p></li><li><p>Regulacja Gain</p><p>Tak</p></li><li><p>Funkcja Mute</p><p>Tak (przy połączeniu USB)</p></li><li><p>Statyw w zestawie</p><p>Thulium 350D (biurkowy, ciężka podstawa)</p></li><li><p>Dodatkowe akcesoria</p><p>Opaski do kabli</p></li><li><p>Kolor</p><p>Czarny</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Genesis</p></li><li><p>Dane producenta</p><p>Impakt S.A., ul. Stanisława Lema 16, 62-050 Mosina, Polska, info@impakt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/genesis.jpg",
-    "images": [
-        "galerie/m/mikrofon-genesis-radium-750d_78623.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78624.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78620.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78621.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78622.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78625.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78619.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78623.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78624.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78620.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78621.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78622.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78625.webp",
-        "galerie/m/mikrofon-genesis-radium-750d_78619.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "20910",
+  "code": "NGM-2290",
+  "name": "Mikrofon Genesis Radium 750D USB XLR Statyw",
+  "price": 399.0,
+  "description": "<h2>Radium 750D – dynamiczny mikrofon dla graczy i twórców</h2><p>Radium 750D to profesjonalny mikrofon dynamiczny stworzony z myślą o graczach, streamerach i twórcach treści. Dzięki połączeniu wysokiej jakości dźwięku, funkcjonalności i bogatego wyposażenia sprawdzi się zarówno w domowym studio, jak i podczas transmisji na żywo.</p><h2>Profesjonalny dźwięk w każdych warunkach</h2><p>Dynamiczna konstrukcja skutecznie eliminuje szumy otoczenia i zapewnia klarowne, naturalne brzmienie. Dzięki temu możesz brzmieć profesjonalnie, nawet bez specjalnej adaptacji akustycznej pomieszczenia.</p><h2>USB i XLR – swoboda wyboru</h2><p>Mikrofon wyposażono w dwa złącza: USB i XLR. USB gwarantuje szybkie podłączenie i natychmiastowe działanie z komputerem lub konsolą. Z kolei XLR pozwala korzystać z interfejsów audio, zapewniając jeszcze wyższą jakość dźwięku. Radium 750D dopasuje się do każdego setupu.</p><h2>Monitoring w czasie rzeczywistym</h2><p>Przy połączeniu USB możesz korzystać z wbudowanego wyjścia słuchawkowego z regulacją głośności, co umożliwia odsłuch bez opóźnień i natychmiastową kontrolę swojego głosu.</p><h2>Pełna kontrola i wygoda</h2><p>Regulacja Gain pozwala dopasować siłę sygnału do Twojego głosu i warunków nagrywania. Wbudowany przycisk Mute umożliwia szybkie wyciszenie mikrofonu jednym naciśnięciem – idealne rozwiązanie podczas streamów czy rozmów online.</p><h2>Stabilność i porządek</h2><p>W zestawie otrzymasz solidny statyw biurkowy Thulium 350D z ciężką podstawą, który zapewnia stabilność i redukuje drgania. Producent dołącza także opaski do zarządzania kablami, dzięki którym utrzymasz porządek na stanowisku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj mikrofonu</p><p>Dynamiczny</p></li><li><p>Charakterystyka kierunkowa</p><p>Kardioidalna</p></li><li><p>Złącza</p><p>USB, XLR</p></li><li><p>Pasmo przenoszenia</p><p>50 Hz – 16 kHz</p></li><li><p>Czułość</p><p>-54 dB ±3 dB</p></li><li><p>Impedancja</p><p>600 Ω</p></li><li><p>Wyjście słuchawkowe</p><p>Tak (przy połączeniu USB, z regulacją głośności)</p></li><li><p>Regulacja Gain</p><p>Tak</p></li><li><p>Funkcja Mute</p><p>Tak (przy połączeniu USB)</p></li><li><p>Statyw w zestawie</p><p>Thulium 350D (biurkowy, ciężka podstawa)</p></li><li><p>Dodatkowe akcesoria</p><p>Opaski do kabli</p></li><li><p>Kolor</p><p>Czarny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Genesis</p></li><li><p>Dane producenta</p><p>Impakt S.A., ul. Stanisława Lema 16, 62-050 Mosina, Polska, info@impakt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/genesis.jpg",
+  "images": [
+    "galerie/m/mikrofon-genesis-radium-750d_78623.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78624.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78620.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78621.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78622.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78625.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78619.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78623.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78624.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78620.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78621.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78622.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78625.webp",
+    "galerie/m/mikrofon-genesis-radium-750d_78619.webp"
+  ],
+  "manufacturer": "Genesis"
 }

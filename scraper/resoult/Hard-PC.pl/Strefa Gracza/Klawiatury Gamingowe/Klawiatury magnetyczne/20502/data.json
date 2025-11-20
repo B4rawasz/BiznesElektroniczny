@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Klawiatury magnetyczne"
-    ],
-    "id": "20502",
-    "code": "ACE60-5A",
-    "name": "Klawiatura MCHOSE ACE 60 8K RGB Wireless Black Magnetic TTC Uranus SE",
-    "price": 339.0,
-    "description": "<h2>MCHOSE Ace 60 – Kompaktowa klawiatura magnetyczna z ultraszybką reakcją i precyzją 0.01 mm</h2><p>MCHOSE Ace 60 Pro to turniejowa klawiatura magnetyczna w kompaktowym formacie 60%, stworzona z myślą o graczach e-sportowych i profesjonalistach, którzy potrzebują absolutnej kontroli i błyskawicznej reakcji. Zastosowane liniowe przełączniki TTC Uranus Magnetic Special Edition oferują stabilne, gładkie działanie i błyskawiczną reakcję, idealną w dynamicznych grach FPS. Dzięki technologii Hall Effect i precyzji rejestracji na poziomie 0.01 mm, klawiatura gwarantuje minimalne opóźnienia (0.1 ms) oraz polling rate sięgający aż 8000 Hz. Matowe czarne wykończenie i ergonomiczna aluminiowa konstrukcja sprawiają, że Ace 60 łączy styl z najwyższą wydajnością.</p><h2>Regulowana aktywacja i Rapid Trigger – natychmiastowa reakcja pod palcami</h2><p>Możliwość dostosowania punktów aktywacji w zakresie 0.1–3.4 mm (co 0.01 mm) pozwala na perfekcyjne dopasowanie klawiatury do stylu gry. Dzięki funkcji Rapid Trigger, klawisze aktywują się i dezaktywują błyskawicznie – bez sztywnego punktu aktywacji. To przewaga, którą doceni każdy gracz FPS, gdzie liczy się każda milisekunda.</p><figure><img alt=\"\" height=\"628\" src=\"galerie/k/klawiatura-mchose-ace60-8k-rg_77233.webp\" width=\"1200\"/></figure><h2>8K polling rate i tryb BERSERK – dla graczy bez kompromisów</h2><p>Ace 60 Pro oferuje niespotykane odświeżanie 8000 Hz, co przekłada się na czas reakcji na poziomie 0.1 ms. Z kolei funkcja BERSERK MODE zwiększa czułość klawiatury do maksimum – umożliwiając jeszcze szybsze rejestrowanie ruchów i kliknięć. Taka konfiguracja sprawia, że jesteś zawsze o krok przed przeciwnikiem.</p><figure><img alt=\"\" height=\"628\" src=\"galerie/k/klawiatura-mchose-ace60-8k-rg_77234.webp\" width=\"1200\"/></figure><h2>Design kompaktowy, możliwości pełnowymiarowe</h2><p>Konstrukcja oparta na metalowej płycie z piankowym tłumieniem, trwałe nakładki wykonane w technologii PBT, podświetlenie RGB z 22 efektami oraz pełna personalizacja przez sterownik MCHOSE Web sprawiają, że Ace 60 to sprzęt gotowy na każdą sytuację. Dzięki wbudowanej pamięci możesz zabrać swoje ustawienia wszędzie, a funkcje takie jak Snap Tap, SOCD, MT czy DKS pozwolą Ci stworzyć własne, optymalne środowisko gry.</p><figure><img alt=\"\" height=\"628\" src=\"galerie/k/klawiatura-mchose-ace60-8k-rg_77235.webp\" width=\"1200\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>290 × 100 × 28 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Typ klawiatury</p><p>Magnetyczna</p></li><li><p>Rodzaj przełączników</p><p>TTC Uranus Switch-SE</p></li><li><p>Łączność</p><p>przewodowa</p></li><li><p>Interfejs</p><p>USB</p></li><li><p>Liczba podstawowych klawiszy</p><p>61</p></li><li><p>Klawisze numeryczne</p><p>Nie</p></li><li><p>Anti-ghosting</p><p>Pełny</p></li><li><p>N-Key rollover</p><p>Pełny</p></li><li><p>Podświetlenie klawiszy</p><p>Tak</p></li><li><p>Długość przewodu</p><p>180 cm</p></li><li><p>Kompatybilność</p><p>Windows, Mac, Linux</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MCHOSE</p></li><li><p>Dane producenta</p><p>Maicong Digital Technology (Shenzhen) Co., Ltd., A3510-1 Rongde Times Square, Huaqiao New Village Community, Henggang Street, Longgang District, Shenzhen, China, support@mchose.store</p></li><li><p>Podmiot odpowiedzialny</p><p>ITRG-Zięba-Magiera-Stylińsk Spółka Jawna, ul. Christo Botrwa 6B/B4, 30-798 Kraków, handel@itrg.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mchose.jpg",
-    "images": [
-        "galerie/k/klawiatura-mchose-ace60-8k-rg_77236.webp",
-        "galerie/k/klawiatura-mchose-ace60-8k-rg_77233.webp",
-        "galerie/k/klawiatura-mchose-ace60-8k-rg_77234.webp",
-        "galerie/k/klawiatura-mchose-ace60-8k-rg_77235.webp",
-        "galerie/k/klawiatura-mchose-ace60-8k-rg_77236.webp",
-        "galerie/k/klawiatura-mchose-ace60-8k-rg_77233.webp",
-        "galerie/k/klawiatura-mchose-ace60-8k-rg_77234.webp",
-        "galerie/k/klawiatura-mchose-ace60-8k-rg_77235.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury magnetyczne"
+  ],
+  "id": "20502",
+  "code": "ACE60-5A",
+  "name": "Klawiatura MCHOSE ACE 60 8K RGB Wireless Black Magnetic TTC Uranus SE",
+  "price": 339.0,
+  "description": "<h2>MCHOSE Ace 60 – Kompaktowa klawiatura magnetyczna z ultraszybką reakcją i precyzją 0.01 mm</h2><p>MCHOSE Ace 60 Pro to turniejowa klawiatura magnetyczna w kompaktowym formacie 60%, stworzona z myślą o graczach e-sportowych i profesjonalistach, którzy potrzebują absolutnej kontroli i błyskawicznej reakcji. Zastosowane liniowe przełączniki TTC Uranus Magnetic Special Edition oferują stabilne, gładkie działanie i błyskawiczną reakcję, idealną w dynamicznych grach FPS. Dzięki technologii Hall Effect i precyzji rejestracji na poziomie 0.01 mm, klawiatura gwarantuje minimalne opóźnienia (0.1 ms) oraz polling rate sięgający aż 8000 Hz. Matowe czarne wykończenie i ergonomiczna aluminiowa konstrukcja sprawiają, że Ace 60 łączy styl z najwyższą wydajnością.</p><h2>Regulowana aktywacja i Rapid Trigger – natychmiastowa reakcja pod palcami</h2><p>Możliwość dostosowania punktów aktywacji w zakresie 0.1–3.4 mm (co 0.01 mm) pozwala na perfekcyjne dopasowanie klawiatury do stylu gry. Dzięki funkcji Rapid Trigger, klawisze aktywują się i dezaktywują błyskawicznie – bez sztywnego punktu aktywacji. To przewaga, którą doceni każdy gracz FPS, gdzie liczy się każda milisekunda.</p><figure><img alt=\"\" height=\"628\" src=\"galerie/k/klawiatura-mchose-ace60-8k-rg_77233.webp\" width=\"1200\"/></figure><h2>8K polling rate i tryb BERSERK – dla graczy bez kompromisów</h2><p>Ace 60 Pro oferuje niespotykane odświeżanie 8000 Hz, co przekłada się na czas reakcji na poziomie 0.1 ms. Z kolei funkcja BERSERK MODE zwiększa czułość klawiatury do maksimum – umożliwiając jeszcze szybsze rejestrowanie ruchów i kliknięć. Taka konfiguracja sprawia, że jesteś zawsze o krok przed przeciwnikiem.</p><figure><img alt=\"\" height=\"628\" src=\"galerie/k/klawiatura-mchose-ace60-8k-rg_77234.webp\" width=\"1200\"/></figure><h2>Design kompaktowy, możliwości pełnowymiarowe</h2><p>Konstrukcja oparta na metalowej płycie z piankowym tłumieniem, trwałe nakładki wykonane w technologii PBT, podświetlenie RGB z 22 efektami oraz pełna personalizacja przez sterownik MCHOSE Web sprawiają, że Ace 60 to sprzęt gotowy na każdą sytuację. Dzięki wbudowanej pamięci możesz zabrać swoje ustawienia wszędzie, a funkcje takie jak Snap Tap, SOCD, MT czy DKS pozwolą Ci stworzyć własne, optymalne środowisko gry.</p><figure><img alt=\"\" height=\"628\" src=\"galerie/k/klawiatura-mchose-ace60-8k-rg_77235.webp\" width=\"1200\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>290 × 100 × 28 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Typ klawiatury</p><p>Magnetyczna</p></li><li><p>Rodzaj przełączników</p><p>TTC Uranus Switch-SE</p></li><li><p>Łączność</p><p>przewodowa</p></li><li><p>Interfejs</p><p>USB</p></li><li><p>Liczba podstawowych klawiszy</p><p>61</p></li><li><p>Klawisze numeryczne</p><p>Nie</p></li><li><p>Anti-ghosting</p><p>Pełny</p></li><li><p>N-Key rollover</p><p>Pełny</p></li><li><p>Podświetlenie klawiszy</p><p>Tak</p></li><li><p>Długość przewodu</p><p>180 cm</p></li><li><p>Kompatybilność</p><p>Windows, Mac, Linux</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MCHOSE</p></li><li><p>Dane producenta</p><p>Maicong Digital Technology (Shenzhen) Co., Ltd., A3510-1 Rongde Times Square, Huaqiao New Village Community, Henggang Street, Longgang District, Shenzhen, China, support@mchose.store</p></li><li><p>Podmiot odpowiedzialny</p><p>ITRG-Zięba-Magiera-Stylińsk Spółka Jawna, ul. Christo Botrwa 6B/B4, 30-798 Kraków, handel@itrg.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mchose.jpg",
+  "images": [
+    "galerie/k/klawiatura-mchose-ace60-8k-rg_77236.webp",
+    "galerie/k/klawiatura-mchose-ace60-8k-rg_77233.webp",
+    "galerie/k/klawiatura-mchose-ace60-8k-rg_77234.webp",
+    "galerie/k/klawiatura-mchose-ace60-8k-rg_77235.webp",
+    "galerie/k/klawiatura-mchose-ace60-8k-rg_77236.webp",
+    "galerie/k/klawiatura-mchose-ace60-8k-rg_77233.webp",
+    "galerie/k/klawiatura-mchose-ace60-8k-rg_77234.webp",
+    "galerie/k/klawiatura-mchose-ace60-8k-rg_77235.webp"
+  ],
+  "manufacturer": "MCHOSE"
 }

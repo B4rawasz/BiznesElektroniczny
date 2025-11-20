@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Klawiatury mechaniczne"
-    ],
-    "id": "18435",
-    "code": "K5M-H1",
-    "name": "Klawiatura Keychron K5 Max RGB Gateron Low Profile Red (Hot Swap)",
-    "price": 599.0,
-    "description": "",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Keychron</p></li><li><p>Dane producenta</p><p>Keychron Technology, Inc., Middletown, New Castle, Delaware, 19709 Middletown, USA, support@keychron.com</p></li><li><p>Podmiot odpowiedzialny</p><p>APEX CE SPECIALISTS LIMITED, UNIT 3D NORTH POINT HOUSE, NORTH POINT BUSINESS PARK, NEW MALLOW ROALD, Cork, IE, T23AT2P, support@keychron.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/keychron.jpg",
-    "images": [
-        "galerie/k/klawiatura-keychron-k5-max-rg_71068.webp",
-        "galerie/k/klawiatura-keychron-k5-max-rg_71068.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "18435",
+  "code": "K5M-H1",
+  "name": "Klawiatura Keychron K5 Max RGB Gateron Low Profile Red (Hot Swap)",
+  "price": 599.0,
+  "description": "",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Keychron</p></li><li><p>Dane producenta</p><p>Keychron Technology, Inc., Middletown, New Castle, Delaware, 19709 Middletown, USA, support@keychron.com</p></li><li><p>Podmiot odpowiedzialny</p><p>APEX CE SPECIALISTS LIMITED, UNIT 3D NORTH POINT HOUSE, NORTH POINT BUSINESS PARK, NEW MALLOW ROALD, Cork, IE, T23AT2P, support@keychron.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/keychron.jpg",
+  "images": [
+    "galerie/k/klawiatura-keychron-k5-max-rg_71068.webp",
+    "galerie/k/klawiatura-keychron-k5-max-rg_71068.webp"
+  ],
+  "manufacturer": "Keychron"
 }

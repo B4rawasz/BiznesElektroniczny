@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zarządzenie okablowaniem"
-    ],
-    "id": "13424",
-    "code": "ZUAD-1154",
-    "name": "Zestaw przedłużaczy CableMod Classic ModMesh 8+6 Series - black/green",
-    "price": 130.9,
-    "description": "OPIS <p>Przedłużacze CableMod Classic ModMesh to zestaw okablowania do optycznej modernizacji komputera wykonany z najwyższą dbałością o szczegóły. W jego skład wchodzi w sumie pięć przedłużaczy: jeden 8-pinowy PCI-E i jeden 6-in PCI-E do zasilania kart graficzny, jeden 8-pinowy EPS, jeden 4+4-pin EPS oraz jeden 24-pinowy do zasilania płyty głównej i procesora.</p><p>Aby osiągnąć idealny wygląd producent do zestawu dołącza również grzebienie wspomagające optymalne ułożenie przewodów we wnętrzu: dziewięć 8-pinowych, trzy 6-pinowe oraz trzy 24-pinowe.</p><p>Zestaw przedłużaczy CableMod Classic ModMesh dostępny jest w wielu wariantach kolorystycznych dzięki czemu łatwiej dobierzesz taki, który będzie pasować do Twojego komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>ModMesh</p></li><li><p>Zawartość</p><p>1x 24-pinowy przedłużacz ATX (300mm)<br/>1x 8-pinowy przedłużacz EPS12V (450mm)<br/>1x 4+4 EPS12V przedłużacz (450mm)<br/>1x PCIe 8-pinowy przedłużacz (450mm)<br/>1x PCIe-6 -Pin przedłużacz ( 450 mm)<br/>9x Grzebień 8-pin<br/>3x Grzebień 6-pin<br/>3x Grzebień 24-pin</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>CableMod</p></li><li><p>Dane producenta</p><p>CableMod Limited, support@cablemod.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/cablemod.jpg",
-    "images": [
-        "galerie/z/zestaw-przedluzaczy-cablemod_48412.webp",
-        "galerie/z/zestaw-przedluzaczy-cablemod_48413.webp",
-        "galerie/z/zestaw-przedluzaczy-cablemod_48412.webp",
-        "galerie/z/zestaw-przedluzaczy-cablemod_48413.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "13424",
+  "code": "ZUAD-1154",
+  "name": "Zestaw przedłużaczy CableMod Classic ModMesh 8+6 Series - black/green",
+  "price": 130.9,
+  "description": "OPIS <p>Przedłużacze CableMod Classic ModMesh to zestaw okablowania do optycznej modernizacji komputera wykonany z najwyższą dbałością o szczegóły. W jego skład wchodzi w sumie pięć przedłużaczy: jeden 8-pinowy PCI-E i jeden 6-in PCI-E do zasilania kart graficzny, jeden 8-pinowy EPS, jeden 4+4-pin EPS oraz jeden 24-pinowy do zasilania płyty głównej i procesora.</p><p>Aby osiągnąć idealny wygląd producent do zestawu dołącza również grzebienie wspomagające optymalne ułożenie przewodów we wnętrzu: dziewięć 8-pinowych, trzy 6-pinowe oraz trzy 24-pinowe.</p><p>Zestaw przedłużaczy CableMod Classic ModMesh dostępny jest w wielu wariantach kolorystycznych dzięki czemu łatwiej dobierzesz taki, który będzie pasować do Twojego komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>ModMesh</p></li><li><p>Zawartość</p><p>1x 24-pinowy przedłużacz ATX (300mm)<br/>1x 8-pinowy przedłużacz EPS12V (450mm)<br/>1x 4+4 EPS12V przedłużacz (450mm)<br/>1x PCIe 8-pinowy przedłużacz (450mm)<br/>1x PCIe-6 -Pin przedłużacz ( 450 mm)<br/>9x Grzebień 8-pin<br/>3x Grzebień 6-pin<br/>3x Grzebień 24-pin</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>CableMod</p></li><li><p>Dane producenta</p><p>CableMod Limited, support@cablemod.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cablemod.jpg",
+  "images": [
+    "galerie/z/zestaw-przedluzaczy-cablemod_48412.webp",
+    "galerie/z/zestaw-przedluzaczy-cablemod_48413.webp",
+    "galerie/z/zestaw-przedluzaczy-cablemod_48412.webp",
+    "galerie/z/zestaw-przedluzaczy-cablemod_48413.webp"
+  ],
+  "manufacturer": "CableMod"
 }

@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Monitory"
-    ],
-    "id": "19730",
-    "code": "GS27QA",
-    "name": "Monitor 27\" Gigabyte GS27QA 2K SS IPS 180Hz 1ms MPRT",
-    "price": 699.0,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Przekątna ekranu</p><p>27 cali / 68,5 cm (fizycznie podano również 69 cm)</p></li><li><p>Rozdzielczość</p><p>2560 x 1440 (QHD)</p></li><li><p>Format obrazu</p><p>16:9</p></li><li><p>Typ matrycy</p><p>IPS</p></li><li><p>Rodzaj podświetlenia</p><p>LED</p></li><li><p>Częstotliwość odświeżania</p><p>180 Hz</p></li><li><p>Czas reakcji</p><p>1 ms</p></li><li><p>Kontrast</p><p>statyczny 1000:1</p></li><li><p>Jasność</p><p>300 cd/m²</p></li><li><p>Wielkość plamki</p><p>0,2331 mm</p></li><li><p>Kąty widzenia</p><p>178° (pion) / 178° (poziom)</p></li><li><p>Technologia HDR</p><p>Tak</p></li><li><p>Zakrzewienie</p><p>Nie, ekran płaski</p></li><li><p>Dotykowy ekran</p><p>Nie</p></li><li><p>Funkcje poprawy obrazu</p><p>AIM Stabilizer, Crosshair (celownik ekranowy), Korektor czerni (Black Equalizer)</p></li><li><p>Ochrona oczu</p><p>Redukcja migotania (Flicker Free), Filtr światła niebieskiego (Low Blue Light), Powłoka antyodblaskowa (Anti-glare)</p></li><li><p>Złącza</p><p>1x DisplayPort, 2x HDMI 2.0, Wyjście liniowe audio</p></li><li><p>Głośniki</p><p>Nie</p></li><li><p>Kamerka</p><p>Nie</p></li><li><p>Mikrofon</p><p>Nie</p></li><li><p>Pilot</p><p>Nie</p></li><li><p>Tuner TV</p><p>Nie</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Regulacja pochylenia (tilt)</p><p>Tak</p></li><li><p>Regulacja wysokości, obrotu, pivot</p><p>Brak</p></li><li><p>Montaż VESA</p><p>Tak, 100x100 mm</p></li><li><p>Wymiary z podstawą (szer. x wys. x gł.)</p><p>619 x 447 x 172 mm</p></li><li><p>Waga</p><p>5,26 kg</p></li><li><p>Klasa energetyczna SDR</p><p>F</p></li><li><p>Zużycie</p><p>26 kWh / 1000h ≈ 26,78 zł</p></li><li><p>Klasa energetyczna HDR</p><p>G</p></li><li><p>Zużycie</p><p>42 kWh / 1000h ≈ 43,26 zł</p></li><li><p>Pobór mocy w trybie czuwania</p><p>0,5 W</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gigabyte</p></li><li><p>Dane producenta</p><p>Gigabyte Technology Poland Sp. z o.o., Fabryczna 20, 53-609 Wrocław, Polska</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/gigabyte.jpg",
-    "images": [
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73232.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73233.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73234.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73235.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73236.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73237.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73238.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73239.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73240.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73232.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73233.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73234.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73235.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73236.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73237.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73238.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73239.webp",
-        "galerie/k/kopia-monitor-27-gigabyte-gs2_73240.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Monitory"
+  ],
+  "id": "19730",
+  "code": "GS27QA",
+  "name": "Monitor 27\" Gigabyte GS27QA 2K SS IPS 180Hz 1ms MPRT",
+  "price": 699.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Przekątna ekranu</p><p>27 cali / 68,5 cm (fizycznie podano również 69 cm)</p></li><li><p>Rozdzielczość</p><p>2560 x 1440 (QHD)</p></li><li><p>Format obrazu</p><p>16:9</p></li><li><p>Typ matrycy</p><p>IPS</p></li><li><p>Rodzaj podświetlenia</p><p>LED</p></li><li><p>Częstotliwość odświeżania</p><p>180 Hz</p></li><li><p>Czas reakcji</p><p>1 ms</p></li><li><p>Kontrast</p><p>statyczny 1000:1</p></li><li><p>Jasność</p><p>300 cd/m²</p></li><li><p>Wielkość plamki</p><p>0,2331 mm</p></li><li><p>Kąty widzenia</p><p>178° (pion) / 178° (poziom)</p></li><li><p>Technologia HDR</p><p>Tak</p></li><li><p>Zakrzewienie</p><p>Nie, ekran płaski</p></li><li><p>Dotykowy ekran</p><p>Nie</p></li><li><p>Funkcje poprawy obrazu</p><p>AIM Stabilizer, Crosshair (celownik ekranowy), Korektor czerni (Black Equalizer)</p></li><li><p>Ochrona oczu</p><p>Redukcja migotania (Flicker Free), Filtr światła niebieskiego (Low Blue Light), Powłoka antyodblaskowa (Anti-glare)</p></li><li><p>Złącza</p><p>1x DisplayPort, 2x HDMI 2.0, Wyjście liniowe audio</p></li><li><p>Głośniki</p><p>Nie</p></li><li><p>Kamerka</p><p>Nie</p></li><li><p>Mikrofon</p><p>Nie</p></li><li><p>Pilot</p><p>Nie</p></li><li><p>Tuner TV</p><p>Nie</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Regulacja pochylenia (tilt)</p><p>Tak</p></li><li><p>Regulacja wysokości, obrotu, pivot</p><p>Brak</p></li><li><p>Montaż VESA</p><p>Tak, 100x100 mm</p></li><li><p>Wymiary z podstawą (szer. x wys. x gł.)</p><p>619 x 447 x 172 mm</p></li><li><p>Waga</p><p>5,26 kg</p></li><li><p>Klasa energetyczna SDR</p><p>F</p></li><li><p>Zużycie</p><p>26 kWh / 1000h ≈ 26,78 zł</p></li><li><p>Klasa energetyczna HDR</p><p>G</p></li><li><p>Zużycie</p><p>42 kWh / 1000h ≈ 43,26 zł</p></li><li><p>Pobór mocy w trybie czuwania</p><p>0,5 W</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gigabyte</p></li><li><p>Dane producenta</p><p>Gigabyte Technology Poland Sp. z o.o., Fabryczna 20, 53-609 Wrocław, Polska</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gigabyte.jpg",
+  "images": [
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73232.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73233.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73234.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73235.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73236.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73237.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73238.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73239.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73240.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73232.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73233.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73234.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73235.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73236.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73237.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73238.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73239.webp",
+    "galerie/k/kopia-monitor-27-gigabyte-gs2_73240.webp"
+  ],
+  "manufacturer": "Gigabyte"
 }

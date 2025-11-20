@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Fotele i akcesoria",
-        "Fotele gamingowe"
-    ],
-    "id": "20131",
-    "code": "AD12YDDC-L-20-B-CF",
-    "name": "Fotel Anda Seat Kaiser 4 L Black fabric",
-    "price": 1999.0,
-    "description": "<h2>Kaiser 4 – ergonomiczny fotel gamingowy premium</h2><p><strong>Kaiser 4</strong> to zaawansowany fotel gamingowy zaprojektowany z myślą o maksymalnym komforcie i wsparciu podczas wielogodzinnych sesji grania lub pracy. Nowoczesne rozwiązania ergonomiczne, takie jak <strong>czterostopniowe wsparcie lędźwiowe</strong>, <strong>magnetyczna poduszka szyjna</strong> i <strong>regulowane podłokietniki 5D</strong>, pozwalają na perfekcyjne dopasowanie fotela do sylwetki użytkownika.</p><h2>Wytrzymałość i wygoda na najwyższym poziomie</h2><p>Siedzisko wykonano z wysokiej jakości <strong>elastycznej pianki z efektem pamięci</strong>, uzupełnionej o warstwę chłodzącą. Konstrukcja opiera się na solidnej <strong>stalowej ramie</strong>, a całość pokrywa odporna na zarysowania i plamy <strong>tkanina lniana AD Alpha</strong>. Fotel łączy wytrzymałość z elegancją i komfortem użytkowania.</p><h2>Pełna personalizacja i funkcjonalność</h2><p>Kaiser 4 oferuje szeroki zakres regulacji – od <strong>odchylenia o 135°</strong>, przez <strong>funkcję bujania (30°)</strong>, aż po wielokierunkowe podłokietniki. Dzięki temu fotel sprawdzi się nie tylko podczas intensywnego gamingu, ale także jako ergonomiczne siedzisko do pracy biurowej.</p><h2>Stylowy wygląd i szeroki wybór</h2><p>Dostępny w aż <strong>10 wersjach kolorystycznych</strong>, w tym z tapicerką materiałową lub skórzaną, <strong>Kaiser 4</strong> pozwala dopasować wygląd do każdego wnętrza – od nowoczesnych stanowisk gamingowych po eleganckie biura.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość mebla</p><p>134 cm</p></li><li><p>Szerokość mebla</p><p>74 cm</p></li><li><p>Głębokość mebla</p><p>61 cm</p></li><li><p>Maksymalna wysokość siedziska</p><p>52 cm</p></li><li><p>Minimalna wysokość siedziska</p><p>46 cm</p></li><li><p>Szerokość siedziska</p><p>49 cm</p></li><li><p>Głębokość siedziska</p><p>47 cm</p></li><li><p>Waga produktu z opakowaniem jednostkowym</p><p>38.5kg</p></li><li><p>Materiał obicia</p><p>Tkanina lniana AD Alpha</p></li><li><p>Obciążenie maksymalne</p><p>120 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Anda Seat</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>QLABPRO sp. z o.o., ul. OSTROBRAMSKA, nr 101A, lok. 301, 04-041 Warszawa, support@andaseat.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/anda-seat.jpg",
-    "images": [
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76238.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76236.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76235.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76237.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76239.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76244.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76240.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76243.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76238.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76236.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76235.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76237.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76239.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76244.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76240.webp",
-        "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76243.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Fotele i akcesoria",
+    "Fotele gamingowe"
+  ],
+  "id": "20131",
+  "code": "AD12YDDC-L-20-B-CF",
+  "name": "Fotel Anda Seat Kaiser 4 L Black fabric",
+  "price": 1999.0,
+  "description": "<h2>Kaiser 4 – ergonomiczny fotel gamingowy premium</h2><p><strong>Kaiser 4</strong> to zaawansowany fotel gamingowy zaprojektowany z myślą o maksymalnym komforcie i wsparciu podczas wielogodzinnych sesji grania lub pracy. Nowoczesne rozwiązania ergonomiczne, takie jak <strong>czterostopniowe wsparcie lędźwiowe</strong>, <strong>magnetyczna poduszka szyjna</strong> i <strong>regulowane podłokietniki 5D</strong>, pozwalają na perfekcyjne dopasowanie fotela do sylwetki użytkownika.</p><h2>Wytrzymałość i wygoda na najwyższym poziomie</h2><p>Siedzisko wykonano z wysokiej jakości <strong>elastycznej pianki z efektem pamięci</strong>, uzupełnionej o warstwę chłodzącą. Konstrukcja opiera się na solidnej <strong>stalowej ramie</strong>, a całość pokrywa odporna na zarysowania i plamy <strong>tkanina lniana AD Alpha</strong>. Fotel łączy wytrzymałość z elegancją i komfortem użytkowania.</p><h2>Pełna personalizacja i funkcjonalność</h2><p>Kaiser 4 oferuje szeroki zakres regulacji – od <strong>odchylenia o 135°</strong>, przez <strong>funkcję bujania (30°)</strong>, aż po wielokierunkowe podłokietniki. Dzięki temu fotel sprawdzi się nie tylko podczas intensywnego gamingu, ale także jako ergonomiczne siedzisko do pracy biurowej.</p><h2>Stylowy wygląd i szeroki wybór</h2><p>Dostępny w aż <strong>10 wersjach kolorystycznych</strong>, w tym z tapicerką materiałową lub skórzaną, <strong>Kaiser 4</strong> pozwala dopasować wygląd do każdego wnętrza – od nowoczesnych stanowisk gamingowych po eleganckie biura.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość mebla</p><p>134 cm</p></li><li><p>Szerokość mebla</p><p>74 cm</p></li><li><p>Głębokość mebla</p><p>61 cm</p></li><li><p>Maksymalna wysokość siedziska</p><p>52 cm</p></li><li><p>Minimalna wysokość siedziska</p><p>46 cm</p></li><li><p>Szerokość siedziska</p><p>49 cm</p></li><li><p>Głębokość siedziska</p><p>47 cm</p></li><li><p>Waga produktu z opakowaniem jednostkowym</p><p>38.5kg</p></li><li><p>Materiał obicia</p><p>Tkanina lniana AD Alpha</p></li><li><p>Obciążenie maksymalne</p><p>120 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Anda Seat</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>QLABPRO sp. z o.o., ul. OSTROBRAMSKA, nr 101A, lok. 301, 04-041 Warszawa, support@andaseat.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/anda-seat.jpg",
+  "images": [
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76238.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76236.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76235.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76237.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76239.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76244.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76240.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76243.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76238.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76236.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76235.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76237.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76239.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76244.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76240.webp",
+    "galerie/f/fotel-anda-seat-kaiser-4-l-bl_76243.webp"
+  ],
+  "manufacturer": "Anda Seat"
 }

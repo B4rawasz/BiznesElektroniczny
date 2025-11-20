@@ -1,20 +1,21 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Narzędzia"
-    ],
-    "id": "16175",
-    "code": "ZUWS-139",
-    "name": "Nóż uniwersalny iFixit Utility Knife",
-    "price": 21.9,
-    "description": "<p>Jeśli jesteś pasjonatem majsterkowania przy swoim komputerze lub innym urządzeniu elektronicznym, to z pewnością już spotkałeś się z iFixit. Firma nie tylko zdobyła uznanie dzięki wielu darmowym podręcznikom naprawy, ale także oferuje własne narzędzia. Celem firmy jest zachęcanie konsumentów do naprawy elektroniki poprzez swoje poradniki i produkty. Dlaczego? Bo \"naprawianie to recykling\". Dzięki wysokiej jakości narzędziom iFixit, wszystkim rodzajom urządzeń elektronicznych można dać drugie życie</p><p>Nóż iFixit Utility Knife posiada blokadę ostrza. Ostrze tego noża jest bardzo ostre i nadaje się do otwierania wszelkiego rodzaju opakowań. Dlatego jest to idealny towarzysz dla wszystkich techników i pracowników magazynowych. Jednak trzeba być ostrożnym: przy pracach z delikatnymi materiałami warto działać ostrożnie i w razie potrzeby korzystać z narzędzi plastikowych, takich jak otwieracz plastikowy czy narzędzie do otwierania plastikowych obudów. Dzięki iFixit, naprawa staje się prosta i ekologiczna!</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ifixit.jpg",
-    "images": [
-        "galerie/n/noz-uniwersalny-ifixit-utilit_57595.webp",
-        "galerie/n/noz-uniwersalny-ifixit-utilit_57596.webp",
-        "galerie/n/noz-uniwersalny-ifixit-utilit_57595.webp",
-        "galerie/n/noz-uniwersalny-ifixit-utilit_57596.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Narzędzia"
+  ],
+  "id": "16175",
+  "code": "ZUWS-139",
+  "name": "Nóż uniwersalny iFixit Utility Knife",
+  "price": 21.9,
+  "description": "<p>Jeśli jesteś pasjonatem majsterkowania przy swoim komputerze lub innym urządzeniu elektronicznym, to z pewnością już spotkałeś się z iFixit. Firma nie tylko zdobyła uznanie dzięki wielu darmowym podręcznikom naprawy, ale także oferuje własne narzędzia. Celem firmy jest zachęcanie konsumentów do naprawy elektroniki poprzez swoje poradniki i produkty. Dlaczego? Bo \"naprawianie to recykling\". Dzięki wysokiej jakości narzędziom iFixit, wszystkim rodzajom urządzeń elektronicznych można dać drugie życie</p><p>Nóż iFixit Utility Knife posiada blokadę ostrza. Ostrze tego noża jest bardzo ostre i nadaje się do otwierania wszelkiego rodzaju opakowań. Dlatego jest to idealny towarzysz dla wszystkich techników i pracowników magazynowych. Jednak trzeba być ostrożnym: przy pracach z delikatnymi materiałami warto działać ostrożnie i w razie potrzeby korzystać z narzędzi plastikowych, takich jak otwieracz plastikowy czy narzędzie do otwierania plastikowych obudów. Dzięki iFixit, naprawa staje się prosta i ekologiczna!</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ifixit.jpg",
+  "images": [
+    "galerie/n/noz-uniwersalny-ifixit-utilit_57595.webp",
+    "galerie/n/noz-uniwersalny-ifixit-utilit_57596.webp",
+    "galerie/n/noz-uniwersalny-ifixit-utilit_57595.webp",
+    "galerie/n/noz-uniwersalny-ifixit-utilit_57596.webp"
+  ],
+  "manufacturer": "iFixit"
 }

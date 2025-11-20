@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Gry planszowe",
-        "Akcesoria"
-    ],
-    "id": "19799",
-    "code": "9918995124206",
-    "name": "Farbka Citadel Kislev Flesh 12ml (air)",
-    "price": 12.9,
-    "description": "<h2>Kislev Flesh – farba do malowania skóry i detali twarzy</h2><p>Kislev Flesh to farba Citadel, która świetnie sprawdza się w malowaniu skóry i detali twarzy na Twoich modelach. Jest to jasny, delikatny odcień skóry, który idealnie nadaje się do malowania twarzy, rękawiczek, gołych ramion czy innych elementów, które wymagają subtelnych, jasnych tonów.</p><p>Farba Kislev Flesh charakteryzuje się dobrym kryciem, co sprawia, że jest łatwa do nakładania na powierzchnie, które mają wyróżniać się naturalnym odcieniem skóry. Doskonale sprawdza się na modelach, gdzie skóra ma być jasna, zdrowa, a jej szczegóły – takie jak oczy, usta, rysy twarzy – wymagają precyzyjnego podkreślenia.</p><p>Kislev Flesh to także świetny wybór, gdy chcesz uzyskać naturalny wygląd skóry, zanim zastosujesz dodatkowe efekty, takie jak cieniowanie czy podkreślanie detali. Dzięki tej farbie z łatwością osiągniesz subtelny efekt zdrowej, jasnej skóry, który świetnie komponuje się z innymi farbami i technikami malarskimi.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
-    "manufacturer_img": "galerie/producenci/games-workshop.jpg",
-    "images": [
-        "galerie/f/farbka-citadel-kislev-flesh-1_73404.webp",
-        "galerie/f/farbka-citadel-kislev-flesh-1_73404.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Gry planszowe",
+    "Akcesoria"
+  ],
+  "id": "19799",
+  "code": "9918995124206",
+  "name": "Farbka Citadel Kislev Flesh 12ml (air)",
+  "price": 12.9,
+  "description": "<h2>Kislev Flesh – farba do malowania skóry i detali twarzy</h2><p>Kislev Flesh to farba Citadel, która świetnie sprawdza się w malowaniu skóry i detali twarzy na Twoich modelach. Jest to jasny, delikatny odcień skóry, który idealnie nadaje się do malowania twarzy, rękawiczek, gołych ramion czy innych elementów, które wymagają subtelnych, jasnych tonów.</p><p>Farba Kislev Flesh charakteryzuje się dobrym kryciem, co sprawia, że jest łatwa do nakładania na powierzchnie, które mają wyróżniać się naturalnym odcieniem skóry. Doskonale sprawdza się na modelach, gdzie skóra ma być jasna, zdrowa, a jej szczegóły – takie jak oczy, usta, rysy twarzy – wymagają precyzyjnego podkreślenia.</p><p>Kislev Flesh to także świetny wybór, gdy chcesz uzyskać naturalny wygląd skóry, zanim zastosujesz dodatkowe efekty, takie jak cieniowanie czy podkreślanie detali. Dzięki tej farbie z łatwością osiągniesz subtelny efekt zdrowej, jasnej skóry, który świetnie komponuje się z innymi farbami i technikami malarskimi.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
+  "manufacturer_img": "galerie/producenci/games-workshop.jpg",
+  "images": [
+    "galerie/f/farbka-citadel-kislev-flesh-1_73404.webp",
+    "galerie/f/farbka-citadel-kislev-flesh-1_73404.webp"
+  ],
+  "manufacturer": "Games Workshop"
 }

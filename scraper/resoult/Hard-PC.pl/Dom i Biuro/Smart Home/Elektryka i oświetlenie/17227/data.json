@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Elektryka i oświetlenie"
-    ],
-    "id": "17227",
-    "code": "TSL-SWI-SCENEZG4",
-    "name": "Tesla Smart Włącznik światła poczwórny z baterią",
-    "price": 99.99,
-    "description": "<h2>Inteligentny przełącznik dla Twojego idealnego domu</h2><p>Cztery inteligentne przyciski, wiele możliwości. To jest inteligentny przełącznik TESLA Smart Switch Quatro Battery. Każdy z przycisków obsługuje trzy różne tryby, które z kolei mogą wykonywać różne funkcje. Można je szybko skonfigurować za pomocą aplikacji mobilnej. Instalacja jest również szybka, a przełącznik jest zasilany bateryjnie, więc wystarczy go przymocować do ściany.</p><h2>Kontroluj dowolne urządzenia</h2><p>Każdy z przycisków możesz podłączyć do dowolnego sparowanego urządzenia i nimi sterować z jednego miejsca.</p><h2>Łatwy w instalacji i konfiguracji</h2><p>Inteligentny przełącznik TESLA Smart Switch Quatro Battery można łatwo skonfigurować samodzielnie - wkładając baterie do przełącznika, mocując go do ściany i programując za pomocą aplikacji mobilnej zgodnie z własnymi wymaganiami i potrzebami.</p><h2>Jedno kliknięcie uruchamia serię działań</h2><p>Możliwości są nieograniczone. To od Ciebie zależy, jak spersonalizować swój system inteligentnego domu. Jedno dotknięcie może zrobić sporo. Instalując przełącznik w pobliżu drzwi wejściowych, możesz wyłączyć wszystkie urządzenia domowe i włączyć tryb alarmowy wraz z robotem sprzątającym. Po powrocie do domu wyłącz alarm jednym dotknięciem i uruchom oczyszczacz powietrza. Na przykład w salonie można ustawić scenariusz kolacji, który włączy oświetlenie nad stołem. Scenariusz telewizyjny spowoduje włączenie telewizora, przyciemnienie świateł i wyłączenie robota sprzątającego, oczyszczacza powietrza i innych urządzeń, które mogą przeszkadzać podczas oglądania ulubionego filmu. A może relaks przed snem? Za pomocą przełącznika przyłóżkowego można wyłączyć wszystkie światła w domu i włączyć tryb alarmu.</p><h2>Protokół ZigBee</h2><p>Możliwości nie kończą się na instalacji i pobraniu aplikacji. W końcu dzięki protokołowi bezprzewodowemu ZigBee możesz także podłączyć przełącznik do innych inteligentnych asystentów i skonfigurować dla nich automatyczne scenariusze w aplikacji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>120 szt</p></li><li><p>Wysokość:</p><p>1.3 cm</p></li><li><p>Szerokość:</p><p>8.6 cm</p></li><li><p>Głębokość:</p><p>8.6 cm</p></li><li><p>Waga:</p><p>0.105 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-wlacznik-swiatla_62963.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62964.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62965.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62966.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62967.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62968.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62969.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62970.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62963.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62964.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62965.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62966.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62967.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62968.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62969.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62970.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17227",
+  "code": "TSL-SWI-SCENEZG4",
+  "name": "Tesla Smart Włącznik światła poczwórny z baterią",
+  "price": 99.99,
+  "description": "<h2>Inteligentny przełącznik dla Twojego idealnego domu</h2><p>Cztery inteligentne przyciski, wiele możliwości. To jest inteligentny przełącznik TESLA Smart Switch Quatro Battery. Każdy z przycisków obsługuje trzy różne tryby, które z kolei mogą wykonywać różne funkcje. Można je szybko skonfigurować za pomocą aplikacji mobilnej. Instalacja jest również szybka, a przełącznik jest zasilany bateryjnie, więc wystarczy go przymocować do ściany.</p><h2>Kontroluj dowolne urządzenia</h2><p>Każdy z przycisków możesz podłączyć do dowolnego sparowanego urządzenia i nimi sterować z jednego miejsca.</p><h2>Łatwy w instalacji i konfiguracji</h2><p>Inteligentny przełącznik TESLA Smart Switch Quatro Battery można łatwo skonfigurować samodzielnie - wkładając baterie do przełącznika, mocując go do ściany i programując za pomocą aplikacji mobilnej zgodnie z własnymi wymaganiami i potrzebami.</p><h2>Jedno kliknięcie uruchamia serię działań</h2><p>Możliwości są nieograniczone. To od Ciebie zależy, jak spersonalizować swój system inteligentnego domu. Jedno dotknięcie może zrobić sporo. Instalując przełącznik w pobliżu drzwi wejściowych, możesz wyłączyć wszystkie urządzenia domowe i włączyć tryb alarmowy wraz z robotem sprzątającym. Po powrocie do domu wyłącz alarm jednym dotknięciem i uruchom oczyszczacz powietrza. Na przykład w salonie można ustawić scenariusz kolacji, który włączy oświetlenie nad stołem. Scenariusz telewizyjny spowoduje włączenie telewizora, przyciemnienie świateł i wyłączenie robota sprzątającego, oczyszczacza powietrza i innych urządzeń, które mogą przeszkadzać podczas oglądania ulubionego filmu. A może relaks przed snem? Za pomocą przełącznika przyłóżkowego można wyłączyć wszystkie światła w domu i włączyć tryb alarmu.</p><h2>Protokół ZigBee</h2><p>Możliwości nie kończą się na instalacji i pobraniu aplikacji. W końcu dzięki protokołowi bezprzewodowemu ZigBee możesz także podłączyć przełącznik do innych inteligentnych asystentów i skonfigurować dla nich automatyczne scenariusze w aplikacji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>120 szt</p></li><li><p>Wysokość:</p><p>1.3 cm</p></li><li><p>Szerokość:</p><p>8.6 cm</p></li><li><p>Głębokość:</p><p>8.6 cm</p></li><li><p>Waga:</p><p>0.105 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-wlacznik-swiatla_62963.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62964.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62965.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62966.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62967.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62968.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62969.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62970.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62963.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62964.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62965.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62966.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62967.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62968.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62969.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62970.webp"
+  ],
+  "manufacturer": "Tesla"
 }

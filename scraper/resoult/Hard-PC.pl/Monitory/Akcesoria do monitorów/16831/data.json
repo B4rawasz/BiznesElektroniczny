@@ -1,26 +1,27 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Akcesoria do monitorów"
-    ],
-    "id": "16831",
-    "code": "C11045BK",
-    "name": "Kabel HDMI 2.0 Unitek High Speed 4K C11045BK - 5 m",
-    "price": 39.0,
-    "description": "<p>Przewód High Speed HDMI o ulepszonych właściwościach fizycznych: grubsze miedziane żyły, elastyczna osłonka, podwójne ekranowanie. Wspiera HDMI 2.0 także na dużych odległościach (do 20 m).</p><h2>Najwyższe parametry sygnału audio-video</h2><p>Sekretem dobrych kabli nie jest ozdobny oplot czy ładne wtyczki, tylko rodzaj użytych żył przewodzących. Dlatego w długich przewodach HDMI Unitek zastosował grube (od 28 do 24 AWG – im mniejsza liczba tym większa średnica), wielodrutowe żyły miedziane. Przewody są 7-krotnie ekranowane, co minimalizuje wpływ i emitowanie zakłóceń elektromagnetycznych – są w pełni bezpieczne. Dodatkowo skręcane żyły mają lepszą odporność na zginanie, dzięki czemu kabel jest bardziej giętki i wygodny w montażu.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/k/kabel-hdmi-2-0-unitek-high-sp_59299.webp\" width=\"3000\"/></figure><h2>Nowe możliwości HDMI 2.0</h2><p>Przewód HDMI 2.0 oferuje transfer do 18 Gbps. Dzięki tak dużej przepustowości możesz korzystać z najnowszych technologii takich jak ARC (zwrotny kanał audio), HDR, EDID (automatyczne wykrywanie parametrów), 3D, CEC i wyświetlanie 2 różnych obrazów w tym samym czasie. Niezwykłym parametrom obrazu dorównują wrażenia dźwiękowe, które gwarantuje bezstratne Dolby True HD i DTS-HD.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/k/kabel-hdmi-2-0-unitek-high-sp_59301.webp\" width=\"2000\"/></figure><h2>Z dbałością o każdy detal</h2><p>Unitek dba także o funkcjonalne aspekty dostarczanych towarów. Kable pakowane są w estetyczne tekturowe pudełka. Każdy przewód spięty jest opaską, aby łatwiej zapanować nad organizacją jego przebiegu. Końcówki zabezpieczone są przeciwkurzowymi zatyczkami - ułatwiają jego przeciąganie w ciasnych korytkach - i owinięte taśma zabezpieczającą. Pozłacanie wtyków chroni je przed korozją i stabilizuje sygnał. Wszystko to po to, aby przewód służył przez długie lata.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/k/kabel-hdmi-2-0-unitek-high-sp_59300.webp\" width=\"3000\"/></figure><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>15-metrowy przewód High Speed HDMI</li><li>Wspiera HDMI 2.0</li><li>Zaprojektowany do transmitowania rozdzielczości 4K@60 Hz na długie dystanse</li><li>Obsługuje HDR - większa szczegółowość i kontrast zarówno w ciemnych, jak i jasnych częściach tego samego obraz, a także rozszerzoną przestrzeń kolorów.</li><li>Dzięki ARC telewizor wysyła dane audio do amplitunera lub odbiornika audio.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>18 Gbps</p></li><li><p>Standard Video</p><p>HDMI 2.0</p></li><li><p>Złącze 2</p><p>Wtyk HDMI</p></li><li><p>Złącze 1</p><p>Wtyk HDMI</p></li><li><p>Maksymalna rozdzielczość</p><p>4K</p></li><li><p>Możliwość pracy dwukierunkowej</p><p>tak</p></li><li><p>Obsługiwane technologie</p><p>32 kanały audio<br/>3D<br/>ARC<br/>CEC<br/>Dolby Atmos<br/>Dolby Digital<br/>EDID<br/>Ethernet<br/>HDCP<br/>HDR<br/>Plug &amp; Play</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59297.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59298.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59299.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59300.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59301.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59297.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59298.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59299.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59300.webp",
-        "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59301.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Akcesoria do monitorów"
+  ],
+  "id": "16831",
+  "code": "C11045BK",
+  "name": "Kabel HDMI 2.0 Unitek High Speed 4K C11045BK - 5 m",
+  "price": 39.0,
+  "description": "<p>Przewód High Speed HDMI o ulepszonych właściwościach fizycznych: grubsze miedziane żyły, elastyczna osłonka, podwójne ekranowanie. Wspiera HDMI 2.0 także na dużych odległościach (do 20 m).</p><h2>Najwyższe parametry sygnału audio-video</h2><p>Sekretem dobrych kabli nie jest ozdobny oplot czy ładne wtyczki, tylko rodzaj użytych żył przewodzących. Dlatego w długich przewodach HDMI Unitek zastosował grube (od 28 do 24 AWG – im mniejsza liczba tym większa średnica), wielodrutowe żyły miedziane. Przewody są 7-krotnie ekranowane, co minimalizuje wpływ i emitowanie zakłóceń elektromagnetycznych – są w pełni bezpieczne. Dodatkowo skręcane żyły mają lepszą odporność na zginanie, dzięki czemu kabel jest bardziej giętki i wygodny w montażu.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/k/kabel-hdmi-2-0-unitek-high-sp_59299.webp\" width=\"3000\"/></figure><h2>Nowe możliwości HDMI 2.0</h2><p>Przewód HDMI 2.0 oferuje transfer do 18 Gbps. Dzięki tak dużej przepustowości możesz korzystać z najnowszych technologii takich jak ARC (zwrotny kanał audio), HDR, EDID (automatyczne wykrywanie parametrów), 3D, CEC i wyświetlanie 2 różnych obrazów w tym samym czasie. Niezwykłym parametrom obrazu dorównują wrażenia dźwiękowe, które gwarantuje bezstratne Dolby True HD i DTS-HD.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/k/kabel-hdmi-2-0-unitek-high-sp_59301.webp\" width=\"2000\"/></figure><h2>Z dbałością o każdy detal</h2><p>Unitek dba także o funkcjonalne aspekty dostarczanych towarów. Kable pakowane są w estetyczne tekturowe pudełka. Każdy przewód spięty jest opaską, aby łatwiej zapanować nad organizacją jego przebiegu. Końcówki zabezpieczone są przeciwkurzowymi zatyczkami - ułatwiają jego przeciąganie w ciasnych korytkach - i owinięte taśma zabezpieczającą. Pozłacanie wtyków chroni je przed korozją i stabilizuje sygnał. Wszystko to po to, aby przewód służył przez długie lata.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/k/kabel-hdmi-2-0-unitek-high-sp_59300.webp\" width=\"3000\"/></figure><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>15-metrowy przewód High Speed HDMI</li><li>Wspiera HDMI 2.0</li><li>Zaprojektowany do transmitowania rozdzielczości 4K@60 Hz na długie dystanse</li><li>Obsługuje HDR - większa szczegółowość i kontrast zarówno w ciemnych, jak i jasnych częściach tego samego obraz, a także rozszerzoną przestrzeń kolorów.</li><li>Dzięki ARC telewizor wysyła dane audio do amplitunera lub odbiornika audio.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>18 Gbps</p></li><li><p>Standard Video</p><p>HDMI 2.0</p></li><li><p>Złącze 2</p><p>Wtyk HDMI</p></li><li><p>Złącze 1</p><p>Wtyk HDMI</p></li><li><p>Maksymalna rozdzielczość</p><p>4K</p></li><li><p>Możliwość pracy dwukierunkowej</p><p>tak</p></li><li><p>Obsługiwane technologie</p><p>32 kanały audio<br/>3D<br/>ARC<br/>CEC<br/>Dolby Atmos<br/>Dolby Digital<br/>EDID<br/>Ethernet<br/>HDCP<br/>HDR<br/>Plug &amp; Play</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59297.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59298.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59299.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59300.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59301.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59297.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59298.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59299.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59300.webp",
+    "galerie/k/kabel-hdmi-2-0-unitek-high-sp_59301.webp"
+  ],
+  "manufacturer": "Unitek"
 }

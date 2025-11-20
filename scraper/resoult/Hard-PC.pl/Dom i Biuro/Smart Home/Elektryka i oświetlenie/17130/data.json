@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Elektryka i oświetlenie"
-    ],
-    "id": "17130",
-    "code": "TSL-SPL-SP300-3USB",
-    "name": "Tesla listwa zasilająca 4 gniazda 2xUSB-A 1xUSB-C",
-    "price": 69.0,
-    "description": "<h2>Wygodne sterowanie ręczne, za pomocą aplikacji lub głosu</h2><p>Możesz włączać i wyłączać gniazdo i porty USB ręcznie za pomocą przycisku, a także zdalnie. Dzięki aplikacji, która jest dostępna w języku polskim, możesz łatwo sterować urządzeniem z telefonu komórkowego lub tabletu z systemem iOS lub Android. Aplikacja łączy również wszystkie inteligentne produkty Tesla z osobistymi asystentami.</p><h2>Automatyzuj! Jak chcesz</h2>Skonfiguruj inteligentną automatyzację i scenariusze. Gniazdo może włączyć lampę, gdy tylko wrócisz do domu. Ogrzewanie można włączyć, gdy temperatura spadnie poniżej ustawionego progu lub wyłączyć, gdy temperatura osiągnie określony poziom. Możesz ustawić włączanie światła, telewizora lub muzyki na określony czas, nawet jeśli wyjechałeś na wakacje. Sprawi to wrażenie, że ktoś jest zawsze w domu.<h2>Podłącz 4 urządzenia</h2><p>Dzięki trzem portom USB i jednemu tradycyjnemu gniazdku możesz jednocześnie zasilać aż cztery urządzenia jednocześnie. Moc 12 W wystarczy do ładowania telefonów komórkowych przez noc, a także urządzeń elektronicznych o niskim poborze mocy, takich jak inteligentne zegarki i słuchawki Bluetooth.</p><h2>Oszczędzaj pieniądze i nerwy</h2><p>Możesz sterować gniazdem 220 V i wszystkimi portami USB oddzielnie z telefonu komórkowego. Aplikacja pozwala sprawdzić, które gniazdo jest aktualnie włączone. Zawsze będziesz mieć pewność, że w łazience nie zostawiłeś włączonej lokówki ani żelazka. Możesz też zdalnie włączyć ładowanie słuchawek z portu USB w salonie bez włączania lampy podłączonej do inteligentnego gniazda.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>120 szt</p></li><li><p>Wysokość:</p><p>8.2 cm</p></li><li><p>Szerokość:</p><p>7.6 cm</p></li><li><p>Głębokość:</p><p>5 cm</p></li><li><p>Waga:</p><p>0.13 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63850.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63851.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63852.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63853.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63854.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63850.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63851.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63852.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63853.webp",
-        "galerie/t/tesla-listwa-zasilajaca-4-gni_63854.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17130",
+  "code": "TSL-SPL-SP300-3USB",
+  "name": "Tesla listwa zasilająca 4 gniazda 2xUSB-A 1xUSB-C",
+  "price": 69.0,
+  "description": "<h2>Wygodne sterowanie ręczne, za pomocą aplikacji lub głosu</h2><p>Możesz włączać i wyłączać gniazdo i porty USB ręcznie za pomocą przycisku, a także zdalnie. Dzięki aplikacji, która jest dostępna w języku polskim, możesz łatwo sterować urządzeniem z telefonu komórkowego lub tabletu z systemem iOS lub Android. Aplikacja łączy również wszystkie inteligentne produkty Tesla z osobistymi asystentami.</p><h2>Automatyzuj! Jak chcesz</h2>Skonfiguruj inteligentną automatyzację i scenariusze. Gniazdo może włączyć lampę, gdy tylko wrócisz do domu. Ogrzewanie można włączyć, gdy temperatura spadnie poniżej ustawionego progu lub wyłączyć, gdy temperatura osiągnie określony poziom. Możesz ustawić włączanie światła, telewizora lub muzyki na określony czas, nawet jeśli wyjechałeś na wakacje. Sprawi to wrażenie, że ktoś jest zawsze w domu.<h2>Podłącz 4 urządzenia</h2><p>Dzięki trzem portom USB i jednemu tradycyjnemu gniazdku możesz jednocześnie zasilać aż cztery urządzenia jednocześnie. Moc 12 W wystarczy do ładowania telefonów komórkowych przez noc, a także urządzeń elektronicznych o niskim poborze mocy, takich jak inteligentne zegarki i słuchawki Bluetooth.</p><h2>Oszczędzaj pieniądze i nerwy</h2><p>Możesz sterować gniazdem 220 V i wszystkimi portami USB oddzielnie z telefonu komórkowego. Aplikacja pozwala sprawdzić, które gniazdo jest aktualnie włączone. Zawsze będziesz mieć pewność, że w łazience nie zostawiłeś włączonej lokówki ani żelazka. Możesz też zdalnie włączyć ładowanie słuchawek z portu USB w salonie bez włączania lampy podłączonej do inteligentnego gniazda.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>120 szt</p></li><li><p>Wysokość:</p><p>8.2 cm</p></li><li><p>Szerokość:</p><p>7.6 cm</p></li><li><p>Głębokość:</p><p>5 cm</p></li><li><p>Waga:</p><p>0.13 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63850.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63851.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63852.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63853.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63854.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63850.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63851.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63852.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63853.webp",
+    "galerie/t/tesla-listwa-zasilajaca-4-gni_63854.webp"
+  ],
+  "manufacturer": "Tesla"
 }

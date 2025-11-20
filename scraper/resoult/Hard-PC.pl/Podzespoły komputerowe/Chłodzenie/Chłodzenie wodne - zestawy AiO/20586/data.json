@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenie wodne - zestawy AiO"
-    ],
-    "id": "20586",
-    "code": "WASE-938",
-    "name": "Chłodzenie wodne AiO Lian Li HYDROSHIFT II LCD-C 360N Fanless ARGB Black",
-    "price": 685.9,
-    "description": "<h2>Lian Li HYDROSHIFT II LCD-C 360 Fanless – wodne chłodzenie AiO bez wentylatorów</h2><p>Lian Li HYDROSHIFT II LCD-C 360 Fanless to rozwiązanie dla <b>purystów i profesjonalistów</b>, którzy chcą sami zdecydować, jakie wentylatory najlepiej sprawdzą się w ich komputerze. Niezależnie od tego, czy wybierzesz modele high-performance, ultra-ciche czy efektowne RGB – to Ty masz pełną kontrolę. Centralnym punktem zestawu jest <b>2,1-calowy wyświetlacz LCD</b>, który działa także bez przewodowego połączenia USB.</p><h2>Radiator 360 mm z miejscem na Twoje wentylatory</h2><p>Aluminiowy radiator o długości 360 mm sprawdzi się zarówno w obudowach gamingowych, jak i w bardziej kompaktowych konstrukcjach. Brak fabrycznie dołączonych wentylatorów daje Ci pełną swobodę wyboru – możesz zbudować zestaw cichy, wydajny lub nastawiony na estetykę RGB.</p><h2>Bezprzewodowa obsługa wyświetlacza LCD</h2><p>Obręcz sterująca wokół ekranu LCD umożliwia kontrolę trybów wyświetlania nawet bez dodatkowego oprogramowania. Alternatywnie możesz korzystać z <b>L-Wireless Controller</b> lub przewodowo z <b>L-Connect 3</b>, aby wyświetlać animacje, filmy MP4 czy dane z czujników systemowych.</p><h2>Elastyczność dla wymagających konfiguracji</h2><p>W zestawie znajdziesz pompę o wysokiej wydajności i niskim poziomie hałasu, węże o długości 450 mm oraz regulowany uchwyt z przesuwaną obejmą. Dzięki temu montaż jest prosty, a wnętrze komputera zachowuje czysty i elegancki wygląd – idealny do <b>show buildów</b> i stacji roboczych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Seria</p><p>HydroShift II</p></li><li><p>Model</p><p>HYDROSHIFT II LCD-C 360 Fanless</p></li><li><p>Typ chłodzenia</p><p>AiO wodne chłodzenie procesora</p></li><li><p>Kompatybilne gniazda CPU</p><p>Intel 1700, 1851; AMD AM4, AM5</p></li><li><p>Wyświetlacz</p><p>IPS LCD 2,1 cala (obsługa MP4, GIF, grafik, sensorów systemowych)</p></li><li><p>Radiator</p><p>360 mm (400 × 122 × 22 mm)</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Blok wodny</p><p>Miedź</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Wentylatory</p><p>Brak w zestawie (obsługa 3× 120 mm)</p></li><li><p>Maksymalna głośność pompy</p><p>28 dB(A)</p></li><li><p>Oświetlenie</p><p>RGB (adresowalne)</p></li><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Kolor radiatora</p><p>Czarny</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78504.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78505.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78506.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78504.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78505.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78506.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20586",
+  "code": "WASE-938",
+  "name": "Chłodzenie wodne AiO Lian Li HYDROSHIFT II LCD-C 360N Fanless ARGB Black",
+  "price": 685.9,
+  "description": "<h2>Lian Li HYDROSHIFT II LCD-C 360 Fanless – wodne chłodzenie AiO bez wentylatorów</h2><p>Lian Li HYDROSHIFT II LCD-C 360 Fanless to rozwiązanie dla <b>purystów i profesjonalistów</b>, którzy chcą sami zdecydować, jakie wentylatory najlepiej sprawdzą się w ich komputerze. Niezależnie od tego, czy wybierzesz modele high-performance, ultra-ciche czy efektowne RGB – to Ty masz pełną kontrolę. Centralnym punktem zestawu jest <b>2,1-calowy wyświetlacz LCD</b>, który działa także bez przewodowego połączenia USB.</p><h2>Radiator 360 mm z miejscem na Twoje wentylatory</h2><p>Aluminiowy radiator o długości 360 mm sprawdzi się zarówno w obudowach gamingowych, jak i w bardziej kompaktowych konstrukcjach. Brak fabrycznie dołączonych wentylatorów daje Ci pełną swobodę wyboru – możesz zbudować zestaw cichy, wydajny lub nastawiony na estetykę RGB.</p><h2>Bezprzewodowa obsługa wyświetlacza LCD</h2><p>Obręcz sterująca wokół ekranu LCD umożliwia kontrolę trybów wyświetlania nawet bez dodatkowego oprogramowania. Alternatywnie możesz korzystać z <b>L-Wireless Controller</b> lub przewodowo z <b>L-Connect 3</b>, aby wyświetlać animacje, filmy MP4 czy dane z czujników systemowych.</p><h2>Elastyczność dla wymagających konfiguracji</h2><p>W zestawie znajdziesz pompę o wysokiej wydajności i niskim poziomie hałasu, węże o długości 450 mm oraz regulowany uchwyt z przesuwaną obejmą. Dzięki temu montaż jest prosty, a wnętrze komputera zachowuje czysty i elegancki wygląd – idealny do <b>show buildów</b> i stacji roboczych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Seria</p><p>HydroShift II</p></li><li><p>Model</p><p>HYDROSHIFT II LCD-C 360 Fanless</p></li><li><p>Typ chłodzenia</p><p>AiO wodne chłodzenie procesora</p></li><li><p>Kompatybilne gniazda CPU</p><p>Intel 1700, 1851; AMD AM4, AM5</p></li><li><p>Wyświetlacz</p><p>IPS LCD 2,1 cala (obsługa MP4, GIF, grafik, sensorów systemowych)</p></li><li><p>Radiator</p><p>360 mm (400 × 122 × 22 mm)</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Blok wodny</p><p>Miedź</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Wentylatory</p><p>Brak w zestawie (obsługa 3× 120 mm)</p></li><li><p>Maksymalna głośność pompy</p><p>28 dB(A)</p></li><li><p>Oświetlenie</p><p>RGB (adresowalne)</p></li><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Kolor radiatora</p><p>Czarny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78504.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78505.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78506.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78504.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78505.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78506.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

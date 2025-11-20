@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Gry planszowe",
-        "Gry i systemy gier bitewnych"
-    ],
-    "id": "19761",
-    "code": "99120116033",
-    "name": "Warhammer 40000 Adeptus Mechanicus Skitarii",
-    "price": 154.0,
-    "description": "<h2>Skitarii Rangers – Bezlitośni Łowcy Adeptus Mechanicus</h2><p>Skitarii Rangers to nieustępliwi łowcy-zabójcy, którzy dzięki niezwykłej technologii świata kuźni przekształcili swoje uzbrojenie w broń precyzyjną i śmiercionośną. Dla tych cybernetycznych wojowników starcie nie kończy się, dopóki wróg nie zostanie unicestwiony – nawet jeśli wymaga to pościgu trwającego dekady, przez całe galaktyki.</p><p>Ubrani w wojenne pancerze Skitarii, z charakterystycznymi kapturami i maskami gazowymi, Rangersi przemierzają pola bitew uzbrojeni w karabiny galwaniczne. Każdy model nosi emblemat Adeptus Mechanicus i jest wyposażony w liczne sensory, anteny oraz monitory środowiskowe. Aby przetrwać w surowych warunkach Marsa, ich nogi od kolan w dół zostały zastąpione bionicznymi protezami, co nadaje im chłodny, cybernetyczny wygląd.</p><p>Oddział może zawierać Alphe, uzbrojonego w pistolet radu lub łukowy oraz broń do walki wręcz – miecz energetyczny, taserowy pastorał lub młot łukowy. Trzech modeli może otrzymać broń specjalną: transuranowy arkebuz, karabin łukowy lub plazmowy kaliber – ten ostatni posiada również unikalną głowę i plecak. Jeden model może zostać wyposażony w data-tether lub omnispex, co jeszcze bardziej podkreśla obsesyjne zbieranie danych przez Adeptus Mechanicus.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Zawartość zestawu:</h2><ul class=\"list-specification\"><li>124 komponenty</li><li>23 glowy (w tym 11 dla Rangersów)</li><li>25 sztuk broni</li><li>Mały arkusz kalkomanii</li><li>1 owalna podstawka Citadel 60x35,5 mm</li><li>9 okrągłych podstawek Citadel 25 mm</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
-    "manufacturer_img": "galerie/producenci/games-workshop.jpg",
-    "images": [
-        "galerie/w/warhammer-40000-adeptus-mecha_73691.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73690.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73692.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73693.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73694.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73695.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73696.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73697.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73691.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73690.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73692.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73693.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73694.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73695.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73696.webp",
-        "galerie/w/warhammer-40000-adeptus-mecha_73697.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Gry planszowe",
+    "Gry i systemy gier bitewnych"
+  ],
+  "id": "19761",
+  "code": "99120116033",
+  "name": "Warhammer 40000 Adeptus Mechanicus Skitarii",
+  "price": 154.0,
+  "description": "<h2>Skitarii Rangers – Bezlitośni Łowcy Adeptus Mechanicus</h2><p>Skitarii Rangers to nieustępliwi łowcy-zabójcy, którzy dzięki niezwykłej technologii świata kuźni przekształcili swoje uzbrojenie w broń precyzyjną i śmiercionośną. Dla tych cybernetycznych wojowników starcie nie kończy się, dopóki wróg nie zostanie unicestwiony – nawet jeśli wymaga to pościgu trwającego dekady, przez całe galaktyki.</p><p>Ubrani w wojenne pancerze Skitarii, z charakterystycznymi kapturami i maskami gazowymi, Rangersi przemierzają pola bitew uzbrojeni w karabiny galwaniczne. Każdy model nosi emblemat Adeptus Mechanicus i jest wyposażony w liczne sensory, anteny oraz monitory środowiskowe. Aby przetrwać w surowych warunkach Marsa, ich nogi od kolan w dół zostały zastąpione bionicznymi protezami, co nadaje im chłodny, cybernetyczny wygląd.</p><p>Oddział może zawierać Alphe, uzbrojonego w pistolet radu lub łukowy oraz broń do walki wręcz – miecz energetyczny, taserowy pastorał lub młot łukowy. Trzech modeli może otrzymać broń specjalną: transuranowy arkebuz, karabin łukowy lub plazmowy kaliber – ten ostatni posiada również unikalną głowę i plecak. Jeden model może zostać wyposażony w data-tether lub omnispex, co jeszcze bardziej podkreśla obsesyjne zbieranie danych przez Adeptus Mechanicus.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Zawartość zestawu:</h2><ul class=\"list-specification\"><li>124 komponenty</li><li>23 glowy (w tym 11 dla Rangersów)</li><li>25 sztuk broni</li><li>Mały arkusz kalkomanii</li><li>1 owalna podstawka Citadel 60x35,5 mm</li><li>9 okrągłych podstawek Citadel 25 mm</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
+  "manufacturer_img": "galerie/producenci/games-workshop.jpg",
+  "images": [
+    "galerie/w/warhammer-40000-adeptus-mecha_73691.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73690.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73692.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73693.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73694.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73695.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73696.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73697.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73691.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73690.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73692.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73693.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73694.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73695.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73696.webp",
+    "galerie/w/warhammer-40000-adeptus-mecha_73697.webp"
+  ],
+  "manufacturer": "Games Workshop"
 }

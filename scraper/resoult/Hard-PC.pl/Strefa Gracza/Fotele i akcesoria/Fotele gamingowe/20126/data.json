@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Fotele i akcesoria",
-        "Fotele gamingowe"
-    ],
-    "id": "20126",
-    "code": "AD18Y-06-P-PV",
-    "name": "Fotel Anda Seat Phantom 3 Size L Pink",
-    "price": 1399.0,
-    "description": "<h2>Luksusowy komfort i ergonomia</h2><p>Fotel gamingowy Anda Seat Phantom 3 L został zaprojektowany z myślą o maksymalnym komforcie podczas długich sesji gry lub pracy przy komputerze. Ergonomiczne rozwiązania wspierają prawidłową postawę i zmniejszają zmęczenie.</p><h2>Regulacje dopasowane do potrzeb</h2><p>Phantom 3 L oferuje regulowane podłokietniki, poduszkę lędźwiową oraz możliwość regulacji wysokości siedziska. Dzięki temu możesz łatwo dopasować fotel do swoich indywidualnych potrzeb i zapewnić optymalne wsparcie dla ciała i kręgosłupa.</p><h2>Wytrzymała i stylowa konstrukcja</h2><p>Solidna rama TitanSteelAD+ wykonana w 100% ze stali gwarantuje trwałość i stabilność. Pokrycie z wysokiej jakości skóry PVC jest odporne na ścieranie, łatwe w czyszczeniu i zachowuje elegancki wygląd nawet przy intensywnym użytkowaniu.</p><h2>Funkcjonalność i relaks</h2><p>System odchylania AD+ pozwala na regulację kąta oparcia od 90 do 160 stopni. Dodatkowo fotel posiada funkcję kołysania z amplitudą 5 stopni, co zwiększa komfort i pozwala na chwile relaksu podczas przerw.</p><h2>Wyjątkowa pianka Memory Foam</h2><p>Siedzisko i poduszka lędźwiowa wypełnione są pianką Memory Foam, która zapewnia doskonałe wsparcie i wygodę przez wiele godzin, zachowując swoje właściwości nawet przy długotrwałym użytkowaniu.</p><h2>Kolorystyka</h2><p>Fotel Anda Seat Phantom 3 L dostępny jest w pięciu atrakcyjnych kolorach: czarnym, białym, różowym, czarno-złotym oraz szarym, dzięki czemu każdy gracz znajdzie wariant idealny dla siebie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Maksymalna wysokość siedziska</p><p>56 cm</p></li><li><p>Minimalna wysokość siedziska</p><p>47 cm</p></li><li><p>Szerokość siedziska</p><p>53 cm</p></li><li><p>Głębokość siedziska</p><p>52 cm</p></li><li><p>Kolor obicia</p><p>Różowy</p></li><li><p>Materiał obicia</p><p>Ekoskóra PVC</p></li><li><p>Obciążenie maksymalne</p><p>120 kg</p></li><li><p>Wysokość fotela</p><p>140 cm</p></li><li><p>Szerokość fotela</p><p>70 cm</p></li><li><p>Głębokość fotela</p><p>60 cm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Anda Seat</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>QLABPRO sp. z o.o., ul. OSTROBRAMSKA, nr 101A, lok. 301, 04-041 Warszawa, support@andaseat.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/anda-seat.jpg",
-    "images": [
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76292.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76291.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76285.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76286.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76287.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76288.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76289.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76290.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76292.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76291.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76285.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76286.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76287.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76288.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76289.webp",
-        "galerie/f/fotel-anda-seat-phantom-3-siz_76290.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Fotele i akcesoria",
+    "Fotele gamingowe"
+  ],
+  "id": "20126",
+  "code": "AD18Y-06-P-PV",
+  "name": "Fotel Anda Seat Phantom 3 Size L Pink",
+  "price": 1399.0,
+  "description": "<h2>Luksusowy komfort i ergonomia</h2><p>Fotel gamingowy Anda Seat Phantom 3 L został zaprojektowany z myślą o maksymalnym komforcie podczas długich sesji gry lub pracy przy komputerze. Ergonomiczne rozwiązania wspierają prawidłową postawę i zmniejszają zmęczenie.</p><h2>Regulacje dopasowane do potrzeb</h2><p>Phantom 3 L oferuje regulowane podłokietniki, poduszkę lędźwiową oraz możliwość regulacji wysokości siedziska. Dzięki temu możesz łatwo dopasować fotel do swoich indywidualnych potrzeb i zapewnić optymalne wsparcie dla ciała i kręgosłupa.</p><h2>Wytrzymała i stylowa konstrukcja</h2><p>Solidna rama TitanSteelAD+ wykonana w 100% ze stali gwarantuje trwałość i stabilność. Pokrycie z wysokiej jakości skóry PVC jest odporne na ścieranie, łatwe w czyszczeniu i zachowuje elegancki wygląd nawet przy intensywnym użytkowaniu.</p><h2>Funkcjonalność i relaks</h2><p>System odchylania AD+ pozwala na regulację kąta oparcia od 90 do 160 stopni. Dodatkowo fotel posiada funkcję kołysania z amplitudą 5 stopni, co zwiększa komfort i pozwala na chwile relaksu podczas przerw.</p><h2>Wyjątkowa pianka Memory Foam</h2><p>Siedzisko i poduszka lędźwiowa wypełnione są pianką Memory Foam, która zapewnia doskonałe wsparcie i wygodę przez wiele godzin, zachowując swoje właściwości nawet przy długotrwałym użytkowaniu.</p><h2>Kolorystyka</h2><p>Fotel Anda Seat Phantom 3 L dostępny jest w pięciu atrakcyjnych kolorach: czarnym, białym, różowym, czarno-złotym oraz szarym, dzięki czemu każdy gracz znajdzie wariant idealny dla siebie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Maksymalna wysokość siedziska</p><p>56 cm</p></li><li><p>Minimalna wysokość siedziska</p><p>47 cm</p></li><li><p>Szerokość siedziska</p><p>53 cm</p></li><li><p>Głębokość siedziska</p><p>52 cm</p></li><li><p>Kolor obicia</p><p>Różowy</p></li><li><p>Materiał obicia</p><p>Ekoskóra PVC</p></li><li><p>Obciążenie maksymalne</p><p>120 kg</p></li><li><p>Wysokość fotela</p><p>140 cm</p></li><li><p>Szerokość fotela</p><p>70 cm</p></li><li><p>Głębokość fotela</p><p>60 cm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Anda Seat</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>QLABPRO sp. z o.o., ul. OSTROBRAMSKA, nr 101A, lok. 301, 04-041 Warszawa, support@andaseat.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/anda-seat.jpg",
+  "images": [
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76292.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76291.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76285.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76286.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76287.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76288.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76289.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76290.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76292.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76291.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76285.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76286.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76287.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76288.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76289.webp",
+    "galerie/f/fotel-anda-seat-phantom-3-siz_76290.webp"
+  ],
+  "manufacturer": "Anda Seat"
 }

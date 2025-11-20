@@ -1,28 +1,29 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Uchwyty na monitor"
-    ],
-    "id": "13000",
-    "code": "DS-LM",
-    "name": "Uchwyt biurkowy na monitor i laptop MOZOS DS-LM 2w1",
-    "price": 138.9,
-    "description": "OPIS <h2>Uchwyt Mozos DS-LM umożliwi ci komfortową pracę na monitorze i laptopie.</h2><p>Pracujesz jednocześnie na laptopie i monitorze? Borykasz się brakiem regulacji wysokości obu urządzeń? Mozos DS-LM to rozwiązanie które ułatwi ci dostosowanie swojego środowiska pracy i zabawy do ergonomicznych warunków. Koniec z bolącymi plecami, odcinkiem szyjnym. Uchwyt na monitor jest kompatybilny z większością dostępnych ekranów na rynku. Możesz zamontować na uchwycie VESA (75×75,100×100) monitor o rozmiarze aż do 32″. Szeroki zakres regulacji pionowej i poziomej ułatwi ci ustawienie ekranu dokładnie tam gdzie chcesz.</p><figure><img alt=\"\" height=\"846\" src=\"galerie/u/uchwyt-biurkowy-na-monitor-i_47182.webp\" width=\"1200\"/></figure><h2>Wysoka jakość wykonania i łatwa instalacja.</h2><p>Mozos DS-LM wykonany jest z wysokiej jakości stali o dużym udźwigu. Jego montaż przebiega bardzo szybko i prosto. Montaż monitora odbywa się na zdejmowanej płycie VESA do której przykręcasz monitor a następnie nasuwasz na uchwyt. Laptop wystarczy ze ustawisz w odpowiedniej pozycji i wyregulujesz zaciski. Tego typu rozwiązanie nie jest dostępne u konkurencyjnych rozwiązań. To zapewnia bezpieczeństwo użytkowania. Stojak biurkowy montujesz do blatu za pomocą łatwo przykręcanej nóżki o dużej regulacji. Poradzi sobie nawet z grubymi blatami. Uchwyt ma wbudowaną możliwość organizowania przewodów. Dzięki temu całe twoje stanowisko zyska na atrakcyjności. W zestawie znajduje się sam statyw. Pozostałe elementy jak np. monitor mają jedynie ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li>Zdejmowana płyta Quick Release VESA do łatwiejszego montażu.</li><li>Wbudowany organizer na przewody.</li><li>Funkcja PIVOT 360° do swobodnej regulacji kąta.</li><li>Możliwość montażu za pomocą zacisku lub przelotki.</li><li>Bezpieczne zaciski uniemożliwiają upadek urządzeń.</li><!-- KONIEC ATRYBUTÓW --></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wymiary</p><p>1006x356x548mm</p></li><li><p>Kompatybilność monitorów</p><p>13″-32″</p></li><li><p>Maksymalny wymiar laptopa</p><p>15,6″</p></li><li><p>Udźwig (na ekran)</p><p>8 kg</p></li><li><p>Waga laptopa</p><p>4 kg</p></li><li><p>Kompatybilny z VESA</p><p>75×75,100×100</p></li><li><p>Zakres pochylenia</p><p>+45°~-45°</p></li><li><p>Zakres obrotu</p><p>+90°~-90°</p></li><li><p>Obrót ekranu</p><p>+180°~-180°</p></li><li><p>Pełne wysunięcie ramienia</p><p>399 mm</p></li><li><p>Wysokość słupa</p><p>443 mm</p></li><li><p>Instalacja</p><p>zacisk, przelotka</p></li><li><p>Sugerowana grubość blatu</p><p>Zacisk：10~88mm Przelotka：10~75mm</p></li><li><p>Płyta Quick Release VESA</p><p>Tak</p></li><li><p>Zarządzanie kablami</p><p>Tak</p></li><li></li><!-- KONIEC ATRYBUTÓW --></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47177.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47178.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47179.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47180.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47181.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47182.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47177.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47178.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47179.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47180.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47181.webp",
-        "galerie/u/uchwyt-biurkowy-na-monitor-i_47182.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Uchwyty na monitor"
+  ],
+  "id": "13000",
+  "code": "DS-LM",
+  "name": "Uchwyt biurkowy na monitor i laptop MOZOS DS-LM 2w1",
+  "price": 138.9,
+  "description": "OPIS <h2>Uchwyt Mozos DS-LM umożliwi ci komfortową pracę na monitorze i laptopie.</h2><p>Pracujesz jednocześnie na laptopie i monitorze? Borykasz się brakiem regulacji wysokości obu urządzeń? Mozos DS-LM to rozwiązanie które ułatwi ci dostosowanie swojego środowiska pracy i zabawy do ergonomicznych warunków. Koniec z bolącymi plecami, odcinkiem szyjnym. Uchwyt na monitor jest kompatybilny z większością dostępnych ekranów na rynku. Możesz zamontować na uchwycie VESA (75×75,100×100) monitor o rozmiarze aż do 32″. Szeroki zakres regulacji pionowej i poziomej ułatwi ci ustawienie ekranu dokładnie tam gdzie chcesz.</p><figure><img alt=\"\" height=\"846\" src=\"galerie/u/uchwyt-biurkowy-na-monitor-i_47182.webp\" width=\"1200\"/></figure><h2>Wysoka jakość wykonania i łatwa instalacja.</h2><p>Mozos DS-LM wykonany jest z wysokiej jakości stali o dużym udźwigu. Jego montaż przebiega bardzo szybko i prosto. Montaż monitora odbywa się na zdejmowanej płycie VESA do której przykręcasz monitor a następnie nasuwasz na uchwyt. Laptop wystarczy ze ustawisz w odpowiedniej pozycji i wyregulujesz zaciski. Tego typu rozwiązanie nie jest dostępne u konkurencyjnych rozwiązań. To zapewnia bezpieczeństwo użytkowania. Stojak biurkowy montujesz do blatu za pomocą łatwo przykręcanej nóżki o dużej regulacji. Poradzi sobie nawet z grubymi blatami. Uchwyt ma wbudowaną możliwość organizowania przewodów. Dzięki temu całe twoje stanowisko zyska na atrakcyjności. W zestawie znajduje się sam statyw. Pozostałe elementy jak np. monitor mają jedynie ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li>Zdejmowana płyta Quick Release VESA do łatwiejszego montażu.</li><li>Wbudowany organizer na przewody.</li><li>Funkcja PIVOT 360° do swobodnej regulacji kąta.</li><li>Możliwość montażu za pomocą zacisku lub przelotki.</li><li>Bezpieczne zaciski uniemożliwiają upadek urządzeń.</li><!-- KONIEC ATRYBUTÓW --></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wymiary</p><p>1006x356x548mm</p></li><li><p>Kompatybilność monitorów</p><p>13″-32″</p></li><li><p>Maksymalny wymiar laptopa</p><p>15,6″</p></li><li><p>Udźwig (na ekran)</p><p>8 kg</p></li><li><p>Waga laptopa</p><p>4 kg</p></li><li><p>Kompatybilny z VESA</p><p>75×75,100×100</p></li><li><p>Zakres pochylenia</p><p>+45°~-45°</p></li><li><p>Zakres obrotu</p><p>+90°~-90°</p></li><li><p>Obrót ekranu</p><p>+180°~-180°</p></li><li><p>Pełne wysunięcie ramienia</p><p>399 mm</p></li><li><p>Wysokość słupa</p><p>443 mm</p></li><li><p>Instalacja</p><p>zacisk, przelotka</p></li><li><p>Sugerowana grubość blatu</p><p>Zacisk：10~88mm Przelotka：10~75mm</p></li><li><p>Płyta Quick Release VESA</p><p>Tak</p></li><li><p>Zarządzanie kablami</p><p>Tak</p></li><li></li><!-- KONIEC ATRYBUTÓW --></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47177.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47178.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47179.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47180.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47181.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47182.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47177.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47178.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47179.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47180.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47181.webp",
+    "galerie/u/uchwyt-biurkowy-na-monitor-i_47182.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

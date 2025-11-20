@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki dokanałowe/douszne"
-    ],
-    "id": "20226",
-    "code": "6925624202125",
-    "name": "Słuchawki HiFiMAN TWS800",
-    "price": 1079.0,
-    "description": "<h2>Bezprzewodowe słuchawki HiFiMAN TWS800</h2><p>TWS800 to najnowsza propozycja słuchawek typu True Wireless (w pełni bezprzewodowe) od firmy HiFiMAN. Zastosowano w nich autorską technologię „Topology Diaphragm” – membranę pokrytą powłoką z nanocząsteczek, co przekłada się na bardziej detaliczny, naturalny i zrównoważony dźwięk niż w wielu konkurencyjnych modelach.</p><h2>Długi czas pracy na baterii</h2><p>Jedno pełne ładowanie zapewnia do 4,5 godziny słuchania muzyki. W połączeniu z eleganckim etui ładującym, całkowity czas odtwarzania wynosi aż 31,5 godziny. Słuchawki pozostają aktywne w trybie czuwania nawet przez 140 godzin.</p><h2>Ergonomia i komfort</h2><p>Model TWS800 charakteryzuje się ergonomicznym kształtem i bardzo lekką konstrukcją – jedna słuchawka waży tylko 7 gramów. W zestawie znajduje się bogaty komplet końcówek dousznych w różnych kształtach i rozmiarach, co pozwala na idealne dopasowanie do ucha i skuteczną izolację od hałasu zewnętrznego.</p><h2>Idealne do codziennego użytku</h2><p>TWS800 to słuchawki do zadań specjalnych – sprawdzą się zarówno w domu, w podróży, w miejskim zgiełku, jak i podczas aktywności fizycznej. Ich konstrukcja spełnia normę wodoszczelności IPX4, co oznacza odporność na pot i lekki deszcz.</p><h2>Dotykowe sterowanie</h2><p>Słuchawki wyposażone są w intuicyjny system sterowania dotykowego, który umożliwia kontrolę odtwarzania muzyki, obsługę połączeń głosowych, a także korzystanie z asystenta głosowego.</p><h2>Nowoczesna łączność bezprzewodowa</h2><p>Za stabilne połączenie odpowiada wydajny układ Bluetooth w wersji 5.0, który zapewnia wysoką jakość dźwięku oraz brak opóźnień w transmisji.</p><h2>Pełnia brzmienia po wygrzewaniu</h2><p>Technologia Topology Diaphragm wymaga tzw. wygrzewania – proces ten trwa od 10 do 100 godzin. Po tym czasie słuchawki osiągają pełnię swojego potencjału brzmieniowego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przetworniki</p><p>Dynamiczne</p></li><li><p>Budowa</p><p>Zamknięta</p></li><li><p>Impedancja</p><p>150 Ohm</p></li><li><p>Pasmo przenoszenia</p><p>20 - 20.000 Hz</p></li><li><p>Typ</p><p>Dokanałowe</p></li><li><p>Redukcja szumów</p><p>TAK</p></li><li><p>Wersja Bluetooth</p><p>5.0</p></li><li><p>Czas działania</p><p>słuchawki: 4.5h, standby: 140h</p></li><li><p>Zasięg</p><p>do 150 m (w zależności od środowiska)</p></li><li><p>Wodoodporność</p><p>klasa IPX4</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>HiFiMAN</p></li><li><p>Dane producenta</p><p>HIFIMAN KUNSHAN TECHNOLOGY GROUP CO.，LTD, Ying Bin West Rd 2001, 215300 Kunshan, Chiny, customerservice@hifiman.com</p></li><li><p>Podmiot odpowiedzialny</p><p>CET PRODUCT SERVICE SP. Z O.O., Długa 33 / 102, 95-100 Zgierz, Polska, +48 791 019 706 ,info@cetproduct.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/hifiman.jpg",
-    "images": [
-        "galerie/s/sluchawki-hifiman-tws800_75737.webp",
-        "galerie/s/sluchawki-hifiman-tws800_75734.webp",
-        "galerie/s/sluchawki-hifiman-tws800_75735.webp",
-        "galerie/s/sluchawki-hifiman-tws800_75736.webp",
-        "galerie/s/sluchawki-hifiman-tws800_75737.webp",
-        "galerie/s/sluchawki-hifiman-tws800_75734.webp",
-        "galerie/s/sluchawki-hifiman-tws800_75735.webp",
-        "galerie/s/sluchawki-hifiman-tws800_75736.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "20226",
+  "code": "6925624202125",
+  "name": "Słuchawki HiFiMAN TWS800",
+  "price": 1079.0,
+  "description": "<h2>Bezprzewodowe słuchawki HiFiMAN TWS800</h2><p>TWS800 to najnowsza propozycja słuchawek typu True Wireless (w pełni bezprzewodowe) od firmy HiFiMAN. Zastosowano w nich autorską technologię „Topology Diaphragm” – membranę pokrytą powłoką z nanocząsteczek, co przekłada się na bardziej detaliczny, naturalny i zrównoważony dźwięk niż w wielu konkurencyjnych modelach.</p><h2>Długi czas pracy na baterii</h2><p>Jedno pełne ładowanie zapewnia do 4,5 godziny słuchania muzyki. W połączeniu z eleganckim etui ładującym, całkowity czas odtwarzania wynosi aż 31,5 godziny. Słuchawki pozostają aktywne w trybie czuwania nawet przez 140 godzin.</p><h2>Ergonomia i komfort</h2><p>Model TWS800 charakteryzuje się ergonomicznym kształtem i bardzo lekką konstrukcją – jedna słuchawka waży tylko 7 gramów. W zestawie znajduje się bogaty komplet końcówek dousznych w różnych kształtach i rozmiarach, co pozwala na idealne dopasowanie do ucha i skuteczną izolację od hałasu zewnętrznego.</p><h2>Idealne do codziennego użytku</h2><p>TWS800 to słuchawki do zadań specjalnych – sprawdzą się zarówno w domu, w podróży, w miejskim zgiełku, jak i podczas aktywności fizycznej. Ich konstrukcja spełnia normę wodoszczelności IPX4, co oznacza odporność na pot i lekki deszcz.</p><h2>Dotykowe sterowanie</h2><p>Słuchawki wyposażone są w intuicyjny system sterowania dotykowego, który umożliwia kontrolę odtwarzania muzyki, obsługę połączeń głosowych, a także korzystanie z asystenta głosowego.</p><h2>Nowoczesna łączność bezprzewodowa</h2><p>Za stabilne połączenie odpowiada wydajny układ Bluetooth w wersji 5.0, który zapewnia wysoką jakość dźwięku oraz brak opóźnień w transmisji.</p><h2>Pełnia brzmienia po wygrzewaniu</h2><p>Technologia Topology Diaphragm wymaga tzw. wygrzewania – proces ten trwa od 10 do 100 godzin. Po tym czasie słuchawki osiągają pełnię swojego potencjału brzmieniowego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przetworniki</p><p>Dynamiczne</p></li><li><p>Budowa</p><p>Zamknięta</p></li><li><p>Impedancja</p><p>150 Ohm</p></li><li><p>Pasmo przenoszenia</p><p>20 - 20.000 Hz</p></li><li><p>Typ</p><p>Dokanałowe</p></li><li><p>Redukcja szumów</p><p>TAK</p></li><li><p>Wersja Bluetooth</p><p>5.0</p></li><li><p>Czas działania</p><p>słuchawki: 4.5h, standby: 140h</p></li><li><p>Zasięg</p><p>do 150 m (w zależności od środowiska)</p></li><li><p>Wodoodporność</p><p>klasa IPX4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>HiFiMAN</p></li><li><p>Dane producenta</p><p>HIFIMAN KUNSHAN TECHNOLOGY GROUP CO.，LTD, Ying Bin West Rd 2001, 215300 Kunshan, Chiny, customerservice@hifiman.com</p></li><li><p>Podmiot odpowiedzialny</p><p>CET PRODUCT SERVICE SP. Z O.O., Długa 33 / 102, 95-100 Zgierz, Polska, +48 791 019 706 ,info@cetproduct.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/hifiman.jpg",
+  "images": [
+    "galerie/s/sluchawki-hifiman-tws800_75737.webp",
+    "galerie/s/sluchawki-hifiman-tws800_75734.webp",
+    "galerie/s/sluchawki-hifiman-tws800_75735.webp",
+    "galerie/s/sluchawki-hifiman-tws800_75736.webp",
+    "galerie/s/sluchawki-hifiman-tws800_75737.webp",
+    "galerie/s/sluchawki-hifiman-tws800_75734.webp",
+    "galerie/s/sluchawki-hifiman-tws800_75735.webp",
+    "galerie/s/sluchawki-hifiman-tws800_75736.webp"
+  ],
+  "manufacturer": "HiFiMAN"
 }

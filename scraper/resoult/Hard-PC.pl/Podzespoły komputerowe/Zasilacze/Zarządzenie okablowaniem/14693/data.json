@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zarządzenie okablowaniem"
-    ],
-    "id": "14693",
-    "code": "ZUAD-1277",
-    "name": "Zestaw przedłużaczy Kolink Core Adept Braided Cable Extension Kit - Orange",
-    "price": 164.9,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Grubość przewodu</p><p>16AWG</p></li><li><p>Oplot</p><p>PET</p></li><li><p>W zestawie</p><p>1x 20+4 pin cable (300mm)<br/>1x 8-pin (300mm)<br/>1x 4+4-pin(300 mm)<br/>3x 6+2-pin (350 mm)<br/>Grzebienie</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Kolink</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/kolink.jpg",
-    "images": [
-        "galerie/z/zestaw-przedluzaczy-kolink-co_53618.webp",
-        "galerie/z/zestaw-przedluzaczy-kolink-co_53619.webp",
-        "galerie/z/zestaw-przedluzaczy-kolink-co_53620.webp",
-        "galerie/z/zestaw-przedluzaczy-kolink-co_53621.webp",
-        "galerie/z/zestaw-przedluzaczy-kolink-co_53618.webp",
-        "galerie/z/zestaw-przedluzaczy-kolink-co_53619.webp",
-        "galerie/z/zestaw-przedluzaczy-kolink-co_53620.webp",
-        "galerie/z/zestaw-przedluzaczy-kolink-co_53621.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "14693",
+  "code": "ZUAD-1277",
+  "name": "Zestaw przedłużaczy Kolink Core Adept Braided Cable Extension Kit - Orange",
+  "price": 164.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Grubość przewodu</p><p>16AWG</p></li><li><p>Oplot</p><p>PET</p></li><li><p>W zestawie</p><p>1x 20+4 pin cable (300mm)<br/>1x 8-pin (300mm)<br/>1x 4+4-pin(300 mm)<br/>3x 6+2-pin (350 mm)<br/>Grzebienie</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Kolink</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/kolink.jpg",
+  "images": [
+    "galerie/z/zestaw-przedluzaczy-kolink-co_53618.webp",
+    "galerie/z/zestaw-przedluzaczy-kolink-co_53619.webp",
+    "galerie/z/zestaw-przedluzaczy-kolink-co_53620.webp",
+    "galerie/z/zestaw-przedluzaczy-kolink-co_53621.webp",
+    "galerie/z/zestaw-przedluzaczy-kolink-co_53618.webp",
+    "galerie/z/zestaw-przedluzaczy-kolink-co_53619.webp",
+    "galerie/z/zestaw-przedluzaczy-kolink-co_53620.webp",
+    "galerie/z/zestaw-przedluzaczy-kolink-co_53621.webp"
+  ],
+  "manufacturer": "Kolink"
 }

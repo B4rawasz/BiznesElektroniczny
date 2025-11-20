@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "19336",
-    "code": "NELI-012",
-    "name": "Zasilacz Lian Li SP850 SFX 850W White 80Plus Gold",
-    "price": 704.9,
-    "description": "OPIS <p>Lian Li SP850 to wydajne i kompaktowe zasilanie dla entuzjastów gamingu oraz wymagających użytkowników. Dzięki mocy 850 W oraz 70 A na pojedynczej linii +12 V, zasilacz ten doskonale radzi sobie z zasilaniem najnowszych podzespołów o wysokim poborze energii.</p><h2>Certyfikat 80 PLUS Gold – wysoka efektywność energetyczna</h2><p>Zasilacz Lian Li SP850 posiada certyfikat 80 PLUS Gold, co oznacza sprawność sięgającą nawet 92% przy średnim obciążeniu. Dzięki temu zmniejsza się ilość traconej energii, co przekłada się na niższe rachunki za prąd oraz mniejsze nagrzewanie się podzespołów.</p><h2>Kompaktowy design i eleganckie wykończenie</h2><p>Dzięki standardowi SFX, Lian Li SP850 jest idealnym rozwiązaniem dla mniejszych obudów i systemów Mini-ITX. Białe, aluminiowe wykończenie nadaje mu nowoczesny i stylowy wygląd, który idealnie komponuje się zarówno w jasnych, jak i ciemnych zestawach komputerowych.</p><h2>Pełna modularność i uporządkowane okablowanie</h2><p>Zasilacz wyposażono w w pełni modularne przewody z białym oplotem, co pozwala na wygodne zarządzanie okablowaniem i zachowanie porządku wewnątrz obudowy. Dzięki temu instalacja staje się łatwiejsza, a wnętrze komputera wygląda schludnie i estetycznie.</p><h2>Zaawansowane chłodzenie i cicha praca</h2><p>Wbudowany 92-mm wentylator zapewnia optymalne chłodzenie i efektywne odprowadzanie ciepła. W trybie niskiego obciążenia (poniżej 40%) wentylator pozostaje całkowicie wyłączony, co czyni Lian Li SP850 idealnym wyborem dla cichych komputerów biurowych oraz multimedialnych.</p><h2>Idealny wybór dla wymagających użytkowników</h2><p>Dzięki połączeniu wysokiej mocy, modularności i kompaktowej budowy, Lian Li SP850 to idealne rozwiązanie dla entuzjastów gamingu, twórców treści i profesjonalistów. Jeśli szukasz wydajnego, cichego i stylowego zasilacza do swojego komputera – ten model spełni Twoje oczekiwania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>63,5 × 125 × 100 mm (szer. × wys. × gł.)</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Standard ATX</p><p>2.4</p></li><li><p>Wymiary wentylatora</p><p>92 × 16,5 × 92 mm (szer. × wys. × gł.)</p></li><li><p>Łożysko</p><p>Hydrauliczne</p></li><li><p>Prędkość obrotowa</p><p>1 000 – 2 800 obr./min</p></li><li><p>Sprawność</p><p>~ 90 / 92 / 89 % przy 20 / 50 / 100 % obciążenia przy 230 V, certyfikat 80 PLUS Gold</p></li><li><p>Poziom hałasu</p><p>17,1 – 40,6 dB(A)</p></li><li><p>Format</p><p>SFX</p></li><li><p>Moc ciągła</p><p>1 200 W</p></li><li><p>+3,3V</p><p>100 W / 20 A</p></li><li><p>+5V</p><p>100 W / 20 A</p></li><li><p>+12V (łączna)</p><p>850 W / 70 A</p></li><li><p>-12V</p><p>0,3 A</p></li><li><p>+5Vsb</p><p>2,5 A</p></li><li><p>Złącza</p><p>1 × 20+4-pin<br/>2 × 4+4-pin<br/>3 × 6+2-pin PCIe<br/>1 × 12VHPWR<br/>8 × SATA<br/>4 × 4-pin Molex</p></li><li><p>Zabezpieczenia</p><p>OCP / OPP / UVP / OVP / OTP / SCP</p></li><li><p>Zawartość opakowania</p><p>1 × Lian Li SP850 SFX 850W (zasilacz)<br/>1 × 20+4-pin kabel (1 wtyczka, 300 mm)<br/>1 × 8 (4+4)-pin kabel (2 wtyczki, 600 mm)<br/>1 × PCIe 6+2-pin kabel (1 wtyczka, 400 mm)<br/>1 × PCIe 6+2-pin kabel (2 wtyczki, 400 + 120 mm)<br/>1 × 12-pin 12VHPWR kabel (400 mm)<br/>2 × SATA kable (4 wtyczki, 120 + 120 + 120 + 120 mm)<br/>1 × Molex kabel (4 wtyczki, 120 + 120 + 120 + 120 mm)</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71377.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71378.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71379.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71380.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71381.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71382.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71377.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71378.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71379.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71380.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71381.webp",
-        "galerie/z/zasilacz-lian-li-sp850-sfx-85_71382.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "19336",
+  "code": "NELI-012",
+  "name": "Zasilacz Lian Li SP850 SFX 850W White 80Plus Gold",
+  "price": 704.9,
+  "description": "OPIS <p>Lian Li SP850 to wydajne i kompaktowe zasilanie dla entuzjastów gamingu oraz wymagających użytkowników. Dzięki mocy 850 W oraz 70 A na pojedynczej linii +12 V, zasilacz ten doskonale radzi sobie z zasilaniem najnowszych podzespołów o wysokim poborze energii.</p><h2>Certyfikat 80 PLUS Gold – wysoka efektywność energetyczna</h2><p>Zasilacz Lian Li SP850 posiada certyfikat 80 PLUS Gold, co oznacza sprawność sięgającą nawet 92% przy średnim obciążeniu. Dzięki temu zmniejsza się ilość traconej energii, co przekłada się na niższe rachunki za prąd oraz mniejsze nagrzewanie się podzespołów.</p><h2>Kompaktowy design i eleganckie wykończenie</h2><p>Dzięki standardowi SFX, Lian Li SP850 jest idealnym rozwiązaniem dla mniejszych obudów i systemów Mini-ITX. Białe, aluminiowe wykończenie nadaje mu nowoczesny i stylowy wygląd, który idealnie komponuje się zarówno w jasnych, jak i ciemnych zestawach komputerowych.</p><h2>Pełna modularność i uporządkowane okablowanie</h2><p>Zasilacz wyposażono w w pełni modularne przewody z białym oplotem, co pozwala na wygodne zarządzanie okablowaniem i zachowanie porządku wewnątrz obudowy. Dzięki temu instalacja staje się łatwiejsza, a wnętrze komputera wygląda schludnie i estetycznie.</p><h2>Zaawansowane chłodzenie i cicha praca</h2><p>Wbudowany 92-mm wentylator zapewnia optymalne chłodzenie i efektywne odprowadzanie ciepła. W trybie niskiego obciążenia (poniżej 40%) wentylator pozostaje całkowicie wyłączony, co czyni Lian Li SP850 idealnym wyborem dla cichych komputerów biurowych oraz multimedialnych.</p><h2>Idealny wybór dla wymagających użytkowników</h2><p>Dzięki połączeniu wysokiej mocy, modularności i kompaktowej budowy, Lian Li SP850 to idealne rozwiązanie dla entuzjastów gamingu, twórców treści i profesjonalistów. Jeśli szukasz wydajnego, cichego i stylowego zasilacza do swojego komputera – ten model spełni Twoje oczekiwania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>63,5 × 125 × 100 mm (szer. × wys. × gł.)</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Standard ATX</p><p>2.4</p></li><li><p>Wymiary wentylatora</p><p>92 × 16,5 × 92 mm (szer. × wys. × gł.)</p></li><li><p>Łożysko</p><p>Hydrauliczne</p></li><li><p>Prędkość obrotowa</p><p>1 000 – 2 800 obr./min</p></li><li><p>Sprawność</p><p>~ 90 / 92 / 89 % przy 20 / 50 / 100 % obciążenia przy 230 V, certyfikat 80 PLUS Gold</p></li><li><p>Poziom hałasu</p><p>17,1 – 40,6 dB(A)</p></li><li><p>Format</p><p>SFX</p></li><li><p>Moc ciągła</p><p>1 200 W</p></li><li><p>+3,3V</p><p>100 W / 20 A</p></li><li><p>+5V</p><p>100 W / 20 A</p></li><li><p>+12V (łączna)</p><p>850 W / 70 A</p></li><li><p>-12V</p><p>0,3 A</p></li><li><p>+5Vsb</p><p>2,5 A</p></li><li><p>Złącza</p><p>1 × 20+4-pin<br/>2 × 4+4-pin<br/>3 × 6+2-pin PCIe<br/>1 × 12VHPWR<br/>8 × SATA<br/>4 × 4-pin Molex</p></li><li><p>Zabezpieczenia</p><p>OCP / OPP / UVP / OVP / OTP / SCP</p></li><li><p>Zawartość opakowania</p><p>1 × Lian Li SP850 SFX 850W (zasilacz)<br/>1 × 20+4-pin kabel (1 wtyczka, 300 mm)<br/>1 × 8 (4+4)-pin kabel (2 wtyczki, 600 mm)<br/>1 × PCIe 6+2-pin kabel (1 wtyczka, 400 mm)<br/>1 × PCIe 6+2-pin kabel (2 wtyczki, 400 + 120 mm)<br/>1 × 12-pin 12VHPWR kabel (400 mm)<br/>2 × SATA kable (4 wtyczki, 120 + 120 + 120 + 120 mm)<br/>1 × Molex kabel (4 wtyczki, 120 + 120 + 120 + 120 mm)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71377.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71378.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71379.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71380.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71381.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71382.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71377.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71378.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71379.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71380.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71381.webp",
+    "galerie/z/zasilacz-lian-li-sp850-sfx-85_71382.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

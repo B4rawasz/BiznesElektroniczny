@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Czujniki"
-    ],
-    "id": "17151",
-    "code": "TSL-SEN-WATER",
-    "name": "Tesla Smart Czujnik zalania",
-    "price": 124.99,
-    "description": "<h2>Inteligentny czujnik ostrzega w przypadku wycieku wody</h2><p>Pęknięta rura, zła uszczelka czy zapomniana, przepełniona wanna. Wszystko to może sprawić, że Twój dom będzie wyglądał bardziej jak brodzik. Jednak z TESLA Inteligentnym czujnikiem wody będziesz w stanie zareagować na czas w takich sytuacjach i tym samym zapobiec największym szkodom.</p><h2>Nawet tego nie zauważysz</h2><p>Inteligentny czujnik wody TESLA jest w pełni bezprzewodowy i zasilany tylko jedną baterią. Dzięki bardzo ekonomicznemu trybowi zasilania, żywotność baterii jest naprawdę długa. Ponadto sam czujnik poprosi o wymianę, jeśli zostanie rozładowany. Dzięki świetnemu wzornictwu i wysokiej niezawodności idealnie wpasuje się w każde wnętrze i nigdy Cię nie zawiedzie.</p><h2>Ustawienie zależy od Ciebie</h2><p>W inteligentnym domu jest wykorzystywany czyjnik wycieku wody, działający na podstawie protokółu ZigBee. Protokół ten łączy czujniki inteligentnego domu i umożliwia komunikację między nimi. Następnie sam wybierasz, jak dokładnie będziesz korzystać z czujnika. Do wyboru jest kilka zmiennych trybów, które można następnie dostosować do różnych scenariuszy.</p><h2>Długi okres użytkowania</h2><p>Wszystkie czujniki TESLA są bardzo energooszczędne. TESLA Smart Water działa do dwóch lat na jednej baterii.</p><h2>Asystenci dogadują się z nim</h2><p>TESLA Smart ZigBee Hub pozwala na Łączność czujnika z aplikacją TESLA Smart, która jest kompatybilna z mobilnymi systemami operacyjnymi iOS i Android. Dzięki temu można dokonać ustawień urządzenia w aplikacji. Aplikacja TESLA Smart świetnie współdziała również z inteligentnymi asystentami osobistymi Google Assistant i Amazon Alexa.</p><h2>Dzięki czujnikom niczego nie przegapisz</h2><p>Protokół ZigBee jest bardzo stabilny, więc nie musisz się martwić o żadne przestoje czy awarie ze strony urządzeń korzystających z tej technologii. Czujnik wykrywania wycieku wody będzie zawsze gotowy do natychmiastowego powiadomienia, jeśli wykryje powódź.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy wykorzystującej protokół ZigBee, za pomocą którego produkty komunikują się ze sobą. Do prawidłowego funkcjonowania tych produktów niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wartość, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>160 szt</p></li><li><p>Wysokość:</p><p>1.8 cm</p></li><li><p>Szerokość:</p><p>5 cm</p></li><li><p>Głębokość:</p><p>5 cm</p></li><li><p>Waga:</p><p>0.028 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-czujnik-zalania_63547.webp",
-        "galerie/t/tesla-smart-czujnik-zalania_63548.webp",
-        "galerie/t/tesla-smart-czujnik-zalania_63549.webp",
-        "galerie/t/tesla-smart-czujnik-zalania_63550.webp",
-        "galerie/t/tesla-smart-czujnik-zalania_63547.webp",
-        "galerie/t/tesla-smart-czujnik-zalania_63548.webp",
-        "galerie/t/tesla-smart-czujnik-zalania_63549.webp",
-        "galerie/t/tesla-smart-czujnik-zalania_63550.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Czujniki"
+  ],
+  "id": "17151",
+  "code": "TSL-SEN-WATER",
+  "name": "Tesla Smart Czujnik zalania",
+  "price": 124.99,
+  "description": "<h2>Inteligentny czujnik ostrzega w przypadku wycieku wody</h2><p>Pęknięta rura, zła uszczelka czy zapomniana, przepełniona wanna. Wszystko to może sprawić, że Twój dom będzie wyglądał bardziej jak brodzik. Jednak z TESLA Inteligentnym czujnikiem wody będziesz w stanie zareagować na czas w takich sytuacjach i tym samym zapobiec największym szkodom.</p><h2>Nawet tego nie zauważysz</h2><p>Inteligentny czujnik wody TESLA jest w pełni bezprzewodowy i zasilany tylko jedną baterią. Dzięki bardzo ekonomicznemu trybowi zasilania, żywotność baterii jest naprawdę długa. Ponadto sam czujnik poprosi o wymianę, jeśli zostanie rozładowany. Dzięki świetnemu wzornictwu i wysokiej niezawodności idealnie wpasuje się w każde wnętrze i nigdy Cię nie zawiedzie.</p><h2>Ustawienie zależy od Ciebie</h2><p>W inteligentnym domu jest wykorzystywany czyjnik wycieku wody, działający na podstawie protokółu ZigBee. Protokół ten łączy czujniki inteligentnego domu i umożliwia komunikację między nimi. Następnie sam wybierasz, jak dokładnie będziesz korzystać z czujnika. Do wyboru jest kilka zmiennych trybów, które można następnie dostosować do różnych scenariuszy.</p><h2>Długi okres użytkowania</h2><p>Wszystkie czujniki TESLA są bardzo energooszczędne. TESLA Smart Water działa do dwóch lat na jednej baterii.</p><h2>Asystenci dogadują się z nim</h2><p>TESLA Smart ZigBee Hub pozwala na Łączność czujnika z aplikacją TESLA Smart, która jest kompatybilna z mobilnymi systemami operacyjnymi iOS i Android. Dzięki temu można dokonać ustawień urządzenia w aplikacji. Aplikacja TESLA Smart świetnie współdziała również z inteligentnymi asystentami osobistymi Google Assistant i Amazon Alexa.</p><h2>Dzięki czujnikom niczego nie przegapisz</h2><p>Protokół ZigBee jest bardzo stabilny, więc nie musisz się martwić o żadne przestoje czy awarie ze strony urządzeń korzystających z tej technologii. Czujnik wykrywania wycieku wody będzie zawsze gotowy do natychmiastowego powiadomienia, jeśli wykryje powódź.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy wykorzystującej protokół ZigBee, za pomocą którego produkty komunikują się ze sobą. Do prawidłowego funkcjonowania tych produktów niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wartość, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>160 szt</p></li><li><p>Wysokość:</p><p>1.8 cm</p></li><li><p>Szerokość:</p><p>5 cm</p></li><li><p>Głębokość:</p><p>5 cm</p></li><li><p>Waga:</p><p>0.028 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-czujnik-zalania_63547.webp",
+    "galerie/t/tesla-smart-czujnik-zalania_63548.webp",
+    "galerie/t/tesla-smart-czujnik-zalania_63549.webp",
+    "galerie/t/tesla-smart-czujnik-zalania_63550.webp",
+    "galerie/t/tesla-smart-czujnik-zalania_63547.webp",
+    "galerie/t/tesla-smart-czujnik-zalania_63548.webp",
+    "galerie/t/tesla-smart-czujnik-zalania_63549.webp",
+    "galerie/t/tesla-smart-czujnik-zalania_63550.webp"
+  ],
+  "manufacturer": "Tesla"
 }

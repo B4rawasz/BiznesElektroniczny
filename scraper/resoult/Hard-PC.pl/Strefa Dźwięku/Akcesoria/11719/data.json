@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "11719",
-    "code": "UGM1",
-    "name": "Gąbka Osłona do mikrofonu",
-    "price": 5.99,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Uniwersalna gąbka mikrofonowa UGM1.</h2><p>Chroń swój mikrofon przed zakłóceniami wynikającymi z podmuchu wiatru, spółgłosek wybuchowych, śliny i innych zanieczyszczeń. Zapobiega zniekształceniom w rejestrze dźwięku. Silny podmuch wywiera negatywny wpływ na jakość nagrywanego materiału. Uzyskaj czysty i ładny dźwięk. Dzięki owiewce, oszczędzisz sobie czasu poświęconego na obróbkę w postprodukcji. Miękki i gruby materiał, ma dobrą elastyczność i kurczliwość. Bardzo łatwo i wygodnie dopasujesz go do rozmiaru twojego mikrofonu. Zaprojektowany dla większości dostępnych urządzeń na rynku. Pasuje do większości mikrofonów o średnicy 40-55 mm. Szeroko używany do ktv, studia, sali konferencyjnej, wywiadów, występów na scenie itp.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Waga netto: 2,5g</li><li>Średnica wewnętrzna: 40 mm</li><li>Średnica zewnętrzna: 60 mm</li><li>Długość: 76 mm</li><li>Grubość: 10 mm</li><li>Materiał: gąbka</li><!-- KONIEC ATRYBUTÓW --></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/g/gabka-oslona-do-mikrofonu_39949.webp",
-        "galerie/g/gabka-oslona-do-mikrofonu_39950.webp",
-        "galerie/g/gabka-oslona-do-mikrofonu_39951.webp",
-        "galerie/g/gabka-oslona-do-mikrofonu_39952.webp",
-        "galerie/g/gabka-oslona-do-mikrofonu_39949.webp",
-        "galerie/g/gabka-oslona-do-mikrofonu_39950.webp",
-        "galerie/g/gabka-oslona-do-mikrofonu_39951.webp",
-        "galerie/g/gabka-oslona-do-mikrofonu_39952.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "11719",
+  "code": "UGM1",
+  "name": "Gąbka Osłona do mikrofonu",
+  "price": 5.99,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Uniwersalna gąbka mikrofonowa UGM1.</h2><p>Chroń swój mikrofon przed zakłóceniami wynikającymi z podmuchu wiatru, spółgłosek wybuchowych, śliny i innych zanieczyszczeń. Zapobiega zniekształceniom w rejestrze dźwięku. Silny podmuch wywiera negatywny wpływ na jakość nagrywanego materiału. Uzyskaj czysty i ładny dźwięk. Dzięki owiewce, oszczędzisz sobie czasu poświęconego na obróbkę w postprodukcji. Miękki i gruby materiał, ma dobrą elastyczność i kurczliwość. Bardzo łatwo i wygodnie dopasujesz go do rozmiaru twojego mikrofonu. Zaprojektowany dla większości dostępnych urządzeń na rynku. Pasuje do większości mikrofonów o średnicy 40-55 mm. Szeroko używany do ktv, studia, sali konferencyjnej, wywiadów, występów na scenie itp.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Waga netto: 2,5g</li><li>Średnica wewnętrzna: 40 mm</li><li>Średnica zewnętrzna: 60 mm</li><li>Długość: 76 mm</li><li>Grubość: 10 mm</li><li>Materiał: gąbka</li><!-- KONIEC ATRYBUTÓW --></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/g/gabka-oslona-do-mikrofonu_39949.webp",
+    "galerie/g/gabka-oslona-do-mikrofonu_39950.webp",
+    "galerie/g/gabka-oslona-do-mikrofonu_39951.webp",
+    "galerie/g/gabka-oslona-do-mikrofonu_39952.webp",
+    "galerie/g/gabka-oslona-do-mikrofonu_39949.webp",
+    "galerie/g/gabka-oslona-do-mikrofonu_39950.webp",
+    "galerie/g/gabka-oslona-do-mikrofonu_39951.webp",
+    "galerie/g/gabka-oslona-do-mikrofonu_39952.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

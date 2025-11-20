@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "14891",
-    "code": "MPG A1000G PCIE5",
-    "name": "Zasilacz MSI MPG A1000G PCIE5 1000W 80Plus Gold",
-    "price": 849.0,
-    "description": "<p>MSI MPG A1000G PCIE5 to zasilacz ATX 3.0 o mocy 1000W pochodzący z najnowszej serii i całkowicie kompatybilny z najnowszymi kartami graficznymi wymagającymi złącza PCI-E 5.0 16pin jak RTX z serii 40 . Z uwagi na wysoką moc przeznaczony jest głównie dla entuzjastów i graczy, którzy posiadają najnowsze konfiguracje sprzętowe. Jest to zasilacz modularny, co oznacza, że kable zasilające mogą być podłączane tylko wtedy, gdy są potrzebne, co ułatwia zarządzanie przewodami wewnątrz obudowy. Dzięki temu łatwo uniknąć plątaniny przewodów co z kolei pozytywnie przekłada się na przepływ powietrza.</p><p>Zasilacz posiada certyfikat 80 PLUS Gold, co oznacza jest potwierdzeniem wysokiej sprawności - większość mocy, którą pobiera z sieci, jest przekazywana do komponentów komputera. Ponadto, zasilacz wyposażony jest w system chłodzenia z wentylatorem o średnicy 135 mm, który zapewnia skuteczną i cichą pracę pod obciążeniem. A1000G posiada również tryb Zero Fan, co oznacza, że przy obciążeniu poniżej 40% wentylator nie będzie się załączał.</p><p>Zasilacz MSI MPG A1000G PCIE5 posiada japońskie kondensatory, a także zabezpieczenia przeciwprzepięciowe, przeciwzwarciowe oraz nadprądowe, co chroni podłączone do niego podzespoły przed uszkodzeniem. W zestawie znajdują się również kable zasilające, w tym kable zasilające dla kart graficznych PCIe 8-pin i PCIe 6-pin oraz PCI-E 16-pin, co pozwala na zasilanie najnowszych kart graficznych. Pokaźna liczba złączy SATA umożliwia podłączenie wielu dodatkowych dysków.</p><p>W skrócie, zasilacz MSI MPG A1000G PCIE5 to mocny i niezawodny zasilacz, który zapewni odpowiednie zasilanie dla komputerów stacjonarnych, zwłaszcza dla entuzjastów i graczy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1000 W</p></li><li><p>Certyfikat sprawności</p><p>80 Plus Gold</p></li><li><p>Zabezpieczenia</p><p>OCP / OVP / OPP / OTP / SCP / UVP</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Zakres napięcia wejściowego</p><p>100 - 240 V</p></li><li><p>Natężenie przy napięciu +12V1</p><p>83.5A</p></li><li><p>Natężenie przy napięciu +5V</p><p>22 A</p></li><li><p>Natężenie przy napięciu +3.3V</p><p>22 A</p></li><li><p>Natężenie przy napięciu +5Vsb</p><p>3 A</p></li><li><p>Natężenie przy napięciu -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +12V</p><p>1000 W</p></li><li><p>Obciążalność linii +3.3V i +5V</p><p>120 W</p></li><li><p>Liczba złącz PCI-E 5.0 (16pin)</p><p>1 (600W)</p></li><li><p>Liczba złącz PCI-E</p><p>6</p></li><li><p>Liczba złącz SATA</p><p>12</p></li><li><p>Liczba złącz Molex</p><p>4</p></li><li><p>Pozostałe złącza</p><p>ATX 24-pin<br/>EPS 4+4 pin<br/>FDD</p></li><li><p>Typ PFC</p><p>Aktywne</p></li><li><p>Konstrukcja</p><p>Modularna</p></li><li><p>Liczba zainstalowanych wentylatorów</p><p>1</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/msi.jpg",
-    "images": [
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53969.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53970.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53971.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53972.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53973.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53969.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53970.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53971.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53972.webp",
-        "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53973.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "14891",
+  "code": "MPG A1000G PCIE5",
+  "name": "Zasilacz MSI MPG A1000G PCIE5 1000W 80Plus Gold",
+  "price": 849.0,
+  "description": "<p>MSI MPG A1000G PCIE5 to zasilacz ATX 3.0 o mocy 1000W pochodzący z najnowszej serii i całkowicie kompatybilny z najnowszymi kartami graficznymi wymagającymi złącza PCI-E 5.0 16pin jak RTX z serii 40 . Z uwagi na wysoką moc przeznaczony jest głównie dla entuzjastów i graczy, którzy posiadają najnowsze konfiguracje sprzętowe. Jest to zasilacz modularny, co oznacza, że kable zasilające mogą być podłączane tylko wtedy, gdy są potrzebne, co ułatwia zarządzanie przewodami wewnątrz obudowy. Dzięki temu łatwo uniknąć plątaniny przewodów co z kolei pozytywnie przekłada się na przepływ powietrza.</p><p>Zasilacz posiada certyfikat 80 PLUS Gold, co oznacza jest potwierdzeniem wysokiej sprawności - większość mocy, którą pobiera z sieci, jest przekazywana do komponentów komputera. Ponadto, zasilacz wyposażony jest w system chłodzenia z wentylatorem o średnicy 135 mm, który zapewnia skuteczną i cichą pracę pod obciążeniem. A1000G posiada również tryb Zero Fan, co oznacza, że przy obciążeniu poniżej 40% wentylator nie będzie się załączał.</p><p>Zasilacz MSI MPG A1000G PCIE5 posiada japońskie kondensatory, a także zabezpieczenia przeciwprzepięciowe, przeciwzwarciowe oraz nadprądowe, co chroni podłączone do niego podzespoły przed uszkodzeniem. W zestawie znajdują się również kable zasilające, w tym kable zasilające dla kart graficznych PCIe 8-pin i PCIe 6-pin oraz PCI-E 16-pin, co pozwala na zasilanie najnowszych kart graficznych. Pokaźna liczba złączy SATA umożliwia podłączenie wielu dodatkowych dysków.</p><p>W skrócie, zasilacz MSI MPG A1000G PCIE5 to mocny i niezawodny zasilacz, który zapewni odpowiednie zasilanie dla komputerów stacjonarnych, zwłaszcza dla entuzjastów i graczy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1000 W</p></li><li><p>Certyfikat sprawności</p><p>80 Plus Gold</p></li><li><p>Zabezpieczenia</p><p>OCP / OVP / OPP / OTP / SCP / UVP</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Zakres napięcia wejściowego</p><p>100 - 240 V</p></li><li><p>Natężenie przy napięciu +12V1</p><p>83.5A</p></li><li><p>Natężenie przy napięciu +5V</p><p>22 A</p></li><li><p>Natężenie przy napięciu +3.3V</p><p>22 A</p></li><li><p>Natężenie przy napięciu +5Vsb</p><p>3 A</p></li><li><p>Natężenie przy napięciu -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +12V</p><p>1000 W</p></li><li><p>Obciążalność linii +3.3V i +5V</p><p>120 W</p></li><li><p>Liczba złącz PCI-E 5.0 (16pin)</p><p>1 (600W)</p></li><li><p>Liczba złącz PCI-E</p><p>6</p></li><li><p>Liczba złącz SATA</p><p>12</p></li><li><p>Liczba złącz Molex</p><p>4</p></li><li><p>Pozostałe złącza</p><p>ATX 24-pin<br/>EPS 4+4 pin<br/>FDD</p></li><li><p>Typ PFC</p><p>Aktywne</p></li><li><p>Konstrukcja</p><p>Modularna</p></li><li><p>Liczba zainstalowanych wentylatorów</p><p>1</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/msi.jpg",
+  "images": [
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53969.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53970.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53971.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53972.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53973.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53969.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53970.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53971.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53972.webp",
+    "galerie/z/zasilacz-msi-mpg-a1000g-pcie5_53973.webp"
+  ],
+  "manufacturer": "MSI"
 }

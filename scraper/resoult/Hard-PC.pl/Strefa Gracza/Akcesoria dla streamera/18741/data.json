@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Akcesoria dla streamera"
-    ],
-    "id": "18741",
-    "code": "SPK-PADS",
-    "name": "Mata akustyczna wygłuszająca piankowa na ścianę MOZOS SPK-PADS 30x30cm 6szt",
-    "price": 52.9,
-    "description": "OPIS <h2>Mozos SPK-PADS pianka tłumiąca o wysokiej gęstości.</h2><p style=\"font-size: 12px; font-weight: 400;\">Jeżeli myślisz o przejściu z amatorskiego do profesjonalnego nagrywania dźwięku wiesz jak istotne jest przystosowanie twojej przestrzeni i narzędzi pracy. Źle zaprojektowana kabina akustyczna może prowadzić do odbijania fal dźwiękowych które w konsekwencji będą wprowadzać nieprzyjemne efekty pogłosu, interferencji, zniekształceń itd. Nasze pady akustyczne dzięki gęstym porom, kwadratowej konstrukcji pochłaniają fale dźwiękowe minimalizując efekt ich odbijania zapewniając dźwięk o dużej dynamice i skutecznej dyfuzji. Aby maty osiągnęły swoją optymalną skuteczność należy je otworzyć i pozwolić im nabrać powietrza przez 48 godzin. Następny krok jest bardzo prosty bo nasze panele zostały wyposażone w taśmę dwustronnie klejącą. Wystarczy zdjąć warstwę zabezpieczającą klej i nalepić je w miejscu którym zaplanowaliśmy. Dzięki naszym piankom praca z mikrofonem czy głośnikami nabierze nowego profesjonalnego wymiaru. W końcu mikrofon będzie miał optymalne środowisko do pracy.</p><h2>Bezpieczeństwo użytkowania.</h2><p style=\"font-size: 12px; font-weight: 400;\">Mozos SPK-PADS to dojrzała konstrukcja. Nasze maty są nie tylko proste w montażu ale również bezpieczne ze względu na swoją trudnopalną konstrukcję. Nie pylą, nie kruszą, nie odkształcają się. Wykonane z gęstej pianki poliuretanowej o gęstości 30 kg/m³, gwarantują skuteczne pochłanianie hałasu i wibracji, tworząc idealne środowisko do pracy ze sprzętem audio. Nasze maty sprawdzą się świetnie w każdym miejscu które potrzebuje absorbcji fal dźwiękowych lub tez ich rozpraszania. Czy to domowe studio czy sala perkusyjna nasz zestaw 6 mat z pewnością ułatwi osiągnięcie optymalnych warunków akustycznych. Czarne wykończenie nadaje padom elegancki wygląd, który harmonizuje z różnymi aranżacjami wnętrz. Zadbaj o profesjonalną akustykę już dziś! Sprawdź efektywność padów MOZOS i doświadcz różnicy w jakości dźwięku. W zestawie znajduje się 6 mat o rozmiarach 30x30x5 cm. Pozostałe elementy mają jedynie ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Duże właściwości tłumiące dzięki dużej gęstości 30 kg/m3.</li><li>Gotowy zestaw składający się z 6 pianek 30×30 i taśmy 2 stronnej.</li><li>Popraw akustycznie swoją kabinę do mikrofonu lub inną przestrzeń.</li><li>Łatwy i szybki montaż dzięki mocnej taśmie klejącej.</li><li>Czarny, minimalistyczny wygląd.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Gęstość</p><p>30 kg/m³.</p></li><li><p>Kolor</p><p>czarny.</p></li><li><p>Materiał</p><p>pianka poliuretanowa.</p></li><li><p>Wymiary produktu</p><p>30x30x5 cm/sztuka.</p></li><li><p>Opakowanie</p><p>6 sztuk/zestaw.</p></li><li><p>Skompresowany rozmiar opakowania</p><p>32x32x3 cm/zestaw.</p></li><li><p>Waga netto</p><p>około 525 g.</p></li><li><p>Waga brutto</p><p>około 535 g.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/m/mata-wygluszajaca-piankowa-na_69045.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69046.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69047.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69048.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69049.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69050.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69051.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69052.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69045.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69046.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69047.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69048.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69049.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69050.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69051.webp",
-        "galerie/m/mata-wygluszajaca-piankowa-na_69052.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "18741",
+  "code": "SPK-PADS",
+  "name": "Mata akustyczna wygłuszająca piankowa na ścianę MOZOS SPK-PADS 30x30cm 6szt",
+  "price": 52.9,
+  "description": "OPIS <h2>Mozos SPK-PADS pianka tłumiąca o wysokiej gęstości.</h2><p style=\"font-size: 12px; font-weight: 400;\">Jeżeli myślisz o przejściu z amatorskiego do profesjonalnego nagrywania dźwięku wiesz jak istotne jest przystosowanie twojej przestrzeni i narzędzi pracy. Źle zaprojektowana kabina akustyczna może prowadzić do odbijania fal dźwiękowych które w konsekwencji będą wprowadzać nieprzyjemne efekty pogłosu, interferencji, zniekształceń itd. Nasze pady akustyczne dzięki gęstym porom, kwadratowej konstrukcji pochłaniają fale dźwiękowe minimalizując efekt ich odbijania zapewniając dźwięk o dużej dynamice i skutecznej dyfuzji. Aby maty osiągnęły swoją optymalną skuteczność należy je otworzyć i pozwolić im nabrać powietrza przez 48 godzin. Następny krok jest bardzo prosty bo nasze panele zostały wyposażone w taśmę dwustronnie klejącą. Wystarczy zdjąć warstwę zabezpieczającą klej i nalepić je w miejscu którym zaplanowaliśmy. Dzięki naszym piankom praca z mikrofonem czy głośnikami nabierze nowego profesjonalnego wymiaru. W końcu mikrofon będzie miał optymalne środowisko do pracy.</p><h2>Bezpieczeństwo użytkowania.</h2><p style=\"font-size: 12px; font-weight: 400;\">Mozos SPK-PADS to dojrzała konstrukcja. Nasze maty są nie tylko proste w montażu ale również bezpieczne ze względu na swoją trudnopalną konstrukcję. Nie pylą, nie kruszą, nie odkształcają się. Wykonane z gęstej pianki poliuretanowej o gęstości 30 kg/m³, gwarantują skuteczne pochłanianie hałasu i wibracji, tworząc idealne środowisko do pracy ze sprzętem audio. Nasze maty sprawdzą się świetnie w każdym miejscu które potrzebuje absorbcji fal dźwiękowych lub tez ich rozpraszania. Czy to domowe studio czy sala perkusyjna nasz zestaw 6 mat z pewnością ułatwi osiągnięcie optymalnych warunków akustycznych. Czarne wykończenie nadaje padom elegancki wygląd, który harmonizuje z różnymi aranżacjami wnętrz. Zadbaj o profesjonalną akustykę już dziś! Sprawdź efektywność padów MOZOS i doświadcz różnicy w jakości dźwięku. W zestawie znajduje się 6 mat o rozmiarach 30x30x5 cm. Pozostałe elementy mają jedynie ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Duże właściwości tłumiące dzięki dużej gęstości 30 kg/m3.</li><li>Gotowy zestaw składający się z 6 pianek 30×30 i taśmy 2 stronnej.</li><li>Popraw akustycznie swoją kabinę do mikrofonu lub inną przestrzeń.</li><li>Łatwy i szybki montaż dzięki mocnej taśmie klejącej.</li><li>Czarny, minimalistyczny wygląd.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Gęstość</p><p>30 kg/m³.</p></li><li><p>Kolor</p><p>czarny.</p></li><li><p>Materiał</p><p>pianka poliuretanowa.</p></li><li><p>Wymiary produktu</p><p>30x30x5 cm/sztuka.</p></li><li><p>Opakowanie</p><p>6 sztuk/zestaw.</p></li><li><p>Skompresowany rozmiar opakowania</p><p>32x32x3 cm/zestaw.</p></li><li><p>Waga netto</p><p>około 525 g.</p></li><li><p>Waga brutto</p><p>około 535 g.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/m/mata-wygluszajaca-piankowa-na_69045.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69046.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69047.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69048.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69049.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69050.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69051.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69052.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69045.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69046.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69047.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69048.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69049.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69050.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69051.webp",
+    "galerie/m/mata-wygluszajaca-piankowa-na_69052.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

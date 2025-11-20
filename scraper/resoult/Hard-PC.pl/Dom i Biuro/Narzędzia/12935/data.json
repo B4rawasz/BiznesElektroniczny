@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Narzędzia"
-    ],
-    "id": "12935",
-    "code": "ZUWS-163",
-    "name": "Zestaw narzędzi iFixit Moray Driver Kit - 32 bity",
-    "price": 76.9,
-    "description": "<p>Odpowiednie narzędzia znacznie ułatwiają i przyspieszają pracę. Zapewniają również bezpieczeństwo zarówno użytkownikowi, jak i sprzętowi, który serwisujemy. iFixit Moray to kompaktowy zestaw wkrętaków precyzyjnych, w skład którego wchodzi ergonomiczny uchwyt na bity z magnetyczną końcówką, 32 najpopularniejsze bity, dzięki którym naprawa elektroniki stanie się łatwa i przyjemna oraz etui wraz z magnetyczną tacką ułatwiającą zachowanie porządku.</p><p>Zestaw narzędzi iFixit Moray jest wystarczająco mały, aby można go było łatwo przenosić. Nawet w podróży będziesz gotowy usunąć najdrobniejszą awarię. Obszerna zawartość pozwala na dokonanie naprawy z maksymalną precyzją.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Zawartość zestawu:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Ergonomiczny uchwyt bitów (1/4\")</li><li><strong>32 bity</strong></li><ul><li>Phillips 000, 0, 1, 2</li><li>Slot 1, 2.5, 4 mm</li><li>Pentalobe P2, P5</li><li>Tri-Point Y000, Y00, Y0, Y1</li><li>Torx T3, T4, T5</li><li>Torx Security TR6, TR8, TR10, TR15</li><li>Hex 1.5, 2.5, 3, 4</li><li>Nut Driver 2.5, 5 mm</li><li>Gamebit 3.8, 4.5 mm</li><li>Triangle 2, 3 mm</li><li>Oval Drive</li><li>iPhone Standoff Bit</li></ul><li>Zamykane na magnes pudełko</li></ul><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Materiał bitów: Stal S2</li><li>Uchwyt bitów: Polimer</li><li>Wymiary: 22 x 78 x 124mm</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ifixit.jpg",
-    "images": [
-        "galerie/z/zestaw-barzedzi-ifixit-moray_46833.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-moray_46834.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-moray_46835.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-moray_46833.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-moray_46834.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-moray_46835.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Narzędzia"
+  ],
+  "id": "12935",
+  "code": "ZUWS-163",
+  "name": "Zestaw narzędzi iFixit Moray Driver Kit - 32 bity",
+  "price": 76.9,
+  "description": "<p>Odpowiednie narzędzia znacznie ułatwiają i przyspieszają pracę. Zapewniają również bezpieczeństwo zarówno użytkownikowi, jak i sprzętowi, który serwisujemy. iFixit Moray to kompaktowy zestaw wkrętaków precyzyjnych, w skład którego wchodzi ergonomiczny uchwyt na bity z magnetyczną końcówką, 32 najpopularniejsze bity, dzięki którym naprawa elektroniki stanie się łatwa i przyjemna oraz etui wraz z magnetyczną tacką ułatwiającą zachowanie porządku.</p><p>Zestaw narzędzi iFixit Moray jest wystarczająco mały, aby można go było łatwo przenosić. Nawet w podróży będziesz gotowy usunąć najdrobniejszą awarię. Obszerna zawartość pozwala na dokonanie naprawy z maksymalną precyzją.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Zawartość zestawu:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Ergonomiczny uchwyt bitów (1/4\")</li><li><strong>32 bity</strong></li><ul><li>Phillips 000, 0, 1, 2</li><li>Slot 1, 2.5, 4 mm</li><li>Pentalobe P2, P5</li><li>Tri-Point Y000, Y00, Y0, Y1</li><li>Torx T3, T4, T5</li><li>Torx Security TR6, TR8, TR10, TR15</li><li>Hex 1.5, 2.5, 3, 4</li><li>Nut Driver 2.5, 5 mm</li><li>Gamebit 3.8, 4.5 mm</li><li>Triangle 2, 3 mm</li><li>Oval Drive</li><li>iPhone Standoff Bit</li></ul><li>Zamykane na magnes pudełko</li></ul><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Materiał bitów: Stal S2</li><li>Uchwyt bitów: Polimer</li><li>Wymiary: 22 x 78 x 124mm</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ifixit.jpg",
+  "images": [
+    "galerie/z/zestaw-barzedzi-ifixit-moray_46833.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-moray_46834.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-moray_46835.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-moray_46833.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-moray_46834.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-moray_46835.webp"
+  ],
+  "manufacturer": "iFixit"
 }

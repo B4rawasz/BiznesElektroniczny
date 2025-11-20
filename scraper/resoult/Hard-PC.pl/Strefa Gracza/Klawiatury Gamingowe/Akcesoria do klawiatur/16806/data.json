@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Akcesoria do klawiatur"
-    ],
-    "id": "16806",
-    "code": "GAZU-732",
-    "name": "Podkładka pod nadgarstki Ducky Mini (Skóra) - Black-Red",
-    "price": 125.9,
-    "description": "<p>Dużo pisania lub długie godziny grania mogą obciążać nadgarstki. Ducky łagodzi ból ręki za pomocą podkładki pod nadgarstek, opierając ją na miękkiej skórze.</p><p>„Podpórka pod nadgarstki” składa się z wygodnej wyściółki o wysokości około 2,5 cm, która jest otoczona wysokiej jakości czarną skórą naturalną. Czerwone szwy stanowią wizualny akcent. Minipodpórka pod nadgarstki Ducky zapewnia maksymalny komfort przy biurku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>ok. 325 x 26 x 92 mm (szer. x wys. x gł.)</p></li><li><p>Materiał:</p><p>skóra naturalna</p></li><li><p>Kolor:</p><p>czarny, czerwony</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ducky.jpg",
-    "images": [
-        "galerie/d/ducky-handgelenkunterlage-min_59866.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59867.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59868.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59869.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59870.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59866.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59867.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59868.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59869.webp",
-        "galerie/d/ducky-handgelenkunterlage-min_59870.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "16806",
+  "code": "GAZU-732",
+  "name": "Podkładka pod nadgarstki Ducky Mini (Skóra) - Black-Red",
+  "price": 125.9,
+  "description": "<p>Dużo pisania lub długie godziny grania mogą obciążać nadgarstki. Ducky łagodzi ból ręki za pomocą podkładki pod nadgarstek, opierając ją na miękkiej skórze.</p><p>„Podpórka pod nadgarstki” składa się z wygodnej wyściółki o wysokości około 2,5 cm, która jest otoczona wysokiej jakości czarną skórą naturalną. Czerwone szwy stanowią wizualny akcent. Minipodpórka pod nadgarstki Ducky zapewnia maksymalny komfort przy biurku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>ok. 325 x 26 x 92 mm (szer. x wys. x gł.)</p></li><li><p>Materiał:</p><p>skóra naturalna</p></li><li><p>Kolor:</p><p>czarny, czerwony</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ducky.jpg",
+  "images": [
+    "galerie/d/ducky-handgelenkunterlage-min_59866.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59867.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59868.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59869.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59870.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59866.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59867.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59868.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59869.webp",
+    "galerie/d/ducky-handgelenkunterlage-min_59870.webp"
+  ],
+  "manufacturer": "Ducky"
 }

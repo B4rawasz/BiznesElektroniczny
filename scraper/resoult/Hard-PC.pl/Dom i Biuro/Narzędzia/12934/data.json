@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Narzędzia"
-    ],
-    "id": "12934",
-    "code": "ZUWS-162",
-    "name": "Zestaw narzędzi iFixit Minnow Driver Kit - 16 bitów",
-    "price": 55.9,
-    "description": "<p>Chcesz naprawić urządzenie, gdy jesteś poza domem, na wakacjach lub w podróży, ale Twój zestaw narzędzi został w domu? iFixit Minnow to niewielki zestaw, który możesz zmieścić w dowolnym miejscu, dzięki czemu jesteś przygotowany na każdą awarię, gdziekolwiek jesteś.</p><p>Zestaw iFixit Minnow to kompletne rozwiązanie do naprawy urządzeń elektronicznych. Składa się z magnetycznego, ergonomicznego uchwytu na 4mm bity oraz 16-stu bitów. Obrotowa nasadka z łożyskiem kulkowym ułatwia ruchy nadgarstkiem i przyspiesza pracę. Skrywa również narzędzie do wysuwania tacki kart SIM. To idealny zestaw do napraw smartfonów, konsol, laptopów, tabletów i komputerów stacjonarnych.</p><p>Magnetyczne etui jest solidne i spełnia kilka funkcji. Utrzymuje końcówki na swoim miejscu, jak i ułatwia sortowanie śrub zapobiegając wymieszaniu czy zgubieniu którejś z nich.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Zawartość zestawu:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Ergonomiczny uchwyt bitów (1/4\")</li><li><strong>16 bitów</strong></li><ul><li>Phillips 000, 0, 1</li><li>Slot 1, 2.5 mm</li><li>Pentalobe P2, P5</li><li>Tri-Point Y000, Y0</li><li>Torx T3, T4, T5</li><li>Torx Security TR6, TR8, TR10</li><li>iPhone Standoff Bit</li></ul><li>Zamykane na magnes pudełko</li></ul><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Materiał bitów: Stal S2</li><li>Uchwyt bitów: Polimer</li><li>Wymiary: 22 x 45 x 124mm</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ifixit.jpg",
-    "images": [
-        "galerie/z/zestaw-barzedzi-ifixit-minnow_46830.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-minnow_46831.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-minnow_46832.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-minnow_46830.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-minnow_46831.webp",
-        "galerie/z/zestaw-barzedzi-ifixit-minnow_46832.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Narzędzia"
+  ],
+  "id": "12934",
+  "code": "ZUWS-162",
+  "name": "Zestaw narzędzi iFixit Minnow Driver Kit - 16 bitów",
+  "price": 55.9,
+  "description": "<p>Chcesz naprawić urządzenie, gdy jesteś poza domem, na wakacjach lub w podróży, ale Twój zestaw narzędzi został w domu? iFixit Minnow to niewielki zestaw, który możesz zmieścić w dowolnym miejscu, dzięki czemu jesteś przygotowany na każdą awarię, gdziekolwiek jesteś.</p><p>Zestaw iFixit Minnow to kompletne rozwiązanie do naprawy urządzeń elektronicznych. Składa się z magnetycznego, ergonomicznego uchwytu na 4mm bity oraz 16-stu bitów. Obrotowa nasadka z łożyskiem kulkowym ułatwia ruchy nadgarstkiem i przyspiesza pracę. Skrywa również narzędzie do wysuwania tacki kart SIM. To idealny zestaw do napraw smartfonów, konsol, laptopów, tabletów i komputerów stacjonarnych.</p><p>Magnetyczne etui jest solidne i spełnia kilka funkcji. Utrzymuje końcówki na swoim miejscu, jak i ułatwia sortowanie śrub zapobiegając wymieszaniu czy zgubieniu którejś z nich.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Zawartość zestawu:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Ergonomiczny uchwyt bitów (1/4\")</li><li><strong>16 bitów</strong></li><ul><li>Phillips 000, 0, 1</li><li>Slot 1, 2.5 mm</li><li>Pentalobe P2, P5</li><li>Tri-Point Y000, Y0</li><li>Torx T3, T4, T5</li><li>Torx Security TR6, TR8, TR10</li><li>iPhone Standoff Bit</li></ul><li>Zamykane na magnes pudełko</li></ul><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Materiał bitów: Stal S2</li><li>Uchwyt bitów: Polimer</li><li>Wymiary: 22 x 45 x 124mm</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ifixit.jpg",
+  "images": [
+    "galerie/z/zestaw-barzedzi-ifixit-minnow_46830.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-minnow_46831.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-minnow_46832.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-minnow_46830.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-minnow_46831.webp",
+    "galerie/z/zestaw-barzedzi-ifixit-minnow_46832.webp"
+  ],
+  "manufacturer": "iFixit"
 }

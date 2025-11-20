@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Elektryka i oświetlenie"
-    ],
-    "id": "17229",
-    "code": "TSL-SWI-SCENEZG2",
-    "name": "Tesla Smart Włącznik światła podwójny z baterią",
-    "price": 99.99,
-    "description": "<h2>Wyłącznik bateryjny - nie tylko do inteligentnego oświetlenia</h2><p>Możesz łatwo skonfigurować i kontrolować TESLA Smart Switch Dual Battery za pomocą aplikacji mobilnej TESLA Smart. Ponadto włącznik działa na baterie, więc nie musisz się martwić o instalację – po prostu przyklejasz go w dowolnym miejscu na ścianie.</p><h2>Inteligentne przyciski ułatwiające obsługę</h2><p>TESLA Smart Switch Dual Battery jest wyposażony w inteligentne przyciski. Każdy z przycisków rozpoznaje trzy rodzaje wciśnięć - jednokrotne naciśnięcie, podwójne naciśnięcie i długie naciśnięcie, do których można przypisać dowolną funkcję. Długie naciśnięcie spowoduje np. wyłączenie świateł, a dwukrotne - przełączenie ich w tryb nocny.</p><h2>Natychmiastowa instalacja, bez podłączania do sieci</h2><p>Inteligentny przełącznik TESLA Smart Switch Dual Battery działa jak inteligentny przycisk. Zasilany jest bateriami, więc nie musisz go podpinać do instalacji elektrycznej. Wystarczy przymocować przełącznik tam, gdzie tego potrzebujesz.</p><h2>Kontroluj dowolne urządzenia</h2><p>Możesz wykorzystać przełącznik na wiele sposobów, tak żeby poprawiał Twój komfort na co dzień.</p><h2>Łączy domowników i zapewnia komfort</h2><p>Dzięki aplikacji TESLA Smart możesz połączyć przełącznik z innymi inteligentnymi urządzeniami i ustawić dla nich automatyzacje w aplikacji. W praktyce wygląda to tak, że gdy tylko zgasisz w nocy światło w sypialni, uruchamiają się kamery zewnętrzne, a oczyszczacz powietrza przechodzi w tryb cichy.</p><h2>Idealny do inteligentnych żarówek</h2><p>Właściciele inteligentnych żarówek często spotykają się z problemem – jeśli wyłączysz je klasycznym wyłącznikiem, nie można już nimi sterować przez aplikację i trzeba je ponownie włączyć. Tak się nie stanie z podwójną baterią TESLA Smart Switch. Żarówka zgaśnie, ale nadal będzie pod napięciem.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>120 szt</p></li><li><p>Wysokość:</p><p>0.8 cm</p></li><li><p>Szerokość:</p><p>8.6 cm</p></li><li><p>Głębokość:</p><p>8.6 cm</p></li><li><p>Waga:</p><p>0.106 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-wlacznik-swiatla_62947.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62948.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62949.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62950.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62951.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62952.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62953.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62954.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62947.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62948.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62949.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62950.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62951.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62952.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62953.webp",
-        "galerie/t/tesla-smart-wlacznik-swiatla_62954.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17229",
+  "code": "TSL-SWI-SCENEZG2",
+  "name": "Tesla Smart Włącznik światła podwójny z baterią",
+  "price": 99.99,
+  "description": "<h2>Wyłącznik bateryjny - nie tylko do inteligentnego oświetlenia</h2><p>Możesz łatwo skonfigurować i kontrolować TESLA Smart Switch Dual Battery za pomocą aplikacji mobilnej TESLA Smart. Ponadto włącznik działa na baterie, więc nie musisz się martwić o instalację – po prostu przyklejasz go w dowolnym miejscu na ścianie.</p><h2>Inteligentne przyciski ułatwiające obsługę</h2><p>TESLA Smart Switch Dual Battery jest wyposażony w inteligentne przyciski. Każdy z przycisków rozpoznaje trzy rodzaje wciśnięć - jednokrotne naciśnięcie, podwójne naciśnięcie i długie naciśnięcie, do których można przypisać dowolną funkcję. Długie naciśnięcie spowoduje np. wyłączenie świateł, a dwukrotne - przełączenie ich w tryb nocny.</p><h2>Natychmiastowa instalacja, bez podłączania do sieci</h2><p>Inteligentny przełącznik TESLA Smart Switch Dual Battery działa jak inteligentny przycisk. Zasilany jest bateriami, więc nie musisz go podpinać do instalacji elektrycznej. Wystarczy przymocować przełącznik tam, gdzie tego potrzebujesz.</p><h2>Kontroluj dowolne urządzenia</h2><p>Możesz wykorzystać przełącznik na wiele sposobów, tak żeby poprawiał Twój komfort na co dzień.</p><h2>Łączy domowników i zapewnia komfort</h2><p>Dzięki aplikacji TESLA Smart możesz połączyć przełącznik z innymi inteligentnymi urządzeniami i ustawić dla nich automatyzacje w aplikacji. W praktyce wygląda to tak, że gdy tylko zgasisz w nocy światło w sypialni, uruchamiają się kamery zewnętrzne, a oczyszczacz powietrza przechodzi w tryb cichy.</p><h2>Idealny do inteligentnych żarówek</h2><p>Właściciele inteligentnych żarówek często spotykają się z problemem – jeśli wyłączysz je klasycznym wyłącznikiem, nie można już nimi sterować przez aplikację i trzeba je ponownie włączyć. Tak się nie stanie z podwójną baterią TESLA Smart Switch. Żarówka zgaśnie, ale nadal będzie pod napięciem.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>120 szt</p></li><li><p>Wysokość:</p><p>0.8 cm</p></li><li><p>Szerokość:</p><p>8.6 cm</p></li><li><p>Głębokość:</p><p>8.6 cm</p></li><li><p>Waga:</p><p>0.106 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-wlacznik-swiatla_62947.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62948.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62949.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62950.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62951.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62952.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62953.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62954.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62947.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62948.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62949.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62950.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62951.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62952.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62953.webp",
+    "galerie/t/tesla-smart-wlacznik-swiatla_62954.webp"
+  ],
+  "manufacturer": "Tesla"
 }

@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.0"
-    ],
-    "id": "18010",
-    "code": "R1100 black",
-    "name": "Głośniki Edifier R1100 2.0 Czarne",
-    "price": 299.0,
-    "description": "<h2>Nieskazitelny dźwięk Edifier R1100</h2><p>Postaw na idealnie czysty dźwięk, który docenisz już po pierwszym odsłuchu. Sześcienna, klasyczna konstrukcja, w czarnym kolorze zapewni stabilizację przy nawet największych basach i wpisze się doskonale w każde wnętrze. Bez problemu dopasujesz swoje preferencje i zapewnisz sobie niezapomniane, muzyczne wrażenia. Podwójne wejścia RCA umożliwiają podłączenie do więcej niż jednego urządzenia, co daje jeszcze większe możliwości.</p><h2>Aktywny system głośników</h2><p>Edifier R1100 to kompaktowy, aktywny system głośników o łącznej mocy wyjściowej 42W. Podwójne wejście RCA umożliwia podłączenie do wielu źródeł audio, port bass reflect odpowiada za dobrą jakość basów, a regulatory głośności i tonów wysokich oraz niskich umożliwiają dostosowywanie dźwięku do swoich preferencji. Obudowa wykonana z plyty MDF minimalizuje rezonans akustyczny i zapewnia naturalny dźwięk bez zniekształceń.</p><h2>Wyjątkowa obudowa</h2><p>Obudowa głośników Edifier R1000T4 wykonana jest w 100% z płyty pilśniowej średniej grubości (MDF) całkowicie sprawdzonej na rynku. Czarny kolor idealnie uzupełni każde pomieszczenie, bez względu czy jest to biuro czy mieszkanie. Dzięki wbudowanemu wzmacniaczowi nie musisz podłączać ich do żadnego dodatkowego urządzenia.</p><h2>Wyjątkowa jakość dźwięku z Edifier</h2><p>Głośniki Edifier R1100 to propozycja dla wszystkich fanów czystych dźwięków bardzo dobrej jakości. To odkrywanie na nowo bogactwa szczegółów ukrytych w ulubionych piosenkach, których wcześniej dotąd nie dostrzegałeś. Swoje preferencje ustawisz w bardzo prosty sposób, dzięki czemu możesz zyskać niezapomniane odczucia bez względu na ulubiony gatunek muzycznym.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc wyjściowa</p><p>RMS 21W x 2 (THD + N=10%)</p></li><li><p>Odległość poziomu szumów</p><p>≥85 dBA</p></li><li><p>THD (zniekształcenia harmoniczne)</p><p>≤0,5%</p></li><li><p>Pasmo przenoszenia</p><p>75 Hz ~ 18 KHz (przy +/-9 db)</p></li><li><p>Skuteczność wejścia PC</p><p>750 mV ± 50 mV</p></li><li><p>Skuteczność wejścia AUX</p><p>550 mV ± 50 mV</p></li><li><p>Typ wejścia</p><p>RCA-3,5 mm AUX, RCA</p></li><li><p>Regulacja</p><p>główna regulacja głośności<br/>pokrętła regulujące poziom tonów wysokich i niskich</p></li><li><p>Głośnik niskotonowy</p><p>4 cale (116 mm)<br/>ekranowany magnetycznie<br/>6 Ω<br/>port bass reflex</p></li><li><p>Głośnik wysokotonowy</p><p>Ø 13 mm<br/>jedwabna kopułka<br/>ekranowany magnetycznie<br/>4 Ω</p></li><li><p>Wymiary</p><p>146 × 234 × 196 mm (WxHxD)</p></li><li><p>Waga</p><p>Ok. 4,90 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosniki-edifier-r1100-2-0-cz_66821.webp",
-        "galerie/g/glosniki-edifier-r1100-2-0-cz_66822.webp",
-        "galerie/g/glosniki-edifier-r1100-2-0-cz_66823.webp",
-        "galerie/g/glosniki-edifier-r1100-2-0-cz_66821.webp",
-        "galerie/g/glosniki-edifier-r1100-2-0-cz_66822.webp",
-        "galerie/g/glosniki-edifier-r1100-2-0-cz_66823.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.0"
+  ],
+  "id": "18010",
+  "code": "R1100 black",
+  "name": "Głośniki Edifier R1100 2.0 Czarne",
+  "price": 299.0,
+  "description": "<h2>Nieskazitelny dźwięk Edifier R1100</h2><p>Postaw na idealnie czysty dźwięk, który docenisz już po pierwszym odsłuchu. Sześcienna, klasyczna konstrukcja, w czarnym kolorze zapewni stabilizację przy nawet największych basach i wpisze się doskonale w każde wnętrze. Bez problemu dopasujesz swoje preferencje i zapewnisz sobie niezapomniane, muzyczne wrażenia. Podwójne wejścia RCA umożliwiają podłączenie do więcej niż jednego urządzenia, co daje jeszcze większe możliwości.</p><h2>Aktywny system głośników</h2><p>Edifier R1100 to kompaktowy, aktywny system głośników o łącznej mocy wyjściowej 42W. Podwójne wejście RCA umożliwia podłączenie do wielu źródeł audio, port bass reflect odpowiada za dobrą jakość basów, a regulatory głośności i tonów wysokich oraz niskich umożliwiają dostosowywanie dźwięku do swoich preferencji. Obudowa wykonana z plyty MDF minimalizuje rezonans akustyczny i zapewnia naturalny dźwięk bez zniekształceń.</p><h2>Wyjątkowa obudowa</h2><p>Obudowa głośników Edifier R1000T4 wykonana jest w 100% z płyty pilśniowej średniej grubości (MDF) całkowicie sprawdzonej na rynku. Czarny kolor idealnie uzupełni każde pomieszczenie, bez względu czy jest to biuro czy mieszkanie. Dzięki wbudowanemu wzmacniaczowi nie musisz podłączać ich do żadnego dodatkowego urządzenia.</p><h2>Wyjątkowa jakość dźwięku z Edifier</h2><p>Głośniki Edifier R1100 to propozycja dla wszystkich fanów czystych dźwięków bardzo dobrej jakości. To odkrywanie na nowo bogactwa szczegółów ukrytych w ulubionych piosenkach, których wcześniej dotąd nie dostrzegałeś. Swoje preferencje ustawisz w bardzo prosty sposób, dzięki czemu możesz zyskać niezapomniane odczucia bez względu na ulubiony gatunek muzycznym.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc wyjściowa</p><p>RMS 21W x 2 (THD + N=10%)</p></li><li><p>Odległość poziomu szumów</p><p>≥85 dBA</p></li><li><p>THD (zniekształcenia harmoniczne)</p><p>≤0,5%</p></li><li><p>Pasmo przenoszenia</p><p>75 Hz ~ 18 KHz (przy +/-9 db)</p></li><li><p>Skuteczność wejścia PC</p><p>750 mV ± 50 mV</p></li><li><p>Skuteczność wejścia AUX</p><p>550 mV ± 50 mV</p></li><li><p>Typ wejścia</p><p>RCA-3,5 mm AUX, RCA</p></li><li><p>Regulacja</p><p>główna regulacja głośności<br/>pokrętła regulujące poziom tonów wysokich i niskich</p></li><li><p>Głośnik niskotonowy</p><p>4 cale (116 mm)<br/>ekranowany magnetycznie<br/>6 Ω<br/>port bass reflex</p></li><li><p>Głośnik wysokotonowy</p><p>Ø 13 mm<br/>jedwabna kopułka<br/>ekranowany magnetycznie<br/>4 Ω</p></li><li><p>Wymiary</p><p>146 × 234 × 196 mm (WxHxD)</p></li><li><p>Waga</p><p>Ok. 4,90 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosniki-edifier-r1100-2-0-cz_66821.webp",
+    "galerie/g/glosniki-edifier-r1100-2-0-cz_66822.webp",
+    "galerie/g/glosniki-edifier-r1100-2-0-cz_66823.webp",
+    "galerie/g/glosniki-edifier-r1100-2-0-cz_66821.webp",
+    "galerie/g/glosniki-edifier-r1100-2-0-cz_66822.webp",
+    "galerie/g/glosniki-edifier-r1100-2-0-cz_66823.webp"
+  ],
+  "manufacturer": "Edifier"
 }

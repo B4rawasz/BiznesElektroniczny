@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki nauszne/wokółuszne"
-    ],
-    "id": "8944",
-    "code": "MDH8500",
-    "name": "Słuchawki ISK MDH8500",
-    "price": 235.0,
-    "description": "<p><strong>Słuchawki ISK MDH8500</strong> zostały skonstruowane z myślą o realizacji dźwięku. Są precyzyjne i grają dość technicznie. Wbrew pozorom doskonale czują się nie tylko w silnych dźwiękach, ale również w bardziej zwiewnych gatunkach. Pasmo przenoszenia jest nieco rozszerzone w stosunku do standardowych konstrukcji a przy tym lekko podkreślone w górnych rejestrach. Dół jest również delikatnie dociążony, bas jednak nie przesłania średnicy. Tony średnie są dobrze teksturowane i ciekawe, mimo ogólnie dość zimnego brzmienia słuchawek. Dzięki szerokiemu pasmu przenoszenia, szczególnie w zakresie wysokich tonów słuchawki dobrze sprawdzą się również w grach FPS, pozwalając na precyzyjną lokalizację przeciwników.</p><h2><strong>ISK MDH8500 to znakomite słuchawki nauszne</strong></h2><p>Słuchawki są konstrukcją zamkniętą, dobrze izolują użytkownika od otoczenia. Od strony mechanicznej wykorzystano solidne materiały – stal manganową oraz aluminium, tak aby zapewnić słuchawkom wytrzymałość i bezawaryjność. Wygodę zapewniają miękkie nauszniki ze skóry ekologicznej oraz pałąk obszyty tym samym materiałem. <strong>ISK MDH8500</strong> posiadają odłączany kabel. W komplecie znajdują się dwa kable o różnej długości – krótki 1m zakończony wtykiem 3,5mm oraz długi 3m zakończony wtykiem konwertowalnym 3,5mm/6,3mm (przejściówka znajduje się w komplecie). Od strony wizualnej producent postawił na kolor brązowy połączony z czernią – słuchawki <strong>ISK MDH8500</strong> skierowane są do indywidualistów, ceniących sobie oryginalność. Dbałość o detale widoczna jest nie tylko w tym, że słuchawki utrzymane są w jednej tonacji, ale również w tym, że kabel umieszczony jest w otulinie dopasowanej kolorystycznie aby nie zakłócać ich wyglądu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Typ: zamknięte</li><li>Średnica przetwornika: 53mm</li><li>Impedancja: 60Ohm</li><li>Czułość: 93dB +/- 3dB</li><li>Zakres częstotliwości przenoszenia: 10Hz-30kHz</li><li>Moc maksymalna: 600mW</li><li>Moc znamionowa: 300mW</li><li>Długość kabla: Prosty 3m + 1m (w materiałowym oplocie)</li><li>Wtyk: konwertowalny 3,5/6,3mm</li><li>W zestawie: słuchawki, kabel prosty 3m, adapter 3,5-&gt;6,3mm</li><li>Waga: 346g (z 3m kablem prostym)</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ISK</p></li><li><p>Dane producenta</p><p>Ningbo Yinzhou Shengke Electronics Co., Ltd., No.111, Yunmo East Road, Yunlongtown, Yunzhou, Ningbo, China, info@shengke.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>TechBringer Piotr Gawrysiak | ul. Marcelińska 100/8 60-324 Poznań, Poland, biuro@techbringer.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/isk.jpg",
-    "images": [
-        "galerie/s/sluchawki-isk-mdh8500_25719.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25720.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25721.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25722.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25724.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25725.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25726.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25719.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25720.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25721.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25722.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25724.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25725.webp",
-        "galerie/s/sluchawki-isk-mdh8500_25726.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki nauszne/wokółuszne"
+  ],
+  "id": "8944",
+  "code": "MDH8500",
+  "name": "Słuchawki ISK MDH8500",
+  "price": 235.0,
+  "description": "<p><strong>Słuchawki ISK MDH8500</strong> zostały skonstruowane z myślą o realizacji dźwięku. Są precyzyjne i grają dość technicznie. Wbrew pozorom doskonale czują się nie tylko w silnych dźwiękach, ale również w bardziej zwiewnych gatunkach. Pasmo przenoszenia jest nieco rozszerzone w stosunku do standardowych konstrukcji a przy tym lekko podkreślone w górnych rejestrach. Dół jest również delikatnie dociążony, bas jednak nie przesłania średnicy. Tony średnie są dobrze teksturowane i ciekawe, mimo ogólnie dość zimnego brzmienia słuchawek. Dzięki szerokiemu pasmu przenoszenia, szczególnie w zakresie wysokich tonów słuchawki dobrze sprawdzą się również w grach FPS, pozwalając na precyzyjną lokalizację przeciwników.</p><h2><strong>ISK MDH8500 to znakomite słuchawki nauszne</strong></h2><p>Słuchawki są konstrukcją zamkniętą, dobrze izolują użytkownika od otoczenia. Od strony mechanicznej wykorzystano solidne materiały – stal manganową oraz aluminium, tak aby zapewnić słuchawkom wytrzymałość i bezawaryjność. Wygodę zapewniają miękkie nauszniki ze skóry ekologicznej oraz pałąk obszyty tym samym materiałem. <strong>ISK MDH8500</strong> posiadają odłączany kabel. W komplecie znajdują się dwa kable o różnej długości – krótki 1m zakończony wtykiem 3,5mm oraz długi 3m zakończony wtykiem konwertowalnym 3,5mm/6,3mm (przejściówka znajduje się w komplecie). Od strony wizualnej producent postawił na kolor brązowy połączony z czernią – słuchawki <strong>ISK MDH8500</strong> skierowane są do indywidualistów, ceniących sobie oryginalność. Dbałość o detale widoczna jest nie tylko w tym, że słuchawki utrzymane są w jednej tonacji, ale również w tym, że kabel umieszczony jest w otulinie dopasowanej kolorystycznie aby nie zakłócać ich wyglądu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Typ: zamknięte</li><li>Średnica przetwornika: 53mm</li><li>Impedancja: 60Ohm</li><li>Czułość: 93dB +/- 3dB</li><li>Zakres częstotliwości przenoszenia: 10Hz-30kHz</li><li>Moc maksymalna: 600mW</li><li>Moc znamionowa: 300mW</li><li>Długość kabla: Prosty 3m + 1m (w materiałowym oplocie)</li><li>Wtyk: konwertowalny 3,5/6,3mm</li><li>W zestawie: słuchawki, kabel prosty 3m, adapter 3,5-&gt;6,3mm</li><li>Waga: 346g (z 3m kablem prostym)</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ISK</p></li><li><p>Dane producenta</p><p>Ningbo Yinzhou Shengke Electronics Co., Ltd., No.111, Yunmo East Road, Yunlongtown, Yunzhou, Ningbo, China, info@shengke.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>TechBringer Piotr Gawrysiak | ul. Marcelińska 100/8 60-324 Poznań, Poland, biuro@techbringer.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/isk.jpg",
+  "images": [
+    "galerie/s/sluchawki-isk-mdh8500_25719.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25720.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25721.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25722.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25724.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25725.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25726.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25719.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25720.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25721.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25722.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25724.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25725.webp",
+    "galerie/s/sluchawki-isk-mdh8500_25726.webp"
+  ],
+  "manufacturer": "ISK"
 }

@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Akcesoria"
-    ],
-    "id": "7977",
-    "code": "MOLS-103",
-    "name": "Taśma LED Bitfenix Alchemy 2.0 Magnetic Green - 500mm",
-    "price": 49.9,
-    "description": "OPIS <p>BitFenix Alchemy 2.0 Magnetic LED Strips to część produktów linii Alchemy, w skład której wchodzą akcesoria do moddingu. Jak sama nazwa wskazuje mamy w tym przypadku do czynienia z magnetycznymi taśmami LED dostępnymi w różnych długościach i kolorach - wszystko po to, abyś mógł wyrazić siebie.</p><p>Małe, ale potężne magnesy wbudowane w elastyczną przezroczystą taśmę LED sprawiają, że możesz je przyczepić do każdej powierzchni stalowej. Dzięki zastosowaniu technologii TriBright taśmy z serii Alchemy 2.0 oferują lepsze odwzorowanie kolorów, świecą jaśniej, dłużej i zdecydowanie bardziej równomiernie niż konwencjonalne diody LED.</p><h2>Dane techniczne</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Materiał: Miedź, Poliuteran, PVC</li><li>Led Chip: 5050 SMD Tri-Led</li><li>Jasnosć: 60 lumenów</li><li>Długość kabla zasilania: 50cm</li><li>Szerokość: 10mm</li><li>Grubość: 2mm</li><li>Ilość diód: 30</li><li>Ilość magnesów: 12</li><li>Długość taśmy: 500mm</li></ul>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>BitFenix Co. Ltd. www.bitfenix.com 3F.-10, No. 79, Sec. 1, Xintai 5th Rd., Xizhi Dist., New Taipei City 221, Taiwan (R.O.C.), service@bitfenix.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/bitfenix.jpg",
-    "images": [
-        "galerie/t/tasma-led-bitfenix-alche_20789.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20790.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20791.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20792.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20793.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20789.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20790.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20791.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20792.webp",
-        "galerie/t/tasma-led-bitfenix-alche_20793.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Akcesoria"
+  ],
+  "id": "7977",
+  "code": "MOLS-103",
+  "name": "Taśma LED Bitfenix Alchemy 2.0 Magnetic Green - 500mm",
+  "price": 49.9,
+  "description": "OPIS <p>BitFenix Alchemy 2.0 Magnetic LED Strips to część produktów linii Alchemy, w skład której wchodzą akcesoria do moddingu. Jak sama nazwa wskazuje mamy w tym przypadku do czynienia z magnetycznymi taśmami LED dostępnymi w różnych długościach i kolorach - wszystko po to, abyś mógł wyrazić siebie.</p><p>Małe, ale potężne magnesy wbudowane w elastyczną przezroczystą taśmę LED sprawiają, że możesz je przyczepić do każdej powierzchni stalowej. Dzięki zastosowaniu technologii TriBright taśmy z serii Alchemy 2.0 oferują lepsze odwzorowanie kolorów, świecą jaśniej, dłużej i zdecydowanie bardziej równomiernie niż konwencjonalne diody LED.</p><h2>Dane techniczne</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Materiał: Miedź, Poliuteran, PVC</li><li>Led Chip: 5050 SMD Tri-Led</li><li>Jasnosć: 60 lumenów</li><li>Długość kabla zasilania: 50cm</li><li>Szerokość: 10mm</li><li>Grubość: 2mm</li><li>Ilość diód: 30</li><li>Ilość magnesów: 12</li><li>Długość taśmy: 500mm</li></ul>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>BitFenix Co. Ltd. www.bitfenix.com 3F.-10, No. 79, Sec. 1, Xintai 5th Rd., Xizhi Dist., New Taipei City 221, Taiwan (R.O.C.), service@bitfenix.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/bitfenix.jpg",
+  "images": [
+    "galerie/t/tasma-led-bitfenix-alche_20789.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20790.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20791.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20792.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20793.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20789.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20790.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20791.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20792.webp",
+    "galerie/t/tasma-led-bitfenix-alche_20793.webp"
+  ],
+  "manufacturer": "Lamzu"
 }

@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki nauszne/wokółuszne"
-    ],
-    "id": "12910",
-    "code": "HD2000",
-    "name": "Słuchawki Takstar HD2000 Black",
-    "price": 99.0,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Dynamiczne słuchawki monitorowe z wykończeniem Noble UV. Wysoka jakość materiałów gwarantuje wygodne noszenie. Obrotowa konstrukcja słuchawek zapewnia dopasowanie do różnego rodzaju kształtów twarzy. Regulowany pałąk pozwala przedłużyć lub skrócić wielkość słuchawek.</p><p>Takstar HD2000 grają dynamicznym bassem eksponując dobrze zbalansowaną średnicę i czytelną górę. Dźwięk jest naturalny, przestrzenny i odpowiednio rozłożony. To znakomite słuchawki w niewielkiej cenie oferujące również dobrą izolację. Sprawdzą się równie dobrze przy podłączeniu do sprzętu pro jak i przenośnego audio.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wykończenie malowane Noble UV</li><li>Miękkie, skórzane nauszniki wysokiej jakości dla wygodnego noszenia</li><li>Ruchoma konstrukcja nauszników pozwala łatwo dopasować się do różnych kształtów twarzy</li><li>180 stopni obrotowe muszle do monitorowania jedną ręką</li><li>Regulowany pałąk pozwala przedłużyć lub skrócić długość o 35 mm</li><li>Kable 2,2m typu Y zapewniający szeroki zakres zastosowani</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>przewodowe, zamknięte</p></li><li><p>Rodzaj przetwornika</p><p>Dynamiczny</p></li><li><p>Pasmo przenoszenia</p><p>10Hz-25kHz</p></li><li><p>Czułość</p><p>101dB ± 3dB przy 1kHz</p></li><li><p>Średnica drivera</p><p>Ø50mm</p></li><li><p>Max. Moc Wejsściowa</p><p>100mW</p></li><li><p>Moc znamionowa</p><p>30mW</p></li><li><p>Impedancja</p><p>32Ω</p></li><li><p>Złącze</p><p>stereo Ø3.5mm + Ø6.3 pozłacane</p></li><li><p>Kabel</p><p>Ø2.2mm x 2m, typ Y</p></li><li><p>Waga</p><p>200g</p></li><li></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Takstar</p></li><li><p>Dane producenta</p><p>Takstar Innovation Park, Xiagang Road, Longxi Street, Boluo County, Huizhou, Guangdong, sales @ takstar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/takstar.jpg",
-    "images": [
-        "galerie/s/sluchawki-takstar-hd2000-blac_46682.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46683.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46684.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46685.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46686.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46687.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46688.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46689.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46682.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46683.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46684.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46685.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46686.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46687.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46688.webp",
-        "galerie/s/sluchawki-takstar-hd2000-blac_46689.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki nauszne/wokółuszne"
+  ],
+  "id": "12910",
+  "code": "HD2000",
+  "name": "Słuchawki Takstar HD2000 Black",
+  "price": 99.0,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Dynamiczne słuchawki monitorowe z wykończeniem Noble UV. Wysoka jakość materiałów gwarantuje wygodne noszenie. Obrotowa konstrukcja słuchawek zapewnia dopasowanie do różnego rodzaju kształtów twarzy. Regulowany pałąk pozwala przedłużyć lub skrócić wielkość słuchawek.</p><p>Takstar HD2000 grają dynamicznym bassem eksponując dobrze zbalansowaną średnicę i czytelną górę. Dźwięk jest naturalny, przestrzenny i odpowiednio rozłożony. To znakomite słuchawki w niewielkiej cenie oferujące również dobrą izolację. Sprawdzą się równie dobrze przy podłączeniu do sprzętu pro jak i przenośnego audio.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wykończenie malowane Noble UV</li><li>Miękkie, skórzane nauszniki wysokiej jakości dla wygodnego noszenia</li><li>Ruchoma konstrukcja nauszników pozwala łatwo dopasować się do różnych kształtów twarzy</li><li>180 stopni obrotowe muszle do monitorowania jedną ręką</li><li>Regulowany pałąk pozwala przedłużyć lub skrócić długość o 35 mm</li><li>Kable 2,2m typu Y zapewniający szeroki zakres zastosowani</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>przewodowe, zamknięte</p></li><li><p>Rodzaj przetwornika</p><p>Dynamiczny</p></li><li><p>Pasmo przenoszenia</p><p>10Hz-25kHz</p></li><li><p>Czułość</p><p>101dB ± 3dB przy 1kHz</p></li><li><p>Średnica drivera</p><p>Ø50mm</p></li><li><p>Max. Moc Wejsściowa</p><p>100mW</p></li><li><p>Moc znamionowa</p><p>30mW</p></li><li><p>Impedancja</p><p>32Ω</p></li><li><p>Złącze</p><p>stereo Ø3.5mm + Ø6.3 pozłacane</p></li><li><p>Kabel</p><p>Ø2.2mm x 2m, typ Y</p></li><li><p>Waga</p><p>200g</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Takstar</p></li><li><p>Dane producenta</p><p>Takstar Innovation Park, Xiagang Road, Longxi Street, Boluo County, Huizhou, Guangdong, sales @ takstar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/takstar.jpg",
+  "images": [
+    "galerie/s/sluchawki-takstar-hd2000-blac_46682.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46683.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46684.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46685.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46686.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46687.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46688.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46689.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46682.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46683.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46684.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46685.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46686.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46687.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46688.webp",
+    "galerie/s/sluchawki-takstar-hd2000-blac_46689.webp"
+  ],
+  "manufacturer": "Takstar"
 }

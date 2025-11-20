@@ -1,28 +1,29 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.0"
-    ],
-    "id": "15863",
-    "code": "R2750DB black",
-    "name": "Głośniki Edifier R2750DB 2.0 Czarne",
-    "price": 849.0,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Muzyka czy filmy zdecydowanie lepiej brzmią na wysokiej jakości głośnikach, które zapewniają jak najlepsze odwzorowanie tego co próbował przekazać artysta czy kompozytor. Głośniki Edifier Studio R2750DB to zestaw z najwyższej półki, który sprawdzi się w każdej sytuacji.</p><h2>Świetne wykonanie</h2><p>Edifier Studio R2750DB to zestaw głośników 2.0 z najwyższej półki oferujący nie tylko niesamowitą jakość dźwięku, ale także nienaganną stylistykę. Obudowa model u R2750DB została wykonana z MDFu, który nie tylko jest wytrzymały ale minimalizuje również występowanie zjawisku rezonansu akustycznego, przez co głośniki brzmią zdecydowanie lepiej.</p><h2>Wysoka jakość dźwięku</h2><p>W modelu Edifier Studio R2750DB producent wykorzystał głośniki o mocy 136W, które świetnie sprawdzą się w dużych pomieszczeniach. Z racji na zbalansowaną charakterystykę dźwięku czy krystaliczną jakość głośniki Edifier Studio R2750DB sprawdzą się nie tylko podczas słuchania muzyki, ale również jako zestaw kina domowego. Na froncie głośników umieszczono port bass reflex</p><h2>Bezprzewodowa technologia i łatwość obsługi</h2><p>Głośniki Edifier Studio R2750DB to zestaw bezprzewodowy korzystający z technologii Bluetooth 4.1. Technologia ta zapewnia stabilny sygnał i bezstratny przesył dźwięku, dzięki czemu utwory puszczane z smartfonu, tabletu czy laptopa mają wysoką jakość. W zestawie znajdziemy profesjonalny kabel łączący głośniki 5-pin XLR.</p><p>Przyciski do sterowania zestawem znajdują się na kolumnie aktywnej. Wszystkimi czynnościami możemy również sterować za pomocą pilota dołączonego do zestawu.</p><p> </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:<!-- ATRYBUTY --></h2><ul class=\"list-specification\"><li><p>Moc całkowita</p><p>136 Watt</p></li><li><p>Moc wyjściowa</p><p>RMS 14W x2 (głośniki wysokotonowe) + 14W x2 (głośniki tonów średnich) + 40W x 2 (głośniki niskotonowe) [DRC ON]</p></li><li><p>Stosunek sygnału do szumu (SNR)</p><p>≥85 dBA</p></li><li><p>Pasmo przenoszenia częstotliwości</p><p>45Hz-20KHz</p></li><li><p>Wejście audio</p><p>AUX, Bluetooth, Optyczne, Koaksjalne</p></li><li><p>Sterowanie</p><p>Pilot zdalnego sterowania oraz poręczne pokrętła na panelu bocznym pozwalają na pełną regulację parametrów</p></li><li><p>Głośnik tonów niskich</p><p>6,5 cala (178 mm)</p></li><li><p>Głośnik tonów średnich</p><p>4 cale (116 mm)</p></li><li><p>Głośnik tonów wysokich</p><p>3/4 cala NDFeB</p></li><li><p>Waga</p><p>ok. 20 kg</p></li><li><p>Wymiary</p><p>218mm x 393mm x298mm (WxHxD)</p></li><li><p>Oporność</p><p>Głośnik wysokotonowy 4Ω；<br/>Głośnik niskotonowy 4Ω</p></li><li><p>W zestawie</p><p>Pilot zdalnego sterowania<br/>Pasywny głośnik<br/>Aktywny głośnik<br/>Przewód audio RCA 3.5 mm<br/>Przewód audio RCA do RCA<br/>Wejściowy przewód światłowodowy<br/>Przewód zasilający<br/>Instrukcja obsługi</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosniki-edifier-r2750db-2-0_56493.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56494.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56495.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56496.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56497.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56498.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56493.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56494.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56495.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56496.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56497.webp",
-        "galerie/g/glosniki-edifier-r2750db-2-0_56498.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.0"
+  ],
+  "id": "15863",
+  "code": "R2750DB black",
+  "name": "Głośniki Edifier R2750DB 2.0 Czarne",
+  "price": 849.0,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Muzyka czy filmy zdecydowanie lepiej brzmią na wysokiej jakości głośnikach, które zapewniają jak najlepsze odwzorowanie tego co próbował przekazać artysta czy kompozytor. Głośniki Edifier Studio R2750DB to zestaw z najwyższej półki, który sprawdzi się w każdej sytuacji.</p><h2>Świetne wykonanie</h2><p>Edifier Studio R2750DB to zestaw głośników 2.0 z najwyższej półki oferujący nie tylko niesamowitą jakość dźwięku, ale także nienaganną stylistykę. Obudowa model u R2750DB została wykonana z MDFu, który nie tylko jest wytrzymały ale minimalizuje również występowanie zjawisku rezonansu akustycznego, przez co głośniki brzmią zdecydowanie lepiej.</p><h2>Wysoka jakość dźwięku</h2><p>W modelu Edifier Studio R2750DB producent wykorzystał głośniki o mocy 136W, które świetnie sprawdzą się w dużych pomieszczeniach. Z racji na zbalansowaną charakterystykę dźwięku czy krystaliczną jakość głośniki Edifier Studio R2750DB sprawdzą się nie tylko podczas słuchania muzyki, ale również jako zestaw kina domowego. Na froncie głośników umieszczono port bass reflex</p><h2>Bezprzewodowa technologia i łatwość obsługi</h2><p>Głośniki Edifier Studio R2750DB to zestaw bezprzewodowy korzystający z technologii Bluetooth 4.1. Technologia ta zapewnia stabilny sygnał i bezstratny przesył dźwięku, dzięki czemu utwory puszczane z smartfonu, tabletu czy laptopa mają wysoką jakość. W zestawie znajdziemy profesjonalny kabel łączący głośniki 5-pin XLR.</p><p>Przyciski do sterowania zestawem znajdują się na kolumnie aktywnej. Wszystkimi czynnościami możemy również sterować za pomocą pilota dołączonego do zestawu.</p><p> </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:<!-- ATRYBUTY --></h2><ul class=\"list-specification\"><li><p>Moc całkowita</p><p>136 Watt</p></li><li><p>Moc wyjściowa</p><p>RMS 14W x2 (głośniki wysokotonowe) + 14W x2 (głośniki tonów średnich) + 40W x 2 (głośniki niskotonowe) [DRC ON]</p></li><li><p>Stosunek sygnału do szumu (SNR)</p><p>≥85 dBA</p></li><li><p>Pasmo przenoszenia częstotliwości</p><p>45Hz-20KHz</p></li><li><p>Wejście audio</p><p>AUX, Bluetooth, Optyczne, Koaksjalne</p></li><li><p>Sterowanie</p><p>Pilot zdalnego sterowania oraz poręczne pokrętła na panelu bocznym pozwalają na pełną regulację parametrów</p></li><li><p>Głośnik tonów niskich</p><p>6,5 cala (178 mm)</p></li><li><p>Głośnik tonów średnich</p><p>4 cale (116 mm)</p></li><li><p>Głośnik tonów wysokich</p><p>3/4 cala NDFeB</p></li><li><p>Waga</p><p>ok. 20 kg</p></li><li><p>Wymiary</p><p>218mm x 393mm x298mm (WxHxD)</p></li><li><p>Oporność</p><p>Głośnik wysokotonowy 4Ω；<br/>Głośnik niskotonowy 4Ω</p></li><li><p>W zestawie</p><p>Pilot zdalnego sterowania<br/>Pasywny głośnik<br/>Aktywny głośnik<br/>Przewód audio RCA 3.5 mm<br/>Przewód audio RCA do RCA<br/>Wejściowy przewód światłowodowy<br/>Przewód zasilający<br/>Instrukcja obsługi</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosniki-edifier-r2750db-2-0_56493.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56494.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56495.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56496.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56497.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56498.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56493.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56494.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56495.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56496.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56497.webp",
+    "galerie/g/glosniki-edifier-r2750db-2-0_56498.webp"
+  ],
+  "manufacturer": "Edifier"
 }

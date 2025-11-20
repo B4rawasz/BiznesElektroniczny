@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Dyski",
-        "Akcesoria"
-    ],
-    "id": "19912",
-    "code": "WM2-G2-BK-EP",
-    "name": "Obudowa na dysk Orico M.2 NVMe USB-C 10Gbps",
-    "price": 49.99,
-    "description": "<h2>Obudowa dysku SSD M.2 NVMe 10 Gbps</h2><p>Obudowa M.2 Orico PWDM2-G2 jest świetnym sposobem na wykorzystanie dysku M.2 ze starego laptopa, lub dodatkową przestrzeń roboczą. Mostek M.2 jest kompatybilny z dyskami SSD M.2 NVMe (PCIe). Maksymalna pojemność wspieranych dysków M.2 to 4 TB — wystarczająco, by mieć przy sobie np. w kieszeni, nawet kilkadziesiąt filmów w jakości Blu-ray.</p><h2>Rozmiar nie ma znaczenia</h2><p>Dyski M.2 są o wiele mniejsze od swoich 2,5-calowych odpowiedników – mają szerokość 22 mm i różne długości: od 30 do 80 mm. W obudowie zmieścisz dysk dowolnej długości dzięki umieszczonym na płytce otworom do zamontowania gumowego stabilizatora.</p><h2>Dyski NVMe</h2><p>Nowsze dyski oparte na protokole NVMe (magistrala PCIe) są znacznie szybsze — zależnie od wersji PCIe. Maksymalna szybkość przesyłania danych między komputerem a takim dyskiem zamontowanym w mostku Orico będzie wynosić 10 Gbps. Interfejs obudowy jest kompatybilny z dyskami NVMe z kluczem M oraz B+M.</p><h2>Szybkie USB-C</h2><p>Obudowa M.2 ma szybki port USB-C 10 Gbps i odpowiedni kabel o długości 30 cm w zestawie. Za pomocą tego przewodu podłączysz ją do laptopa czy komputera z portem USB-C, a także tabletu czy smarthpone'a. Jeśli chcesz podłączyć do komputera ze starszym portem USB-A, wystarczy skorzystać z odpowiedniej przejściówki.</p><h2>Ekspresowy montaż</h2><p>Dysk M.2 montuje się bez używania dodatkowych narzędzi — wystarczy, że odblokujesz zaślepkę u dołu obudowy, wysuniesz szufladkę i umieścisz dysk w porcie. Gumowe kołeczki, które są w zestawie, służą do ustabilizowania dysku wewnątrz obudowy. Na dysk nakłada się silikonowy termopad i metalowy radiator, które wspomagają odprowadzanie ciepła z mocno nagrzewających się dysków NVMe.</p><h2>Materiały</h2><p>Większość kieszeni na dysk jest wykonana z klasycznego aluminium. Część, która kryje płytkę PCB i chipset zrobiono z solidnego, odpornego na zarysowania PVC. Wymiary obudowy to tylko 3,5 na 12,5 cm, więc zmieścisz ja w kieszeni czy plecaku na laptopa.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>Złącza wewnętrzne</p><p>PCI-E</p></li><li><p>Złącza zewnętrzne</p><p>Port USB-C</p></li><li><p>Obsługiwane technologie</p><p>Plug &amp; Play<br/>TRIM<br/>UASP</p></li><li><p>Interfejs dysku</p><p>NVMe<br/>PCI-E</p></li><li><p>Format dysku</p><p>M.2</p></li><li><p>Materiał zewnętrzny</p><p>ABS<br/>Aluminium</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Orico</p></li><li><p>Dane producenta</p><p>Shenzhen ORICO Import &amp; Export Trading Co., Ltd., Jihua Street F19, 14A, Shenzhen, 518112, Chiny, supports@orico.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, orico@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/orico.jpg",
-    "images": [
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74548.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74549.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74550.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74551.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74552.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74553.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74554.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74548.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74549.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74550.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74551.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74552.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74553.webp",
-        "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74554.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Akcesoria"
+  ],
+  "id": "19912",
+  "code": "WM2-G2-BK-EP",
+  "name": "Obudowa na dysk Orico M.2 NVMe USB-C 10Gbps",
+  "price": 49.99,
+  "description": "<h2>Obudowa dysku SSD M.2 NVMe 10 Gbps</h2><p>Obudowa M.2 Orico PWDM2-G2 jest świetnym sposobem na wykorzystanie dysku M.2 ze starego laptopa, lub dodatkową przestrzeń roboczą. Mostek M.2 jest kompatybilny z dyskami SSD M.2 NVMe (PCIe). Maksymalna pojemność wspieranych dysków M.2 to 4 TB — wystarczająco, by mieć przy sobie np. w kieszeni, nawet kilkadziesiąt filmów w jakości Blu-ray.</p><h2>Rozmiar nie ma znaczenia</h2><p>Dyski M.2 są o wiele mniejsze od swoich 2,5-calowych odpowiedników – mają szerokość 22 mm i różne długości: od 30 do 80 mm. W obudowie zmieścisz dysk dowolnej długości dzięki umieszczonym na płytce otworom do zamontowania gumowego stabilizatora.</p><h2>Dyski NVMe</h2><p>Nowsze dyski oparte na protokole NVMe (magistrala PCIe) są znacznie szybsze — zależnie od wersji PCIe. Maksymalna szybkość przesyłania danych między komputerem a takim dyskiem zamontowanym w mostku Orico będzie wynosić 10 Gbps. Interfejs obudowy jest kompatybilny z dyskami NVMe z kluczem M oraz B+M.</p><h2>Szybkie USB-C</h2><p>Obudowa M.2 ma szybki port USB-C 10 Gbps i odpowiedni kabel o długości 30 cm w zestawie. Za pomocą tego przewodu podłączysz ją do laptopa czy komputera z portem USB-C, a także tabletu czy smarthpone'a. Jeśli chcesz podłączyć do komputera ze starszym portem USB-A, wystarczy skorzystać z odpowiedniej przejściówki.</p><h2>Ekspresowy montaż</h2><p>Dysk M.2 montuje się bez używania dodatkowych narzędzi — wystarczy, że odblokujesz zaślepkę u dołu obudowy, wysuniesz szufladkę i umieścisz dysk w porcie. Gumowe kołeczki, które są w zestawie, służą do ustabilizowania dysku wewnątrz obudowy. Na dysk nakłada się silikonowy termopad i metalowy radiator, które wspomagają odprowadzanie ciepła z mocno nagrzewających się dysków NVMe.</p><h2>Materiały</h2><p>Większość kieszeni na dysk jest wykonana z klasycznego aluminium. Część, która kryje płytkę PCB i chipset zrobiono z solidnego, odpornego na zarysowania PVC. Wymiary obudowy to tylko 3,5 na 12,5 cm, więc zmieścisz ja w kieszeni czy plecaku na laptopa.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>Złącza wewnętrzne</p><p>PCI-E</p></li><li><p>Złącza zewnętrzne</p><p>Port USB-C</p></li><li><p>Obsługiwane technologie</p><p>Plug &amp; Play<br/>TRIM<br/>UASP</p></li><li><p>Interfejs dysku</p><p>NVMe<br/>PCI-E</p></li><li><p>Format dysku</p><p>M.2</p></li><li><p>Materiał zewnętrzny</p><p>ABS<br/>Aluminium</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Orico</p></li><li><p>Dane producenta</p><p>Shenzhen ORICO Import &amp; Export Trading Co., Ltd., Jihua Street F19, 14A, Shenzhen, 518112, Chiny, supports@orico.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, orico@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/orico.jpg",
+  "images": [
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74548.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74549.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74550.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74551.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74552.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74553.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74554.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74548.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74549.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74550.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74551.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74552.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74553.webp",
+    "galerie/o/obudowa-na-dysk-orico-m-2-nvm_74554.webp"
+  ],
+  "manufacturer": "Orico"
 }

@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Myszki bezprzewodowe"
-    ],
-    "id": "20527",
-    "code": "M7-A23",
-    "name": "Mysz Keychron M7 8K Wireless Mouse – Black",
-    "price": 319.0,
-    "description": "",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Keychron</p></li><li><p>Dane producenta</p><p>Keychron Technology, Inc., Middletown, New Castle, Delaware, 19709 Middletown, USA, support@keychron.com</p></li><li><p>Podmiot odpowiedzialny</p><p>APEX CE SPECIALISTS LIMITED, UNIT 3D NORTH POINT HOUSE, NORTH POINT BUSINESS PARK, NEW MALLOW ROALD, Cork, IE, T23AT2P, support@keychron.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/keychron.jpg",
-    "images": [
-        "galerie/m/mysz-keychron-m7-8k-wireless_77645.webp",
-        "galerie/m/mysz-keychron-m7-8k-wireless_77645.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "20527",
+  "code": "M7-A23",
+  "name": "Mysz Keychron M7 8K Wireless Mouse – Black",
+  "price": 319.0,
+  "description": "",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Keychron</p></li><li><p>Dane producenta</p><p>Keychron Technology, Inc., Middletown, New Castle, Delaware, 19709 Middletown, USA, support@keychron.com</p></li><li><p>Podmiot odpowiedzialny</p><p>APEX CE SPECIALISTS LIMITED, UNIT 3D NORTH POINT HOUSE, NORTH POINT BUSINESS PARK, NEW MALLOW ROALD, Cork, IE, T23AT2P, support@keychron.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/keychron.jpg",
+  "images": [
+    "galerie/m/mysz-keychron-m7-8k-wireless_77645.webp",
+    "galerie/m/mysz-keychron-m7-8k-wireless_77645.webp"
+  ],
+  "manufacturer": "Keychron"
 }

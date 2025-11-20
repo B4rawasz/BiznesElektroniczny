@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia notebooków"
-    ],
-    "id": "13080",
-    "code": "LS1-ALU",
-    "name": "Aluminiowa podstawka pod laptopa MOZOS LS-1 Black",
-    "price": 117.9,
-    "description": "OPIS <h2>Mozos LS1 zadba o twój kręgosłup i odcinek szyjny podczas pracy biurowej.</h2><p>Czy tego chcemy czy nie komputery stały się częścią naszego codziennego życia. Praca na laptopie w złej pozycji niesie za sobą jednak pewne potencjalne dolegliwości. W przypadku systematycznego lekceważenia podstaw ergonomii, nasz odcinek szyjny da o sobie z pewnością szybko znać. Mozos LS1 w łatwy i szybki sposób poprawi komfort twojej pracy lub zabawy przy komputerze. Zmiana kąta pochylenia i wysokości matrycy to dwie podstawowe cechy które są bardzo istotne z punktu widzenia ergonomii. Zgodnie z zasadami monitor powinien być ustawiony na wprost użytkownika a jego górna krawędź powinna być nieco poniżej linii wzroku. Środek monitora dzięki LS1 ustawimy na linii swobodnego patrzenia, czyli w praktyce pod kątem 15° – 20° poniżej płaszczyzny oczu. Ten model podstawki to najwyższa półka jakościowa w pełni wykonana ze stopu aluminium.</p><figure><img alt=\"\" height=\"947\" src=\"galerie/a/aluminiowa-podstawka-pod-lapt_47615.webp\" width=\"1100\"/></figure><h2>Solidny i praktyczny.</h2><p>Podkładka ergonomiczna Mozos troszczy się nie tylko o twoje zdrowie. LS1 zadba również o twój laptop dzięki przestrzeni którą podstawka tworzy pod urządzeniem. Wymiana powietrza to podstawowa rzecz którą powinniśmy zapewnić komputerowi aby pracował długo i bezawaryjnie. Podpórka umożliwia dostosowanie wysokości aż do 27 cm. Jego składana, solidna, aluminiowa konstrukcja z pewnością przypadnie do gustu wszystkim szukających rozwiązania na lata. Proces składania i rozkładania zajmuje dosłownie moment! O stabilność rozwiązania dbają również podkładki EVA które utrudniają przesuwanie się urządzenia w czasie użytkowania. Nie musisz się martwić o kompatybilność dzięki dużemu statycznemu udźwigowi i optymalnym wymiarom nawet dla 17″ laptopów. W zestawie znajduje się podkładka pod laptopy Mozos LS1. Pozostałe elementy mają jedynie ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Duża regulacja wysokości aż do 26.7 cm.</li><li>Wysokiej jakości aluminiowa konstrukcja.</li><li>Idealny dla laptopów aż do 17″.</li><li>Antypoślizgowa podstawa zapewniająca stabilność.</li><li>Regulacja kąta nachylenia.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>stop aluminium i silikonowe pady antypoślizgowe.</p></li><li><p>Kolor</p><p>czarny.</p></li><li><p>Nośność</p><p>do 3 kg.</p></li><li><p>Waga</p><p>około 1 kg</p></li><li><p>Kompatybilny z laptopami</p><p>11-17″.</p></li><li><p>Rozmiar</p><p>27*21 cm.</p></li><li><p>Wysokość</p><p>od 3,2 do 26,7 cm.</p></li><li> </li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47612.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47613.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47614.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47615.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47616.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47617.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47612.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47613.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47614.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47615.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47616.webp",
-        "galerie/a/aluminiowa-podstawka-pod-lapt_47617.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia notebooków"
+  ],
+  "id": "13080",
+  "code": "LS1-ALU",
+  "name": "Aluminiowa podstawka pod laptopa MOZOS LS-1 Black",
+  "price": 117.9,
+  "description": "OPIS <h2>Mozos LS1 zadba o twój kręgosłup i odcinek szyjny podczas pracy biurowej.</h2><p>Czy tego chcemy czy nie komputery stały się częścią naszego codziennego życia. Praca na laptopie w złej pozycji niesie za sobą jednak pewne potencjalne dolegliwości. W przypadku systematycznego lekceważenia podstaw ergonomii, nasz odcinek szyjny da o sobie z pewnością szybko znać. Mozos LS1 w łatwy i szybki sposób poprawi komfort twojej pracy lub zabawy przy komputerze. Zmiana kąta pochylenia i wysokości matrycy to dwie podstawowe cechy które są bardzo istotne z punktu widzenia ergonomii. Zgodnie z zasadami monitor powinien być ustawiony na wprost użytkownika a jego górna krawędź powinna być nieco poniżej linii wzroku. Środek monitora dzięki LS1 ustawimy na linii swobodnego patrzenia, czyli w praktyce pod kątem 15° – 20° poniżej płaszczyzny oczu. Ten model podstawki to najwyższa półka jakościowa w pełni wykonana ze stopu aluminium.</p><figure><img alt=\"\" height=\"947\" src=\"galerie/a/aluminiowa-podstawka-pod-lapt_47615.webp\" width=\"1100\"/></figure><h2>Solidny i praktyczny.</h2><p>Podkładka ergonomiczna Mozos troszczy się nie tylko o twoje zdrowie. LS1 zadba również o twój laptop dzięki przestrzeni którą podstawka tworzy pod urządzeniem. Wymiana powietrza to podstawowa rzecz którą powinniśmy zapewnić komputerowi aby pracował długo i bezawaryjnie. Podpórka umożliwia dostosowanie wysokości aż do 27 cm. Jego składana, solidna, aluminiowa konstrukcja z pewnością przypadnie do gustu wszystkim szukających rozwiązania na lata. Proces składania i rozkładania zajmuje dosłownie moment! O stabilność rozwiązania dbają również podkładki EVA które utrudniają przesuwanie się urządzenia w czasie użytkowania. Nie musisz się martwić o kompatybilność dzięki dużemu statycznemu udźwigowi i optymalnym wymiarom nawet dla 17″ laptopów. W zestawie znajduje się podkładka pod laptopy Mozos LS1. Pozostałe elementy mają jedynie ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Duża regulacja wysokości aż do 26.7 cm.</li><li>Wysokiej jakości aluminiowa konstrukcja.</li><li>Idealny dla laptopów aż do 17″.</li><li>Antypoślizgowa podstawa zapewniająca stabilność.</li><li>Regulacja kąta nachylenia.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>stop aluminium i silikonowe pady antypoślizgowe.</p></li><li><p>Kolor</p><p>czarny.</p></li><li><p>Nośność</p><p>do 3 kg.</p></li><li><p>Waga</p><p>około 1 kg</p></li><li><p>Kompatybilny z laptopami</p><p>11-17″.</p></li><li><p>Rozmiar</p><p>27*21 cm.</p></li><li><p>Wysokość</p><p>od 3,2 do 26,7 cm.</p></li><li> </li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47612.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47613.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47614.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47615.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47616.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47617.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47612.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47613.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47614.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47615.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47616.webp",
+    "galerie/a/aluminiowa-podstawka-pod-lapt_47617.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

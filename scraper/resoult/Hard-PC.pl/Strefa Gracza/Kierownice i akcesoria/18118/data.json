@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18118",
-    "code": "GAJO-519",
-    "name": "HUB oraz uniwersalny zestaw montażowy MOZA",
-    "price": 226.9,
-    "description": "",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/m/moza-universal-hub-und-third_66685.webp",
-        "galerie/m/moza-universal-hub-und-third_66686.webp",
-        "galerie/m/moza-universal-hub-und-third_66687.webp",
-        "galerie/m/moza-universal-hub-und-third_66688.webp",
-        "galerie/m/moza-universal-hub-und-third_66685.webp",
-        "galerie/m/moza-universal-hub-und-third_66686.webp",
-        "galerie/m/moza-universal-hub-und-third_66687.webp",
-        "galerie/m/moza-universal-hub-und-third_66688.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18118",
+  "code": "GAJO-519",
+  "name": "HUB oraz uniwersalny zestaw montażowy MOZA",
+  "price": 226.9,
+  "description": "",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/moza-universal-hub-und-third_66685.webp",
+    "galerie/m/moza-universal-hub-und-third_66686.webp",
+    "galerie/m/moza-universal-hub-und-third_66687.webp",
+    "galerie/m/moza-universal-hub-und-third_66688.webp",
+    "galerie/m/moza-universal-hub-und-third_66685.webp",
+    "galerie/m/moza-universal-hub-und-third_66686.webp",
+    "galerie/m/moza-universal-hub-und-third_66687.webp",
+    "galerie/m/moza-universal-hub-und-third_66688.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

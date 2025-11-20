@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Mikrofony"
-    ],
-    "id": "20134",
-    "code": "4820216972078",
-    "name": "Mikrofon Fifine A8",
-    "price": 279.0,
-    "description": "<h2>Kompatybilność i sterowanie</h2><p>Działa z systemami <strong>Windows, Mac OS, PS4/PS5, Android</strong>. Wyposażony w opcję sterowania mikrofonem, w tym dotykowe wyciszenie i pokrętło głośności oraz tęczowe podświetlenie RGB z możliwością włączania i wyłączania.</p><h2>Perfekcyjny do streamingu</h2><p><strong>FIFINE AmpliGame A8</strong> to mikrofon zaprojektowany z myślą o streamingu i grach, oferujący oszałamiający dźwięk i technologię Plug&amp;Play dla łatwej obsługi. Dzięki złączu typu C jest niezwykle wygodny w użytkowaniu.</p><h2>Stabilność i estetyka</h2><p>Amortyzujący statyw z gumową podstawą skutecznie minimalizuje przenikanie niepożądanych wibracji do nagrania. Bezramkowy, przezroczysty styl pop-filtra z logo FIFINE łączy wysoką estetykę z funkcjonalnością – gęsta siatka zapobiega wdmuchiwaniu powietrza bezpośrednio do mikrofonu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Złącze</p><p>USB typu C</p></li><li><p>Napięcie</p><p>5 V</p></li><li><p>Prąd elektryczny</p><p>200 mA</p></li><li><p>Pasmo przenoszenia</p><p>50 Hz – 20 kHz</p></li><li><p>Czułość</p><p>40 dB ± 3 dB (przy 1 kHz)</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fifine.jpg",
-    "images": [
-        "galerie/m/mikrofon-fifine-a8_76831.webp",
-        "galerie/m/mikrofon-fifine-a8_76832.webp",
-        "galerie/m/mikrofon-fifine-a8_76833.webp",
-        "galerie/m/mikrofon-fifine-a8_76834.webp",
-        "galerie/m/mikrofon-fifine-a8_76831.webp",
-        "galerie/m/mikrofon-fifine-a8_76832.webp",
-        "galerie/m/mikrofon-fifine-a8_76833.webp",
-        "galerie/m/mikrofon-fifine-a8_76834.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "20134",
+  "code": "4820216972078",
+  "name": "Mikrofon Fifine A8",
+  "price": 279.0,
+  "description": "<h2>Kompatybilność i sterowanie</h2><p>Działa z systemami <strong>Windows, Mac OS, PS4/PS5, Android</strong>. Wyposażony w opcję sterowania mikrofonem, w tym dotykowe wyciszenie i pokrętło głośności oraz tęczowe podświetlenie RGB z możliwością włączania i wyłączania.</p><h2>Perfekcyjny do streamingu</h2><p><strong>FIFINE AmpliGame A8</strong> to mikrofon zaprojektowany z myślą o streamingu i grach, oferujący oszałamiający dźwięk i technologię Plug&amp;Play dla łatwej obsługi. Dzięki złączu typu C jest niezwykle wygodny w użytkowaniu.</p><h2>Stabilność i estetyka</h2><p>Amortyzujący statyw z gumową podstawą skutecznie minimalizuje przenikanie niepożądanych wibracji do nagrania. Bezramkowy, przezroczysty styl pop-filtra z logo FIFINE łączy wysoką estetykę z funkcjonalnością – gęsta siatka zapobiega wdmuchiwaniu powietrza bezpośrednio do mikrofonu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Złącze</p><p>USB typu C</p></li><li><p>Napięcie</p><p>5 V</p></li><li><p>Prąd elektryczny</p><p>200 mA</p></li><li><p>Pasmo przenoszenia</p><p>50 Hz – 20 kHz</p></li><li><p>Czułość</p><p>40 dB ± 3 dB (przy 1 kHz)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fifine.jpg",
+  "images": [
+    "galerie/m/mikrofon-fifine-a8_76831.webp",
+    "galerie/m/mikrofon-fifine-a8_76832.webp",
+    "galerie/m/mikrofon-fifine-a8_76833.webp",
+    "galerie/m/mikrofon-fifine-a8_76834.webp",
+    "galerie/m/mikrofon-fifine-a8_76831.webp",
+    "galerie/m/mikrofon-fifine-a8_76832.webp",
+    "galerie/m/mikrofon-fifine-a8_76833.webp",
+    "galerie/m/mikrofon-fifine-a8_76834.webp"
+  ],
+  "manufacturer": "Fifine"
 }

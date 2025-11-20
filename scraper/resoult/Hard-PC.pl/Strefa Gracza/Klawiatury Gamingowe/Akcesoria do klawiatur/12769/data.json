@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Akcesoria do klawiatur"
-    ],
-    "id": "12769",
-    "code": "GAKC-147",
-    "name": "Narzędzie do zdejmowania keycapów Glorious Keycap Puller",
-    "price": 44.9,
-    "description": "<p>Glorious Keycap Puller to narzędzie do demontażu keycapów, które przyda się podczas modernizacji klawiatury mechanicznej. Specjalna konstrukcja zapewnia łatwe i bezpieczne zdejmowanie nakładek bez obaw o ich uszkodzenie. Wyposażone w wygodny, ergonomicznych uchwyt zapobiega skurczom dłoni, a wysokiej jakości pozłacany drut zapewnia trwałość.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>8g</p></li><li><p>Długość</p><p>185mm</p></li><li><p>Kompatybilność</p><p>Wszystkie klawiatury mechaniczne</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/glorious.jpg",
-    "images": [
-        "galerie/n/narzedzie-do-zdejmowania-keyc_46091.webp",
-        "galerie/n/narzedzie-do-zdejmowania-keyc_46092.webp",
-        "galerie/n/narzedzie-do-zdejmowania-keyc_46091.webp",
-        "galerie/n/narzedzie-do-zdejmowania-keyc_46092.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "12769",
+  "code": "GAKC-147",
+  "name": "Narzędzie do zdejmowania keycapów Glorious Keycap Puller",
+  "price": 44.9,
+  "description": "<p>Glorious Keycap Puller to narzędzie do demontażu keycapów, które przyda się podczas modernizacji klawiatury mechanicznej. Specjalna konstrukcja zapewnia łatwe i bezpieczne zdejmowanie nakładek bez obaw o ich uszkodzenie. Wyposażone w wygodny, ergonomicznych uchwyt zapobiega skurczom dłoni, a wysokiej jakości pozłacany drut zapewnia trwałość.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>8g</p></li><li><p>Długość</p><p>185mm</p></li><li><p>Kompatybilność</p><p>Wszystkie klawiatury mechaniczne</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/n/narzedzie-do-zdejmowania-keyc_46091.webp",
+    "galerie/n/narzedzie-do-zdejmowania-keyc_46092.webp",
+    "galerie/n/narzedzie-do-zdejmowania-keyc_46091.webp",
+    "galerie/n/narzedzie-do-zdejmowania-keyc_46092.webp"
+  ],
+  "manufacturer": "Glorious"
 }

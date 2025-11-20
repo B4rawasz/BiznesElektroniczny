@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy bez okna"
-    ],
-    "id": "11547",
-    "code": "GEJB-037",
-    "name": "Obudowa Jonsbo U3 Midi-Tower Silver",
-    "price": 390.9,
-    "description": "<p>Obudowa Jonsbo U3 Midi-Tower to produkt, który spełni wymagania nawet najbardziej wymagających osób. Model ten nie tylko świetnie się prezentuje, ale został zaprojektowany tak, aby pomieścić wydajny zestaw do pracy lub gier.</p><h2>Świetne wykonanie gwarantuje wytrzymałość obudowy</h2><p>Obudowa Jonsbo U3 Midi-Tower to niewielka gabarytowo obudowa wykonana z wysokiej jakości materiałów. Producent w jej produkcji użył szczotkowanego aluminium, które świetnie się prezentuje. Wymiary obudowy Jonsbo U3 Midi-Tower to 208 x 372 x 270 mm (szer. X wys. X gł.) przy wadze 2,5 kg.</p><p>Panel I/O obudowy Jonsbo U3 Midi-Tower został umieszczony na froncie produktu. Porty USB 3.0 oraz dwa złącza audio jack 3,5 mm zostały umieszczone w lewym dolnym rogu przodu U3, zaś przycisk odpowiedzialny za zasilanie w górnym lewym kącie obudowy.</p><h2>W modelu U3 zmieścimy mocny zestaw</h2><p>Obudowa Jonsbo U3 to model Midi-Tower, który jest kompatybilny z płytami głównymi typu Mini-ITX i Micro-ATX. W obudowie zmieścimy kartę graficzną o maksymalnej długości 260 mm. Producent zapewnia, że w skrzynce zamontujemy chłodzenie wysokie na 175 mm. W Jonsbo U3 możemy zainstalować zasilacz ATX. Dodatkowo producent udostępnił trzy zatoki dla dysków - dwie dla modeli 2,5-calowych i jedną dla nośników o średnicy 3,5-cala.</p><h2>Wentylator w zestawie</h2><p>W kwestii chłodzenia producent postawił na jeden wentylator o średnicy 120 mm, który zamontowano na tylnej ściance obudowy Jonsbo U3. Użytkownik ma możliwość zainstalowania chłodnicy o średnicy 120mm, również na tylnej ściance modelu U3.</p><div class=\"description-feauters\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><li>Wymiary: 208 x 372 x 270 mm (W x H x D)</li><li>Materiał: aluminum</li><li>Waga: 2.5 kg</li><li>Standard: Mini-ITX, Micro-ATX</li><li>System chłodzenia:</li><ul><li>1x 120 mm (tył- 1x120mm zainstalowany)</li></ul><li>Możliwość montażu chłodnic:</li><ul><li>1x 120 mm (tył)</li></ul><li>Zatoki:</li><ul><li>2x 2.5 / 1x 3.5 inches (bottom)</li><li>1x 3.5 (HDD bracket)</li></ul><li>Zasilacz: ATX (brak w zestawie)</li><li>Ilość miejsc na karty rozszerzeń: 4</li><li>I / O panel:</li><ul><li>2x USB 3.0</li><li>2x audio</li><li>1x power switch</li></ul><li>Maksymalna wysokość chłodzenia CPU: 175</li><li>Maksymalna długość karty graficznej: 260 mm</li></ul></div>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Jonsbo</p></li><li><p>Dane producenta</p><p>Dongguan Sibositong Industrial Co., Ltd., No. 5, Xinglong Lu, Sanzhong Village, Qingxi Town, Dongguan City, Guangdong Province, 523651, China, jane@jonsbo.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/jonsbo.jpg",
-    "images": [
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39104.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39105.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39106.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39107.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39108.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39109.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39110.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39111.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39104.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39105.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39106.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39107.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39108.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39109.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39110.webp",
-        "galerie/o/obudowa-jonsbo-u3-midi-tower_39111.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy bez okna"
+  ],
+  "id": "11547",
+  "code": "GEJB-037",
+  "name": "Obudowa Jonsbo U3 Midi-Tower Silver",
+  "price": 390.9,
+  "description": "<p>Obudowa Jonsbo U3 Midi-Tower to produkt, który spełni wymagania nawet najbardziej wymagających osób. Model ten nie tylko świetnie się prezentuje, ale został zaprojektowany tak, aby pomieścić wydajny zestaw do pracy lub gier.</p><h2>Świetne wykonanie gwarantuje wytrzymałość obudowy</h2><p>Obudowa Jonsbo U3 Midi-Tower to niewielka gabarytowo obudowa wykonana z wysokiej jakości materiałów. Producent w jej produkcji użył szczotkowanego aluminium, które świetnie się prezentuje. Wymiary obudowy Jonsbo U3 Midi-Tower to 208 x 372 x 270 mm (szer. X wys. X gł.) przy wadze 2,5 kg.</p><p>Panel I/O obudowy Jonsbo U3 Midi-Tower został umieszczony na froncie produktu. Porty USB 3.0 oraz dwa złącza audio jack 3,5 mm zostały umieszczone w lewym dolnym rogu przodu U3, zaś przycisk odpowiedzialny za zasilanie w górnym lewym kącie obudowy.</p><h2>W modelu U3 zmieścimy mocny zestaw</h2><p>Obudowa Jonsbo U3 to model Midi-Tower, który jest kompatybilny z płytami głównymi typu Mini-ITX i Micro-ATX. W obudowie zmieścimy kartę graficzną o maksymalnej długości 260 mm. Producent zapewnia, że w skrzynce zamontujemy chłodzenie wysokie na 175 mm. W Jonsbo U3 możemy zainstalować zasilacz ATX. Dodatkowo producent udostępnił trzy zatoki dla dysków - dwie dla modeli 2,5-calowych i jedną dla nośników o średnicy 3,5-cala.</p><h2>Wentylator w zestawie</h2><p>W kwestii chłodzenia producent postawił na jeden wentylator o średnicy 120 mm, który zamontowano na tylnej ściance obudowy Jonsbo U3. Użytkownik ma możliwość zainstalowania chłodnicy o średnicy 120mm, również na tylnej ściance modelu U3.</p><div class=\"description-feauters\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><li>Wymiary: 208 x 372 x 270 mm (W x H x D)</li><li>Materiał: aluminum</li><li>Waga: 2.5 kg</li><li>Standard: Mini-ITX, Micro-ATX</li><li>System chłodzenia:</li><ul><li>1x 120 mm (tył- 1x120mm zainstalowany)</li></ul><li>Możliwość montażu chłodnic:</li><ul><li>1x 120 mm (tył)</li></ul><li>Zatoki:</li><ul><li>2x 2.5 / 1x 3.5 inches (bottom)</li><li>1x 3.5 (HDD bracket)</li></ul><li>Zasilacz: ATX (brak w zestawie)</li><li>Ilość miejsc na karty rozszerzeń: 4</li><li>I / O panel:</li><ul><li>2x USB 3.0</li><li>2x audio</li><li>1x power switch</li></ul><li>Maksymalna wysokość chłodzenia CPU: 175</li><li>Maksymalna długość karty graficznej: 260 mm</li></ul></div>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Jonsbo</p></li><li><p>Dane producenta</p><p>Dongguan Sibositong Industrial Co., Ltd., No. 5, Xinglong Lu, Sanzhong Village, Qingxi Town, Dongguan City, Guangdong Province, 523651, China, jane@jonsbo.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/jonsbo.jpg",
+  "images": [
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39104.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39105.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39106.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39107.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39108.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39109.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39110.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39111.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39104.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39105.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39106.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39107.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39108.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39109.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39110.webp",
+    "galerie/o/obudowa-jonsbo-u3-midi-tower_39111.webp"
+  ],
+  "manufacturer": "Jonsbo"
 }

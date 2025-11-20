@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki nauszne/wokółuszne"
-    ],
-    "id": "8167",
-    "code": "HF2010",
-    "name": "Słuchawki ISK HF2010",
-    "price": 175.0,
-    "description": "<p>Słuchawki <strong>ISK HF2010</strong> skierowane są do użytkowników poszukujących zbalansowanego i naturalnego dźwięku przy zachowaniu dobrej podbudowy basowej. Dzięki dużym, 53mm przetwornikom słuchawki potrafią delikatnie podkreślić bas jeśli znajduje się on w nagraniu. Nadal jednak zachowują dobry balans pomiędzy poszczególnymi zakresami pasma. Dźwięk cechuje wysoka detaliczność i dobra scena i brak zniekształceń. HF2010 znakomicie sprawdzają się podczas słuchania muzyki, grania w gry czy oglądania filmów.</p><p>Słuchawki wykonane są w dużej części z metalu, zarówno z aluminium jak i stali manganowej. Pozwala to na zachowanie wysokiej trwałości, nieosiągalnej dla słuchawek wykonanych wyłącznie z plastiku. Pady słuchawek wykonane są z materiału tekstylnego pokrytego drobnym „meszkiem” natomiast pałąk pokryty jest sztuczną skórą. Kabel zakończony jest wtyczką typu konwertowalnego – na stałe zamontowany jest wtyk 3,5mm a na niego nakręcana może być przejściówka na wtyk o średnicy 6,5mm.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Typ: półotwarte</li><li>Średnica przetwornika: 53mm</li><li>Impedancja: 60Ohm</li><li>Czułość: 93dB +/- 3dB</li><li>Zakres częstotliwości przenoszenia: 15Hz-28kHz</li><li>Moc maksymalna: 600mW</li><li>Moc znamionowa: 200mW</li><li>Długość kabla: ok. 3m</li><li>Wtyk: konwertowalny 3,5/6,3mm</li><li>waga słuchawek: ok. 343g (z kablem)</li><li>Zawartość opakowania<br/>-słuchawki, przejściówka jack, woreczek transportowy</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ISK</p></li><li><p>Dane producenta</p><p>Ningbo Yinzhou Shengke Electronics Co., Ltd., No.111, Yunmo East Road, Yunlongtown, Yunzhou, Ningbo, China, info@shengke.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>TechBringer Piotr Gawrysiak | ul. Marcelińska 100/8 60-324 Poznań, Poland, biuro@techbringer.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/isk.jpg",
-    "images": [
-        "galerie/s/sluchawki-isk-hf2010_21922.webp",
-        "galerie/s/sluchawki-isk-hf2010_21923.webp",
-        "galerie/s/sluchawki-isk-hf2010_21924.webp",
-        "galerie/s/sluchawki-isk-hf2010_21925.webp",
-        "galerie/s/sluchawki-isk-hf2010_21922.webp",
-        "galerie/s/sluchawki-isk-hf2010_21923.webp",
-        "galerie/s/sluchawki-isk-hf2010_21924.webp",
-        "galerie/s/sluchawki-isk-hf2010_21925.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki nauszne/wokółuszne"
+  ],
+  "id": "8167",
+  "code": "HF2010",
+  "name": "Słuchawki ISK HF2010",
+  "price": 175.0,
+  "description": "<p>Słuchawki <strong>ISK HF2010</strong> skierowane są do użytkowników poszukujących zbalansowanego i naturalnego dźwięku przy zachowaniu dobrej podbudowy basowej. Dzięki dużym, 53mm przetwornikom słuchawki potrafią delikatnie podkreślić bas jeśli znajduje się on w nagraniu. Nadal jednak zachowują dobry balans pomiędzy poszczególnymi zakresami pasma. Dźwięk cechuje wysoka detaliczność i dobra scena i brak zniekształceń. HF2010 znakomicie sprawdzają się podczas słuchania muzyki, grania w gry czy oglądania filmów.</p><p>Słuchawki wykonane są w dużej części z metalu, zarówno z aluminium jak i stali manganowej. Pozwala to na zachowanie wysokiej trwałości, nieosiągalnej dla słuchawek wykonanych wyłącznie z plastiku. Pady słuchawek wykonane są z materiału tekstylnego pokrytego drobnym „meszkiem” natomiast pałąk pokryty jest sztuczną skórą. Kabel zakończony jest wtyczką typu konwertowalnego – na stałe zamontowany jest wtyk 3,5mm a na niego nakręcana może być przejściówka na wtyk o średnicy 6,5mm.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Typ: półotwarte</li><li>Średnica przetwornika: 53mm</li><li>Impedancja: 60Ohm</li><li>Czułość: 93dB +/- 3dB</li><li>Zakres częstotliwości przenoszenia: 15Hz-28kHz</li><li>Moc maksymalna: 600mW</li><li>Moc znamionowa: 200mW</li><li>Długość kabla: ok. 3m</li><li>Wtyk: konwertowalny 3,5/6,3mm</li><li>waga słuchawek: ok. 343g (z kablem)</li><li>Zawartość opakowania<br/>-słuchawki, przejściówka jack, woreczek transportowy</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ISK</p></li><li><p>Dane producenta</p><p>Ningbo Yinzhou Shengke Electronics Co., Ltd., No.111, Yunmo East Road, Yunlongtown, Yunzhou, Ningbo, China, info@shengke.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>TechBringer Piotr Gawrysiak | ul. Marcelińska 100/8 60-324 Poznań, Poland, biuro@techbringer.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/isk.jpg",
+  "images": [
+    "galerie/s/sluchawki-isk-hf2010_21922.webp",
+    "galerie/s/sluchawki-isk-hf2010_21923.webp",
+    "galerie/s/sluchawki-isk-hf2010_21924.webp",
+    "galerie/s/sluchawki-isk-hf2010_21925.webp",
+    "galerie/s/sluchawki-isk-hf2010_21922.webp",
+    "galerie/s/sluchawki-isk-hf2010_21923.webp",
+    "galerie/s/sluchawki-isk-hf2010_21924.webp",
+    "galerie/s/sluchawki-isk-hf2010_21925.webp"
+  ],
+  "manufacturer": "ISK"
 }

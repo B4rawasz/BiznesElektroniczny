@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 120mm"
-    ],
-    "id": "12972",
-    "code": "NGF-1573",
-    "name": "Wentylator Genesis 120mm 12V 3-pin OEM",
-    "price": 9.99,
-    "description": "OPIS <p>Wentylatory są nowe. Pochodzą z demontażu z obudów Irid 503.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiar [mm]</p><p>120*120*25</p></li><li><p>Prędkość obrotowa [RPM]</p><p>1200±200</p></li><li><p>Głośność [dB/A]</p><p>≤23.2</p></li><li><p>Przepływ powietrza [CFM]</p><p>53.9</p></li><li><p>Łożysko</p><p>Sleeve Bearing</p></li><li><p>Napięcie [V]</p><p>12</p></li><li><p>Natężenie [A]</p><p>0,25</p></li><li><p>Wtyczka</p><p>3 pin</p></li><li><p>Żywotność [h]</p><p>≥30 000</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Genesis</p></li><li><p>Dane producenta</p><p>Impakt S.A., ul. Stanisława Lema 16, 62-050 Mosina, Polska, info@impakt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/genesis.jpg",
-    "images": [
-        "galerie/w/wentylator-genesis-120mm-12v_46954.webp",
-        "galerie/w/wentylator-genesis-120mm-12v_46953.webp",
-        "galerie/w/wentylator-genesis-120mm-12v_46954.webp",
-        "galerie/w/wentylator-genesis-120mm-12v_46953.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "12972",
+  "code": "NGF-1573",
+  "name": "Wentylator Genesis 120mm 12V 3-pin OEM",
+  "price": 9.99,
+  "description": "OPIS <p>Wentylatory są nowe. Pochodzą z demontażu z obudów Irid 503.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiar [mm]</p><p>120*120*25</p></li><li><p>Prędkość obrotowa [RPM]</p><p>1200±200</p></li><li><p>Głośność [dB/A]</p><p>≤23.2</p></li><li><p>Przepływ powietrza [CFM]</p><p>53.9</p></li><li><p>Łożysko</p><p>Sleeve Bearing</p></li><li><p>Napięcie [V]</p><p>12</p></li><li><p>Natężenie [A]</p><p>0,25</p></li><li><p>Wtyczka</p><p>3 pin</p></li><li><p>Żywotność [h]</p><p>≥30 000</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Genesis</p></li><li><p>Dane producenta</p><p>Impakt S.A., ul. Stanisława Lema 16, 62-050 Mosina, Polska, info@impakt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/genesis.jpg",
+  "images": [
+    "galerie/w/wentylator-genesis-120mm-12v_46954.webp",
+    "galerie/w/wentylator-genesis-120mm-12v_46953.webp",
+    "galerie/w/wentylator-genesis-120mm-12v_46954.webp",
+    "galerie/w/wentylator-genesis-120mm-12v_46953.webp"
+  ],
+  "manufacturer": "Genesis"
 }

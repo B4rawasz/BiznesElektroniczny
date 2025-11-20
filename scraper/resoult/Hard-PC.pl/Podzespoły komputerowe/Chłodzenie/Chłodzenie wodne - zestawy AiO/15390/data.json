@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenie wodne - zestawy AiO"
-    ],
-    "id": "15390",
-    "code": "RL-KR36E-W1",
-    "name": "Chłodzenie wodne AiO NZXT Kraken Elite 360 RGB LCD White",
-    "price": 1281.9,
-    "description": "<h2>CHŁODZENIE WODNE NZXT KRAKEN 360 LCD</h2><p>Uzyskaj wysokowydajne chłodzenie i wyświetlaj ulubiony obraz lub GIF, monitoruj wskaźniki wydajności komputera w czasie rzeczywistym i nie tylko dzięki oprogramowaniu NZXT CAM.</p><p>Pompa jest wyposażona we wbudowany kwadratowy ekran LCD o przekątnej 2,36 cala, który umożliwia wyświetlanie informacji o systemie w czasie rzeczywistym lub niestandardowych obrazów</p><p>Regulowana orientacja ekranu dostosowuje się do pozycji głowicy pompy</p><p>Wydajna pompa Asetek zapewnia optymalne chłodzenie i cichą pracę do 2800 obr./min</p><p>Zawiera wysokowydajne wentylatory PWM z płynnymi łożyskami dynamicznymi dla optymalnego chłodzenia</p><p>Obejmuje wentylatory Static Pressure F120P</p><p>Pojedynczy przewód rozdzielający upraszcza instalację</p><p>Gumowe rurki są wzmocnione oplotem nylonowym, aby zapobiec wyciekom</p><p>Dostosuj zawartość wyświetlacza, prędkość pompy, podświetlenie RGB i pracę bezgłośnego wentylatora za pomocą NZXT CAM</p><h2>WYŚWIETLACZ LCD</h2><p>Wyświetlacz LCD o przekątnej 2,36\", rozdzielczości 640x640, częstotliwości odświeżania 60 Hz i wysokiej jasności.</p><h2>POMPA O WYSOKIEJ WYDAJNOŚCI</h2><p>Wydajna pompa Asetek cyrkuluje płyn chłodzący wydajnie i cicho.</p><h2>WYDAJNE CHŁODZENIE</h2><p>Wentylatory statyczne z dynamicznymi łożyskami zapewniają wydajne chłodzenie przy minimalnym poziomie hałasu.</p><p> </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Typ</p><p>Aktywny</p></li><li><p>Kompatybilność</p><p>LGA 1700,LGA 1200,LGA 1156,LGA 1155,LGA 1151,LGA 1150<br/>AM5, AM4</p></li><li><p>Rozmiar chłodzenia</p><p>360 mm</p></li><li><p>Liczba wentylatorów</p><p>3</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Kontrola PWM</p><p>Tak</p></li><li><p>Prędkość obrotowa</p><p>500 - 1800 RPM</p></li><li><p>Typ łożyska</p><p>FDB (Fluid Dynamic Bearing)</p></li><li><p>Żywotność wentylatora</p><p>60000 h</p></li><li><p>Złącza</p><p>4-Pin</p></li><li><p>Poziom hałasu</p><p>17.9 - 30.6 dB</p></li><li><p>Przepływ powietrza</p><p>21.67 - 78.02 CFM</p></li><li><p>Ciśnienie statyczne</p><p>2.7 mmH2O</p></li><li><p>Napięcie znamionowe</p><p>12 VDC</p></li><li><p>Moc wentylatora</p><p>2.76 W</p></li><li><p>Materiał chłodnicy</p><p>Aluminium</p></li><li><p>Materiał blokopompy</p><p>Tworzywo sztuczne<br/>Miedź</p></li><li><p>Prędkość obrotowa pompy</p><p>800 - 2800 RPM</p></li><li><p>Podświetlenie</p><p>RGB</p></li><li><p>Funkcje</p><p>Wyświetlacz LCD</p></li><li><p>Długość radiatora</p><p>394mm</p></li><li><p>Szerokość radiatora</p><p>27mm</p></li><li><p>Wysokość radiatora</p><p>121 mm</p></li><li><p>Długość pompy</p><p>74.5 mm</p></li><li><p>Szerokość pompy</p><p>74.5 mm</p></li><li><p>Wysokość pompy</p><p>55.97 mm</p></li><li><p>Waga</p><p>2460g</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>NZXT</p></li><li><p>Dane producenta</p><p>NZXT Europe GmbH, Ammerthalstr. 32 85551, Kirchheim b. München, Bayern Germany , privacy@nzxt.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/nzxt.jpg",
-    "images": [
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55070.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55072.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55073.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55074.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55071.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55075.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55070.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55072.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55073.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55074.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55071.webp",
-        "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55075.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "15390",
+  "code": "RL-KR36E-W1",
+  "name": "Chłodzenie wodne AiO NZXT Kraken Elite 360 RGB LCD White",
+  "price": 1281.9,
+  "description": "<h2>CHŁODZENIE WODNE NZXT KRAKEN 360 LCD</h2><p>Uzyskaj wysokowydajne chłodzenie i wyświetlaj ulubiony obraz lub GIF, monitoruj wskaźniki wydajności komputera w czasie rzeczywistym i nie tylko dzięki oprogramowaniu NZXT CAM.</p><p>Pompa jest wyposażona we wbudowany kwadratowy ekran LCD o przekątnej 2,36 cala, który umożliwia wyświetlanie informacji o systemie w czasie rzeczywistym lub niestandardowych obrazów</p><p>Regulowana orientacja ekranu dostosowuje się do pozycji głowicy pompy</p><p>Wydajna pompa Asetek zapewnia optymalne chłodzenie i cichą pracę do 2800 obr./min</p><p>Zawiera wysokowydajne wentylatory PWM z płynnymi łożyskami dynamicznymi dla optymalnego chłodzenia</p><p>Obejmuje wentylatory Static Pressure F120P</p><p>Pojedynczy przewód rozdzielający upraszcza instalację</p><p>Gumowe rurki są wzmocnione oplotem nylonowym, aby zapobiec wyciekom</p><p>Dostosuj zawartość wyświetlacza, prędkość pompy, podświetlenie RGB i pracę bezgłośnego wentylatora za pomocą NZXT CAM</p><h2>WYŚWIETLACZ LCD</h2><p>Wyświetlacz LCD o przekątnej 2,36\", rozdzielczości 640x640, częstotliwości odświeżania 60 Hz i wysokiej jasności.</p><h2>POMPA O WYSOKIEJ WYDAJNOŚCI</h2><p>Wydajna pompa Asetek cyrkuluje płyn chłodzący wydajnie i cicho.</p><h2>WYDAJNE CHŁODZENIE</h2><p>Wentylatory statyczne z dynamicznymi łożyskami zapewniają wydajne chłodzenie przy minimalnym poziomie hałasu.</p><p> </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Typ</p><p>Aktywny</p></li><li><p>Kompatybilność</p><p>LGA 1700,LGA 1200,LGA 1156,LGA 1155,LGA 1151,LGA 1150<br/>AM5, AM4</p></li><li><p>Rozmiar chłodzenia</p><p>360 mm</p></li><li><p>Liczba wentylatorów</p><p>3</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Kontrola PWM</p><p>Tak</p></li><li><p>Prędkość obrotowa</p><p>500 - 1800 RPM</p></li><li><p>Typ łożyska</p><p>FDB (Fluid Dynamic Bearing)</p></li><li><p>Żywotność wentylatora</p><p>60000 h</p></li><li><p>Złącza</p><p>4-Pin</p></li><li><p>Poziom hałasu</p><p>17.9 - 30.6 dB</p></li><li><p>Przepływ powietrza</p><p>21.67 - 78.02 CFM</p></li><li><p>Ciśnienie statyczne</p><p>2.7 mmH2O</p></li><li><p>Napięcie znamionowe</p><p>12 VDC</p></li><li><p>Moc wentylatora</p><p>2.76 W</p></li><li><p>Materiał chłodnicy</p><p>Aluminium</p></li><li><p>Materiał blokopompy</p><p>Tworzywo sztuczne<br/>Miedź</p></li><li><p>Prędkość obrotowa pompy</p><p>800 - 2800 RPM</p></li><li><p>Podświetlenie</p><p>RGB</p></li><li><p>Funkcje</p><p>Wyświetlacz LCD</p></li><li><p>Długość radiatora</p><p>394mm</p></li><li><p>Szerokość radiatora</p><p>27mm</p></li><li><p>Wysokość radiatora</p><p>121 mm</p></li><li><p>Długość pompy</p><p>74.5 mm</p></li><li><p>Szerokość pompy</p><p>74.5 mm</p></li><li><p>Wysokość pompy</p><p>55.97 mm</p></li><li><p>Waga</p><p>2460g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>NZXT</p></li><li><p>Dane producenta</p><p>NZXT Europe GmbH, Ammerthalstr. 32 85551, Kirchheim b. München, Bayern Germany , privacy@nzxt.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/nzxt.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55070.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55072.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55073.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55074.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55071.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55075.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55070.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55072.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55073.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55074.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55071.webp",
+    "galerie/c/chlodzenie-wodne-aio-nzxt-kra_55075.webp"
+  ],
+  "manufacturer": "NZXT"
 }

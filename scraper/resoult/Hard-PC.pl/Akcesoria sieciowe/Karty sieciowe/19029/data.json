@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Akcesoria sieciowe",
-        "Karty sieciowe"
-    ],
-    "id": "19029",
-    "code": "WU650",
-    "name": "Karta sieciowa WiFi Cudy WU650 2,4GHz/5GHz USB",
-    "price": 39.0,
-    "description": "<p>Przenośna łączność Wi-Fi Karta sieciowa Cudy WU650 to kompaktowe urządzenie, które zapewnia szybką łączność Wi-Fi o prędkości do 650 Mb/s. Idealne do użytku w podróży i w domu.</p><p>Kompatybilność i wydajność WU650 współpracuje ze standardem 802.11ac/n/b/g, oferując stabilne i szybkie połączenie. Zgodność z różnymi systemami operacyjnymi zapewnia łatwe użytkowanie (Windows XP, 7, 8, 8.1, 10, Linux Kernel 2.6.18 i inne).</p><p>Mobilna i dyskretna konstrukcja Niewielkie rozmiary karty sieciowej Cudy pozwalają na łatwe przenoszenie i użytkowanie bez blokowania sąsiednich portów w laptopie.</p><p>Dwuzakresowe połączenie Karta sieciowa Cudy WU650 oferuje pasmo 2,4 GHz dla większego zasięgu i 5 GHz dla wyższej prędkości 433 Mb/s. Możesz zarówno przeglądać strony internetowe, jak i prowadzić streamingi online, płynnie i bez przeszkód.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Funkcjonalność:</h2><ul class=\"list-specification\"><li>Prędkość transmisji do 650 Mb/s</li><li>Zgodność ze standardem 802.11ac/n/b/g – większa prędkość niż w standardzie 802.11n</li><li>Stabilne i szybkie połączenie internetowe</li><li>Kompatybilność z różnymi systemami operacyjnymi</li><li>Bezpieczne użytkowanie z zaawansowanymi protokołami</li><li>Niewielkie rozmiary dla łatwego transportu</li><li>Komfort użytkowania bez blokowania portów</li><li>Dwuzakresowe połączenie dla zwiększonego zasięgu</li><li>Pasmo 2,4 GHz dla dużej przestrzeni pokrycia</li><li>Pasmo 5 GHz z prędkością 433 Mb/s</li><li>Możliwość tworzenia hotspotu Wi-Fi</li><li>Karta sieciowa ułatwiająca dostęp do sieci</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj</p><p>bezprzewodowa</p></li><li><p>Interfejs</p><p>USB</p></li><li><p>Obsługiwany standard bezprzewodowy</p><p>Wi-Fi 5 (802.11 b/g/n/ac)</p></li><li><p>Rodzaje wejść/wyjść</p><p>USB 2.0 - 1 szt.</p></li><li><p>Antena</p><p>wewnętrzna - 1 szt.</p></li><li><p>Zysk energetyczny anteny</p><p>2 dBi</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz; 5 GHz</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>do 650 Mb/s</p></li><li><p>Zabezpieczenia transmisji bezprzewodowej</p><p>64/128-bit WEP; WPA; WPA-PSK; WPA2; WPA2-PSK</p></li><li><p>Wymiary</p><p>8 x 15 x 20 mm</p></li><li><p>Waga</p><p>3 g</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/cudy.jpg",
-    "images": [
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70512.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70513.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70514.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70515.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70516.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70517.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70518.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70519.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70520.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70512.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70513.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70514.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70515.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70516.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70517.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70518.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70519.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu65_70520.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Karty sieciowe"
+  ],
+  "id": "19029",
+  "code": "WU650",
+  "name": "Karta sieciowa WiFi Cudy WU650 2,4GHz/5GHz USB",
+  "price": 39.0,
+  "description": "<p>Przenośna łączność Wi-Fi Karta sieciowa Cudy WU650 to kompaktowe urządzenie, które zapewnia szybką łączność Wi-Fi o prędkości do 650 Mb/s. Idealne do użytku w podróży i w domu.</p><p>Kompatybilność i wydajność WU650 współpracuje ze standardem 802.11ac/n/b/g, oferując stabilne i szybkie połączenie. Zgodność z różnymi systemami operacyjnymi zapewnia łatwe użytkowanie (Windows XP, 7, 8, 8.1, 10, Linux Kernel 2.6.18 i inne).</p><p>Mobilna i dyskretna konstrukcja Niewielkie rozmiary karty sieciowej Cudy pozwalają na łatwe przenoszenie i użytkowanie bez blokowania sąsiednich portów w laptopie.</p><p>Dwuzakresowe połączenie Karta sieciowa Cudy WU650 oferuje pasmo 2,4 GHz dla większego zasięgu i 5 GHz dla wyższej prędkości 433 Mb/s. Możesz zarówno przeglądać strony internetowe, jak i prowadzić streamingi online, płynnie i bez przeszkód.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Funkcjonalność:</h2><ul class=\"list-specification\"><li>Prędkość transmisji do 650 Mb/s</li><li>Zgodność ze standardem 802.11ac/n/b/g – większa prędkość niż w standardzie 802.11n</li><li>Stabilne i szybkie połączenie internetowe</li><li>Kompatybilność z różnymi systemami operacyjnymi</li><li>Bezpieczne użytkowanie z zaawansowanymi protokołami</li><li>Niewielkie rozmiary dla łatwego transportu</li><li>Komfort użytkowania bez blokowania portów</li><li>Dwuzakresowe połączenie dla zwiększonego zasięgu</li><li>Pasmo 2,4 GHz dla dużej przestrzeni pokrycia</li><li>Pasmo 5 GHz z prędkością 433 Mb/s</li><li>Możliwość tworzenia hotspotu Wi-Fi</li><li>Karta sieciowa ułatwiająca dostęp do sieci</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj</p><p>bezprzewodowa</p></li><li><p>Interfejs</p><p>USB</p></li><li><p>Obsługiwany standard bezprzewodowy</p><p>Wi-Fi 5 (802.11 b/g/n/ac)</p></li><li><p>Rodzaje wejść/wyjść</p><p>USB 2.0 - 1 szt.</p></li><li><p>Antena</p><p>wewnętrzna - 1 szt.</p></li><li><p>Zysk energetyczny anteny</p><p>2 dBi</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz; 5 GHz</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>do 650 Mb/s</p></li><li><p>Zabezpieczenia transmisji bezprzewodowej</p><p>64/128-bit WEP; WPA; WPA-PSK; WPA2; WPA2-PSK</p></li><li><p>Wymiary</p><p>8 x 15 x 20 mm</p></li><li><p>Waga</p><p>3 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cudy.jpg",
+  "images": [
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70512.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70513.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70514.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70515.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70516.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70517.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70518.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70519.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70520.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70512.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70513.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70514.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70515.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70516.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70517.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70518.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70519.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu65_70520.webp"
+  ],
+  "manufacturer": "Cudy"
 }

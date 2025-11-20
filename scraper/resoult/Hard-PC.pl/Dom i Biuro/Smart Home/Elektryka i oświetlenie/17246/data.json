@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Elektryka i oświetlenie"
-    ],
-    "id": "17246",
-    "code": "TSL-LIG-STRIP5M",
-    "name": "Tesla TechToy Taśma LED RGB TechToy 5m Wi-Fi",
-    "price": 129.0,
-    "description": "<h2>Dowolna kombinacja kolorów</h2><p>Temperatura barwowa wynosi około 3000 K, a barwę oświetlenia można łatwo zmieniać. Możesz wybierać z całej gamy kolorów RGB.</p><h2>Inteligentna aplikacja TESLA</h2><p>Oświetleniem można sterować za pomocą aplikacji na smartfonie. Niezależnie od tego, czy korzystasz z systemu iOS czy Android, TESLA Smart ma szeroki zakres kompatybilności i jest łatwa w obsłudze. Listwę obsłużysz też za pomocą Google Assistant i Amazon Alexa.</p><h2>Najwyższa jakość i trwałość</h2><p>Taśma LED TESLA Smart ma moc wejściową 14 W, dodatkową jasność 1100 lumenów i stopień ochrony IP44, dzięki czemu jest wodoodporna i doskonale sprawdzi się nie tylko w salonie czy sypialni, ale również w łazience, na tarasie czy pergoli.</p><h2>Inteligentna i stylowa taśma LED</h2><p>Nadaj wnętrzu swojego domu zupełnie wyjątkowy klimat i styl dzięki tej listwie LED. Niezależnie od tego, czy chcesz uzyskać matowe ciepłe białe światło, czy błyskotliwe chłodne białe światło, możesz oświetlić swój pokój w dowolnym kolorze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>500 szt</p></li><li><p>Szerokość:</p><p>500 cm</p></li><li><p>Waga:</p><p>0.33 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62721.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62722.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62723.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62724.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62725.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62726.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62727.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62721.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62722.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62723.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62724.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62725.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62726.webp",
-        "galerie/t/tesla-techtoy-tasma-led-rgb-t_62727.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17246",
+  "code": "TSL-LIG-STRIP5M",
+  "name": "Tesla TechToy Taśma LED RGB TechToy 5m Wi-Fi",
+  "price": 129.0,
+  "description": "<h2>Dowolna kombinacja kolorów</h2><p>Temperatura barwowa wynosi około 3000 K, a barwę oświetlenia można łatwo zmieniać. Możesz wybierać z całej gamy kolorów RGB.</p><h2>Inteligentna aplikacja TESLA</h2><p>Oświetleniem można sterować za pomocą aplikacji na smartfonie. Niezależnie od tego, czy korzystasz z systemu iOS czy Android, TESLA Smart ma szeroki zakres kompatybilności i jest łatwa w obsłudze. Listwę obsłużysz też za pomocą Google Assistant i Amazon Alexa.</p><h2>Najwyższa jakość i trwałość</h2><p>Taśma LED TESLA Smart ma moc wejściową 14 W, dodatkową jasność 1100 lumenów i stopień ochrony IP44, dzięki czemu jest wodoodporna i doskonale sprawdzi się nie tylko w salonie czy sypialni, ale również w łazience, na tarasie czy pergoli.</p><h2>Inteligentna i stylowa taśma LED</h2><p>Nadaj wnętrzu swojego domu zupełnie wyjątkowy klimat i styl dzięki tej listwie LED. Niezależnie od tego, czy chcesz uzyskać matowe ciepłe białe światło, czy błyskotliwe chłodne białe światło, możesz oświetlić swój pokój w dowolnym kolorze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>500 szt</p></li><li><p>Szerokość:</p><p>500 cm</p></li><li><p>Waga:</p><p>0.33 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62721.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62722.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62723.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62724.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62725.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62726.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62727.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62721.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62722.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62723.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62724.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62725.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62726.webp",
+    "galerie/t/tesla-techtoy-tasma-led-rgb-t_62727.webp"
+  ],
+  "manufacturer": "Tesla"
 }

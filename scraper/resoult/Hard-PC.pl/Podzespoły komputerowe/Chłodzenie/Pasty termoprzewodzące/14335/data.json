@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Pasty termoprzewodzące"
-    ],
-    "id": "14335",
-    "code": "XBLOWER",
-    "name": "Dmuchawa MOZOS XBLOWER V2 do elektroniki i kurzu",
-    "price": 199.0,
-    "description": "<h2>Mozos Xblower V2 – wielofunkcyjna dmuchawa do kurzu i czyszczenia elektroniki.</h2><p>Mozos Xblower V2 to nowoczesna, wielofunkcyjna dmuchawa elektryczna, która stanowi idealny zamiennik klasycznego kompresora oraz sprężonego powietrza. W drugiej, udoskonalonej rewizji urządzenia dodano praktyczną 2-stopniową regulację mocy, która pozwala lepiej dostosować siłę podmuchu do indywidualnych potrzeb – od delikatnego oczyszczania elektroniki po intensywne usuwanie kurzu z trudno dostępnych miejsc. Dzięki kompaktowej konstrukcji Mozos Xblower V2 jest wyjątkowo łatwy w obsłudze, nie zajmuje dużo miejsca i eliminuje potrzebę korzystania z jednorazowych pojemników na sprężone powietrze. Uwaga: W zestawie znajduje się jedynie dmuchawa Mozos Xblower w 2 wersji. Pozostałe elementy mają ukazać jedynie przykładowe zastosowanie. Dmuchawa jest urządzeniem przewodowym i wymaga podłączenia do stałego zasilania 230V.</p><figure><img alt=\"\" height=\"1000\" src=\"galerie/d/dmuchawa-mozos-xblower-v2-do_77882.webp\" width=\"1500\"/></figure><h2>Jeszcze lepsza nowa rewizja z 2-stopniową regulacją mocy.</h2><p>Dmuchawa doskonale sprawdza się do czyszczenia komputerów, laptopów, klawiatur, wnętrz konsol, mebli tapicerowanych, dywanów, liści, sierści zwierząt i wielu innych powierzchni. W zestawie znajdują się trzy wymienne końcówki pozwalające precyzyjnie dopasować strumień powietrza – od rozproszonego po skupiony. W komplecie dodano również szczoteczkę ESD, która zapewnia bezpieczne czyszczenie urządzeń wrażliwych na ładunki elektrostatyczne. Mozos Xblower V2 oferuje wysoką moc 600W dzięki silnikowi wykonanemu z czystej miedzi, co przekłada się na niezawodność i skuteczność działania nawet przy najbardziej uporczywym brudzie. Regularne stosowanie dmuchawy znacząco poprawia efektywność chłodzenia komponentów elektronicznych poprzez usuwanie zanieczyszczeń z radiatorów i wentylatorów. To idealne narzędzie zarówno dla użytkowników domowych, jak i profesjonalnych serwisów komputerowych, które cenią sobie trwałość, wygodę i wydajność czyszczenia.</p><figure><img alt=\"\" height=\"1000\" src=\"galerie/d/dmuchawa-mozos-xblower-v2-do_77886.webp\" width=\"1500\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Bardzo duża moc i wydajność podmuchu.</li><li>Dwu-stopniowa regulacja mocy.</li><li>Aż trzy końcówki do wyboru strumienia wiatru.</li><li>Dobra jakość wykonania z ABS.</li><li>Niewielki rozmiar, duża skuteczność czyszczenia.</li><li>Świetne rozwiązanie do elektroniki, domowych prac porządkowych a nawet jako dmuchawa do liści.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>ABS</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Silnik</p><p>Miedziany o mocy 600W</p></li><li><p>Regulacja mocy</p><p>Tak – 2 stopniowa 300/600W</p></li><li><p>Napięcie</p><p>220-230 V</p></li><li><p>Zasilanie</p><p>Przewodowe</p></li><li><p>Kabel zasilający</p><p>3 metry</p></li><li><p>Maksymalna prędkość wiatru</p><p>50 m/s</p></li><li><p>Akcesoria</p><p>3 końcówki, szczotka ESD do czyszczenia kurzu</p></li><li><p>Waga netto</p><p>890 g</p></li><li><p>Waga brutto</p><p>980 g</p></li><li><p>Wymiary</p><p>175x100x145 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77887.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77884.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77885.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77882.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77886.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77883.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77887.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77884.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77885.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77882.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77886.webp",
-        "galerie/d/dmuchawa-mozos-xblower-v2-do_77883.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "14335",
+  "code": "XBLOWER",
+  "name": "Dmuchawa MOZOS XBLOWER V2 do elektroniki i kurzu",
+  "price": 199.0,
+  "description": "<h2>Mozos Xblower V2 – wielofunkcyjna dmuchawa do kurzu i czyszczenia elektroniki.</h2><p>Mozos Xblower V2 to nowoczesna, wielofunkcyjna dmuchawa elektryczna, która stanowi idealny zamiennik klasycznego kompresora oraz sprężonego powietrza. W drugiej, udoskonalonej rewizji urządzenia dodano praktyczną 2-stopniową regulację mocy, która pozwala lepiej dostosować siłę podmuchu do indywidualnych potrzeb – od delikatnego oczyszczania elektroniki po intensywne usuwanie kurzu z trudno dostępnych miejsc. Dzięki kompaktowej konstrukcji Mozos Xblower V2 jest wyjątkowo łatwy w obsłudze, nie zajmuje dużo miejsca i eliminuje potrzebę korzystania z jednorazowych pojemników na sprężone powietrze. Uwaga: W zestawie znajduje się jedynie dmuchawa Mozos Xblower w 2 wersji. Pozostałe elementy mają ukazać jedynie przykładowe zastosowanie. Dmuchawa jest urządzeniem przewodowym i wymaga podłączenia do stałego zasilania 230V.</p><figure><img alt=\"\" height=\"1000\" src=\"galerie/d/dmuchawa-mozos-xblower-v2-do_77882.webp\" width=\"1500\"/></figure><h2>Jeszcze lepsza nowa rewizja z 2-stopniową regulacją mocy.</h2><p>Dmuchawa doskonale sprawdza się do czyszczenia komputerów, laptopów, klawiatur, wnętrz konsol, mebli tapicerowanych, dywanów, liści, sierści zwierząt i wielu innych powierzchni. W zestawie znajdują się trzy wymienne końcówki pozwalające precyzyjnie dopasować strumień powietrza – od rozproszonego po skupiony. W komplecie dodano również szczoteczkę ESD, która zapewnia bezpieczne czyszczenie urządzeń wrażliwych na ładunki elektrostatyczne. Mozos Xblower V2 oferuje wysoką moc 600W dzięki silnikowi wykonanemu z czystej miedzi, co przekłada się na niezawodność i skuteczność działania nawet przy najbardziej uporczywym brudzie. Regularne stosowanie dmuchawy znacząco poprawia efektywność chłodzenia komponentów elektronicznych poprzez usuwanie zanieczyszczeń z radiatorów i wentylatorów. To idealne narzędzie zarówno dla użytkowników domowych, jak i profesjonalnych serwisów komputerowych, które cenią sobie trwałość, wygodę i wydajność czyszczenia.</p><figure><img alt=\"\" height=\"1000\" src=\"galerie/d/dmuchawa-mozos-xblower-v2-do_77886.webp\" width=\"1500\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Bardzo duża moc i wydajność podmuchu.</li><li>Dwu-stopniowa regulacja mocy.</li><li>Aż trzy końcówki do wyboru strumienia wiatru.</li><li>Dobra jakość wykonania z ABS.</li><li>Niewielki rozmiar, duża skuteczność czyszczenia.</li><li>Świetne rozwiązanie do elektroniki, domowych prac porządkowych a nawet jako dmuchawa do liści.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>ABS</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Silnik</p><p>Miedziany o mocy 600W</p></li><li><p>Regulacja mocy</p><p>Tak – 2 stopniowa 300/600W</p></li><li><p>Napięcie</p><p>220-230 V</p></li><li><p>Zasilanie</p><p>Przewodowe</p></li><li><p>Kabel zasilający</p><p>3 metry</p></li><li><p>Maksymalna prędkość wiatru</p><p>50 m/s</p></li><li><p>Akcesoria</p><p>3 końcówki, szczotka ESD do czyszczenia kurzu</p></li><li><p>Waga netto</p><p>890 g</p></li><li><p>Waga brutto</p><p>980 g</p></li><li><p>Wymiary</p><p>175x100x145 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77887.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77884.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77885.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77882.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77886.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77883.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77887.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77884.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77885.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77882.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77886.webp",
+    "galerie/d/dmuchawa-mozos-xblower-v2-do_77883.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

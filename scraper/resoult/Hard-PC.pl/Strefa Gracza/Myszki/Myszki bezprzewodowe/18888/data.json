@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Myszki bezprzewodowe"
-    ],
-    "id": "18888",
-    "code": "NM021-O",
-    "name": "Mysz Ninjutso Katana Superlight Black",
-    "price": 399.0,
-    "description": "<p>Kształt, waga, sensor to trzy najważniejsze aspekty, kiedy myślimy o wyborze myszy dla gracza. Ninjutso Katana Superlight spełnia je wszystkie. Przez ponad rok prac inżynieryjnych producent zaprojektował i zbudował najcieńszą skorupę na rynku, której grubość nie przekracza 0.6mm. Zaowocowało to superlekką konstrukcją o wadze 60g bez żadnych dziur i kształtem pasującym do każdego rodzaju chwytu. Niezależnie zatem czy chwytasz palm, claw czy fingertipem – Katana będzie idealna.</p><p>Przedmiot pochodzi ze zwrotu konsumenckiego. Może nosić normalne ślady użytkowania i/lub zniszczone opakowanie. Sprzęt jest sprawdzony i całkowicie sprawny.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>125 x 60 x 39.2mm</p></li><li><p>Waga</p><p>60g +/-3g</p></li><li><p>Przełączniki</p><p>Huano Pink Dot</p></li><li><p>Encoder</p><p>13mm TTC Gold</p></li><li><p>Debounce Time</p><p>0-16ms</p></li><li><p>Sensor</p><p>PixArt PAW3370</p></li><li><p>Rozdzielczość</p><p>50-19000DPI</p></li><li><p>Maksymalne przyspieszenie</p><p>50G</p></li><li><p>Maksymalna szybkość</p><p>400IPS</p></li><li><p>LOD</p><p>1/2mm</p></li><li><p>Częstotliwość próbkowania</p><p>1000Hz</p></li><li><p>Czas pracy na baterii</p><p>96h</p></li><li><p>Zawartość opakowania</p><p>Katana Superlight, Nadajnik, kabel magnetyczny MagEase, przedłużacz USB</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ninjutso</p></li><li><p>Dane producenta</p><p>Poetry Society Technology Co., Ltd, 104 Xinhe Community, Fuhai Street, Shenzhen, CN 518103, Chiny, support@ninjutso.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Hard-Pc.pl Sp. z o.o., ul. Długa 6, 24-300 Opole lubelskie, info@hard-pc.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ninjutso.jpg",
-    "images": [
-        "galerie/m/mysz-ninjutso-katana-superlig_69419.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69420.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69421.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69422.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69423.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69419.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69420.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69421.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69422.webp",
-        "galerie/m/mysz-ninjutso-katana-superlig_69423.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "18888",
+  "code": "NM021-O",
+  "name": "Mysz Ninjutso Katana Superlight Black",
+  "price": 399.0,
+  "description": "<p>Kształt, waga, sensor to trzy najważniejsze aspekty, kiedy myślimy o wyborze myszy dla gracza. Ninjutso Katana Superlight spełnia je wszystkie. Przez ponad rok prac inżynieryjnych producent zaprojektował i zbudował najcieńszą skorupę na rynku, której grubość nie przekracza 0.6mm. Zaowocowało to superlekką konstrukcją o wadze 60g bez żadnych dziur i kształtem pasującym do każdego rodzaju chwytu. Niezależnie zatem czy chwytasz palm, claw czy fingertipem – Katana będzie idealna.</p><p>Przedmiot pochodzi ze zwrotu konsumenckiego. Może nosić normalne ślady użytkowania i/lub zniszczone opakowanie. Sprzęt jest sprawdzony i całkowicie sprawny.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>125 x 60 x 39.2mm</p></li><li><p>Waga</p><p>60g +/-3g</p></li><li><p>Przełączniki</p><p>Huano Pink Dot</p></li><li><p>Encoder</p><p>13mm TTC Gold</p></li><li><p>Debounce Time</p><p>0-16ms</p></li><li><p>Sensor</p><p>PixArt PAW3370</p></li><li><p>Rozdzielczość</p><p>50-19000DPI</p></li><li><p>Maksymalne przyspieszenie</p><p>50G</p></li><li><p>Maksymalna szybkość</p><p>400IPS</p></li><li><p>LOD</p><p>1/2mm</p></li><li><p>Częstotliwość próbkowania</p><p>1000Hz</p></li><li><p>Czas pracy na baterii</p><p>96h</p></li><li><p>Zawartość opakowania</p><p>Katana Superlight, Nadajnik, kabel magnetyczny MagEase, przedłużacz USB</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ninjutso</p></li><li><p>Dane producenta</p><p>Poetry Society Technology Co., Ltd, 104 Xinhe Community, Fuhai Street, Shenzhen, CN 518103, Chiny, support@ninjutso.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Hard-Pc.pl Sp. z o.o., ul. Długa 6, 24-300 Opole lubelskie, info@hard-pc.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ninjutso.jpg",
+  "images": [
+    "galerie/m/mysz-ninjutso-katana-superlig_69419.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69420.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69421.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69422.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69423.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69419.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69420.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69421.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69422.webp",
+    "galerie/m/mysz-ninjutso-katana-superlig_69423.webp"
+  ],
+  "manufacturer": "Ninjutso"
 }

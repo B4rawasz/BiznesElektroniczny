@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Akcesoria do myszek"
-    ],
-    "id": "14926",
-    "code": "ATL-M-GLASS-FEET",
-    "name": "Ślizgacze Lamzu Glass Skatez do Atlantis Mini - szklane",
-    "price": 59.0,
-    "description": "<p>Jeśli jesteś posiadaczem Lamzu Atlantis, to z pewnością wiesz, jak świetna jest to mysz. Jedyne czego może Ci brakować to naprawdę gładkiego i szybkiego poślizgu. W tym celu zaprojektowaliśmy nasze szklane ślizgacze, które zapewniają dużo lepszy, gładszy i szybszy ślizg w stosunku do fabrycznych, bez utraty kontroli nad precyzją ruchu! Dzięki zaokrąglonym krawędziom i precyzyjnemu cięciu montaż ślizgaczy jest łatwy - pasują idealnie i nie zawadzają o podkładkę.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Szkło</p></li><li><p>Kompatybilność</p><p>Lamzu Atlantis</p></li><li><p>Cechy</p><p>Idealnie wypolerowane<br/>Super szybki<br/>Trwałe</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Shenzhen Lamzu Electronic Technology Co., Ltd., RM 209, Building B, ChuangJing Yi Hao, No. 125, ChuangYe ER Road, Block 28, Baoan District, Shenzhen, China, service@lamzu.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Hard-Pc.pl Sp. z o.o., ul. Długa 6, 24-300 Opole lubelskie, info@hard-pc.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lamzu.jpg",
-    "images": [
-        "galerie/s/slizgacze-lamzu-glass-skatez_54105.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54106.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54107.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54108.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54109.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54105.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54106.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54107.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54108.webp",
-        "galerie/s/slizgacze-lamzu-glass-skatez_54109.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Akcesoria do myszek"
+  ],
+  "id": "14926",
+  "code": "ATL-M-GLASS-FEET",
+  "name": "Ślizgacze Lamzu Glass Skatez do Atlantis Mini - szklane",
+  "price": 59.0,
+  "description": "<p>Jeśli jesteś posiadaczem Lamzu Atlantis, to z pewnością wiesz, jak świetna jest to mysz. Jedyne czego może Ci brakować to naprawdę gładkiego i szybkiego poślizgu. W tym celu zaprojektowaliśmy nasze szklane ślizgacze, które zapewniają dużo lepszy, gładszy i szybszy ślizg w stosunku do fabrycznych, bez utraty kontroli nad precyzją ruchu! Dzięki zaokrąglonym krawędziom i precyzyjnemu cięciu montaż ślizgaczy jest łatwy - pasują idealnie i nie zawadzają o podkładkę.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Szkło</p></li><li><p>Kompatybilność</p><p>Lamzu Atlantis</p></li><li><p>Cechy</p><p>Idealnie wypolerowane<br/>Super szybki<br/>Trwałe</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Shenzhen Lamzu Electronic Technology Co., Ltd., RM 209, Building B, ChuangJing Yi Hao, No. 125, ChuangYe ER Road, Block 28, Baoan District, Shenzhen, China, service@lamzu.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Hard-Pc.pl Sp. z o.o., ul. Długa 6, 24-300 Opole lubelskie, info@hard-pc.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lamzu.jpg",
+  "images": [
+    "galerie/s/slizgacze-lamzu-glass-skatez_54105.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54106.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54107.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54108.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54109.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54105.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54106.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54107.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54108.webp",
+    "galerie/s/slizgacze-lamzu-glass-skatez_54109.webp"
+  ],
+  "manufacturer": "Lamzu"
 }

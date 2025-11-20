@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenie wodne - zestawy AiO"
-    ],
-    "id": "20588",
-    "code": "WASE-940",
-    "name": "Chłodzenie wodne AiO Lian Li HYDROSHIFT II LCD-C 360CL ARGB Black",
-    "price": 849.0,
-    "description": "<h2>Lian Li HYDROSHIFT II LCD-C 360CL – wodne chłodzenie AiO z LCD i bezprzewodowymi wentylatorami</h2><p>Lian Li HYDROSHIFT II LCD-C 360CL to wybór dla osób, które chcą połączyć <b>wydajność chłodzenia</b> z unikalnym wyglądem RGB. Centralnym punktem zestawu jest <b>2,1-calowy wyświetlacz LCD</b> z obsługą plików MP4, GIF i grafik, który pozwala spersonalizować wygląd komputera w wyjątkowy sposób. Chłodzenie zostało wyposażone w trzy wentylatory <b>UNI FAN CL Wireless</b>, które zapewniają cichą i wydajną cyrkulację powietrza.</p><h2>Wydajne chłodzenie 360 mm</h2><p>Radiator o długości 360 mm zapewnia efektywne odprowadzanie ciepła nawet w wymagających konfiguracjach z procesorami AMD Ryzen i Intel Core Ultra. Pompa oraz wentylatory zostały zoptymalizowane pod kątem niskiego poziomu hałasu, dzięki czemu system pracuje cicho nawet przy wysokim obciążeniu.</p><h2>Wyświetlacz LCD z bezprzewodową obsługą</h2><p>IPS-owy ekran pozwala wyświetlać animacje, czujniki systemowe, a nawet krótkie filmy. Obsługa odbywa się bezprzewodowo przez <b>L-Wireless Controller</b> lub przewodowo za pomocą <b>L-Connect 3</b>. Dzięki temu możesz zmieniać ustawienia i wygląd bez konieczności przepinania kabli czy instalowania dodatkowych sterowników.</p><h2>Ciche i wydajne wentylatory UNI FAN CL Wireless</h2><p>W zestawie znajdują się trzy 120-milimetrowe wentylatory CL Wireless, które łączą wysoką kulturę pracy z wydajnym przepływem powietrza. Do ich bezprzewodowej obsługi wymagany jest dodatkowy kontroler (dostępny osobno w wersji czarnej lub białej).</p><h2>Łatwa instalacja i porządek w obudowie</h2><p>Boczne mocowanie przewodów, regulowany uchwyt oraz możliwość poprowadzenia węży w dwóch kierunkach (lewo/prawo) pozwalają na czysty i estetyczny montaż. Instalacja jest szybka i beznarzędziowa, co ułatwia modernizację komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Seria</p><p>HydroShift II</p></li><li><p>Model</p><p>HYDROSHIFT II LCD-C 360CL</p></li><li><p>Typ chłodzenia</p><p>AiO wodne chłodzenie procesora</p></li><li><p>Kompatybilne gniazda CPU</p><p>Intel 1700, 1851; AMD AM4, AM5</p></li><li><p>Wyświetlacz</p><p>IPS LCD 2,1 cala (obsługa MP4, GIF, grafik, sensorów systemowych)</p></li><li><p>Radiator</p><p>360 mm (400 × 122 × 22 mm)</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Blok wodny</p><p>Miedź</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Wentylatory</p><p>3× UNI FAN CL Wireless 120 mm</p></li><li><p>Maksymalna głośność pompy</p><p>28 dB(A)</p></li><li><p>Maksymalna głośność wentylatora</p><p>31 dB(A)</p></li><li><p>Oświetlenie</p><p>RGB (adresowalne)</p></li><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Kolor ramki wentylatora</p><p>Czarny</p></li><li><p>Kolor łopatek wentylatora</p><p>Przezroczysty</p></li><li><p>Kolor radiatora</p><p>Czarny</p></li><li><p>Obsługa bezprzewodowa</p><p>Tak (wymaga dodatkowego kontrolera L-Wireless)</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78501.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78502.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78503.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78501.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78502.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78503.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20588",
+  "code": "WASE-940",
+  "name": "Chłodzenie wodne AiO Lian Li HYDROSHIFT II LCD-C 360CL ARGB Black",
+  "price": 849.0,
+  "description": "<h2>Lian Li HYDROSHIFT II LCD-C 360CL – wodne chłodzenie AiO z LCD i bezprzewodowymi wentylatorami</h2><p>Lian Li HYDROSHIFT II LCD-C 360CL to wybór dla osób, które chcą połączyć <b>wydajność chłodzenia</b> z unikalnym wyglądem RGB. Centralnym punktem zestawu jest <b>2,1-calowy wyświetlacz LCD</b> z obsługą plików MP4, GIF i grafik, który pozwala spersonalizować wygląd komputera w wyjątkowy sposób. Chłodzenie zostało wyposażone w trzy wentylatory <b>UNI FAN CL Wireless</b>, które zapewniają cichą i wydajną cyrkulację powietrza.</p><h2>Wydajne chłodzenie 360 mm</h2><p>Radiator o długości 360 mm zapewnia efektywne odprowadzanie ciepła nawet w wymagających konfiguracjach z procesorami AMD Ryzen i Intel Core Ultra. Pompa oraz wentylatory zostały zoptymalizowane pod kątem niskiego poziomu hałasu, dzięki czemu system pracuje cicho nawet przy wysokim obciążeniu.</p><h2>Wyświetlacz LCD z bezprzewodową obsługą</h2><p>IPS-owy ekran pozwala wyświetlać animacje, czujniki systemowe, a nawet krótkie filmy. Obsługa odbywa się bezprzewodowo przez <b>L-Wireless Controller</b> lub przewodowo za pomocą <b>L-Connect 3</b>. Dzięki temu możesz zmieniać ustawienia i wygląd bez konieczności przepinania kabli czy instalowania dodatkowych sterowników.</p><h2>Ciche i wydajne wentylatory UNI FAN CL Wireless</h2><p>W zestawie znajdują się trzy 120-milimetrowe wentylatory CL Wireless, które łączą wysoką kulturę pracy z wydajnym przepływem powietrza. Do ich bezprzewodowej obsługi wymagany jest dodatkowy kontroler (dostępny osobno w wersji czarnej lub białej).</p><h2>Łatwa instalacja i porządek w obudowie</h2><p>Boczne mocowanie przewodów, regulowany uchwyt oraz możliwość poprowadzenia węży w dwóch kierunkach (lewo/prawo) pozwalają na czysty i estetyczny montaż. Instalacja jest szybka i beznarzędziowa, co ułatwia modernizację komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Seria</p><p>HydroShift II</p></li><li><p>Model</p><p>HYDROSHIFT II LCD-C 360CL</p></li><li><p>Typ chłodzenia</p><p>AiO wodne chłodzenie procesora</p></li><li><p>Kompatybilne gniazda CPU</p><p>Intel 1700, 1851; AMD AM4, AM5</p></li><li><p>Wyświetlacz</p><p>IPS LCD 2,1 cala (obsługa MP4, GIF, grafik, sensorów systemowych)</p></li><li><p>Radiator</p><p>360 mm (400 × 122 × 22 mm)</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Blok wodny</p><p>Miedź</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Wentylatory</p><p>3× UNI FAN CL Wireless 120 mm</p></li><li><p>Maksymalna głośność pompy</p><p>28 dB(A)</p></li><li><p>Maksymalna głośność wentylatora</p><p>31 dB(A)</p></li><li><p>Oświetlenie</p><p>RGB (adresowalne)</p></li><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Kolor ramki wentylatora</p><p>Czarny</p></li><li><p>Kolor łopatek wentylatora</p><p>Przezroczysty</p></li><li><p>Kolor radiatora</p><p>Czarny</p></li><li><p>Obsługa bezprzewodowa</p><p>Tak (wymaga dodatkowego kontrolera L-Wireless)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78501.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78502.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78503.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78501.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78502.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78503.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zarządzenie okablowaniem"
-    ],
-    "id": "11062",
-    "code": "TRAPOM46523",
-    "name": "Miernik Zużycia Energii Tracer Powersave Watomierz",
-    "price": 52.9,
-    "description": "OPIS <p>Nikt nie lubi płacić wysokich rachunków, w szczególności za prąd. Urządzeń elektronicznych w naszych domach jest coraz więcej, usprawniają pracę i codzienne życie, ale często zużywają masę prądu. Niewłaściwie dobrana taryfa energii elektrycznej może spowodować wysokie koszty. Teraz możesz kontrolować pobór i koszty energii. Korzystając z watomierza, szybko odnajdziesz największych „pożeraczy prądu” i będziesz mógł cieszyć się większymi oszczędnościami, zmieniając urządzenia na zużywające mniej prądu lub taryfę na korzystniejszą.</p><h2>100% kontroli nad poborem energii</h2><p>Watomierz po podłączeniu do danego urządzenia prowadzi pomiar zużywanej energii. Po ustawieniu taryfy energii elektrycznej możesz obliczyć zużycie prądu w czasie pracy oraz spoczynku przez Twój telewizor lub konsolę. Pobór mocy jest wyświetlany w jednostkach Watt/Volt/Amper i Hertz.</p><h2>Przydatne tryby pracy</h2><p>Miernik posiada 7 trybów pracy umożliwiające odczyt takich wartości jak łączna ilość energii, napięcie/częstotliwość, współczynnik mocy, maksymalna i minimalna moc oraz koszt zużycia prądu. Urządzenie posiada wszystkie wymagane certyfikaty, dzięki czemu możesz być pewny jego bezpieczeństwa i dokładności.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wyświetlane wartości: współczynnik mocy, suma zużytej energii, częstotliwość, pobór prądu, obciążenie, napięcie prądu, aktualny czas, wysokość opłat</li><li>Dokładność pomiaru: 1%</li><li>Pbciążenie: 3680W max</li><li>Ptwór na bolec uziemiający</li><li>Akumulator: Ni-Mh 3.6V</li><li>Temperatura pracy: -10°C do +40°C</li><li>Zakres pomiaru</li><ul><li>Pomiar energii elektrycznej : 0,0~9999,9kWh</li><li>Pomiar mocy: 0,0~9999W</li><li>Pomiar natężenia: 0,01~16A</li><li>PomiaR napięcia: 200~240V; 50/60Hz</li></ul><li>Tryby pracy</li><ul><li>Tryb 1: Czas/Waty/Koszt</li><li>Tryb 2: Czas/Łączna ilość energii</li><li>Tryb 3: Czas/Napięcie/Częstotliwość</li><li>Tryb 4: Czas/Natężenie/Współczynnik mocy</li><li>Tryb 5: Czas/Minimalna moc</li><li>Tryb 6: Czas/Maksymalna moc</li><li>Tryb 7: Czas/Cena</li></ul></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tracer</p></li><li><p>Dane producenta</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tracer.jpg",
-    "images": [
-        "galerie/m/miernik-zuzycia-energii-trace_36255.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36256.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36257.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36258.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36259.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36260.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36261.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36255.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36256.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36257.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36258.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36259.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36260.webp",
-        "galerie/m/miernik-zuzycia-energii-trace_36261.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "11062",
+  "code": "TRAPOM46523",
+  "name": "Miernik Zużycia Energii Tracer Powersave Watomierz",
+  "price": 52.9,
+  "description": "OPIS <p>Nikt nie lubi płacić wysokich rachunków, w szczególności za prąd. Urządzeń elektronicznych w naszych domach jest coraz więcej, usprawniają pracę i codzienne życie, ale często zużywają masę prądu. Niewłaściwie dobrana taryfa energii elektrycznej może spowodować wysokie koszty. Teraz możesz kontrolować pobór i koszty energii. Korzystając z watomierza, szybko odnajdziesz największych „pożeraczy prądu” i będziesz mógł cieszyć się większymi oszczędnościami, zmieniając urządzenia na zużywające mniej prądu lub taryfę na korzystniejszą.</p><h2>100% kontroli nad poborem energii</h2><p>Watomierz po podłączeniu do danego urządzenia prowadzi pomiar zużywanej energii. Po ustawieniu taryfy energii elektrycznej możesz obliczyć zużycie prądu w czasie pracy oraz spoczynku przez Twój telewizor lub konsolę. Pobór mocy jest wyświetlany w jednostkach Watt/Volt/Amper i Hertz.</p><h2>Przydatne tryby pracy</h2><p>Miernik posiada 7 trybów pracy umożliwiające odczyt takich wartości jak łączna ilość energii, napięcie/częstotliwość, współczynnik mocy, maksymalna i minimalna moc oraz koszt zużycia prądu. Urządzenie posiada wszystkie wymagane certyfikaty, dzięki czemu możesz być pewny jego bezpieczeństwa i dokładności.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wyświetlane wartości: współczynnik mocy, suma zużytej energii, częstotliwość, pobór prądu, obciążenie, napięcie prądu, aktualny czas, wysokość opłat</li><li>Dokładność pomiaru: 1%</li><li>Pbciążenie: 3680W max</li><li>Ptwór na bolec uziemiający</li><li>Akumulator: Ni-Mh 3.6V</li><li>Temperatura pracy: -10°C do +40°C</li><li>Zakres pomiaru</li><ul><li>Pomiar energii elektrycznej : 0,0~9999,9kWh</li><li>Pomiar mocy: 0,0~9999W</li><li>Pomiar natężenia: 0,01~16A</li><li>PomiaR napięcia: 200~240V; 50/60Hz</li></ul><li>Tryby pracy</li><ul><li>Tryb 1: Czas/Waty/Koszt</li><li>Tryb 2: Czas/Łączna ilość energii</li><li>Tryb 3: Czas/Napięcie/Częstotliwość</li><li>Tryb 4: Czas/Natężenie/Współczynnik mocy</li><li>Tryb 5: Czas/Minimalna moc</li><li>Tryb 6: Czas/Maksymalna moc</li><li>Tryb 7: Czas/Cena</li></ul></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tracer</p></li><li><p>Dane producenta</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tracer.jpg",
+  "images": [
+    "galerie/m/miernik-zuzycia-energii-trace_36255.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36256.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36257.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36258.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36259.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36260.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36261.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36255.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36256.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36257.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36258.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36259.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36260.webp",
+    "galerie/m/miernik-zuzycia-energii-trace_36261.webp"
+  ],
+  "manufacturer": "Tracer"
 }

@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Dyski",
-        "Dyski SSD"
-    ],
-    "id": "15761",
-    "code": "LNM790X001T-RNNNG",
-    "name": "Dysk SSD Lexar NM790 1TB 2280 PCIeGen4x4 7200/6500MB/s",
-    "price": 379.0,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Format szerokości</p><p>M.2 2280</p></li><li><p>Typ napędu</p><p>Wewnętrzny</p></li><li><p>Pojemność dysku</p><p>1 TB</p></li><li><p>Interfejs dysku</p><p>PCI-Express</p></li><li><p>TBW</p><p>1000 TB</p></li><li><p>Prędkość odczytu</p><p>7400 MB/s</p></li><li><p>Prędkość zapisu</p><p>6500 MB/s</p></li><li><p>Kolor</p><p>Nie dotyczy</p></li><li><p>Wysokość</p><p>2.45 mm</p></li><li><p>Szerokość</p><p>22 mm</p></li><li><p>Głębokość</p><p>80 mm</p></li><li><p>Waga</p><p>6 g</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lexuar</p></li><li><p>Dane producenta</p><p>Lexar Europe B.V, Grevelingstraat 40, 2161WG Lisse, Netherlands, nfo-europe@lexar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lexar.jpg",
-    "images": [
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56191.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56192.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56193.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56194.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56195.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56196.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56191.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56192.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56193.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56194.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56195.webp",
-        "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56196.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Dyski SSD"
+  ],
+  "id": "15761",
+  "code": "LNM790X001T-RNNNG",
+  "name": "Dysk SSD Lexar NM790 1TB 2280 PCIeGen4x4 7200/6500MB/s",
+  "price": 379.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Format szerokości</p><p>M.2 2280</p></li><li><p>Typ napędu</p><p>Wewnętrzny</p></li><li><p>Pojemność dysku</p><p>1 TB</p></li><li><p>Interfejs dysku</p><p>PCI-Express</p></li><li><p>TBW</p><p>1000 TB</p></li><li><p>Prędkość odczytu</p><p>7400 MB/s</p></li><li><p>Prędkość zapisu</p><p>6500 MB/s</p></li><li><p>Kolor</p><p>Nie dotyczy</p></li><li><p>Wysokość</p><p>2.45 mm</p></li><li><p>Szerokość</p><p>22 mm</p></li><li><p>Głębokość</p><p>80 mm</p></li><li><p>Waga</p><p>6 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lexuar</p></li><li><p>Dane producenta</p><p>Lexar Europe B.V, Grevelingstraat 40, 2161WG Lisse, Netherlands, nfo-europe@lexar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lexar.jpg",
+  "images": [
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56191.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56192.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56193.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56194.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56195.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56196.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56191.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56192.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56193.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56194.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56195.webp",
+    "galerie/d/dysk-ssd-lexar-nm790-512gb-22_56196.webp"
+  ],
+  "manufacturer": "Lexuar"
 }

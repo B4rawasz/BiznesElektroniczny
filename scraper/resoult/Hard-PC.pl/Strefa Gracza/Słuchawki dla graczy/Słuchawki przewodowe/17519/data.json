@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Słuchawki dla graczy",
-        "Słuchawki przewodowe"
-    ],
-    "id": "17519",
-    "code": "RM-K60",
-    "name": "Słuchawki Rampage RM-K60 DROP PLUS USB",
-    "price": 199.99,
-    "description": "<p>Doświadcz doskonałego dźwięku 360º dzięki Rampage DROP PLUS. Te niesamowite słuchawki gamingowe z 50-milimetrowymi przetwornikami nie tylko zapewniają bogate i przyjemne wrażenia, ale również pozwalają Ci precyzyjnie określić źródło dźwięków, umożliwiając rywalizację na najwyższym poziomie. Kroki, kopnięcia, eksplozje... Teraz usłyszysz każdy detal.</p><h2>Stylowy design</h2><p>Słuchawki przewodowe Rampage DROP PLUS to nie tylko doskonałe brzmienie, ale także stylowy design z czerwonym podświetleniem LED. Starannie zaprojektowane, aby zaspokoić Twoje potrzeby zarówno wizualne, jak i dźwiękowe, DROP PLUS stanie się niezastąpionym towarzyszem każdej rozgrywki.</p><h2>Wszechstronne słuchawki gamingowe</h2><p>RM-K60 DROP PLUS to kompletny zestaw słuchawkowy 7.1 Surround All-in-One z wyjściami USB Typ-C i 3,5 mm. Dzięki bogatej zawartości opakowania połączysz słuchawki zarówno z komputerem stacjonarnym, laptopem, jak i Playstation 4 czy Xboxem. W celu osiągnięcia najlepszej jakości dźwięku i komfortu użytkowania zaleca się podłączenie słuchawek za pomocą załączonego kabla USB-A - USB-C.</p><h2>Super solidne</h2><p>Słuchawki Rampage DROP PLUS zostały starannie zaprojektowane z myślą o trwałości i wygodzie użytkowania. Solidna konstrukcja wykonana z wysokiej jakości materiałów zapewnia stabilność i wytrzymałość, a skórzane poduszki nauszne gwarantują komfort nawet podczas długich sesji grania. Ich duża powierzchnia i miękki, skóropodobny materiał izolują dźwięki z otoczenia, zapewniając Ci niezakłócone wrażenia dźwiękowe.</p><h2>Odłączany mikrofon</h2><p>Dodatkowo mikrofon Rampage DROP PLUS, wyposażony w funkcję redukcji hałasu, jest możliwy do odłączenia i regulacji, co pozwala Ci dostosować go do własnych potrzeb i preferencji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Czułość mikrofonu:</p><p>42 dB</p></li><li><p>Czułość słuchawek:</p><p>118 dB</p></li><li><p>Impedancja:</p><p>32 Ω</p></li><li><p>Pasmo przenoszenia:</p><p>20 - 20000Hz</p></li><li><p>Odłączany mikrofon:</p><p>tak</p></li><li><p>Złącze 2:</p><p>Wtyk USB-A<br/>Wtyk USB-C</p></li><li><p>Złącze 1:</p><p>Wtyk audio 3.5mm</p></li><li><p>Wysokość:</p><p>22.5 cm</p></li><li><p>Szerokość:</p><p>21 cm</p></li><li><p>Kolor:</p><p>Czarny</p></li><li><p>Materiał zewnętrzny:</p><p>ABS<br/>Metal</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/rampage.jpg",
-    "images": [
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64153.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64154.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64155.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64156.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64157.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64158.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64159.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64153.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64154.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64155.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64156.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64157.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64158.webp",
-        "galerie/s/sluchawki-rampage-rm-k60-drop_64159.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Słuchawki dla graczy",
+    "Słuchawki przewodowe"
+  ],
+  "id": "17519",
+  "code": "RM-K60",
+  "name": "Słuchawki Rampage RM-K60 DROP PLUS USB",
+  "price": 199.99,
+  "description": "<p>Doświadcz doskonałego dźwięku 360º dzięki Rampage DROP PLUS. Te niesamowite słuchawki gamingowe z 50-milimetrowymi przetwornikami nie tylko zapewniają bogate i przyjemne wrażenia, ale również pozwalają Ci precyzyjnie określić źródło dźwięków, umożliwiając rywalizację na najwyższym poziomie. Kroki, kopnięcia, eksplozje... Teraz usłyszysz każdy detal.</p><h2>Stylowy design</h2><p>Słuchawki przewodowe Rampage DROP PLUS to nie tylko doskonałe brzmienie, ale także stylowy design z czerwonym podświetleniem LED. Starannie zaprojektowane, aby zaspokoić Twoje potrzeby zarówno wizualne, jak i dźwiękowe, DROP PLUS stanie się niezastąpionym towarzyszem każdej rozgrywki.</p><h2>Wszechstronne słuchawki gamingowe</h2><p>RM-K60 DROP PLUS to kompletny zestaw słuchawkowy 7.1 Surround All-in-One z wyjściami USB Typ-C i 3,5 mm. Dzięki bogatej zawartości opakowania połączysz słuchawki zarówno z komputerem stacjonarnym, laptopem, jak i Playstation 4 czy Xboxem. W celu osiągnięcia najlepszej jakości dźwięku i komfortu użytkowania zaleca się podłączenie słuchawek za pomocą załączonego kabla USB-A - USB-C.</p><h2>Super solidne</h2><p>Słuchawki Rampage DROP PLUS zostały starannie zaprojektowane z myślą o trwałości i wygodzie użytkowania. Solidna konstrukcja wykonana z wysokiej jakości materiałów zapewnia stabilność i wytrzymałość, a skórzane poduszki nauszne gwarantują komfort nawet podczas długich sesji grania. Ich duża powierzchnia i miękki, skóropodobny materiał izolują dźwięki z otoczenia, zapewniając Ci niezakłócone wrażenia dźwiękowe.</p><h2>Odłączany mikrofon</h2><p>Dodatkowo mikrofon Rampage DROP PLUS, wyposażony w funkcję redukcji hałasu, jest możliwy do odłączenia i regulacji, co pozwala Ci dostosować go do własnych potrzeb i preferencji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Czułość mikrofonu:</p><p>42 dB</p></li><li><p>Czułość słuchawek:</p><p>118 dB</p></li><li><p>Impedancja:</p><p>32 Ω</p></li><li><p>Pasmo przenoszenia:</p><p>20 - 20000Hz</p></li><li><p>Odłączany mikrofon:</p><p>tak</p></li><li><p>Złącze 2:</p><p>Wtyk USB-A<br/>Wtyk USB-C</p></li><li><p>Złącze 1:</p><p>Wtyk audio 3.5mm</p></li><li><p>Wysokość:</p><p>22.5 cm</p></li><li><p>Szerokość:</p><p>21 cm</p></li><li><p>Kolor:</p><p>Czarny</p></li><li><p>Materiał zewnętrzny:</p><p>ABS<br/>Metal</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/rampage.jpg",
+  "images": [
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64153.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64154.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64155.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64156.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64157.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64158.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64159.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64153.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64154.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64155.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64156.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64157.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64158.webp",
+    "galerie/s/sluchawki-rampage-rm-k60-drop_64159.webp"
+  ],
+  "manufacturer": "Rampage"
 }

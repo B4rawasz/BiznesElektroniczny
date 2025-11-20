@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Pasty termoprzewodzące"
-    ],
-    "id": "17731",
-    "code": "ZUWA-274",
-    "name": "Pasta termoprzewodząca DeepCool DM9  - 1,5 g",
-    "price": 21.9,
-    "description": "<p>Pasta termoprzewodząca DeepCool DM9 to nowo opracowana pasta, która zapewnia stałą i niezawodną wydajność cieplną oraz bardzo dobrą przewodność cieplną.</p><p>Optymalna konsystencja sprawia, że ​​łatwo się go aplikuje i nawet najmniejsza szczelina pomiędzy procesorem a radiatorem zostaje równomiernie zamknięta. Efekt: niskie temperatury.</p><p>Zakres stosowania wynosi od -50°C do 250°C. Pasta nie przewodzi prądu elektrycznego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>1,5 g</p></li><li><p>Kompatybilność</p><p>dowolny procesor</p></li><li><p>Gęstość</p><p>3,5 g/cm3</p></li><li><p>Przewodność cieplna</p><p>4,63 W/mk</p></li><li><p>minimalna temperatura pracy</p><p>-50°C</p></li><li><p>maksymalna temperatura pracy</p><p>250°C</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/deepcool.jpg",
-    "images": [
-        "galerie/p/pasta-termoprzewodzaca-deepco_64961.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64963.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64964.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64962.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64965.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64966.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64961.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64963.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64964.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64962.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64965.webp",
-        "galerie/p/pasta-termoprzewodzaca-deepco_64966.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "17731",
+  "code": "ZUWA-274",
+  "name": "Pasta termoprzewodząca DeepCool DM9  - 1,5 g",
+  "price": 21.9,
+  "description": "<p>Pasta termoprzewodząca DeepCool DM9 to nowo opracowana pasta, która zapewnia stałą i niezawodną wydajność cieplną oraz bardzo dobrą przewodność cieplną.</p><p>Optymalna konsystencja sprawia, że ​​łatwo się go aplikuje i nawet najmniejsza szczelina pomiędzy procesorem a radiatorem zostaje równomiernie zamknięta. Efekt: niskie temperatury.</p><p>Zakres stosowania wynosi od -50°C do 250°C. Pasta nie przewodzi prądu elektrycznego.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>1,5 g</p></li><li><p>Kompatybilność</p><p>dowolny procesor</p></li><li><p>Gęstość</p><p>3,5 g/cm3</p></li><li><p>Przewodność cieplna</p><p>4,63 W/mk</p></li><li><p>minimalna temperatura pracy</p><p>-50°C</p></li><li><p>maksymalna temperatura pracy</p><p>250°C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/p/pasta-termoprzewodzaca-deepco_64961.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64963.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64964.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64962.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64965.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64966.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64961.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64963.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64964.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64962.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64965.webp",
+    "galerie/p/pasta-termoprzewodzaca-deepco_64966.webp"
+  ],
+  "manufacturer": "DeepCool"
 }

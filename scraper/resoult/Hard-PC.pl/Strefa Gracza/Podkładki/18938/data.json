@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Podkładki"
-    ],
-    "id": "18938",
-    "code": "EY6B010",
-    "name": "Podkładka Endorfy Crystal Onyx White XL – 900x400mm",
-    "price": 99.0,
-    "description": "<p>Odporna na zawilgocenie tkanina z nietuzinkowym wzorem graficznym przypominającym jasny kryształ, obszycie z nadrukiem, antypoślizgowy spód. To wszystko, czego potrzebujesz od dobrze wykonanej podkładki do przeprowadzania dynamicznych i precyzyjnych ruchów myszką. ENDORFY Crystal Onyx White XL wniesie na Twoje biurko ciekawy styl.</p><h2>Biały onyks pod Twoją myszką</h2><p>Jeśli chcesz urozmaicić wygląd Twojego stanowiska, to seria ENDORFY Crystal jest dla Ciebie. Jasny wariant ENDORFY Crystal Onyx White XL wprowadza powiew świeżości. Inspirowany białym onyksem wzór nadrukowany na świetnie współpracującej z sensorami optycznymi i laserowymi tkaninie przypomina kryształ i urozmaici wygląd Twojego biurka. Rozmiar XL o powierzchni 900×400 mm zapewni stabilną przestrzeń nie tylko dla Twojej myszki, ale też klawiatury.</p><h2>Urozmaicone obszycie</h2><p>W ENDORFY Crystal Onyx White XL zadbaliśmy nawet o niestandardowe brzegi. Kolorowe obszycie współgra z nadrukowanym wzorem. W dodatku sprawia, że brzegi nie będą się niszczyć tak jak w prostych podkładkach bez dodatkowego wykończenia na krawędziach.</p><h2>Zawsze stabilnie na biurku</h2><p>Nawet podczas dynamicznych akcji ENDORFY Crystal Onyx White XL pozostaje na swoim miejscu. Dzięki temu, Twoje ruchy myszką będą zawsze precyzyjne. Umieszczona od spodu czarna warstwa z wysokiej jakości gumy skutecznie przeciwdziała poruszaniu się podkładki.</p><h2>Odporność na zawilgocenie</h2><p>Pot z dłoni w upalny dzień, woda osadzona na kubku z napojem czy podobne sytuacje nie stanowią problemu dla ENDORFY Crystal Onyx White XL. Podkładka jest odporna na zawilgocenie, więc nie musisz obawiać się o jej trwałość.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Nadrukowana grafika</li><li>Obszycie z nadrukiem</li><li>Antypoślizgowa gumowa podstawa</li><li>Odporność na zawilgocenie</li><!-- KONIEC ATRYBUTÓW --></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Rodzaj produktu</p><p>podkładka pod mysz</p></li><li><p>Kolor</p><p>biały</p></li><li><p>Wymiary</p><p>900×400×3 mm (Dł.×Szer.×Wys.)</p></li><li><p>Materiał (góra)</p><p>tkanina</p></li><li><p>Właściwości</p><p>odporny na zawilgocenie</p></li><li><p>Kolor</p><p>wielokolorowy (wzór)</p></li><li><p>Materiał (spód)</p><p>Guma</p></li><li><p>Właściwości</p><p>antypoślizgowy</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Obszycie</p><p>tak</p></li><li><p>Zaokrąglenie</p><p>tak</p></li><li><p>Kolor</p><p>wielokolorowy (wzór)</p></li><li><p>Kompatybilność z myszkami/sensorami</p><p>optyczne/laserowe</p></li><!-- KONIEC ATRYBUTÓW --></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ENDORFY</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, kontakt@cooling.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/endorfy.jpg",
-    "images": [
-        "galerie/p/podkladka-endorfy-crystal-ony_69683.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69684.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69685.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69686.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69687.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69688.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69689.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69690.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69691.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69683.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69684.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69685.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69686.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69687.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69688.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69689.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69690.webp",
-        "galerie/p/podkladka-endorfy-crystal-ony_69691.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Podkładki"
+  ],
+  "id": "18938",
+  "code": "EY6B010",
+  "name": "Podkładka Endorfy Crystal Onyx White XL – 900x400mm",
+  "price": 99.0,
+  "description": "<p>Odporna na zawilgocenie tkanina z nietuzinkowym wzorem graficznym przypominającym jasny kryształ, obszycie z nadrukiem, antypoślizgowy spód. To wszystko, czego potrzebujesz od dobrze wykonanej podkładki do przeprowadzania dynamicznych i precyzyjnych ruchów myszką. ENDORFY Crystal Onyx White XL wniesie na Twoje biurko ciekawy styl.</p><h2>Biały onyks pod Twoją myszką</h2><p>Jeśli chcesz urozmaicić wygląd Twojego stanowiska, to seria ENDORFY Crystal jest dla Ciebie. Jasny wariant ENDORFY Crystal Onyx White XL wprowadza powiew świeżości. Inspirowany białym onyksem wzór nadrukowany na świetnie współpracującej z sensorami optycznymi i laserowymi tkaninie przypomina kryształ i urozmaici wygląd Twojego biurka. Rozmiar XL o powierzchni 900×400 mm zapewni stabilną przestrzeń nie tylko dla Twojej myszki, ale też klawiatury.</p><h2>Urozmaicone obszycie</h2><p>W ENDORFY Crystal Onyx White XL zadbaliśmy nawet o niestandardowe brzegi. Kolorowe obszycie współgra z nadrukowanym wzorem. W dodatku sprawia, że brzegi nie będą się niszczyć tak jak w prostych podkładkach bez dodatkowego wykończenia na krawędziach.</p><h2>Zawsze stabilnie na biurku</h2><p>Nawet podczas dynamicznych akcji ENDORFY Crystal Onyx White XL pozostaje na swoim miejscu. Dzięki temu, Twoje ruchy myszką będą zawsze precyzyjne. Umieszczona od spodu czarna warstwa z wysokiej jakości gumy skutecznie przeciwdziała poruszaniu się podkładki.</p><h2>Odporność na zawilgocenie</h2><p>Pot z dłoni w upalny dzień, woda osadzona na kubku z napojem czy podobne sytuacje nie stanowią problemu dla ENDORFY Crystal Onyx White XL. Podkładka jest odporna na zawilgocenie, więc nie musisz obawiać się o jej trwałość.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Nadrukowana grafika</li><li>Obszycie z nadrukiem</li><li>Antypoślizgowa gumowa podstawa</li><li>Odporność na zawilgocenie</li><!-- KONIEC ATRYBUTÓW --></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Rodzaj produktu</p><p>podkładka pod mysz</p></li><li><p>Kolor</p><p>biały</p></li><li><p>Wymiary</p><p>900×400×3 mm (Dł.×Szer.×Wys.)</p></li><li><p>Materiał (góra)</p><p>tkanina</p></li><li><p>Właściwości</p><p>odporny na zawilgocenie</p></li><li><p>Kolor</p><p>wielokolorowy (wzór)</p></li><li><p>Materiał (spód)</p><p>Guma</p></li><li><p>Właściwości</p><p>antypoślizgowy</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Obszycie</p><p>tak</p></li><li><p>Zaokrąglenie</p><p>tak</p></li><li><p>Kolor</p><p>wielokolorowy (wzór)</p></li><li><p>Kompatybilność z myszkami/sensorami</p><p>optyczne/laserowe</p></li><!-- KONIEC ATRYBUTÓW --></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ENDORFY</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, kontakt@cooling.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/endorfy.jpg",
+  "images": [
+    "galerie/p/podkladka-endorfy-crystal-ony_69683.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69684.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69685.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69686.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69687.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69688.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69689.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69690.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69691.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69683.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69684.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69685.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69686.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69687.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69688.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69689.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69690.webp",
+    "galerie/p/podkladka-endorfy-crystal-ony_69691.webp"
+  ],
+  "manufacturer": "ENDORFY"
 }

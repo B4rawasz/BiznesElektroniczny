@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18130",
-    "code": "GAJO-671",
-    "name": "Przedłużka kolumny kierowniczej MOZA Wheel Base Extension Rod V2",
-    "price": 705.9,
-    "description": "<p>Dzięki przedłużeniu podstawy koła MOZA V2 możesz zwiększyć odległość między rozstawem osi a kierownicą o 15 cm. Na przykład rozstaw osi można ukryć za monitorem, co nada Twojemu zestawowi schludny, profesjonalny wygląd. Drążek wykonany jest z wysokiej jakości aluminium i posiada mechanizm szybkiego zwalniania umożliwiający szybką zmianę kierownicy MOZA.</p><p>Przedłużenie podstawy koła MOZA V2 jest kompatybilne ze wszystkimi rozstawami osi MOZA . W tym R12, R9 V2, R5 i R3, a także nowe R16 i R21. Dostępne są materiały i narzędzia montażowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>335 x 300 x 144 mm (szer. x wys. x głęb.)</p></li><li><p>Materiał</p><p>Aluminium</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Kompatybilne rozstawy osi</p><p>R12, R9 V2, R5, R3, R16, R21</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/p/przedluzka-kolumny-kierownicz_66770.webp",
-        "galerie/p/przedluzka-kolumny-kierownicz_66771.webp",
-        "galerie/p/przedluzka-kolumny-kierownicz_66772.webp",
-        "galerie/p/przedluzka-kolumny-kierownicz_66770.webp",
-        "galerie/p/przedluzka-kolumny-kierownicz_66771.webp",
-        "galerie/p/przedluzka-kolumny-kierownicz_66772.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18130",
+  "code": "GAJO-671",
+  "name": "Przedłużka kolumny kierowniczej MOZA Wheel Base Extension Rod V2",
+  "price": 705.9,
+  "description": "<p>Dzięki przedłużeniu podstawy koła MOZA V2 możesz zwiększyć odległość między rozstawem osi a kierownicą o 15 cm. Na przykład rozstaw osi można ukryć za monitorem, co nada Twojemu zestawowi schludny, profesjonalny wygląd. Drążek wykonany jest z wysokiej jakości aluminium i posiada mechanizm szybkiego zwalniania umożliwiający szybką zmianę kierownicy MOZA.</p><p>Przedłużenie podstawy koła MOZA V2 jest kompatybilne ze wszystkimi rozstawami osi MOZA . W tym R12, R9 V2, R5 i R3, a także nowe R16 i R21. Dostępne są materiały i narzędzia montażowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>335 x 300 x 144 mm (szer. x wys. x głęb.)</p></li><li><p>Materiał</p><p>Aluminium</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Kompatybilne rozstawy osi</p><p>R12, R9 V2, R5, R3, R16, R21</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/p/przedluzka-kolumny-kierownicz_66770.webp",
+    "galerie/p/przedluzka-kolumny-kierownicz_66771.webp",
+    "galerie/p/przedluzka-kolumny-kierownicz_66772.webp",
+    "galerie/p/przedluzka-kolumny-kierownicz_66770.webp",
+    "galerie/p/przedluzka-kolumny-kierownicz_66771.webp",
+    "galerie/p/przedluzka-kolumny-kierownicz_66772.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

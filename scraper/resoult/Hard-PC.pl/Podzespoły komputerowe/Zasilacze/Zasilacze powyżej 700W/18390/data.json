@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "18390",
-    "code": "0000006823",
-    "name": "Zasilacz Seasonic FOCUS GX-1000 White 80Plus Gold 1000W",
-    "price": 582.9,
-    "description": "<h2>Maksymalna Moc dla Twojego Komputera</h2><p>Zasilacz Seasonic FOCUS GX-1000 80Plus Gold 1000W to doskonały wybór dla wymagających użytkowników, którzy szukają najwyższej jakości zasilania dla swoich systemów komputerowych. Dzięki zaawansowanym technologiom i wysokiej sprawności energetycznej zapewnia stabilność działania oraz optymalną efektywność.</p><h2>Efektywność energetyczna na najwyższym poziomie</h2><p>Seasonic FOCUS GX-1000 posiada certyfikat 80Plus Gold, co oznacza sprawność sięgającą 90% przy standardowym obciążeniu. Efektywnie redukuje zużycie energii i straty cieplne, co pozytywnie wpływa na stabilność systemu oraz obniża rachunki za prąd.</p><h2>Inteligentne chłodzenie i cicha praca</h2><p>Unikalny system Seasonic Smart and Silent Fan Control (S2FC) dostosowuje prędkość wentylatora do aktualnego obciążenia, oferując trzy tryby pracy:</p><ul><li>♦ Tryb pasywny – wentylator jest całkowicie wyłączony przy niskim obciążeniu.</li><li>♦ Tryb cichy – minimalne obroty wentylatora dla cichej pracy.</li><li>♦ Chłodzenie aktywne – zwiększona prędkość obrotowa tylko przy wyższym obciążeniu.</li></ul><h2>Maksymalna wydajność w kompaktowej formie</h2><p>Dzięki zaawansowanej architekturze Seasonic FOCUS GX-1000 oferuje stabilną pracę i wysoką efektywność energetyczną, jednocześnie zachowując kompaktowe wymiary. To idealne rozwiązanie dla wymagających użytkowników, którzy potrzebują niezawodnego i cichego zasilacza do swojego komputera gamingowego lub stacji roboczej.</p><h2>Dlaczego warto wybrać Seasonic FOCUS GX-1000?</h2><p>Seasonic FOCUS GX-1000 80Plus Gold 1000W to doskonały wybór dla każdego, kto oczekuje wydajności, energooszczędności i trwałości. Dzięki zaawansowanej konstrukcji, inteligentnemu chłodzeniu jest to jeden z najlepszych zasilaczy na rynku. Postaw na sprawdzone rozwiązania i ciesz się niezawodnym działaniem swojego komputera przez lata!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Moc 1000W – zapewnia stabilne działanie nawet najbardziej wymagających konfiguracji.</li><li>Certyfikat 80Plus Gold – sprawność energetyczna na poziomie 90-92%, co oznacza mniejsze zużycie energii i niższą temperaturę pracy.</li><li>W pełni modularna konstrukcja – łatwe zarządzanie okablowaniem i lepszy przepływ powietrza w obudowie.</li><li>Zaawansowana topologia „full bridge” LLC oraz konwertery DC-DC – gwarantują doskonałą stabilność napięcia.</li><li>Potężna linia +12V – optymalne zasilanie dla wymagających podzespołów, takich jak procesory i karty graficzne.</li><li>Hybrydowy tryb wentylatora S3FC – cicha i efektywna praca dostosowana do obciążenia.</li><li>Cichy wentylator 135 mm FDB – zoptymalizowane chłodzenie przy minimalnym poziomie hałasu.</li><li>Kompaktowa konstrukcja – długość 140 mm ułatwia montaż w różnych obudowach ATX.</li><li>Zaawansowane zabezpieczenia OPP, OVP, UVP, SCP, OCP, OTP – pełna ochrona przed przeciążeniami i skokami napięcia.</li><li>Podwójne złącza CPU i kompatybilność z nowoczesnymi kartami graficznymi – idealny zarówno do komputerów gamingowych, jak i profesjonalnych stacji roboczych.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1000 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Biały</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Częściowa</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>25 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>25 A</p></li><li><p>Obciążalność linii +12V1</p><p>83 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>6</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>10</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>5</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>140 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/seasonic.jpg",
-    "images": [
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71371.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71372.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71373.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71374.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71376.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71375.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71371.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71372.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71373.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71374.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71376.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-10_71375.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "18390",
+  "code": "0000006823",
+  "name": "Zasilacz Seasonic FOCUS GX-1000 White 80Plus Gold 1000W",
+  "price": 582.9,
+  "description": "<h2>Maksymalna Moc dla Twojego Komputera</h2><p>Zasilacz Seasonic FOCUS GX-1000 80Plus Gold 1000W to doskonały wybór dla wymagających użytkowników, którzy szukają najwyższej jakości zasilania dla swoich systemów komputerowych. Dzięki zaawansowanym technologiom i wysokiej sprawności energetycznej zapewnia stabilność działania oraz optymalną efektywność.</p><h2>Efektywność energetyczna na najwyższym poziomie</h2><p>Seasonic FOCUS GX-1000 posiada certyfikat 80Plus Gold, co oznacza sprawność sięgającą 90% przy standardowym obciążeniu. Efektywnie redukuje zużycie energii i straty cieplne, co pozytywnie wpływa na stabilność systemu oraz obniża rachunki za prąd.</p><h2>Inteligentne chłodzenie i cicha praca</h2><p>Unikalny system Seasonic Smart and Silent Fan Control (S2FC) dostosowuje prędkość wentylatora do aktualnego obciążenia, oferując trzy tryby pracy:</p><ul><li>♦ Tryb pasywny – wentylator jest całkowicie wyłączony przy niskim obciążeniu.</li><li>♦ Tryb cichy – minimalne obroty wentylatora dla cichej pracy.</li><li>♦ Chłodzenie aktywne – zwiększona prędkość obrotowa tylko przy wyższym obciążeniu.</li></ul><h2>Maksymalna wydajność w kompaktowej formie</h2><p>Dzięki zaawansowanej architekturze Seasonic FOCUS GX-1000 oferuje stabilną pracę i wysoką efektywność energetyczną, jednocześnie zachowując kompaktowe wymiary. To idealne rozwiązanie dla wymagających użytkowników, którzy potrzebują niezawodnego i cichego zasilacza do swojego komputera gamingowego lub stacji roboczej.</p><h2>Dlaczego warto wybrać Seasonic FOCUS GX-1000?</h2><p>Seasonic FOCUS GX-1000 80Plus Gold 1000W to doskonały wybór dla każdego, kto oczekuje wydajności, energooszczędności i trwałości. Dzięki zaawansowanej konstrukcji, inteligentnemu chłodzeniu jest to jeden z najlepszych zasilaczy na rynku. Postaw na sprawdzone rozwiązania i ciesz się niezawodnym działaniem swojego komputera przez lata!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Moc 1000W – zapewnia stabilne działanie nawet najbardziej wymagających konfiguracji.</li><li>Certyfikat 80Plus Gold – sprawność energetyczna na poziomie 90-92%, co oznacza mniejsze zużycie energii i niższą temperaturę pracy.</li><li>W pełni modularna konstrukcja – łatwe zarządzanie okablowaniem i lepszy przepływ powietrza w obudowie.</li><li>Zaawansowana topologia „full bridge” LLC oraz konwertery DC-DC – gwarantują doskonałą stabilność napięcia.</li><li>Potężna linia +12V – optymalne zasilanie dla wymagających podzespołów, takich jak procesory i karty graficzne.</li><li>Hybrydowy tryb wentylatora S3FC – cicha i efektywna praca dostosowana do obciążenia.</li><li>Cichy wentylator 135 mm FDB – zoptymalizowane chłodzenie przy minimalnym poziomie hałasu.</li><li>Kompaktowa konstrukcja – długość 140 mm ułatwia montaż w różnych obudowach ATX.</li><li>Zaawansowane zabezpieczenia OPP, OVP, UVP, SCP, OCP, OTP – pełna ochrona przed przeciążeniami i skokami napięcia.</li><li>Podwójne złącza CPU i kompatybilność z nowoczesnymi kartami graficznymi – idealny zarówno do komputerów gamingowych, jak i profesjonalnych stacji roboczych.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1000 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Biały</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Częściowa</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>25 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>25 A</p></li><li><p>Obciążalność linii +12V1</p><p>83 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>6</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>10</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>5</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>140 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/seasonic.jpg",
+  "images": [
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71371.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71372.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71373.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71374.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71376.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71375.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71371.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71372.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71373.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71374.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71376.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-10_71375.webp"
+  ],
+  "manufacturer": "Seasonic"
 }

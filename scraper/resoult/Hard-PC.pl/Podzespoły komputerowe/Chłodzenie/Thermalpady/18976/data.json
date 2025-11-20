@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Thermalpady"
-    ],
-    "id": "18976",
-    "code": "ZUWA-345",
-    "name": "Thermalpad Thermal Grizzly Minus Pad Pro – 100x100x1,0 mm",
-    "price": 129.9,
-    "description": "<h2>Mocna alternatywa dla pasty termoprzewodzącej</h2><p>Dzięki Thermal Grizzly Minus Pad Pro, hamburski specjalista od chłodzenia rozszerza swoją ofertę o zaawansowane podkładki termiczne. Opierając się na swoim poprzedniku, Minus Pad 8, zostały one dodatkowo rozwinięte, aby znacznie poprawić przewodność cieplną.</p><h2>Idealny do trudnych zastosowań</h2><p>Minus Pad Pro jest idealny do zastosowań, w których trudno jest nałożyć pastę termoprzewodzącą lub w których konieczne jest wypełnienie szczeliny między źródłem ciepła a radiatorem. Dlatego idealnie nadaje się do stosowania z układami pamięci lub przetwornikami napięcia.</p><h2>Zaawansowana technologia</h2><p>Minus Pad Pro opiera się na kompleksie nośnika na bazie silikonu i tlenku glinu jako medium przenoszącym ciepło, osiągając przewodnictwo cieplne podobne do pasty termoprzewodzącej.</p><h2>Elastyczne dopasowanie grubości</h2><p>Minus Pad jest dostępny w różnych rozmiarach i grubościach od 0,5 do 3 milimetrów. Ponieważ działa optymalnie nawet przy minimalnym nacisku kontaktowym, a przewodność cieplna jest ledwie naruszona przez grubość, grubość należy po prostu dostosować do odległości, która ma zostać pokonana.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Długość</p><p>100 mm</p></li><li><p>Szerokość</p><p>100 mm</p></li><li><p>Wysokość</p><p>1 mm</p></li><li><p>Materiał</p><p>Tlenek glinu</p></li><li><p>Elektr. przewodność</p><p>Nie</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
-    "images": [
-        "galerie/t/thermalpad-thermal-grizzly-mi_76100.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76101.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76102.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76103.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76099.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76104.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76100.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76101.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76102.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76103.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76099.webp",
-        "galerie/t/thermalpad-thermal-grizzly-mi_76104.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "18976",
+  "code": "ZUWA-345",
+  "name": "Thermalpad Thermal Grizzly Minus Pad Pro – 100x100x1,0 mm",
+  "price": 129.9,
+  "description": "<h2>Mocna alternatywa dla pasty termoprzewodzącej</h2><p>Dzięki Thermal Grizzly Minus Pad Pro, hamburski specjalista od chłodzenia rozszerza swoją ofertę o zaawansowane podkładki termiczne. Opierając się na swoim poprzedniku, Minus Pad 8, zostały one dodatkowo rozwinięte, aby znacznie poprawić przewodność cieplną.</p><h2>Idealny do trudnych zastosowań</h2><p>Minus Pad Pro jest idealny do zastosowań, w których trudno jest nałożyć pastę termoprzewodzącą lub w których konieczne jest wypełnienie szczeliny między źródłem ciepła a radiatorem. Dlatego idealnie nadaje się do stosowania z układami pamięci lub przetwornikami napięcia.</p><h2>Zaawansowana technologia</h2><p>Minus Pad Pro opiera się na kompleksie nośnika na bazie silikonu i tlenku glinu jako medium przenoszącym ciepło, osiągając przewodnictwo cieplne podobne do pasty termoprzewodzącej.</p><h2>Elastyczne dopasowanie grubości</h2><p>Minus Pad jest dostępny w różnych rozmiarach i grubościach od 0,5 do 3 milimetrów. Ponieważ działa optymalnie nawet przy minimalnym nacisku kontaktowym, a przewodność cieplna jest ledwie naruszona przez grubość, grubość należy po prostu dostosować do odległości, która ma zostać pokonana.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Długość</p><p>100 mm</p></li><li><p>Szerokość</p><p>100 mm</p></li><li><p>Wysokość</p><p>1 mm</p></li><li><p>Materiał</p><p>Tlenek glinu</p></li><li><p>Elektr. przewodność</p><p>Nie</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/t/thermalpad-thermal-grizzly-mi_76100.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76101.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76102.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76103.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76099.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76104.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76100.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76101.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76102.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76103.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76099.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76104.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
 }

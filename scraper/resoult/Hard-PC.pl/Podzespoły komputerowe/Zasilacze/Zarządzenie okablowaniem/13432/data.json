@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zarządzenie okablowaniem"
-    ],
-    "id": "13432",
-    "code": "ZUAD-1167",
-    "name": "Grzebienie CableMod PRO Bridged Cable Comb - 12szt transparent",
-    "price": 62.9,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Plastik</p></li><li><p>Zawartość</p><p>4x 24 Pin<br/>4x 16 Pin<br/>4x 14 Pin</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>CableMod</p></li><li><p>Dane producenta</p><p>CableMod Limited, support@cablemod.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/cablemod.jpg",
-    "images": [
-        "galerie/g/grzebienie-cablemod-pro-bridg_48429.webp",
-        "galerie/g/grzebienie-cablemod-pro-bridg_48430.webp",
-        "galerie/g/grzebienie-cablemod-pro-bridg_48431.webp",
-        "galerie/g/grzebienie-cablemod-pro-bridg_48429.webp",
-        "galerie/g/grzebienie-cablemod-pro-bridg_48430.webp",
-        "galerie/g/grzebienie-cablemod-pro-bridg_48431.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "13432",
+  "code": "ZUAD-1167",
+  "name": "Grzebienie CableMod PRO Bridged Cable Comb - 12szt transparent",
+  "price": 62.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Plastik</p></li><li><p>Zawartość</p><p>4x 24 Pin<br/>4x 16 Pin<br/>4x 14 Pin</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>CableMod</p></li><li><p>Dane producenta</p><p>CableMod Limited, support@cablemod.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cablemod.jpg",
+  "images": [
+    "galerie/g/grzebienie-cablemod-pro-bridg_48429.webp",
+    "galerie/g/grzebienie-cablemod-pro-bridg_48430.webp",
+    "galerie/g/grzebienie-cablemod-pro-bridg_48431.webp",
+    "galerie/g/grzebienie-cablemod-pro-bridg_48429.webp",
+    "galerie/g/grzebienie-cablemod-pro-bridg_48430.webp",
+    "galerie/g/grzebienie-cablemod-pro-bridg_48431.webp"
+  ],
+  "manufacturer": "CableMod"
 }

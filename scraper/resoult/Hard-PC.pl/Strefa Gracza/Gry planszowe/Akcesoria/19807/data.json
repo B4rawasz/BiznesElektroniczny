@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Gry planszowe",
-        "Akcesoria"
-    ],
-    "id": "19807",
-    "code": "9918996011206",
-    "name": "Farbka Citadel Skeleton Horde 18ml (contrast)",
-    "price": 22.9,
-    "description": "<h2>Skeleton Horde – farba typu Contrast do malowania kości i kościanych elementów</h2><p>Skeleton Horde to farba z serii Citadel Contrast, stworzona specjalnie do malowania kości, czaszek i innych elementów o kościanym wyglądzie. Dzięki specjalnej formule, farba ta pozwala na szybkie uzyskanie efektu realistycznych, postarzonych kości, bez potrzeby stosowania dodatkowych warstw czy washowania.</p><p>Po nałożeniu na jasny podkład, taki jak Wraith Bone czy Grey Seer, Skeleton Horde tworzy naturalne cieniowanie, które świetnie podkreśla detale, nadając kościom autentyczny wygląd. Jest to idealna farba do malowania czaszek, szczątków, zębów oraz wszelkich kościanych ozdób, które pojawiają się w modelach związanych z nekromancją, martwymi armiami czy wrogami z ciemnych zakątków uniwersum Warhammera.</p><p>Dzięki Skeleton Horde uzyskasz realistyczne efekty w krótkim czasie, co sprawia, że jest to świetne rozwiązanie zarówno dla początkujących, jak i bardziej zaawansowanych malarzy.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
-    "manufacturer_img": "galerie/producenci/games-workshop.jpg",
-    "images": [
-        "galerie/f/farbka-citadel-skeleton-horde_73396.webp",
-        "galerie/f/farbka-citadel-skeleton-horde_73396.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Gry planszowe",
+    "Akcesoria"
+  ],
+  "id": "19807",
+  "code": "9918996011206",
+  "name": "Farbka Citadel Skeleton Horde 18ml (contrast)",
+  "price": 22.9,
+  "description": "<h2>Skeleton Horde – farba typu Contrast do malowania kości i kościanych elementów</h2><p>Skeleton Horde to farba z serii Citadel Contrast, stworzona specjalnie do malowania kości, czaszek i innych elementów o kościanym wyglądzie. Dzięki specjalnej formule, farba ta pozwala na szybkie uzyskanie efektu realistycznych, postarzonych kości, bez potrzeby stosowania dodatkowych warstw czy washowania.</p><p>Po nałożeniu na jasny podkład, taki jak Wraith Bone czy Grey Seer, Skeleton Horde tworzy naturalne cieniowanie, które świetnie podkreśla detale, nadając kościom autentyczny wygląd. Jest to idealna farba do malowania czaszek, szczątków, zębów oraz wszelkich kościanych ozdób, które pojawiają się w modelach związanych z nekromancją, martwymi armiami czy wrogami z ciemnych zakątków uniwersum Warhammera.</p><p>Dzięki Skeleton Horde uzyskasz realistyczne efekty w krótkim czasie, co sprawia, że jest to świetne rozwiązanie zarówno dla początkujących, jak i bardziej zaawansowanych malarzy.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
+  "manufacturer_img": "galerie/producenci/games-workshop.jpg",
+  "images": [
+    "galerie/f/farbka-citadel-skeleton-horde_73396.webp",
+    "galerie/f/farbka-citadel-skeleton-horde_73396.webp"
+  ],
+  "manufacturer": "Games Workshop"
 }

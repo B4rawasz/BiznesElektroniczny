@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 140mm"
-    ],
-    "id": "20440",
-    "code": "LUPH-106",
-    "name": "Wentylator Phanteks M25 Gen2 PWM D-RGB Fan 140mm - czarny",
-    "price": 46.9,
-    "description": "<h2>PHANTEKS M25 Gen2: Wydajność chłodzenia i wyjątkowa konstrukcja</h2><p>Wentylatory M25 Gen2 nie tylko skutecznie chłodzą komputer, ale również prezentują się olśniewająco. Ich innowacyjna konstrukcja łopatek zapewnia doskonały przepływ powietrza przy niskich prędkościach – nawet podczas pracy przed radiatorem lub za drobną siatką. Wbudowane oświetlenie RGB oraz lustro Infinity stanowią efektowne dopełnienie obudowy M25 Gen2, gwarantując niepowtarzalny wygląd.</p><h2>Niezwykle wydajny i cichy</h2><p>Hałas wentylatora może zakłócać rozgrywkę i utrudniać koncentrację. Dzięki hydrodynamicznym łożyskom ślizgowym, PHANTEKS M25 Gen2 działa naturalnie cicho, osiągając maksymalny poziom hałasu 35,13 dB(A). Zmniejszone tarcie pozwala na wyższą prędkość obrotową wentylatora przy tym samym zużyciu energii, co przekłada się na znacznie zwiększony przepływ powietrza i ponadprzeciętną wydajność – idealną do intensywnych sesji gamingowych.</p><h2>Idealne chłodzenie dla Twojego sprzętu high-end</h2><p>Zoptymalizowane łopatki wentylatora zapewniają bezproblemową współpracę z radiatorami. Wysokie ciśnienie statyczne na poziomie 2,23 mmH2O gwarantuje optymalny przepływ powietrza nawet przy niskich prędkościach, co przekłada się na doskonałe chłodzenie sprzętu high-end. Przepływ powietrza wynoszący 172,92 m³/h zapewnia stały dopływ świeżego powietrza do systemu.</p><h2>Zoptymalizowane zarządzanie okablowaniem dzięki LINQ6 i gumowym amortyzatorom zapewniającym cichą pracę</h2><p>Zoptymalizowane zarządzanie kablami pozwala na łatwą obsługę wielu wentylatorów w układzie szeregowym, wymagając jedynie jednego kabla combo PWM/RGB, który przesyła sygnał przez złącze LINQ6. Wbudowane gumowe bufory na rogach skutecznie zapobiegają przenoszeniu wibracji na obudowę, zapewniając niezmiennie cichą i stabilną pracę urządzenia.</p><h2>Stylowe oświetlenie RGB i lustra Infinity przyciągają wzrok</h2><p>Zintegrowane, adresowalne oświetlenie RGB w połączeniu z lustrem Infinity daje praktycznie nieograniczone możliwości iluminacji, pozwalając wyróżnić Twój komputer do gier z tłumu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wentylator PWM 140 mm w kolorze czarnym</li><li>Łączenie szeregowe dla kabli mniej widocznych</li><li>Zoptymalizowany do stosowania przed radiatorami lub za siatką</li><li>Cyfrowo adresowalne diody LED RGB i lustra Infinity</li><li>Maksymalna prędkość 1800 obr./min przy 35,13 dB(A)</li><li>Maksymalny przepływ 172,92 m³/h i maks. ciśnienie statyczne 2,23 mmH2O</li><li>Gumowe podkładki na rogach, które izolują przeszkadzające wibracje</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Długość / Głębokość</p><p>140 mm</p></li><li><p>Szerokość</p><p>140 mm</p></li><li><p>Wysokość wentylatora</p><p>25 mm</p></li><li><p>Rozmiar wentylatora</p><p>140 mm</p></li><li><p>Wyrównanie łopatek wentylatora</p><p>standard</p></li><li><p>min. prędkość wentylatora</p><p>350 obr./min</p></li><li><p>maksymalna prędkość wentylatora</p><p>1800 obr./min</p></li><li><p>maks. przepływ (pojedynczy wentylator)</p><p>172,92 m³/godz.</p></li><li><p>maksymalne ciśnienie statyczne</p><p>2,23 mmH2O</p></li><li><p>Napięcie nominalne</p><p>12 V</p></li><li><p>Napięcie początkowe</p><p>7 V</p></li><li><p>Maksymalny poziom hałasu wentylatora dB(A) (pojedynczy wentylator)</p><p>35,13 dB(A)</p></li><li><p>Złącza wentylatora</p><p>LINQ6</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Kolor oświetlenia</p><p>RGB</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/phanteks.jpg",
-    "images": [
-        "galerie/w/wentylator-phanteks-m25-gen2_77035.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77031.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77034.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77033.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77036.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77032.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77030.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77035.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77031.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77034.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77033.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77036.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77032.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_77030.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 140mm"
+  ],
+  "id": "20440",
+  "code": "LUPH-106",
+  "name": "Wentylator Phanteks M25 Gen2 PWM D-RGB Fan 140mm - czarny",
+  "price": 46.9,
+  "description": "<h2>PHANTEKS M25 Gen2: Wydajność chłodzenia i wyjątkowa konstrukcja</h2><p>Wentylatory M25 Gen2 nie tylko skutecznie chłodzą komputer, ale również prezentują się olśniewająco. Ich innowacyjna konstrukcja łopatek zapewnia doskonały przepływ powietrza przy niskich prędkościach – nawet podczas pracy przed radiatorem lub za drobną siatką. Wbudowane oświetlenie RGB oraz lustro Infinity stanowią efektowne dopełnienie obudowy M25 Gen2, gwarantując niepowtarzalny wygląd.</p><h2>Niezwykle wydajny i cichy</h2><p>Hałas wentylatora może zakłócać rozgrywkę i utrudniać koncentrację. Dzięki hydrodynamicznym łożyskom ślizgowym, PHANTEKS M25 Gen2 działa naturalnie cicho, osiągając maksymalny poziom hałasu 35,13 dB(A). Zmniejszone tarcie pozwala na wyższą prędkość obrotową wentylatora przy tym samym zużyciu energii, co przekłada się na znacznie zwiększony przepływ powietrza i ponadprzeciętną wydajność – idealną do intensywnych sesji gamingowych.</p><h2>Idealne chłodzenie dla Twojego sprzętu high-end</h2><p>Zoptymalizowane łopatki wentylatora zapewniają bezproblemową współpracę z radiatorami. Wysokie ciśnienie statyczne na poziomie 2,23 mmH2O gwarantuje optymalny przepływ powietrza nawet przy niskich prędkościach, co przekłada się na doskonałe chłodzenie sprzętu high-end. Przepływ powietrza wynoszący 172,92 m³/h zapewnia stały dopływ świeżego powietrza do systemu.</p><h2>Zoptymalizowane zarządzanie okablowaniem dzięki LINQ6 i gumowym amortyzatorom zapewniającym cichą pracę</h2><p>Zoptymalizowane zarządzanie kablami pozwala na łatwą obsługę wielu wentylatorów w układzie szeregowym, wymagając jedynie jednego kabla combo PWM/RGB, który przesyła sygnał przez złącze LINQ6. Wbudowane gumowe bufory na rogach skutecznie zapobiegają przenoszeniu wibracji na obudowę, zapewniając niezmiennie cichą i stabilną pracę urządzenia.</p><h2>Stylowe oświetlenie RGB i lustra Infinity przyciągają wzrok</h2><p>Zintegrowane, adresowalne oświetlenie RGB w połączeniu z lustrem Infinity daje praktycznie nieograniczone możliwości iluminacji, pozwalając wyróżnić Twój komputer do gier z tłumu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wentylator PWM 140 mm w kolorze czarnym</li><li>Łączenie szeregowe dla kabli mniej widocznych</li><li>Zoptymalizowany do stosowania przed radiatorami lub za siatką</li><li>Cyfrowo adresowalne diody LED RGB i lustra Infinity</li><li>Maksymalna prędkość 1800 obr./min przy 35,13 dB(A)</li><li>Maksymalny przepływ 172,92 m³/h i maks. ciśnienie statyczne 2,23 mmH2O</li><li>Gumowe podkładki na rogach, które izolują przeszkadzające wibracje</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Długość / Głębokość</p><p>140 mm</p></li><li><p>Szerokość</p><p>140 mm</p></li><li><p>Wysokość wentylatora</p><p>25 mm</p></li><li><p>Rozmiar wentylatora</p><p>140 mm</p></li><li><p>Wyrównanie łopatek wentylatora</p><p>standard</p></li><li><p>min. prędkość wentylatora</p><p>350 obr./min</p></li><li><p>maksymalna prędkość wentylatora</p><p>1800 obr./min</p></li><li><p>maks. przepływ (pojedynczy wentylator)</p><p>172,92 m³/godz.</p></li><li><p>maksymalne ciśnienie statyczne</p><p>2,23 mmH2O</p></li><li><p>Napięcie nominalne</p><p>12 V</p></li><li><p>Napięcie początkowe</p><p>7 V</p></li><li><p>Maksymalny poziom hałasu wentylatora dB(A) (pojedynczy wentylator)</p><p>35,13 dB(A)</p></li><li><p>Złącza wentylatora</p><p>LINQ6</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Kolor oświetlenia</p><p>RGB</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/w/wentylator-phanteks-m25-gen2_77035.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77031.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77034.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77033.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77036.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77032.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77030.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77035.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77031.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77034.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77033.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77036.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77032.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77030.webp"
+  ],
+  "manufacturer": "Phanteks"
 }

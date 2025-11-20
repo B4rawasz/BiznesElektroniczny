@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 120mm"
-    ],
-    "id": "18346",
-    "code": "ACFAN00248A",
-    "name": "Wentylator Arctic F12 120mm Czarny Value Pack (5szt)",
-    "price": 80.9,
-    "description": "OPIS <h2>Maksymalna cisza, minimalne wibracje</h2><p style=\"font-size: 12px; font-weight: 400;\">Nowy silnik ARCTIC, dzięki magnetyzacji sinusoidalnej, generuje zaledwie 5% wibracji w porównaniu do standardowych silników prądu stałego, co sprawia, że nawet przy niskich prędkościach obroty są niemal niesłyszalne.</p><h2>Innowacyjny projekt zapewniający cichą i efektywną wentylację</h2><p style=\"font-size: 12px; font-weight: 400;\">Łopatki wentylatora zostały zaprojektowane z myślą o maksymalnym przepływie powietrza przy jednoczesnym zminimalizowaniu hałasu. Konstrukcja wirnika zapewnia cichą pracę bez kompromisów w wydajności chłodzenia.</p><h2>Długowieczność dzięki łożyskom dynamicznym</h2><p style=\"font-size: 12px; font-weight: 400;\">Wentylator ARCTIC F12 korzysta z łożyska dynamicznego z kapsułą olejową, która zapobiega wyciekom smaru. Dzięki temu łożysko jest tak samo ciche, jak łożyska ślizgowe, ale cechuje się znacznie dłuższą żywotnością.</p><h2>Podwójna instalacja</h2><p style=\"font-size: 12px; font-weight: 400;\">Wentylator ARCTIC F12 można zainstalować na dwa sposoby – odprowadza ciepłe powietrze z obudowy lub zasysa chłodne do środka, zapewniając optymalny przepływ powietrza.</p><h2>Jakość, na której możesz polegać</h2><p style=\"font-size: 12px; font-weight: 400;\">ARCTIC przeprowadza rygorystyczne testy, aby zapewnić niezawodność i trwałość swoich produktów w trudnych warunkach. Dlatego na wentylatory ARCTIC F12 udzielana jest 6-letnia gwarancja producenta.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Prędkość wentylatora</p><p>1350 rpm</p></li><li><p>Przepływ powietrza</p><p>53 cfm | 90,1 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>1,00 mmH₂O</p></li><li><p>Poziom hałasu</p><p>0,3 Sone</p></li><li><p>Ramka wentylatora</p><p>Standardowa</p></li><li><p>Typ sterowania</p><p>Stała prędkość</p></li><li><p>Złącze</p><p>3-pinowe</p></li><li><p>Łożysko wentylatora</p><p>Łożysko dynamiczne cieczy</p></li><li><p>Temperatura otoczenia</p><p>0—40 °C</p></li><li><p>Charakterystyka elektryczna</p></li><li><p>Napięcie nominalne</p><p>12 V DC</p></li><li><p>Napięcie startowe</p><p>2,7 V</p></li><li><p>Prąd | Napięcie</p><p>0,12 A | 12 V DC</p></li><li><p>Długość kabla</p><p>400 mm</p></li><li><p>Wymiary i waga</p></li><li><p>Długość</p><p>120 mm</p></li><li><p>Szerokość</p><p>120 mm</p></li><li><p>Wysokość</p><p>25 mm</p></li><li><p>Waga</p><p>107 g</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/arctic.jpg",
-    "images": [
-        "galerie/w/wentylator-arctic-f12-120mm-c_68310.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68311.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68312.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68313.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68314.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68315.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68310.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68311.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68312.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68313.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68314.webp",
-        "galerie/w/wentylator-arctic-f12-120mm-c_68315.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "18346",
+  "code": "ACFAN00248A",
+  "name": "Wentylator Arctic F12 120mm Czarny Value Pack (5szt)",
+  "price": 80.9,
+  "description": "OPIS <h2>Maksymalna cisza, minimalne wibracje</h2><p style=\"font-size: 12px; font-weight: 400;\">Nowy silnik ARCTIC, dzięki magnetyzacji sinusoidalnej, generuje zaledwie 5% wibracji w porównaniu do standardowych silników prądu stałego, co sprawia, że nawet przy niskich prędkościach obroty są niemal niesłyszalne.</p><h2>Innowacyjny projekt zapewniający cichą i efektywną wentylację</h2><p style=\"font-size: 12px; font-weight: 400;\">Łopatki wentylatora zostały zaprojektowane z myślą o maksymalnym przepływie powietrza przy jednoczesnym zminimalizowaniu hałasu. Konstrukcja wirnika zapewnia cichą pracę bez kompromisów w wydajności chłodzenia.</p><h2>Długowieczność dzięki łożyskom dynamicznym</h2><p style=\"font-size: 12px; font-weight: 400;\">Wentylator ARCTIC F12 korzysta z łożyska dynamicznego z kapsułą olejową, która zapobiega wyciekom smaru. Dzięki temu łożysko jest tak samo ciche, jak łożyska ślizgowe, ale cechuje się znacznie dłuższą żywotnością.</p><h2>Podwójna instalacja</h2><p style=\"font-size: 12px; font-weight: 400;\">Wentylator ARCTIC F12 można zainstalować na dwa sposoby – odprowadza ciepłe powietrze z obudowy lub zasysa chłodne do środka, zapewniając optymalny przepływ powietrza.</p><h2>Jakość, na której możesz polegać</h2><p style=\"font-size: 12px; font-weight: 400;\">ARCTIC przeprowadza rygorystyczne testy, aby zapewnić niezawodność i trwałość swoich produktów w trudnych warunkach. Dlatego na wentylatory ARCTIC F12 udzielana jest 6-letnia gwarancja producenta.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Prędkość wentylatora</p><p>1350 rpm</p></li><li><p>Przepływ powietrza</p><p>53 cfm | 90,1 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>1,00 mmH₂O</p></li><li><p>Poziom hałasu</p><p>0,3 Sone</p></li><li><p>Ramka wentylatora</p><p>Standardowa</p></li><li><p>Typ sterowania</p><p>Stała prędkość</p></li><li><p>Złącze</p><p>3-pinowe</p></li><li><p>Łożysko wentylatora</p><p>Łożysko dynamiczne cieczy</p></li><li><p>Temperatura otoczenia</p><p>0—40 °C</p></li><li><p>Charakterystyka elektryczna</p></li><li><p>Napięcie nominalne</p><p>12 V DC</p></li><li><p>Napięcie startowe</p><p>2,7 V</p></li><li><p>Prąd | Napięcie</p><p>0,12 A | 12 V DC</p></li><li><p>Długość kabla</p><p>400 mm</p></li><li><p>Wymiary i waga</p></li><li><p>Długość</p><p>120 mm</p></li><li><p>Szerokość</p><p>120 mm</p></li><li><p>Wysokość</p><p>25 mm</p></li><li><p>Waga</p><p>107 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/arctic.jpg",
+  "images": [
+    "galerie/w/wentylator-arctic-f12-120mm-c_68310.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68311.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68312.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68313.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68314.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68315.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68310.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68311.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68312.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68313.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68314.webp",
+    "galerie/w/wentylator-arctic-f12-120mm-c_68315.webp"
+  ],
+  "manufacturer": "Arctic"
 }

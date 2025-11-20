@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy z oknem"
-    ],
-    "id": "20435",
-    "code": "GEPH-195",
-    "name": "Obudowa Phanteks Evolv X2 Mid Tower White",
-    "price": 699.0,
-    "description": "<h2>Phanteks Evolv X2: Elegancki design połączony z doskonałą funkcjonalnością</h2><p>Phanteks Evolv X2 to połączenie stylu i funkcjonalności. Konstrukcja z hartowanym szkłem na trzech bokach pozwala na imponujący widok na wnętrze komputera, a zintegrowane oświetlenie D-RGB na górze i dole obudowy podkreśla nowoczesny charakter i eksponuje komponenty.</p><h2>Obudowa komputera o wyjątkowej wydajności chłodzenia</h2><p>Evolv X2 zaprojektowano z myślą o optymalnym chłodzeniu. Pionowy system chłodzenia pozwala zasysać świeże powietrze od dołu i skutecznie odprowadzać ciepło na górę. Obudowa mieści do siedmiu wentylatorów 120 mm – trzy u góry, trzy na dole i jeden z tyłu. W pokrywie przewidziano miejsce na radiator o długości 360 mm.</p><h2>Dużo miejsca na sprzęt najwyższej klasy</h2><p>Obudowa obsługuje płyty główne E-ATX o szerokości do 280 mm oraz karty graficzne do 380 mm długości. Opcjonalny pionowy uchwyt pozwala efektownie wyeksponować kartę graficzną. Maksymalna wysokość chłodzenia procesora to 170 mm.</p><p>Miejsce na przechowywanie obejmuje dwa dyski twarde 3,5 cala lub dwa dyski SSD 2,5 cala, a także konfiguracje mieszane: jeden dysk twardy plus dwa dyski SSD, co zapewnia dużą elastyczność.</p><h2>Elegancja bez szwów i solidna konstrukcja</h2><p>Wykorzystanie obrabianej maszynowo stali, hartowanego szkła i szczotkowanego aluminium gwarantuje trwałość i estetykę. Ukryte kable i śruby oraz zamykane panele boczne z klapką pozwalają zachować schludny i elegancki wygląd obudowy.</p><h2>Bogato wyposażony panel I/O zapewniający najlepszą łączność</h2><p>Przedni panel oferuje port USB-C 3.2 Gen 2, dwa porty USB 3.0, gniazdo mikrofonowe/słuchawkowe oraz przyciski sterowania oświetleniem RGB. Przycisk zasilania i resetu wkomponowano w design obudowy.</p><h2>Udoskonalone zarządzanie kablami dzięki Back-Connect</h2><p>System zarządzania kablami wspiera płyty główne z tylnym złączem (np. MSI Project Zero, ASUS BTF), co pozwala na ukrycie wszystkich przewodów, zwiększając estetykę i poprawiając przepływ powietrza.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Elegancka obudowa wystawowa o doskonałej wydajności chłodzenia</li><li>Panel boczny i przedni ze szkła hartowanego zapewniający panoramiczny widok sprzętu</li><li>Optymalne chłodzenie dzięki miejscu na aż 7 wentylatorów 120 mm</li><li>Możliwość montażu radiatorów na pokrywie do 360 mm</li><li>Miejsce na karty graficzne o długości do 380 mm</li><li>Obsługuje duże płyty główne do E-ATX</li><li>Back Connect: kompatybilny z ASUS BTF i MSI Project Zero</li><li>Miejsce na chłodnice procesora o wysokości do 170 mm</li><li>Zintegrowane oświetlenie D-RGB z przodu</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Biały</p></li><li><p>Długość / Głębokość</p><p>454 mm</p></li><li><p>Szerokość</p><p>228 mm</p></li><li><p>Wysokość</p><p>588 mm</p></li><li><p>Waga</p><p>14,2 kg</p></li><li><p>Kompatybilne formaty płyt głównych</p><p>ATX, E-ATX, Micro ATX, Mini ATX</p></li><li><p>Maks. wysokość chłodnicy procesora</p><p>170 mm</p></li><li><p>Maks. długość karty graficznej</p><p>380 mm</p></li><li><p>Maks. długość/głębokość zasilacza</p><p>250 mm</p></li><li><p>Format zasilania</p><p>ATX</p></li><li><p>Wentylator 120 mm</p><p>7</p></li><li><p>Maksymalna kompatybilność z radiatorami</p><p>1x Potrójny (360 mm)</p></li><li><p>2,5 cala wewnętrznego</p><p>2</p></li><li><p>3,5 cala wewnętrznego</p><p>2</p></li><li><p>USB 3.2 (zewnętrzny) typu C</p><p>1</p></li><li><p>USB 3.0 (zewnętrzny) Typ A</p><p>2</p></li><li><p>Wyjścia i wejścia audio</p><p>1x wyjście/wejście combo (gniazdo 3,5 mm, 4-biegunowe, TRRS)</p></li><li><p>Panel boczny</p><p>z oknem</p></li><li><p>Zarządzanie kablami</p><p>Tak</p></li><li><p>W zestawie filtr przeciwkurzowy</p><p>Tak</p></li><li><p>BackConnect</p><p>Tak</p></li><li><p>Zgodność z Back-Connect</p><p>ASUS BTF, MSI Project Zero</p></li><li><p>Gniazda rozszerzeń/PCI</p><p>8</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Wentylator zainstalowany fabrycznie</p><p>NIE</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/phanteks.jpg",
-    "images": [
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77071.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77075.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77072.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77073.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77074.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77076.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77077.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77078.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77071.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77075.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77072.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77073.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77074.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77076.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77077.webp",
-        "galerie/o/obudowa-phanteks-evolv-x2-mid_77078.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "20435",
+  "code": "GEPH-195",
+  "name": "Obudowa Phanteks Evolv X2 Mid Tower White",
+  "price": 699.0,
+  "description": "<h2>Phanteks Evolv X2: Elegancki design połączony z doskonałą funkcjonalnością</h2><p>Phanteks Evolv X2 to połączenie stylu i funkcjonalności. Konstrukcja z hartowanym szkłem na trzech bokach pozwala na imponujący widok na wnętrze komputera, a zintegrowane oświetlenie D-RGB na górze i dole obudowy podkreśla nowoczesny charakter i eksponuje komponenty.</p><h2>Obudowa komputera o wyjątkowej wydajności chłodzenia</h2><p>Evolv X2 zaprojektowano z myślą o optymalnym chłodzeniu. Pionowy system chłodzenia pozwala zasysać świeże powietrze od dołu i skutecznie odprowadzać ciepło na górę. Obudowa mieści do siedmiu wentylatorów 120 mm – trzy u góry, trzy na dole i jeden z tyłu. W pokrywie przewidziano miejsce na radiator o długości 360 mm.</p><h2>Dużo miejsca na sprzęt najwyższej klasy</h2><p>Obudowa obsługuje płyty główne E-ATX o szerokości do 280 mm oraz karty graficzne do 380 mm długości. Opcjonalny pionowy uchwyt pozwala efektownie wyeksponować kartę graficzną. Maksymalna wysokość chłodzenia procesora to 170 mm.</p><p>Miejsce na przechowywanie obejmuje dwa dyski twarde 3,5 cala lub dwa dyski SSD 2,5 cala, a także konfiguracje mieszane: jeden dysk twardy plus dwa dyski SSD, co zapewnia dużą elastyczność.</p><h2>Elegancja bez szwów i solidna konstrukcja</h2><p>Wykorzystanie obrabianej maszynowo stali, hartowanego szkła i szczotkowanego aluminium gwarantuje trwałość i estetykę. Ukryte kable i śruby oraz zamykane panele boczne z klapką pozwalają zachować schludny i elegancki wygląd obudowy.</p><h2>Bogato wyposażony panel I/O zapewniający najlepszą łączność</h2><p>Przedni panel oferuje port USB-C 3.2 Gen 2, dwa porty USB 3.0, gniazdo mikrofonowe/słuchawkowe oraz przyciski sterowania oświetleniem RGB. Przycisk zasilania i resetu wkomponowano w design obudowy.</p><h2>Udoskonalone zarządzanie kablami dzięki Back-Connect</h2><p>System zarządzania kablami wspiera płyty główne z tylnym złączem (np. MSI Project Zero, ASUS BTF), co pozwala na ukrycie wszystkich przewodów, zwiększając estetykę i poprawiając przepływ powietrza.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Elegancka obudowa wystawowa o doskonałej wydajności chłodzenia</li><li>Panel boczny i przedni ze szkła hartowanego zapewniający panoramiczny widok sprzętu</li><li>Optymalne chłodzenie dzięki miejscu na aż 7 wentylatorów 120 mm</li><li>Możliwość montażu radiatorów na pokrywie do 360 mm</li><li>Miejsce na karty graficzne o długości do 380 mm</li><li>Obsługuje duże płyty główne do E-ATX</li><li>Back Connect: kompatybilny z ASUS BTF i MSI Project Zero</li><li>Miejsce na chłodnice procesora o wysokości do 170 mm</li><li>Zintegrowane oświetlenie D-RGB z przodu</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Biały</p></li><li><p>Długość / Głębokość</p><p>454 mm</p></li><li><p>Szerokość</p><p>228 mm</p></li><li><p>Wysokość</p><p>588 mm</p></li><li><p>Waga</p><p>14,2 kg</p></li><li><p>Kompatybilne formaty płyt głównych</p><p>ATX, E-ATX, Micro ATX, Mini ATX</p></li><li><p>Maks. wysokość chłodnicy procesora</p><p>170 mm</p></li><li><p>Maks. długość karty graficznej</p><p>380 mm</p></li><li><p>Maks. długość/głębokość zasilacza</p><p>250 mm</p></li><li><p>Format zasilania</p><p>ATX</p></li><li><p>Wentylator 120 mm</p><p>7</p></li><li><p>Maksymalna kompatybilność z radiatorami</p><p>1x Potrójny (360 mm)</p></li><li><p>2,5 cala wewnętrznego</p><p>2</p></li><li><p>3,5 cala wewnętrznego</p><p>2</p></li><li><p>USB 3.2 (zewnętrzny) typu C</p><p>1</p></li><li><p>USB 3.0 (zewnętrzny) Typ A</p><p>2</p></li><li><p>Wyjścia i wejścia audio</p><p>1x wyjście/wejście combo (gniazdo 3,5 mm, 4-biegunowe, TRRS)</p></li><li><p>Panel boczny</p><p>z oknem</p></li><li><p>Zarządzanie kablami</p><p>Tak</p></li><li><p>W zestawie filtr przeciwkurzowy</p><p>Tak</p></li><li><p>BackConnect</p><p>Tak</p></li><li><p>Zgodność z Back-Connect</p><p>ASUS BTF, MSI Project Zero</p></li><li><p>Gniazda rozszerzeń/PCI</p><p>8</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Wentylator zainstalowany fabrycznie</p><p>NIE</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77071.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77075.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77072.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77073.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77074.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77076.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77077.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77078.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77071.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77075.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77072.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77073.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77074.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77076.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77077.webp",
+    "galerie/o/obudowa-phanteks-evolv-x2-mid_77078.webp"
+  ],
+  "manufacturer": "Phanteks"
 }

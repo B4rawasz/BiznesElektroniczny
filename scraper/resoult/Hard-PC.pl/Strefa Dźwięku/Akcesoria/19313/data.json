@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "19313",
-    "code": "HS-PRO-LIGHT",
-    "name": "Stojak na słuchawki MOZOS HS PRO Light",
-    "price": 79.0,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Mozos HS-PRO drewniany wieszak na słuchawki.</h2><p>Mozos HS-PRO to elegancki i funkcjonalny stojak na słuchawki, który łączy w sobie wysoką jakość wykonania oraz nowoczesny design. Wykonany z naturalnego drewna jesionowego i wytrzymałego żelaza, stanowi doskonałe uzupełnienie każdego biurka, zarówno w domu, jak i w biurze. Jego minimalistyczna konstrukcja zapewnia estetyczny wygląd, jednocześnie dbając o bezpieczeństwo Twoich słuchawek. Dzięki kompaktowej podstawie o średnicy 11 cm Mozos HS-PRO zajmuje niewiele miejsca, zachowując przy tym pełną stabilność. To idealne rozwiązanie dla osób ceniących porządek i ergonomię. Wysokość 35 cm sprawia, że stojak nadaje się do przechowywania różnych modeli słuchawek nausznych, zapewniając im wygodne i bezpieczne miejsce do odpoczynku po długim użytkowaniu. Mozos HS-PRO wyróżnia się nie tylko estetyką, ale także solidnością.</p><figure><img alt=\"\" height=\"1000\" src=\"galerie/s/stojak-na-sluchawki-mozos-hs_71210.webp\" width=\"1500\"/></figure><h2>Duża stabilność i wysoka jakość wykończenia.</h2><p>Mimo lekkiej konstrukcji, ważącej jedynie 0,65 kg, stojak charakteryzuje się wysoką nośnością wynoszącą aż 1,5 kg. Dzięki temu bez problemu utrzyma nawet cięższe modele słuchawek, zapobiegając ich przypadkowemu zsunięciu czy uszkodzeniu. Jego stylowy wygląd doskonale komponuje się z różnymi aranżacjami wnętrz – zarówno nowoczesnymi, jak i klasycznymi. Połączenie naturalnego drewna z metalową konstrukcją nadaje mu unikalnego charakteru, który przyciąga wzrok i podkreśla ekskluzywny charakter Twojego sprzętu audio. Stojak Mozos HS-PRO to idealne rozwiązanie dla miłośników muzyki, graczy oraz profesjonalistów, którzy chcą zadbać o swoje słuchawki w najlepszy możliwy sposób. Wybierz trwałość, elegancję i funkcjonalność – postaw na Mozos HS-PRO i ciesz się uporządkowaną przestrzenią każdego dnia. W zestawie znajduje się uchwyt Mozos HS-PRO. Inne elementy mają jedynie ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Wysoka jakość wykonania przy zachowaniu dużej stabilności.</li><li>Duża wysokość pozwala na stosowanie nawet rozbudowanych słuchawek wokółusznych.</li><li>Minimalistyczny, elegancki wygląd z zastosowaniem naturalnych produktów.</li><li>Wieszak neutralny dla pałąka – nie rozciąga ani nie deformuje nausznic.</li><li>Jakość Premium w niewygórowanej cenie.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>drewno jesionowe, żelazo.</p></li><li><p>Średnica podstawy</p><p>11 cm.</p></li><li><p>Wysokość</p><p>35 cm.</p></li><li><p>Waga netto</p><p>0,65 kg.</p></li><li><p>Waga brutto</p><p>0,75 kg.</p></li><li><p>Maksymalne obciążenie</p><p>1,5 kg.</p></li><li><p>Logo producenta</p><p>tak.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71226.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71227.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71228.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71229.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71230.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71231.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71232.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71226.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71227.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71228.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71229.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71230.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71231.webp",
-        "galerie/s/stojak-na-sluchawki-mozos-hs_71232.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "19313",
+  "code": "HS-PRO-LIGHT",
+  "name": "Stojak na słuchawki MOZOS HS PRO Light",
+  "price": 79.0,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Mozos HS-PRO drewniany wieszak na słuchawki.</h2><p>Mozos HS-PRO to elegancki i funkcjonalny stojak na słuchawki, który łączy w sobie wysoką jakość wykonania oraz nowoczesny design. Wykonany z naturalnego drewna jesionowego i wytrzymałego żelaza, stanowi doskonałe uzupełnienie każdego biurka, zarówno w domu, jak i w biurze. Jego minimalistyczna konstrukcja zapewnia estetyczny wygląd, jednocześnie dbając o bezpieczeństwo Twoich słuchawek. Dzięki kompaktowej podstawie o średnicy 11 cm Mozos HS-PRO zajmuje niewiele miejsca, zachowując przy tym pełną stabilność. To idealne rozwiązanie dla osób ceniących porządek i ergonomię. Wysokość 35 cm sprawia, że stojak nadaje się do przechowywania różnych modeli słuchawek nausznych, zapewniając im wygodne i bezpieczne miejsce do odpoczynku po długim użytkowaniu. Mozos HS-PRO wyróżnia się nie tylko estetyką, ale także solidnością.</p><figure><img alt=\"\" height=\"1000\" src=\"galerie/s/stojak-na-sluchawki-mozos-hs_71210.webp\" width=\"1500\"/></figure><h2>Duża stabilność i wysoka jakość wykończenia.</h2><p>Mimo lekkiej konstrukcji, ważącej jedynie 0,65 kg, stojak charakteryzuje się wysoką nośnością wynoszącą aż 1,5 kg. Dzięki temu bez problemu utrzyma nawet cięższe modele słuchawek, zapobiegając ich przypadkowemu zsunięciu czy uszkodzeniu. Jego stylowy wygląd doskonale komponuje się z różnymi aranżacjami wnętrz – zarówno nowoczesnymi, jak i klasycznymi. Połączenie naturalnego drewna z metalową konstrukcją nadaje mu unikalnego charakteru, który przyciąga wzrok i podkreśla ekskluzywny charakter Twojego sprzętu audio. Stojak Mozos HS-PRO to idealne rozwiązanie dla miłośników muzyki, graczy oraz profesjonalistów, którzy chcą zadbać o swoje słuchawki w najlepszy możliwy sposób. Wybierz trwałość, elegancję i funkcjonalność – postaw na Mozos HS-PRO i ciesz się uporządkowaną przestrzenią każdego dnia. W zestawie znajduje się uchwyt Mozos HS-PRO. Inne elementy mają jedynie ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><li>Wysoka jakość wykonania przy zachowaniu dużej stabilności.</li><li>Duża wysokość pozwala na stosowanie nawet rozbudowanych słuchawek wokółusznych.</li><li>Minimalistyczny, elegancki wygląd z zastosowaniem naturalnych produktów.</li><li>Wieszak neutralny dla pałąka – nie rozciąga ani nie deformuje nausznic.</li><li>Jakość Premium w niewygórowanej cenie.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>drewno jesionowe, żelazo.</p></li><li><p>Średnica podstawy</p><p>11 cm.</p></li><li><p>Wysokość</p><p>35 cm.</p></li><li><p>Waga netto</p><p>0,65 kg.</p></li><li><p>Waga brutto</p><p>0,75 kg.</p></li><li><p>Maksymalne obciążenie</p><p>1,5 kg.</p></li><li><p>Logo producenta</p><p>tak.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71226.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71227.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71228.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71229.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71230.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71231.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71232.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71226.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71227.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71228.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71229.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71230.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71231.webp",
+    "galerie/s/stojak-na-sluchawki-mozos-hs_71232.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

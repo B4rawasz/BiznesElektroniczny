@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia na CPU"
-    ],
-    "id": "17670",
-    "code": "CPDC-023",
-    "name": "Chłodzenie DeepCool AN600 120mm Black",
-    "price": 215.9,
-    "description": "<p>Chłodnica procesora DeepCool AN600 przeznaczona jest dla procesorów Intel i AMD . Dzięki łożyskowaniu wentylator jest trwały i cichy. Łożysko jest odporne na zanieczyszczenia i wysokie temperatury . Dzięki sterowaniu PWM i silnikowi 6-fazowemu wentylator pracuje również z przyjemną głośnością.</p><h2>Maksymalne chłodzenie przy minimalnych rozmiarach</h2><p>Aluminiowy rdzeń styka się bezpośrednio z rozpraszaczem ciepła procesora, a także z żeberkami chłodzącymi, które są rozmieszczone po okręgu. Dzięki swojej konstrukcji oferują większą powierzchnię i jeszcze lepiej odprowadzają pochłonięte ciepło.</p><h2>Łatwy montaż</h2><p>Dzięki mechanizmowi montażowemu montaż chłodnicy jest bardzo prosty . Wystarczy umieścić go nad otworami montażowymi, a następnie przykręcić do dostarczonej metalowej płytki. Konstrukcja skierowana od góry oznacza, że ​​nie musisz się martwić, że duże radiatory lub wentylatory będą przeszkadzać.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>122 × 120 × 67 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>tworzywo sztuczne, aluminium, miedź</p></li><li><p>Waga</p><p>1198g</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Rurki cieplne</p><p>5x Ø 6 mm</p></li><li><p>Wydajność chłodzenia</p><p>TDP 180 W</p></li><li><p>Wentylator</p><p>1x 120 mm PWM (maks. 1850 obr./min)</p></li><li><p>Złącze</p><p>4-pinowe PWM</p></li><li><p>Głośność całkowita</p><p>maks. 30 dB(A)</p></li><li><p>Kompatybilność</p><p>Intel Socket LGA 1700, 1200, 1151, 1150, 1155<br/>AMD Socket AM5, AM4</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/deepcool.jpg",
-    "images": [
-        "galerie/c/chlodzenie-deepcool-an600-120_65471.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65472.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65473.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65474.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65475.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65476.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65477.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65471.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65472.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65473.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65474.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65475.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65476.webp",
-        "galerie/c/chlodzenie-deepcool-an600-120_65477.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "17670",
+  "code": "CPDC-023",
+  "name": "Chłodzenie DeepCool AN600 120mm Black",
+  "price": 215.9,
+  "description": "<p>Chłodnica procesora DeepCool AN600 przeznaczona jest dla procesorów Intel i AMD . Dzięki łożyskowaniu wentylator jest trwały i cichy. Łożysko jest odporne na zanieczyszczenia i wysokie temperatury . Dzięki sterowaniu PWM i silnikowi 6-fazowemu wentylator pracuje również z przyjemną głośnością.</p><h2>Maksymalne chłodzenie przy minimalnych rozmiarach</h2><p>Aluminiowy rdzeń styka się bezpośrednio z rozpraszaczem ciepła procesora, a także z żeberkami chłodzącymi, które są rozmieszczone po okręgu. Dzięki swojej konstrukcji oferują większą powierzchnię i jeszcze lepiej odprowadzają pochłonięte ciepło.</p><h2>Łatwy montaż</h2><p>Dzięki mechanizmowi montażowemu montaż chłodnicy jest bardzo prosty . Wystarczy umieścić go nad otworami montażowymi, a następnie przykręcić do dostarczonej metalowej płytki. Konstrukcja skierowana od góry oznacza, że ​​nie musisz się martwić, że duże radiatory lub wentylatory będą przeszkadzać.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>122 × 120 × 67 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>tworzywo sztuczne, aluminium, miedź</p></li><li><p>Waga</p><p>1198g</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Rurki cieplne</p><p>5x Ø 6 mm</p></li><li><p>Wydajność chłodzenia</p><p>TDP 180 W</p></li><li><p>Wentylator</p><p>1x 120 mm PWM (maks. 1850 obr./min)</p></li><li><p>Złącze</p><p>4-pinowe PWM</p></li><li><p>Głośność całkowita</p><p>maks. 30 dB(A)</p></li><li><p>Kompatybilność</p><p>Intel Socket LGA 1700, 1200, 1151, 1150, 1155<br/>AMD Socket AM5, AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/c/chlodzenie-deepcool-an600-120_65471.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65472.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65473.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65474.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65475.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65476.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65477.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65471.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65472.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65473.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65474.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65475.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65476.webp",
+    "galerie/c/chlodzenie-deepcool-an600-120_65477.webp"
+  ],
+  "manufacturer": "DeepCool"
 }

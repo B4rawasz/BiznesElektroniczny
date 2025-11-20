@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "18743",
-    "code": "ASM-6",
-    "name": "Adapter USB-C - Lightning MOZOS ASM-6 Przejściówka",
-    "price": 14.9,
-    "description": "<h2>MOZOS ASM-6 to adapter audio USB-C – Lightning.</h2><p>Adapter Mozos ASM-6 umożliwia łatwe połączenie urządzeń z różnymi portami, zapewniając pełną kompatybilność w jednym, kompaktowym akcesorium. Jego wyjątkowo małe wymiary (16x12x7 mm) oraz niska waga (tylko 2 g) sprawiają, że jest idealny do codziennego użytku, łatwy do przenoszenia i doskonale sprawdza się w podróży. Adapter jest wykonany z trwałego aluminium, co zwiększa jego wytrzymałość i chroni przed uszkodzeniami mechanicznymi. Jest to dedykowany adapter do mikrofonu Mozos MX2-DUAL i SINGLE. Zapewnia kompatybilność również z innymi urządzeniami.</p><h2>Uniwersalna kompatybilność z telefonami apple.</h2><p>Dzięki wszechstronnej kompatybilności adapter MOZOS ASM-6 obsługuje szeroki wachlarz urządzeń, takich jak zestawy słuchawkowe cyfrowe, mikrofony bezprzewodowe, karty dźwiękowe i ładowarki. Adapter zapewnia stabilne zasilanie 5V, gwarantując płynne działanie bez zakłóceń. Jest to idealne rozwiązanie dla użytkowników poszukujących wydajności i mobilności w jednym. Wybierając adapter MOZOS ASM-6, zyskujesz niezawodność, styl i funkcjonalność, które ułatwią codzienne korzystanie z różnorodnych urządzeń. W zestawie jest Adapter Mozos ASM-6. Inne elementy mają ukazać jedynie przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Dedykowany adapter audio USB-C – Lighting do mikrofonu Mozos MX2.</li><li>Niewielkie wymiary 16x12x7 mm i waga jedynie 2 g zapewniają wygodę użytkowania w podróży.</li><li>Obudowa wykonana ze stopu aluminium zwiększa trwałość i wydłuża żywotność adaptera.</li><li>Obsługuje zestawy słuchawkowe cyfrowe, mikrofony bezprzewodowe, karty dźwiękowe oraz ładowanie, zapewniając maksymalną elastyczność.</li><li>Zapewnia stabilne zasilanie 5V, gwarantując niezawodne działanie na różnych urządzeniach.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>obudowa ze stopu aluminium</p></li><li><p>Wymiary</p><p>16x12x7 mm</p></li><li><p>Waga netto</p><p>2 g</p></li><li><p>Napięcie zasilania</p><p>5V</p></li><li><p>Obsługa</p><p>zestaw słuchawkowy cyfrowy, mikrofon bezprzewodowy, karta dźwiękowa, ładowanie</p></li><li><p>Funkcja OTG</p><p>Tak.</p></li><li><p>Transfer 2-stronny</p><p>Tak.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/a/adapter-usb-c-lightning-mozos_69060.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69061.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69062.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69063.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69064.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69065.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69066.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69067.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69060.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69061.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69062.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69063.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69064.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69065.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69066.webp",
-        "galerie/a/adapter-usb-c-lightning-mozos_69067.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "18743",
+  "code": "ASM-6",
+  "name": "Adapter USB-C - Lightning MOZOS ASM-6 Przejściówka",
+  "price": 14.9,
+  "description": "<h2>MOZOS ASM-6 to adapter audio USB-C – Lightning.</h2><p>Adapter Mozos ASM-6 umożliwia łatwe połączenie urządzeń z różnymi portami, zapewniając pełną kompatybilność w jednym, kompaktowym akcesorium. Jego wyjątkowo małe wymiary (16x12x7 mm) oraz niska waga (tylko 2 g) sprawiają, że jest idealny do codziennego użytku, łatwy do przenoszenia i doskonale sprawdza się w podróży. Adapter jest wykonany z trwałego aluminium, co zwiększa jego wytrzymałość i chroni przed uszkodzeniami mechanicznymi. Jest to dedykowany adapter do mikrofonu Mozos MX2-DUAL i SINGLE. Zapewnia kompatybilność również z innymi urządzeniami.</p><h2>Uniwersalna kompatybilność z telefonami apple.</h2><p>Dzięki wszechstronnej kompatybilności adapter MOZOS ASM-6 obsługuje szeroki wachlarz urządzeń, takich jak zestawy słuchawkowe cyfrowe, mikrofony bezprzewodowe, karty dźwiękowe i ładowarki. Adapter zapewnia stabilne zasilanie 5V, gwarantując płynne działanie bez zakłóceń. Jest to idealne rozwiązanie dla użytkowników poszukujących wydajności i mobilności w jednym. Wybierając adapter MOZOS ASM-6, zyskujesz niezawodność, styl i funkcjonalność, które ułatwią codzienne korzystanie z różnorodnych urządzeń. W zestawie jest Adapter Mozos ASM-6. Inne elementy mają ukazać jedynie przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Dedykowany adapter audio USB-C – Lighting do mikrofonu Mozos MX2.</li><li>Niewielkie wymiary 16x12x7 mm i waga jedynie 2 g zapewniają wygodę użytkowania w podróży.</li><li>Obudowa wykonana ze stopu aluminium zwiększa trwałość i wydłuża żywotność adaptera.</li><li>Obsługuje zestawy słuchawkowe cyfrowe, mikrofony bezprzewodowe, karty dźwiękowe oraz ładowanie, zapewniając maksymalną elastyczność.</li><li>Zapewnia stabilne zasilanie 5V, gwarantując niezawodne działanie na różnych urządzeniach.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>obudowa ze stopu aluminium</p></li><li><p>Wymiary</p><p>16x12x7 mm</p></li><li><p>Waga netto</p><p>2 g</p></li><li><p>Napięcie zasilania</p><p>5V</p></li><li><p>Obsługa</p><p>zestaw słuchawkowy cyfrowy, mikrofon bezprzewodowy, karta dźwiękowa, ładowanie</p></li><li><p>Funkcja OTG</p><p>Tak.</p></li><li><p>Transfer 2-stronny</p><p>Tak.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/a/adapter-usb-c-lightning-mozos_69060.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69061.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69062.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69063.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69064.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69065.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69066.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69067.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69060.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69061.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69062.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69063.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69064.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69065.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69066.webp",
+    "galerie/a/adapter-usb-c-lightning-mozos_69067.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

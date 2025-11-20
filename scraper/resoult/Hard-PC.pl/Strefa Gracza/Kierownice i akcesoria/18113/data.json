@@ -1,20 +1,21 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18113",
-    "code": "GAJO-454",
-    "name": "Zestaw MOZA ES Formula Wheel Rim Mod - (28 cm)",
-    "price": 218.9,
-    "description": "<p>Zmień wygląd swojej kierownicy na wyścigowy styl Formuły 1! Dzięki obręczy MOZA ES Formula, możesz przekształcić standardową kierownicę MOZA ES z wyglądu GT na elegancki wygląd wyścigowy.</p><h2>Precyzyjne Wykonanie</h2><p>Aluminiowa płyta o grubości 4 mm zapewnia trwałość i nowoczesny wygląd. Płytka jest łatwa do zamontowania w miejscu standardowej płytki GT, co pozwala na szybkie przekształcenie kierownicy w stylu Formuły 1.</p><h2>Prosta instalacja</h2><p>Dzięki precyzyjnemu dopasowaniu, montaż jest szybki i bezproblemowy. Idealne rozwiązanie dla każdego, kto chce wzbogacić swoje doświadczenia wyścigowe.</p><h2>Gumowane powierzchnie dla maksymalnej kontroli</h2><p>Optymalna Kontrola: Gumowane powierzchnie zapewniają pewny chwyt i doskonałą kontrolę nad pojazdem, nawet w najcięższych warunkach wyścigowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>320 x 5 x 180 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>0,5 kg</p></li><li><p>Materiał</p><p>aluminium, TPU</p></li><li><p>Kolor</p><p>czarny, szary</p></li><li><p>Kompatybilne produkty MOZA</p><p>Kierownica MOZA ES</p></li><li><p>W zestawie</p><p>1x Obręcz koła MOZA ES Formula<br/>1x zestaw montażowy i akcesoria</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/m/moza-es-formula-wheel-rim-mod_66659.webp",
-        "galerie/m/moza-es-formula-wheel-rim-mod_66660.webp",
-        "galerie/m/moza-es-formula-wheel-rim-mod_66659.webp",
-        "galerie/m/moza-es-formula-wheel-rim-mod_66660.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18113",
+  "code": "GAJO-454",
+  "name": "Zestaw MOZA ES Formula Wheel Rim Mod - (28 cm)",
+  "price": 218.9,
+  "description": "<p>Zmień wygląd swojej kierownicy na wyścigowy styl Formuły 1! Dzięki obręczy MOZA ES Formula, możesz przekształcić standardową kierownicę MOZA ES z wyglądu GT na elegancki wygląd wyścigowy.</p><h2>Precyzyjne Wykonanie</h2><p>Aluminiowa płyta o grubości 4 mm zapewnia trwałość i nowoczesny wygląd. Płytka jest łatwa do zamontowania w miejscu standardowej płytki GT, co pozwala na szybkie przekształcenie kierownicy w stylu Formuły 1.</p><h2>Prosta instalacja</h2><p>Dzięki precyzyjnemu dopasowaniu, montaż jest szybki i bezproblemowy. Idealne rozwiązanie dla każdego, kto chce wzbogacić swoje doświadczenia wyścigowe.</p><h2>Gumowane powierzchnie dla maksymalnej kontroli</h2><p>Optymalna Kontrola: Gumowane powierzchnie zapewniają pewny chwyt i doskonałą kontrolę nad pojazdem, nawet w najcięższych warunkach wyścigowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>320 x 5 x 180 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>0,5 kg</p></li><li><p>Materiał</p><p>aluminium, TPU</p></li><li><p>Kolor</p><p>czarny, szary</p></li><li><p>Kompatybilne produkty MOZA</p><p>Kierownica MOZA ES</p></li><li><p>W zestawie</p><p>1x Obręcz koła MOZA ES Formula<br/>1x zestaw montażowy i akcesoria</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/moza-es-formula-wheel-rim-mod_66659.webp",
+    "galerie/m/moza-es-formula-wheel-rim-mod_66660.webp",
+    "galerie/m/moza-es-formula-wheel-rim-mod_66659.webp",
+    "galerie/m/moza-es-formula-wheel-rim-mod_66660.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

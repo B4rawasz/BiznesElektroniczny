@@ -1,18 +1,19 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "16205",
-    "code": "Y-C956ABK",
-    "name": "Przewód Unitek mini-jack 3,5mm (M) - 2x 3,5mm (F)",
-    "price": 19.99,
-    "description": "<p>Adapter słuchawkowy Unitek pozwala podłączyć 2 słuchawki do urządzenia, które posiada tylko jedno gniazdo miniJack. Przydatny, gdy dwie osoby chcą słuchać na słuchawkach tego samego medium w cichym otoczeniu (np. pociąg, samolot, samochód) lub chcemy mieć podłączone głośniki i słuchawki do jednego odbiornika.</p><h2>Solidne wykonanie</h2><p>Aluminiowe wtyki, pozłacane końcówki oraz wysoka jakość użytych materiałów sprawiają, że adapter nie tylko przenosi dźwięk bez żadnych zniekształceń ale także będzie nam służył przez długi czas.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Złącze 2</p><p>Port audio 3.5mm</p></li><li><p>Złącze 1</p><p>Wtyk audio 3.5mm</p></li><li><p>Ilość portów audio 3.5mm</p><p>2 szt</p></li><li><p>Obsługiwane technologie</p><p>Plug &amp; Play</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/p/przewod-unitek-mini-jack-3-5m_57605.webp",
-        "galerie/p/przewod-unitek-mini-jack-3-5m_57605.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "16205",
+  "code": "Y-C956ABK",
+  "name": "Przewód Unitek mini-jack 3,5mm (M) - 2x 3,5mm (F)",
+  "price": 19.99,
+  "description": "<p>Adapter słuchawkowy Unitek pozwala podłączyć 2 słuchawki do urządzenia, które posiada tylko jedno gniazdo miniJack. Przydatny, gdy dwie osoby chcą słuchać na słuchawkach tego samego medium w cichym otoczeniu (np. pociąg, samolot, samochód) lub chcemy mieć podłączone głośniki i słuchawki do jednego odbiornika.</p><h2>Solidne wykonanie</h2><p>Aluminiowe wtyki, pozłacane końcówki oraz wysoka jakość użytych materiałów sprawiają, że adapter nie tylko przenosi dźwięk bez żadnych zniekształceń ale także będzie nam służył przez długi czas.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Złącze 2</p><p>Port audio 3.5mm</p></li><li><p>Złącze 1</p><p>Wtyk audio 3.5mm</p></li><li><p>Ilość portów audio 3.5mm</p><p>2 szt</p></li><li><p>Obsługiwane technologie</p><p>Plug &amp; Play</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/p/przewod-unitek-mini-jack-3-5m_57605.webp",
+    "galerie/p/przewod-unitek-mini-jack-3-5m_57605.webp"
+  ],
+  "manufacturer": "Unitek"
 }

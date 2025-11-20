@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki dokanałowe/douszne"
-    ],
-    "id": "15982",
-    "code": "FD5",
-    "name": "Słuchawki dokanałowe FiiO FD5",
-    "price": 1499.0,
-    "description": "<p>Przedstawiamy Ci prawdziwą rewolucję w świecie dźwięku - Fiio FD5, flagowe słuchawki dokanałowe, które otwierają przed Tobą zupełnie nowe brzmieniowe horyzonty.</p><p>W sercu tych wyjątkowych słuchawek tętni pojedynczy przetwornik dynamiczny o imponującej średnicy 12mm. Co sprawia, że FD5 są tak wyjątkowe? Ich membrana, delikatnie powleczona berylem, to tajemnica, która minimalizuje zniekształcenia i podnosi dynamikę dźwięku. Wynikiem jest pełne pasmo dźwiękowe, w którym każda nuta odgrywa swoją rolę - od głębokich basów, przez soczystą średnicę, aż po klarowne, krystaliczne wysokie tony. To brzmienie, które wciąga, zachwyca i odkrywa przed Tobą najdrobniejsze niuanse muzycznej rzeczywistości.</p><p>Kabel to nie tylko połączenie - to łącznik między Tobą a muzyką. Fiio FD5 zyskują dodatkowy wymiar dzięki odpinanemu kablowi z złączem MMCX. Ale to nie wszystko. Przygotowaliśmy dla Ciebie prawdziwą paletę możliwości dzięki wymiennym końcówkom jack. Odtwarzaj swoją ulubioną muzykę w zależności od swojego nastroju - 2,5mm, 3,5mm lub 4,4mm, wybór należy do Ciebie. Sam kabel został wykonany z najwyższej jakości posrebrzanej miedzi, co przekłada się na klarowność i czystość dźwięku, której nigdy wcześniej nie doświadczyłeś.</p><p>Jakość dźwięku spotyka innowację - Fiio FD5 to nie tylko słuchawki, to spektakl dźwięku, który zachwyca każdym dźwiękiem. Ich zdolność do oddania każdego niuansu dźwięku sprawia, że możesz cieszyć się ulubioną muzyką tak, jak tego chciał artysta. Wyraziste brzmienie, wyjątkowa rozdzielczość i niesamowita koherencja sprawiają, że to dźwięk, który wciąga i trzyma Cię w napięciu.</p><p>Przygotuj się na muzyczną podróż, której nigdy nie zapomnisz. Fiio FD5 - to nie tylko słuchawki, to brama do dźwiękowego raju. Czas na nowe brzmieniowe doznania. Czas na FD5.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przetwornik</p><p>dynamiczny</p></li><li><p>Pasmo przenoszenia</p><p>10Hz - 40kHz</p></li><li><p>Impedancja</p><p>32 Ohm</p></li><li><p>Skuteczność</p><p>109 dB@1mW</p></li><li><p>Długość kabla</p><p>1,2 m</p></li><li><p>Akcesoria w zestawie</p><p>skorzany pokrowiec, silikonowe nakładki w czeterch rodzajach, pianki, przyrząd do odpinania kabla, czyścik do słuchawek</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>FiiO</p></li><li><p>Dane producenta</p><p>FIIO Electronics Technology Co., Ltd., No.21 Longliang Road, Xialiang village, Longgui Street, Baiyun District, Guangzhou city,China,510540, sunny@fiio.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fiio.jpg",
-    "images": [
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56788.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56789.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56790.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56791.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56792.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56793.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56794.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56795.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56796.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56788.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56789.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56790.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56791.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56792.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56793.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56794.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56795.webp",
-        "galerie/s/sluchawki-dokanalowe-fiio-fd5_56796.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "15982",
+  "code": "FD5",
+  "name": "Słuchawki dokanałowe FiiO FD5",
+  "price": 1499.0,
+  "description": "<p>Przedstawiamy Ci prawdziwą rewolucję w świecie dźwięku - Fiio FD5, flagowe słuchawki dokanałowe, które otwierają przed Tobą zupełnie nowe brzmieniowe horyzonty.</p><p>W sercu tych wyjątkowych słuchawek tętni pojedynczy przetwornik dynamiczny o imponującej średnicy 12mm. Co sprawia, że FD5 są tak wyjątkowe? Ich membrana, delikatnie powleczona berylem, to tajemnica, która minimalizuje zniekształcenia i podnosi dynamikę dźwięku. Wynikiem jest pełne pasmo dźwiękowe, w którym każda nuta odgrywa swoją rolę - od głębokich basów, przez soczystą średnicę, aż po klarowne, krystaliczne wysokie tony. To brzmienie, które wciąga, zachwyca i odkrywa przed Tobą najdrobniejsze niuanse muzycznej rzeczywistości.</p><p>Kabel to nie tylko połączenie - to łącznik między Tobą a muzyką. Fiio FD5 zyskują dodatkowy wymiar dzięki odpinanemu kablowi z złączem MMCX. Ale to nie wszystko. Przygotowaliśmy dla Ciebie prawdziwą paletę możliwości dzięki wymiennym końcówkom jack. Odtwarzaj swoją ulubioną muzykę w zależności od swojego nastroju - 2,5mm, 3,5mm lub 4,4mm, wybór należy do Ciebie. Sam kabel został wykonany z najwyższej jakości posrebrzanej miedzi, co przekłada się na klarowność i czystość dźwięku, której nigdy wcześniej nie doświadczyłeś.</p><p>Jakość dźwięku spotyka innowację - Fiio FD5 to nie tylko słuchawki, to spektakl dźwięku, który zachwyca każdym dźwiękiem. Ich zdolność do oddania każdego niuansu dźwięku sprawia, że możesz cieszyć się ulubioną muzyką tak, jak tego chciał artysta. Wyraziste brzmienie, wyjątkowa rozdzielczość i niesamowita koherencja sprawiają, że to dźwięk, który wciąga i trzyma Cię w napięciu.</p><p>Przygotuj się na muzyczną podróż, której nigdy nie zapomnisz. Fiio FD5 - to nie tylko słuchawki, to brama do dźwiękowego raju. Czas na nowe brzmieniowe doznania. Czas na FD5.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przetwornik</p><p>dynamiczny</p></li><li><p>Pasmo przenoszenia</p><p>10Hz - 40kHz</p></li><li><p>Impedancja</p><p>32 Ohm</p></li><li><p>Skuteczność</p><p>109 dB@1mW</p></li><li><p>Długość kabla</p><p>1,2 m</p></li><li><p>Akcesoria w zestawie</p><p>skorzany pokrowiec, silikonowe nakładki w czeterch rodzajach, pianki, przyrząd do odpinania kabla, czyścik do słuchawek</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>FiiO</p></li><li><p>Dane producenta</p><p>FIIO Electronics Technology Co., Ltd., No.21 Longliang Road, Xialiang village, Longgui Street, Baiyun District, Guangzhou city,China,510540, sunny@fiio.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fiio.jpg",
+  "images": [
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56788.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56789.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56790.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56791.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56792.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56793.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56794.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56795.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56796.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56788.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56789.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56790.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56791.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56792.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56793.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56794.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56795.webp",
+    "galerie/s/sluchawki-dokanalowe-fiio-fd5_56796.webp"
+  ],
+  "manufacturer": "FiiO"
 }

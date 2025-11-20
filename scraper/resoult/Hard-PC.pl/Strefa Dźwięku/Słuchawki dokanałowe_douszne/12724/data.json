@@ -1,26 +1,27 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki dokanałowe/douszne"
-    ],
-    "id": "12724",
-    "code": "KZ-Z10-Pro-M-Gd",
-    "name": "Słuchawki KZ ZS10 Pro z mikrofonem Złote",
-    "price": 289.0,
-    "description": "<p>KZ ZS10 Pro to zaawansowane technologicznie, dziesięcioprzetwornikowe słuchawki dokanałowe. Zastosowanie takiego rozwiązania pozwoliło na osiągnięcie równego brzmienia w pełnym zakresie częstotliwości. Odpowiednie strojenie sprawia, że niskie tony są doskonałym tłem dla szczegółowego górnego pasma, za którego reprodukcję odpowiadają przetworniki armaturowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Waga</p><p>32 ± 3g</p></li><li><p>Sposób noszenia</p><p>Za uchem</p></li><li><p>Czułość</p><p>111dB</p></li><li><p>Impedancja</p><p>30Ω</p></li><li><p>Częstotliwość</p><p>7-40000 Hz</p></li><li><p>Długość linii</p><p>125 ± 5 cm</p></li><li><p>Typ wtyczki</p><p>3,5 mm</p></li><li><p>Typ pinu</p><p>0,75 mm</p></li><li><p>Przetworniki (na stornę)</p><p>1x przetwornik dynamiczny Tesla <br/>2x przetwornik armaturowy 30095 dla wysokich częstotliwości<br/>2x przetornik armaturowy 50060 dla średnich częstotliwości</p></li><li></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>KZ ACOUSTICS</p></li><li><p>Dane producenta</p><p>KZ ACOUSTICS, 2nd Floor, Building A, Longchang MicroPort Park, No.26 Hantang Street, Gutou Community, Dongcheng, Dongguan, Guangdong, China, sales@kzhifi.com</p></li><li><p>Podmiot odpowiedzialny</p><p> </p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/kz-acoustics.jpg",
-    "images": [
-        "galerie/s/sluchawka-kz-zs10-pro-zlote_45757.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-zlote_45758.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-zlote_45759.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-zlote_45760.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-z-mikro_45764.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-zlote_45757.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-zlote_45758.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-zlote_45759.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-zlote_45760.webp",
-        "galerie/s/sluchawka-kz-zs10-pro-z-mikro_45764.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "12724",
+  "code": "KZ-Z10-Pro-M-Gd",
+  "name": "Słuchawki KZ ZS10 Pro z mikrofonem Złote",
+  "price": 289.0,
+  "description": "<p>KZ ZS10 Pro to zaawansowane technologicznie, dziesięcioprzetwornikowe słuchawki dokanałowe. Zastosowanie takiego rozwiązania pozwoliło na osiągnięcie równego brzmienia w pełnym zakresie częstotliwości. Odpowiednie strojenie sprawia, że niskie tony są doskonałym tłem dla szczegółowego górnego pasma, za którego reprodukcję odpowiadają przetworniki armaturowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Waga</p><p>32 ± 3g</p></li><li><p>Sposób noszenia</p><p>Za uchem</p></li><li><p>Czułość</p><p>111dB</p></li><li><p>Impedancja</p><p>30Ω</p></li><li><p>Częstotliwość</p><p>7-40000 Hz</p></li><li><p>Długość linii</p><p>125 ± 5 cm</p></li><li><p>Typ wtyczki</p><p>3,5 mm</p></li><li><p>Typ pinu</p><p>0,75 mm</p></li><li><p>Przetworniki (na stornę)</p><p>1x przetwornik dynamiczny Tesla <br/>2x przetwornik armaturowy 30095 dla wysokich częstotliwości<br/>2x przetornik armaturowy 50060 dla średnich częstotliwości</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>KZ ACOUSTICS</p></li><li><p>Dane producenta</p><p>KZ ACOUSTICS, 2nd Floor, Building A, Longchang MicroPort Park, No.26 Hantang Street, Gutou Community, Dongcheng, Dongguan, Guangdong, China, sales@kzhifi.com</p></li><li><p>Podmiot odpowiedzialny</p><p> </p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/kz-acoustics.jpg",
+  "images": [
+    "galerie/s/sluchawka-kz-zs10-pro-zlote_45757.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-zlote_45758.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-zlote_45759.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-zlote_45760.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-z-mikro_45764.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-zlote_45757.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-zlote_45758.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-zlote_45759.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-zlote_45760.webp",
+    "galerie/s/sluchawka-kz-zs10-pro-z-mikro_45764.webp"
+  ],
+  "manufacturer": "KZ ACOUSTICS"
 }

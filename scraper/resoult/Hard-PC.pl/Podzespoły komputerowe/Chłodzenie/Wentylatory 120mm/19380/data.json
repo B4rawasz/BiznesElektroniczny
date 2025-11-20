@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 120mm"
-    ],
-    "id": "19380",
-    "code": "LULI-095",
-    "name": "Wentylator Lian Li UNI FAN SL Wireless LCD ARGB PWM Czarny – 120mm",
-    "price": 179.9,
-    "description": "<h2>Lian Li UNI FAN SL120 V2 Wireless LCD – wentylator 120 mm z ekranem LCD i bezprzewodowym sterowaniem</h2><p>Wentylator Lian Li UNI FAN SL120 V2 Wireless LCD to połączenie nowoczesnej technologii chłodzenia z unikalnymi możliwościami personalizacji. Wbudowany ekran IPS 1,6\" wyświetla statystyki systemowe lub własne grafiki, a bezprzewodowe sterowanie pozwala na schludny montaż bez zbędnych przewodów. To idealny wybór dla entuzjastów, którzy oczekują więcej niż tylko wydajności chłodzenia.</p><h2>Ekran LCD – Twój komputer, Twój styl</h2><p>Zintegrowany ekran IPS 1,6\" o rozdzielczości 400 × 400 px wyświetla dane systemowe (temperatury, obroty) lub własne treści – obrazy, animacje, GIF-y, a nawet filmy. Jasność 500 nitów i obsługa przez oprogramowanie L-Connect 3 pozwalają nadać komputerowi indywidualny charakter.</p><h2>Pełna kontrola i minimum kabli</h2><p>Dzięki technologii 2.4 GHz i kontrolerowi L-Wireless (sprzedawany osobno) wentylator może działać bez konieczności prowadzenia przewodów PWM i ARGB. Dodatkowe złącze USB zapewnia transmisję danych do ekranu LCD. System plug-in umożliwia szybkie łączenie wentylatorów i maksymalne uporządkowanie wnętrza obudowy.</p><h2>Wydajność chłodzenia i kultura pracy</h2><p>Wentylator osiąga do 1900 obr./min, generując przepływ powietrza 98,67 m³/h i ciśnienie statyczne 2,4 mmH₂O. Mimo wysokiej wydajności, pracuje cicho – poziom hałasu nie przekracza 29,5 dB(A), dzięki technologii Fluid Dynamic Bearing (FDB) i gumowym podkładkom antywibracyjnym.</p><h2>Uwaga: wymagany kontroler</h2><p>Wentylator wymaga dedykowanego kontrolera Lian Li L-Wireless (brak w zestawie) do bezprzewodowego sterowania. Połączenie z ekranem LCD wymaga również portu USB i dodatkowego kabla SATA 3–12V.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Wentylator 120 mm PWM z ekranem LCD</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>Aluminium, tworzywo sztuczne</p></li><li><p>Podświetlenie</p><p>ARGB (adresowalne RGB)</p></li><li><p>Ilość diod LED</p><p>40</p></li><li><p>Wyświetlacz</p><p>LCD IPS 1,6\", 400 × 400 px, 500 nitów</p></li><li><p>Układ łopatek</p><p>Standardowy</p></li><li><p>Zakres prędkości obrotowej</p><p>350 – 1 900 obr./min</p></li><li><p>Przepływ powietrza</p><p>98,67 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>2,4 mmH₂O</p></li><li><p>Maksymalny poziom hałasu</p><p>29,5 dB(A)</p></li><li><p>Napięcie znamionowe</p><p>12 V</p></li><li><p>Napięcie startowe</p><p>5 V</p></li><li><p>Pobór mocy</p><p>2,64 W</p></li><li><p>Wysokość wentylatora</p><p>28 mm</p></li><li><p>Wymiary (D×S×W)</p><p>120 × 124,5 × 28 mm</p></li><li><p>Łożysko</p><p>Hydrodynamiczne (Fluid Dynamic Bearing)</p></li><li><p>Typ połączenia</p><p>Plug-in + sterowanie przez kontroler</p></li><li><p>Złącza (z kontrolerem)</p><p>1 × 4-pin PWM + 1 × USB 9-pin + 3–12V SATA</p></li><li><p>Złącza (bez kontrolera)</p><p>1 × 4-pin PWM + 1 × USB 9-pin</p></li><li><p>Kompatybilność oprogramowania</p><p>Lian Li L-Connect 3</p></li><li><p>Sterowanie RGB</p><p>Tak (bezprzewodowo, przez kontroler)</p></li><li><p>Sterowanie prędkością</p><p>Tak (bezprzewodowo, przez kontroler)</p></li><li><p>Zestaw</p><p>Nie (1 szt.)</p></li><li><p>Kontroler w zestawie</p><p>Nie (sprzedawany osobno)</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77719.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77722.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77721.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77716.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77717.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77718.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77720.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77723.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77719.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77722.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77721.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77716.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77717.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77718.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77720.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-sl_77723.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "19380",
+  "code": "LULI-095",
+  "name": "Wentylator Lian Li UNI FAN SL Wireless LCD ARGB PWM Czarny – 120mm",
+  "price": 179.9,
+  "description": "<h2>Lian Li UNI FAN SL120 V2 Wireless LCD – wentylator 120 mm z ekranem LCD i bezprzewodowym sterowaniem</h2><p>Wentylator Lian Li UNI FAN SL120 V2 Wireless LCD to połączenie nowoczesnej technologii chłodzenia z unikalnymi możliwościami personalizacji. Wbudowany ekran IPS 1,6\" wyświetla statystyki systemowe lub własne grafiki, a bezprzewodowe sterowanie pozwala na schludny montaż bez zbędnych przewodów. To idealny wybór dla entuzjastów, którzy oczekują więcej niż tylko wydajności chłodzenia.</p><h2>Ekran LCD – Twój komputer, Twój styl</h2><p>Zintegrowany ekran IPS 1,6\" o rozdzielczości 400 × 400 px wyświetla dane systemowe (temperatury, obroty) lub własne treści – obrazy, animacje, GIF-y, a nawet filmy. Jasność 500 nitów i obsługa przez oprogramowanie L-Connect 3 pozwalają nadać komputerowi indywidualny charakter.</p><h2>Pełna kontrola i minimum kabli</h2><p>Dzięki technologii 2.4 GHz i kontrolerowi L-Wireless (sprzedawany osobno) wentylator może działać bez konieczności prowadzenia przewodów PWM i ARGB. Dodatkowe złącze USB zapewnia transmisję danych do ekranu LCD. System plug-in umożliwia szybkie łączenie wentylatorów i maksymalne uporządkowanie wnętrza obudowy.</p><h2>Wydajność chłodzenia i kultura pracy</h2><p>Wentylator osiąga do 1900 obr./min, generując przepływ powietrza 98,67 m³/h i ciśnienie statyczne 2,4 mmH₂O. Mimo wysokiej wydajności, pracuje cicho – poziom hałasu nie przekracza 29,5 dB(A), dzięki technologii Fluid Dynamic Bearing (FDB) i gumowym podkładkom antywibracyjnym.</p><h2>Uwaga: wymagany kontroler</h2><p>Wentylator wymaga dedykowanego kontrolera Lian Li L-Wireless (brak w zestawie) do bezprzewodowego sterowania. Połączenie z ekranem LCD wymaga również portu USB i dodatkowego kabla SATA 3–12V.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Wentylator 120 mm PWM z ekranem LCD</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>Aluminium, tworzywo sztuczne</p></li><li><p>Podświetlenie</p><p>ARGB (adresowalne RGB)</p></li><li><p>Ilość diod LED</p><p>40</p></li><li><p>Wyświetlacz</p><p>LCD IPS 1,6\", 400 × 400 px, 500 nitów</p></li><li><p>Układ łopatek</p><p>Standardowy</p></li><li><p>Zakres prędkości obrotowej</p><p>350 – 1 900 obr./min</p></li><li><p>Przepływ powietrza</p><p>98,67 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>2,4 mmH₂O</p></li><li><p>Maksymalny poziom hałasu</p><p>29,5 dB(A)</p></li><li><p>Napięcie znamionowe</p><p>12 V</p></li><li><p>Napięcie startowe</p><p>5 V</p></li><li><p>Pobór mocy</p><p>2,64 W</p></li><li><p>Wysokość wentylatora</p><p>28 mm</p></li><li><p>Wymiary (D×S×W)</p><p>120 × 124,5 × 28 mm</p></li><li><p>Łożysko</p><p>Hydrodynamiczne (Fluid Dynamic Bearing)</p></li><li><p>Typ połączenia</p><p>Plug-in + sterowanie przez kontroler</p></li><li><p>Złącza (z kontrolerem)</p><p>1 × 4-pin PWM + 1 × USB 9-pin + 3–12V SATA</p></li><li><p>Złącza (bez kontrolera)</p><p>1 × 4-pin PWM + 1 × USB 9-pin</p></li><li><p>Kompatybilność oprogramowania</p><p>Lian Li L-Connect 3</p></li><li><p>Sterowanie RGB</p><p>Tak (bezprzewodowo, przez kontroler)</p></li><li><p>Sterowanie prędkością</p><p>Tak (bezprzewodowo, przez kontroler)</p></li><li><p>Zestaw</p><p>Nie (1 szt.)</p></li><li><p>Kontroler w zestawie</p><p>Nie (sprzedawany osobno)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77719.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77722.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77721.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77716.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77717.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77718.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77720.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77723.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77719.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77722.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77721.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77716.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77717.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77718.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77720.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_77723.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

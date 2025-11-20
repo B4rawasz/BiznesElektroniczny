@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Pasty termoprzewodzące"
-    ],
-    "id": "14138",
-    "code": "EY0C004",
-    "name": "Pasta termoprzewodząca ENDORFY Pactum 4 - 4g",
-    "price": 26.9,
-    "description": "OPIS <p>ENDORFY Pactum 4 to nie jest zwykła pasta termoprzewodząca. Ma tylko 4 g, ale spokojnie można zaliczyć go do zawodników past wagi ciężkiej. Starcza na długie lata intensywnego użytkowania i przewodzi niską temperaturę jak marzenie.</p><p>Jego aplikacja zajmuje dosłownie parę sekund. Wystarczy rozsmarować cienką warstwę (możesz zrobić to na przykład za pomocą dołączonej łopatki) i już. Pasta wzorowo wchodzi w mikroskopijne szczeliny i trzyma się dokładnie tam, gdzie chcesz.</p><h2>Tu chodzi o chłodzenie</h2><p>Topowe procesory, karty graficzne dla PRO graczy... Pactum 4 na chłodno ogarnia wyśrubowane wymagania Twojego sprzętu. Dosłownie – bo tu chodzi o chłodzenie. To pasta, która wystarcza na bardzo długo nawet wtedy, kiedy wyciskasz ostatnie soki z procesora. Po prostu wiemy, że masz ciekawsze rzeczy do robienia niż pilnowanie temperatury kompa ;)</p><h2>Najlepszy przyjaciel procesora</h2><p>Pactum 4 to najlepszy przyjaciel człowieka procesora. Elegancko trzyma się tam, gdzie trzeba i dobrze konserwuje komponenty, zapewniając niezłe przewodzenie ciepła. Do tego szczelnie wypełnia nierówności między nimi, tworząc w ten sposób dobry interfejs.</p><h2>Wygodna aplikacja</h2><p>Aplikacja Pactum 4 to bułka z pastą. Po prostu nakładasz kropkę lub linię na procesor, a jeśli potrzeba – możesz do rozsmarowania użyć dołączonej łopatki</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li>Najlepsza wydajność, wysoka przewodność cieplna dzięki zaawansowanej formule</li><li>Uniwersalność – pasta nie przewodzi prądu, jest kompatybilna z radiatorami o aluminiowej podstawie</li><li>Prosta aplikacja dzięki niskiej lepkości i dołączonemu aplikatorowi</li><li>Wydajność i wytrzymałość przez długi czas</li></ul><h2>Specyfikacja:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Rodzaj produktu</p><p>pasta termoprzewodząca</p></li><li><p>Kolor</p><p>szary</p></li><li><p>Przewodność termiczna</p><p>12 W/(m·K)</p></li><li><p>Ciężar właściwy</p><p>2,6 g/cm3</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ENDORFY</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, kontakt@cooling.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/endorfy.jpg",
-    "images": [
-        "galerie/p/pasta-termoprzewodzaca-endorf_53304.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53301.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53305.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53302.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53303.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53304.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53301.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53305.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53302.webp",
-        "galerie/p/pasta-termoprzewodzaca-endorf_53303.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "14138",
+  "code": "EY0C004",
+  "name": "Pasta termoprzewodząca ENDORFY Pactum 4 - 4g",
+  "price": 26.9,
+  "description": "OPIS <p>ENDORFY Pactum 4 to nie jest zwykła pasta termoprzewodząca. Ma tylko 4 g, ale spokojnie można zaliczyć go do zawodników past wagi ciężkiej. Starcza na długie lata intensywnego użytkowania i przewodzi niską temperaturę jak marzenie.</p><p>Jego aplikacja zajmuje dosłownie parę sekund. Wystarczy rozsmarować cienką warstwę (możesz zrobić to na przykład za pomocą dołączonej łopatki) i już. Pasta wzorowo wchodzi w mikroskopijne szczeliny i trzyma się dokładnie tam, gdzie chcesz.</p><h2>Tu chodzi o chłodzenie</h2><p>Topowe procesory, karty graficzne dla PRO graczy... Pactum 4 na chłodno ogarnia wyśrubowane wymagania Twojego sprzętu. Dosłownie – bo tu chodzi o chłodzenie. To pasta, która wystarcza na bardzo długo nawet wtedy, kiedy wyciskasz ostatnie soki z procesora. Po prostu wiemy, że masz ciekawsze rzeczy do robienia niż pilnowanie temperatury kompa ;)</p><h2>Najlepszy przyjaciel procesora</h2><p>Pactum 4 to najlepszy przyjaciel człowieka procesora. Elegancko trzyma się tam, gdzie trzeba i dobrze konserwuje komponenty, zapewniając niezłe przewodzenie ciepła. Do tego szczelnie wypełnia nierówności między nimi, tworząc w ten sposób dobry interfejs.</p><h2>Wygodna aplikacja</h2><p>Aplikacja Pactum 4 to bułka z pastą. Po prostu nakładasz kropkę lub linię na procesor, a jeśli potrzeba – możesz do rozsmarowania użyć dołączonej łopatki</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li>Najlepsza wydajność, wysoka przewodność cieplna dzięki zaawansowanej formule</li><li>Uniwersalność – pasta nie przewodzi prądu, jest kompatybilna z radiatorami o aluminiowej podstawie</li><li>Prosta aplikacja dzięki niskiej lepkości i dołączonemu aplikatorowi</li><li>Wydajność i wytrzymałość przez długi czas</li></ul><h2>Specyfikacja:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Rodzaj produktu</p><p>pasta termoprzewodząca</p></li><li><p>Kolor</p><p>szary</p></li><li><p>Przewodność termiczna</p><p>12 W/(m·K)</p></li><li><p>Ciężar właściwy</p><p>2,6 g/cm3</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ENDORFY</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, kontakt@cooling.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/endorfy.jpg",
+  "images": [
+    "galerie/p/pasta-termoprzewodzaca-endorf_53304.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53301.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53305.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53302.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53303.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53304.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53301.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53305.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53302.webp",
+    "galerie/p/pasta-termoprzewodzaca-endorf_53303.webp"
+  ],
+  "manufacturer": "ENDORFY"
 }

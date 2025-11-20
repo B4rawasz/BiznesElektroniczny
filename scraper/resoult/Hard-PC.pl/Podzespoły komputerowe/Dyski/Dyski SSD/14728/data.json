@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Dyski",
-        "Dyski SSD"
-    ],
-    "id": "14728",
-    "code": "S78-440Q490-P83",
-    "name": "Dysk SSD MSI Spatium M460 2TB M.2 PCIe NVMe 4.0",
-    "price": 649.0,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pojemność</p><p>2TB</p></li><li><p>Kontroler</p><p>PHISON E21T</p></li><li><p>Kości pamięci</p><p>3D NAND</p></li><li><p>Standard</p><p>M.2 2280</p></li><li><p>Interfejs</p><p>PCIe Gen4x4, NVMe 1.4</p></li><li><p>Kompatybilność</p><p>PCIe Gen4 / Gen3 / Gen2 / Gen1</p></li><li><p>Wymiary</p><p>80.00mm (L) x 22.00mm (W) x 2.15mm (H)</p></li><li><p>Odczyt sekwencyjny</p><p>do 4900 MB/s</p></li><li><p>Zapis sekwencyjny</p><p>do 4400MB/s</p></li><li><p>Odczyt losowy 4KB</p><p>525 000 IOPS</p></li><li><p>Zapis losowy 4KB</p><p>950 000 IOPS</p></li><li><p>TBW</p><p>1200</p></li><li><p>MTBF</p><p>1 5000 000godzin</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/msi.jpg",
-    "images": [
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53741.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53742.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53743.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53744.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53745.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53741.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53742.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53743.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53744.webp",
-        "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53745.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Dyski SSD"
+  ],
+  "id": "14728",
+  "code": "S78-440Q490-P83",
+  "name": "Dysk SSD MSI Spatium M460 2TB M.2 PCIe NVMe 4.0",
+  "price": 649.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pojemność</p><p>2TB</p></li><li><p>Kontroler</p><p>PHISON E21T</p></li><li><p>Kości pamięci</p><p>3D NAND</p></li><li><p>Standard</p><p>M.2 2280</p></li><li><p>Interfejs</p><p>PCIe Gen4x4, NVMe 1.4</p></li><li><p>Kompatybilność</p><p>PCIe Gen4 / Gen3 / Gen2 / Gen1</p></li><li><p>Wymiary</p><p>80.00mm (L) x 22.00mm (W) x 2.15mm (H)</p></li><li><p>Odczyt sekwencyjny</p><p>do 4900 MB/s</p></li><li><p>Zapis sekwencyjny</p><p>do 4400MB/s</p></li><li><p>Odczyt losowy 4KB</p><p>525 000 IOPS</p></li><li><p>Zapis losowy 4KB</p><p>950 000 IOPS</p></li><li><p>TBW</p><p>1200</p></li><li><p>MTBF</p><p>1 5000 000godzin</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/msi.jpg",
+  "images": [
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53741.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53742.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53743.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53744.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53745.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53741.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53742.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53743.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53744.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m460-2t_53745.webp"
+  ],
+  "manufacturer": "MSI"
 }

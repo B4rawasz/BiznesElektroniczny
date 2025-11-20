@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.0"
-    ],
-    "id": "18030",
-    "code": "S880DB white",
-    "name": "Głośniki Edifier S880DB 2.0 Białe",
-    "price": 799.0,
-    "description": "<h2>Głośniki EDIFIER S880DB</h2><p>Nie rezygnuj z wysokiej jakości dźwięków i wybierz głośniki, dzięki którym dźwięk dostarcza niezwykłych wrażeń słuchowych. Edifier S880DB to niezwykły zestaw kompaktowych głośników, które jako jedne z nielicznych wspomagane są technologią Hi-Res Audio. Tytanowy, wysokotonowy przetwornik zapewnia wysoki poziom głośności, czułość i rozdzielczość z czystą barwą wysokich tonów. Wyposażenie w szereg wejść sprawia, że jest to sprzęt wysokiej klasy.</p><h2>Odtwarzanie bezprzewodowe</h2><p>Głośniki zostały wyposażone w funkcję Bluetooth, która pozwala na bezprzewodowe łączenie się z urządzeniami obsługującymi ten standard. To idealne rozwiązanie dla osób, które cenią sobie pełen komfort podczas korzystania ze sprzętu audio. Wystarczy spasować wybrane urządzenie z głośnikami i cieszyć się ulubionymi dźwiękami. Wybierz wygodę i zapomnij o poplątanych kablach ograniczających możliwości.</p><h2>Komfortowe korzystanie</h2><p>Do głośników, w zestawie dołączony jest pilot, co jeszcze bardziej poprawia komfort użytkowania głośników. Pilot pozwala na sterowanie parametrami odtwarzania, takich jak włączanie i wyłączanie czy regulowanie głośności. Ciesz się rozrywką na najwyższym poziomie i wybierz funkcjonalność.</p><h2>Szereg przydatnych wejść</h2><p>Głośniki zostały wyposażone w różne wejścia, aby poprawić komfort korzystania i wykorzystanie. Wejście RCA sprawdzi się doskonale do podłączenia do sprzętów audio – video, które nie posiadają złącza mini – jack. Wejście optyczne pozwala na przesyłanie cyfrowego sygnału dźwiękowego w bardzo wysokiej jakości i dbają o brak zakłóceń podczas przesyłanie, natomiast wejście koaksjalne pozwala na przesył sygnału elektrycznego, dzięki czemu można liczyć na dźwięk najwyższej jakości bez szumów i zniekształceń.</p><h2>Dźwięk najwyższej jakości</h2><p>Staranne wykonanie S880DB pozwala na odtwarzanie dźwięków w klasie premium. 19 – milimetrowe głośniki wysokotonowe zostały wykonane z wypolerowanego materiału tytanowo – laminatowego. Głęboki bas zapewniają duże głośniki średniotonowe z metalową membraną, a aluminiowa rama gwarantuje wyższą moc i minimalną wibrację.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Biało-brązowy</p></li><li><p>Waga</p><p>12 kg</p></li><li><p>Moc głośników (RMS)</p><p>88 W</p></li><li><p>Rodzaj zestawu</p><p>2.0</p></li><li><p>Łączność bezprzewodowa</p><p>Bluetooth</p></li><li><p>Sterowanie</p><p>Pilot bezprzewodowy</p></li><li><p>Rodzaje wyjść / wejść</p><p>Wejście stereo RCA - 2 szt.<br/>Wejście koaksjalne RCA - 1 szt.<br/>Wejście optyczne toslink - 1 szt.<br/>Wejście AUX - 1 szt.</p></li><li><p>Dodatkowe informacje</p><p>Bezprzewodowy pilot sterowania, regulacja głośności, regulacja tonów niskich i wysokich</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosniki-edifier-s880db-2-0-b_66492.webp",
-        "galerie/g/glosniki-edifier-s880db-2-0-b_66493.webp",
-        "galerie/g/glosniki-edifier-s880db-2-0-b_66494.webp",
-        "galerie/g/glosniki-edifier-s880db-2-0-b_66492.webp",
-        "galerie/g/glosniki-edifier-s880db-2-0-b_66493.webp",
-        "galerie/g/glosniki-edifier-s880db-2-0-b_66494.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.0"
+  ],
+  "id": "18030",
+  "code": "S880DB white",
+  "name": "Głośniki Edifier S880DB 2.0 Białe",
+  "price": 799.0,
+  "description": "<h2>Głośniki EDIFIER S880DB</h2><p>Nie rezygnuj z wysokiej jakości dźwięków i wybierz głośniki, dzięki którym dźwięk dostarcza niezwykłych wrażeń słuchowych. Edifier S880DB to niezwykły zestaw kompaktowych głośników, które jako jedne z nielicznych wspomagane są technologią Hi-Res Audio. Tytanowy, wysokotonowy przetwornik zapewnia wysoki poziom głośności, czułość i rozdzielczość z czystą barwą wysokich tonów. Wyposażenie w szereg wejść sprawia, że jest to sprzęt wysokiej klasy.</p><h2>Odtwarzanie bezprzewodowe</h2><p>Głośniki zostały wyposażone w funkcję Bluetooth, która pozwala na bezprzewodowe łączenie się z urządzeniami obsługującymi ten standard. To idealne rozwiązanie dla osób, które cenią sobie pełen komfort podczas korzystania ze sprzętu audio. Wystarczy spasować wybrane urządzenie z głośnikami i cieszyć się ulubionymi dźwiękami. Wybierz wygodę i zapomnij o poplątanych kablach ograniczających możliwości.</p><h2>Komfortowe korzystanie</h2><p>Do głośników, w zestawie dołączony jest pilot, co jeszcze bardziej poprawia komfort użytkowania głośników. Pilot pozwala na sterowanie parametrami odtwarzania, takich jak włączanie i wyłączanie czy regulowanie głośności. Ciesz się rozrywką na najwyższym poziomie i wybierz funkcjonalność.</p><h2>Szereg przydatnych wejść</h2><p>Głośniki zostały wyposażone w różne wejścia, aby poprawić komfort korzystania i wykorzystanie. Wejście RCA sprawdzi się doskonale do podłączenia do sprzętów audio – video, które nie posiadają złącza mini – jack. Wejście optyczne pozwala na przesyłanie cyfrowego sygnału dźwiękowego w bardzo wysokiej jakości i dbają o brak zakłóceń podczas przesyłanie, natomiast wejście koaksjalne pozwala na przesył sygnału elektrycznego, dzięki czemu można liczyć na dźwięk najwyższej jakości bez szumów i zniekształceń.</p><h2>Dźwięk najwyższej jakości</h2><p>Staranne wykonanie S880DB pozwala na odtwarzanie dźwięków w klasie premium. 19 – milimetrowe głośniki wysokotonowe zostały wykonane z wypolerowanego materiału tytanowo – laminatowego. Głęboki bas zapewniają duże głośniki średniotonowe z metalową membraną, a aluminiowa rama gwarantuje wyższą moc i minimalną wibrację.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Biało-brązowy</p></li><li><p>Waga</p><p>12 kg</p></li><li><p>Moc głośników (RMS)</p><p>88 W</p></li><li><p>Rodzaj zestawu</p><p>2.0</p></li><li><p>Łączność bezprzewodowa</p><p>Bluetooth</p></li><li><p>Sterowanie</p><p>Pilot bezprzewodowy</p></li><li><p>Rodzaje wyjść / wejść</p><p>Wejście stereo RCA - 2 szt.<br/>Wejście koaksjalne RCA - 1 szt.<br/>Wejście optyczne toslink - 1 szt.<br/>Wejście AUX - 1 szt.</p></li><li><p>Dodatkowe informacje</p><p>Bezprzewodowy pilot sterowania, regulacja głośności, regulacja tonów niskich i wysokich</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosniki-edifier-s880db-2-0-b_66492.webp",
+    "galerie/g/glosniki-edifier-s880db-2-0-b_66493.webp",
+    "galerie/g/glosniki-edifier-s880db-2-0-b_66494.webp",
+    "galerie/g/glosniki-edifier-s880db-2-0-b_66492.webp",
+    "galerie/g/glosniki-edifier-s880db-2-0-b_66493.webp",
+    "galerie/g/glosniki-edifier-s880db-2-0-b_66494.webp"
+  ],
+  "manufacturer": "Edifier"
 }

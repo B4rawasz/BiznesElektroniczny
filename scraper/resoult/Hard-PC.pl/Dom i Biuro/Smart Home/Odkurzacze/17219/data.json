@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Odkurzacze"
-    ],
-    "id": "17219",
-    "code": "TSL-VC-R530BRUSH",
-    "name": "Tesla Smart Szczotka centralna do odkurzaczy",
-    "price": 69.0,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>168 szt</p></li><li><p>Wysokość:</p><p>3.5 cm</p></li><li><p>Szerokość:</p><p>17 cm</p></li><li><p>Głębokość:</p><p>3.5 cm</p></li><li><p>Waga:</p><p>0.064 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-szczotka-centraln_63006.webp",
-        "galerie/t/tesla-smart-szczotka-centraln_63006.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Odkurzacze"
+  ],
+  "id": "17219",
+  "code": "TSL-VC-R530BRUSH",
+  "name": "Tesla Smart Szczotka centralna do odkurzaczy",
+  "price": 69.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>168 szt</p></li><li><p>Wysokość:</p><p>3.5 cm</p></li><li><p>Szerokość:</p><p>17 cm</p></li><li><p>Głębokość:</p><p>3.5 cm</p></li><li><p>Waga:</p><p>0.064 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-szczotka-centraln_63006.webp",
+    "galerie/t/tesla-smart-szczotka-centraln_63006.webp"
+  ],
+  "manufacturer": "Tesla"
 }

@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Zdrowie i uroda"
-    ],
-    "id": "17240",
-    "code": "TSL-BT-PHD",
-    "name": "Tesla Suszarka do włosów z jonizacją PRO",
-    "price": 649.0,
-    "description": "<h2>Czyszczenie jednym kliknięciem</h2><p>Ciesz się suszarką do włosów, która jest zawsze idealnie czysta. Czyszczenie filtra przeciwpyłowego nie może być łatwiejsze. Wystarczy przytrzymać przyciski temperatury i przepływu powietrza przez pięć sekund, a silnik wyczyści się w ciągu 15 sekund. Suszarka posiada też automatyczny system diagnozy, co pozytywnie wpływa na bezawaryjną pracę.</p><h2>2 dysze i dyfuzor</h2><p>W zestawie z suszarką do włosów znajdują się dwie nasadki (mała i duża), które kierują powietrze we właściwe miejsce, dzięki czemu można wysuszyć włosy i nadać im idealną gładkość. Ponadto dostępny jest magnetyczny obrotowy dyfuzor, który dodaje objętości i naturalnie kształtuje loki.</p><h2>3 ustawienia temperatury, 3 prędkości przepływu powietrza</h2><p>Wybierz temperaturę i natężenie przepływu powietrza w zależności od rodzaju włosów. Obie funkcje można łatwo kontrolować za pomocą przycisków na pokrętle, a ich stan jest wyświetlany na wskaźnikach LED.</p><h2>Jonizator dla idealnego połysku włosów</h2><p>Suszarka do włosów generuje ponad 5 milionów impulsów jonizacyjnych na cm3. Technologia ta chroni włosy przed przesuszeniem, nawilża je i eliminuje elektryczność statyczną. Włosy mniej się łamią, nie odlatują, a fryzura jest gładsza, bardziej miękka i lśniąca.</p><h2>Szybkie suszenie włosów</h2><p>Krótsze suszenie to lepsze włosy. Oprócz jonizatora szybkie i skuteczne suszenie zapewniają profesjonalne dysze magnetyczne z obrotem 360° oraz silnik o prędkości obrotowej do 110 000 obr./min i mocy 1500 W.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>10 szt</p></li><li><p>Wysokość:</p><p>4.9 cm</p></li><li><p>Szerokość:</p><p>19.7 cm</p></li><li><p>Głębokość:</p><p>20 cm</p></li><li><p>Waga:</p><p>0.746 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62772.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62773.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62774.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62775.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62776.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62777.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62778.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62772.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62773.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62774.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62775.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62776.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62777.webp",
-        "galerie/t/tesla-suszarka-do-wlosow-z-jo_62778.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Zdrowie i uroda"
+  ],
+  "id": "17240",
+  "code": "TSL-BT-PHD",
+  "name": "Tesla Suszarka do włosów z jonizacją PRO",
+  "price": 649.0,
+  "description": "<h2>Czyszczenie jednym kliknięciem</h2><p>Ciesz się suszarką do włosów, która jest zawsze idealnie czysta. Czyszczenie filtra przeciwpyłowego nie może być łatwiejsze. Wystarczy przytrzymać przyciski temperatury i przepływu powietrza przez pięć sekund, a silnik wyczyści się w ciągu 15 sekund. Suszarka posiada też automatyczny system diagnozy, co pozytywnie wpływa na bezawaryjną pracę.</p><h2>2 dysze i dyfuzor</h2><p>W zestawie z suszarką do włosów znajdują się dwie nasadki (mała i duża), które kierują powietrze we właściwe miejsce, dzięki czemu można wysuszyć włosy i nadać im idealną gładkość. Ponadto dostępny jest magnetyczny obrotowy dyfuzor, który dodaje objętości i naturalnie kształtuje loki.</p><h2>3 ustawienia temperatury, 3 prędkości przepływu powietrza</h2><p>Wybierz temperaturę i natężenie przepływu powietrza w zależności od rodzaju włosów. Obie funkcje można łatwo kontrolować za pomocą przycisków na pokrętle, a ich stan jest wyświetlany na wskaźnikach LED.</p><h2>Jonizator dla idealnego połysku włosów</h2><p>Suszarka do włosów generuje ponad 5 milionów impulsów jonizacyjnych na cm3. Technologia ta chroni włosy przed przesuszeniem, nawilża je i eliminuje elektryczność statyczną. Włosy mniej się łamią, nie odlatują, a fryzura jest gładsza, bardziej miękka i lśniąca.</p><h2>Szybkie suszenie włosów</h2><p>Krótsze suszenie to lepsze włosy. Oprócz jonizatora szybkie i skuteczne suszenie zapewniają profesjonalne dysze magnetyczne z obrotem 360° oraz silnik o prędkości obrotowej do 110 000 obr./min i mocy 1500 W.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>10 szt</p></li><li><p>Wysokość:</p><p>4.9 cm</p></li><li><p>Szerokość:</p><p>19.7 cm</p></li><li><p>Głębokość:</p><p>20 cm</p></li><li><p>Waga:</p><p>0.746 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62772.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62773.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62774.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62775.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62776.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62777.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62778.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62772.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62773.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62774.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62775.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62776.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62777.webp",
+    "galerie/t/tesla-suszarka-do-wlosow-z-jo_62778.webp"
+  ],
+  "manufacturer": "Tesla"
 }

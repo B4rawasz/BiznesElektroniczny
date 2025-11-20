@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "20778",
-    "code": "GC-MS05",
-    "name": "Zasilacz Redragon MASTER GC-MS05 1200W 80 Plus Gold ATX 3.1",
-    "price": 599.0,
-    "description": "<h2>Redragon GC-MS05 – Zasilacz ATX 3.1 1200W 80Plus Gold</h2><p>Redragon GC-MS05 to nowoczesny, wydajny zasilacz o mocy 1200W, który spełnia najnowsze standardy ATX 3.1 oraz PCI-E 5.0. Dzięki wysokiej sprawności potwierdzonej certyfikatem 80 Plus Gold, zapewnia stabilne zasilanie nawet najbardziej wymagających konfiguracji komputerowych, jednocześnie minimalizując straty energii. Model ten wyposażony jest w komplet nowoczesnych złączy, w tym 12VHPWR (PCI-E 5.0), co pozwala na bezproblemowe podłączenie najnowszych kart graficznych z wyższym zapotrzebowaniem na prąd. Na uwagę zasługuje również cichy, 120 mm wentylator FDB (Fluid Dynamic Bearing), który gwarantuje stabilną i bezawaryjną pracę przez długie lata. Zasilacz Redragon GC-MS05 oferuje w pełni czarne przewody oraz złącza, co ułatwia estetyczne prowadzenie okablowania wewnątrz obudowy. Znajdziesz tu wszystkie niezbędne złącza: 1× 24-pin ATX, 2× 8-pin CPU, 3× PCI-E (6+2), 2× SATA (po 4 złącza każde), 1× Molex (4 złącza) oraz 1× PCI-E 5.0 (12VHPWR). Konstrukcja oparta na aktywnym PFC zapewnia stabilność napięć, a dodatkowe zabezpieczenia chronią sprzęt przed przeciążeniem, przepięciem i zwarciami.</p><h2>Nowoczesny standard ATX 3.1 i wsparcie PCI-E 5.0</h2><p>Zasilacz GC-MS05 w pełni wspiera najnowszy standard ATX 3.1, co oznacza zgodność z najbardziej aktualnymi wymaganiami producentów sprzętu komputerowego, zwłaszcza w kontekście energochłonnych kart graficznych i procesorów. Dzięki dedykowanemu przewodowi 12VHPWR (PCI-E 5.0) zasilacz bez problemu obsłuży nowoczesne GPU wymagające wysokiego i stabilnego zasilania, eliminując konieczność korzystania z przejściówek. Takie rozwiązanie pozwala budować nowoczesne i bardziej uporządkowane zestawy komputerowe, zgodne ze współczesnymi standardami.</p><h2>Wysoka sprawność 80 Plus Gold i aktywne PFC</h2><p>Dzięki certyfikatowi 80 Plus Gold, Redragon GC-MS05 gwarantuje wysoką efektywność energetyczną. To oznacza mniejsze straty energii, niższe rachunki za prąd i mniej generowanego ciepła. Dodatkowo zasilacz wykorzystuje aktywny układ PFC (Power Factor Correction), który zapewnia lepszą stabilizację napięcia, redukuje zakłócenia oraz chroni cały komputer przed nieprzewidzianymi skokami napięcia. W połączeniu z solidnymi komponentami, to gwarancja stabilnej i bezpiecznej pracy przez długi czas.</p><h2>Cichy i trwały wentylator FDB 120 mm</h2><p>Za odpowiednie chłodzenie odpowiada wydajny 120 mm wentylator z łożyskowaniem FDB (Fluid Dynamic Bearing), który zapewnia cichą, stabilną pracę i znacznie wydłuża żywotność całego zasilacza. Rozwiązanie to skutecznie odprowadza ciepło nawet przy dużym obciążeniu, jednocześnie utrzymując niski poziom hałasu, co przekłada się na większy komfort codziennego użytkowania. Dodatkowym atutem jest minimalistyczny design – czarna kolorystyka wentylatora, kabli i złączy sprawia, że całość doskonale komponuje się z nowoczesnymi zestawami komputerowymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>140 × 150 × 86 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Kolor kabli</p><p>Czarny</p></li><li><p>Kolor wtyczki</p><p>Czarny</p></li><li><p>Kolor wentylatora</p><p>Czarny</p></li><li><p>Wentylator</p><p>120 mm</p></li><li><p>Złącza</p><p>24P (20+4) ×1, CPU P8 (4+4) ×2, PCI-E P8 (6+2) ×3, SATA (×4) ×2, IDE (×4) ×1, PCI-E 5.0 12+4 PIN (12VHPWR) ×1</p></li><li><p>Długość kabla zasilającego</p><p>150 cm</p></li><li><p>Certyfikat</p><p>80 PLUS Gold</p></li><li><p>PFC</p><p>APFC</p></li><li><p>Moc</p><p>1200 W</p></li><li><p>Standard</p><p>ATX 3.1</p></li><li><p>Typ okablowania</p><p>Modularny</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Redragon Co.Ltd</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>ITRG-Zięba-Magiera-Stylińsk Spółka Jawna, ul. Christo Botrwa 6B/B4, 30-798 Kraków, handel@itrg.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/redragon.jpg",
-    "images": [
-        "galerie/z/zasilacz-redragon-master-gc-m_78189.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78190.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78191.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78192.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78193.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78194.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78195.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78196.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78189.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78190.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78191.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78192.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78193.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78194.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78195.webp",
-        "galerie/z/zasilacz-redragon-master-gc-m_78196.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "20778",
+  "code": "GC-MS05",
+  "name": "Zasilacz Redragon MASTER GC-MS05 1200W 80 Plus Gold ATX 3.1",
+  "price": 599.0,
+  "description": "<h2>Redragon GC-MS05 – Zasilacz ATX 3.1 1200W 80Plus Gold</h2><p>Redragon GC-MS05 to nowoczesny, wydajny zasilacz o mocy 1200W, który spełnia najnowsze standardy ATX 3.1 oraz PCI-E 5.0. Dzięki wysokiej sprawności potwierdzonej certyfikatem 80 Plus Gold, zapewnia stabilne zasilanie nawet najbardziej wymagających konfiguracji komputerowych, jednocześnie minimalizując straty energii. Model ten wyposażony jest w komplet nowoczesnych złączy, w tym 12VHPWR (PCI-E 5.0), co pozwala na bezproblemowe podłączenie najnowszych kart graficznych z wyższym zapotrzebowaniem na prąd. Na uwagę zasługuje również cichy, 120 mm wentylator FDB (Fluid Dynamic Bearing), który gwarantuje stabilną i bezawaryjną pracę przez długie lata. Zasilacz Redragon GC-MS05 oferuje w pełni czarne przewody oraz złącza, co ułatwia estetyczne prowadzenie okablowania wewnątrz obudowy. Znajdziesz tu wszystkie niezbędne złącza: 1× 24-pin ATX, 2× 8-pin CPU, 3× PCI-E (6+2), 2× SATA (po 4 złącza każde), 1× Molex (4 złącza) oraz 1× PCI-E 5.0 (12VHPWR). Konstrukcja oparta na aktywnym PFC zapewnia stabilność napięć, a dodatkowe zabezpieczenia chronią sprzęt przed przeciążeniem, przepięciem i zwarciami.</p><h2>Nowoczesny standard ATX 3.1 i wsparcie PCI-E 5.0</h2><p>Zasilacz GC-MS05 w pełni wspiera najnowszy standard ATX 3.1, co oznacza zgodność z najbardziej aktualnymi wymaganiami producentów sprzętu komputerowego, zwłaszcza w kontekście energochłonnych kart graficznych i procesorów. Dzięki dedykowanemu przewodowi 12VHPWR (PCI-E 5.0) zasilacz bez problemu obsłuży nowoczesne GPU wymagające wysokiego i stabilnego zasilania, eliminując konieczność korzystania z przejściówek. Takie rozwiązanie pozwala budować nowoczesne i bardziej uporządkowane zestawy komputerowe, zgodne ze współczesnymi standardami.</p><h2>Wysoka sprawność 80 Plus Gold i aktywne PFC</h2><p>Dzięki certyfikatowi 80 Plus Gold, Redragon GC-MS05 gwarantuje wysoką efektywność energetyczną. To oznacza mniejsze straty energii, niższe rachunki za prąd i mniej generowanego ciepła. Dodatkowo zasilacz wykorzystuje aktywny układ PFC (Power Factor Correction), który zapewnia lepszą stabilizację napięcia, redukuje zakłócenia oraz chroni cały komputer przed nieprzewidzianymi skokami napięcia. W połączeniu z solidnymi komponentami, to gwarancja stabilnej i bezpiecznej pracy przez długi czas.</p><h2>Cichy i trwały wentylator FDB 120 mm</h2><p>Za odpowiednie chłodzenie odpowiada wydajny 120 mm wentylator z łożyskowaniem FDB (Fluid Dynamic Bearing), który zapewnia cichą, stabilną pracę i znacznie wydłuża żywotność całego zasilacza. Rozwiązanie to skutecznie odprowadza ciepło nawet przy dużym obciążeniu, jednocześnie utrzymując niski poziom hałasu, co przekłada się na większy komfort codziennego użytkowania. Dodatkowym atutem jest minimalistyczny design – czarna kolorystyka wentylatora, kabli i złączy sprawia, że całość doskonale komponuje się z nowoczesnymi zestawami komputerowymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>140 × 150 × 86 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Kolor kabli</p><p>Czarny</p></li><li><p>Kolor wtyczki</p><p>Czarny</p></li><li><p>Kolor wentylatora</p><p>Czarny</p></li><li><p>Wentylator</p><p>120 mm</p></li><li><p>Złącza</p><p>24P (20+4) ×1, CPU P8 (4+4) ×2, PCI-E P8 (6+2) ×3, SATA (×4) ×2, IDE (×4) ×1, PCI-E 5.0 12+4 PIN (12VHPWR) ×1</p></li><li><p>Długość kabla zasilającego</p><p>150 cm</p></li><li><p>Certyfikat</p><p>80 PLUS Gold</p></li><li><p>PFC</p><p>APFC</p></li><li><p>Moc</p><p>1200 W</p></li><li><p>Standard</p><p>ATX 3.1</p></li><li><p>Typ okablowania</p><p>Modularny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Redragon Co.Ltd</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>ITRG-Zięba-Magiera-Stylińsk Spółka Jawna, ul. Christo Botrwa 6B/B4, 30-798 Kraków, handel@itrg.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/redragon.jpg",
+  "images": [
+    "galerie/z/zasilacz-redragon-master-gc-m_78189.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78190.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78191.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78192.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78193.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78194.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78195.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78196.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78189.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78190.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78191.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78192.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78193.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78194.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78195.webp",
+    "galerie/z/zasilacz-redragon-master-gc-m_78196.webp"
+  ],
+  "manufacturer": "Redragon Co.Ltd"
 }

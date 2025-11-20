@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "12096",
-    "code": "mkit-stand",
-    "name": "Statyw biurkowy z Pop-Filtrem i Koszem MOZOS MKIT-STAND",
-    "price": 67.9,
-    "description": "<h2>Statyw premium mkit-stand z koszem antywibracyjnym i pop filtrem.</h2><p>Mkit-stand to zestaw biurkowy do mikrofonów pojemnościowych. W komplecie znajduje się wszystko to co niezbędne aby wygodnie i profesjonalnie nagrać swój podcast czy streaming. Koszt antywibracyjny o średnicy 4.5 cm jest kompatybilny z większością mikrofonów dostępnych na rynku np. NOVOX NC-1/NC1, MXL 440, Trust Starzz All-round, HF-50, Maono Au-A04tr i wiele innych w zakresie 4,3 cm do 4,7 cm. Shock mount do mikrofonu od MOZOS pomaga zapobiegać wstrząsom i wibracjom, które często przechodzą przez uchwyt. Wpływa to negatywnie na jakość nagrywanego dźwięku. Konstrukcja kosza wykonana jest całkowicie z metalu a cylinder wyłożony jest filcem, który chroni mikrofon przez zadrapaniami i zapewnia dodatkową eliminację wstrząsów. Kosz antywibracyjny ma gwint 5/8 ” który zapewnia dużą kompatybilność z mikrofonami.</p><h2>Pop filtr pełni rolę bariery przed śliną i wybuchowymi spółgłoskami.</h2><p>Do czego służy Pop filtr? Słowa zaczynające się na przykład na literkę. „p” i „b”, powodują nagły wzrost ciśnienia powietrza, który może tworzyć efekt „pop” czyli uderzające powietrze w nagraniach wokalnych, niszcząc to, co mogło być perfekcyjne. Filtr pomaga zmiękczyć dźwięki. Wysoka gęstość pianki eliminuje wibracje między uchwytem i klipem mikrofonowego statywu. Dzięki temu studyjny pop Filtr najczęściej używany jest w studiach nagraniowych lub radiowych. Służy do wyeliminowania dźwięków związanych z szybko poruszającym się powietrzem. Filtr wykonany jest z siatki, tkaniny rozciągniętej na okrągłej metalowej ramce. Filtr umieszcza się bezpośrednio przed mikrofonem i powoduje tłumienie niepożądanych dźwięków (głównie tzw. spółgłosek wybuchowych), oraz chroni przed gromadzeniem się śliny na mikrofonie.</p><h2>Duży zakres wysokości i stabilna podstawa.</h2><p>Statyw jest bardzo solidny. Wykonany jest z żeliwnej podstawy o bardzo dużej stabilności. Regulacja wysokości w zakresie 22-33 cm daje ogromne pole do elastycznego dostosowania do swojego stanowiska pracy i zabawy. Niezależnie od mikrofonu, nasz statyw z pewnością sprosta wymaganiom. W zakładanym budżecie i bogatym zestawie, nie ma drugiego takiego rozwiązania na rynku. Nie masz dużo miejsca na biurku, a wysięgnik biurkowy to dla Ciebie zbyt skomplikowane rozwiązanie? Mkit-stand to zestaw dla Ciebie.</p><p>Uwaga: W zestawie nie ma mikrofonu. Na zdjęciach przedstawia on jedynie przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość statywu</p><p>22-33 cm</p></li><li><p>Długość filtra pop</p><p>52 cm</p></li><li><p>Średnica filtra pop</p><p>15,5 cm</p></li><li><p>Średnica wewnętrzna kosza antywibracyjnego</p><p>4,5 cm</p></li><li><p>Materiał wykonania kosza antywibracyjnego</p><p>metal</p></li><li><p>Średnica podstawy</p><p>14 cm</p></li><li><p>Waga podstawy</p><p>1,1 kg</p></li><li><p>W zestawie</p><p>kosz antywibracyjny, pop filtr, statyw.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42337.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42331.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42332.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42333.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42334.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42335.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42336.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42337.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42331.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42332.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42333.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42334.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42335.webp",
-        "galerie/s/statyw-biurkowy-z-pop-filtrem_42336.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "12096",
+  "code": "mkit-stand",
+  "name": "Statyw biurkowy z Pop-Filtrem i Koszem MOZOS MKIT-STAND",
+  "price": 67.9,
+  "description": "<h2>Statyw premium mkit-stand z koszem antywibracyjnym i pop filtrem.</h2><p>Mkit-stand to zestaw biurkowy do mikrofonów pojemnościowych. W komplecie znajduje się wszystko to co niezbędne aby wygodnie i profesjonalnie nagrać swój podcast czy streaming. Koszt antywibracyjny o średnicy 4.5 cm jest kompatybilny z większością mikrofonów dostępnych na rynku np. NOVOX NC-1/NC1, MXL 440, Trust Starzz All-round, HF-50, Maono Au-A04tr i wiele innych w zakresie 4,3 cm do 4,7 cm. Shock mount do mikrofonu od MOZOS pomaga zapobiegać wstrząsom i wibracjom, które często przechodzą przez uchwyt. Wpływa to negatywnie na jakość nagrywanego dźwięku. Konstrukcja kosza wykonana jest całkowicie z metalu a cylinder wyłożony jest filcem, który chroni mikrofon przez zadrapaniami i zapewnia dodatkową eliminację wstrząsów. Kosz antywibracyjny ma gwint 5/8 ” który zapewnia dużą kompatybilność z mikrofonami.</p><h2>Pop filtr pełni rolę bariery przed śliną i wybuchowymi spółgłoskami.</h2><p>Do czego służy Pop filtr? Słowa zaczynające się na przykład na literkę. „p” i „b”, powodują nagły wzrost ciśnienia powietrza, który może tworzyć efekt „pop” czyli uderzające powietrze w nagraniach wokalnych, niszcząc to, co mogło być perfekcyjne. Filtr pomaga zmiękczyć dźwięki. Wysoka gęstość pianki eliminuje wibracje między uchwytem i klipem mikrofonowego statywu. Dzięki temu studyjny pop Filtr najczęściej używany jest w studiach nagraniowych lub radiowych. Służy do wyeliminowania dźwięków związanych z szybko poruszającym się powietrzem. Filtr wykonany jest z siatki, tkaniny rozciągniętej na okrągłej metalowej ramce. Filtr umieszcza się bezpośrednio przed mikrofonem i powoduje tłumienie niepożądanych dźwięków (głównie tzw. spółgłosek wybuchowych), oraz chroni przed gromadzeniem się śliny na mikrofonie.</p><h2>Duży zakres wysokości i stabilna podstawa.</h2><p>Statyw jest bardzo solidny. Wykonany jest z żeliwnej podstawy o bardzo dużej stabilności. Regulacja wysokości w zakresie 22-33 cm daje ogromne pole do elastycznego dostosowania do swojego stanowiska pracy i zabawy. Niezależnie od mikrofonu, nasz statyw z pewnością sprosta wymaganiom. W zakładanym budżecie i bogatym zestawie, nie ma drugiego takiego rozwiązania na rynku. Nie masz dużo miejsca na biurku, a wysięgnik biurkowy to dla Ciebie zbyt skomplikowane rozwiązanie? Mkit-stand to zestaw dla Ciebie.</p><p>Uwaga: W zestawie nie ma mikrofonu. Na zdjęciach przedstawia on jedynie przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość statywu</p><p>22-33 cm</p></li><li><p>Długość filtra pop</p><p>52 cm</p></li><li><p>Średnica filtra pop</p><p>15,5 cm</p></li><li><p>Średnica wewnętrzna kosza antywibracyjnego</p><p>4,5 cm</p></li><li><p>Materiał wykonania kosza antywibracyjnego</p><p>metal</p></li><li><p>Średnica podstawy</p><p>14 cm</p></li><li><p>Waga podstawy</p><p>1,1 kg</p></li><li><p>W zestawie</p><p>kosz antywibracyjny, pop filtr, statyw.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42337.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42331.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42332.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42333.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42334.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42335.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42336.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42337.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42331.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42332.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42333.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42334.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42335.webp",
+    "galerie/s/statyw-biurkowy-z-pop-filtrem_42336.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

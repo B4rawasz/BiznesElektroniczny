@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.0"
-    ],
-    "id": "18013",
-    "code": "R1280DBs brown",
-    "name": "Głośniki Edifier R1280DBs 2.0 Brązowe",
-    "price": 449.0,
-    "description": "<h2>Profesjonalne głośniki Edifier</h2><p>R1280DBs wyróżnia się klasycznym, ale też stylowym wyglądem, który przykuje Twoją uwagę. Wraz z wszystkimi nowoczesnymi funkcjami, drewniane wykończenie sprawia wrażenie eleganckich, a jednocześnie profesjonalnych. Ulepszona specyfikacja spełnia najwyższe standardy jakości i wydajności. Technologia Bluetooth Qualcomm zapewnia stabilne, bezprzewodowe połączenie. Natomiast całkowita moc RMS 42W eliminuje jakiekolwiek zniekształcenia. Dołączone elementy znacznie poprawiają komfort w trakcie korzystania, pozwalając zaoszczędzić mnóstwo czasu.</p><h2>Liczne możliwości</h2><p>Głośniki Edifier z łatwością odtwarzają każdy rodzaj muzyki, podkreślając niską i wysoką tonację. Zostały wyposażone we wszystkie nowe funkcje i uniwersalne wejścia, zapewniając szeroką kompatybilność. W jednym momencie możliwe jest użycie np. wejścia optycznego, koaksjalnego czy podwójnego RCA. Bezprzewodowe łącze Bluetooth z technologią Qualcomm również umożliwia sparowanie sprzętu z większością dostępnych modeli na rynku.</p><h2>Ekspert w dziedzinie muzyki</h2><p>Głośniki Bluetooth Edifier potrafią automatycznie wykrywać dodatkowy, zewnętrzny subwoofer, w celu aktywowania cyfrowej zwrotnicy. Różne rodzaje portów oferują transmisję pozbawioną wszelkich strat. Umieszczony z przodu port bass reflex gwarantuje wydobycie wyrazistych, głębokich basów. Wysoka moc RMS minimalizuje irytujące hałasy i skutecznie redukuje szumy, dzięki czemu możesz cieszyć się wielogodzinną rozrywką bez żadnych przeszkód.</p><h2>Uproszczona obsługa</h2><p>Pokrętła na panelu bocznym są odpowiedzialne za ustawianie korektora dźwięku według własnych preferencji. Elementy sterujące znajdują się na głośniku aktywnym/zasilanym. Dołączony do zestawu, praktyczny pilot bezprzewodowy ułatwia regulację najważniejszymi funkcjami urządzenia podłączonego przez Bluetooth. Wystarczy jeden ruch dłonią, aby włączyć zasilanie, zmienić kolejność odtwarzania, czy wybrać źródło dźwięku. Nie musisz nawet wstawać z wygodnego fotela!</p><h2>Klasyczne wykończenie</h2><p>Wytrzymała, obudowa z drewnianej płyty MDF zmniejsza rezonans akustyczny, przez co możliwe jest umieszczenie głośników w dowolnym miejscu i relaksować się nastrojowymi utworami w różnych pomieszczeniach w swoim domu. Stylowe wykonanie z pewnością zrobi wrażenie, a całość sprawdzi się jako świetny dodatek w gustownie urządzonym wnętrzu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Całkowita moc wyjściowa</p><p>2x21W RMS</p></li><li><p>Jednostka głośnika</p><p>Φ13mm głośnik wysokotonowy + 4-calowy głośnik średniotonowy</p></li><li><p>Stosunek sygnału do szumu</p><p>≥85dBA</p></li><li><p>Pasmo przenoszenia</p><p>51Hz - 20kHz</p></li><li><p>Czułość wejściowa</p><p>LINE IN1 R/L:500±50mV<br/>LINE IN2 R/L:600±50mV<br/>Optyczne / Koaksjalne R/L:350±50mFFS<br/>Bluetooth R/L:700±50mFFS</p></li><li><p>Wejścia</p><p>LINE IN 1, LINE IN 2, Optical, Coaxial, Bluetooth</p></li><li><p>Kodek</p><p>audio SBC</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosniki-edifier-r1280dbs-2-0_66552.webp",
-        "galerie/g/glosniki-edifier-r1280dbs-2-0_66553.webp",
-        "galerie/g/glosniki-edifier-r1280dbs-2-0_66554.webp",
-        "galerie/g/glosniki-edifier-r1280dbs-2-0_66552.webp",
-        "galerie/g/glosniki-edifier-r1280dbs-2-0_66553.webp",
-        "galerie/g/glosniki-edifier-r1280dbs-2-0_66554.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.0"
+  ],
+  "id": "18013",
+  "code": "R1280DBs brown",
+  "name": "Głośniki Edifier R1280DBs 2.0 Brązowe",
+  "price": 449.0,
+  "description": "<h2>Profesjonalne głośniki Edifier</h2><p>R1280DBs wyróżnia się klasycznym, ale też stylowym wyglądem, który przykuje Twoją uwagę. Wraz z wszystkimi nowoczesnymi funkcjami, drewniane wykończenie sprawia wrażenie eleganckich, a jednocześnie profesjonalnych. Ulepszona specyfikacja spełnia najwyższe standardy jakości i wydajności. Technologia Bluetooth Qualcomm zapewnia stabilne, bezprzewodowe połączenie. Natomiast całkowita moc RMS 42W eliminuje jakiekolwiek zniekształcenia. Dołączone elementy znacznie poprawiają komfort w trakcie korzystania, pozwalając zaoszczędzić mnóstwo czasu.</p><h2>Liczne możliwości</h2><p>Głośniki Edifier z łatwością odtwarzają każdy rodzaj muzyki, podkreślając niską i wysoką tonację. Zostały wyposażone we wszystkie nowe funkcje i uniwersalne wejścia, zapewniając szeroką kompatybilność. W jednym momencie możliwe jest użycie np. wejścia optycznego, koaksjalnego czy podwójnego RCA. Bezprzewodowe łącze Bluetooth z technologią Qualcomm również umożliwia sparowanie sprzętu z większością dostępnych modeli na rynku.</p><h2>Ekspert w dziedzinie muzyki</h2><p>Głośniki Bluetooth Edifier potrafią automatycznie wykrywać dodatkowy, zewnętrzny subwoofer, w celu aktywowania cyfrowej zwrotnicy. Różne rodzaje portów oferują transmisję pozbawioną wszelkich strat. Umieszczony z przodu port bass reflex gwarantuje wydobycie wyrazistych, głębokich basów. Wysoka moc RMS minimalizuje irytujące hałasy i skutecznie redukuje szumy, dzięki czemu możesz cieszyć się wielogodzinną rozrywką bez żadnych przeszkód.</p><h2>Uproszczona obsługa</h2><p>Pokrętła na panelu bocznym są odpowiedzialne za ustawianie korektora dźwięku według własnych preferencji. Elementy sterujące znajdują się na głośniku aktywnym/zasilanym. Dołączony do zestawu, praktyczny pilot bezprzewodowy ułatwia regulację najważniejszymi funkcjami urządzenia podłączonego przez Bluetooth. Wystarczy jeden ruch dłonią, aby włączyć zasilanie, zmienić kolejność odtwarzania, czy wybrać źródło dźwięku. Nie musisz nawet wstawać z wygodnego fotela!</p><h2>Klasyczne wykończenie</h2><p>Wytrzymała, obudowa z drewnianej płyty MDF zmniejsza rezonans akustyczny, przez co możliwe jest umieszczenie głośników w dowolnym miejscu i relaksować się nastrojowymi utworami w różnych pomieszczeniach w swoim domu. Stylowe wykonanie z pewnością zrobi wrażenie, a całość sprawdzi się jako świetny dodatek w gustownie urządzonym wnętrzu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Całkowita moc wyjściowa</p><p>2x21W RMS</p></li><li><p>Jednostka głośnika</p><p>Φ13mm głośnik wysokotonowy + 4-calowy głośnik średniotonowy</p></li><li><p>Stosunek sygnału do szumu</p><p>≥85dBA</p></li><li><p>Pasmo przenoszenia</p><p>51Hz - 20kHz</p></li><li><p>Czułość wejściowa</p><p>LINE IN1 R/L:500±50mV<br/>LINE IN2 R/L:600±50mV<br/>Optyczne / Koaksjalne R/L:350±50mFFS<br/>Bluetooth R/L:700±50mFFS</p></li><li><p>Wejścia</p><p>LINE IN 1, LINE IN 2, Optical, Coaxial, Bluetooth</p></li><li><p>Kodek</p><p>audio SBC</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosniki-edifier-r1280dbs-2-0_66552.webp",
+    "galerie/g/glosniki-edifier-r1280dbs-2-0_66553.webp",
+    "galerie/g/glosniki-edifier-r1280dbs-2-0_66554.webp",
+    "galerie/g/glosniki-edifier-r1280dbs-2-0_66552.webp",
+    "galerie/g/glosniki-edifier-r1280dbs-2-0_66553.webp",
+    "galerie/g/glosniki-edifier-r1280dbs-2-0_66554.webp"
+  ],
+  "manufacturer": "Edifier"
 }

@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki VoIP/Telekom"
-    ],
-    "id": "20892",
-    "code": "KL201",
-    "name": "Słuchawki MOZOS KL201 z mikrofonem USB",
-    "price": 129.0,
-    "description": "<h2>Mozos KL201 – lekkie i wygodne słuchawki z mikrofonem</h2><p>Mozos KL201 to nowoczesne słuchawki stworzone z myślą o graczach, osobach pracujących zdalnie i wszystkich, którzy cenią czysty dźwięk oraz komfort noszenia. Wyposażone w 40 mm przetworniki zapewniają zrównoważone brzmienie w pełnym zakresie 20 Hz – 20 KHz, dzięki czemu sprawdzą się zarówno w grach, jak i podczas muzyki, filmów czy rozmów online.</p><h2>Wyraźna komunikacja głosowa</h2><p>Słuchawki posiadają mikrofon jednokierunkowy o czułości -38 ±3 dB, który skutecznie eliminuje szumy otoczenia. Dzięki temu głos użytkownika brzmi czysto i wyraźnie, co jest kluczowe podczas rozmów biznesowych, spotkań online czy czatów głosowych w grach.</p><h2>Nowoczesny układ C-media</h2><p>Za spójną i stabilną jakość dźwięku odpowiada chip C-media. Niezależnie od tego, czy grasz, streamujesz, czy uczestniczysz w wideokonferencjach – możesz liczyć na niezawodne działanie bez zakłóceń.</p><h2>Lekka i komfortowa konstrukcja</h2><p>Mimo solidnych materiałów – plastiku, metalu i skóry – słuchawki ważą tylko 195 g. Miękkie nauszniki i regulowany pałąk dopasowują się do kształtu głowy, minimalizując zmęczenie nawet po wielu godzinach użytkowania. Wymiary 160×68×190 mm sprawiają, że model KL201 jest kompaktowy i łatwy w przechowywaniu.</p><h2>Uniwersalne zastosowanie</h2><p>Mozos KL201 to słuchawki, które świetnie sprawdzą się w różnych scenariuszach: od intensywnych sesji gamingowych, przez codzienne rozmowy online, aż po oglądanie filmów i słuchanie muzyki. To idealne połączenie wygody, funkcjonalności i jakości wykonania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>plastik, metal, skóra</p></li><li><p>Wymiary</p><p>160×68×190 mm</p></li><li><p>Impedancja</p><p>32 Ω ±15%</p></li><li><p>Czułość</p><p>85 ±3 dB</p></li><li><p>Chip</p><p>C-media</p></li><li><p>Mikrofon</p><p>jednokierunkowy, czułość -38 ±3 dB</p></li><li><p>Zakres częstotliwości</p><p>20 Hz – 20 KHz</p></li><li><p>Średnica głośnika</p><p>40 mm</p></li><li><p>Waga netto</p><p>195 g</p></li><li><p>Waga brutto</p><p>240 g</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Logo producenta</p><p>tak</p></li></ul><h2>Cechy produktu:</h2><ul><li>Czysty dźwięk dzięki 40 mm przetwornikom w zakresie 20 Hz – 20 KHz.</li><li>Wygodna i lekka konstrukcja z plastiku, metalu i skóry.</li><li>Mikrofon jednokierunkowy o wysokiej czułości dla wyraźnej komunikacji.</li><li>Stabilne działanie dzięki układowi C-media.</li><li>Tylko 195 g wagi – komfort nawet podczas długiego użytkowania.</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78532.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78533.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78534.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78535.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78536.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78537.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78538.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78539.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78540.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78532.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78533.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78534.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78535.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78536.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78537.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78538.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78539.webp",
-        "galerie/s/sluchawki-mozos-kl201-z-mikro_78540.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki VoIP/Telekom"
+  ],
+  "id": "20892",
+  "code": "KL201",
+  "name": "Słuchawki MOZOS KL201 z mikrofonem USB",
+  "price": 129.0,
+  "description": "<h2>Mozos KL201 – lekkie i wygodne słuchawki z mikrofonem</h2><p>Mozos KL201 to nowoczesne słuchawki stworzone z myślą o graczach, osobach pracujących zdalnie i wszystkich, którzy cenią czysty dźwięk oraz komfort noszenia. Wyposażone w 40 mm przetworniki zapewniają zrównoważone brzmienie w pełnym zakresie 20 Hz – 20 KHz, dzięki czemu sprawdzą się zarówno w grach, jak i podczas muzyki, filmów czy rozmów online.</p><h2>Wyraźna komunikacja głosowa</h2><p>Słuchawki posiadają mikrofon jednokierunkowy o czułości -38 ±3 dB, który skutecznie eliminuje szumy otoczenia. Dzięki temu głos użytkownika brzmi czysto i wyraźnie, co jest kluczowe podczas rozmów biznesowych, spotkań online czy czatów głosowych w grach.</p><h2>Nowoczesny układ C-media</h2><p>Za spójną i stabilną jakość dźwięku odpowiada chip C-media. Niezależnie od tego, czy grasz, streamujesz, czy uczestniczysz w wideokonferencjach – możesz liczyć na niezawodne działanie bez zakłóceń.</p><h2>Lekka i komfortowa konstrukcja</h2><p>Mimo solidnych materiałów – plastiku, metalu i skóry – słuchawki ważą tylko 195 g. Miękkie nauszniki i regulowany pałąk dopasowują się do kształtu głowy, minimalizując zmęczenie nawet po wielu godzinach użytkowania. Wymiary 160×68×190 mm sprawiają, że model KL201 jest kompaktowy i łatwy w przechowywaniu.</p><h2>Uniwersalne zastosowanie</h2><p>Mozos KL201 to słuchawki, które świetnie sprawdzą się w różnych scenariuszach: od intensywnych sesji gamingowych, przez codzienne rozmowy online, aż po oglądanie filmów i słuchanie muzyki. To idealne połączenie wygody, funkcjonalności i jakości wykonania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>plastik, metal, skóra</p></li><li><p>Wymiary</p><p>160×68×190 mm</p></li><li><p>Impedancja</p><p>32 Ω ±15%</p></li><li><p>Czułość</p><p>85 ±3 dB</p></li><li><p>Chip</p><p>C-media</p></li><li><p>Mikrofon</p><p>jednokierunkowy, czułość -38 ±3 dB</p></li><li><p>Zakres częstotliwości</p><p>20 Hz – 20 KHz</p></li><li><p>Średnica głośnika</p><p>40 mm</p></li><li><p>Waga netto</p><p>195 g</p></li><li><p>Waga brutto</p><p>240 g</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Logo producenta</p><p>tak</p></li></ul><h2>Cechy produktu:</h2><ul><li>Czysty dźwięk dzięki 40 mm przetwornikom w zakresie 20 Hz – 20 KHz.</li><li>Wygodna i lekka konstrukcja z plastiku, metalu i skóry.</li><li>Mikrofon jednokierunkowy o wysokiej czułości dla wyraźnej komunikacji.</li><li>Stabilne działanie dzięki układowi C-media.</li><li>Tylko 195 g wagi – komfort nawet podczas długiego użytkowania.</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78532.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78533.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78534.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78535.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78536.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78537.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78538.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78539.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78540.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78532.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78533.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78534.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78535.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78536.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78537.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78538.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78539.webp",
+    "galerie/s/sluchawki-mozos-kl201-z-mikro_78540.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

@@ -1,20 +1,21 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Mikrofony"
-    ],
-    "id": "20132",
-    "code": "4820216972061",
-    "name": "Mikrofon Fifine A6 USB",
-    "price": 189.0,
-    "description": "<h2>Wszechstronna kompatybilność i sterowanie</h2><p>Działa z systemami <strong>Windows, Mac OS, PS4/PS5, Android</strong>. Wyposażony w opcję sterowania mikrofonem, tęczowe podświetlenie RGB oraz dotykowe wyciszenie i pokrętło głośności, co umożliwia wygodne i szybkie dostosowanie dźwięku.</p><h2>Idealny mikrofon do streamingu i gier</h2><p><strong>FIFINE AmpliGame A6</strong> to mikrofon stworzony z myślą o streamingu i grach, oferujący niesamowity dźwięk i technologię Plug &amp; Play. Złącze typu C zapewnia łatwą i szybką obsługę.</p><h2>Stabilność i estetyka wykonania</h2><p>Amortyzujący statyw z gumową opaską skuteczniej zapobiega przenikaniu niepożądanych wibracji do nagrania. Bezramkowy, przezroczysty pop-filtr z logo FIFINE ma odpowiednią gęstość siatki, która zapobiega wdmuchiwaniu powietrza do mikrofonu, zachowując jednocześnie estetyczny wygląd.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Wymiary</p><p>183 х 152 х 95 mm</p></li><li><p>Złącze</p><p>USB</p></li><li><p>Napięcie</p><p>5 V</p></li><li><p>Prąd pracy</p><p>50-80 mA</p></li><li><p>Pasmo przenoszenia</p><p>60 Hz – 18 kHz</p></li><li><p>Czułość</p><p>40 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Maksymalny poziom ciśnienia akustycznego</p><p>110 dB</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fifine.jpg",
-    "images": [
-        "galerie/m/mikrofon-fifine-a6-usb_76840.webp",
-        "galerie/m/mikrofon-fifine-a6-usb_76839.webp",
-        "galerie/m/mikrofon-fifine-a6-usb_76840.webp",
-        "galerie/m/mikrofon-fifine-a6-usb_76839.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "20132",
+  "code": "4820216972061",
+  "name": "Mikrofon Fifine A6 USB",
+  "price": 189.0,
+  "description": "<h2>Wszechstronna kompatybilność i sterowanie</h2><p>Działa z systemami <strong>Windows, Mac OS, PS4/PS5, Android</strong>. Wyposażony w opcję sterowania mikrofonem, tęczowe podświetlenie RGB oraz dotykowe wyciszenie i pokrętło głośności, co umożliwia wygodne i szybkie dostosowanie dźwięku.</p><h2>Idealny mikrofon do streamingu i gier</h2><p><strong>FIFINE AmpliGame A6</strong> to mikrofon stworzony z myślą o streamingu i grach, oferujący niesamowity dźwięk i technologię Plug &amp; Play. Złącze typu C zapewnia łatwą i szybką obsługę.</p><h2>Stabilność i estetyka wykonania</h2><p>Amortyzujący statyw z gumową opaską skuteczniej zapobiega przenikaniu niepożądanych wibracji do nagrania. Bezramkowy, przezroczysty pop-filtr z logo FIFINE ma odpowiednią gęstość siatki, która zapobiega wdmuchiwaniu powietrza do mikrofonu, zachowując jednocześnie estetyczny wygląd.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Wymiary</p><p>183 х 152 х 95 mm</p></li><li><p>Złącze</p><p>USB</p></li><li><p>Napięcie</p><p>5 V</p></li><li><p>Prąd pracy</p><p>50-80 mA</p></li><li><p>Pasmo przenoszenia</p><p>60 Hz – 18 kHz</p></li><li><p>Czułość</p><p>40 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Maksymalny poziom ciśnienia akustycznego</p><p>110 dB</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fifine.jpg",
+  "images": [
+    "galerie/m/mikrofon-fifine-a6-usb_76840.webp",
+    "galerie/m/mikrofon-fifine-a6-usb_76839.webp",
+    "galerie/m/mikrofon-fifine-a6-usb_76840.webp",
+    "galerie/m/mikrofon-fifine-a6-usb_76839.webp"
+  ],
+  "manufacturer": "Fifine"
 }

@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki przenośne"
-    ],
-    "id": "18005",
-    "code": "PP205 black",
-    "name": "Przenośny głośnik Bluetooth Edifier PP205 Czarny",
-    "price": 209.0,
-    "description": "<h2>Przenośny głośnik Bluetooth Edifier PP205 (czarny)</h2><p>Odkryj nowy wymiar dźwięku z głośnikiem Bluetooth Edifier PP205. To kompaktowe urządzenie, które dzięki niewielkiej wadze (zaledwie 1.2 kg) oraz wygodnej rączce jest idealnym towarzyszem na każdą okazję. Możesz zabrać go na piknik, karaoke ze znajomymi czy prezentację biznesową — gdziekolwiek jesteś, PP205 dostarczy brzmienia, które ożywi każde spotkanie.</p><h2>Doskonała jakość dźwięku</h2><p>Głośnik Edifier PP205 zapewnia wyjątkową jakość dźwięku. Jego 12W (RMS) mocy wyjściowej oraz 1.2-calowy tweeter i 4-calowy woofer sprawiają, że każda nuta jest słyszalna z niesamowitą klarownością. Dwudrożne aktywne przejście zapewnia, że wysokie i niskie tony są zawsze wyważone, bez względu na to, czy korzystasz z trybu zewnętrznego, czy wewnętrznego — PP205 sprawdzi się w każdym scenariuszu.</p><h2>Niezawodny w każdej sytuacji</h2><p>Głośnik PP205 wyposażony jest w dwa wbudowane akumulatory litowe o pojemności 2000mAh każdy. Dzięki nim oferuje do 8 godzin ciągłego odtwarzania. Wysoka jakość wykonania i niezawodne akumulatory gwarantują, że muzyka nie przestanie grać w najmniej oczekiwanym momencie.</p><h2>Łatwość obsługi</h2><p>Ten głośnik to gwarancja intuicyjnej obsługi. Czytelny wskaźnik LED sygnalizuje status pracy, a oddzielne regulatory głośności mikrofonu i głośnika pozwalają na błyskawiczne dostosowanie dźwięku do indywidualnych preferencji. Obsługa PP205 jest dziecinnie łatwa, co oznacza, że z powodzeniem posłuży użytkownikom w każdym wieku!</p><h2>Bogate możliwości połączeń</h2><p>Bluetooth w wersji 5.0 zapewnia stabilne i szybkie połączenie, umożliwiając strumieniowanie ulubionych utworów w doskonałej jakości. Z głośnikiem PP205 możesz również korzystać z różnych wejść, takich jak LINE IN, USB oraz karty TF (microSD), co daje Ci wolność wyboru źródła muzyki.</p><h2>Gotowy na karaoke</h2><p>Głośnik PP205 został stworzony z myślą o zabawie. Kompatybilność z mikrofonem przewodowym, możliwość nagrywania dźwięku oraz odtwarzania nagrań to funkcje, które zadowolą każdego amatora rozśpiewanej zabawy i nie tylko.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc szczytowa</p><p>24 W</p></li><li><p>Całkowita moc wyjściowa RMS</p><p>12 W</p></li><li><p>Pasmo przenoszenia</p><p>140 Hz - 14 kHz</p></li><li><p>Wejście</p><p>5V = 2A</p></li><li><p>Waga</p><p>około 1,2 kg</p></li><li><p>Kolor</p><p>czarny</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/p/przenosny-glosnik-bluetooth-e_66992.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66993.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66994.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66995.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66996.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66991.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66997.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66992.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66993.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66994.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66995.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66996.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66991.webp",
-        "galerie/p/przenosny-glosnik-bluetooth-e_66997.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki przenośne"
+  ],
+  "id": "18005",
+  "code": "PP205 black",
+  "name": "Przenośny głośnik Bluetooth Edifier PP205 Czarny",
+  "price": 209.0,
+  "description": "<h2>Przenośny głośnik Bluetooth Edifier PP205 (czarny)</h2><p>Odkryj nowy wymiar dźwięku z głośnikiem Bluetooth Edifier PP205. To kompaktowe urządzenie, które dzięki niewielkiej wadze (zaledwie 1.2 kg) oraz wygodnej rączce jest idealnym towarzyszem na każdą okazję. Możesz zabrać go na piknik, karaoke ze znajomymi czy prezentację biznesową — gdziekolwiek jesteś, PP205 dostarczy brzmienia, które ożywi każde spotkanie.</p><h2>Doskonała jakość dźwięku</h2><p>Głośnik Edifier PP205 zapewnia wyjątkową jakość dźwięku. Jego 12W (RMS) mocy wyjściowej oraz 1.2-calowy tweeter i 4-calowy woofer sprawiają, że każda nuta jest słyszalna z niesamowitą klarownością. Dwudrożne aktywne przejście zapewnia, że wysokie i niskie tony są zawsze wyważone, bez względu na to, czy korzystasz z trybu zewnętrznego, czy wewnętrznego — PP205 sprawdzi się w każdym scenariuszu.</p><h2>Niezawodny w każdej sytuacji</h2><p>Głośnik PP205 wyposażony jest w dwa wbudowane akumulatory litowe o pojemności 2000mAh każdy. Dzięki nim oferuje do 8 godzin ciągłego odtwarzania. Wysoka jakość wykonania i niezawodne akumulatory gwarantują, że muzyka nie przestanie grać w najmniej oczekiwanym momencie.</p><h2>Łatwość obsługi</h2><p>Ten głośnik to gwarancja intuicyjnej obsługi. Czytelny wskaźnik LED sygnalizuje status pracy, a oddzielne regulatory głośności mikrofonu i głośnika pozwalają na błyskawiczne dostosowanie dźwięku do indywidualnych preferencji. Obsługa PP205 jest dziecinnie łatwa, co oznacza, że z powodzeniem posłuży użytkownikom w każdym wieku!</p><h2>Bogate możliwości połączeń</h2><p>Bluetooth w wersji 5.0 zapewnia stabilne i szybkie połączenie, umożliwiając strumieniowanie ulubionych utworów w doskonałej jakości. Z głośnikiem PP205 możesz również korzystać z różnych wejść, takich jak LINE IN, USB oraz karty TF (microSD), co daje Ci wolność wyboru źródła muzyki.</p><h2>Gotowy na karaoke</h2><p>Głośnik PP205 został stworzony z myślą o zabawie. Kompatybilność z mikrofonem przewodowym, możliwość nagrywania dźwięku oraz odtwarzania nagrań to funkcje, które zadowolą każdego amatora rozśpiewanej zabawy i nie tylko.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc szczytowa</p><p>24 W</p></li><li><p>Całkowita moc wyjściowa RMS</p><p>12 W</p></li><li><p>Pasmo przenoszenia</p><p>140 Hz - 14 kHz</p></li><li><p>Wejście</p><p>5V = 2A</p></li><li><p>Waga</p><p>około 1,2 kg</p></li><li><p>Kolor</p><p>czarny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/p/przenosny-glosnik-bluetooth-e_66992.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66993.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66994.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66995.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66996.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66991.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66997.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66992.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66993.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66994.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66995.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66996.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66991.webp",
+    "galerie/p/przenosny-glosnik-bluetooth-e_66997.webp"
+  ],
+  "manufacturer": "Edifier"
 }

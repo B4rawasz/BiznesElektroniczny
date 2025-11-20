@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Monitoring i zabezpieczenia"
-    ],
-    "id": "17148",
-    "code": "TSL-SEN-MOTION",
-    "name": "Tesla Smart Czujnik ruchu",
-    "price": 89.99,
-    "description": "<h2>Inteligentny czujnik, który wykrywa każdy ruch</h2><p>TESLA Inteligentny czujnik ruchu z technologią ZigBee to inteligentny pomocnik, za pomocą którego możesz automatyzować swój dom.</p><h2>Inteligentny menedżer domu</h2><p>Praktyczność czujnika ruchu TESLA Smart Sensor polega na tym, że komunikuje się on z wieloma elementami inteligentnego domu.</p><h2>Uruchomienie to pestka</h2><p>Instalacja czujnika nie jest skomplikowana ani trudna. Urządzenie można regulować w zależności od potrzeb, regulując obrót lub kąt skanowania danej przestrzeni. Instalacja aplikacji na smartfonie zajmuje chwilę, a użytkowanie jest proste.</p><h2>Dogaduje się z inteligentnymi asystentami</h2><p>TESLA Inteligentny czujnik ruchu komunikuje się za pomocą protokołu ZigBee. Ten protokół może łączyć inteligentne urządzenia domowe z aplikacjami TESLA Smart za pomocą TESLA Smart ZigBee Hub. Możesz ją pobrać na urządzenia z Androidem i iOS. Sama aplikacja, która steruje elementami inteligentnego domu, jest więc w pełni kompatybilna z inteligentnymi asystentami osobistymi Amazon Alexa i Google Assistant.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy wykorzystującej protokół ZigBee, za pomocą którego produkty komunikują się ze sobą. Do prawidłowego funkcjonowania tych produktów niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wilgotność, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>135 szt</p></li><li><p>Wysokość:</p><p>4.2 cm</p></li><li><p>Szerokość:</p><p>3.4 cm</p></li><li><p>Głębokość:</p><p>3.3 cm</p></li><li><p>Waga:</p><p>0.03 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-czujnik-ruchu_63561.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63562.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63563.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63564.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63565.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63561.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63562.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63563.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63564.webp",
-        "galerie/t/tesla-smart-czujnik-ruchu_63565.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Monitoring i zabezpieczenia"
+  ],
+  "id": "17148",
+  "code": "TSL-SEN-MOTION",
+  "name": "Tesla Smart Czujnik ruchu",
+  "price": 89.99,
+  "description": "<h2>Inteligentny czujnik, który wykrywa każdy ruch</h2><p>TESLA Inteligentny czujnik ruchu z technologią ZigBee to inteligentny pomocnik, za pomocą którego możesz automatyzować swój dom.</p><h2>Inteligentny menedżer domu</h2><p>Praktyczność czujnika ruchu TESLA Smart Sensor polega na tym, że komunikuje się on z wieloma elementami inteligentnego domu.</p><h2>Uruchomienie to pestka</h2><p>Instalacja czujnika nie jest skomplikowana ani trudna. Urządzenie można regulować w zależności od potrzeb, regulując obrót lub kąt skanowania danej przestrzeni. Instalacja aplikacji na smartfonie zajmuje chwilę, a użytkowanie jest proste.</p><h2>Dogaduje się z inteligentnymi asystentami</h2><p>TESLA Inteligentny czujnik ruchu komunikuje się za pomocą protokołu ZigBee. Ten protokół może łączyć inteligentne urządzenia domowe z aplikacjami TESLA Smart za pomocą TESLA Smart ZigBee Hub. Możesz ją pobrać na urządzenia z Androidem i iOS. Sama aplikacja, która steruje elementami inteligentnego domu, jest więc w pełni kompatybilna z inteligentnymi asystentami osobistymi Amazon Alexa i Google Assistant.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy wykorzystującej protokół ZigBee, za pomocą którego produkty komunikują się ze sobą. Do prawidłowego funkcjonowania tych produktów niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wilgotność, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>135 szt</p></li><li><p>Wysokość:</p><p>4.2 cm</p></li><li><p>Szerokość:</p><p>3.4 cm</p></li><li><p>Głębokość:</p><p>3.3 cm</p></li><li><p>Waga:</p><p>0.03 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-czujnik-ruchu_63561.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63562.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63563.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63564.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63565.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63561.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63562.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63563.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63564.webp",
+    "galerie/t/tesla-smart-czujnik-ruchu_63565.webp"
+  ],
+  "manufacturer": "Tesla"
 }

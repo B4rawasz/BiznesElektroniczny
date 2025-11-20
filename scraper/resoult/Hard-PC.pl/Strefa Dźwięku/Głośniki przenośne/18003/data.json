@@ -1,28 +1,29 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki przenośne"
-    ],
-    "id": "18003",
-    "code": "MS50A",
-    "name": "Głośnik Edifier MS50A Brązowy",
-    "price": 499.0,
-    "description": "<h2>Głośnik Edifier MS50A (brązowy)</h2><p>Odkryj magię swoich ulubionych utworów na nowo dzięki Edifier MS50A! Ten głośnik dostarcza bardzo dobrej jakości dźwięku, opartej na zaawansowanej technologii DSP, która podkreśla autentyczność brzmienia i minimalizuje zakłócenia. Głośnik prezentuje atrakcyjny design pasujący do wielu wnętrz. Panel dotykowy na jego górnej części umożliwia intuicyjne sterowanie, regulację głośności i płynne przełączanie piosenek.</p><h2>Twoja prywatność jest chroniona</h2><p>Edifier MS50A zapewnia spokój w kwestii prywatności, ponieważ nie posiada wbudowanego mikrofonu. To oznacza, że możesz cieszyć się spotkaniami i chwilami wytchnienia bez obaw o zakłócenia czy naruszenie prywatności. Wszelkie informacje pozostają bezpieczne.</p><h2>Intuicyjne sterowanie</h2><p>Dzięki zastosowaniu panelu dotykowego, kontrola głośności i zmiana utworów stają się wyjątkowo łatwe. Subtelne ruchy palców pozwalają na dostosowanie dźwięku do osobistych preferencji oraz płynne przechodzenie między ulubionymi utworami.</p><h2>Wzbogać doświadczenie za pomocą aplikacji</h2><p>Aplikacja EDIFIER HOME umożliwia połączenie dwóch głośników MS50A, tworząc przestrzenny dźwięk, który ożywi twoje otoczenie. Wspierana przez wzmacniacz i zaawansowaną technologię DSP, aplikacja dostarcza bardziej realistyczne brzmienie o wyższej jakości, pozbawione zakłóceń.</p><h2>Moc i wsparcie dla ulubionych platform</h2><p>Głośnik Edifier MS50A wyróżnia się potężną mocą 40W i głośnikami o średnicy 102mm, co przekłada się na niesamowitą jakość dźwięku. Zestaw jest także kompatybilny z Bluetooth 5.2, gwarantując stabilne połączenie. Obsługuje platformy muzyczne takie jak Spotify Connect, Apple Music i Amazon Music, oraz jest kompatybilny z Amazon Alexa, czyniąc go doskonałym centrum muzycznym dla każdego domu.</p><h2>Połączenie bezprzewodowe</h2><p>Urządzenie obsługuje połączenia bezprzewodowe przez Wi-Fi i Bluetooth, które oferują stabilne połączenie, niskie zużycie energii i szerokie zastosowanie. Z pomocą aplikacji Edifier Home możesz w prosty sposób połączyć się ze swoją siecią domową i korzystać z AirPlay 2 streamując muzykę z iPhone'a, iPada czy Maca, ale także używać Alexy dzięki połączeniu głośnika z urządzeniem z wbudowaną asystentką lub z Amazon Echo. Masz możliwość połączyć się także ze Spotify i TIDAL Connect i z pomocą tych usług stworzyć zsynchronizowany system muzyczny rozpięty na wiele pokoi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Brązowy</p></li><li><p>Bluetooth</p><p>5.2</p></li><li><p>Moc</p><p>40W</p></li><li><p>Wielkość głośników</p><p>102mm</p></li><li><p>Waga urządzenia</p><p>2,26kg</p></li><li><p>Obsługuje</p><p>Spotify Connect / Apple Music / Amazon Music 2022 Q2 Extend with Tidal &amp; TuneI</p></li><li><p>Działa z Amazon Alexa</p><p>Tak</p></li><li><p>Aplikacja</p><p>Edifier Home App</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosnik-edifier-ms50a-brazowy_66998.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_66999.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_67000.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_67001.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_67002.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_67003.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_66998.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_66999.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_67000.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_67001.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_67002.webp",
-        "galerie/g/glosnik-edifier-ms50a-brazowy_67003.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki przenośne"
+  ],
+  "id": "18003",
+  "code": "MS50A",
+  "name": "Głośnik Edifier MS50A Brązowy",
+  "price": 499.0,
+  "description": "<h2>Głośnik Edifier MS50A (brązowy)</h2><p>Odkryj magię swoich ulubionych utworów na nowo dzięki Edifier MS50A! Ten głośnik dostarcza bardzo dobrej jakości dźwięku, opartej na zaawansowanej technologii DSP, która podkreśla autentyczność brzmienia i minimalizuje zakłócenia. Głośnik prezentuje atrakcyjny design pasujący do wielu wnętrz. Panel dotykowy na jego górnej części umożliwia intuicyjne sterowanie, regulację głośności i płynne przełączanie piosenek.</p><h2>Twoja prywatność jest chroniona</h2><p>Edifier MS50A zapewnia spokój w kwestii prywatności, ponieważ nie posiada wbudowanego mikrofonu. To oznacza, że możesz cieszyć się spotkaniami i chwilami wytchnienia bez obaw o zakłócenia czy naruszenie prywatności. Wszelkie informacje pozostają bezpieczne.</p><h2>Intuicyjne sterowanie</h2><p>Dzięki zastosowaniu panelu dotykowego, kontrola głośności i zmiana utworów stają się wyjątkowo łatwe. Subtelne ruchy palców pozwalają na dostosowanie dźwięku do osobistych preferencji oraz płynne przechodzenie między ulubionymi utworami.</p><h2>Wzbogać doświadczenie za pomocą aplikacji</h2><p>Aplikacja EDIFIER HOME umożliwia połączenie dwóch głośników MS50A, tworząc przestrzenny dźwięk, który ożywi twoje otoczenie. Wspierana przez wzmacniacz i zaawansowaną technologię DSP, aplikacja dostarcza bardziej realistyczne brzmienie o wyższej jakości, pozbawione zakłóceń.</p><h2>Moc i wsparcie dla ulubionych platform</h2><p>Głośnik Edifier MS50A wyróżnia się potężną mocą 40W i głośnikami o średnicy 102mm, co przekłada się na niesamowitą jakość dźwięku. Zestaw jest także kompatybilny z Bluetooth 5.2, gwarantując stabilne połączenie. Obsługuje platformy muzyczne takie jak Spotify Connect, Apple Music i Amazon Music, oraz jest kompatybilny z Amazon Alexa, czyniąc go doskonałym centrum muzycznym dla każdego domu.</p><h2>Połączenie bezprzewodowe</h2><p>Urządzenie obsługuje połączenia bezprzewodowe przez Wi-Fi i Bluetooth, które oferują stabilne połączenie, niskie zużycie energii i szerokie zastosowanie. Z pomocą aplikacji Edifier Home możesz w prosty sposób połączyć się ze swoją siecią domową i korzystać z AirPlay 2 streamując muzykę z iPhone'a, iPada czy Maca, ale także używać Alexy dzięki połączeniu głośnika z urządzeniem z wbudowaną asystentką lub z Amazon Echo. Masz możliwość połączyć się także ze Spotify i TIDAL Connect i z pomocą tych usług stworzyć zsynchronizowany system muzyczny rozpięty na wiele pokoi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Brązowy</p></li><li><p>Bluetooth</p><p>5.2</p></li><li><p>Moc</p><p>40W</p></li><li><p>Wielkość głośników</p><p>102mm</p></li><li><p>Waga urządzenia</p><p>2,26kg</p></li><li><p>Obsługuje</p><p>Spotify Connect / Apple Music / Amazon Music 2022 Q2 Extend with Tidal &amp; TuneI</p></li><li><p>Działa z Amazon Alexa</p><p>Tak</p></li><li><p>Aplikacja</p><p>Edifier Home App</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosnik-edifier-ms50a-brazowy_66998.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_66999.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_67000.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_67001.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_67002.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_67003.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_66998.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_66999.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_67000.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_67001.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_67002.webp",
+    "galerie/g/glosnik-edifier-ms50a-brazowy_67003.webp"
+  ],
+  "manufacturer": "Edifier"
 }

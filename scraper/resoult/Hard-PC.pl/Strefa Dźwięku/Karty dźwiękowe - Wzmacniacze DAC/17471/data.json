@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Karty dźwiękowe - Wzmacniacze DAC"
-    ],
-    "id": "17471",
-    "code": "GAPL-1398",
-    "name": "Karta dźwiękowa Fnatic REACT XP 7.1 USB",
-    "price": 115.9,
-    "description": "<p>Z kartą dźwiękową USB Fnatic REACT XP rozszerzysz swoje analogowe słuchawki Fnatic REACT o cyfrowy dźwięk przestrzenny 7.1. Karta posiada złącze 4-pin 3.5mm mini jack, dzięki czemu jest ona kompatybilna z większością słuchawek na rynku. Dzięki uniwersalnemu złączu USB-A z łatwością podepniesz kartę do komputera. Urządzenie daje również możliwość kontrolowania głośności słuchawek, mikrofonu a także jego wyciszenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przyciski</p><p>Volume Headphone<br/>Volume Microphone<br/>Mute Microphone</p></li><li><p>Połączenie</p><p>1x 3.5 mm jack (4-pin)<br/>1x USB-A</p></li><li><p>Długość kabla</p><p>1.6m</p></li><li><p>Kompatybilność</p><p>Fnatic REACT i inne słuchawki ze złączem jack 3.5mm 4-pin<br/>Windows</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fnatic</p></li><li><p>Dane producenta</p><p>Fnatic Gear Ltd, 1 Kingsland Passage, E8 2BB London, UK, shop@fnatic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fnatic.jpg",
-    "images": [
-        "galerie/k/karta-dzwiekowa-fnatic-react_63812.webp",
-        "galerie/k/karta-dzwiekowa-fnatic-react_63813.webp",
-        "galerie/k/karta-dzwiekowa-fnatic-react_63814.webp",
-        "galerie/k/karta-dzwiekowa-fnatic-react_63812.webp",
-        "galerie/k/karta-dzwiekowa-fnatic-react_63813.webp",
-        "galerie/k/karta-dzwiekowa-fnatic-react_63814.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Karty dźwiękowe - Wzmacniacze DAC"
+  ],
+  "id": "17471",
+  "code": "GAPL-1398",
+  "name": "Karta dźwiękowa Fnatic REACT XP 7.1 USB",
+  "price": 115.9,
+  "description": "<p>Z kartą dźwiękową USB Fnatic REACT XP rozszerzysz swoje analogowe słuchawki Fnatic REACT o cyfrowy dźwięk przestrzenny 7.1. Karta posiada złącze 4-pin 3.5mm mini jack, dzięki czemu jest ona kompatybilna z większością słuchawek na rynku. Dzięki uniwersalnemu złączu USB-A z łatwością podepniesz kartę do komputera. Urządzenie daje również możliwość kontrolowania głośności słuchawek, mikrofonu a także jego wyciszenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przyciski</p><p>Volume Headphone<br/>Volume Microphone<br/>Mute Microphone</p></li><li><p>Połączenie</p><p>1x 3.5 mm jack (4-pin)<br/>1x USB-A</p></li><li><p>Długość kabla</p><p>1.6m</p></li><li><p>Kompatybilność</p><p>Fnatic REACT i inne słuchawki ze złączem jack 3.5mm 4-pin<br/>Windows</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fnatic</p></li><li><p>Dane producenta</p><p>Fnatic Gear Ltd, 1 Kingsland Passage, E8 2BB London, UK, shop@fnatic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fnatic.jpg",
+  "images": [
+    "galerie/k/karta-dzwiekowa-fnatic-react_63812.webp",
+    "galerie/k/karta-dzwiekowa-fnatic-react_63813.webp",
+    "galerie/k/karta-dzwiekowa-fnatic-react_63814.webp",
+    "galerie/k/karta-dzwiekowa-fnatic-react_63812.webp",
+    "galerie/k/karta-dzwiekowa-fnatic-react_63813.webp",
+    "galerie/k/karta-dzwiekowa-fnatic-react_63814.webp"
+  ],
+  "manufacturer": "Fnatic"
 }

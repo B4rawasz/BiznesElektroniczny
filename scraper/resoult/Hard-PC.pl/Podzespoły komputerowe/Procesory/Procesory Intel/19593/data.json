@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Procesory",
-        "Procesory Intel"
-    ],
-    "id": "19593",
-    "code": "BX80768245KF",
-    "name": "Procesor Intel Core Ultra 5 Desktop 245KF 14 cores up to 5.2 GHz",
-    "price": 851.9,
-    "description": "<p>Intel Core Ultra 5 245KF to zaawansowany procesor 15. generacji, zaprojektowany z myślą o graczach i twórcach treści. Wykorzystuje zoptymalizowaną architekturę hybrydową, łączącą wysokowydajne rdzenie z efektywnymi, co zapewnia doskonałą równowagę między mocą obliczeniową a efektywnością energetyczną.​</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba rdzeni i wątków</p><p>Procesor posiada łącznie 14 rdzeni, w tym 6 rdzeni Performance (P-cores) i 8 rdzeni Efficient (E-cores), obsługujących 14 wątków.​</p></li><li><p>Bazowa częstotliwość rdzeni Performance</p><p>4,2 GHz​</p></li><li><p>Bazowa częstotliwość rdzeni Efficient</p><p>3,6 GHz​</p></li><li><p>Maksymalna częstotliwość Turbo rdzeni Performance</p><p>5,2 GHz​</p></li><li><p>Maksymalna częstotliwość Turbo rdzeni Efficient</p><p>4,6 GHz​</p></li><li><p>Pamięć cache</p><p>24 MB pamięci Intel® Smart Cache​, 26 MB całkowitej pamięci L2​</p></li><li><p>Kontroler pamięci</p><p>Obsługuje do 192 GB pamięci DDR5 o prędkości do 6400 MT/s w konfiguracji dwukanałowej.​</p></li><li><p>Zgodność z PCI Express</p><p>Obsługuje standardy PCIe 5.0 i 4.0 z maksymalnie 24 liniami, co umożliwia szybkie połączenia z nowoczesnymi kartami graficznymi i innymi urządzeniami.​</p></li><li><p>Zintegrowana grafika</p><p>Procesor nie posiada zintegrowanego układu graficznego, co oznacza konieczność zastosowania dedykowanej karty graficznej.​</p></li><li><p>Moc</p><p>Podstawowy pobór mocy procesora wynosi 125 W, a maksymalny w trybie Turbo to 159 W.​</p></li><li><p>Gniazdo</p><p>Procesor jest kompatybilny z podstawką LGA 1851.​</p></li><li><p>Technologie AI</p><p>Wyposażony w Intel® AI Boost (NPU) z wydajnością do 13 TOPS (Int8), wspierający nowoczesne aplikacje wykorzystujące sztuczną inteligencję.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/intel.jpg",
-    "images": [
-        "galerie/p/procesor-intel-core-ultra-5-d_72122.webp",
-        "galerie/p/procesor-intel-core-ultra-5-d_72122.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory Intel"
+  ],
+  "id": "19593",
+  "code": "BX80768245KF",
+  "name": "Procesor Intel Core Ultra 5 Desktop 245KF 14 cores up to 5.2 GHz",
+  "price": 851.9,
+  "description": "<p>Intel Core Ultra 5 245KF to zaawansowany procesor 15. generacji, zaprojektowany z myślą o graczach i twórcach treści. Wykorzystuje zoptymalizowaną architekturę hybrydową, łączącą wysokowydajne rdzenie z efektywnymi, co zapewnia doskonałą równowagę między mocą obliczeniową a efektywnością energetyczną.​</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba rdzeni i wątków</p><p>Procesor posiada łącznie 14 rdzeni, w tym 6 rdzeni Performance (P-cores) i 8 rdzeni Efficient (E-cores), obsługujących 14 wątków.​</p></li><li><p>Bazowa częstotliwość rdzeni Performance</p><p>4,2 GHz​</p></li><li><p>Bazowa częstotliwość rdzeni Efficient</p><p>3,6 GHz​</p></li><li><p>Maksymalna częstotliwość Turbo rdzeni Performance</p><p>5,2 GHz​</p></li><li><p>Maksymalna częstotliwość Turbo rdzeni Efficient</p><p>4,6 GHz​</p></li><li><p>Pamięć cache</p><p>24 MB pamięci Intel® Smart Cache​, 26 MB całkowitej pamięci L2​</p></li><li><p>Kontroler pamięci</p><p>Obsługuje do 192 GB pamięci DDR5 o prędkości do 6400 MT/s w konfiguracji dwukanałowej.​</p></li><li><p>Zgodność z PCI Express</p><p>Obsługuje standardy PCIe 5.0 i 4.0 z maksymalnie 24 liniami, co umożliwia szybkie połączenia z nowoczesnymi kartami graficznymi i innymi urządzeniami.​</p></li><li><p>Zintegrowana grafika</p><p>Procesor nie posiada zintegrowanego układu graficznego, co oznacza konieczność zastosowania dedykowanej karty graficznej.​</p></li><li><p>Moc</p><p>Podstawowy pobór mocy procesora wynosi 125 W, a maksymalny w trybie Turbo to 159 W.​</p></li><li><p>Gniazdo</p><p>Procesor jest kompatybilny z podstawką LGA 1851.​</p></li><li><p>Technologie AI</p><p>Wyposażony w Intel® AI Boost (NPU) z wydajnością do 13 TOPS (Int8), wspierający nowoczesne aplikacje wykorzystujące sztuczną inteligencję.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/intel.jpg",
+  "images": [
+    "galerie/p/procesor-intel-core-ultra-5-d_72122.webp",
+    "galerie/p/procesor-intel-core-ultra-5-d_72122.webp"
+  ],
+  "manufacturer": "Intel"
 }

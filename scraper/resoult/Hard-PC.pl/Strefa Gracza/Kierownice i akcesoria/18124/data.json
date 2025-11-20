@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18124",
-    "code": "GAJO-651",
-    "name": "Mocowanie kierownicy MOZA",
-    "price": 279.0,
-    "description": "<p>Dzięki tej ramie firmy MOZA możesz dowolnie zamontować rozstaw osi. Jest przykręcony do przodu rozstawu osi. Z boku znajdują się otwory, a nawet cztery dodatkowe wsporniki montażowe, za pomocą których można przykręcić przedni uchwyt rozstawu kół . Materiały instalacyjne i narzędzia są zawarte w dostawie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>250 x 250 x 78 mm (dł. x szer. x wys.)</p></li><li><p>Materiał</p><p>Aluminium</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Kompatybilność rozstawu osi</p><p>R16, R21</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/m/mocowanie-kierownicy-moza_66728.webp",
-        "galerie/m/mocowanie-kierownicy-moza_66729.webp",
-        "galerie/m/mocowanie-kierownicy-moza_66730.webp",
-        "galerie/m/mocowanie-kierownicy-moza_66728.webp",
-        "galerie/m/mocowanie-kierownicy-moza_66729.webp",
-        "galerie/m/mocowanie-kierownicy-moza_66730.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18124",
+  "code": "GAJO-651",
+  "name": "Mocowanie kierownicy MOZA",
+  "price": 279.0,
+  "description": "<p>Dzięki tej ramie firmy MOZA możesz dowolnie zamontować rozstaw osi. Jest przykręcony do przodu rozstawu osi. Z boku znajdują się otwory, a nawet cztery dodatkowe wsporniki montażowe, za pomocą których można przykręcić przedni uchwyt rozstawu kół . Materiały instalacyjne i narzędzia są zawarte w dostawie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>250 x 250 x 78 mm (dł. x szer. x wys.)</p></li><li><p>Materiał</p><p>Aluminium</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Kompatybilność rozstawu osi</p><p>R16, R21</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/mocowanie-kierownicy-moza_66728.webp",
+    "galerie/m/mocowanie-kierownicy-moza_66729.webp",
+    "galerie/m/mocowanie-kierownicy-moza_66730.webp",
+    "galerie/m/mocowanie-kierownicy-moza_66728.webp",
+    "galerie/m/mocowanie-kierownicy-moza_66729.webp",
+    "galerie/m/mocowanie-kierownicy-moza_66730.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

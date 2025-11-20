@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Narzędzia"
-    ],
-    "id": "13523",
-    "code": "ZUWS-125",
-    "name": "Przyssawka iFixit do ekranów - 2szt",
-    "price": 53.9,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Mała przyssawka do otwierania smartfonów i tabletów</li><li>Średnica 45mm</li><li>Składany plastikowy uchwyt</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ifixit.jpg",
-    "images": [
-        "galerie/p/przyssawka-ifixit-do-ekranow_48683.webp",
-        "galerie/p/przyssawka-ifixit-do-ekranow_48684.webp",
-        "galerie/p/przyssawka-ifixit-do-ekranow_48685.webp",
-        "galerie/p/przyssawka-ifixit-do-ekranow_48683.webp",
-        "galerie/p/przyssawka-ifixit-do-ekranow_48684.webp",
-        "galerie/p/przyssawka-ifixit-do-ekranow_48685.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Narzędzia"
+  ],
+  "id": "13523",
+  "code": "ZUWS-125",
+  "name": "Przyssawka iFixit do ekranów - 2szt",
+  "price": 53.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Mała przyssawka do otwierania smartfonów i tabletów</li><li>Średnica 45mm</li><li>Składany plastikowy uchwyt</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ifixit.jpg",
+  "images": [
+    "galerie/p/przyssawka-ifixit-do-ekranow_48683.webp",
+    "galerie/p/przyssawka-ifixit-do-ekranow_48684.webp",
+    "galerie/p/przyssawka-ifixit-do-ekranow_48685.webp",
+    "galerie/p/przyssawka-ifixit-do-ekranow_48683.webp",
+    "galerie/p/przyssawka-ifixit-do-ekranow_48684.webp",
+    "galerie/p/przyssawka-ifixit-do-ekranow_48685.webp"
+  ],
+  "manufacturer": "iFixit"
 }

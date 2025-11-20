@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "14892",
-    "code": "PS-SPD-0750MNFABE-1",
-    "name": "Zasilacz Thermaltake Smart BM2 750W 80Plus Bronze",
-    "price": 375.0,
-    "description": "<p>Seria Smart BM2 zbudowana jest z myślą o zapewnieniu sprawności na poziomie 80 PLUS Bronze (do 85% obciążenia). Dostępna jest w wersjach 450 W / 550 W / 650 W / 750 W. Seria BM2 posiada wbudowany wentylator o średnicy 140 mm, japońskie kondensatory główny oraz inne komponenty premium. Zasilacz Smart BM2 750W zapewnia ciągłą i stabilną moc wyjściową przy 40 ℃, umożliwiając niemal bezgłośną pracę i niezawodne działanie w każdej sytuacji. Dzięki długiej, 5-letniej gwarancji, Smart BM2 750W jest w stanie zapewnić spokój na długi czas.</p><p>Seria Smart BM2 750W wykorzystuje cichy wentylator o średnicy 140 z inteligentną, zaprogramowaną kontrolą prędkości obrotowej, gwarantującą wydajność chłodzenia i cichą pracę.</p><p>Seria Smart BM2 wyposażona jest w miękkie, czarne, płaskie kable, zaprojektowane tak, aby instalacja kabli była łatwym zadaniem. Jednocześnie zasilacz zapewnia pełne zasilanie systemu przy optymalnych napięciach.</p><p>Wysokiej jakości japoński kondensator główny znacznie poprawia moc, zapewnia trwałość i gwarantuje, że Smart BM2 750W ma najwyższą stabilność i niezawodność w swojej klasie.</p><p>Dzięki konstrukcji DC do DC urządzenie może zoptymalizować maksymalnie zarządzanie energią Twojego systemu, czyli efektywna zmiana poziomu napięcia na 12 V, 5 V i 3 V oraz dopasowanie ich do obciążeń.</p><p>Zasilacz Smart BM2 750W oszczędza energię dzięki wysokiej sprawności energetycznej do 85%. Został zoptymalizowany do współpracy ze wszystkimi generacjami procesorów Intela, aby osiągnąć maksymalne oszczędności energii.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>750W</p></li><li><p>Wymiary</p><p>150x86x160mm</p></li><li><p>PFC</p><p>Aktywne</p></li><li><p>Napięcie robocze</p><p>230V</p></li><li><p>Wentylator</p><p>124mm Fan</p><p>2300 R.P.M. ± 10%</p></li><li><p>Złącza</p><p>ATX 24pin - 1szt<br/>ATX 12V (8pin) - 1szt<br/>ATX 12V - 1szt<br/>SATA - 9szt<br/>PCI-E (6+2pin) - 4szt<br/>Molex 4pin - 4szt<br/>FDD - 1szt</p></li><li><p>Specyfikacja prądowo napięciowa</p><p>+3.3V - 20A<br/>+5V - 14A<br/>Moc wyjściowa na linii +3.3V i 5V - 120W<br/>+12V - 62.5AW<br/>Moc Wyjściowa na linii +12V - 750W<br/>-12V - 0.5A<br/>Moc wyjściowa na linii 12V<br/>12.5W<br/>+5Vsb - 2.5A</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermaltake</p></li><li><p>Dane producenta</p><p>Thermaltake Technology Co., Ltd., 5F,No.185, Sec.2 Tiding Blvd., Neihu Dist., Tajpej, Tajwan</p></li><li><p>Podmiot odpowiedzialny</p><p>eXtremeMem, Michał Chmura, Szyszkowa 35, 02-291 Warszawa, michal.chmura@extrememem.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/thermaltake.jpg",
-    "images": [
-        "galerie/z/zasilacz-thermaltake-smart-bm_53974.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53975.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53976.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53977.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53978.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53979.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53974.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53975.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53976.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53977.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53978.webp",
-        "galerie/z/zasilacz-thermaltake-smart-bm_53979.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "14892",
+  "code": "PS-SPD-0750MNFABE-1",
+  "name": "Zasilacz Thermaltake Smart BM2 750W 80Plus Bronze",
+  "price": 375.0,
+  "description": "<p>Seria Smart BM2 zbudowana jest z myślą o zapewnieniu sprawności na poziomie 80 PLUS Bronze (do 85% obciążenia). Dostępna jest w wersjach 450 W / 550 W / 650 W / 750 W. Seria BM2 posiada wbudowany wentylator o średnicy 140 mm, japońskie kondensatory główny oraz inne komponenty premium. Zasilacz Smart BM2 750W zapewnia ciągłą i stabilną moc wyjściową przy 40 ℃, umożliwiając niemal bezgłośną pracę i niezawodne działanie w każdej sytuacji. Dzięki długiej, 5-letniej gwarancji, Smart BM2 750W jest w stanie zapewnić spokój na długi czas.</p><p>Seria Smart BM2 750W wykorzystuje cichy wentylator o średnicy 140 z inteligentną, zaprogramowaną kontrolą prędkości obrotowej, gwarantującą wydajność chłodzenia i cichą pracę.</p><p>Seria Smart BM2 wyposażona jest w miękkie, czarne, płaskie kable, zaprojektowane tak, aby instalacja kabli była łatwym zadaniem. Jednocześnie zasilacz zapewnia pełne zasilanie systemu przy optymalnych napięciach.</p><p>Wysokiej jakości japoński kondensator główny znacznie poprawia moc, zapewnia trwałość i gwarantuje, że Smart BM2 750W ma najwyższą stabilność i niezawodność w swojej klasie.</p><p>Dzięki konstrukcji DC do DC urządzenie może zoptymalizować maksymalnie zarządzanie energią Twojego systemu, czyli efektywna zmiana poziomu napięcia na 12 V, 5 V i 3 V oraz dopasowanie ich do obciążeń.</p><p>Zasilacz Smart BM2 750W oszczędza energię dzięki wysokiej sprawności energetycznej do 85%. Został zoptymalizowany do współpracy ze wszystkimi generacjami procesorów Intela, aby osiągnąć maksymalne oszczędności energii.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>750W</p></li><li><p>Wymiary</p><p>150x86x160mm</p></li><li><p>PFC</p><p>Aktywne</p></li><li><p>Napięcie robocze</p><p>230V</p></li><li><p>Wentylator</p><p>124mm Fan</p><p>2300 R.P.M. ± 10%</p></li><li><p>Złącza</p><p>ATX 24pin - 1szt<br/>ATX 12V (8pin) - 1szt<br/>ATX 12V - 1szt<br/>SATA - 9szt<br/>PCI-E (6+2pin) - 4szt<br/>Molex 4pin - 4szt<br/>FDD - 1szt</p></li><li><p>Specyfikacja prądowo napięciowa</p><p>+3.3V - 20A<br/>+5V - 14A<br/>Moc wyjściowa na linii +3.3V i 5V - 120W<br/>+12V - 62.5AW<br/>Moc Wyjściowa na linii +12V - 750W<br/>-12V - 0.5A<br/>Moc wyjściowa na linii 12V<br/>12.5W<br/>+5Vsb - 2.5A</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermaltake</p></li><li><p>Dane producenta</p><p>Thermaltake Technology Co., Ltd., 5F,No.185, Sec.2 Tiding Blvd., Neihu Dist., Tajpej, Tajwan</p></li><li><p>Podmiot odpowiedzialny</p><p>eXtremeMem, Michał Chmura, Szyszkowa 35, 02-291 Warszawa, michal.chmura@extrememem.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermaltake.jpg",
+  "images": [
+    "galerie/z/zasilacz-thermaltake-smart-bm_53974.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53975.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53976.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53977.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53978.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53979.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53974.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53975.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53976.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53977.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53978.webp",
+    "galerie/z/zasilacz-thermaltake-smart-bm_53979.webp"
+  ],
+  "manufacturer": "Thermaltake"
 }

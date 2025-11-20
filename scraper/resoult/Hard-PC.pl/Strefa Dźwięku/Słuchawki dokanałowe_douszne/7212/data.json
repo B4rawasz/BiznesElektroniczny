@@ -1,18 +1,19 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki dokanałowe/douszne"
-    ],
-    "id": "7212",
-    "code": "SM-EP30RD",
-    "name": "Słuchawki SoundMagic EP30 Red",
-    "price": 29.0,
-    "description": "<p>SoundMAGIC EP30 to najwyższy model słuchawek dousznych, tzw. pchełek tego producenta.</p><p>Miłośnicy właśnie takich konstrukcji na pewno nie będą zawiedzeni. Słuchawki grają lekko i żwawo oferując szeroką scenę i odpowiednio kreując również jej głębię. EP30 są detaliczne i zrównoważone w całym paśmie ze świetnie zdefiniowanym basem .</p><p>Poza dźwiękiem na uwagę zasługuje również wygoda. Słuchawki bardzo dobrze leżą i trzymają się w uszach. A dzięki nowoczesnej stylistyce również świetnie wyglądają.</p><p>Jest to dobry wybór niezależnie jakiej muzyki słuchasz. Jeśli słuchasz godzinami to zadowoli Cię fakt, że słuchawki nawet przy dużej głośności i długim słuchaniu nie powodują zmęczenia słuchu jak w przypadku wielu innych modeli na rynku.</p><h2>Dane techniczne:</h2><ul id=\"attribs\"><li>Przetwornik: Dynamiczny 15mm z neodymowym magnesem</li><li>Pasmo przenoszenia: 25 Hz~20KHz</li><li>Impedancja: 16 ± 10% Ω</li><li>Skuteczność: 115 ± 2 dB at 1KHz/mW</li><li>Długość kabla: 1.2 m</li><li>Wtyk:  stereo 3,5 mm kątowy, pozłacany</li><li>Waga: 12 g</li><li>W komplecie: Słuchawki, komplet poduszek</li></ul>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Soundmagic</p></li><li><p>Dane producenta</p><p>Shenzhen SoundMAGIC Technology Development Co.,Ltd, No.8, Fulong Industrial Zone, Shipai town, Dongguan City, Guangdong Province, sales2@soundmagic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/soundmagic.jpg",
-    "images": [
-        "galerie/s/sluchawki-soundmagic-ep3_16554.webp",
-        "galerie/s/sluchawki-soundmagic-ep3_16554.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "7212",
+  "code": "SM-EP30RD",
+  "name": "Słuchawki SoundMagic EP30 Red",
+  "price": 29.0,
+  "description": "<p>SoundMAGIC EP30 to najwyższy model słuchawek dousznych, tzw. pchełek tego producenta.</p><p>Miłośnicy właśnie takich konstrukcji na pewno nie będą zawiedzeni. Słuchawki grają lekko i żwawo oferując szeroką scenę i odpowiednio kreując również jej głębię. EP30 są detaliczne i zrównoważone w całym paśmie ze świetnie zdefiniowanym basem .</p><p>Poza dźwiękiem na uwagę zasługuje również wygoda. Słuchawki bardzo dobrze leżą i trzymają się w uszach. A dzięki nowoczesnej stylistyce również świetnie wyglądają.</p><p>Jest to dobry wybór niezależnie jakiej muzyki słuchasz. Jeśli słuchasz godzinami to zadowoli Cię fakt, że słuchawki nawet przy dużej głośności i długim słuchaniu nie powodują zmęczenia słuchu jak w przypadku wielu innych modeli na rynku.</p><h2>Dane techniczne:</h2><ul id=\"attribs\"><li>Przetwornik: Dynamiczny 15mm z neodymowym magnesem</li><li>Pasmo przenoszenia: 25 Hz~20KHz</li><li>Impedancja: 16 ± 10% Ω</li><li>Skuteczność: 115 ± 2 dB at 1KHz/mW</li><li>Długość kabla: 1.2 m</li><li>Wtyk:  stereo 3,5 mm kątowy, pozłacany</li><li>Waga: 12 g</li><li>W komplecie: Słuchawki, komplet poduszek</li></ul>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Soundmagic</p></li><li><p>Dane producenta</p><p>Shenzhen SoundMAGIC Technology Development Co.,Ltd, No.8, Fulong Industrial Zone, Shipai town, Dongguan City, Guangdong Province, sales2@soundmagic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/soundmagic.jpg",
+  "images": [
+    "galerie/s/sluchawki-soundmagic-ep3_16554.webp",
+    "galerie/s/sluchawki-soundmagic-ep3_16554.webp"
+  ],
+  "manufacturer": "Soundmagic"
 }

@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Akcesoria dla streamera"
-    ],
-    "id": "20460",
-    "code": "A4TKAM46703",
-    "name": "Kamera internetowa A4TECH HD PK-910P USB Black",
-    "price": 29.0,
-    "description": "<h2>Wysokiej jakości obraz w rozdzielczości HD</h2><p>Kamera internetowa oferuje rozdzielczość HD 720P (1280 × 720), zapewniając wyraźny i szczegółowy obraz w każdej sytuacji. Dzięki 30 klatkom na sekundę transmisje wideo są płynne, co idealnie sprawdza się zarówno podczas wideokonferencji, jak i rozmów prywatnych.</p><h2>Wbudowany mikrofon cyfrowy</h2><p>Urządzenie wyposażono w pojedynczy, cyfrowy mikrofon, który skutecznie wychwytuje dźwięk z otoczenia. To wygodne rozwiązanie dla osób prowadzących spotkania online, streamujących lub uczących się zdalnie, bez potrzeby stosowania dodatkowego sprzętu audio.</p><h2>Szklany obiektyw i stała ostrość</h2><p>Kamera korzysta z wysokiej jakości szklanego obiektywu HD, oferując czysty i naturalny obraz. Stała ostrość (fixed focus) eliminuje konieczność ręcznego ustawiania, gwarantując optymalną ostrość podczas każdej rozmowy.</p><h2>Szeroka kompatybilność i prosta instalacja</h2><p>Dzięki wykorzystaniu interfejsu USB 2.0 High-Speed kamera jest gotowa do działania zaraz po podłączeniu – wystarczy jedno gniazdo USB. Kompatybilna z systemami Windows 7, 8, 8.1, 10 oraz nowszymi, nie wymaga instalacji dodatkowych sterowników.</p><h2>Przemyślana konstrukcja i szerokie pole widzenia</h2><p>Urządzenie charakteryzuje się kompaktowymi wymiarami (39 mm × 60 mm × 56 mm), co pozwala łatwo zamontować je na górnej krawędzi monitora. Kąt widzenia 68 stopni doskonale sprawdza się podczas rozmów indywidualnych, obejmując całą sylwetkę użytkownika.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Kamera internetowa HD 720P, idealna do montażu na ekranie monitora.</li><li>Specyfikacja techniczna:</li><li>Rozdzielczość: HD 720P 1280 * 720</li><li>Liczba klatek na sekundę: 30 klatek na sekundę</li><li>Wbudowany mikrofon: pojedynczy mikrofon cyfrowy</li><li>Typ obiektywu: szklany obiektyw HD</li><li>Typ ostrości: Fixed focus</li><li>Format wyjściowy: MJPEG YUY2</li><li>Transfer USB: USB 2.0 High-Speed</li><li>Kąt widzenia: 68 stopni</li><li>Wymagania systemowe: Windows 7/8 / 8.1 / 10 lub nowszy</li><li>Wymiary: Szerokość: 39mm, Głebokość: 60mm, Wysokość: 56mm.</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>A4Tech</p></li><li><p>Dane producenta</p><p>A-Four Tech Co., Ltd., 6F, No. 108, Min-Chuan Rd., Hsin-Tien City, New Taipei City, Tajwan, market@a4tech.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/a4tech.jpg",
-    "images": [
-        "galerie/k/kamera-internetowa-a4tech-hd_77089.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77083.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77084.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77085.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77086.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77087.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77088.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77089.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77083.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77084.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77085.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77086.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77087.webp",
-        "galerie/k/kamera-internetowa-a4tech-hd_77088.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "20460",
+  "code": "A4TKAM46703",
+  "name": "Kamera internetowa A4TECH HD PK-910P USB Black",
+  "price": 29.0,
+  "description": "<h2>Wysokiej jakości obraz w rozdzielczości HD</h2><p>Kamera internetowa oferuje rozdzielczość HD 720P (1280 × 720), zapewniając wyraźny i szczegółowy obraz w każdej sytuacji. Dzięki 30 klatkom na sekundę transmisje wideo są płynne, co idealnie sprawdza się zarówno podczas wideokonferencji, jak i rozmów prywatnych.</p><h2>Wbudowany mikrofon cyfrowy</h2><p>Urządzenie wyposażono w pojedynczy, cyfrowy mikrofon, który skutecznie wychwytuje dźwięk z otoczenia. To wygodne rozwiązanie dla osób prowadzących spotkania online, streamujących lub uczących się zdalnie, bez potrzeby stosowania dodatkowego sprzętu audio.</p><h2>Szklany obiektyw i stała ostrość</h2><p>Kamera korzysta z wysokiej jakości szklanego obiektywu HD, oferując czysty i naturalny obraz. Stała ostrość (fixed focus) eliminuje konieczność ręcznego ustawiania, gwarantując optymalną ostrość podczas każdej rozmowy.</p><h2>Szeroka kompatybilność i prosta instalacja</h2><p>Dzięki wykorzystaniu interfejsu USB 2.0 High-Speed kamera jest gotowa do działania zaraz po podłączeniu – wystarczy jedno gniazdo USB. Kompatybilna z systemami Windows 7, 8, 8.1, 10 oraz nowszymi, nie wymaga instalacji dodatkowych sterowników.</p><h2>Przemyślana konstrukcja i szerokie pole widzenia</h2><p>Urządzenie charakteryzuje się kompaktowymi wymiarami (39 mm × 60 mm × 56 mm), co pozwala łatwo zamontować je na górnej krawędzi monitora. Kąt widzenia 68 stopni doskonale sprawdza się podczas rozmów indywidualnych, obejmując całą sylwetkę użytkownika.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Kamera internetowa HD 720P, idealna do montażu na ekranie monitora.</li><li>Specyfikacja techniczna:</li><li>Rozdzielczość: HD 720P 1280 * 720</li><li>Liczba klatek na sekundę: 30 klatek na sekundę</li><li>Wbudowany mikrofon: pojedynczy mikrofon cyfrowy</li><li>Typ obiektywu: szklany obiektyw HD</li><li>Typ ostrości: Fixed focus</li><li>Format wyjściowy: MJPEG YUY2</li><li>Transfer USB: USB 2.0 High-Speed</li><li>Kąt widzenia: 68 stopni</li><li>Wymagania systemowe: Windows 7/8 / 8.1 / 10 lub nowszy</li><li>Wymiary: Szerokość: 39mm, Głebokość: 60mm, Wysokość: 56mm.</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>A4Tech</p></li><li><p>Dane producenta</p><p>A-Four Tech Co., Ltd., 6F, No. 108, Min-Chuan Rd., Hsin-Tien City, New Taipei City, Tajwan, market@a4tech.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/a4tech.jpg",
+  "images": [
+    "galerie/k/kamera-internetowa-a4tech-hd_77089.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77083.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77084.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77085.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77086.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77087.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77088.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77089.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77083.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77084.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77085.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77086.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77087.webp",
+    "galerie/k/kamera-internetowa-a4tech-hd_77088.webp"
+  ],
+  "manufacturer": "A4Tech"
 }

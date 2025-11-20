@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy z oknem"
-    ],
-    "id": "17071",
-    "code": "GELI-942",
-    "name": "Obudowa Lian Li O11D EVO RGB Tempered Glass Black",
-    "price": 763.9,
-    "description": "<h2>Lian Li O11 Dynamic EVO RGB: Wyjątkowa konstrukcja z zachwycającym oświetleniem</h2><p>Zapewnij swojemu komputerowi nie tylko doskonałą wentylację, ale także stylowy wygląd dzięki obudowie Lian Li O11 Dynamic EVO RGB. Ta nowa wersja klasycznej obudowy O11 Dynamic EVO to połączenie innowacyjnego oświetlenia z większą przestrzenią i elastycznym designem - idealna dla pasjonatów gamingu i modderów.</p><h2>Potężna wydajność chłodzenia</h2><p>Dzięki możliwości montażu aż dziesięciu wentylatorów o średnicy 120 mm, w tym trzech na górze, trzech po bokach, trzech na dole i jednego z tyłu, zapewniasz optymalną cyrkulację powietrza, niezależnie od obciążenia systemu. Montaż wentylatorów na specjalnych ramkach z gumową uszczelką zapewnia dodatkowe skupienie strumienia powietrza, co maksymalizuje efektywność chłodzenia.</p><h2>Rewolucyjny tryb Reverse Mode</h2><p>Nie musisz już wybierać między praktycznością a estetyką. Dzięki unikalnemu trybowi Reverse Mode, możesz obrócić obudowę o 180 stopni, aby zobaczyć swoje komponenty od najlepszej strony, a przy okazji zachować porządek na biurku.</p><h2>Przestronne wnętrze dla potężnych konfiguracji</h2><p>Dzięki przestronnemu wnętrzu, możesz swobodnie montować duże płyty główne w formatach E-ATX, ATX, Micro-ATX i Mini-ITX, oraz karty graficzne o długości do 455 mm. Opcje montażu dysków SSD i HDD zapewniają wystarczającą ilość miejsca na przechowywanie danych, nawet dla najbardziej wymagających użytkowników.</p><h2>Eleganckie oświetlenie RGB i funkcjonalny panel I/O</h2><p>Niezależnie od tego, czy preferujesz stonowany wygląd, czy wyrazisty design, obudowa Lian Li O11 Dynamic EVO RGB zadowoli każdego entuzjastę. Dwa paski RGB zapewniają 14 różnych efektów oświetleniowych, które możesz dostosować do swojego nastroju, podczas gdy modularny panel I/O daje możliwość łatwej konfiguracji portów USB i przycisków zasilania.</p><h2>Podsumowanie</h2><p>Lian Li O11 Dynamic EVO RGB to nie tylko obudowa komputerowa, to prawdziwe dzieło sztuki, które pozwoli Ci stworzyć niepowtarzalny gamingowy setup, który przyciągnie uwagę wszystkich. Dzięki innowacyjnemu designowi, potężnym możliwościom chłodzenia i efektownemu oświetleniu RGB, twój komputer będzie nie tylko wydajny, ale także stylowy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>290 x 471 x 478 mm (W x H x D)</p></li><li><p>Materiał</p><p>stal, aluminum, szkło hartowane</p></li><li><p>Waga</p><p>około 16 kg</p></li><li><p>Standard</p><p>E-ATX, ATX, Micro-ATX, Mini-ITX</p></li><li><p>Możliwość montażu wentylatorów</p><p>Top 3x 120 / 3x 140 mm<br/>Bok 3x 120 / 3x 140 mm<br/>Dół 3x 120 / 3x 140 mm<br/>Tył 1x 120 mm</p></li><li><p>Możliwość montażu chłodnic</p><p>Top 1x 420 / 360 / 240 mm, <br/>Bok 1x 360 / 280 / 240 mm,<br/>Dół</p><p>1x 360 / 280 / 240 mm,</p></li><li><p>Miejsca na dysk</p><p>Z tyłu 4x 2.5 / 2x 3.5\"<br/>Za tacką płyty głównej 2x 2.5\"<br/>Klatka na HDD 2x 2.5 / 3.5\"</p></li><li><p>Miejsce na karty rozszerzeń</p><p>7</p></li><li><p>I/O</p><p>1x USB 3.1 Type C <br/>2x USB 3.0 Type-A <br/>1x 3.5 mm jack <br/>1x reset button<br/>1x lighting mode<br/>1x color adjustment<br/>1x brightness adjustment<br/>on/off switch</p></li><li><p>Maksymalna długość GPU</p><p>455.7 mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>167 mm</p></li><li><p>Maksymalna długość zasilacza</p><p>220 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61629.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61630.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61631.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61632.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61633.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61634.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61635.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61636.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61629.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61630.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61631.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61632.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61633.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61634.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61635.webp",
-        "galerie/o/obudowa-lian-li-o11d-evo-rgb_61636.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "17071",
+  "code": "GELI-942",
+  "name": "Obudowa Lian Li O11D EVO RGB Tempered Glass Black",
+  "price": 763.9,
+  "description": "<h2>Lian Li O11 Dynamic EVO RGB: Wyjątkowa konstrukcja z zachwycającym oświetleniem</h2><p>Zapewnij swojemu komputerowi nie tylko doskonałą wentylację, ale także stylowy wygląd dzięki obudowie Lian Li O11 Dynamic EVO RGB. Ta nowa wersja klasycznej obudowy O11 Dynamic EVO to połączenie innowacyjnego oświetlenia z większą przestrzenią i elastycznym designem - idealna dla pasjonatów gamingu i modderów.</p><h2>Potężna wydajność chłodzenia</h2><p>Dzięki możliwości montażu aż dziesięciu wentylatorów o średnicy 120 mm, w tym trzech na górze, trzech po bokach, trzech na dole i jednego z tyłu, zapewniasz optymalną cyrkulację powietrza, niezależnie od obciążenia systemu. Montaż wentylatorów na specjalnych ramkach z gumową uszczelką zapewnia dodatkowe skupienie strumienia powietrza, co maksymalizuje efektywność chłodzenia.</p><h2>Rewolucyjny tryb Reverse Mode</h2><p>Nie musisz już wybierać między praktycznością a estetyką. Dzięki unikalnemu trybowi Reverse Mode, możesz obrócić obudowę o 180 stopni, aby zobaczyć swoje komponenty od najlepszej strony, a przy okazji zachować porządek na biurku.</p><h2>Przestronne wnętrze dla potężnych konfiguracji</h2><p>Dzięki przestronnemu wnętrzu, możesz swobodnie montować duże płyty główne w formatach E-ATX, ATX, Micro-ATX i Mini-ITX, oraz karty graficzne o długości do 455 mm. Opcje montażu dysków SSD i HDD zapewniają wystarczającą ilość miejsca na przechowywanie danych, nawet dla najbardziej wymagających użytkowników.</p><h2>Eleganckie oświetlenie RGB i funkcjonalny panel I/O</h2><p>Niezależnie od tego, czy preferujesz stonowany wygląd, czy wyrazisty design, obudowa Lian Li O11 Dynamic EVO RGB zadowoli każdego entuzjastę. Dwa paski RGB zapewniają 14 różnych efektów oświetleniowych, które możesz dostosować do swojego nastroju, podczas gdy modularny panel I/O daje możliwość łatwej konfiguracji portów USB i przycisków zasilania.</p><h2>Podsumowanie</h2><p>Lian Li O11 Dynamic EVO RGB to nie tylko obudowa komputerowa, to prawdziwe dzieło sztuki, które pozwoli Ci stworzyć niepowtarzalny gamingowy setup, który przyciągnie uwagę wszystkich. Dzięki innowacyjnemu designowi, potężnym możliwościom chłodzenia i efektownemu oświetleniu RGB, twój komputer będzie nie tylko wydajny, ale także stylowy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>290 x 471 x 478 mm (W x H x D)</p></li><li><p>Materiał</p><p>stal, aluminum, szkło hartowane</p></li><li><p>Waga</p><p>około 16 kg</p></li><li><p>Standard</p><p>E-ATX, ATX, Micro-ATX, Mini-ITX</p></li><li><p>Możliwość montażu wentylatorów</p><p>Top 3x 120 / 3x 140 mm<br/>Bok 3x 120 / 3x 140 mm<br/>Dół 3x 120 / 3x 140 mm<br/>Tył 1x 120 mm</p></li><li><p>Możliwość montażu chłodnic</p><p>Top 1x 420 / 360 / 240 mm, <br/>Bok 1x 360 / 280 / 240 mm,<br/>Dół</p><p>1x 360 / 280 / 240 mm,</p></li><li><p>Miejsca na dysk</p><p>Z tyłu 4x 2.5 / 2x 3.5\"<br/>Za tacką płyty głównej 2x 2.5\"<br/>Klatka na HDD 2x 2.5 / 3.5\"</p></li><li><p>Miejsce na karty rozszerzeń</p><p>7</p></li><li><p>I/O</p><p>1x USB 3.1 Type C <br/>2x USB 3.0 Type-A <br/>1x 3.5 mm jack <br/>1x reset button<br/>1x lighting mode<br/>1x color adjustment<br/>1x brightness adjustment<br/>on/off switch</p></li><li><p>Maksymalna długość GPU</p><p>455.7 mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>167 mm</p></li><li><p>Maksymalna długość zasilacza</p><p>220 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61629.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61630.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61631.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61632.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61633.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61634.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61635.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61636.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61629.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61630.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61631.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61632.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61633.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61634.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61635.webp",
+    "galerie/o/obudowa-lian-li-o11d-evo-rgb_61636.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

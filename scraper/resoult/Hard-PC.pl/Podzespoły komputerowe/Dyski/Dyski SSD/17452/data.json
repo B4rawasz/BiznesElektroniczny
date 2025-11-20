@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Dyski",
-        "Dyski SSD"
-    ],
-    "id": "17452",
-    "code": "P210S512G25",
-    "name": "Dysk SSD Patriot P210 512GB SATA3 2.5 520/430MB/s",
-    "price": 179.0,
-    "description": "<p>Dysk SSD Patriot P210 to nowoczesne rozwiązanie, które dzięki najnowszemu kontrolerowi SATA 3 zapewnia wydajność na najwyższym poziomie. Dzięki pojemności do 2TB możesz przechowywać jeszcze więcej danych w mniejszej przestrzeni, co sprawia, że jest to wyjątkowo ekonomiczne rozwiązanie.</p><p>Ten dysk SSD o formacie 2,5 cala i wysokości 7 mm doskonale nadaje się do szybkich i łatwych modernizacji całego systemu. Patriot P210 pozwala na bezpieczne przechowywanie dużych plików oraz zwiększa wydajność komputera, przyspieszając ładowanie aplikacji i zwiększając ogólną produktywność.</p><p>Wybierz Patriot P210 i ciesz się lepszą wydajnością swojego systemu!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ dysku</p><p>SSD</p></li><li><p>Format szerokości</p><p>2,5'' (SFF)</p></li><li><p>Typ napędu</p><p>Wewnętrzny</p></li><li><p>Pojemność dysku</p><p>512 GB</p></li><li><p>Interfejs dysku</p><p>SATA III - 6 Gb/s</p></li><li><p>TBW</p><p>240 TB</p></li><li><p>Prędkość odczytu</p><p>520 MB/s</p></li><li><p>Prędkość zapisu</p><p>430 MB/s</p></li><li><p>4K Aligned Random Read</p><p>do 50K IOPs</p></li><li><p>4K Aligned Random Write</p><p>do 50K IOPS</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Patriot</p></li><li><p>Dane producenta</p><p>Patriot Memory B.V., Innsbruckweg 190, 3047 AH ROTTERDAM, patrioteuropeoffice@patriotmemory.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/patriot.jpg",
-    "images": [
-        "galerie/d/dysk-ssd-patriot-p210-512gb-s_63693.webp",
-        "galerie/d/dysk-ssd-patriot-p210-512gb-s_63694.webp",
-        "galerie/d/dysk-ssd-patriot-p210-512gb-s_63695.webp",
-        "galerie/d/dysk-ssd-patriot-p210-512gb-s_63693.webp",
-        "galerie/d/dysk-ssd-patriot-p210-512gb-s_63694.webp",
-        "galerie/d/dysk-ssd-patriot-p210-512gb-s_63695.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Dyski SSD"
+  ],
+  "id": "17452",
+  "code": "P210S512G25",
+  "name": "Dysk SSD Patriot P210 512GB SATA3 2.5 520/430MB/s",
+  "price": 179.0,
+  "description": "<p>Dysk SSD Patriot P210 to nowoczesne rozwiązanie, które dzięki najnowszemu kontrolerowi SATA 3 zapewnia wydajność na najwyższym poziomie. Dzięki pojemności do 2TB możesz przechowywać jeszcze więcej danych w mniejszej przestrzeni, co sprawia, że jest to wyjątkowo ekonomiczne rozwiązanie.</p><p>Ten dysk SSD o formacie 2,5 cala i wysokości 7 mm doskonale nadaje się do szybkich i łatwych modernizacji całego systemu. Patriot P210 pozwala na bezpieczne przechowywanie dużych plików oraz zwiększa wydajność komputera, przyspieszając ładowanie aplikacji i zwiększając ogólną produktywność.</p><p>Wybierz Patriot P210 i ciesz się lepszą wydajnością swojego systemu!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ dysku</p><p>SSD</p></li><li><p>Format szerokości</p><p>2,5'' (SFF)</p></li><li><p>Typ napędu</p><p>Wewnętrzny</p></li><li><p>Pojemność dysku</p><p>512 GB</p></li><li><p>Interfejs dysku</p><p>SATA III - 6 Gb/s</p></li><li><p>TBW</p><p>240 TB</p></li><li><p>Prędkość odczytu</p><p>520 MB/s</p></li><li><p>Prędkość zapisu</p><p>430 MB/s</p></li><li><p>4K Aligned Random Read</p><p>do 50K IOPs</p></li><li><p>4K Aligned Random Write</p><p>do 50K IOPS</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Patriot</p></li><li><p>Dane producenta</p><p>Patriot Memory B.V., Innsbruckweg 190, 3047 AH ROTTERDAM, patrioteuropeoffice@patriotmemory.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/patriot.jpg",
+  "images": [
+    "galerie/d/dysk-ssd-patriot-p210-512gb-s_63693.webp",
+    "galerie/d/dysk-ssd-patriot-p210-512gb-s_63694.webp",
+    "galerie/d/dysk-ssd-patriot-p210-512gb-s_63695.webp",
+    "galerie/d/dysk-ssd-patriot-p210-512gb-s_63693.webp",
+    "galerie/d/dysk-ssd-patriot-p210-512gb-s_63694.webp",
+    "galerie/d/dysk-ssd-patriot-p210-512gb-s_63695.webp"
+  ],
+  "manufacturer": "Patriot"
 }

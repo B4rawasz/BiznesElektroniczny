@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 120mm"
-    ],
-    "id": "20566",
-    "code": "LULI-145",
-    "name": "Wentylator Lian Li UNI FAN CL Wireless Black – 120mm 3-pack",
-    "price": 234.9,
-    "description": "<h2>Wentylator bezprzewodowy Lian Li UNI FAN CL: dwustrefowe oświetlenie RGB zapewniające imponujące efekty świetlne</h2><p><strong>Indywidualnie sterowane strefy LED</strong> pozwalają na jeszcze dokładniejsze dostrojenie oświetlenia. Niezależnie od tego, czy oświetlenie znajduje się na <em>łopatkach wentylatora</em>, czy na <em>bocznych paskach</em>, system uzyska pożądany wygląd.</p><h2>Instalacja bez użycia narzędzi, sterowanie bezprzewodowe</h2><p>Dzięki mechanizmowi <strong>push-to-connect</strong> możesz połączyć wentylatory ze sobą bez użycia śrub. W połączeniu z opcjonalnym kontrolerem <strong>L-Wireless Controller</strong> możesz sterować oświetleniem i prędkością wentylatorów <strong>bezprzewodowo za pomocą oprogramowania L-Connect 3</strong>.</p><h2>Wentylator PWM zapewniający ciche chłodzenie z silnym przepływem powietrza</h2><p>Dzięki <em>przepływowi powietrza na poziomie 131,41 m³/h</em>, <em>ciśnieniu 2,52 mmH₂O</em> i <em>poziomowi hałasu wynoszącemu zaledwie 29,8 dB(A)</em> wentylator CL Wireless jest cichy i jednocześnie wydajny – idealny do wymagających konfiguracji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Opakowanie 3 wentylatorów PWM 120 mm z czarną ramką i aluminiową tabliczką znamionową</li><li>Dual-zone RGB: oddzielne sterowanie łopatkami wentylatora i paskami bocznymi</li><li>Push-to-Connect: beznarzędziowe łączenie wielu wentylatorów</li><li>Łożyska FDB: cicha, długotrwała praca przy maks. 2150 obr./min</li><li>Przepływ powietrza 131,41 m³/h i ciśnienie statyczne 2,52 mmH₂O</li><li>Oprogramowanie L-Connect 3: wygodna kontrola prędkości i RGB</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Długość / Głębokość</p><p>120 mm</p></li><li><p>Szerokość</p><p>120 mm</p></li><li><p>Wysokość wentylatora</p><p>28 mm</p></li><li><p>Rozmiar wentylatora</p><p>120 mm</p></li><li><p>Minimalna prędkość wentylatora</p><p>250 obr./min</p></li><li><p>Maksymalna prędkość wentylatora</p><p>2150 obr./min</p></li><li><p>Maks. przepływ (pojedynczy wentylator)</p><p>131,41 m³/godz.</p></li><li><p>Maksymalne ciśnienie statyczne</p><p>2,52 mmH₂O</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Liczba produktów w zestawie</p><p>3</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79014.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79017.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79012.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79016.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79015.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79013.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79011.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79018.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79014.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79017.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79012.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79016.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79015.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79013.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79011.webp",
-        "galerie/w/wentylator-lian-li-uni-fan-cl_79018.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "20566",
+  "code": "LULI-145",
+  "name": "Wentylator Lian Li UNI FAN CL Wireless Black – 120mm 3-pack",
+  "price": 234.9,
+  "description": "<h2>Wentylator bezprzewodowy Lian Li UNI FAN CL: dwustrefowe oświetlenie RGB zapewniające imponujące efekty świetlne</h2><p><strong>Indywidualnie sterowane strefy LED</strong> pozwalają na jeszcze dokładniejsze dostrojenie oświetlenia. Niezależnie od tego, czy oświetlenie znajduje się na <em>łopatkach wentylatora</em>, czy na <em>bocznych paskach</em>, system uzyska pożądany wygląd.</p><h2>Instalacja bez użycia narzędzi, sterowanie bezprzewodowe</h2><p>Dzięki mechanizmowi <strong>push-to-connect</strong> możesz połączyć wentylatory ze sobą bez użycia śrub. W połączeniu z opcjonalnym kontrolerem <strong>L-Wireless Controller</strong> możesz sterować oświetleniem i prędkością wentylatorów <strong>bezprzewodowo za pomocą oprogramowania L-Connect 3</strong>.</p><h2>Wentylator PWM zapewniający ciche chłodzenie z silnym przepływem powietrza</h2><p>Dzięki <em>przepływowi powietrza na poziomie 131,41 m³/h</em>, <em>ciśnieniu 2,52 mmH₂O</em> i <em>poziomowi hałasu wynoszącemu zaledwie 29,8 dB(A)</em> wentylator CL Wireless jest cichy i jednocześnie wydajny – idealny do wymagających konfiguracji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Opakowanie 3 wentylatorów PWM 120 mm z czarną ramką i aluminiową tabliczką znamionową</li><li>Dual-zone RGB: oddzielne sterowanie łopatkami wentylatora i paskami bocznymi</li><li>Push-to-Connect: beznarzędziowe łączenie wielu wentylatorów</li><li>Łożyska FDB: cicha, długotrwała praca przy maks. 2150 obr./min</li><li>Przepływ powietrza 131,41 m³/h i ciśnienie statyczne 2,52 mmH₂O</li><li>Oprogramowanie L-Connect 3: wygodna kontrola prędkości i RGB</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Długość / Głębokość</p><p>120 mm</p></li><li><p>Szerokość</p><p>120 mm</p></li><li><p>Wysokość wentylatora</p><p>28 mm</p></li><li><p>Rozmiar wentylatora</p><p>120 mm</p></li><li><p>Minimalna prędkość wentylatora</p><p>250 obr./min</p></li><li><p>Maksymalna prędkość wentylatora</p><p>2150 obr./min</p></li><li><p>Maks. przepływ (pojedynczy wentylator)</p><p>131,41 m³/godz.</p></li><li><p>Maksymalne ciśnienie statyczne</p><p>2,52 mmH₂O</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Liczba produktów w zestawie</p><p>3</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79014.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79017.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79012.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79016.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79015.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79013.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79011.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79018.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79014.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79017.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79012.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79016.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79015.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79013.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79011.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79018.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

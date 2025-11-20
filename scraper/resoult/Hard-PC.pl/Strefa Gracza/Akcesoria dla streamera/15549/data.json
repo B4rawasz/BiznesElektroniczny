@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Akcesoria dla streamera"
-    ],
-    "id": "15549",
-    "code": "Y-3089",
-    "name": "HUB USB Unitek Y-3089 4x USB 3.0",
-    "price": 45.99,
-    "description": "<h2>Elegancja w wersji mini</h2><p>Hub Unitek Y-3089 zawiera cztery porty USB 3.1 Gen 1, dzięki którym możemy podłączyć do komputera lub laptopa dodatkowe urządzenia, takie jak klawiatura, mysz, drukarka czy tablet graficzny. Smukły, elegancki i poręczny hub w plastikowej obudowie będzie pasował wizualnie do nowoczesnej elektroniki, stając się ozdobą każdego biurka w domu, jak również miejscu pracy.</p><h2>Szybka porcja energii</h2><p>Zasilany bezpośrednio ze złącza USB, wspiera technologię ładowania BC1.2, która w inteligentny sposób dogaduje stosowne napięcia, pamięta o odłączeniu zasilania po naładowaniu baterii, oraz dba o wiele innych aspektów wpływających na jej żywotność. Hub zaopatrzono w port microUSB, którym możemy dostarczyć dodatkowe zasilanie tak był w stanie obsłużyć najbardziej prądożerne akcesoria. Zadbano o zabezpieczenia przed zwarciem oraz przepięciami tak aby jego użytkowanie było maksymalnie bezpieczne.</p><p>Hub korzysta z technologii SuperSpeed USB 3.0 zapewniającej transfer do 5Gbps. Skopiowanie filmu zajmuje nie więcej niż 9 sekund.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Prędkość USB 3.1 Gen 1 (transfer do 5Gbps)</li><li>Plug&amp;Play bez instalacji sterowników</li><li>Wstecznie kompatybilny z USB 2.0/1.1</li><li>Wsparcie technologii ładowania BC 1.2</li><li>Obsługa systemów Windows 7/8/8.1 (32/64bit), Mac OS 10.x i nowszych</li><li>Długość przewodu: 30 cm</li><li>Chipset: Realtec</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Głębokość</p><p>9 cm</p></li><li><p>Ilość w opakowaniu</p><p>1 szt</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał zewnętrzny</p><p>Tworzywo</p></li><li><p>Obsługiwane technologie</p><p>BC 1.2<br/>Plug &amp; Play</p></li><li><p>Przepustowość</p><p>5 Gbps</p></li><li><p>Szerokość</p><p>15 cm</p></li><li><p>Waga</p><p>0.048 kg</p></li><li><p>Wysokość</p><p>2.5 cm</p></li><li><p>Długość przewodu</p><p>0.3 m</p></li><li><p>Ilość portów USB-A</p><p>4 szt</p></li><li><p>Ilość w opakowaniu zbiorczym</p><p>60 szt</p></li><li><p>Linia produktu</p><p>High</p></li><li><p>Rodzaj urządzenia</p><p>Hub</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-A</p></li><li><p>Złącze 2</p><p>Port microUSB<br/>Port USB-A</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/h/hub-usb-unitek-y-3089-4x-usb_55429.webp",
-        "galerie/h/hub-usb-unitek-y-3089-4x-usb_55430.webp",
-        "galerie/h/hub-usb-unitek-y-3089-4x-usb_55431.webp",
-        "galerie/h/hub-usb-unitek-y-3089-4x-usb_55432.webp",
-        "galerie/h/hub-usb-unitek-y-3089-4x-usb_55429.webp",
-        "galerie/h/hub-usb-unitek-y-3089-4x-usb_55430.webp",
-        "galerie/h/hub-usb-unitek-y-3089-4x-usb_55431.webp",
-        "galerie/h/hub-usb-unitek-y-3089-4x-usb_55432.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "15549",
+  "code": "Y-3089",
+  "name": "HUB USB Unitek Y-3089 4x USB 3.0",
+  "price": 45.99,
+  "description": "<h2>Elegancja w wersji mini</h2><p>Hub Unitek Y-3089 zawiera cztery porty USB 3.1 Gen 1, dzięki którym możemy podłączyć do komputera lub laptopa dodatkowe urządzenia, takie jak klawiatura, mysz, drukarka czy tablet graficzny. Smukły, elegancki i poręczny hub w plastikowej obudowie będzie pasował wizualnie do nowoczesnej elektroniki, stając się ozdobą każdego biurka w domu, jak również miejscu pracy.</p><h2>Szybka porcja energii</h2><p>Zasilany bezpośrednio ze złącza USB, wspiera technologię ładowania BC1.2, która w inteligentny sposób dogaduje stosowne napięcia, pamięta o odłączeniu zasilania po naładowaniu baterii, oraz dba o wiele innych aspektów wpływających na jej żywotność. Hub zaopatrzono w port microUSB, którym możemy dostarczyć dodatkowe zasilanie tak był w stanie obsłużyć najbardziej prądożerne akcesoria. Zadbano o zabezpieczenia przed zwarciem oraz przepięciami tak aby jego użytkowanie było maksymalnie bezpieczne.</p><p>Hub korzysta z technologii SuperSpeed USB 3.0 zapewniającej transfer do 5Gbps. Skopiowanie filmu zajmuje nie więcej niż 9 sekund.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Prędkość USB 3.1 Gen 1 (transfer do 5Gbps)</li><li>Plug&amp;Play bez instalacji sterowników</li><li>Wstecznie kompatybilny z USB 2.0/1.1</li><li>Wsparcie technologii ładowania BC 1.2</li><li>Obsługa systemów Windows 7/8/8.1 (32/64bit), Mac OS 10.x i nowszych</li><li>Długość przewodu: 30 cm</li><li>Chipset: Realtec</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Głębokość</p><p>9 cm</p></li><li><p>Ilość w opakowaniu</p><p>1 szt</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał zewnętrzny</p><p>Tworzywo</p></li><li><p>Obsługiwane technologie</p><p>BC 1.2<br/>Plug &amp; Play</p></li><li><p>Przepustowość</p><p>5 Gbps</p></li><li><p>Szerokość</p><p>15 cm</p></li><li><p>Waga</p><p>0.048 kg</p></li><li><p>Wysokość</p><p>2.5 cm</p></li><li><p>Długość przewodu</p><p>0.3 m</p></li><li><p>Ilość portów USB-A</p><p>4 szt</p></li><li><p>Ilość w opakowaniu zbiorczym</p><p>60 szt</p></li><li><p>Linia produktu</p><p>High</p></li><li><p>Rodzaj urządzenia</p><p>Hub</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-A</p></li><li><p>Złącze 2</p><p>Port microUSB<br/>Port USB-A</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/h/hub-usb-unitek-y-3089-4x-usb_55429.webp",
+    "galerie/h/hub-usb-unitek-y-3089-4x-usb_55430.webp",
+    "galerie/h/hub-usb-unitek-y-3089-4x-usb_55431.webp",
+    "galerie/h/hub-usb-unitek-y-3089-4x-usb_55432.webp",
+    "galerie/h/hub-usb-unitek-y-3089-4x-usb_55429.webp",
+    "galerie/h/hub-usb-unitek-y-3089-4x-usb_55430.webp",
+    "galerie/h/hub-usb-unitek-y-3089-4x-usb_55431.webp",
+    "galerie/h/hub-usb-unitek-y-3089-4x-usb_55432.webp"
+  ],
+  "manufacturer": "Unitek"
 }

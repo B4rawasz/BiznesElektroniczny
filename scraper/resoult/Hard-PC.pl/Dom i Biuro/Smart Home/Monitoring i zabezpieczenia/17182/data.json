@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Monitoring i zabezpieczenia"
-    ],
-    "id": "17182",
-    "code": "TSL-CAM-BULLET8S",
-    "name": "Tesla Smart kamera zewnętrzna",
-    "price": 229.0,
-    "description": "<h2>Inteligentna kamera zewnętrznego nadzoru wideo do ochrony Twojego domu</h2><p>Inteligentna kamera może pochwalić się nie tylko wysoką jakością nagrywania, ale także obecnością zaawansowanych funkcji audio i inteligentnych detektorów, które powiadamiają o niebezpieczeństwie w czasie rzeczywistym. Możesz łatwo sterować kamerą za pomocą aplikacji mobilnej dostępnej w języku angielskim zarówno na iOS, jak i Android.</p><h2>Zaawansowane funkcje nowej generacji</h2><p>Zaawansowane inteligentne sceny zapewniają tryb prywatny: zostaw kamerę wyłączoną, gdy jesteś w domu. Wystarczy ustawić godziny pracy kamery i monitorować swój dom w aplikacji TESLA Smart. Łatwo też skonfigurować funkcję wykrywania ruchu w polu widzenia kamery. Zalecamy na przykład skonfigurowanie systemu wykrywania ruchu w celu ochrony drzwi lub okien. Także, ulepszona część aparatowa inteligentnej kamery jest ukryta w zupełnie nowej obudowie.</p><h2>Więcej niż tylko kamera</h2><p>Obraz ma nie tylko wysoką jakość, ale towarzyszy mu także nagrywanie dźwięku. Dzięki dwukierunkowej komunikacji audio możesz na przykład zdalnie rozmawiać na kamerę za pomocą telefonu, aby przestraszyć intruzów.</p><h2>Detekcja ruchu i dźwięku</h2><p>Jeśli inteligentny czujnik detektora wykryje coś niezwykłego, na przykład płacz dziecka lub rozbicie okna, ostrzeże Cię o tym za pomocą smartfona. Oznacza to, że zawsze możesz reagować w czasie rzeczywistym.</p><h2>Spełni wymagania Twojego inteligentnego domu</h2><p>Jeśli jesteś fanem inteligentnych technologii, ta kamera będzie idealnie pasowała do Twojego domu. Ponadto możesz łatwo skonfigurować wszystkie funkcje za pomocą aplikacji mobilnej dostępnej w języku angielskim na iOS i Androida. Urządzenie jest zasilane z gniazdka lub skrzynki odbiorczej i zapisuje materiał w pamięci w chmurze lub na karcie pamięci.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>6.5 cm</p></li><li><p>Szerokość:</p><p>6.5 cm</p></li><li><p>Głębokość:</p><p>13.5 cm</p></li><li><p>Waga:</p><p>0.42 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63305.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63306.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63307.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63308.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63309.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63310.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63311.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63305.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63306.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63307.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63308.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63309.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63310.webp",
-        "galerie/t/tesla-smart-kamera-zewnetrzna_63311.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Monitoring i zabezpieczenia"
+  ],
+  "id": "17182",
+  "code": "TSL-CAM-BULLET8S",
+  "name": "Tesla Smart kamera zewnętrzna",
+  "price": 229.0,
+  "description": "<h2>Inteligentna kamera zewnętrznego nadzoru wideo do ochrony Twojego domu</h2><p>Inteligentna kamera może pochwalić się nie tylko wysoką jakością nagrywania, ale także obecnością zaawansowanych funkcji audio i inteligentnych detektorów, które powiadamiają o niebezpieczeństwie w czasie rzeczywistym. Możesz łatwo sterować kamerą za pomocą aplikacji mobilnej dostępnej w języku angielskim zarówno na iOS, jak i Android.</p><h2>Zaawansowane funkcje nowej generacji</h2><p>Zaawansowane inteligentne sceny zapewniają tryb prywatny: zostaw kamerę wyłączoną, gdy jesteś w domu. Wystarczy ustawić godziny pracy kamery i monitorować swój dom w aplikacji TESLA Smart. Łatwo też skonfigurować funkcję wykrywania ruchu w polu widzenia kamery. Zalecamy na przykład skonfigurowanie systemu wykrywania ruchu w celu ochrony drzwi lub okien. Także, ulepszona część aparatowa inteligentnej kamery jest ukryta w zupełnie nowej obudowie.</p><h2>Więcej niż tylko kamera</h2><p>Obraz ma nie tylko wysoką jakość, ale towarzyszy mu także nagrywanie dźwięku. Dzięki dwukierunkowej komunikacji audio możesz na przykład zdalnie rozmawiać na kamerę za pomocą telefonu, aby przestraszyć intruzów.</p><h2>Detekcja ruchu i dźwięku</h2><p>Jeśli inteligentny czujnik detektora wykryje coś niezwykłego, na przykład płacz dziecka lub rozbicie okna, ostrzeże Cię o tym za pomocą smartfona. Oznacza to, że zawsze możesz reagować w czasie rzeczywistym.</p><h2>Spełni wymagania Twojego inteligentnego domu</h2><p>Jeśli jesteś fanem inteligentnych technologii, ta kamera będzie idealnie pasowała do Twojego domu. Ponadto możesz łatwo skonfigurować wszystkie funkcje za pomocą aplikacji mobilnej dostępnej w języku angielskim na iOS i Androida. Urządzenie jest zasilane z gniazdka lub skrzynki odbiorczej i zapisuje materiał w pamięci w chmurze lub na karcie pamięci.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>6.5 cm</p></li><li><p>Szerokość:</p><p>6.5 cm</p></li><li><p>Głębokość:</p><p>13.5 cm</p></li><li><p>Waga:</p><p>0.42 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63305.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63306.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63307.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63308.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63309.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63310.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63311.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63305.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63306.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63307.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63308.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63309.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63310.webp",
+    "galerie/t/tesla-smart-kamera-zewnetrzna_63311.webp"
+  ],
+  "manufacturer": "Tesla"
 }

@@ -1,26 +1,27 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki VoIP/Telekom"
-    ],
-    "id": "16013",
-    "code": "1000203",
-    "name": "Zestaw głośnomówiący do dużych sal EPOS EXPAND 80T",
-    "price": 3749.0,
-    "description": "<p>Osiągnij nowy poziom jakości i klarowności w konferencjach z EXPAND 80T - spikerfonem stworzonym specjalnie dla dużych sal. Z niezrównaną jakością dźwięku i funkcjonalnością, tworzenie konferencji stało się jeszcze bardziej efektywne i wygodne.</p><p>Moc mówiąca z mikrofonami MEMS - Sześć cyfrowych mikrofonów wyposażonych w zaawansowaną technologię kształtowania wiązki gwarantuje, że każde słowo jest wyraźne i zrozumiałe. Dzięki temu każdy uczestnik może się wypowiedzieć, a dyskusje stają się płynne i efektywne.</p><p>Niech jakość przemawia - Zastąp standardowe głośniki i mikrofony wbudowane w komputer pełnym, dynamicznym dźwiękiem głośnika o ultra niskim poziomie zniekształceń. Niwelacja echa oraz pełny dupleks pozwalają na swobodną i naturalną rozmowę, gdzie każdy dźwięk jest klarowny.</p><p>W pełnej harmonii z Microsoft Teams - Certyfikat Microsoft Teams gwarantuje pełną zgodność i optymalne działanie. Dedykowany przycisk do współpracy z Teams sprawia, że współpraca i komunikacja nigdy nie były prostsze.</p><p>Rozszerz możliwości - Dwa dodatkowe mikrofony mogą być łatwo dołączone, aby zwiększyć ilość uczestników w konferencji. Osiągnij jeszcze większą elastyczność i dostosowanie do wymagań Twoich spotkań.</p><p>Pełna kontrola z jednego miejsca - Oprogramowanie EPOS Connect i EPOS Manager umożliwiają zarządzanie, aktualizowanie i konfigurowanie urządzenia w sposób wygodny i efektywny. Skup się na treści spotkań, a cała technologia pracuje dla Ciebie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wielkość konferencji</p><p>Do 18 uczestników</p></li><li><p>Interfejs</p><p>USB + Bluetooth + BTD 800</p></li><li><p>Przeznaczenie</p><p>Microsoft Teams</p></li><li><p>Wbudowane mikrofony</p><p>6</p></li><li><p>Typ mikrofonu</p><p>Cyfrowy MEMS</p></li><li><p>Charakterystyka mikrofonu</p><p>Dookólna - 360 stopni</p></li><li><p>Pasmo przenoszenia mikrofonu</p><p>150 - 7,500 Hz</p></li><li><p>Pasmo przenoszenia głośnika</p><p>50 - 20,000 Hz</p></li><li><p>Czas rozmowy</p><p>Do 18h</p></li><li><p>Rozmiar</p><p>316x119mm</p></li><li><p>Waga</p><p>980 gram</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>EPOS</p></li><li><p>Dane producenta</p><p>EPOS Group A/S, Industriparken 27, Ballerup 2750, Dania, privacy@demant.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/epos.jpg",
-    "images": [
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56911.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56912.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56913.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56914.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56915.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56911.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56912.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56913.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56914.webp",
-        "galerie/z/zestaw-glosnomowiacy-do-duzyc_56915.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki VoIP/Telekom"
+  ],
+  "id": "16013",
+  "code": "1000203",
+  "name": "Zestaw głośnomówiący do dużych sal EPOS EXPAND 80T",
+  "price": 3749.0,
+  "description": "<p>Osiągnij nowy poziom jakości i klarowności w konferencjach z EXPAND 80T - spikerfonem stworzonym specjalnie dla dużych sal. Z niezrównaną jakością dźwięku i funkcjonalnością, tworzenie konferencji stało się jeszcze bardziej efektywne i wygodne.</p><p>Moc mówiąca z mikrofonami MEMS - Sześć cyfrowych mikrofonów wyposażonych w zaawansowaną technologię kształtowania wiązki gwarantuje, że każde słowo jest wyraźne i zrozumiałe. Dzięki temu każdy uczestnik może się wypowiedzieć, a dyskusje stają się płynne i efektywne.</p><p>Niech jakość przemawia - Zastąp standardowe głośniki i mikrofony wbudowane w komputer pełnym, dynamicznym dźwiękiem głośnika o ultra niskim poziomie zniekształceń. Niwelacja echa oraz pełny dupleks pozwalają na swobodną i naturalną rozmowę, gdzie każdy dźwięk jest klarowny.</p><p>W pełnej harmonii z Microsoft Teams - Certyfikat Microsoft Teams gwarantuje pełną zgodność i optymalne działanie. Dedykowany przycisk do współpracy z Teams sprawia, że współpraca i komunikacja nigdy nie były prostsze.</p><p>Rozszerz możliwości - Dwa dodatkowe mikrofony mogą być łatwo dołączone, aby zwiększyć ilość uczestników w konferencji. Osiągnij jeszcze większą elastyczność i dostosowanie do wymagań Twoich spotkań.</p><p>Pełna kontrola z jednego miejsca - Oprogramowanie EPOS Connect i EPOS Manager umożliwiają zarządzanie, aktualizowanie i konfigurowanie urządzenia w sposób wygodny i efektywny. Skup się na treści spotkań, a cała technologia pracuje dla Ciebie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wielkość konferencji</p><p>Do 18 uczestników</p></li><li><p>Interfejs</p><p>USB + Bluetooth + BTD 800</p></li><li><p>Przeznaczenie</p><p>Microsoft Teams</p></li><li><p>Wbudowane mikrofony</p><p>6</p></li><li><p>Typ mikrofonu</p><p>Cyfrowy MEMS</p></li><li><p>Charakterystyka mikrofonu</p><p>Dookólna - 360 stopni</p></li><li><p>Pasmo przenoszenia mikrofonu</p><p>150 - 7,500 Hz</p></li><li><p>Pasmo przenoszenia głośnika</p><p>50 - 20,000 Hz</p></li><li><p>Czas rozmowy</p><p>Do 18h</p></li><li><p>Rozmiar</p><p>316x119mm</p></li><li><p>Waga</p><p>980 gram</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>EPOS</p></li><li><p>Dane producenta</p><p>EPOS Group A/S, Industriparken 27, Ballerup 2750, Dania, privacy@demant.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/epos.jpg",
+  "images": [
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56911.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56912.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56913.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56914.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56915.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56911.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56912.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56913.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56914.webp",
+    "galerie/z/zestaw-glosnomowiacy-do-duzyc_56915.webp"
+  ],
+  "manufacturer": "EPOS"
 }

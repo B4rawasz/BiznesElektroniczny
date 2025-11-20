@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "18361",
-    "code": "PRIME-PX-1300",
-    "name": "Zasilacz Seasonic PRIME PX-1300 80Plus Platinum 1300W",
-    "price": 1105.99,
-    "description": "<p>Seasonic PRIME PX-1300 to potężny zasilacz o mocy 1300 W, stworzony z myślą o najbardziej wymagających użytkownikach. Dzięki certyfikatowi 80 PLUS Platinum, gwarantuje wysoką sprawność energetyczną na poziomie do 92%, co przekłada się na niższe zużycie energii i minimalną emisję ciepła. Idealny dla entuzjastów, którzy oczekują stabilności, wydajności oraz wszechstronności, zasilacz ten oferuje doskonałe rozwiązania dla zaawansowanych systemów komputerowych.</p><h2>Wydajność i niezawodność</h2><p>PRIME PX-1300 oferuje nie tylko imponującą moc, ale także bezprzewodową konstrukcję wewnętrzną, która poprawia jakość zasilania. Użycie miedzianych płytek zamiast kabli zmniejsza ryzyko błędów produkcyjnych i zwiększa niezawodność. Dodatkowo, precyzyjna regulacja obciążenia zapewnia stabilne napięcia, co chroni podzespoły i wydłuża ich żywotność.</p><h2>Hybrydowy system chłodzenia</h2><p>Zasilacz został wyposażony w wentylator 135 mm z dynamicznym łożyskiem FDB, który zapewnia cichą pracę i długą żywotność. Tryb hybrydowy umożliwia półpasywne działanie wentylatora, który aktywuje się tylko wtedy, gdy zasilacz osiąga wyższe temperatury, co znacząco redukuje hałas przy mniejszych obciążeniach.</p><h2>Modularność i wszechstronność</h2><p>Dzięki w pełni modularnemu okablowaniu, PRIME PX-1300 zapewnia uporządkowane wnętrze obudowy i optymalny przepływ powietrza. Obsługuje do 14 urządzeń SATA, pięć 4-pinowych złącz Molex i dwie 8-pinowe wtyczki EPS, co czyni go idealnym wyborem dla zaawansowanych systemów i konfiguracji multi-GPU.</p><p>Seasonic PRIME PX-1300 to doskonałe rozwiązanie dla entuzjastów sprzętu komputerowego, profesjonalnych graczy i twórców, którzy oczekują najwyższej jakości i stabilności zasilania</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Zasilacz o mocy 1300 W z pojedynczą szyną 108 A</li><li>Certyfikat sprawności 80 PLUS Platinum</li><li>Kompaktowy rozmiar ATX</li><li>Niezawodny wentylator o średnicy 135 mm z łożyskiem FDB</li><li>Tryb hybrydowej kontroli wentylatora</li><li>Regulacja obciążenia mikro tolerancją</li><li>Bardzo niski poziom szumów</li><li>W pełni odpinane przewody z pozłacanymi złączami</li><li>Obsługa wielu kart graficznych</li><li>Bezprzewodowa konstrukcja połączenia</li><li>Zabezpieczenia OPP, OVP, UVP, OCP, OTP, SCP</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1300 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Platinum</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Układ PFC</p><p>Pasywny</p></li><li><p>Pasywna praca</p><p>Częściowa</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>25 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>25 A</p></li><li><p>Obciążalność linii +12V1</p><p>108 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>8</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>14</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>5</p></li><li><p>Ilość wtyczek FDD 4-pin</p><p>1</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>170 mm</p></li><li><p>Wymiary</p><p>170x150x86</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/seasonic.jpg",
-    "images": [
-        "galerie/z/zasilacz-seasonic-prime-px-13_68395.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68396.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68397.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68398.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68399.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68400.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68395.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68396.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68397.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68398.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68399.webp",
-        "galerie/z/zasilacz-seasonic-prime-px-13_68400.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "18361",
+  "code": "PRIME-PX-1300",
+  "name": "Zasilacz Seasonic PRIME PX-1300 80Plus Platinum 1300W",
+  "price": 1105.99,
+  "description": "<p>Seasonic PRIME PX-1300 to potężny zasilacz o mocy 1300 W, stworzony z myślą o najbardziej wymagających użytkownikach. Dzięki certyfikatowi 80 PLUS Platinum, gwarantuje wysoką sprawność energetyczną na poziomie do 92%, co przekłada się na niższe zużycie energii i minimalną emisję ciepła. Idealny dla entuzjastów, którzy oczekują stabilności, wydajności oraz wszechstronności, zasilacz ten oferuje doskonałe rozwiązania dla zaawansowanych systemów komputerowych.</p><h2>Wydajność i niezawodność</h2><p>PRIME PX-1300 oferuje nie tylko imponującą moc, ale także bezprzewodową konstrukcję wewnętrzną, która poprawia jakość zasilania. Użycie miedzianych płytek zamiast kabli zmniejsza ryzyko błędów produkcyjnych i zwiększa niezawodność. Dodatkowo, precyzyjna regulacja obciążenia zapewnia stabilne napięcia, co chroni podzespoły i wydłuża ich żywotność.</p><h2>Hybrydowy system chłodzenia</h2><p>Zasilacz został wyposażony w wentylator 135 mm z dynamicznym łożyskiem FDB, który zapewnia cichą pracę i długą żywotność. Tryb hybrydowy umożliwia półpasywne działanie wentylatora, który aktywuje się tylko wtedy, gdy zasilacz osiąga wyższe temperatury, co znacząco redukuje hałas przy mniejszych obciążeniach.</p><h2>Modularność i wszechstronność</h2><p>Dzięki w pełni modularnemu okablowaniu, PRIME PX-1300 zapewnia uporządkowane wnętrze obudowy i optymalny przepływ powietrza. Obsługuje do 14 urządzeń SATA, pięć 4-pinowych złącz Molex i dwie 8-pinowe wtyczki EPS, co czyni go idealnym wyborem dla zaawansowanych systemów i konfiguracji multi-GPU.</p><p>Seasonic PRIME PX-1300 to doskonałe rozwiązanie dla entuzjastów sprzętu komputerowego, profesjonalnych graczy i twórców, którzy oczekują najwyższej jakości i stabilności zasilania</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Zasilacz o mocy 1300 W z pojedynczą szyną 108 A</li><li>Certyfikat sprawności 80 PLUS Platinum</li><li>Kompaktowy rozmiar ATX</li><li>Niezawodny wentylator o średnicy 135 mm z łożyskiem FDB</li><li>Tryb hybrydowej kontroli wentylatora</li><li>Regulacja obciążenia mikro tolerancją</li><li>Bardzo niski poziom szumów</li><li>W pełni odpinane przewody z pozłacanymi złączami</li><li>Obsługa wielu kart graficznych</li><li>Bezprzewodowa konstrukcja połączenia</li><li>Zabezpieczenia OPP, OVP, UVP, OCP, OTP, SCP</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1300 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Platinum</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Układ PFC</p><p>Pasywny</p></li><li><p>Pasywna praca</p><p>Częściowa</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>25 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>25 A</p></li><li><p>Obciążalność linii +12V1</p><p>108 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>8</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>14</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>5</p></li><li><p>Ilość wtyczek FDD 4-pin</p><p>1</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>170 mm</p></li><li><p>Wymiary</p><p>170x150x86</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/seasonic.jpg",
+  "images": [
+    "galerie/z/zasilacz-seasonic-prime-px-13_68395.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68396.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68397.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68398.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68399.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68400.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68395.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68396.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68397.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68398.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68399.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-13_68400.webp"
+  ],
+  "manufacturer": "Seasonic"
 }

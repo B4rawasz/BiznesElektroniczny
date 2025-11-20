@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Pasty termoprzewodzące"
-    ],
-    "id": "20416",
-    "code": "TN-GN06-01",
-    "name": "Kit Gelid GN-Ultimate 6W 30g Thermal Putty",
-    "price": 39.9,
-    "description": "<h2>Innowacyjna alternatywa dla padów termoprzewodzących</h2><p><strong>Gelid Ultimate Thermal Putty</strong> to nowoczesne rozwiązanie łączące zalety pasty i padów termoprzewodzących. Zaprojektowany z myślą o maksymalnym wypełnieniu przestrzeni między chłodzonym elementem a radiatorem lub blokiem chłodzącym.</p><h2>Elastyczność i bezpieczeństwo</h2><p>Putty jest bardziej miękki i elastyczny niż klasyczne silikonowe pady, co przekłada się na niższe naprężenia podczas montażu. Może być stosowany w aplikacjach automatycznych i nie przewodzi prądu elektrycznego, dzięki czemu jest bezpieczny dla delikatnych komponentów.</p><h2>Doskonały do trudnych powierzchni</h2><p>Idealnie sprawdza się w przypadku elementów o nierównej powierzchni lub różnych wysokościach, takich jak <em>mikrokontrolery</em>, <em>układy pamięci</em>, <em>przetworniki analogowe</em>, <em>MOSFET-y</em> i inne komponenty SMD.</p><h2>Minimalny opór cieplny</h2><p>Przy odpowiednim docisku <strong>Gelid Ultimate Thermal Putty</strong> tworzy ultra cienką warstwę przewodzącą, zapewniając <strong>ekstremalnie niski opór cieplny</strong>. To doskonały wybór dla układów scalonych współdzielących radiator lub blok chłodzenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wysoka przewodność cieplna, umożliwia uzyskanie doskonałej wydajności</li><li>Łatwość aplikacji i proste usuwanie</li><li>Nie przewodzi prądu elektrycznego</li><li>Nie twardnieje i nie wypływa</li><li>Naturalna lepkość i niska rezystancja styku</li><li>Wysoka kompresja</li><li>Zgodność z RoH</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>30 g</p></li><li><p>Przewodność cieplna</p><p>6 W/mK</p></li><li><p>Kolor</p><p>niebieski</p></li><li><p>Gęstość</p><p>3,5 g/cm³</p></li><li><p>Przepływ</p><p>15–25 g/min</p></li><li><p>Temperatura pracy</p><p>-55 ~ 200 °C</p></li><li><p>Minimalna grubość warstwy</p><p>0,1 mm</p></li><li><p>Napięcie przebicia</p><p>&gt;6000 V/mm</p></li><li><p>Rezystywność objętościowa</p><p>10¹³ Ω·cm</p></li><li><p>Stopień palności</p><p>V-0</p></li><li><p>Przechowywanie</p><p>temperatura pokojowa, 18 miesięcy od daty otwarcia</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/gelid.jpg",
-    "images": [
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76912.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76917.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76916.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76915.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76914.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76918.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76913.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76912.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76917.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76916.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76915.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76914.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76918.webp",
-        "galerie/g/gelid-gn-ultimate-6w-30g-ther_76913.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "20416",
+  "code": "TN-GN06-01",
+  "name": "Kit Gelid GN-Ultimate 6W 30g Thermal Putty",
+  "price": 39.9,
+  "description": "<h2>Innowacyjna alternatywa dla padów termoprzewodzących</h2><p><strong>Gelid Ultimate Thermal Putty</strong> to nowoczesne rozwiązanie łączące zalety pasty i padów termoprzewodzących. Zaprojektowany z myślą o maksymalnym wypełnieniu przestrzeni między chłodzonym elementem a radiatorem lub blokiem chłodzącym.</p><h2>Elastyczność i bezpieczeństwo</h2><p>Putty jest bardziej miękki i elastyczny niż klasyczne silikonowe pady, co przekłada się na niższe naprężenia podczas montażu. Może być stosowany w aplikacjach automatycznych i nie przewodzi prądu elektrycznego, dzięki czemu jest bezpieczny dla delikatnych komponentów.</p><h2>Doskonały do trudnych powierzchni</h2><p>Idealnie sprawdza się w przypadku elementów o nierównej powierzchni lub różnych wysokościach, takich jak <em>mikrokontrolery</em>, <em>układy pamięci</em>, <em>przetworniki analogowe</em>, <em>MOSFET-y</em> i inne komponenty SMD.</p><h2>Minimalny opór cieplny</h2><p>Przy odpowiednim docisku <strong>Gelid Ultimate Thermal Putty</strong> tworzy ultra cienką warstwę przewodzącą, zapewniając <strong>ekstremalnie niski opór cieplny</strong>. To doskonały wybór dla układów scalonych współdzielących radiator lub blok chłodzenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wysoka przewodność cieplna, umożliwia uzyskanie doskonałej wydajności</li><li>Łatwość aplikacji i proste usuwanie</li><li>Nie przewodzi prądu elektrycznego</li><li>Nie twardnieje i nie wypływa</li><li>Naturalna lepkość i niska rezystancja styku</li><li>Wysoka kompresja</li><li>Zgodność z RoH</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>30 g</p></li><li><p>Przewodność cieplna</p><p>6 W/mK</p></li><li><p>Kolor</p><p>niebieski</p></li><li><p>Gęstość</p><p>3,5 g/cm³</p></li><li><p>Przepływ</p><p>15–25 g/min</p></li><li><p>Temperatura pracy</p><p>-55 ~ 200 °C</p></li><li><p>Minimalna grubość warstwy</p><p>0,1 mm</p></li><li><p>Napięcie przebicia</p><p>&gt;6000 V/mm</p></li><li><p>Rezystywność objętościowa</p><p>10¹³ Ω·cm</p></li><li><p>Stopień palności</p><p>V-0</p></li><li><p>Przechowywanie</p><p>temperatura pokojowa, 18 miesięcy od daty otwarcia</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gelid.jpg",
+  "images": [
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76912.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76917.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76916.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76915.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76914.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76918.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76913.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76912.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76917.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76916.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76915.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76914.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76918.webp",
+    "galerie/g/gelid-gn-ultimate-6w-30g-ther_76913.webp"
+  ],
+  "manufacturer": "Gelid"
 }

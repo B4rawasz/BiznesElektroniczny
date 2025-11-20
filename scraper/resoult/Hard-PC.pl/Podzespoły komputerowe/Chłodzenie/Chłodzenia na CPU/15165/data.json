@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia na CPU"
-    ],
-    "id": "15165",
-    "code": "CPNA-064",
-    "name": "Chłodzenie Noctua NH-U9S chromax.black 92mm",
-    "price": 387.9,
-    "description": "<p>Noctua NH-U9S chromax.black to chłodzenie dla procesorów, które łączy w sobie doskonałą wydajność z nowoczesnym, eleganckim stylem. Produkt ten jest idealnym rozwiązaniem dla osób poszukujących wydajnego chłodzenia, które będzie się prezentować estetycznie w komputerze.</p><p>Chłodzenie Noctua NH-U9S chromax.black składa się z radiatora wykonanego z aluminium, wyposażonego w pięć rurek cieplnych oraz jednego wentylatora NF-A9 PWM o średnicy 92 mm. Dzięki temu chłodzenie skutecznie odprowadza ciepło z procesora, zapewniając stabilną pracę nawet w przypadku intensywnych obciążeń.</p><p>Noctua NH-U9S chromax.black cechuje się również innowacyjnymi rozwiązaniami technologicznymi, takimi jak AAO Frame czy SSO2 Bearing, które wpływają na wysoką wydajność oraz długą żywotność produktu. Ponadto, NH-U9S chromax.black posiada czarny matowy wygląd, który idealnie komponuje się z nowoczesnymi obudowami.</p><p>Chłodzenie Noctua NH-U9S chromax.black to również bardzo ciche rozwiązanie dla Twojego komputera. Produkt ten posiada niski poziom hałasu, co sprawia, że jest to idealne rozwiązanie dla osób, które cenią sobie ciszę podczas pracy komputera.</p><p>Noctua NH-U9S chromax.black posiada również wiele zalet jeśli chodzi o łatwość montażu. Dzięki prostemu systemowi montażu oraz niskiemu profilowi o wymiarach 125 x 95 x 95 mm, NH-U9S chromax.black można łatwo zamontować w każdej obudowie.</p><p>Podsumowując, Noctua NH-U9S chromax.black to idealne rozwiązanie dla osób, które poszukują wysokiej jakości, estetycznego oraz wydajnego chłodzenia dla swojego komputera. Dzięki doskonałym właściwościom chłodzenia, niskiemu poziomowi hałasu oraz nowoczesnemu stylowi, NH-U9S chromax.black to doskonały wybór dla wszystkich, którzy cenią sobie stabilność, wydajność oraz estetykę swojego komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość (bez wentylatora)</p><p>125 mm</p></li><li><p>Szerokość(bez wentylatora)</p><p>95 mm</p></li><li><p>Głębokość (bez wentylatora)</p><p>68 mm</p></li><li><p>Wysokość (z wentylatorem)</p><p>125 mm</p></li><li><p>Szerokość (z wentylatorem)</p><p>95 mm</p></li><li><p>Głębokośc (z wentylatorem)</p><p>95 mm</p></li><li><p>Waga (z wentylatorem)</p><p>618 g</p></li><li><p>Materiał</p><p>Miedź (podstawa i ciepłowody), aluminium (radiator)</p></li><li><p>Model</p><p>Noctua NF-A9 PWM chromax.black/p&gt;</p></li><li><p>Łożyko</p><p>SSO2</p></li><li><p>Maksymalna prędkość</p><p>(+/- 10%) 2000 RPM</p></li><li><p>Maksymalna prędkość z adapterem</p><p>(+/- 10%) 1550 RPM</p></li><li><p>Minimalna prędkość obrotowa @ 20% PWM (+/-20%)</p><p>400 RPM</p></li><li><p>Maksymalny przepływ powietrza</p><p>78.9 m³/h</p></li><li><p>Maksymalny przepływ powietrza z adapterem</p><p>62.6 m³/h</p></li><li><p>Maksymalna głośność</p><p>22,8 dB(A)</p></li><li><p>Maksymalna głośćność z adapterem</p><p>16,3 dB(A)</p></li><li><p>W zestawie</p><p>Black NH-U9S heatsink<br/>NF-A9 PWM chromax.black premium fan<br/>NA-RC7 Low-Noise Adaptor (L.N.A)<br/>NT-H1 high-grade thermal compound<br/>Black SecuFirm2™ mounting kit<br/>Black fan-clips for second NF-A9<br/>Noctua Metal Case-Badge</p></li><li><p>Kompatybilność</p><p>Intel LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-0, LGA2011-3 (Square ILM)<br/>AMD AM4, AM5</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Noctua</p></li><li><p>Dane producenta</p><p>Rascom Computerdistribution Ges.m.b.H., Linzer Straße 237, A-1140 Wien, Austria, support@noctua.at</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/noctua.jpg",
-    "images": [
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54766.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54767.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54768.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54769.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54770.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54766.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54767.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54768.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54769.webp",
-        "galerie/c/chlodzenie-noctua-nh-u9s-chro_54770.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "15165",
+  "code": "CPNA-064",
+  "name": "Chłodzenie Noctua NH-U9S chromax.black 92mm",
+  "price": 387.9,
+  "description": "<p>Noctua NH-U9S chromax.black to chłodzenie dla procesorów, które łączy w sobie doskonałą wydajność z nowoczesnym, eleganckim stylem. Produkt ten jest idealnym rozwiązaniem dla osób poszukujących wydajnego chłodzenia, które będzie się prezentować estetycznie w komputerze.</p><p>Chłodzenie Noctua NH-U9S chromax.black składa się z radiatora wykonanego z aluminium, wyposażonego w pięć rurek cieplnych oraz jednego wentylatora NF-A9 PWM o średnicy 92 mm. Dzięki temu chłodzenie skutecznie odprowadza ciepło z procesora, zapewniając stabilną pracę nawet w przypadku intensywnych obciążeń.</p><p>Noctua NH-U9S chromax.black cechuje się również innowacyjnymi rozwiązaniami technologicznymi, takimi jak AAO Frame czy SSO2 Bearing, które wpływają na wysoką wydajność oraz długą żywotność produktu. Ponadto, NH-U9S chromax.black posiada czarny matowy wygląd, który idealnie komponuje się z nowoczesnymi obudowami.</p><p>Chłodzenie Noctua NH-U9S chromax.black to również bardzo ciche rozwiązanie dla Twojego komputera. Produkt ten posiada niski poziom hałasu, co sprawia, że jest to idealne rozwiązanie dla osób, które cenią sobie ciszę podczas pracy komputera.</p><p>Noctua NH-U9S chromax.black posiada również wiele zalet jeśli chodzi o łatwość montażu. Dzięki prostemu systemowi montażu oraz niskiemu profilowi o wymiarach 125 x 95 x 95 mm, NH-U9S chromax.black można łatwo zamontować w każdej obudowie.</p><p>Podsumowując, Noctua NH-U9S chromax.black to idealne rozwiązanie dla osób, które poszukują wysokiej jakości, estetycznego oraz wydajnego chłodzenia dla swojego komputera. Dzięki doskonałym właściwościom chłodzenia, niskiemu poziomowi hałasu oraz nowoczesnemu stylowi, NH-U9S chromax.black to doskonały wybór dla wszystkich, którzy cenią sobie stabilność, wydajność oraz estetykę swojego komputera.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość (bez wentylatora)</p><p>125 mm</p></li><li><p>Szerokość(bez wentylatora)</p><p>95 mm</p></li><li><p>Głębokość (bez wentylatora)</p><p>68 mm</p></li><li><p>Wysokość (z wentylatorem)</p><p>125 mm</p></li><li><p>Szerokość (z wentylatorem)</p><p>95 mm</p></li><li><p>Głębokośc (z wentylatorem)</p><p>95 mm</p></li><li><p>Waga (z wentylatorem)</p><p>618 g</p></li><li><p>Materiał</p><p>Miedź (podstawa i ciepłowody), aluminium (radiator)</p></li><li><p>Model</p><p>Noctua NF-A9 PWM chromax.black/p&gt;</p></li><li><p>Łożyko</p><p>SSO2</p></li><li><p>Maksymalna prędkość</p><p>(+/- 10%) 2000 RPM</p></li><li><p>Maksymalna prędkość z adapterem</p><p>(+/- 10%) 1550 RPM</p></li><li><p>Minimalna prędkość obrotowa @ 20% PWM (+/-20%)</p><p>400 RPM</p></li><li><p>Maksymalny przepływ powietrza</p><p>78.9 m³/h</p></li><li><p>Maksymalny przepływ powietrza z adapterem</p><p>62.6 m³/h</p></li><li><p>Maksymalna głośność</p><p>22,8 dB(A)</p></li><li><p>Maksymalna głośćność z adapterem</p><p>16,3 dB(A)</p></li><li><p>W zestawie</p><p>Black NH-U9S heatsink<br/>NF-A9 PWM chromax.black premium fan<br/>NA-RC7 Low-Noise Adaptor (L.N.A)<br/>NT-H1 high-grade thermal compound<br/>Black SecuFirm2™ mounting kit<br/>Black fan-clips for second NF-A9<br/>Noctua Metal Case-Badge</p></li><li><p>Kompatybilność</p><p>Intel LGA1700, LGA1200, LGA1156, LGA1155, LGA1151, LGA1150, LGA2066, LGA2011-0, LGA2011-3 (Square ILM)<br/>AMD AM4, AM5</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Noctua</p></li><li><p>Dane producenta</p><p>Rascom Computerdistribution Ges.m.b.H., Linzer Straße 237, A-1140 Wien, Austria, support@noctua.at</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/noctua.jpg",
+  "images": [
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54766.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54767.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54768.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54769.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54770.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54766.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54767.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54768.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54769.webp",
+    "galerie/c/chlodzenie-noctua-nh-u9s-chro_54770.webp"
+  ],
+  "manufacturer": "Noctua"
 }

@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Akcesoria sieciowe",
-        "Karty sieciowe"
-    ],
-    "id": "19213",
-    "code": "ARCHER TX20U",
-    "name": "Karta sieciowa WiFi 6 TP-LINK Archer TX20U USB AX1800",
-    "price": 139.0,
-    "description": "<h2>Przełam barierę gigabita z Wi-Fi 6</h2><p>Wyposaż swój komputer w najnowszą technologię bezprzewodową! Karta sieciowa USB Archer TX20U oferuje błyskawiczne połączenie w standardzie Wi-Fi 6 AX1800, zapewniając prędkości do 1201 Mb/s w paśmie 5 GHz oraz 574 Mb/s w paśmie 2,4 GHz. To idealne rozwiązanie dla wymagających użytkowników, którzy cenią sobie szybki internet bez zakłóceń.</p><h2>Szybki port USB 3.0 – 10 razy szybszy transfer</h2><p>Dzięki zastosowaniu interfejsu USB 3.0, karta Archer TX20U oferuje nawet 10x szybszy transfer danych niż starsze standardy USB 2.0. W połączeniu z technologią Wi-Fi 6 zapewnia błyskawiczne przesyłanie plików oraz komfortowe korzystanie z internetu.</p><h2>Zabezpieczenia nowej generacji – WPA3</h2><p>Bezpieczeństwo w sieci to priorytet. Protokół WPA3 chroni Twoje dane przed atakami typu brute-force i zapewnia jeszcze lepszą ochronę Twojego hasła.</p><h2>Kompatybilność i łatwa instalacja</h2><p>Archer TX20U współpracuje z systemami operacyjnymi Windows 11 i Windows 10, a dzięki fabrycznie wgranym sterownikom jego konfiguracja jest niezwykle prosta – wystarczy podłączyć i cieszyć się szybkim internetem!</p><h2>Nowoczesny design i ergonomia</h2><p>Elegancka, matowa obudowa wykonana w nowoczesnej technologii sprawia, że karta wygląda stylowo i nowocześnie. Dzięki kompaktowym wymiarom Archer TX20U można łatwo przenosić i używać wszędzie tam, gdzie jest potrzebna.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Szybkie WiFi 6 - Przełam barierę gigabita z prędkościami dochodzącymi do 1201 Mb/s (5 GHz) + 574 Mb/s (2,4 GHz)</li><li>Dwa pasma sieci bezprzewodowej - Możliwość wyboru pasma 2,4 GHz lub 5 GHz to wygoda korzystania z sieci bezprzewodowej</li><li>Duży zasięg - Połącz się ze swoją siecią WiFi z dowolnego miejsca w Twoim domu, za pomocą mocnych anten i technologii Beamforming</li><li>Rozgrywka z niskimi opóźnieniami - OFDMA i MU-MIMO zapewnia najwyższą wydajność połączenia Wi-Fi dla Twojego komputera</li><li>Zwiększone bezpieczeństwo - WPA3 wprowadza najnowsze ulepszenia zabezpieczeń w celu ochrony hasła</li><li>Szybki port USB 3.0 - Do 10x wyższa prędkość transferu od USB 2.0</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Diody LED</p><p>Stan</p></li><li><p>Wymiary</p><p>90,2 × 29,2 × 12,9 mm</p></li><li><p>Anteny</p><p>2 dwupasmowe anteny</p></li><li><p>Standardy bezprzewodowe</p><p>IEEE 802.11a/b/g/n/ac/ax</p></li><li><p>Prędkość transmisji 5 GHz</p><p>11ax</p><p>Do 1201 Mb/s (dynamicznie)<br/>11ac</p><p>Do 867 Mb/s (dynamicznie)<br/>11n</p><p>Do 300 Mb/s (dynamicznie)<br/>11a</p><p>Do 54 Mb/s (dynamicznie)</p></li><li><p>Prędkość transmisji 2,4 GHz</p><p>11ax</p><p>Do 574 Mb/s (dynamicznie)<br/>11n</p><p>Do 400 Mb/s (dynamicznie)<br/>11g</p><p>Do 54 Mb/s (dynamicznie)<br/>11b</p><p>Do 11 Mb/s (dynamicznie)</p></li><li><p>EIRP</p><p>5 GHz 21,5dBm (CE) (EIRP)<br/>2,4 GHz 18,5dBm (CE) (EIRP)</p></li><li><p>Tryby pracy bezprzewodowej</p><p>Tryb infrastruktury</p></li><li><p>Bezpieczeństwo transmisji bezprzewodowej</p><p>WEP, WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tp-link.jpg",
-    "images": [
-        "galerie/k/karta-sieciowa-wifi-6-tp-link_71009.webp",
-        "galerie/k/karta-sieciowa-wifi-6-tp-link_71011.webp",
-        "galerie/k/karta-sieciowa-wifi-6-tp-link_71010.webp",
-        "galerie/k/karta-sieciowa-wifi-6-tp-link_71009.webp",
-        "galerie/k/karta-sieciowa-wifi-6-tp-link_71011.webp",
-        "galerie/k/karta-sieciowa-wifi-6-tp-link_71010.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Karty sieciowe"
+  ],
+  "id": "19213",
+  "code": "ARCHER TX20U",
+  "name": "Karta sieciowa WiFi 6 TP-LINK Archer TX20U USB AX1800",
+  "price": 139.0,
+  "description": "<h2>Przełam barierę gigabita z Wi-Fi 6</h2><p>Wyposaż swój komputer w najnowszą technologię bezprzewodową! Karta sieciowa USB Archer TX20U oferuje błyskawiczne połączenie w standardzie Wi-Fi 6 AX1800, zapewniając prędkości do 1201 Mb/s w paśmie 5 GHz oraz 574 Mb/s w paśmie 2,4 GHz. To idealne rozwiązanie dla wymagających użytkowników, którzy cenią sobie szybki internet bez zakłóceń.</p><h2>Szybki port USB 3.0 – 10 razy szybszy transfer</h2><p>Dzięki zastosowaniu interfejsu USB 3.0, karta Archer TX20U oferuje nawet 10x szybszy transfer danych niż starsze standardy USB 2.0. W połączeniu z technologią Wi-Fi 6 zapewnia błyskawiczne przesyłanie plików oraz komfortowe korzystanie z internetu.</p><h2>Zabezpieczenia nowej generacji – WPA3</h2><p>Bezpieczeństwo w sieci to priorytet. Protokół WPA3 chroni Twoje dane przed atakami typu brute-force i zapewnia jeszcze lepszą ochronę Twojego hasła.</p><h2>Kompatybilność i łatwa instalacja</h2><p>Archer TX20U współpracuje z systemami operacyjnymi Windows 11 i Windows 10, a dzięki fabrycznie wgranym sterownikom jego konfiguracja jest niezwykle prosta – wystarczy podłączyć i cieszyć się szybkim internetem!</p><h2>Nowoczesny design i ergonomia</h2><p>Elegancka, matowa obudowa wykonana w nowoczesnej technologii sprawia, że karta wygląda stylowo i nowocześnie. Dzięki kompaktowym wymiarom Archer TX20U można łatwo przenosić i używać wszędzie tam, gdzie jest potrzebna.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Szybkie WiFi 6 - Przełam barierę gigabita z prędkościami dochodzącymi do 1201 Mb/s (5 GHz) + 574 Mb/s (2,4 GHz)</li><li>Dwa pasma sieci bezprzewodowej - Możliwość wyboru pasma 2,4 GHz lub 5 GHz to wygoda korzystania z sieci bezprzewodowej</li><li>Duży zasięg - Połącz się ze swoją siecią WiFi z dowolnego miejsca w Twoim domu, za pomocą mocnych anten i technologii Beamforming</li><li>Rozgrywka z niskimi opóźnieniami - OFDMA i MU-MIMO zapewnia najwyższą wydajność połączenia Wi-Fi dla Twojego komputera</li><li>Zwiększone bezpieczeństwo - WPA3 wprowadza najnowsze ulepszenia zabezpieczeń w celu ochrony hasła</li><li>Szybki port USB 3.0 - Do 10x wyższa prędkość transferu od USB 2.0</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Diody LED</p><p>Stan</p></li><li><p>Wymiary</p><p>90,2 × 29,2 × 12,9 mm</p></li><li><p>Anteny</p><p>2 dwupasmowe anteny</p></li><li><p>Standardy bezprzewodowe</p><p>IEEE 802.11a/b/g/n/ac/ax</p></li><li><p>Prędkość transmisji 5 GHz</p><p>11ax</p><p>Do 1201 Mb/s (dynamicznie)<br/>11ac</p><p>Do 867 Mb/s (dynamicznie)<br/>11n</p><p>Do 300 Mb/s (dynamicznie)<br/>11a</p><p>Do 54 Mb/s (dynamicznie)</p></li><li><p>Prędkość transmisji 2,4 GHz</p><p>11ax</p><p>Do 574 Mb/s (dynamicznie)<br/>11n</p><p>Do 400 Mb/s (dynamicznie)<br/>11g</p><p>Do 54 Mb/s (dynamicznie)<br/>11b</p><p>Do 11 Mb/s (dynamicznie)</p></li><li><p>EIRP</p><p>5 GHz 21,5dBm (CE) (EIRP)<br/>2,4 GHz 18,5dBm (CE) (EIRP)</p></li><li><p>Tryby pracy bezprzewodowej</p><p>Tryb infrastruktury</p></li><li><p>Bezpieczeństwo transmisji bezprzewodowej</p><p>WEP, WPA/WPA2/WPA3, WPA-PSK/WPA2-PSK</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tp-link.jpg",
+  "images": [
+    "galerie/k/karta-sieciowa-wifi-6-tp-link_71009.webp",
+    "galerie/k/karta-sieciowa-wifi-6-tp-link_71011.webp",
+    "galerie/k/karta-sieciowa-wifi-6-tp-link_71010.webp",
+    "galerie/k/karta-sieciowa-wifi-6-tp-link_71009.webp",
+    "galerie/k/karta-sieciowa-wifi-6-tp-link_71011.webp",
+    "galerie/k/karta-sieciowa-wifi-6-tp-link_71010.webp"
+  ],
+  "manufacturer": "TP-Link"
 }

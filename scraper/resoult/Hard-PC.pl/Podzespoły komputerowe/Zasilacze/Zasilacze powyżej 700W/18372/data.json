@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "18372",
-    "code": "FOCUS-SPX-750",
-    "name": "Zasilacz Seasonic FOCUS SPX-750 SFX 80Plus Platinum 750W",
-    "price": 758.9,
-    "description": "<h2>Zasilacz Seasonic FOCUS SPX-750 SFX 80Plus Platinum 750W</h2><p>Nowa linia zasilaczy Seasonic FOCUS SPX jest wszechstronna w zastosowaniu i wydajna przy niewielkich rozmiarach. Jest to standardowa jednostka SFX o wymiarach 125 mm (dł.) x 100 mm (szer.) x 63,5 mm (wys.). FOCUS SPX-750 (2021) jest dostarczany ze wspornikiem adaptera SFX do ATX w pudełku, który umożliwia montaż zasilacza nie tylko w obudowie SFX, ale także w standardowej obudowie ATX, jeśli użytkownik woli zarezerwować więcej miejsca na przepływ powietrza wewnątrz obudowy komputera. Hybrydowe sterowanie wentylatorem Seasonic jest zawsze włączone, aby zoptymalizować chłodzenie w zależności od potrzeb.</p><h2>Standardowy rozmiar SFX</h2><p>Wersja 2021 FOCUS SGX mierzy 125 i 100 mm długości i szerokości. Ten superkompaktowy rozmiar pozwala zmieścić go w obudowach komputerowych o różnych rozmiarach.</p><h2>Hybrydowy system kontroli wentylatora</h2><p>Pierwszy w branży opatentowany przez Seasonic, zaawansowany trójfazowy system kontroli pracy wentylatora w zasilaczu osiąga optymalne rezultaty między ciszą a chłodzeniem. Układ Hybrid Silent Fan Control działa w trzech etapach operacyjnych: tryb bez wentylatora, tryb cichy i tryb chłodzenia.</p><h2>Niezawodne łożysko Fluid Dynamic Bearing (FDB)</h2><p>Wentylatory o wysokiej wydajności stosowane w zasilaczu Seasonic Focus Plus Platinum 650W wyposażone zostały w wytrzymałe i niezawodne łożyska FDB (Fluid Dynamic Bearing). Cechą charakterystyczną łożysk FDB jest wykorzystanie doskonałych właściwości absorbowania drgań i uderzeń przez olej. Są one niezwykle niezawodne i generują znacznie mniej hałasu, i ciepła niż łożyska kulkowe. Smarowanie powierzchni łożyska olejem zmniejsza tarcie i wibracje, a tym samym obniża całkowite zużycie energii. Dzięki niskiemu tarciu, cichej pracy i solidnej konstrukcji, ta niezawodna technologia wentylatora znacznie zwiększa jego żywotność.</p><h2>Wysoka sprawność potwierdzona certyfikatem 80Plus Platinum</h2><p>Seria FOCUS SPX uzyskała certyfikat 80 PLUS Platinum z 92% sprawnością przy 50% obciążeniu systemu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Moc ciągła na poziomie 750W</li><li>Wysoka wydajność, certyfikat 80 PLUS Platinum</li><li>W pełni modułowa konstrukcja okablowania</li><li>Kompaktowy rozmiar 125 (L) x 100 (W) x 63.5 (H) mm</li><li>Możliwość rozbudowy z SFX do ATX</li><li>Wentylator 92 mm z łożyskiem Fluid Dynamic Bearing (FDB)</li><li>Hybrydowe, ciche sterowanie wentylatorem Seasonic</li><li>Niezawodne japońskie aluminiowe kondensatory elektrolityczne 105 °C</li><li>Ścisła regulacja napięcia (12 V, 5 V i 3,3 V) [± 3%]</li><li>Bezprzewodowa konstrukcja połączeń</li><li>Zabezpieczenia OPP, OVP, UVP, OCP, OTP, SCP</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>750 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Platinum</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>92 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Tak</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>62 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>4</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>6</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/seasonic.jpg",
-    "images": [
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72435.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72436.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72437.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72438.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72439.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72440.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72441.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72442.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72435.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72436.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72437.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72438.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72439.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72440.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72441.webp",
-        "galerie/z/zasilacz-seasonic-focus-spx-7_72442.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "18372",
+  "code": "FOCUS-SPX-750",
+  "name": "Zasilacz Seasonic FOCUS SPX-750 SFX 80Plus Platinum 750W",
+  "price": 758.9,
+  "description": "<h2>Zasilacz Seasonic FOCUS SPX-750 SFX 80Plus Platinum 750W</h2><p>Nowa linia zasilaczy Seasonic FOCUS SPX jest wszechstronna w zastosowaniu i wydajna przy niewielkich rozmiarach. Jest to standardowa jednostka SFX o wymiarach 125 mm (dł.) x 100 mm (szer.) x 63,5 mm (wys.). FOCUS SPX-750 (2021) jest dostarczany ze wspornikiem adaptera SFX do ATX w pudełku, który umożliwia montaż zasilacza nie tylko w obudowie SFX, ale także w standardowej obudowie ATX, jeśli użytkownik woli zarezerwować więcej miejsca na przepływ powietrza wewnątrz obudowy komputera. Hybrydowe sterowanie wentylatorem Seasonic jest zawsze włączone, aby zoptymalizować chłodzenie w zależności od potrzeb.</p><h2>Standardowy rozmiar SFX</h2><p>Wersja 2021 FOCUS SGX mierzy 125 i 100 mm długości i szerokości. Ten superkompaktowy rozmiar pozwala zmieścić go w obudowach komputerowych o różnych rozmiarach.</p><h2>Hybrydowy system kontroli wentylatora</h2><p>Pierwszy w branży opatentowany przez Seasonic, zaawansowany trójfazowy system kontroli pracy wentylatora w zasilaczu osiąga optymalne rezultaty między ciszą a chłodzeniem. Układ Hybrid Silent Fan Control działa w trzech etapach operacyjnych: tryb bez wentylatora, tryb cichy i tryb chłodzenia.</p><h2>Niezawodne łożysko Fluid Dynamic Bearing (FDB)</h2><p>Wentylatory o wysokiej wydajności stosowane w zasilaczu Seasonic Focus Plus Platinum 650W wyposażone zostały w wytrzymałe i niezawodne łożyska FDB (Fluid Dynamic Bearing). Cechą charakterystyczną łożysk FDB jest wykorzystanie doskonałych właściwości absorbowania drgań i uderzeń przez olej. Są one niezwykle niezawodne i generują znacznie mniej hałasu, i ciepła niż łożyska kulkowe. Smarowanie powierzchni łożyska olejem zmniejsza tarcie i wibracje, a tym samym obniża całkowite zużycie energii. Dzięki niskiemu tarciu, cichej pracy i solidnej konstrukcji, ta niezawodna technologia wentylatora znacznie zwiększa jego żywotność.</p><h2>Wysoka sprawność potwierdzona certyfikatem 80Plus Platinum</h2><p>Seria FOCUS SPX uzyskała certyfikat 80 PLUS Platinum z 92% sprawnością przy 50% obciążeniu systemu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Moc ciągła na poziomie 750W</li><li>Wysoka wydajność, certyfikat 80 PLUS Platinum</li><li>W pełni modułowa konstrukcja okablowania</li><li>Kompaktowy rozmiar 125 (L) x 100 (W) x 63.5 (H) mm</li><li>Możliwość rozbudowy z SFX do ATX</li><li>Wentylator 92 mm z łożyskiem Fluid Dynamic Bearing (FDB)</li><li>Hybrydowe, ciche sterowanie wentylatorem Seasonic</li><li>Niezawodne japońskie aluminiowe kondensatory elektrolityczne 105 °C</li><li>Ścisła regulacja napięcia (12 V, 5 V i 3,3 V) [± 3%]</li><li>Bezprzewodowa konstrukcja połączeń</li><li>Zabezpieczenia OPP, OVP, UVP, OCP, OTP, SCP</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>750 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Platinum</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>92 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Tak</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>62 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>4</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>6</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/seasonic.jpg",
+  "images": [
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72435.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72436.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72437.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72438.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72439.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72440.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72441.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72442.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72435.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72436.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72437.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72438.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72439.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72440.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72441.webp",
+    "galerie/z/zasilacz-seasonic-focus-spx-7_72442.webp"
+  ],
+  "manufacturer": "Seasonic"
 }

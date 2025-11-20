@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "16186",
-    "code": "SSR-850FX3",
-    "name": "Zasilacz Seasonic FOCUS GX-850 ATX 3.0 80Plus Gold 850W",
-    "price": 620.9,
-    "description": "<p>Seria Seasonic FOCUS GX kontynuuje świetną tradycję serii FOCUS, teraz jednak wzbogacona o zgodność z normami ATX 3.0 i PCIe 5.0. To kompletna oferta zasilaczy o mocy od 750 W do 1000 W, zamknięta w kompaktowej obudowie o głębokości zaledwie 140 mm. To idealne towarzystwo dla najnowszych, mocnych kart graficznych i procesorów dostępnych na rynku.</p><h2>Zgodny z normami ATX 3.0 i 16-PIN PCIE Gen 5 Cable (12VHPWR)</h2><p>Najnowsza seria Seasonic FOCUS GX ATX 3.0 została stworzona specjalnie po to, aby zasilać nowoczesne komponenty komputerowe, które wymagają nowych standardów ATX 3.0 i PCIe 5.0.</p><h2>Cyfrowa kontrola wentylatora w trybie hybrydowym</h2><p>Seasonic wprowadza innowacyjną technologię cyfrowej kontroli wentylatora, która działa w trzech trybach operacyjnych: trybie bezwentylatorowym, trybie cichym i trybie chłodzenia. Dzięki temu osiągane jest optymalne połączenie między ciszą a chłodzeniem.</p><h2>Łożysko Fluid Dynamic Fan Bearing</h2><p>Wysokowydajne wentylatory z łozyskiem Fluid Dynamic Bearing (FDB) zostały zaprojektowane z myślą o wykorzystaniu efektów absorpcji wstrząsów przez olej. Są one niezwykle niezawodne, generują znacznie mniej hałasu i ciepła w porównaniu z wentylatorami na łożysku kulkowym. Smarowanie powierzchni łożyska zmniejsza tarcie i drgania, co przekłada się na niższe zużycie energii. Dzięki cichym i płynnym obrotom oraz solidnej konstrukcji, ta niezawodna technologia znacznie wydłuża żywotność wentylatora.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Kabel ATX 3.0 i PCIe 5.0 (12VHPWR)</li><li>Certyfikat 80Plus Gold</li><li>Kompaktowy rozmiar, duża kompatybilność</li><li>Wysokiej jakości 135 mm wentylator</li><li>Hybrydowy układ chłodzenia - pasywne chłodzenie do 30% obciążenia</li><li>W pełni modularna konstrukcja</li><li>Pozłacane złącza</li><li>Bardzo wysoka stabilność napięć</li></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>850 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Częściowa</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0,3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>70 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>3</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>10</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Ilość wtyczek PCI-e 16-pin</p><p>1 szt</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/seasonic.jpg",
-    "images": [
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57551.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57552.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57555.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57553.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57554.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57551.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57552.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57555.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57553.webp",
-        "galerie/z/zasilacz-seasonic-focus-gx-85_57554.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "16186",
+  "code": "SSR-850FX3",
+  "name": "Zasilacz Seasonic FOCUS GX-850 ATX 3.0 80Plus Gold 850W",
+  "price": 620.9,
+  "description": "<p>Seria Seasonic FOCUS GX kontynuuje świetną tradycję serii FOCUS, teraz jednak wzbogacona o zgodność z normami ATX 3.0 i PCIe 5.0. To kompletna oferta zasilaczy o mocy od 750 W do 1000 W, zamknięta w kompaktowej obudowie o głębokości zaledwie 140 mm. To idealne towarzystwo dla najnowszych, mocnych kart graficznych i procesorów dostępnych na rynku.</p><h2>Zgodny z normami ATX 3.0 i 16-PIN PCIE Gen 5 Cable (12VHPWR)</h2><p>Najnowsza seria Seasonic FOCUS GX ATX 3.0 została stworzona specjalnie po to, aby zasilać nowoczesne komponenty komputerowe, które wymagają nowych standardów ATX 3.0 i PCIe 5.0.</p><h2>Cyfrowa kontrola wentylatora w trybie hybrydowym</h2><p>Seasonic wprowadza innowacyjną technologię cyfrowej kontroli wentylatora, która działa w trzech trybach operacyjnych: trybie bezwentylatorowym, trybie cichym i trybie chłodzenia. Dzięki temu osiągane jest optymalne połączenie między ciszą a chłodzeniem.</p><h2>Łożysko Fluid Dynamic Fan Bearing</h2><p>Wysokowydajne wentylatory z łozyskiem Fluid Dynamic Bearing (FDB) zostały zaprojektowane z myślą o wykorzystaniu efektów absorpcji wstrząsów przez olej. Są one niezwykle niezawodne, generują znacznie mniej hałasu i ciepła w porównaniu z wentylatorami na łożysku kulkowym. Smarowanie powierzchni łożyska zmniejsza tarcie i drgania, co przekłada się na niższe zużycie energii. Dzięki cichym i płynnym obrotom oraz solidnej konstrukcji, ta niezawodna technologia znacznie wydłuża żywotność wentylatora.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Kabel ATX 3.0 i PCIe 5.0 (12VHPWR)</li><li>Certyfikat 80Plus Gold</li><li>Kompaktowy rozmiar, duża kompatybilność</li><li>Wysokiej jakości 135 mm wentylator</li><li>Hybrydowy układ chłodzenia - pasywne chłodzenie do 30% obciążenia</li><li>W pełni modularna konstrukcja</li><li>Pozłacane złącza</li><li>Bardzo wysoka stabilność napięć</li></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>850 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Częściowa</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0,3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>70 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>3</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>10</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Ilość wtyczek PCI-e 16-pin</p><p>1 szt</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/seasonic.jpg",
+  "images": [
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57551.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57552.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57555.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57553.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57554.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57551.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57552.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57555.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57553.webp",
+    "galerie/z/zasilacz-seasonic-focus-gx-85_57554.webp"
+  ],
+  "manufacturer": "Seasonic"
 }

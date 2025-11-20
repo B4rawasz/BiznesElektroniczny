@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Fotele i akcesoria",
-        "Akcesoria do foteli"
-    ],
-    "id": "16466",
-    "code": "FS3",
-    "name": "Podnóżek biurowy MOZOS FS3 podstawka pod stopy",
-    "price": 149.0,
-    "description": "<h2>Mozos FS3 to wysokiej jakości podnóżek ergonomiczny.</h2><p>Podnóżek Mozos FS3 to miękkie wsparcie dla twoich obolałych nóg i kręgosłupa. Wiele możliwości regulacji umożliwia dostosowanie najlepszej pozycji dla naszego odpoczynku. Dla wielu z nas długie godziny spędzone przy biurku lub w fotelu do pracy lub rozrywki mogą być wyjątkowo męczące dla nóg, stóp i kręgosłupa. Produkt łatwo utrzymać w czystości dzięki zdejmowanej powierzchni. Podnóżki wyposażone są w antypoślizgowe elementy które stabilizują całą stalową konstrukcję.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><li>Bardzo prosty, intuicyjny montaż nawet dla młodych użytkowników.</li><li>Regulacja pochylenia platformy ułatwia znalezienie prawidłowej pozycji.</li><li>Miękkie, zdejmowane pokrycie do łatwej pielęgnacji.</li><li>Zamszowe pokrycie z miękką pianką wewnętrzną dla maksymalnego komfortu.</li><li>Podkładki antypoślizgowe zapobiegają przesuwaniu się podnóżka.</li></ul><h2>Dane technicze:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>stal, gąbka.</p></li><li><p>Wymiary</p><p>441x332x158mm (17,4″x13,1″x6,2″).</p></li><li><p>Kolor</p><p>matowy czarny.</p></li><li><p>Udźwig</p><p>25 kg (55 funtów).</p></li><li><p>Kąt nachylenia</p><p>+20°~-20°.</p></li><li><p>Waga</p><p>3.1 brutto / 2.45 kg netto.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58867.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58868.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58869.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58870.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58871.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58867.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58868.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58869.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58870.webp",
-        "galerie/p/podnozek-biurowy-mozos-fs3-po_58871.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Fotele i akcesoria",
+    "Akcesoria do foteli"
+  ],
+  "id": "16466",
+  "code": "FS3",
+  "name": "Podnóżek biurowy MOZOS FS3 podstawka pod stopy",
+  "price": 149.0,
+  "description": "<h2>Mozos FS3 to wysokiej jakości podnóżek ergonomiczny.</h2><p>Podnóżek Mozos FS3 to miękkie wsparcie dla twoich obolałych nóg i kręgosłupa. Wiele możliwości regulacji umożliwia dostosowanie najlepszej pozycji dla naszego odpoczynku. Dla wielu z nas długie godziny spędzone przy biurku lub w fotelu do pracy lub rozrywki mogą być wyjątkowo męczące dla nóg, stóp i kręgosłupa. Produkt łatwo utrzymać w czystości dzięki zdejmowanej powierzchni. Podnóżki wyposażone są w antypoślizgowe elementy które stabilizują całą stalową konstrukcję.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><li>Bardzo prosty, intuicyjny montaż nawet dla młodych użytkowników.</li><li>Regulacja pochylenia platformy ułatwia znalezienie prawidłowej pozycji.</li><li>Miękkie, zdejmowane pokrycie do łatwej pielęgnacji.</li><li>Zamszowe pokrycie z miękką pianką wewnętrzną dla maksymalnego komfortu.</li><li>Podkładki antypoślizgowe zapobiegają przesuwaniu się podnóżka.</li></ul><h2>Dane technicze:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>stal, gąbka.</p></li><li><p>Wymiary</p><p>441x332x158mm (17,4″x13,1″x6,2″).</p></li><li><p>Kolor</p><p>matowy czarny.</p></li><li><p>Udźwig</p><p>25 kg (55 funtów).</p></li><li><p>Kąt nachylenia</p><p>+20°~-20°.</p></li><li><p>Waga</p><p>3.1 brutto / 2.45 kg netto.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58867.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58868.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58869.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58870.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58871.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58867.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58868.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58869.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58870.webp",
+    "galerie/p/podnozek-biurowy-mozos-fs3-po_58871.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

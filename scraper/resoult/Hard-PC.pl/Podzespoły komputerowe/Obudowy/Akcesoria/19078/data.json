@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Akcesoria"
-    ],
-    "id": "19078",
-    "code": "1125SS-V1-BK-EP",
-    "name": "Ramka montażowa na dysk 2,5\" z radiatorem",
-    "price": 29.99,
-    "description": "<p>Przejściówka-adapter służy do montowania dysków SATA, które mają rozmiar 2,5\" w miejscach przeznaczonych dla dysków 3,5\". Adapter zastępuje drogie, metalowe szyny, kiedy chcemy zainstalować szybki dysk 2,5 cala w urządzeniach takich jak: Serwery NAS, Wieloportowe stacje dysków, Komputery stacjonarne, Szyny na napędy CD.</p><p>Adapter SATA 2,5\" na 3,5\" jest uniwersalny i obsługuje wszystkie dyski SATA I/II/III.</p><h2>SATA 3.0 6 Gbps</h2><p>Adapter obsługuje wszystkie trzy generacje interfejsu SATA (Serial ATA): od SATA 1.0 po trzecią, najwyższą generację. Dzięki temu zapewnia stabilny transfer danych o przepustowości do 6 Gb na sekundę, czyli dwa razy szybciej niż poprzednia wersja.</p><h2>Konwerter na dysk twardy</h2><p>Sztywna, żebrowana obudowa z twardego tworzywa ABS zapewnia stałą wymianę powietrza, co pomaga przy chłodzeniu dysków. Zewnętrzne wymiary konwertera wynoszą 147 mm, 101 mm na 20 mm wysokości i jest on kompatybilny z większością slotów na dyski 3,5 cala. W zestawie znajdują się wszystkie potrzebne do montażu śrubki.</p><h2>Poznaj Orico</h2><p>Założone w 2009 roku Orico należy do grupy nowoczesnych azjatyckich producentów, którzy wprowadzili japoński system zarządzania 5S. Stale prowadzi badania nad nowymi technologiami, aby tworzyć praktyczne akcesoria do smartfonów, ładujące, adaptery do dysków SSD i inne.</p><p>Firma nie zleca produkcji podwykonawcom, dzięki czemu kontroluje jakość produkcji na każdym etapie, od projektu po opakowanie. Połączenie technologii i przemyślanego designu pozwala użytkownikom cieszyć się akcesoriami przydatnymi w codziennym życiu w skomputeryzowanym świecie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Rodzaj urządzenia</p><p>Adapter / Konwerter</p></li><li><p>W zestawie</p><p>Śrubki</p></li><li><p>Złącza wewnętrzne</p><p>SATA</p></li><li><p>Złącza zewnętrzne</p><p>SATA</p></li><li><p>Interfejs dysku</p><p>SATA</p></li><li><p>Format dysku</p><p>2.5''</p></li><li><p>Zastosowanie</p><p>Transfer danych</p></li><li><p>Współpraca z systemami</p><p>Linux, Windows</p></li><li><p>Materiał zewnętrzny</p><p>ABS</p></li><li><p>Wysokość</p><p>2 cm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Orico</p></li><li><p>Dane producenta</p><p>Shenzhen ORICO Import &amp; Export Trading Co., Ltd., Jihua Street F19, 14A, Shenzhen, 518112, Chiny, supports@orico.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, orico@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/orico.jpg",
-    "images": [
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70331.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70332.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70333.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70334.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70335.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70336.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70337.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70331.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70332.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70333.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70334.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70335.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70336.webp",
-        "galerie/r/ramka-montazowa-na-dysk-2-5-z_70337.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Akcesoria"
+  ],
+  "id": "19078",
+  "code": "1125SS-V1-BK-EP",
+  "name": "Ramka montażowa na dysk 2,5\" z radiatorem",
+  "price": 29.99,
+  "description": "<p>Przejściówka-adapter służy do montowania dysków SATA, które mają rozmiar 2,5\" w miejscach przeznaczonych dla dysków 3,5\". Adapter zastępuje drogie, metalowe szyny, kiedy chcemy zainstalować szybki dysk 2,5 cala w urządzeniach takich jak: Serwery NAS, Wieloportowe stacje dysków, Komputery stacjonarne, Szyny na napędy CD.</p><p>Adapter SATA 2,5\" na 3,5\" jest uniwersalny i obsługuje wszystkie dyski SATA I/II/III.</p><h2>SATA 3.0 6 Gbps</h2><p>Adapter obsługuje wszystkie trzy generacje interfejsu SATA (Serial ATA): od SATA 1.0 po trzecią, najwyższą generację. Dzięki temu zapewnia stabilny transfer danych o przepustowości do 6 Gb na sekundę, czyli dwa razy szybciej niż poprzednia wersja.</p><h2>Konwerter na dysk twardy</h2><p>Sztywna, żebrowana obudowa z twardego tworzywa ABS zapewnia stałą wymianę powietrza, co pomaga przy chłodzeniu dysków. Zewnętrzne wymiary konwertera wynoszą 147 mm, 101 mm na 20 mm wysokości i jest on kompatybilny z większością slotów na dyski 3,5 cala. W zestawie znajdują się wszystkie potrzebne do montażu śrubki.</p><h2>Poznaj Orico</h2><p>Założone w 2009 roku Orico należy do grupy nowoczesnych azjatyckich producentów, którzy wprowadzili japoński system zarządzania 5S. Stale prowadzi badania nad nowymi technologiami, aby tworzyć praktyczne akcesoria do smartfonów, ładujące, adaptery do dysków SSD i inne.</p><p>Firma nie zleca produkcji podwykonawcom, dzięki czemu kontroluje jakość produkcji na każdym etapie, od projektu po opakowanie. Połączenie technologii i przemyślanego designu pozwala użytkownikom cieszyć się akcesoriami przydatnymi w codziennym życiu w skomputeryzowanym świecie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Rodzaj urządzenia</p><p>Adapter / Konwerter</p></li><li><p>W zestawie</p><p>Śrubki</p></li><li><p>Złącza wewnętrzne</p><p>SATA</p></li><li><p>Złącza zewnętrzne</p><p>SATA</p></li><li><p>Interfejs dysku</p><p>SATA</p></li><li><p>Format dysku</p><p>2.5''</p></li><li><p>Zastosowanie</p><p>Transfer danych</p></li><li><p>Współpraca z systemami</p><p>Linux, Windows</p></li><li><p>Materiał zewnętrzny</p><p>ABS</p></li><li><p>Wysokość</p><p>2 cm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Orico</p></li><li><p>Dane producenta</p><p>Shenzhen ORICO Import &amp; Export Trading Co., Ltd., Jihua Street F19, 14A, Shenzhen, 518112, Chiny, supports@orico.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, orico@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/orico.jpg",
+  "images": [
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70331.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70332.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70333.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70334.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70335.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70336.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70337.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70331.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70332.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70333.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70334.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70335.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70336.webp",
+    "galerie/r/ramka-montazowa-na-dysk-2-5-z_70337.webp"
+  ],
+  "manufacturer": "Orico"
 }

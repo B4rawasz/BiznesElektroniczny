@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Gry planszowe",
-        "Akcesoria"
-    ],
-    "id": "19804",
-    "code": "9918996009606",
-    "name": "Farbka Citadel Iyanden Yellow 18ml (contrast)",
-    "price": 23.9,
-    "description": "<h2>Iyanden Yellow – farba do malowania żółtych akcentów i detali</h2><p>Iyanden Yellow to farba Citadel, która doskonale sprawdza się w malowaniu intensywnych odcieni żółci na modelach. Jest to żywy, ciepły odcień żółtego, który idealnie pasuje do armii takich jak Eldar i innych modeli, które wymagają wyróżniających się, jasnych akcentów.</p><p>Ta farba charakteryzuje się dobrym kryciem, dzięki czemu bez problemu można nią pokrywać większe powierzchnie, a także dodawać detale na mniejszych elementach. Iyanden Yellow jest świetnym wyborem do malowania pancerzy, detali broni, symboliki, a także ozdób w odcieniach żółtego, które przyciągają wzrok i wyróżniają się na tle innych kolorów.</p><p>Iyanden Yellow to doskonała farba zarówno dla początkujących, jak i doświadczonych modelarzy, którzy chcą uzyskać intensywny, równomierny efekt malowania w jednym z najtrudniejszych kolorów do osiągnięcia.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
-    "manufacturer_img": "galerie/producenci/games-workshop.jpg",
-    "images": [
-        "galerie/f/farbka-citadel-iyanden-yellow_73399.webp",
-        "galerie/f/farbka-citadel-iyanden-yellow_73399.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Gry planszowe",
+    "Akcesoria"
+  ],
+  "id": "19804",
+  "code": "9918996009606",
+  "name": "Farbka Citadel Iyanden Yellow 18ml (contrast)",
+  "price": 23.9,
+  "description": "<h2>Iyanden Yellow – farba do malowania żółtych akcentów i detali</h2><p>Iyanden Yellow to farba Citadel, która doskonale sprawdza się w malowaniu intensywnych odcieni żółci na modelach. Jest to żywy, ciepły odcień żółtego, który idealnie pasuje do armii takich jak Eldar i innych modeli, które wymagają wyróżniających się, jasnych akcentów.</p><p>Ta farba charakteryzuje się dobrym kryciem, dzięki czemu bez problemu można nią pokrywać większe powierzchnie, a także dodawać detale na mniejszych elementach. Iyanden Yellow jest świetnym wyborem do malowania pancerzy, detali broni, symboliki, a także ozdób w odcieniach żółtego, które przyciągają wzrok i wyróżniają się na tle innych kolorów.</p><p>Iyanden Yellow to doskonała farba zarówno dla początkujących, jak i doświadczonych modelarzy, którzy chcą uzyskać intensywny, równomierny efekt malowania w jednym z najtrudniejszych kolorów do osiągnięcia.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
+  "manufacturer_img": "galerie/producenci/games-workshop.jpg",
+  "images": [
+    "galerie/f/farbka-citadel-iyanden-yellow_73399.webp",
+    "galerie/f/farbka-citadel-iyanden-yellow_73399.webp"
+  ],
+  "manufacturer": "Games Workshop"
 }

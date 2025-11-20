@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Akcesoria sieciowe",
-        "Routery"
-    ],
-    "id": "19032",
-    "code": "LT400_EU",
-    "name": "Router Cudy LT400 EU WiFi SIM 4G LTE",
-    "price": 169.99,
-    "description": "<h2>Komfort użytkowania</h2><p>Router Cudy LT400 to gwarancja stabilnej i efektywnej sieci. Dzięki czterem antenom 5 dBi zyskujesz mocny sygnał Wi-Fi oraz lepsze pokrycie, nawet w miejscach trudno dostępnych. Porty LAN/WAN Fast Ethernet pozwalają na szybkie podłączenie urządzeń przewodowych, zapewniając niezawodność połączenia.</p><h2>Szybki internet mobilny</h2><p>Podróżując, pracując lub relaksując się w domu router Cudy LT400 zawsze zapewni Ci dostęp do szybkiego Internetu LTE. Wystarczy włożyć kartę SIM, aby cieszyć się prędkością do 150 Mb/s przy pobieraniu danych. Dodatkowo, funkcja zapasowego połączenia 4G LTE gwarantuje ciągłość pracy, bez obaw o przerwy w dostępie do sieci.</p><h2>Łączność i ochrona</h2><p>Cudy LT400 to urządzenie kompatybilne z wieloma dostawcami internetu, wspierające zarówno FDD, jak i TDD. Z łatwością stwórz bezpieczne połączenie VPN, korzystając z PPTP/L2TP, co jest szczególnie ważne przy pracy zdalnej. Funkcje DDNS zapewniają sprawną administrację urządzeniem, nawet przy zmianie adresu IP.</p><h2>Łatwe zarządzanie</h2><p>Router Cudy umożliwia bezproblemowe zarządzanie dzięki intuicyjnemu interfejsowi użytkownika. Dostęp do panelu zarządzania przez URL jest prosty i wygodny, co pozwala na szybką konfigurację oraz monitorowanie statusu sieci, niezależnie od zmian w adresacji IP.</p><h2>Bezprzewodowa wolność</h2><p>Wyposażony w Wi-Fi 802.11n, router Cudy LT400 oferuje stabilne i szybkie połączenie bezprzewodowe w paśmie 2,4 GHz. Maksymalna przepustowość 300 Mb/s pozwala na płynne strumieniowanie multimediów, szybkie pobieranie plików i komfortowe surfowanie po sieci bez zacinania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li>Stabilność sieci dzięki czterem antenom 5 dBi</li><li>Mocny sygnał Wi-Fi i lepsze pokrycie w trudno dostępnych miejscach</li><li>Porty LAN/WAN Fast Ethernet dla szybkiego podłączenia urządzeń przewodowych</li><li>Niezawodność połączenia dla zapewnienia ciągłej pracy</li><li>Dostęp do szybkiego Internetu LTE z prędkością do 150 Mb/s</li><li>Funkcja zapasowego połączenia 4G LTE dla ciągłości pracy</li><li>Kompatybilność z wieloma dostawcami internetu, wsparcie dla FDD i TDD</li><li>Bezpieczne połączenie VPN za pomocą PPTP/L2TP, idealne do pracy zdalnej</li><li>Funkcje DDNS dla łatwej administracji urządzeniem</li><li>Intuicyjny interfejs użytkownika dla bezproblemowego zarządzania</li><li>Prosty dostęp do panelu zarządzania przez URL</li><li>Szybka konfiguracja i monitorowanie statusu sieci</li><li>Stabilne i szybkie połączenie bezprzewodowe Wi-Fi 802.11n</li><li>Przepustowość 300 Mb/s dla płynnego strumieniowania multimediów i szybkiego pobierania plików</li><li>Komfortowe surfowanie po sieci bez zacinania</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Tryb pracy</p><p>Access Point; Router</p></li><li><p>Rodzaj urządzenia</p><p>router bezprzewodowy z modemem 4G</p></li><li><p>Rodzaje wejść/wyjść</p><p>RJ-45 10/100 (LAN) - 3 szt.; RJ-45 10/100 (LAN/WAN) - 1 szt.; gniazdo kart nano SIM - 1 szt.; złącze zasilania - 1 szt.</p></li><li><p>Obsługiwane standardy</p><p>Wi-Fi 4 (802.11 b/g/n); LTE</p></li><li><p>Częstotliwość pracy</p><p>2.4 GHz</p></li><li><p>Antena</p><p>zewnętrzna - 4 szt.</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>150 Mb/s (LTE); 300 Mb/s (Wi-Fi)</p></li><li><p>Zabezpieczenia transmisji bezprzewodowej</p><p>WPA; WPA2; WPA-PSK; WPA2-PSK;</p></li><li><p>Zarządzanie i konfiguracja</p><p>strona WWW</p></li><li><p>Dodatkowe funkcje</p><p>serwer VPN; kontrola rodzicielska; QoS; DDNS; przekierowanie portów; klonowanie adresów MAC; UPNP; DMZ; przycisk reset</p></li><li><p>Dołączone akcesoria</p><p>zasilacz; kabel RJ-45; instrukcja szybkiej instalacji</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/cudy.jpg",
-    "images": [
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70521.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70522.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70523.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70524.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70525.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70526.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70527.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70528.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70529.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70521.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70522.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70523.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70524.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70525.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70526.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70527.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70528.webp",
-        "galerie/r/router-cudy-lt400-eu-wifi-sim_70529.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Routery"
+  ],
+  "id": "19032",
+  "code": "LT400_EU",
+  "name": "Router Cudy LT400 EU WiFi SIM 4G LTE",
+  "price": 169.99,
+  "description": "<h2>Komfort użytkowania</h2><p>Router Cudy LT400 to gwarancja stabilnej i efektywnej sieci. Dzięki czterem antenom 5 dBi zyskujesz mocny sygnał Wi-Fi oraz lepsze pokrycie, nawet w miejscach trudno dostępnych. Porty LAN/WAN Fast Ethernet pozwalają na szybkie podłączenie urządzeń przewodowych, zapewniając niezawodność połączenia.</p><h2>Szybki internet mobilny</h2><p>Podróżując, pracując lub relaksując się w domu router Cudy LT400 zawsze zapewni Ci dostęp do szybkiego Internetu LTE. Wystarczy włożyć kartę SIM, aby cieszyć się prędkością do 150 Mb/s przy pobieraniu danych. Dodatkowo, funkcja zapasowego połączenia 4G LTE gwarantuje ciągłość pracy, bez obaw o przerwy w dostępie do sieci.</p><h2>Łączność i ochrona</h2><p>Cudy LT400 to urządzenie kompatybilne z wieloma dostawcami internetu, wspierające zarówno FDD, jak i TDD. Z łatwością stwórz bezpieczne połączenie VPN, korzystając z PPTP/L2TP, co jest szczególnie ważne przy pracy zdalnej. Funkcje DDNS zapewniają sprawną administrację urządzeniem, nawet przy zmianie adresu IP.</p><h2>Łatwe zarządzanie</h2><p>Router Cudy umożliwia bezproblemowe zarządzanie dzięki intuicyjnemu interfejsowi użytkownika. Dostęp do panelu zarządzania przez URL jest prosty i wygodny, co pozwala na szybką konfigurację oraz monitorowanie statusu sieci, niezależnie od zmian w adresacji IP.</p><h2>Bezprzewodowa wolność</h2><p>Wyposażony w Wi-Fi 802.11n, router Cudy LT400 oferuje stabilne i szybkie połączenie bezprzewodowe w paśmie 2,4 GHz. Maksymalna przepustowość 300 Mb/s pozwala na płynne strumieniowanie multimediów, szybkie pobieranie plików i komfortowe surfowanie po sieci bez zacinania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li>Stabilność sieci dzięki czterem antenom 5 dBi</li><li>Mocny sygnał Wi-Fi i lepsze pokrycie w trudno dostępnych miejscach</li><li>Porty LAN/WAN Fast Ethernet dla szybkiego podłączenia urządzeń przewodowych</li><li>Niezawodność połączenia dla zapewnienia ciągłej pracy</li><li>Dostęp do szybkiego Internetu LTE z prędkością do 150 Mb/s</li><li>Funkcja zapasowego połączenia 4G LTE dla ciągłości pracy</li><li>Kompatybilność z wieloma dostawcami internetu, wsparcie dla FDD i TDD</li><li>Bezpieczne połączenie VPN za pomocą PPTP/L2TP, idealne do pracy zdalnej</li><li>Funkcje DDNS dla łatwej administracji urządzeniem</li><li>Intuicyjny interfejs użytkownika dla bezproblemowego zarządzania</li><li>Prosty dostęp do panelu zarządzania przez URL</li><li>Szybka konfiguracja i monitorowanie statusu sieci</li><li>Stabilne i szybkie połączenie bezprzewodowe Wi-Fi 802.11n</li><li>Przepustowość 300 Mb/s dla płynnego strumieniowania multimediów i szybkiego pobierania plików</li><li>Komfortowe surfowanie po sieci bez zacinania</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Tryb pracy</p><p>Access Point; Router</p></li><li><p>Rodzaj urządzenia</p><p>router bezprzewodowy z modemem 4G</p></li><li><p>Rodzaje wejść/wyjść</p><p>RJ-45 10/100 (LAN) - 3 szt.; RJ-45 10/100 (LAN/WAN) - 1 szt.; gniazdo kart nano SIM - 1 szt.; złącze zasilania - 1 szt.</p></li><li><p>Obsługiwane standardy</p><p>Wi-Fi 4 (802.11 b/g/n); LTE</p></li><li><p>Częstotliwość pracy</p><p>2.4 GHz</p></li><li><p>Antena</p><p>zewnętrzna - 4 szt.</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>150 Mb/s (LTE); 300 Mb/s (Wi-Fi)</p></li><li><p>Zabezpieczenia transmisji bezprzewodowej</p><p>WPA; WPA2; WPA-PSK; WPA2-PSK;</p></li><li><p>Zarządzanie i konfiguracja</p><p>strona WWW</p></li><li><p>Dodatkowe funkcje</p><p>serwer VPN; kontrola rodzicielska; QoS; DDNS; przekierowanie portów; klonowanie adresów MAC; UPNP; DMZ; przycisk reset</p></li><li><p>Dołączone akcesoria</p><p>zasilacz; kabel RJ-45; instrukcja szybkiej instalacji</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cudy.jpg",
+  "images": [
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70521.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70522.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70523.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70524.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70525.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70526.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70527.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70528.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70529.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70521.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70522.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70523.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70524.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70525.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70526.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70527.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70528.webp",
+    "galerie/r/router-cudy-lt400-eu-wifi-sim_70529.webp"
+  ],
+  "manufacturer": "Cudy"
 }

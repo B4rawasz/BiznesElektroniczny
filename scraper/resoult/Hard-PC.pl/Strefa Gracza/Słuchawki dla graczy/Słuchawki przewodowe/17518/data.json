@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Słuchawki dla graczy",
-        "Słuchawki przewodowe"
-    ],
-    "id": "17518",
-    "code": "RM-K91",
-    "name": "Słuchawki Rampage RM-K91 X-CATTY Pink USB 7.1 RGB",
-    "price": 99.0,
-    "description": "<h2>Dźwięk 360º</h2><p>Doświadcz fenomenalnego dźwięku 360º dzięki Rampage RM-K91 X-CATTY. Te niesamowite słuchawki z 50 mm przetwornikiem odtwarzają muzykę na topowym poziomie, ale także pozwolą ci dowiedzieć się, skąd dochodzą dźwięki w trakcie gry, umożliwiając ci rywalizację na najwyższym poziomie.</p><h2>Wysokiej jakości podświetlenie</h2><p>Wyglądaj stylowo dzięki słuchawkom z podświetleniem RGB LED, Rampage RM-K91 X-CATTY. Zostały zaprojektowane starannie i z dbałością o szczegóły. Wyróżniając się w swojej klasie, RM-K91 X-CATTY stanie się niezbędnym elementem twojego zestawu.</p><h2>Solidne wykonanie</h2><p>Rampage RM-K91 X-CATTY, wytrzymałość i niezawodność są gwarantowane dzięki użyciu wysokiej jakości materiałów i zaawansowanym testom. Możesz ich używać na wielu platformach, takich jak PC, MAC, PS4, urządzenia mobilne i tablety.</p><h2>Dbałość o komfort</h2><p>Słuchawki zaprojektowane zostały tak, żeby nie tylko wyglądać świetnie, ale też dawać komfort użytkownikowi. Na nausznikach znajduje się miękki materiał, dzięki któremu słuchawki będą Ci pasować doskonale. Dzięki specjalnie dostosowanej wielkości słuchawek te sprawdzą się nawet w trakcie długich sesji przy komputerze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Czułość mikrofonu:</p><p>-42 dB</p></li><li><p>Czułość słuchawek:</p><p>110 dB</p></li><li><p>Impedancja:</p><p>16 Ω</p></li><li><p>Pasmo przenoszenia:</p><p>15 Hz - 20000 Hz</p></li><li><p>Wbudowany mikrofon:</p><p>tak</p></li><li><p>Średnica membrany:</p><p>50 mm</p></li><li><p>Złącze 1:</p><p>Wtyk USB-A</p></li><li><p>Wysokość:</p><p>23 cm</p></li><li><p>Szerokość:</p><p>21 cm</p></li><li><p>Kolor:</p><p>Różowy</p></li><li><p>Materiał zewnętrzny:</p><p>ABS</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/rampage.jpg",
-    "images": [
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64168.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64169.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64170.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64171.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64172.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64173.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64174.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64175.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64168.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64169.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64170.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64171.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64172.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64173.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64174.webp",
-        "galerie/s/sluchawki-rampage-rm-k91-x-ca_64175.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Słuchawki dla graczy",
+    "Słuchawki przewodowe"
+  ],
+  "id": "17518",
+  "code": "RM-K91",
+  "name": "Słuchawki Rampage RM-K91 X-CATTY Pink USB 7.1 RGB",
+  "price": 99.0,
+  "description": "<h2>Dźwięk 360º</h2><p>Doświadcz fenomenalnego dźwięku 360º dzięki Rampage RM-K91 X-CATTY. Te niesamowite słuchawki z 50 mm przetwornikiem odtwarzają muzykę na topowym poziomie, ale także pozwolą ci dowiedzieć się, skąd dochodzą dźwięki w trakcie gry, umożliwiając ci rywalizację na najwyższym poziomie.</p><h2>Wysokiej jakości podświetlenie</h2><p>Wyglądaj stylowo dzięki słuchawkom z podświetleniem RGB LED, Rampage RM-K91 X-CATTY. Zostały zaprojektowane starannie i z dbałością o szczegóły. Wyróżniając się w swojej klasie, RM-K91 X-CATTY stanie się niezbędnym elementem twojego zestawu.</p><h2>Solidne wykonanie</h2><p>Rampage RM-K91 X-CATTY, wytrzymałość i niezawodność są gwarantowane dzięki użyciu wysokiej jakości materiałów i zaawansowanym testom. Możesz ich używać na wielu platformach, takich jak PC, MAC, PS4, urządzenia mobilne i tablety.</p><h2>Dbałość o komfort</h2><p>Słuchawki zaprojektowane zostały tak, żeby nie tylko wyglądać świetnie, ale też dawać komfort użytkownikowi. Na nausznikach znajduje się miękki materiał, dzięki któremu słuchawki będą Ci pasować doskonale. Dzięki specjalnie dostosowanej wielkości słuchawek te sprawdzą się nawet w trakcie długich sesji przy komputerze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Czułość mikrofonu:</p><p>-42 dB</p></li><li><p>Czułość słuchawek:</p><p>110 dB</p></li><li><p>Impedancja:</p><p>16 Ω</p></li><li><p>Pasmo przenoszenia:</p><p>15 Hz - 20000 Hz</p></li><li><p>Wbudowany mikrofon:</p><p>tak</p></li><li><p>Średnica membrany:</p><p>50 mm</p></li><li><p>Złącze 1:</p><p>Wtyk USB-A</p></li><li><p>Wysokość:</p><p>23 cm</p></li><li><p>Szerokość:</p><p>21 cm</p></li><li><p>Kolor:</p><p>Różowy</p></li><li><p>Materiał zewnętrzny:</p><p>ABS</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/rampage.jpg",
+  "images": [
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64168.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64169.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64170.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64171.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64172.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64173.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64174.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64175.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64168.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64169.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64170.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64171.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64172.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64173.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64174.webp",
+    "galerie/s/sluchawki-rampage-rm-k91-x-ca_64175.webp"
+  ],
+  "manufacturer": "Rampage"
 }

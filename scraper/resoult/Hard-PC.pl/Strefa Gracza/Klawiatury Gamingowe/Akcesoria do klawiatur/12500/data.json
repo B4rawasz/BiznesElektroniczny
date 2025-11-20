@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Akcesoria do klawiatur"
-    ],
-    "id": "12500",
-    "code": "GAZU-770",
-    "name": "Płyta Glorious GMMK Pro 75% Switch Plate - Poliwęglan",
-    "price": 97.9,
-    "description": "<p>Ta płyta (switch plate) wykonana z poliwęglanu nadaje każdej GMM PRO 75% elegancki wygląd. Producent wraz z modelem GMMK Pro daje szeroką gamę opcji personalizacji klawiatury i stworzenia unikalnego egzemplarza.</p><p>Poliwęglan znany jest ze swojej solidności i wytrzymałości, co przekłada się również na wrażenia z pisania. Według ekspertów płyta ta najlepiej sprawdzi się z przełącznikami dotykowymi i klikanymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Poliwęglan</p></li><li><p>Kolor</p><p>Biały, półprzeroczysty</p></li><li><p>Kompatybilność</p><p>GMMK Pro 75% barebones</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/glorious.jpg",
-    "images": [
-        "galerie/p/plyta-glorious-pc-gaming-race_44763.webp",
-        "galerie/p/plyta-glorious-pc-gaming-race_44764.webp",
-        "galerie/p/plyta-glorious-pc-gaming-race_44765.webp",
-        "galerie/p/plyta-glorious-pc-gaming-race_44763.webp",
-        "galerie/p/plyta-glorious-pc-gaming-race_44764.webp",
-        "galerie/p/plyta-glorious-pc-gaming-race_44765.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "12500",
+  "code": "GAZU-770",
+  "name": "Płyta Glorious GMMK Pro 75% Switch Plate - Poliwęglan",
+  "price": 97.9,
+  "description": "<p>Ta płyta (switch plate) wykonana z poliwęglanu nadaje każdej GMM PRO 75% elegancki wygląd. Producent wraz z modelem GMMK Pro daje szeroką gamę opcji personalizacji klawiatury i stworzenia unikalnego egzemplarza.</p><p>Poliwęglan znany jest ze swojej solidności i wytrzymałości, co przekłada się również na wrażenia z pisania. Według ekspertów płyta ta najlepiej sprawdzi się z przełącznikami dotykowymi i klikanymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Poliwęglan</p></li><li><p>Kolor</p><p>Biały, półprzeroczysty</p></li><li><p>Kompatybilność</p><p>GMMK Pro 75% barebones</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/p/plyta-glorious-pc-gaming-race_44763.webp",
+    "galerie/p/plyta-glorious-pc-gaming-race_44764.webp",
+    "galerie/p/plyta-glorious-pc-gaming-race_44765.webp",
+    "galerie/p/plyta-glorious-pc-gaming-race_44763.webp",
+    "galerie/p/plyta-glorious-pc-gaming-race_44764.webp",
+    "galerie/p/plyta-glorious-pc-gaming-race_44765.webp"
+  ],
+  "manufacturer": "Glorious"
 }

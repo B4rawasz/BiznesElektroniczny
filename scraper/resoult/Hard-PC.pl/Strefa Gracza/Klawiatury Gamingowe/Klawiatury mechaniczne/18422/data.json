@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Klawiatury mechaniczne"
-    ],
-    "id": "18422",
-    "code": "K3M-A1",
-    "name": "Klawiatura Keychron K3 Max White LED Gateron Red",
-    "price": 479.0,
-    "description": "<h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Częstotliwość odświeżania</p><p>1000 Hz (przewodowe i 2,4 GHz) / 90 Hz (Bluetooth)</p></li><li><p>N-Key Rollover (NKRO)</p><p>Tak dla trybu bezprzewodowego i przewodowego</p></li><li><p>Keycaps</p><p>Keycapy PBT Double-Shot, nieprześwitujące</p></li><li><p>Podświetlenie</p><p>LED RGB</p></li><li><p>Switch</p><p>Niskoprofilowe switche Gateron</p></li><li><p>Obsługa hot-swappable</p><p>Tak</p></li><li><p>Łączność</p><p>przewodowa 2,4 GHz / Bluetooth / Type-C</p></li><li><p>Wersja Bluetooth</p><p>5.1</p></li><li><p>Bateria</p><p>1550 mAh Akumulator litowo-polimerowy</p></li><li><p>Czas pracy baterii (podświetlenie wyłączone)</p><p>Do 78 godzin</p></li><li><p>Szerokość</p><p>116 mm</p></li><li><p>Długość</p><p>306 mm</p></li><li><p>Wysokość z przodu</p><p>11 mm (bez keycapsów)</p></li><li><p>Wysokość z tyłu</p><p>15 mm (bez keycapsów)</p></li><li><p>Waga</p><p>525 g ± 10 g</p></li><li><p>Materiał obudowy</p><p>Aluminium</p></li><li><p>Materiał płytki</p><p>PC</p></li></ul><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Częstotliwość odświeżania</p><p>1000 Hz (przewodowe i 2,4 GHz) / 90 Hz (Bluetooth)</p></li><li><p>N-Key Rollover (NKRO)</p><p>Tak dla trybu bezprzewodowego i przewodowego</p></li><li><p>Keycaps</p><p>Keycapy PBT Double-Shot, nieprześwitujące</p></li><li><p>Podświetlenie</p><p>LED White</p></li><li><p>Switch</p><p>Niskoprofilowe switche Gateron</p></li><li><p>Obsługa hot-swappable</p><p>Nie</p></li><li><p>Łączność</p><p>przewodowa 2,4 GHz / Bluetooth / Type-C</p></li><li><p>Wersja Bluetooth</p><p>5.1</p></li><li><p>Bateria</p><p>1550 mAh Akumulator litowo-polimerowy</p></li><li><p>Czas pracy baterii (podświetlenie wyłączone)</p><p>Do 78 godzin</p></li><li><p>Szerokość</p><p>116 mm</p></li><li><p>Długość</p><p>306 mm</p></li><li><p>Wysokość z przodu</p><p>11 mm (bez keycapsów)</p></li><li><p>Wysokość z tyłu</p><p>15 mm (bez keycapsów)</p></li><li><p>Waga</p><p>525 g ± 10 g</p></li><li><p>Materiał obudowy</p><p>Aluminium</p></li><li><p>Materiał płytki</p><p>PC</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Keychron</p></li><li><p>Dane producenta</p><p>Keychron Technology, Inc., Middletown, New Castle, Delaware, 19709 Middletown, USA, support@keychron.com</p></li><li><p>Podmiot odpowiedzialny</p><p>APEX CE SPECIALISTS LIMITED, UNIT 3D NORTH POINT HOUSE, NORTH POINT BUSINESS PARK, NEW MALLOW ROALD, Cork, IE, T23AT2P, support@keychron.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/keychron.jpg",
-    "images": [
-        "galerie/k/klawiatura-keychron-k3-max-wh_71098.webp",
-        "galerie/k/klawiatura-keychron-k3-max-wh_71098.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "18422",
+  "code": "K3M-A1",
+  "name": "Klawiatura Keychron K3 Max White LED Gateron Red",
+  "price": 479.0,
+  "description": "<h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Częstotliwość odświeżania</p><p>1000 Hz (przewodowe i 2,4 GHz) / 90 Hz (Bluetooth)</p></li><li><p>N-Key Rollover (NKRO)</p><p>Tak dla trybu bezprzewodowego i przewodowego</p></li><li><p>Keycaps</p><p>Keycapy PBT Double-Shot, nieprześwitujące</p></li><li><p>Podświetlenie</p><p>LED RGB</p></li><li><p>Switch</p><p>Niskoprofilowe switche Gateron</p></li><li><p>Obsługa hot-swappable</p><p>Tak</p></li><li><p>Łączność</p><p>przewodowa 2,4 GHz / Bluetooth / Type-C</p></li><li><p>Wersja Bluetooth</p><p>5.1</p></li><li><p>Bateria</p><p>1550 mAh Akumulator litowo-polimerowy</p></li><li><p>Czas pracy baterii (podświetlenie wyłączone)</p><p>Do 78 godzin</p></li><li><p>Szerokość</p><p>116 mm</p></li><li><p>Długość</p><p>306 mm</p></li><li><p>Wysokość z przodu</p><p>11 mm (bez keycapsów)</p></li><li><p>Wysokość z tyłu</p><p>15 mm (bez keycapsów)</p></li><li><p>Waga</p><p>525 g ± 10 g</p></li><li><p>Materiał obudowy</p><p>Aluminium</p></li><li><p>Materiał płytki</p><p>PC</p></li></ul><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Częstotliwość odświeżania</p><p>1000 Hz (przewodowe i 2,4 GHz) / 90 Hz (Bluetooth)</p></li><li><p>N-Key Rollover (NKRO)</p><p>Tak dla trybu bezprzewodowego i przewodowego</p></li><li><p>Keycaps</p><p>Keycapy PBT Double-Shot, nieprześwitujące</p></li><li><p>Podświetlenie</p><p>LED White</p></li><li><p>Switch</p><p>Niskoprofilowe switche Gateron</p></li><li><p>Obsługa hot-swappable</p><p>Nie</p></li><li><p>Łączność</p><p>przewodowa 2,4 GHz / Bluetooth / Type-C</p></li><li><p>Wersja Bluetooth</p><p>5.1</p></li><li><p>Bateria</p><p>1550 mAh Akumulator litowo-polimerowy</p></li><li><p>Czas pracy baterii (podświetlenie wyłączone)</p><p>Do 78 godzin</p></li><li><p>Szerokość</p><p>116 mm</p></li><li><p>Długość</p><p>306 mm</p></li><li><p>Wysokość z przodu</p><p>11 mm (bez keycapsów)</p></li><li><p>Wysokość z tyłu</p><p>15 mm (bez keycapsów)</p></li><li><p>Waga</p><p>525 g ± 10 g</p></li><li><p>Materiał obudowy</p><p>Aluminium</p></li><li><p>Materiał płytki</p><p>PC</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Keychron</p></li><li><p>Dane producenta</p><p>Keychron Technology, Inc., Middletown, New Castle, Delaware, 19709 Middletown, USA, support@keychron.com</p></li><li><p>Podmiot odpowiedzialny</p><p>APEX CE SPECIALISTS LIMITED, UNIT 3D NORTH POINT HOUSE, NORTH POINT BUSINESS PARK, NEW MALLOW ROALD, Cork, IE, T23AT2P, support@keychron.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/keychron.jpg",
+  "images": [
+    "galerie/k/klawiatura-keychron-k3-max-wh_71098.webp",
+    "galerie/k/klawiatura-keychron-k3-max-wh_71098.webp"
+  ],
+  "manufacturer": "Keychron"
 }

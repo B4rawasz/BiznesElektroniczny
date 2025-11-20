@@ -1,18 +1,19 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Podkładki"
-    ],
-    "id": "18840",
-    "code": "XPAD-AC-PRO-BLK-XL",
-    "name": "Podkładka X-Raypad Aqua Control PRO MID Black XL – 450x400mm",
-    "price": 189.0,
-    "description": "<p>Aqua Control Pro to wyjątkowa podkładka pod mysz, która dzięki innowacyjnej podstawie MID zapewnia doskonałą kontrolę ruchów bez kompromisów w kwestii szybkości. Specjalnie zaprojektowana powierzchnia gwarantuje precyzję przy każdym ruchu myszy, jednocześnie pozwalając na płynną i dynamiczną nawigację. Antypoślizgowa baza sprawia, że podkładka pozostaje na swoim miejscu, nawet podczas najbardziej intensywnych sesji gamingowych lub pracy.</p><p>Podkładka ma imponujące wymiary 450 x 400 mm i grubość 4 mm, co zapewnia idealną równowagę między komfortem a funkcjonalnością. Aqua Control Pro w kolorze czarnym to optymalne rozwiązanie, które poprawi Twoje doświadczenia zarówno w grach, jak i w codziennej pracy. Postaw na jakość i niezawodność, które sprostają Twoim oczekiwaniom!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Powierzchnia</p><p>Hybrydowa - szybki ślizg i szybki start</p></li><li><p>Baza</p><p>4mm pianka poliuretanowa memory-cell</p></li><li><p>Krawędzie</p><p>Obszyte</p></li><li><p>Rozmiar</p><p>Duży 450 x 400 x 4 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>X-Raypad</p></li><li><p>Dane producenta</p><p>X-ray Technology Co.,Ltd, Tianfeng Road, Dalingshan, DongGuan Guangdong, China, michael@xraypads.com</p></li><li><p>Podmiot odpowiedzialny</p><p>SUCCESS COURIER SL, CALLE RIO TORMES NUM. 1, PLANTA 1, DERECHA, OFICINA 3, Fuenlabrada, Madrid, 28947, Spain, successservice2@hotmail.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/x-raypad.jpg",
-    "images": [
-        "galerie/p/podkladka-x-raypad-aqua-contr_69319.webp",
-        "galerie/p/podkladka-x-raypad-aqua-contr_69319.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Podkładki"
+  ],
+  "id": "18840",
+  "code": "XPAD-AC-PRO-BLK-XL",
+  "name": "Podkładka X-Raypad Aqua Control PRO MID Black XL – 450x400mm",
+  "price": 189.0,
+  "description": "<p>Aqua Control Pro to wyjątkowa podkładka pod mysz, która dzięki innowacyjnej podstawie MID zapewnia doskonałą kontrolę ruchów bez kompromisów w kwestii szybkości. Specjalnie zaprojektowana powierzchnia gwarantuje precyzję przy każdym ruchu myszy, jednocześnie pozwalając na płynną i dynamiczną nawigację. Antypoślizgowa baza sprawia, że podkładka pozostaje na swoim miejscu, nawet podczas najbardziej intensywnych sesji gamingowych lub pracy.</p><p>Podkładka ma imponujące wymiary 450 x 400 mm i grubość 4 mm, co zapewnia idealną równowagę między komfortem a funkcjonalnością. Aqua Control Pro w kolorze czarnym to optymalne rozwiązanie, które poprawi Twoje doświadczenia zarówno w grach, jak i w codziennej pracy. Postaw na jakość i niezawodność, które sprostają Twoim oczekiwaniom!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Powierzchnia</p><p>Hybrydowa - szybki ślizg i szybki start</p></li><li><p>Baza</p><p>4mm pianka poliuretanowa memory-cell</p></li><li><p>Krawędzie</p><p>Obszyte</p></li><li><p>Rozmiar</p><p>Duży 450 x 400 x 4 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>X-Raypad</p></li><li><p>Dane producenta</p><p>X-ray Technology Co.,Ltd, Tianfeng Road, Dalingshan, DongGuan Guangdong, China, michael@xraypads.com</p></li><li><p>Podmiot odpowiedzialny</p><p>SUCCESS COURIER SL, CALLE RIO TORMES NUM. 1, PLANTA 1, DERECHA, OFICINA 3, Fuenlabrada, Madrid, 28947, Spain, successservice2@hotmail.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/x-raypad.jpg",
+  "images": [
+    "galerie/p/podkladka-x-raypad-aqua-contr_69319.webp",
+    "galerie/p/podkladka-x-raypad-aqua-contr_69319.webp"
+  ],
+  "manufacturer": "X-Raypad"
 }

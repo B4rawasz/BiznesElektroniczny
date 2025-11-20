@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Akcesoria sieciowe",
-        "Switche"
-    ],
-    "id": "16110",
-    "code": "SG105M",
-    "name": "Switch Tenda SG105M 5-portów Gigabit",
-    "price": 36.9,
-    "description": "<p>Switche Tenda Gigabit Ethernet dlA SOHO oferują prostotę typu plug-and-play, niezawodność dla Twojej sieci małego biura, biura domowego lub pracy z domu. W porównaniu ze switchami 100M, zwiększają prędkość transmisji nawet dziesięciokrotnie and oraz eliminują wąskie gardło kaskadowej przepustowości.</p><h2>W pełni gigabitowe porty, połączenie o pełnej szybkości.</h2><p>Z pięcioma portami Gigabit Ethernet, prędkością transmisji do 2000 Mb/s w trybie full duplex, z większą zdolnością przetwarzania danych, switch może skutecznie rozwiązać problemy opóźnień wideo oraz utraty obrazy w środowisku monitorowania HD, swobodnie obsługując kamery monitoringu HD o mocy 400 W.</p><h2>Mały i wykwintny, pozwala zaoszczędzić więcej miejsca</h2><p>Superminiaturowa obudowa 82*52*22 mm, mniejsza niż karta bankowa. Możliwość montażu na ścianie i umieszczenia w dowolnym miejscu.</p><h2>Plug And Play, wygodne tworzenie i korzystanie z sieci.</h2><p>Każdy port obsługuje automatyczną zmianę MDI/MDIX. Wepnij kabel sieciowy, aby uzyskać dostęp do Internetu. Bez niepotrzebnego wprowadzania ustawień, prosto i wygodnie.</p><h2>Szerokie zastosowanie</h2>Switch jest kompatybilny z urządzeniami sieciowymi, takimi jak kamery monitoringu, komputery, drukarki, Smart TV czy konsolami do gier, aby lepiej realizować warunki korzystania z sieci w środowiskach domowych i firmowych.\r                       \r\r\t\r\r\r\r\r<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standardy sieciowe</p><p>IEEE802.3<br/>IEEE802.3u<br/>IEEE802.3x<br/>IEEE802.3ab</p></li><li><p>Wskaźnik ledowy</p><p>One Link/Act LED indicator for each Gigabit port</p></li><li><p>Interfejsy</p><p>5*10/100/1000Base-T Ethernet ports</p></li><li><p>Środki przekazu</p><p>Ethernet CAT3 UTP or better<br/>Fast Ethernet CAT5 UTP or better<br/>Gigabit Ethernet CAT5e UTP or better</p></li><li><p>Wymiar</p><p>82mm*52mm*22mm(L*W*H)</p></li><li><p>Materiał</p><p>Plastic</p></li><li><p>Tryb przekazywania</p><p>Store-and-forward</p></li><li><p>Pojemność przełącznika</p><p>10Gbps</p></li><li><p>Szybkość przekazywania pakietów</p><p>7.44Mpps</p></li><li><p>Bufor</p><p>1Mb</p></li><li><p>Tabela adresów MAC</p><p>2K</p></li><li><p>Ramka Jombo</p><p>15K</p></li><li><p>Moc</p><p>Input 100-240V AC 50/60Hz<br/>Output 5.0V 0.6A ( External Power Adapter )</p></li><li><p>Pobór energii</p><p>Max &lt;1.7W</p></li><li><p>Montowanie</p><p>Desktop mounting support<br/>Wall mounting support <br/>Rack mounting non-support</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tenda</p></li><li><p>Dane producenta</p><p>Tenda Polska Sp. z o.o.; Górczewska 216, 01-460 Warszawa, Polska, support.pl@tenda.cn</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tenda.jpg",
-    "images": [
-        "galerie/s/switch-tenda-sg105m-5-portow_57187.webp",
-        "galerie/s/switch-tenda-sg105m-5-portow_57188.webp",
-        "galerie/s/switch-tenda-sg105m-5-portow_57189.webp",
-        "galerie/s/switch-tenda-sg105m-5-portow_57190.webp",
-        "galerie/s/switch-tenda-sg105m-5-portow_57187.webp",
-        "galerie/s/switch-tenda-sg105m-5-portow_57188.webp",
-        "galerie/s/switch-tenda-sg105m-5-portow_57189.webp",
-        "galerie/s/switch-tenda-sg105m-5-portow_57190.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Switche"
+  ],
+  "id": "16110",
+  "code": "SG105M",
+  "name": "Switch Tenda SG105M 5-portów Gigabit",
+  "price": 36.9,
+  "description": "<p>Switche Tenda Gigabit Ethernet dlA SOHO oferują prostotę typu plug-and-play, niezawodność dla Twojej sieci małego biura, biura domowego lub pracy z domu. W porównaniu ze switchami 100M, zwiększają prędkość transmisji nawet dziesięciokrotnie and oraz eliminują wąskie gardło kaskadowej przepustowości.</p><h2>W pełni gigabitowe porty, połączenie o pełnej szybkości.</h2><p>Z pięcioma portami Gigabit Ethernet, prędkością transmisji do 2000 Mb/s w trybie full duplex, z większą zdolnością przetwarzania danych, switch może skutecznie rozwiązać problemy opóźnień wideo oraz utraty obrazy w środowisku monitorowania HD, swobodnie obsługując kamery monitoringu HD o mocy 400 W.</p><h2>Mały i wykwintny, pozwala zaoszczędzić więcej miejsca</h2><p>Superminiaturowa obudowa 82*52*22 mm, mniejsza niż karta bankowa. Możliwość montażu na ścianie i umieszczenia w dowolnym miejscu.</p><h2>Plug And Play, wygodne tworzenie i korzystanie z sieci.</h2><p>Każdy port obsługuje automatyczną zmianę MDI/MDIX. Wepnij kabel sieciowy, aby uzyskać dostęp do Internetu. Bez niepotrzebnego wprowadzania ustawień, prosto i wygodnie.</p><h2>Szerokie zastosowanie</h2>Switch jest kompatybilny z urządzeniami sieciowymi, takimi jak kamery monitoringu, komputery, drukarki, Smart TV czy konsolami do gier, aby lepiej realizować warunki korzystania z sieci w środowiskach domowych i firmowych.\r                       \r\r\t\r\r\r\r\r<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standardy sieciowe</p><p>IEEE802.3<br/>IEEE802.3u<br/>IEEE802.3x<br/>IEEE802.3ab</p></li><li><p>Wskaźnik ledowy</p><p>One Link/Act LED indicator for each Gigabit port</p></li><li><p>Interfejsy</p><p>5*10/100/1000Base-T Ethernet ports</p></li><li><p>Środki przekazu</p><p>Ethernet CAT3 UTP or better<br/>Fast Ethernet CAT5 UTP or better<br/>Gigabit Ethernet CAT5e UTP or better</p></li><li><p>Wymiar</p><p>82mm*52mm*22mm(L*W*H)</p></li><li><p>Materiał</p><p>Plastic</p></li><li><p>Tryb przekazywania</p><p>Store-and-forward</p></li><li><p>Pojemność przełącznika</p><p>10Gbps</p></li><li><p>Szybkość przekazywania pakietów</p><p>7.44Mpps</p></li><li><p>Bufor</p><p>1Mb</p></li><li><p>Tabela adresów MAC</p><p>2K</p></li><li><p>Ramka Jombo</p><p>15K</p></li><li><p>Moc</p><p>Input 100-240V AC 50/60Hz<br/>Output 5.0V 0.6A ( External Power Adapter )</p></li><li><p>Pobór energii</p><p>Max &lt;1.7W</p></li><li><p>Montowanie</p><p>Desktop mounting support<br/>Wall mounting support <br/>Rack mounting non-support</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tenda</p></li><li><p>Dane producenta</p><p>Tenda Polska Sp. z o.o.; Górczewska 216, 01-460 Warszawa, Polska, support.pl@tenda.cn</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tenda.jpg",
+  "images": [
+    "galerie/s/switch-tenda-sg105m-5-portow_57187.webp",
+    "galerie/s/switch-tenda-sg105m-5-portow_57188.webp",
+    "galerie/s/switch-tenda-sg105m-5-portow_57189.webp",
+    "galerie/s/switch-tenda-sg105m-5-portow_57190.webp",
+    "galerie/s/switch-tenda-sg105m-5-portow_57187.webp",
+    "galerie/s/switch-tenda-sg105m-5-portow_57188.webp",
+    "galerie/s/switch-tenda-sg105m-5-portow_57189.webp",
+    "galerie/s/switch-tenda-sg105m-5-portow_57190.webp"
+  ],
+  "manufacturer": "Tenda"
 }

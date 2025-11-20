@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Procesory",
-        "Procesory Intel"
-    ],
-    "id": "15740",
-    "code": "BX8071513500",
-    "name": "Procesor Intel Core i5-13500 BOX 2,5 GHz, LGA1700",
-    "price": 1165.9,
-    "description": "<p>Procesor Intel Core i5-13500 13. generacji do komputerów stacjonarnych. Dzięki obsłudze PCIe 5.0 i 4.0, obsłudze DDR5 i DDR4 procesory Intel Core i5 13. generacji do komputerów stacjonarnych są zoptymalizowane pod kątem graczy i produktywności oraz pomagają zapewnić wysoką wydajność. Kompatybilny z płytami głównymi opartymi na chipsetach serii Intel 700 i Intel 600. Podstawowa moc procesora 65 W.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Liczba rdzeni</p><p>14</p></li><li><p>Liczba rdzeni Performance-core</p><p>6</p></li><li><p>Liczba rdzeni Efficient-core</p><p>8</p></li><li><p>Liczba wątków</p><p>20</p></li><li><p>Maks. częstotliwość turbo</p><p>4.80 GHz</p></li><li><p>Maksymalna częstotliwość turbo rdzeni Performance-core</p><p>4.80 GHz</p></li><li><p>Maksymalna częstotliwość turbo rdzeni Efficient-core</p><p>3.50 GHz</p></li><li><p>Częstotliwość bazowa rdzeni Performance-core</p><p>2.50 GHz</p></li><li><p>Częstotliwość bazowa rdzeni Efficient-core</p><p>1.80 GHz</p></li><li><p>Cache</p><p>24 MB Intel® Smart Cache</p></li><li><p>Łącznie pamięci podręcznej L2</p><p>11.5 MB</p></li><li><p>Podstawowa moc procesora</p><p>65 W</p></li><li><p>Maksymalna moc turbo</p><p>154 W</p></li><li><p>Maks. wielkość pamięci (w zależności od rodzaju pamięci)</p><p>128 GB</p></li><li><p>Rodzaje pamięci</p><p>Up to DDR5 4800 MT/s<br/>Up to DDR4 3200 MT/s</p></li><li><p>Maks. liczba kanałów pamięci</p><p>2</p></li><li><p>Maks. przepustowość pamięci</p><p>76.8 GB/s</p></li><li><p>Obsługa pamięci ECC</p><p>Tak</p></li><li><p>Układ graficzny procesora</p><p>Grafika UHD Intel® 770</p></li><li><p>Częstotliwość podstawowa układu graficznego</p><p>300 MHz</p></li><li><p>Maks. częstotliwość dynamiczna układu graficznego</p><p>1.55 GHz</p></li><li><p>Wyjście do grafiki</p><p>eDP 1.4b, DP 1.4a, HDMI 2.1</p></li><li><p>Jednostki wykonawcze</p><p>32</p></li><li><p>Maks. rozdzielczość (HDMI)</p><p>4096 x 2160 @ 60Hz</p></li><li><p>Maks. rozdzielczość (DP)</p><p>7680 x 4320 @ 60Hz</p></li><li><p>Maks. rozdzielczość (eDP – wbudowany płaski wyświetlacz)</p><p>5120 x 3200 @ 120Hz</p></li><li><p>Obsługa DirectX*</p><p>12</p></li><li><p>Obsługa OpenGL*</p><p>4.5</p></li><li><p>Obsługa OpenCL*</p><p>3.0</p></li><li><p>Wieloformatowe silniki koder-dekoder</p><p>2</p></li><li><p>Intel® Quick Sync Video</p><p>Tak</p></li><li><p>Technologia Intel® Clear Video HD</p><p>Tak</p></li><li><p>Liczba obsługiwanych wyświetlaczy</p><p>4</p></li><li><p>Wersja magistrali DMI (Direct Media Interface)</p><p>4.0</p></li><li><p>Maksymalna liczba linii DMI</p><p>8</p></li><li><p>Skalowalność</p><p>1S Only</p></li><li><p>Wersja PCI Express</p><p>5.0 and 4.0</p></li><li><p>Liczba konfiguracji PCI Express</p><p>Up to 1x16+4, 2x8+4</p></li><li><p>Maksymalna liczba linii PCI Express</p><p>20</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/intel.jpg",
-    "images": [
-        "galerie/p/procesor-intel-core-i5-12400f_47724.webp",
-        "galerie/p/procesor-intel-core-i5-12400f_47724.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory Intel"
+  ],
+  "id": "15740",
+  "code": "BX8071513500",
+  "name": "Procesor Intel Core i5-13500 BOX 2,5 GHz, LGA1700",
+  "price": 1165.9,
+  "description": "<p>Procesor Intel Core i5-13500 13. generacji do komputerów stacjonarnych. Dzięki obsłudze PCIe 5.0 i 4.0, obsłudze DDR5 i DDR4 procesory Intel Core i5 13. generacji do komputerów stacjonarnych są zoptymalizowane pod kątem graczy i produktywności oraz pomagają zapewnić wysoką wydajność. Kompatybilny z płytami głównymi opartymi na chipsetach serii Intel 700 i Intel 600. Podstawowa moc procesora 65 W.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Liczba rdzeni</p><p>14</p></li><li><p>Liczba rdzeni Performance-core</p><p>6</p></li><li><p>Liczba rdzeni Efficient-core</p><p>8</p></li><li><p>Liczba wątków</p><p>20</p></li><li><p>Maks. częstotliwość turbo</p><p>4.80 GHz</p></li><li><p>Maksymalna częstotliwość turbo rdzeni Performance-core</p><p>4.80 GHz</p></li><li><p>Maksymalna częstotliwość turbo rdzeni Efficient-core</p><p>3.50 GHz</p></li><li><p>Częstotliwość bazowa rdzeni Performance-core</p><p>2.50 GHz</p></li><li><p>Częstotliwość bazowa rdzeni Efficient-core</p><p>1.80 GHz</p></li><li><p>Cache</p><p>24 MB Intel® Smart Cache</p></li><li><p>Łącznie pamięci podręcznej L2</p><p>11.5 MB</p></li><li><p>Podstawowa moc procesora</p><p>65 W</p></li><li><p>Maksymalna moc turbo</p><p>154 W</p></li><li><p>Maks. wielkość pamięci (w zależności od rodzaju pamięci)</p><p>128 GB</p></li><li><p>Rodzaje pamięci</p><p>Up to DDR5 4800 MT/s<br/>Up to DDR4 3200 MT/s</p></li><li><p>Maks. liczba kanałów pamięci</p><p>2</p></li><li><p>Maks. przepustowość pamięci</p><p>76.8 GB/s</p></li><li><p>Obsługa pamięci ECC</p><p>Tak</p></li><li><p>Układ graficzny procesora</p><p>Grafika UHD Intel® 770</p></li><li><p>Częstotliwość podstawowa układu graficznego</p><p>300 MHz</p></li><li><p>Maks. częstotliwość dynamiczna układu graficznego</p><p>1.55 GHz</p></li><li><p>Wyjście do grafiki</p><p>eDP 1.4b, DP 1.4a, HDMI 2.1</p></li><li><p>Jednostki wykonawcze</p><p>32</p></li><li><p>Maks. rozdzielczość (HDMI)</p><p>4096 x 2160 @ 60Hz</p></li><li><p>Maks. rozdzielczość (DP)</p><p>7680 x 4320 @ 60Hz</p></li><li><p>Maks. rozdzielczość (eDP – wbudowany płaski wyświetlacz)</p><p>5120 x 3200 @ 120Hz</p></li><li><p>Obsługa DirectX*</p><p>12</p></li><li><p>Obsługa OpenGL*</p><p>4.5</p></li><li><p>Obsługa OpenCL*</p><p>3.0</p></li><li><p>Wieloformatowe silniki koder-dekoder</p><p>2</p></li><li><p>Intel® Quick Sync Video</p><p>Tak</p></li><li><p>Technologia Intel® Clear Video HD</p><p>Tak</p></li><li><p>Liczba obsługiwanych wyświetlaczy</p><p>4</p></li><li><p>Wersja magistrali DMI (Direct Media Interface)</p><p>4.0</p></li><li><p>Maksymalna liczba linii DMI</p><p>8</p></li><li><p>Skalowalność</p><p>1S Only</p></li><li><p>Wersja PCI Express</p><p>5.0 and 4.0</p></li><li><p>Liczba konfiguracji PCI Express</p><p>Up to 1x16+4, 2x8+4</p></li><li><p>Maksymalna liczba linii PCI Express</p><p>20</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/intel.jpg",
+  "images": [
+    "galerie/p/procesor-intel-core-i5-12400f_47724.webp",
+    "galerie/p/procesor-intel-core-i5-12400f_47724.webp"
+  ],
+  "manufacturer": "Intel"
 }

@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Gry planszowe",
-        "Akcesoria"
-    ],
-    "id": "19794",
-    "code": "9918995023206",
-    "name": "Farbka Citadel Abaddon Black 12ml (air)",
-    "price": 24.99,
-    "description": "<h2>Abaddon Black – farba do malowania ciemnych detali i wykończeń</h2><p>Abaddon Black to farba Citadel, która oferuje głęboki, intensywny czarny odcień, idealny do malowania zarówno ciemnych baz, jak i szczegółów na modelach. Jest to wyjątkowo uniwersalna farba, która doskonale sprawdza się do malowania czarnych zbroi, broni, detali mechanicznych, jak również do podkładania powierzchni przed nałożeniem innych kolorów.</p><p>Farba Abaddon Black charakteryzuje się dobrym kryciem, co pozwala uzyskać gładką i równą powłokę już po jednej warstwie. Dzięki swojej głębokiej formule, jest idealna do tworzenia mocnych, wyrazistych kontrastów, podkreślając szczegóły takich jak zbroje Space Marines, Chaos Space Marines, Necrony czy wszelkie inne modele, które wymagają czarnych akcentów.</p><p>Abaddon Black doskonale nadaje się również do malowania podstaw, drobnych detali i broni, zapewniając trwały i intensywny czarny kolor, który dobrze łączy się z innymi farbami Citadel, szczególnie w połączeniu z washami lub metalami.</p><p>Dzięki tej farbie uzyskasz czysty, głęboki czarny efekt, który doskonale imituje prawdziwe czarne powierzchnie, od matowych pancerzy po detale w ciemnych kolorach.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
-    "manufacturer_img": "galerie/producenci/games-workshop.jpg",
-    "images": [
-        "galerie/f/farbka-citadel-abadoon-black_73409.webp",
-        "galerie/f/farbka-citadel-abadoon-black_73409.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Gry planszowe",
+    "Akcesoria"
+  ],
+  "id": "19794",
+  "code": "9918995023206",
+  "name": "Farbka Citadel Abaddon Black 12ml (air)",
+  "price": 24.99,
+  "description": "<h2>Abaddon Black – farba do malowania ciemnych detali i wykończeń</h2><p>Abaddon Black to farba Citadel, która oferuje głęboki, intensywny czarny odcień, idealny do malowania zarówno ciemnych baz, jak i szczegółów na modelach. Jest to wyjątkowo uniwersalna farba, która doskonale sprawdza się do malowania czarnych zbroi, broni, detali mechanicznych, jak również do podkładania powierzchni przed nałożeniem innych kolorów.</p><p>Farba Abaddon Black charakteryzuje się dobrym kryciem, co pozwala uzyskać gładką i równą powłokę już po jednej warstwie. Dzięki swojej głębokiej formule, jest idealna do tworzenia mocnych, wyrazistych kontrastów, podkreślając szczegóły takich jak zbroje Space Marines, Chaos Space Marines, Necrony czy wszelkie inne modele, które wymagają czarnych akcentów.</p><p>Abaddon Black doskonale nadaje się również do malowania podstaw, drobnych detali i broni, zapewniając trwały i intensywny czarny kolor, który dobrze łączy się z innymi farbami Citadel, szczególnie w połączeniu z washami lub metalami.</p><p>Dzięki tej farbie uzyskasz czysty, głęboki czarny efekt, który doskonale imituje prawdziwe czarne powierzchnie, od matowych pancerzy po detale w ciemnych kolorach.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
+  "manufacturer_img": "galerie/producenci/games-workshop.jpg",
+  "images": [
+    "galerie/f/farbka-citadel-abadoon-black_73409.webp",
+    "galerie/f/farbka-citadel-abadoon-black_73409.webp"
+  ],
+  "manufacturer": "Games Workshop"
 }

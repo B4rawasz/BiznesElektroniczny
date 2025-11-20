@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Podkładki",
-        "Podkładki Medium"
-    ],
-    "id": "9322",
-    "code": "DM-PAD-XXL",
-    "name": "Podkładka Dream Machines DM PAD XXL - 1200x600mm",
-    "price": 99.0,
-    "description": "<p>Podkładka gamingowa <strong>DM PAD XXL</strong> pozwoli Ci na pełne wykorzystanie powierzchni biurka. Jest to jedna z największych na rynku <a href=\"k348,strefa-gracza-podkladki.html\">podkładek gamingowych</a>. Ponad metr długości, pozwoli Tobie w pełni zagospodarować powierzchnię biurka. Koniec z gubieniem kursora nawet podczas najbardziej wymagających zmagań. DM PAD XXL to rozwiązanie ostateczne!</p><p>Niezależnie od preferowanego ustawienia laptopa do grania czy zakresu ruchu myszką gamingowa, z nasza podkładka DM PAD XXL nic Cię nie ogranicza! Jest to jedna z niewielu podkładek dla graczy o szerokości powyżej 1 m. Wymiary 1200x600 mm pozwolą Ci na pełną wolność w zagospodarowaniu przestrzeni. Nie musisz myśleć o tym gdzie kończy się Twoja podkładka gamingowa i możesz całkowicie skupić się na graniu.</p><p>Odpowiednio gładka powierzchnia zapewnia idealną kontrolę nad myszką gamingową - jest dostosowana do zmienności tempa ruchu jaki cechuje gry FPS. Zarówno do dynamicznych obrotow jak i precyzyjnego wymierzania, typowych dla gier takich jak CS:GO potrzebne jest idealne połączenie do gier i myszki gamingowej.</p><p>Dzięki jej prawdziwie monstrualnym rozmiarom możesz być pewny, że nie zabraknie Ci miejsca do grania! Jeżeli wolisz korzystać własnego sprzętu gamingowego, tak duża podkładka do gier świetnie sprawdzi się podczas pojedynków ze znajomymi.</p><p>Podkładka gamingowa DM PAD XXL jest wykonana z najwyższej jakości mikrofibry. Od spodu znajduje się cienka warstwa gumy, dzięki czemu podkladka nie poruszy się nawet o milimetr w trakcie grania. Podszycie brzegów stanowi eleganckie wykończenie podkładki gamingowej.</p><p>Powierzchnia jest wodoodporna, więc nawet jeżeli podczas najbardziej intensywnej rozgrywki coś wyleje się na podkładkę, nie musisz się obawiać, że została ona zniszczona. Specjalna impregnacja zapewnia, że woda nie zostanie momentalnie wchłonięta przez podkładkę, dzięki temu możesz bezproblemowo zetrzeć rozlany płyn z powierzchni DM PAD (mimo wszystko, nie polecamy).</p><p>Spytaliśmy graczy jaka grubość podkładki byłaby dla nich idealna. Na rynku możecie znaleźć całą gamę od 1mm po nawet 7 mm grubości. Większość graczy stwierdziła jednak, że prawda leży po środku. Dlatego tego zdecydowaliśmy się na grubość 3 mm, która zapewnia odpowiednią twardość i solidność, przy jednocześnie zachowanej elastyczności. Dzięki takiemu rozwiązaniu znaleźliśmy optymalną grubość dla graczy.</p><p><!--KONIEC OPISU--></p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Materiał: Mikrofibra</li><li>Wymiary: 1200x600x3</li><li>Spód Podkładki: Anty-Poślizgowy</li><li>Kolor: Czarny</li><li>Krawędzie: Szyte</li><li>Wodoodporność: Tak</li><li>Kompatybilność: Laserowy i optyczny sensor</li><li>Typ powierzchni: Speed&amp;control</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Dream Machines</p></li><li><p>Dane producenta</p><p>Dream Machines sp. z o.o., ul. Wołoska 16, 02-675 Warszawa, Polska support@dreammachines.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/dream-machines.jpg",
-    "images": [
-        "galerie/p/podkladka-dream-machines-dm-p_27758.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27759.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27760.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27761.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27762.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27763.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27764.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27765.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27758.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27759.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27760.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27761.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27762.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27763.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27764.webp",
-        "galerie/p/podkladka-dream-machines-dm-p_27765.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Podkładki",
+    "Podkładki Medium"
+  ],
+  "id": "9322",
+  "code": "DM-PAD-XXL",
+  "name": "Podkładka Dream Machines DM PAD XXL - 1200x600mm",
+  "price": 99.0,
+  "description": "<p>Podkładka gamingowa <strong>DM PAD XXL</strong> pozwoli Ci na pełne wykorzystanie powierzchni biurka. Jest to jedna z największych na rynku <a href=\"k348,strefa-gracza-podkladki.html\">podkładek gamingowych</a>. Ponad metr długości, pozwoli Tobie w pełni zagospodarować powierzchnię biurka. Koniec z gubieniem kursora nawet podczas najbardziej wymagających zmagań. DM PAD XXL to rozwiązanie ostateczne!</p><p>Niezależnie od preferowanego ustawienia laptopa do grania czy zakresu ruchu myszką gamingowa, z nasza podkładka DM PAD XXL nic Cię nie ogranicza! Jest to jedna z niewielu podkładek dla graczy o szerokości powyżej 1 m. Wymiary 1200x600 mm pozwolą Ci na pełną wolność w zagospodarowaniu przestrzeni. Nie musisz myśleć o tym gdzie kończy się Twoja podkładka gamingowa i możesz całkowicie skupić się na graniu.</p><p>Odpowiednio gładka powierzchnia zapewnia idealną kontrolę nad myszką gamingową - jest dostosowana do zmienności tempa ruchu jaki cechuje gry FPS. Zarówno do dynamicznych obrotow jak i precyzyjnego wymierzania, typowych dla gier takich jak CS:GO potrzebne jest idealne połączenie do gier i myszki gamingowej.</p><p>Dzięki jej prawdziwie monstrualnym rozmiarom możesz być pewny, że nie zabraknie Ci miejsca do grania! Jeżeli wolisz korzystać własnego sprzętu gamingowego, tak duża podkładka do gier świetnie sprawdzi się podczas pojedynków ze znajomymi.</p><p>Podkładka gamingowa DM PAD XXL jest wykonana z najwyższej jakości mikrofibry. Od spodu znajduje się cienka warstwa gumy, dzięki czemu podkladka nie poruszy się nawet o milimetr w trakcie grania. Podszycie brzegów stanowi eleganckie wykończenie podkładki gamingowej.</p><p>Powierzchnia jest wodoodporna, więc nawet jeżeli podczas najbardziej intensywnej rozgrywki coś wyleje się na podkładkę, nie musisz się obawiać, że została ona zniszczona. Specjalna impregnacja zapewnia, że woda nie zostanie momentalnie wchłonięta przez podkładkę, dzięki temu możesz bezproblemowo zetrzeć rozlany płyn z powierzchni DM PAD (mimo wszystko, nie polecamy).</p><p>Spytaliśmy graczy jaka grubość podkładki byłaby dla nich idealna. Na rynku możecie znaleźć całą gamę od 1mm po nawet 7 mm grubości. Większość graczy stwierdziła jednak, że prawda leży po środku. Dlatego tego zdecydowaliśmy się na grubość 3 mm, która zapewnia odpowiednią twardość i solidność, przy jednocześnie zachowanej elastyczności. Dzięki takiemu rozwiązaniu znaleźliśmy optymalną grubość dla graczy.</p><p><!--KONIEC OPISU--></p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Materiał: Mikrofibra</li><li>Wymiary: 1200x600x3</li><li>Spód Podkładki: Anty-Poślizgowy</li><li>Kolor: Czarny</li><li>Krawędzie: Szyte</li><li>Wodoodporność: Tak</li><li>Kompatybilność: Laserowy i optyczny sensor</li><li>Typ powierzchni: Speed&amp;control</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Dream Machines</p></li><li><p>Dane producenta</p><p>Dream Machines sp. z o.o., ul. Wołoska 16, 02-675 Warszawa, Polska support@dreammachines.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/dream-machines.jpg",
+  "images": [
+    "galerie/p/podkladka-dream-machines-dm-p_27758.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27759.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27760.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27761.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27762.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27763.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27764.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27765.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27758.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27759.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27760.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27761.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27762.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27763.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27764.webp",
+    "galerie/p/podkladka-dream-machines-dm-p_27765.webp"
+  ],
+  "manufacturer": "Dream Machines"
 }

@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 120mm"
-    ],
-    "id": "20037",
-    "code": "0000009407",
-    "name": "Wentylator Montech AX120 PWM Black 120mm",
-    "price": 34.9,
-    "description": "<h2>Nowoczesny styl i personalizacja RGB</h2><p>Zaprezentowany w nowoczesnym stylu AX120 PWM to wentylator, który łączy 20 diod LED z sześciokątnym pierścieniem RGB na ramce, podnoszącym walory estetyczne na wyższy poziom. Dzięki obsłudze trybów oświetlenia oraz złączom 5V 3PIN na płycie głównej, urządzenie umożliwia pełną personalizację za pomocą oprogramowania, pozwalając na dostosowanie wyglądu Twojego zestawu komputerowego.</p><h2>Efektywne chłodzenie</h2><p>Niezależnie od tego, czy AX120 PWM jest używany jako wentylator obudowy, radiatora czy chłodzenia, zapewnia pełną kompatybilność i wysoką wydajność. Dzięki precyzyjnie zaprojektowanemu kątowi zgięcia dziewięciu łopat, wentylator stabilizuje przepływ powietrza, co skutkuje lepszym odprowadzaniem ciepła i redukcją hałasu podczas pracy. AX120 PWM gwarantuje stabilne działanie, skutecznie chłodząc najwyższej klasy zestawy komputerowe.</p><h2>Technologia PWM</h2><p>Dzięki technologii PWM, prędkość wentylatora dostosowuje się automatycznie do temperatury systemu monitorowanej przez płytę główną. Użytkownik ma możliwość regulacji prędkości wentylatora w zakresie od 600 RPM do 1600 RPM, co zapewnia skuteczne chłodzenie i optymalną wydajność systemu.</p><h2>Cicha praca</h2><p>AX120 PWM został zaprojektowany z uwzględnieniem minimalizacji hałasu. Dzięki specjalnie dobranej ramie i łopatkom, wentylator pracuje z poziomem hałasu nieprzekraczającym 27 dB(A) nawet przy maksymalnych obrotach. Cicha praca i wysoka wydajność stanowią idealne połączenie w zestawie gamingowym.</p><h2>Łożysko Rifle</h2><p>W odróżnieniu od wentylatorów z łożyskiem hydraulicznym, łożysko Rifle zapewnia wyjątkową trwałość, oferując 80 000 godzin pracy. To rozwiązanie cechuje się długowiecznością, mniejszym hałasem oraz wyższą niezawodnością w porównaniu do innych technologii łożyskowych.</p><h2>Redukcja wibracji</h2><p>Wbudowane 8 zaokrąglonych podkładek antywibracyjnych skutecznie redukuje wibracje i hałas, minimalizując efekt rezonansu, co przekłada się na cichszą i bardziej stabilną pracę wentylatora.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Imponujące oświetlenie ARGB</li><li>Doskonale zaprojektowany wentylator obudowy/chłodnicy CPU</li><li>4PIN PWM Smart Control</li><li>Dziewięć specjalistycznych skrzydlatych łopat dla lepszej wydajności</li><li>Prawie bezgłośna praca</li><li>Ultra trwałe łożysko typu Rifle</li><li>Kolor: Czarny</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość wentylatorów</p><p>1 szt</p></li><li><p>Wymiary wentylatora</p><p>120 mm</p></li><li><p>Maksymalny poziom hałasu</p><p>27 dB</p></li><li><p>Obroty minimalne</p><p>800 obr/min</p></li><li><p>Obroty maksymalne</p><p>1600 obr/min</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Ciśnienie statyczne</p><p>1.8 mmH<sub>2</sub>O</p></li><li><p>Przepływ</p><p>59 CFM</p></li><li><p>Łożysko</p><p>Rifle Bearing</p></li><li><p>Złącze zasilania</p><p>Fan PWM 4 pin</p></li><li><p>Złącze podświetlenia</p><p>ARGB 5V 3-pin</p></li><li><p>Wbudowana regulacja obrotów</p><p>PWM</p></li><li><p>Kolor wirnika</p><p>Czarny</p></li><li><p>Kolor ramki</p><p>Czarny</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/montech.jpg",
-    "images": [
-        "galerie/w/wentylator-montech-ax120-pwm_74860.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74861.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74862.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74863.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74864.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74865.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74860.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74861.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74862.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74863.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74864.webp",
-        "galerie/w/wentylator-montech-ax120-pwm_74865.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "20037",
+  "code": "0000009407",
+  "name": "Wentylator Montech AX120 PWM Black 120mm",
+  "price": 34.9,
+  "description": "<h2>Nowoczesny styl i personalizacja RGB</h2><p>Zaprezentowany w nowoczesnym stylu AX120 PWM to wentylator, który łączy 20 diod LED z sześciokątnym pierścieniem RGB na ramce, podnoszącym walory estetyczne na wyższy poziom. Dzięki obsłudze trybów oświetlenia oraz złączom 5V 3PIN na płycie głównej, urządzenie umożliwia pełną personalizację za pomocą oprogramowania, pozwalając na dostosowanie wyglądu Twojego zestawu komputerowego.</p><h2>Efektywne chłodzenie</h2><p>Niezależnie od tego, czy AX120 PWM jest używany jako wentylator obudowy, radiatora czy chłodzenia, zapewnia pełną kompatybilność i wysoką wydajność. Dzięki precyzyjnie zaprojektowanemu kątowi zgięcia dziewięciu łopat, wentylator stabilizuje przepływ powietrza, co skutkuje lepszym odprowadzaniem ciepła i redukcją hałasu podczas pracy. AX120 PWM gwarantuje stabilne działanie, skutecznie chłodząc najwyższej klasy zestawy komputerowe.</p><h2>Technologia PWM</h2><p>Dzięki technologii PWM, prędkość wentylatora dostosowuje się automatycznie do temperatury systemu monitorowanej przez płytę główną. Użytkownik ma możliwość regulacji prędkości wentylatora w zakresie od 600 RPM do 1600 RPM, co zapewnia skuteczne chłodzenie i optymalną wydajność systemu.</p><h2>Cicha praca</h2><p>AX120 PWM został zaprojektowany z uwzględnieniem minimalizacji hałasu. Dzięki specjalnie dobranej ramie i łopatkom, wentylator pracuje z poziomem hałasu nieprzekraczającym 27 dB(A) nawet przy maksymalnych obrotach. Cicha praca i wysoka wydajność stanowią idealne połączenie w zestawie gamingowym.</p><h2>Łożysko Rifle</h2><p>W odróżnieniu od wentylatorów z łożyskiem hydraulicznym, łożysko Rifle zapewnia wyjątkową trwałość, oferując 80 000 godzin pracy. To rozwiązanie cechuje się długowiecznością, mniejszym hałasem oraz wyższą niezawodnością w porównaniu do innych technologii łożyskowych.</p><h2>Redukcja wibracji</h2><p>Wbudowane 8 zaokrąglonych podkładek antywibracyjnych skutecznie redukuje wibracje i hałas, minimalizując efekt rezonansu, co przekłada się na cichszą i bardziej stabilną pracę wentylatora.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Imponujące oświetlenie ARGB</li><li>Doskonale zaprojektowany wentylator obudowy/chłodnicy CPU</li><li>4PIN PWM Smart Control</li><li>Dziewięć specjalistycznych skrzydlatych łopat dla lepszej wydajności</li><li>Prawie bezgłośna praca</li><li>Ultra trwałe łożysko typu Rifle</li><li>Kolor: Czarny</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość wentylatorów</p><p>1 szt</p></li><li><p>Wymiary wentylatora</p><p>120 mm</p></li><li><p>Maksymalny poziom hałasu</p><p>27 dB</p></li><li><p>Obroty minimalne</p><p>800 obr/min</p></li><li><p>Obroty maksymalne</p><p>1600 obr/min</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Ciśnienie statyczne</p><p>1.8 mmH<sub>2</sub>O</p></li><li><p>Przepływ</p><p>59 CFM</p></li><li><p>Łożysko</p><p>Rifle Bearing</p></li><li><p>Złącze zasilania</p><p>Fan PWM 4 pin</p></li><li><p>Złącze podświetlenia</p><p>ARGB 5V 3-pin</p></li><li><p>Wbudowana regulacja obrotów</p><p>PWM</p></li><li><p>Kolor wirnika</p><p>Czarny</p></li><li><p>Kolor ramki</p><p>Czarny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/montech.jpg",
+  "images": [
+    "galerie/w/wentylator-montech-ax120-pwm_74860.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74861.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74862.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74863.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74864.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74865.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74860.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74861.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74862.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74863.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74864.webp",
+    "galerie/w/wentylator-montech-ax120-pwm_74865.webp"
+  ],
+  "manufacturer": "Montech"
 }

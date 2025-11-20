@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Myszki bezprzewodowe"
-    ],
-    "id": "17843",
-    "code": "M910-KS",
-    "name": "Mysz Redragon M910-KS Ranger Lite RGB Wireless",
-    "price": 139.0,
-    "description": "<h2>Mysz Redragon M910-KS Ranger – dołącz do walki bez kabli</h2><p>Stylowy wygląd myszy Redragon Ranger współgra z trwałością i wykonaniem. Wysokiej klasy sensor i aż 9 przycisków to uniwersalna konfiguracja, która pozwoli cieszyć się komfortową grą. Z kolei tryb bezprzewodowy pozwoli Ci uwolnić się od kabli i zwiększyć wygodę.</p><h2>Wysokiej klasy sensor optyczny</h2><p>Zdecydowanym atutem myszki gamingowej M910-KS Ranger jest precyzjny sensor optyczny PixArt PMW3104. Zapewnia on dokładne i niezawodne odwzorowanie wszelkich ruchów, a wysoka częstotliwość odświeżania wynosząca 1000 Hz sprawi, że efekty Twoich akcji będą widoczne na ekranie bez żadnego opóźnienia.</p><h2>Zjawiskowe podświetlenie</h2><p>Model M910-K Ranger zjawiskowo upiększy Twój pokój jasnym podświetleniem RGB. Myszka ta wspiera aż dziewięć różnych trybów, którymi zarządzać można za pomocą dedykowanej aplikacji. Ich dynamika przekona do siebie nawet najbardziej niezdecydowanych.</p><h2>8 programowalnych przycisków</h2><p>Myszka M910-K Ranger zawiera dziwięć przycisków, z których osiem możesz skonfigurować według własnych preferencji. Rozmaite makra, funkcje multimedialne, skróty – to wszystko jest do Twojej dyspozycji. Mikroprzełączniki mają deklarowaną żywotność wynoszącą minimum 10 milionów kliknięć, co daje pewność, że myszka sprosta najbardziej intensywnym rozgrywkom.</p><h2>Bezprzewodowa łączność dla weteranów</h2><p>Myszka dla graczy M910-KS Ranger posiada w zestawie adapter 2,4 GHz, który zapewnia stabilną łączność i brak opóźnień.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"list-specification\"><li>Bezprzewodowe połączenie 2.4GHz</li><li>Podświetlenie RGB</li><li>8 programowalnych przycisków</li><li>Sensor PixArt PMW3104</li><li>Dodatkowe oprogramowanie</li><li>Mikroprzełączniki z żywotnością 10 mln kliknięć</li><li>wbudowana bateria 700mAh</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Żywotność przycisków</p><p>10 milionów kliknięć</p></li><li><p>Typ przycisku</p><p>Huano</p></li><li><p>Długość kabla</p><p>180cm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Waga produktu</p><p>139g</p></li><li><p>Regulacja wagi</p><p>Nie</p></li><li><p>Waga z opakowaniem</p><p>250g</p></li><li><p>Oprogramowanie</p><p>dostępne na stronie producenta</p></li><li><p>Wymiary</p><p>124.5 × 72.4 × 39.8 mm</p></li><li><p>Bateria</p><p>Tak</p></li><li><p>Komunikacja z komputerem</p><p>Przewodowa / bezprzewodowa</p></li><li><p>Rozdzielczość</p><p>500/1000/2000/3000/4000 DPI</p></li><li><p>Podświetlenie RGB</p><p>Tak</p></li><li><p>Interfejs łączności</p><p>USB / 2,4 GHz</p></li><li><p>Prędkość odświeżania</p><p>1000 Hz</p></li><li><p>Liczba przycisków</p><p>9</p></li><li><p>Programowalne przyciski</p><p>Tak</p></li><li><p>Profil myszy</p><p>Praworęczny</p></li><li><p>Rodzaj zasilania Wbudowana bateria</p><p>700mAh</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Redragon Co.Ltd</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>ITRG-Zięba-Magiera-Stylińsk Spółka Jawna, ul. Christo Botrwa 6B/B4, 30-798 Kraków, handel@itrg.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/redragon.jpg",
-    "images": [
-        "galerie/m/mysz-redragon-m910-ks-ranger_65963.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65964.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65965.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65966.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65967.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65968.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65963.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65964.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65965.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65966.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65967.webp",
-        "galerie/m/mysz-redragon-m910-ks-ranger_65968.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "17843",
+  "code": "M910-KS",
+  "name": "Mysz Redragon M910-KS Ranger Lite RGB Wireless",
+  "price": 139.0,
+  "description": "<h2>Mysz Redragon M910-KS Ranger – dołącz do walki bez kabli</h2><p>Stylowy wygląd myszy Redragon Ranger współgra z trwałością i wykonaniem. Wysokiej klasy sensor i aż 9 przycisków to uniwersalna konfiguracja, która pozwoli cieszyć się komfortową grą. Z kolei tryb bezprzewodowy pozwoli Ci uwolnić się od kabli i zwiększyć wygodę.</p><h2>Wysokiej klasy sensor optyczny</h2><p>Zdecydowanym atutem myszki gamingowej M910-KS Ranger jest precyzjny sensor optyczny PixArt PMW3104. Zapewnia on dokładne i niezawodne odwzorowanie wszelkich ruchów, a wysoka częstotliwość odświeżania wynosząca 1000 Hz sprawi, że efekty Twoich akcji będą widoczne na ekranie bez żadnego opóźnienia.</p><h2>Zjawiskowe podświetlenie</h2><p>Model M910-K Ranger zjawiskowo upiększy Twój pokój jasnym podświetleniem RGB. Myszka ta wspiera aż dziewięć różnych trybów, którymi zarządzać można za pomocą dedykowanej aplikacji. Ich dynamika przekona do siebie nawet najbardziej niezdecydowanych.</p><h2>8 programowalnych przycisków</h2><p>Myszka M910-K Ranger zawiera dziwięć przycisków, z których osiem możesz skonfigurować według własnych preferencji. Rozmaite makra, funkcje multimedialne, skróty – to wszystko jest do Twojej dyspozycji. Mikroprzełączniki mają deklarowaną żywotność wynoszącą minimum 10 milionów kliknięć, co daje pewność, że myszka sprosta najbardziej intensywnym rozgrywkom.</p><h2>Bezprzewodowa łączność dla weteranów</h2><p>Myszka dla graczy M910-KS Ranger posiada w zestawie adapter 2,4 GHz, który zapewnia stabilną łączność i brak opóźnień.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"list-specification\"><li>Bezprzewodowe połączenie 2.4GHz</li><li>Podświetlenie RGB</li><li>8 programowalnych przycisków</li><li>Sensor PixArt PMW3104</li><li>Dodatkowe oprogramowanie</li><li>Mikroprzełączniki z żywotnością 10 mln kliknięć</li><li>wbudowana bateria 700mAh</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Żywotność przycisków</p><p>10 milionów kliknięć</p></li><li><p>Typ przycisku</p><p>Huano</p></li><li><p>Długość kabla</p><p>180cm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Waga produktu</p><p>139g</p></li><li><p>Regulacja wagi</p><p>Nie</p></li><li><p>Waga z opakowaniem</p><p>250g</p></li><li><p>Oprogramowanie</p><p>dostępne na stronie producenta</p></li><li><p>Wymiary</p><p>124.5 × 72.4 × 39.8 mm</p></li><li><p>Bateria</p><p>Tak</p></li><li><p>Komunikacja z komputerem</p><p>Przewodowa / bezprzewodowa</p></li><li><p>Rozdzielczość</p><p>500/1000/2000/3000/4000 DPI</p></li><li><p>Podświetlenie RGB</p><p>Tak</p></li><li><p>Interfejs łączności</p><p>USB / 2,4 GHz</p></li><li><p>Prędkość odświeżania</p><p>1000 Hz</p></li><li><p>Liczba przycisków</p><p>9</p></li><li><p>Programowalne przyciski</p><p>Tak</p></li><li><p>Profil myszy</p><p>Praworęczny</p></li><li><p>Rodzaj zasilania Wbudowana bateria</p><p>700mAh</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Redragon Co.Ltd</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>ITRG-Zięba-Magiera-Stylińsk Spółka Jawna, ul. Christo Botrwa 6B/B4, 30-798 Kraków, handel@itrg.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/redragon.jpg",
+  "images": [
+    "galerie/m/mysz-redragon-m910-ks-ranger_65963.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65964.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65965.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65966.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65967.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65968.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65963.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65964.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65965.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65966.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65967.webp",
+    "galerie/m/mysz-redragon-m910-ks-ranger_65968.webp"
+  ],
+  "manufacturer": "Redragon Co.Ltd"
 }

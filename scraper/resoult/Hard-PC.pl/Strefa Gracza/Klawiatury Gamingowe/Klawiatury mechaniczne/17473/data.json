@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Klawiatury mechaniczne"
-    ],
-    "id": "17473",
-    "code": "GATA-1951",
-    "name": "Klawiatura Fnatic miniSTREAK TKL RGB Kailh Speed Silver",
-    "price": 389.9,
-    "description": "<p>FNATIC miniSTREAK to klawiatura w formacie TKL, która pomimo swoich niewielkich wymiarów jest w pełni funkcjonalnym urządzeniem do gier. Model ten cechuje wysoka jakość wykonania, zaimplementowane podświetlanie RGB oraz odpinany kabel. miniStreak TKL RGB wyposażono w przełączniki Kailh Speed, które ułatwiają osiągnięcie zwycięstwa w szybkich, dynamicznych grach</p><p>Oświetlenie w modelu miniStreak posiada szerokie możliwości konfiguracji zarówno w kwestii efektów jak i natężenia. Do wyboru użytkownika jest np. efekt fali, tęczy, przejścia, gradientu, jak i podświetlanie jednokolorowe. Całość można kontrolować bezpośrednio z poziomu klawiatury, bądź skorzystać z rozbudowanego oprogramowania. Ogranicza Cię jedynie wyobraźnia.</p><p>Punkt aktywacji znajduje się na głębokości zaledwie 1,1 mm co czyni te przełączniki o 81% szybszymi niż tradycyjne przełączniki mechaniczne. Nasze srebrne przełączniki to najlepsze przełączniki mechaniczne na rynku od firmy Kailh, gwarantujące niezawodność nawet po ponad 70 milionach naciśnięć klawiszy.</p><p>Mierząc zaledwie 28 mm w najcieńszym miejscu i ważąc zaledwie 704 g, miniSTREAK to jedna z najcieńszych klawiatur mechanicznych do gier na świecie. Ale nie daj się zwieść wyglądem, dzięki gumowym stopkom ustawionym pod kątem dla maksymalnego komfortu oraz wykonanej z pięknie anodowanej metalowej płyty górnej, jest silna jak wół i nie podda się nawet w najbardziej intensywnej rozgrywce.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>360 x 36 x 195 mm (W x H x D)</p></li><li><p>Waga</p><p>approx. 704 g</p></li><li><p>Przełączniki</p><p>Kailh Speed Silver (mechanical)</p></li><li><p>Sila nacisku</p><p>approx. 50 g</p></li><li><p>Punkt aktywacji</p><p>1.1 mm (3.5 mm całkowity skok)</p></li><li><p>Format</p><p>TKL (80%)</p></li><li><p>Podświetlenie</p><p>RGB</p></li><li><p>Częstotliwość próbkowania</p><p>up to 1,000 Hz</p></li><li><p>Kabel</p><p>1x USB-C to USB Type A (1.8 m)</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fnatic</p></li><li><p>Dane producenta</p><p>Fnatic Gear Ltd, 1 Kingsland Passage, E8 2BB London, UK, shop@fnatic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fnatic.jpg",
-    "images": [
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63821.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63822.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63823.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63824.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63825.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63826.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63821.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63822.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63823.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63824.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63825.webp",
-        "galerie/k/klawiatura-ministreak-tkl-rgb_63826.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "17473",
+  "code": "GATA-1951",
+  "name": "Klawiatura Fnatic miniSTREAK TKL RGB Kailh Speed Silver",
+  "price": 389.9,
+  "description": "<p>FNATIC miniSTREAK to klawiatura w formacie TKL, która pomimo swoich niewielkich wymiarów jest w pełni funkcjonalnym urządzeniem do gier. Model ten cechuje wysoka jakość wykonania, zaimplementowane podświetlanie RGB oraz odpinany kabel. miniStreak TKL RGB wyposażono w przełączniki Kailh Speed, które ułatwiają osiągnięcie zwycięstwa w szybkich, dynamicznych grach</p><p>Oświetlenie w modelu miniStreak posiada szerokie możliwości konfiguracji zarówno w kwestii efektów jak i natężenia. Do wyboru użytkownika jest np. efekt fali, tęczy, przejścia, gradientu, jak i podświetlanie jednokolorowe. Całość można kontrolować bezpośrednio z poziomu klawiatury, bądź skorzystać z rozbudowanego oprogramowania. Ogranicza Cię jedynie wyobraźnia.</p><p>Punkt aktywacji znajduje się na głębokości zaledwie 1,1 mm co czyni te przełączniki o 81% szybszymi niż tradycyjne przełączniki mechaniczne. Nasze srebrne przełączniki to najlepsze przełączniki mechaniczne na rynku od firmy Kailh, gwarantujące niezawodność nawet po ponad 70 milionach naciśnięć klawiszy.</p><p>Mierząc zaledwie 28 mm w najcieńszym miejscu i ważąc zaledwie 704 g, miniSTREAK to jedna z najcieńszych klawiatur mechanicznych do gier na świecie. Ale nie daj się zwieść wyglądem, dzięki gumowym stopkom ustawionym pod kątem dla maksymalnego komfortu oraz wykonanej z pięknie anodowanej metalowej płyty górnej, jest silna jak wół i nie podda się nawet w najbardziej intensywnej rozgrywce.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>360 x 36 x 195 mm (W x H x D)</p></li><li><p>Waga</p><p>approx. 704 g</p></li><li><p>Przełączniki</p><p>Kailh Speed Silver (mechanical)</p></li><li><p>Sila nacisku</p><p>approx. 50 g</p></li><li><p>Punkt aktywacji</p><p>1.1 mm (3.5 mm całkowity skok)</p></li><li><p>Format</p><p>TKL (80%)</p></li><li><p>Podświetlenie</p><p>RGB</p></li><li><p>Częstotliwość próbkowania</p><p>up to 1,000 Hz</p></li><li><p>Kabel</p><p>1x USB-C to USB Type A (1.8 m)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fnatic</p></li><li><p>Dane producenta</p><p>Fnatic Gear Ltd, 1 Kingsland Passage, E8 2BB London, UK, shop@fnatic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fnatic.jpg",
+  "images": [
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63821.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63822.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63823.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63824.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63825.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63826.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63821.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63822.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63823.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63824.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63825.webp",
+    "galerie/k/klawiatura-ministreak-tkl-rgb_63826.webp"
+  ],
+  "manufacturer": "Fnatic"
 }

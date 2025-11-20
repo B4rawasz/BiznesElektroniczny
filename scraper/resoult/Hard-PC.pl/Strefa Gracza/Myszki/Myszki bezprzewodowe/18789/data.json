@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Myszki bezprzewodowe"
-    ],
-    "id": "18789",
-    "code": "PX203",
-    "name": "Mysz Pulsar X2 Wireless Red",
-    "price": 299.0,
-    "description": "<p>Pulsar X2 to lekka mysz komputerowa stworzona z myślą o graczach, którzy cenią sobie precyzję, wysoką jakość wykonania, ergonomię i nieograniczoną swobodę wynikającą z bezprzewodowej komunikacji z komputerem. Model ten występuje w wariancie Midi oraz Mini, w którym za sprawą mniejszych rozmiarów osiągnięto jeszcze niższą wagę.</p><h2>Waga piórkowa</h2><p>Producent projektując X2 kierował się hasłem „Simple but not simpler”. Efektem jego działań jest prosty i elegancki design pozbawiony dziur w górnej obudowie myszy a także super niska waga wynosząca mniej niż 60g, co jak na mysz bezprzewodową jest świetnym wynikiem. Warto tutaj dodać, że pomimo wagi piórkowej, X2 jest solidny i w żaden sposób nie ugina się pod naciskiem</p><h2>Najlepsze komponenty</h2><p>X2 wykorzystuje jeden z najlepszych czujników optycznych na rynku w postaci PixArt PAW3395. Sensor ten oferuje ogromną precyzję ruchu nawet przy wysokiej rozdzielczości (do 26000DPI) oraz prędkość śledzenia wynoszącą 650 IPS. Niezależnie od tego z jakiego DPI korzystasz oraz jak szybki ruch planujesz wykonać możesz mieć pewność, że Pulsar X2 Cię nie zawiedzie!</p><p>W celu zapewnienia jak najwyższej trwałości i możliwie najlepszych odczuć z korzystania z X2, mysz posiada zaimplementowane przełączniki Kailh GM 8.0 o żywotności do 80mln kliknięć. Na wysokim poziomie stoi również rolka, enkoder TTC Gold dba o dokładność i bezawaryjną pracę.</p><p>Dopełnieniem jest bezprzewodowa łączność 2.4GHz z technologią Lag-Free (bez opóźnień). Wbudowany akumulator pozwala na aż 70h gry (w zależności od ustawień). X2 posiada złącze USB-C oraz lekki kabel w oplocie Paracord, dzięki czemu nawet podczas ładowania można w nieskrępowany sposób dalej grać. Do dyspozycji jest łącznie 5 przycisków, które mogą być dowolnie zaprogramowane z poziomu aplikacji.</p><h2>Symetryczna konstrukcja</h2><p>Pulsar podbił już serca graczy swoim pierwszym modelem – Xlite. To lekka konstrukcja profilowana pod prawą rękę, która nieustannie znajduje się w czołówce i zestawieniach najlepszych ergonomicznych myszek. Naturalnym dopełnieniem oferty była więc mysz o symetrycznym kształcie, z której będą mogli korzystać zarówno lewo jak i praworęczni użytkownicy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>38 x 63 x 120mm (wys x szer x dł)</p></li><li><p>Waga</p><p>56g</p></li><li><p>Połączenie</p><p>bezprzewodowe</p></li><li><p>Przełączniki</p><p>Główne Kailh GM 8.0<br/>Boczne Huano White<br/>Rolka TTC Gold</p></li><li><p>Sensor</p><p>PMW3395</p></li><li><p>Rozdzielczość</p><p>26000DPI</p></li><li><p>Przyspieszenie</p><p>50g</p></li><li><p>Częstotliwość śledzenia</p><p>650IPS</p></li><li><p>Częstotliwość próbkowania</p><p>1000Hz/1ms</p></li><li><p>W zestawie</p><p>Mysz X2<br/>Nadajnik bezprzewodowy<br/>Adapter bezprzewodowy<br/>Przewód USB-C - USB-A</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Pulsar</p></li><li><p>Dane producenta</p><p>AplusX Inc, 17, world cup buk-ro 60-gil, mapo-gu Seoul, South Korea, sales@pulsar.gg</p></li><li><p>Podmiot odpowiedzialny</p><p>SUCCESS COURIER SL, CALLE RIO TORMES NUM. 1, PLANTA 1, DERECHA, OFICINA 3, Fuenlabrada, Madrid 28947, Spain, successservice2@hotmail.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/pulsar.jpg",
-    "images": [
-        "galerie/m/mysz-pulsar-x2-wireless-red_69260.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69261.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69262.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69263.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69264.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69260.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69261.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69262.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69263.webp",
-        "galerie/m/mysz-pulsar-x2-wireless-red_69264.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "18789",
+  "code": "PX203",
+  "name": "Mysz Pulsar X2 Wireless Red",
+  "price": 299.0,
+  "description": "<p>Pulsar X2 to lekka mysz komputerowa stworzona z myślą o graczach, którzy cenią sobie precyzję, wysoką jakość wykonania, ergonomię i nieograniczoną swobodę wynikającą z bezprzewodowej komunikacji z komputerem. Model ten występuje w wariancie Midi oraz Mini, w którym za sprawą mniejszych rozmiarów osiągnięto jeszcze niższą wagę.</p><h2>Waga piórkowa</h2><p>Producent projektując X2 kierował się hasłem „Simple but not simpler”. Efektem jego działań jest prosty i elegancki design pozbawiony dziur w górnej obudowie myszy a także super niska waga wynosząca mniej niż 60g, co jak na mysz bezprzewodową jest świetnym wynikiem. Warto tutaj dodać, że pomimo wagi piórkowej, X2 jest solidny i w żaden sposób nie ugina się pod naciskiem</p><h2>Najlepsze komponenty</h2><p>X2 wykorzystuje jeden z najlepszych czujników optycznych na rynku w postaci PixArt PAW3395. Sensor ten oferuje ogromną precyzję ruchu nawet przy wysokiej rozdzielczości (do 26000DPI) oraz prędkość śledzenia wynoszącą 650 IPS. Niezależnie od tego z jakiego DPI korzystasz oraz jak szybki ruch planujesz wykonać możesz mieć pewność, że Pulsar X2 Cię nie zawiedzie!</p><p>W celu zapewnienia jak najwyższej trwałości i możliwie najlepszych odczuć z korzystania z X2, mysz posiada zaimplementowane przełączniki Kailh GM 8.0 o żywotności do 80mln kliknięć. Na wysokim poziomie stoi również rolka, enkoder TTC Gold dba o dokładność i bezawaryjną pracę.</p><p>Dopełnieniem jest bezprzewodowa łączność 2.4GHz z technologią Lag-Free (bez opóźnień). Wbudowany akumulator pozwala na aż 70h gry (w zależności od ustawień). X2 posiada złącze USB-C oraz lekki kabel w oplocie Paracord, dzięki czemu nawet podczas ładowania można w nieskrępowany sposób dalej grać. Do dyspozycji jest łącznie 5 przycisków, które mogą być dowolnie zaprogramowane z poziomu aplikacji.</p><h2>Symetryczna konstrukcja</h2><p>Pulsar podbił już serca graczy swoim pierwszym modelem – Xlite. To lekka konstrukcja profilowana pod prawą rękę, która nieustannie znajduje się w czołówce i zestawieniach najlepszych ergonomicznych myszek. Naturalnym dopełnieniem oferty była więc mysz o symetrycznym kształcie, z której będą mogli korzystać zarówno lewo jak i praworęczni użytkownicy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>38 x 63 x 120mm (wys x szer x dł)</p></li><li><p>Waga</p><p>56g</p></li><li><p>Połączenie</p><p>bezprzewodowe</p></li><li><p>Przełączniki</p><p>Główne Kailh GM 8.0<br/>Boczne Huano White<br/>Rolka TTC Gold</p></li><li><p>Sensor</p><p>PMW3395</p></li><li><p>Rozdzielczość</p><p>26000DPI</p></li><li><p>Przyspieszenie</p><p>50g</p></li><li><p>Częstotliwość śledzenia</p><p>650IPS</p></li><li><p>Częstotliwość próbkowania</p><p>1000Hz/1ms</p></li><li><p>W zestawie</p><p>Mysz X2<br/>Nadajnik bezprzewodowy<br/>Adapter bezprzewodowy<br/>Przewód USB-C - USB-A</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Pulsar</p></li><li><p>Dane producenta</p><p>AplusX Inc, 17, world cup buk-ro 60-gil, mapo-gu Seoul, South Korea, sales@pulsar.gg</p></li><li><p>Podmiot odpowiedzialny</p><p>SUCCESS COURIER SL, CALLE RIO TORMES NUM. 1, PLANTA 1, DERECHA, OFICINA 3, Fuenlabrada, Madrid 28947, Spain, successservice2@hotmail.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/pulsar.jpg",
+  "images": [
+    "galerie/m/mysz-pulsar-x2-wireless-red_69260.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69261.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69262.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69263.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69264.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69260.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69261.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69262.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69263.webp",
+    "galerie/m/mysz-pulsar-x2-wireless-red_69264.webp"
+  ],
+  "manufacturer": "Pulsar"
 }

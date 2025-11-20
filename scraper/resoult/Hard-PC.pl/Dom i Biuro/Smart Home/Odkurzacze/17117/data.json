@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Odkurzacze"
-    ],
-    "id": "17117",
-    "code": "TSL-PC-WF-2FIL-ACC",
-    "name": "Tesla Filtr do poidła dla zwierząt Smart UV",
-    "price": 54.9,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>180 szt</p></li><li><p>Waga:</p><p>0.068 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-filtr-do-poidla-dla-zwi_63902.webp",
-        "galerie/t/tesla-filtr-do-poidla-dla-zwi_63903.webp",
-        "galerie/t/tesla-filtr-do-poidla-dla-zwi_63902.webp",
-        "galerie/t/tesla-filtr-do-poidla-dla-zwi_63903.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Odkurzacze"
+  ],
+  "id": "17117",
+  "code": "TSL-PC-WF-2FIL-ACC",
+  "name": "Tesla Filtr do poidła dla zwierząt Smart UV",
+  "price": 54.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>180 szt</p></li><li><p>Waga:</p><p>0.068 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-filtr-do-poidla-dla-zwi_63902.webp",
+    "galerie/t/tesla-filtr-do-poidla-dla-zwi_63903.webp",
+    "galerie/t/tesla-filtr-do-poidla-dla-zwi_63902.webp",
+    "galerie/t/tesla-filtr-do-poidla-dla-zwi_63903.webp"
+  ],
+  "manufacturer": "Tesla"
 }

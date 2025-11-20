@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Klawiatury membranowe i nożycowe"
-    ],
-    "id": "19094",
-    "code": "HTK400US",
-    "name": "Klawiatura HATOR Icefall Black-White",
-    "price": 119.0,
-    "description": "<p>HATOR Icefall to nowoczesna, pełnowymiarowa klawiatura membranowa, która łączy komfort użytkowania z wysoką funkcjonalnością. Cicha praca klawiszy, zaawansowane opcje sterowania multimediami i dynamiczne podświetlenie RGB sprawiają, że jest to idealny wybór zarówno do pracy, jak i gier.</p><h2>Cicha i komfortowa praca</h2><p>Dzięki membranowej konstrukcji klawisze HATOR Icefall działają wyjątkowo cicho, co zapewnia wygodę podczas wielogodzinnej pracy i rozgrywki. Miękki, płynny skok klawiszy minimalizuje zmęczenie dłoni i pozwala na precyzyjne wykonywanie ruchów.</p><h2>Trwałe klawisze odporne na ścieranie</h2><p>Klawisze zostały grawerowane laserowo i pokryte powłoką UV, co zwiększa ich odporność na ścieranie oraz chroni przed negatywnym wpływem promieniowania UV. Dzięki temu klawiatura zachowuje estetyczny wygląd przez długi czas.</p><h2>Intuicyjne sterowanie multimediami</h2><p>Dzięki dedykowanym klawiszom multimedialnym możesz wygodnie sterować muzyką, regulować głośność i korzystać z innych funkcji bez konieczności przerywania pracy lub gry.</p><h2>Pamięć profili i szybkie przełączanie</h2><p>HATOR Icefall umożliwia zapisanie ustawień i makr w dedykowanych profilach pamięci. Dzięki osobnym przyciskom możesz błyskawicznie przełączać się między nimi, dostosowując klawiaturę do aktualnych potrzeb – niezależnie od tego, na jakim komputerze pracujesz.</p><h2>Dynamiczne podświetlenie RGB</h2><p>Klawiatura oferuje jasne podświetlenie RGB z możliwością regulacji w ośmiu oddzielnych strefach. Do wyboru masz osiem gotowych efektów świetlnych oraz tryb niestandardowy, co pozwala stworzyć wyjątkową atmosferę i dopasować wygląd klawiatury do swojego stylu.</p><h2>Regulowana wysokość dla maksymalnego komfortu</h2><p>Dwa poziomy wysokości pozwalają dostosować nachylenie klawiatury do własnych preferencji, co zmniejsza obciążenie nadgarstków i zapewnia komfort nawet podczas wielogodzinnego użytkowania.</p><h2>Zaawansowane oprogramowanie i obsługa makr</h2><p>Dedykowane oprogramowanie umożliwia tworzenie i zapisywanie makr, które pozwalają na szybkie wykonywanie skomplikowanych poleceń. To doskonałe rozwiązanie zarówno dla graczy, jak i profesjonalistów wymagających precyzji i efektywności.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Typ połączenia</p><p>USB</p></li><li><p>Częstotliwość odpytywania</p><p>1000Hz</p></li><li><p>Napięcie zasilania</p><p>5V</p></li><li><p>Natężenie prądu</p><p>100mА</p></li><li><p>Podświetlenie</p><p>RGB dla 8 oddzielnych stref</p></li><li><p>Typ przełączników</p><p>membrana</p></li><li><p>Keycaps</p><p>ABS z grawerem laserowym i powłoką UV</p></li><li><p>Wsparcie sprzętowe dla platform</p><p>Windows 10/11</p></li><li><p>Długość</p><p>440 mm.</p></li><li><p>Szerokość</p><p>170 mm.</p></li><li><p>Wysokość</p><p>20 mm.</p></li><li><p>Waga</p><p>640 г</p></li><li><p>Długość kabla</p><p>1800 mm.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Hator</p></li><li><p>Dane producenta</p><p>HATOR Gaming B.V., Olof Palmelaan 3C, 2729NA Zoetermeer, Holandia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/hator.jpg",
-    "images": [
-        "galerie/k/klawiatura-hator-icefall-blac_70549.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70550.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70551.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70552.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70553.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70549.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70550.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70551.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70552.webp",
-        "galerie/k/klawiatura-hator-icefall-blac_70553.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury membranowe i nożycowe"
+  ],
+  "id": "19094",
+  "code": "HTK400US",
+  "name": "Klawiatura HATOR Icefall Black-White",
+  "price": 119.0,
+  "description": "<p>HATOR Icefall to nowoczesna, pełnowymiarowa klawiatura membranowa, która łączy komfort użytkowania z wysoką funkcjonalnością. Cicha praca klawiszy, zaawansowane opcje sterowania multimediami i dynamiczne podświetlenie RGB sprawiają, że jest to idealny wybór zarówno do pracy, jak i gier.</p><h2>Cicha i komfortowa praca</h2><p>Dzięki membranowej konstrukcji klawisze HATOR Icefall działają wyjątkowo cicho, co zapewnia wygodę podczas wielogodzinnej pracy i rozgrywki. Miękki, płynny skok klawiszy minimalizuje zmęczenie dłoni i pozwala na precyzyjne wykonywanie ruchów.</p><h2>Trwałe klawisze odporne na ścieranie</h2><p>Klawisze zostały grawerowane laserowo i pokryte powłoką UV, co zwiększa ich odporność na ścieranie oraz chroni przed negatywnym wpływem promieniowania UV. Dzięki temu klawiatura zachowuje estetyczny wygląd przez długi czas.</p><h2>Intuicyjne sterowanie multimediami</h2><p>Dzięki dedykowanym klawiszom multimedialnym możesz wygodnie sterować muzyką, regulować głośność i korzystać z innych funkcji bez konieczności przerywania pracy lub gry.</p><h2>Pamięć profili i szybkie przełączanie</h2><p>HATOR Icefall umożliwia zapisanie ustawień i makr w dedykowanych profilach pamięci. Dzięki osobnym przyciskom możesz błyskawicznie przełączać się między nimi, dostosowując klawiaturę do aktualnych potrzeb – niezależnie od tego, na jakim komputerze pracujesz.</p><h2>Dynamiczne podświetlenie RGB</h2><p>Klawiatura oferuje jasne podświetlenie RGB z możliwością regulacji w ośmiu oddzielnych strefach. Do wyboru masz osiem gotowych efektów świetlnych oraz tryb niestandardowy, co pozwala stworzyć wyjątkową atmosferę i dopasować wygląd klawiatury do swojego stylu.</p><h2>Regulowana wysokość dla maksymalnego komfortu</h2><p>Dwa poziomy wysokości pozwalają dostosować nachylenie klawiatury do własnych preferencji, co zmniejsza obciążenie nadgarstków i zapewnia komfort nawet podczas wielogodzinnego użytkowania.</p><h2>Zaawansowane oprogramowanie i obsługa makr</h2><p>Dedykowane oprogramowanie umożliwia tworzenie i zapisywanie makr, które pozwalają na szybkie wykonywanie skomplikowanych poleceń. To doskonałe rozwiązanie zarówno dla graczy, jak i profesjonalistów wymagających precyzji i efektywności.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Typ połączenia</p><p>USB</p></li><li><p>Częstotliwość odpytywania</p><p>1000Hz</p></li><li><p>Napięcie zasilania</p><p>5V</p></li><li><p>Natężenie prądu</p><p>100mА</p></li><li><p>Podświetlenie</p><p>RGB dla 8 oddzielnych stref</p></li><li><p>Typ przełączników</p><p>membrana</p></li><li><p>Keycaps</p><p>ABS z grawerem laserowym i powłoką UV</p></li><li><p>Wsparcie sprzętowe dla platform</p><p>Windows 10/11</p></li><li><p>Długość</p><p>440 mm.</p></li><li><p>Szerokość</p><p>170 mm.</p></li><li><p>Wysokość</p><p>20 mm.</p></li><li><p>Waga</p><p>640 г</p></li><li><p>Długość kabla</p><p>1800 mm.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Hator</p></li><li><p>Dane producenta</p><p>HATOR Gaming B.V., Olof Palmelaan 3C, 2729NA Zoetermeer, Holandia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/hator.jpg",
+  "images": [
+    "galerie/k/klawiatura-hator-icefall-blac_70549.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70550.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70551.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70552.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70553.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70549.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70550.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70551.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70552.webp",
+    "galerie/k/klawiatura-hator-icefall-blac_70553.webp"
+  ],
+  "manufacturer": "Hator"
 }

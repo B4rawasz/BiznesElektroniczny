@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 120mm"
-    ],
-    "id": "13469",
-    "code": "LUPH-062",
-    "name": "Wentylator Phanteks T30 120mm PWM",
-    "price": 139.0,
-    "description": "OPIS <h2> Wentylator Phanteks T30-120 – Najwyższa jakość chłodzenia klasy premium</h2><p>Wentylator Phanteks T30-120 to efekt wieloletnich badań, testów i współpracy z renomowanym producentem wentylatorów – firmą SUNON. Został zaprojektowany z myślą o entuzjastach wydajności i ciszy, oferując najlepsze osiągi w swojej klasie dzięki zastosowaniu komponentów klasy przemysłowej, zaawansowanej aerodynamice oraz unikalnej konstrukcji o grubości 30 mm.</p><p>Wykonany z wzmocnionego polimeru ciekłokrystalicznego (LCP), T30-120 zapewnia nie tylko ekstremalną trwałość i sztywność, ale także perfekcyjną precyzję wykonania. Dzięki trzem trybom pracy – od całkowicie bezgłośnego po ekstremalnie wydajny – idealnie dopasujesz jego działanie do każdej konfiguracji i scenariusza użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 120 x 30 mm (W x H x D)</p></li><li><p>Waga</p><p>230g</p></li><li><p>Kolor</p><p>Black</p></li><li><p>Materiał</p><p>polimer ciekłokrystaliczny (rama, wirnik), guma (tłumik drgań)</p></li><li><p>Łożysko</p><p>Dual Vapo</p></li><li><p>Profile pracy</p><p><strong>Advanced profile</strong><br/>Prędkość: 3,000 ±150 rpm<br/>Przepływ powietrza: 171.4 m³/h<br/>Ciśnienie statyczne: 7.11 mmH2O<br/>Głośność: 39.7 dB(A)<br/><strong>Performance profile</strong><br/>Prędkość: 2,000 ±100 rpm<br/>Przepływ powietrza: 113.6 m³/h<br/>Ciśnienie statyczne: 3.3 mmH2O<br/>Głośność: 27.3 dB(A) <br/><strong>Hybrid profile</strong><br/>Prędkość: 1,200 ±75 rpm<br/>Przepływ powietrza: 66.4 m³/h<br/>Ciśnienie statyczne: 1.27 mmH2O<br/>Głośność: 11.1 dB(A)</p></li><li><p>Napięcie robocze</p><p>10.2 to 13.2V</p></li><li><p>Wtyczka</p><p>4-pin PWM</p></li><li><p>Długość przewodu</p><p>130mm + 500mm przedłużka</p></li><li><p>MTTF</p><p>150,000h</p></li><li><p>Zawartość opakowania</p><p>1x T30-120<br/>1x 4-pin przedłużka<br/>4x śrubki do wentylatora<br/>4x śrubki do chłodnicy 36 mm<br/>4x śrubki do chłodnicy 39 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/phanteks.jpg",
-    "images": [
-        "galerie/w/wentylator-phanteks-t30-120mm_48612.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48613.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48614.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48615.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48616.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48617.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48618.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48612.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48613.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48614.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48615.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48616.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48617.webp",
-        "galerie/w/wentylator-phanteks-t30-120mm_48618.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "13469",
+  "code": "LUPH-062",
+  "name": "Wentylator Phanteks T30 120mm PWM",
+  "price": 139.0,
+  "description": "OPIS <h2> Wentylator Phanteks T30-120 – Najwyższa jakość chłodzenia klasy premium</h2><p>Wentylator Phanteks T30-120 to efekt wieloletnich badań, testów i współpracy z renomowanym producentem wentylatorów – firmą SUNON. Został zaprojektowany z myślą o entuzjastach wydajności i ciszy, oferując najlepsze osiągi w swojej klasie dzięki zastosowaniu komponentów klasy przemysłowej, zaawansowanej aerodynamice oraz unikalnej konstrukcji o grubości 30 mm.</p><p>Wykonany z wzmocnionego polimeru ciekłokrystalicznego (LCP), T30-120 zapewnia nie tylko ekstremalną trwałość i sztywność, ale także perfekcyjną precyzję wykonania. Dzięki trzem trybom pracy – od całkowicie bezgłośnego po ekstremalnie wydajny – idealnie dopasujesz jego działanie do każdej konfiguracji i scenariusza użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 120 x 30 mm (W x H x D)</p></li><li><p>Waga</p><p>230g</p></li><li><p>Kolor</p><p>Black</p></li><li><p>Materiał</p><p>polimer ciekłokrystaliczny (rama, wirnik), guma (tłumik drgań)</p></li><li><p>Łożysko</p><p>Dual Vapo</p></li><li><p>Profile pracy</p><p><strong>Advanced profile</strong><br/>Prędkość: 3,000 ±150 rpm<br/>Przepływ powietrza: 171.4 m³/h<br/>Ciśnienie statyczne: 7.11 mmH2O<br/>Głośność: 39.7 dB(A)<br/><strong>Performance profile</strong><br/>Prędkość: 2,000 ±100 rpm<br/>Przepływ powietrza: 113.6 m³/h<br/>Ciśnienie statyczne: 3.3 mmH2O<br/>Głośność: 27.3 dB(A) <br/><strong>Hybrid profile</strong><br/>Prędkość: 1,200 ±75 rpm<br/>Przepływ powietrza: 66.4 m³/h<br/>Ciśnienie statyczne: 1.27 mmH2O<br/>Głośność: 11.1 dB(A)</p></li><li><p>Napięcie robocze</p><p>10.2 to 13.2V</p></li><li><p>Wtyczka</p><p>4-pin PWM</p></li><li><p>Długość przewodu</p><p>130mm + 500mm przedłużka</p></li><li><p>MTTF</p><p>150,000h</p></li><li><p>Zawartość opakowania</p><p>1x T30-120<br/>1x 4-pin przedłużka<br/>4x śrubki do wentylatora<br/>4x śrubki do chłodnicy 36 mm<br/>4x śrubki do chłodnicy 39 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/w/wentylator-phanteks-t30-120mm_48612.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48613.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48614.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48615.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48616.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48617.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48618.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48612.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48613.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48614.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48615.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48616.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48617.webp",
+    "galerie/w/wentylator-phanteks-t30-120mm_48618.webp"
+  ],
+  "manufacturer": "Phanteks"
 }

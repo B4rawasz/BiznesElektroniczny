@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 140mm"
-    ],
-    "id": "20453",
-    "code": "LUPH-105",
-    "name": "Wentylator Phanteks M25 Gen2 PWM Fan 140mm - czarny",
-    "price": 33.9,
-    "description": "<h2>Wydajne chłodzenie i prosta konstrukcja</h2><p><strong>PHANTEKS M25 Gen2</strong> to wentylatory, które łączą skuteczne chłodzenie z nowoczesnym designem. Specjalnie zaprojektowane łopatki zapewniają optymalny przepływ powietrza nawet przy niskich prędkościach – doskonale sprawdzają się za drobną siatką lub przed radiatorem.</p><h2>Cisza i efektywność</h2><p>Wyposażony w <strong>hydrodynamiczne łożyska ślizgowe</strong>, wentylator PHANTEKS M25 Gen2 pracuje wyjątkowo cicho – osiągając maksymalnie <strong>36,4 dB(A)</strong>. Zredukowane tarcie pozwala na wyższe obroty przy tym samym zużyciu energii, co skutkuje lepszym przepływem powietrza i większą wydajnością, idealną podczas długich sesji gamingowych.</p><h2>Stworzone dla mocnych konfiguracji</h2><p>Dzięki zoptymalizowanym łopatkom i <strong>ciśnieniu statycznemu 2,23 mmH₂O</strong>, M25 Gen2 idealnie współpracuje z radiatorami. Wysoki przepływ powietrza <strong>172,92 m³/h</strong> zapewnia niezawodne chłodzenie nawet najbardziej wymagającego sprzętu high-end.</p><h2>Cicha praca i łatwe zarządzanie kablami</h2><p>Przemyślane zarządzanie okablowaniem pozwala na podłączenie wielu wentylatorów w układzie szeregowym. Zintegrowane <strong>gumowe amortyzatory</strong> na rogach skutecznie tłumią drgania i zapobiegają ich przenoszeniu na obudowę, gwarantując stabilną i cichą pracę systemu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wentylator PWM 140 mm w kolorze czarnym</li><li>Łączenie szeregowe dla kabli mniej widocznych</li><li>Zoptymalizowany do stosowania przed radiatorami lub za siatką</li><li>Maksymalna prędkość 1800 obr./min przy 36,4 dB(A)</li><li>Maksymalny przepływ 172,92 m³/h i maks. ciśnienie statyczne 2,23 mmH2O</li><li>Gumowe podkładki na rogach, które izolują przeszkadzające wibracje</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>czarny</p></li><li><p>Długość / Głębokość</p><p>140 mm</p></li><li><p>Szerokość</p><p>140 mm</p></li><li><p>Wysokość wentylatora</p><p>25 mm</p></li><li><p>Rozmiar wentylatora</p><p>140 mm</p></li><li><p>Wyrównanie łopatek wentylatora</p><p>standard</p></li><li><p>Minimalna prędkość wentylatora</p><p>350 obr./min</p></li><li><p>Maksymalna prędkość wentylatora</p><p>1800 obr./min</p></li><li><p>Maksymalny przepływ (pojedynczy wentylator)</p><p>172,92 m³/godz.</p></li><li><p>Maksymalne ciśnienie statyczne</p><p>2,23 mmH₂O</p></li><li><p>Napięcie znamionowe</p><p>12 V</p></li><li><p>Napięcie początkowe</p><p>7 V</p></li><li><p>Maksymalny poziom hałasu wentylatora</p><p>36,4 dB(A)</p></li><li><p>Złącza wentylatora</p><p>4-pinowe (sterowanie PWM)</p></li><li><p>Oświetlenie / RGB</p><p>nie</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/phanteks.jpg",
-    "images": [
-        "galerie/w/wentylator-phanteks-m25-gen2_76941.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76946.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76943.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76944.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76942.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76945.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76947.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76941.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76946.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76943.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76944.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76942.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76945.webp",
-        "galerie/w/wentylator-phanteks-m25-gen2_76947.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 140mm"
+  ],
+  "id": "20453",
+  "code": "LUPH-105",
+  "name": "Wentylator Phanteks M25 Gen2 PWM Fan 140mm - czarny",
+  "price": 33.9,
+  "description": "<h2>Wydajne chłodzenie i prosta konstrukcja</h2><p><strong>PHANTEKS M25 Gen2</strong> to wentylatory, które łączą skuteczne chłodzenie z nowoczesnym designem. Specjalnie zaprojektowane łopatki zapewniają optymalny przepływ powietrza nawet przy niskich prędkościach – doskonale sprawdzają się za drobną siatką lub przed radiatorem.</p><h2>Cisza i efektywność</h2><p>Wyposażony w <strong>hydrodynamiczne łożyska ślizgowe</strong>, wentylator PHANTEKS M25 Gen2 pracuje wyjątkowo cicho – osiągając maksymalnie <strong>36,4 dB(A)</strong>. Zredukowane tarcie pozwala na wyższe obroty przy tym samym zużyciu energii, co skutkuje lepszym przepływem powietrza i większą wydajnością, idealną podczas długich sesji gamingowych.</p><h2>Stworzone dla mocnych konfiguracji</h2><p>Dzięki zoptymalizowanym łopatkom i <strong>ciśnieniu statycznemu 2,23 mmH₂O</strong>, M25 Gen2 idealnie współpracuje z radiatorami. Wysoki przepływ powietrza <strong>172,92 m³/h</strong> zapewnia niezawodne chłodzenie nawet najbardziej wymagającego sprzętu high-end.</p><h2>Cicha praca i łatwe zarządzanie kablami</h2><p>Przemyślane zarządzanie okablowaniem pozwala na podłączenie wielu wentylatorów w układzie szeregowym. Zintegrowane <strong>gumowe amortyzatory</strong> na rogach skutecznie tłumią drgania i zapobiegają ich przenoszeniu na obudowę, gwarantując stabilną i cichą pracę systemu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wentylator PWM 140 mm w kolorze czarnym</li><li>Łączenie szeregowe dla kabli mniej widocznych</li><li>Zoptymalizowany do stosowania przed radiatorami lub za siatką</li><li>Maksymalna prędkość 1800 obr./min przy 36,4 dB(A)</li><li>Maksymalny przepływ 172,92 m³/h i maks. ciśnienie statyczne 2,23 mmH2O</li><li>Gumowe podkładki na rogach, które izolują przeszkadzające wibracje</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>czarny</p></li><li><p>Długość / Głębokość</p><p>140 mm</p></li><li><p>Szerokość</p><p>140 mm</p></li><li><p>Wysokość wentylatora</p><p>25 mm</p></li><li><p>Rozmiar wentylatora</p><p>140 mm</p></li><li><p>Wyrównanie łopatek wentylatora</p><p>standard</p></li><li><p>Minimalna prędkość wentylatora</p><p>350 obr./min</p></li><li><p>Maksymalna prędkość wentylatora</p><p>1800 obr./min</p></li><li><p>Maksymalny przepływ (pojedynczy wentylator)</p><p>172,92 m³/godz.</p></li><li><p>Maksymalne ciśnienie statyczne</p><p>2,23 mmH₂O</p></li><li><p>Napięcie znamionowe</p><p>12 V</p></li><li><p>Napięcie początkowe</p><p>7 V</p></li><li><p>Maksymalny poziom hałasu wentylatora</p><p>36,4 dB(A)</p></li><li><p>Złącza wentylatora</p><p>4-pinowe (sterowanie PWM)</p></li><li><p>Oświetlenie / RGB</p><p>nie</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/w/wentylator-phanteks-m25-gen2_76941.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76946.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76943.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76944.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76942.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76945.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76947.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76941.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76946.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76943.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76944.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76942.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76945.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_76947.webp"
+  ],
+  "manufacturer": "Phanteks"
 }

@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "19304",
-    "code": "SB33",
-    "name": "Ramię mikrofonowe - statyw mikrofonowy MOZOS SB33",
-    "price": 69.0,
-    "description": "<h2>Mozos SB33 to profesjonalne ramię mikrofonowe.</h2><p>Mozos SB33 łączy trwałość, stabilność i wygodę użytkowania, spełniając oczekiwania zarówno amatorów, jak i profesjonalistów. Dzięki kompaktowym wymiarom 350x380x105 mm zapewnia elastyczność w pozycjonowaniu mikrofonu, co pozwala na idealne dopasowanie do różnych warunków nagraniowych. Wykonane z wysokiej jakości metalu oraz wytrzymałego tworzywa ABS, gwarantuje długowieczność i odporność na intensywne użytkowanie. Solidna konstrukcja umożliwia montaż na biurkach o grubości do 3,7 cm, co czyni je wszechstronnym wyborem do różnych stanowisk pracy. Mimo swojej wytrzymałości, Mozos SB33 cechuje się lekką konstrukcją – waży zaledwie 0,46 kg, co sprawia, że jest łatwe w montażu i regulacji. Nie obciąża stanowiska pracy, jednocześnie oferując solidne wsparcie dla mikrofonów o wadze do 1,2 kg.</p><h2>Uniwersalne zastosowanie w domu, biurze czy w studiu.</h2><p>To doskonałe rozwiązanie zarówno do profesjonalnych studiów nagraniowych, jak i domowych konfiguracji do podcastingu, streamingu czy nagrywania wokalu. Regulacja ramienia pozwala na swobodne dostosowanie położenia mikrofonu, co znacząco zwiększa komfort pracy. Użytkownik może precyzyjnie ustawić sprzęt zgodnie z własnymi preferencjami, eliminując niechciane wibracje i poprawiając jakość dźwięku. Dzięki uniwersalnemu mocowaniu Mozos SB33 jest kompatybilne z szeroką gamą mikrofonów, co czyni je wszechstronnym dodatkiem do każdego studia. Inwestując w Mozos SB33, otrzymujesz produkt łączący funkcjonalność, trwałość i nowoczesny design, który podniesie komfort Twojej pracy i zapewni profesjonalne rezultaty nagrań. W zestawie znajduje się ramię Mozos SB33. Inne elementy mają ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Prosta ale solidna, metalowa konstrukcja o udźwigu aż do 1.2 kg.</li><li>Szeroka kompatybilność dzięki uniwersalnemu gwintowi 3/8″.</li><li>Bezpieczne dla twojego biurka – bez konieczności wiercenia.</li><li>Opaski w zestawie umożliwiają idealną organizację przewodów.</li><li>Łatwa regulacja dzięki pokrętłom.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>350x380x105 mm.</p></li><li><p>Gwint</p><p>standard 3/8″.</p></li><li><p>Materiał</p><p>żelazo + ABS.</p></li><li><p>Maksymalna grubość blatu</p><p>≤3,7 cm.</p></li><li><p>Waga netto</p><p>około 0,46 kg.</p></li><li><p>Waga brutto</p><p>około 0,53 kg.</p></li><li><p>Maksymalne obciążenie</p><p>1,2 kg.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71147.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71148.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71149.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71150.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71151.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71152.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71153.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71154.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71147.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71148.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71149.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71150.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71151.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71152.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71153.webp",
-        "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71154.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "19304",
+  "code": "SB33",
+  "name": "Ramię mikrofonowe - statyw mikrofonowy MOZOS SB33",
+  "price": 69.0,
+  "description": "<h2>Mozos SB33 to profesjonalne ramię mikrofonowe.</h2><p>Mozos SB33 łączy trwałość, stabilność i wygodę użytkowania, spełniając oczekiwania zarówno amatorów, jak i profesjonalistów. Dzięki kompaktowym wymiarom 350x380x105 mm zapewnia elastyczność w pozycjonowaniu mikrofonu, co pozwala na idealne dopasowanie do różnych warunków nagraniowych. Wykonane z wysokiej jakości metalu oraz wytrzymałego tworzywa ABS, gwarantuje długowieczność i odporność na intensywne użytkowanie. Solidna konstrukcja umożliwia montaż na biurkach o grubości do 3,7 cm, co czyni je wszechstronnym wyborem do różnych stanowisk pracy. Mimo swojej wytrzymałości, Mozos SB33 cechuje się lekką konstrukcją – waży zaledwie 0,46 kg, co sprawia, że jest łatwe w montażu i regulacji. Nie obciąża stanowiska pracy, jednocześnie oferując solidne wsparcie dla mikrofonów o wadze do 1,2 kg.</p><h2>Uniwersalne zastosowanie w domu, biurze czy w studiu.</h2><p>To doskonałe rozwiązanie zarówno do profesjonalnych studiów nagraniowych, jak i domowych konfiguracji do podcastingu, streamingu czy nagrywania wokalu. Regulacja ramienia pozwala na swobodne dostosowanie położenia mikrofonu, co znacząco zwiększa komfort pracy. Użytkownik może precyzyjnie ustawić sprzęt zgodnie z własnymi preferencjami, eliminując niechciane wibracje i poprawiając jakość dźwięku. Dzięki uniwersalnemu mocowaniu Mozos SB33 jest kompatybilne z szeroką gamą mikrofonów, co czyni je wszechstronnym dodatkiem do każdego studia. Inwestując w Mozos SB33, otrzymujesz produkt łączący funkcjonalność, trwałość i nowoczesny design, który podniesie komfort Twojej pracy i zapewni profesjonalne rezultaty nagrań. W zestawie znajduje się ramię Mozos SB33. Inne elementy mają ukazać przykładowe zastosowanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Prosta ale solidna, metalowa konstrukcja o udźwigu aż do 1.2 kg.</li><li>Szeroka kompatybilność dzięki uniwersalnemu gwintowi 3/8″.</li><li>Bezpieczne dla twojego biurka – bez konieczności wiercenia.</li><li>Opaski w zestawie umożliwiają idealną organizację przewodów.</li><li>Łatwa regulacja dzięki pokrętłom.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>350x380x105 mm.</p></li><li><p>Gwint</p><p>standard 3/8″.</p></li><li><p>Materiał</p><p>żelazo + ABS.</p></li><li><p>Maksymalna grubość blatu</p><p>≤3,7 cm.</p></li><li><p>Waga netto</p><p>około 0,46 kg.</p></li><li><p>Waga brutto</p><p>około 0,53 kg.</p></li><li><p>Maksymalne obciążenie</p><p>1,2 kg.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71147.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71148.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71149.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71150.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71151.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71152.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71153.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71154.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71147.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71148.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71149.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71150.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71151.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71152.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71153.webp",
+    "galerie/r/ramie-mikrofonowe-uchwyt-mozo_71154.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

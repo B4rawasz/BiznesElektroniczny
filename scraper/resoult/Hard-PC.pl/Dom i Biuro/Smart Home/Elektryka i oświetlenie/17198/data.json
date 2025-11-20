@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Elektryka i oświetlenie"
-    ],
-    "id": "17198",
-    "code": "TSL-CAM-SOL5W",
-    "name": "Tesla Smart Panel słoneczny 5W",
-    "price": 199.0,
-    "description": "<h2>Kompatybilność w celu zapewnienia eksploatacji bez dodatkowych kosztów</h2><p>Panel słoneczny jest kompatybilny z baterią TESLA Smart Camera 360 4G Battery i może zapewnić wystarczający poziom mocy dla kamery. Dlatego system nadzoru wideo może pracować bez dodatkowych kosztów nawet w nocy lub przy pochmurnej pogodzie. Panel słoneczny TESLA Solar Panel 5W może również ładować inne urządzenia, których parametry są zgodne z parametrami panelu (USB-C, 6 V, 0,83 A, 5 W).</p><h2>Rozwiązania dla lokalizacji zdalnych</h2><p>Kamera bezpieczeństwa z panelem słonecznym to łatwy sposób na zapewnienie nadzoru w odległych miejscach. Niezależnie od tego czy to dom, chata z bali, działka z dala od cywilizacji, czy inne miejsce bez dostępu do prądu i Wi-Fi.</p><h2>Aplikacja do monitorowania online</h2><p>Po podłączeniu panelu słonecznego do baterii TESLA Smart Camera 360 4G Battery można monitorować stan baterii za pomocą smartfona, łącząc panel w aplikacji mobilnej TESLA Smart. Aplikacja ma interfejs w języku angielskim i jest dostępna na urządzenia z systemem iOS i Android. W aplikacji można z dowolnego miejsca szybko sprawdzić wymaganą moc kamery i potrzebę przeniesienia panelu słonecznego do bardziej słonecznego miejsca.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>1.25 cm</p></li><li><p>Szerokość:</p><p>16 cm</p></li><li><p>Głębokość:</p><p>17 cm</p></li><li><p>Waga:</p><p>0.31 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-panel-sloneczny-5_63120.webp",
-        "galerie/t/tesla-smart-panel-sloneczny-5_63121.webp",
-        "galerie/t/tesla-smart-panel-sloneczny-5_63122.webp",
-        "galerie/t/tesla-smart-panel-sloneczny-5_63123.webp",
-        "galerie/t/tesla-smart-panel-sloneczny-5_63120.webp",
-        "galerie/t/tesla-smart-panel-sloneczny-5_63121.webp",
-        "galerie/t/tesla-smart-panel-sloneczny-5_63122.webp",
-        "galerie/t/tesla-smart-panel-sloneczny-5_63123.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17198",
+  "code": "TSL-CAM-SOL5W",
+  "name": "Tesla Smart Panel słoneczny 5W",
+  "price": 199.0,
+  "description": "<h2>Kompatybilność w celu zapewnienia eksploatacji bez dodatkowych kosztów</h2><p>Panel słoneczny jest kompatybilny z baterią TESLA Smart Camera 360 4G Battery i może zapewnić wystarczający poziom mocy dla kamery. Dlatego system nadzoru wideo może pracować bez dodatkowych kosztów nawet w nocy lub przy pochmurnej pogodzie. Panel słoneczny TESLA Solar Panel 5W może również ładować inne urządzenia, których parametry są zgodne z parametrami panelu (USB-C, 6 V, 0,83 A, 5 W).</p><h2>Rozwiązania dla lokalizacji zdalnych</h2><p>Kamera bezpieczeństwa z panelem słonecznym to łatwy sposób na zapewnienie nadzoru w odległych miejscach. Niezależnie od tego czy to dom, chata z bali, działka z dala od cywilizacji, czy inne miejsce bez dostępu do prądu i Wi-Fi.</p><h2>Aplikacja do monitorowania online</h2><p>Po podłączeniu panelu słonecznego do baterii TESLA Smart Camera 360 4G Battery można monitorować stan baterii za pomocą smartfona, łącząc panel w aplikacji mobilnej TESLA Smart. Aplikacja ma interfejs w języku angielskim i jest dostępna na urządzenia z systemem iOS i Android. W aplikacji można z dowolnego miejsca szybko sprawdzić wymaganą moc kamery i potrzebę przeniesienia panelu słonecznego do bardziej słonecznego miejsca.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>1.25 cm</p></li><li><p>Szerokość:</p><p>16 cm</p></li><li><p>Głębokość:</p><p>17 cm</p></li><li><p>Waga:</p><p>0.31 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-panel-sloneczny-5_63120.webp",
+    "galerie/t/tesla-smart-panel-sloneczny-5_63121.webp",
+    "galerie/t/tesla-smart-panel-sloneczny-5_63122.webp",
+    "galerie/t/tesla-smart-panel-sloneczny-5_63123.webp",
+    "galerie/t/tesla-smart-panel-sloneczny-5_63120.webp",
+    "galerie/t/tesla-smart-panel-sloneczny-5_63121.webp",
+    "galerie/t/tesla-smart-panel-sloneczny-5_63122.webp",
+    "galerie/t/tesla-smart-panel-sloneczny-5_63123.webp"
+  ],
+  "manufacturer": "Tesla"
 }

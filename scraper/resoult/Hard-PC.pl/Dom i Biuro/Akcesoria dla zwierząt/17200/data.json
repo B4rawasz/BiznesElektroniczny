@@ -1,26 +1,27 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Akcesoria dla zwierząt"
-    ],
-    "id": "17200",
-    "code": "TSL-PC-WF2",
-    "name": "Tesla Smart Poidło dla zwierząt 2.gen",
-    "price": 249.0,
-    "description": "<h2>Inteligentna fontanna dla Twoich zwierząt</h2><p>Jeśli Twoje zwierzaki zostaną same w domu, inteligentna fontanna TESLA zapewni im stały dopływ świeżej wody nawet przez pięć dni. Fontannę można wygodnie ustawić zdalnie za pomocą aplikacji mobilnej, ale może ona również pracować w trybie automatycznym.</p><h2>Nie zawiera resztek chloru</h2><p>Poidło wyposażone jest w system filtracji, który utrzymuje wodę w czystości i świeżości. Jego podstawową częścią jest filtr wykonany z bawełny organicznej, który zmiękcza wodę i usuwa wszelkie pozostałości chloru. Są jednak jeszcze dwa elementy, które dbają o czystość wody - żywica i węgiel aktywny. Dokonują one tego poprzez proces aktywnej wymiany jonowej.</p><h2>Cicha pompa, która nie będzie przeszkadzać ani Tobie, ani Twoim zwierzakom</h2><p>Poidło można umieścić w jadalni, sypialni lub salonie. Jest przyjemnie cichy, a delikatna strużka wody może służyć jako terapia dźwiękowa podczas popołudniowej lub wieczornej drzemki. Urządzenie jest zasilane z gniazdka sieciowego.</p><h2>Inteligentne poidło</h2><p>Inteligentne poidło TESLA sprawia, że Twój zwierzak może pić świeżą wodę nawet przez 5 dni.</p><h2>Aplikacja mobilna dla wygody użytkowania</h2><p>Inteligentne poidło ma wbudowany moduł Wi-Fi, dzięki czemu można go wygodnie skonfigurować za pomocą aplikacji mobilnej w języku polskim, która jest dostępna zarówno dla systemu iOS, jak i Android. Automatycznie powiadamia o konieczności wymiany filtra. Z jednym urządzeniem mobilnym można sparować wiele urządzeń tego samego typu. W celu wykonania parowania sieć Wi-Fi musi być ustawiona na 2,4 GHz.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>12 szt</p></li><li><p>Wysokość:</p><p>17.5 cm</p></li><li><p>Szerokość:</p><p>16 cm</p></li><li><p>Głębokość:</p><p>23 cm</p></li><li><p>Waga:</p><p>1.03 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63108.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63109.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63110.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63111.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63112.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63108.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63109.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63110.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63111.webp",
-        "galerie/t/tesla-smart-poidlo-dla-zwierz_63112.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Akcesoria dla zwierząt"
+  ],
+  "id": "17200",
+  "code": "TSL-PC-WF2",
+  "name": "Tesla Smart Poidło dla zwierząt 2.gen",
+  "price": 249.0,
+  "description": "<h2>Inteligentna fontanna dla Twoich zwierząt</h2><p>Jeśli Twoje zwierzaki zostaną same w domu, inteligentna fontanna TESLA zapewni im stały dopływ świeżej wody nawet przez pięć dni. Fontannę można wygodnie ustawić zdalnie za pomocą aplikacji mobilnej, ale może ona również pracować w trybie automatycznym.</p><h2>Nie zawiera resztek chloru</h2><p>Poidło wyposażone jest w system filtracji, który utrzymuje wodę w czystości i świeżości. Jego podstawową częścią jest filtr wykonany z bawełny organicznej, który zmiękcza wodę i usuwa wszelkie pozostałości chloru. Są jednak jeszcze dwa elementy, które dbają o czystość wody - żywica i węgiel aktywny. Dokonują one tego poprzez proces aktywnej wymiany jonowej.</p><h2>Cicha pompa, która nie będzie przeszkadzać ani Tobie, ani Twoim zwierzakom</h2><p>Poidło można umieścić w jadalni, sypialni lub salonie. Jest przyjemnie cichy, a delikatna strużka wody może służyć jako terapia dźwiękowa podczas popołudniowej lub wieczornej drzemki. Urządzenie jest zasilane z gniazdka sieciowego.</p><h2>Inteligentne poidło</h2><p>Inteligentne poidło TESLA sprawia, że Twój zwierzak może pić świeżą wodę nawet przez 5 dni.</p><h2>Aplikacja mobilna dla wygody użytkowania</h2><p>Inteligentne poidło ma wbudowany moduł Wi-Fi, dzięki czemu można go wygodnie skonfigurować za pomocą aplikacji mobilnej w języku polskim, która jest dostępna zarówno dla systemu iOS, jak i Android. Automatycznie powiadamia o konieczności wymiany filtra. Z jednym urządzeniem mobilnym można sparować wiele urządzeń tego samego typu. W celu wykonania parowania sieć Wi-Fi musi być ustawiona na 2,4 GHz.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>12 szt</p></li><li><p>Wysokość:</p><p>17.5 cm</p></li><li><p>Szerokość:</p><p>16 cm</p></li><li><p>Głębokość:</p><p>23 cm</p></li><li><p>Waga:</p><p>1.03 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63108.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63109.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63110.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63111.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63112.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63108.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63109.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63110.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63111.webp",
+    "galerie/t/tesla-smart-poidlo-dla-zwierz_63112.webp"
+  ],
+  "manufacturer": "Tesla"
 }

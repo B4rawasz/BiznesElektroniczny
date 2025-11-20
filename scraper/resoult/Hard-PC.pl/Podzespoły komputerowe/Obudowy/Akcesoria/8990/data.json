@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Akcesoria"
-    ],
-    "id": "8990",
-    "code": "GEPH-032",
-    "name": "Ramka do montażu dysku 1x 2,5/3,5 cala Phanteks",
-    "price": 22.9,
-    "description": "OPIS <p>Ramka montażowa do dysku 1x 2.5/3.5 cala do obudów Phanteks</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Kolor: czarny</li><li>Przeznaczenie: Obudowy Phanteks Enthoo Pro M, Enthoo Evolv ATX i Eclipse P400(S)</li><li>Najważniejsze cechy: umożliwia montaż dodatkowego dysku 2,5 lub 3,5 cala w wymienionych obudowach</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/phanteks.jpg",
-    "images": [
-        "galerie/r/ramka-do-montazu-dysku-1x-2-5_25927.webp",
-        "galerie/r/ramka-do-montazu-dysku-1x-2-5_25928.webp",
-        "galerie/r/ramka-do-montazu-dysku-1x-2-5_25927.webp",
-        "galerie/r/ramka-do-montazu-dysku-1x-2-5_25928.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Akcesoria"
+  ],
+  "id": "8990",
+  "code": "GEPH-032",
+  "name": "Ramka do montażu dysku 1x 2,5/3,5 cala Phanteks",
+  "price": 22.9,
+  "description": "OPIS <p>Ramka montażowa do dysku 1x 2.5/3.5 cala do obudów Phanteks</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Kolor: czarny</li><li>Przeznaczenie: Obudowy Phanteks Enthoo Pro M, Enthoo Evolv ATX i Eclipse P400(S)</li><li>Najważniejsze cechy: umożliwia montaż dodatkowego dysku 2,5 lub 3,5 cala w wymienionych obudowach</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/r/ramka-do-montazu-dysku-1x-2-5_25927.webp",
+    "galerie/r/ramka-do-montazu-dysku-1x-2-5_25928.webp",
+    "galerie/r/ramka-do-montazu-dysku-1x-2-5_25927.webp",
+    "galerie/r/ramka-do-montazu-dysku-1x-2-5_25928.webp"
+  ],
+  "manufacturer": "Phanteks"
 }

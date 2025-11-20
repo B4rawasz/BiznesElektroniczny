@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Akcesoria dla zwierząt"
-    ],
-    "id": "17209",
-    "code": "TSL-PC-PS300",
-    "name": "Tesla Smart Sofa dla zwierząt PS300",
-    "price": 649.0,
-    "description": "<h2>Dla wygodnego i przytulnego snu Twoich mniejszych czworonożnych przyjaciół</h2><p>Zapewnij swoim zwierzętom komfort w postaci eleganckiej sofy z regulatorem temperatury i zadbaj o to, aby koty lub małe rasy psów czuły się dobrze bez względu na pogodę na zewnątrz.</p><h2>Komfort dla tych, którzy nas uszczęśliwiają</h2><p>Nasi mali czworonożni przyjaciele często mają zupełnie inne wymagania dotyczące temperatury otoczenia niż my. Dlatego TESLA stworzyła sofę dla zwierząt domowych, której główną cechą jest automatyczna lub ręczna zmiana temperatury w zależności od otoczenia, lub wstępnie zdefiniowanych ustawień.</p><h2>Inteligentny i ekonomiczny ekosystem dla ludzi i zwierząt</h2><p>Linia produktów TESLA Smart dla zwierząt domowych jest w stanie ułatwić życie wszystkim właścicielom. Dzięki inteligentnym fontannom, karmnikom, zabawkom i innym podobnym produktom będziesz mógł obserwować aktywność swoich zwierząt przez całą dobę, nawet z dala od nich. Ponadto produkty TESLA Smart są energooszczędne, więc nie musisz się martwić o gwałtowny wzrost kosztów energii. Na przykład, jeśli inteligentna sofa działa przez cały dzień, zużywa tylko 0,24 jednostki energii elektrycznej dziennie. A to 1 kWh w 4 dni.</p><h2>Idealna temperatura do spania</h2><p>Temperatura sofy jest regulowana przez górną aluminiową płytę. Na jej powierzchni znajduje się wodoodporna mata wypełniona żelem chłodzącym. Podkładka żelowa jest odporna na plamy i zarysowania. Inteligentna sofa może automatycznie schłodzić matę o 9 stopni lub podgrzać ją o 12 stopni w zależności od temperatury otoczenia. W ten sposób ani kotom, ani małym psom nie będzie, ani gorąco, ani zimno. Możesz także ręcznie regulować temperaturę sofy w zakresie od 20 °C do 38 °C. Jeśli znasz tryb snu swojego zwierzaka, możesz również ustawić minutnik, aby móc włączać i wyłączać sofę o ustalonej godzinie.</p><h2>Bez uszkodzeń dzięki wytrzymałej macie żelowej</h2><p>Komfort Twojego zwierzaka gwarantuje mata chłodząca wypełniona żelem. Jest wodoodporna i odporna na zarysowania, więc nie musisz się martwić o przypadkowe uszkodzenia. A jeśli coś stanie się z matą, można ją łatwo wymienić.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>1 szt</p></li><li><p>Wysokość:</p><p>29.6 cm</p></li><li><p>Szerokość:</p><p>43.4 cm</p></li><li><p>Głębokość:</p><p>43.1 cm</p></li><li><p>Waga:</p><p>3.45 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63053.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63054.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63055.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63056.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63057.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63058.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63059.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63053.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63054.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63055.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63056.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63057.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63058.webp",
-        "galerie/t/tesla-smart-sofa-dla-zwierzat_63059.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Akcesoria dla zwierząt"
+  ],
+  "id": "17209",
+  "code": "TSL-PC-PS300",
+  "name": "Tesla Smart Sofa dla zwierząt PS300",
+  "price": 649.0,
+  "description": "<h2>Dla wygodnego i przytulnego snu Twoich mniejszych czworonożnych przyjaciół</h2><p>Zapewnij swoim zwierzętom komfort w postaci eleganckiej sofy z regulatorem temperatury i zadbaj o to, aby koty lub małe rasy psów czuły się dobrze bez względu na pogodę na zewnątrz.</p><h2>Komfort dla tych, którzy nas uszczęśliwiają</h2><p>Nasi mali czworonożni przyjaciele często mają zupełnie inne wymagania dotyczące temperatury otoczenia niż my. Dlatego TESLA stworzyła sofę dla zwierząt domowych, której główną cechą jest automatyczna lub ręczna zmiana temperatury w zależności od otoczenia, lub wstępnie zdefiniowanych ustawień.</p><h2>Inteligentny i ekonomiczny ekosystem dla ludzi i zwierząt</h2><p>Linia produktów TESLA Smart dla zwierząt domowych jest w stanie ułatwić życie wszystkim właścicielom. Dzięki inteligentnym fontannom, karmnikom, zabawkom i innym podobnym produktom będziesz mógł obserwować aktywność swoich zwierząt przez całą dobę, nawet z dala od nich. Ponadto produkty TESLA Smart są energooszczędne, więc nie musisz się martwić o gwałtowny wzrost kosztów energii. Na przykład, jeśli inteligentna sofa działa przez cały dzień, zużywa tylko 0,24 jednostki energii elektrycznej dziennie. A to 1 kWh w 4 dni.</p><h2>Idealna temperatura do spania</h2><p>Temperatura sofy jest regulowana przez górną aluminiową płytę. Na jej powierzchni znajduje się wodoodporna mata wypełniona żelem chłodzącym. Podkładka żelowa jest odporna na plamy i zarysowania. Inteligentna sofa może automatycznie schłodzić matę o 9 stopni lub podgrzać ją o 12 stopni w zależności od temperatury otoczenia. W ten sposób ani kotom, ani małym psom nie będzie, ani gorąco, ani zimno. Możesz także ręcznie regulować temperaturę sofy w zakresie od 20 °C do 38 °C. Jeśli znasz tryb snu swojego zwierzaka, możesz również ustawić minutnik, aby móc włączać i wyłączać sofę o ustalonej godzinie.</p><h2>Bez uszkodzeń dzięki wytrzymałej macie żelowej</h2><p>Komfort Twojego zwierzaka gwarantuje mata chłodząca wypełniona żelem. Jest wodoodporna i odporna na zarysowania, więc nie musisz się martwić o przypadkowe uszkodzenia. A jeśli coś stanie się z matą, można ją łatwo wymienić.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>1 szt</p></li><li><p>Wysokość:</p><p>29.6 cm</p></li><li><p>Szerokość:</p><p>43.4 cm</p></li><li><p>Głębokość:</p><p>43.1 cm</p></li><li><p>Waga:</p><p>3.45 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63053.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63054.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63055.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63056.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63057.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63058.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63059.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63053.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63054.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63055.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63056.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63057.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63058.webp",
+    "galerie/t/tesla-smart-sofa-dla-zwierzat_63059.webp"
+  ],
+  "manufacturer": "Tesla"
 }

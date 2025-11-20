@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Akcesoria do monitorów"
-    ],
-    "id": "15614",
-    "code": "C14091ABK",
-    "name": "Kabel USB-C - USB-C Unitek 5Gbps 4K 60Hz 20V/5A - 2m",
-    "price": 60.0,
-    "description": "<p>Długi przewód USB-C, który umożliwia bardzo szybki transfer danych 5 Gbit na sekundę, video 4K@60 Hz i zasilanie Power Delivery z mocą nawet 100 W. Wtyki USB-C pasują do nowoczesnych ultrabooków, nowych smartfonów i szybkich dysków zewnętrznych oraz monitorów przenośnych i stacjonarnych.</p><h2>Możliwości USB typu C</h2><p>Kabel USB jest zgodny ze specyfikacją USB SuperSpeed 3.1 Gen 1, co oznacza możliwość przesyłania danych z przepustowością 5 Gbit na sekundę. Z takimi możliwościami synchronizowanie plików w urządzeniach, kopiowanie dysku czy zdjęć trwa dosłownie moment, a ponadto przewód może służyć jako doskonały kabel do video.</p><h2>Kabel USB-C do monitora</h2><p>Dwumetrowy przewód USB-C na co dzień sprawdzi się jako elegancki przewód łączący komputer (np. MacBook Pro 2019) z monitorem 4K, a na wyjazdach do podłączenia smartfona (np. Samsung Galaxy) lub tabletu do hotelowego telewizora. Obraz w rozdzielczości 4K lub 2K przy próbkowaniu 60 Hz w niczym nie ustępuje jakości tym przesyłanym przez kabel HDMI czy DisplayPort. Aby skorzystać z tej opcji, port USB-C w urządzeniu musi obsługiwać Display Alt Mode lub być kompatybilny z Thunderbolt 3.</p><h2>Szybkie ładowanie</h2><p>Z tym kablem w pełni wykorzystasz możliwości swoich urządzeń z Quick Charge 3.0 i wyższym. Przewodzi prąd o mocy 20 V/ 5 A, co w praktyce oznacza naładowanie standardowego smartfona do 50% w zaledwie 15 minut. Kabel z USB-C po obu stronach nadaje się do używania z mocnymi ładowarkami z Power Delivery. Ta technologia umożliwia ładowanie i zasilanie laptopa z mocą nawet 100 W z użyciem małej, uniwersalnej ładowarki zamiast dużego zasilacza.</p><h2>Solidne wykonanie</h2><p>Wtyki przewodu zamknięto w solidnych aluminiowych obudowach. Wewnątrz nich zamontowano chip E-MARK, który jest niezbędny w tak mocnych przewodach i odpowiada za dobranie odpowiednich parametrów prądu. Ładowanie i synchronizacja są szybkie, stabilne i przede wszystkim bezpieczne.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Maksymalna moc ładowania: 100 W Power Delivery</li><li>Kabel type-c, 2 metry, aluminiowe końcówki</li><li>Specyfikacja USB 3.1 Gen 1</li><li>Video 4K @ 60 Hz</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc (W)</p><p>100 W</p></li><li><p>Pozłacane końcówki</p><p>nie</p></li><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>Maksymalna rozdzielczość</p><p>4K</p></li><li><p>Możliwość pracy dwukierunkowej</p><p>tak</p></li><li><p>Oplot</p><p>nie</p></li><li><p>Przewód płaski</p><p>nie</p></li><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Standard USB</p><p>USB 10Gbps</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Złącze 2</p><p>Wtyk USB-C</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55585.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55587.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55586.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55585.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55587.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55586.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Akcesoria do monitorów"
+  ],
+  "id": "15614",
+  "code": "C14091ABK",
+  "name": "Kabel USB-C - USB-C Unitek 5Gbps 4K 60Hz 20V/5A - 2m",
+  "price": 60.0,
+  "description": "<p>Długi przewód USB-C, który umożliwia bardzo szybki transfer danych 5 Gbit na sekundę, video 4K@60 Hz i zasilanie Power Delivery z mocą nawet 100 W. Wtyki USB-C pasują do nowoczesnych ultrabooków, nowych smartfonów i szybkich dysków zewnętrznych oraz monitorów przenośnych i stacjonarnych.</p><h2>Możliwości USB typu C</h2><p>Kabel USB jest zgodny ze specyfikacją USB SuperSpeed 3.1 Gen 1, co oznacza możliwość przesyłania danych z przepustowością 5 Gbit na sekundę. Z takimi możliwościami synchronizowanie plików w urządzeniach, kopiowanie dysku czy zdjęć trwa dosłownie moment, a ponadto przewód może służyć jako doskonały kabel do video.</p><h2>Kabel USB-C do monitora</h2><p>Dwumetrowy przewód USB-C na co dzień sprawdzi się jako elegancki przewód łączący komputer (np. MacBook Pro 2019) z monitorem 4K, a na wyjazdach do podłączenia smartfona (np. Samsung Galaxy) lub tabletu do hotelowego telewizora. Obraz w rozdzielczości 4K lub 2K przy próbkowaniu 60 Hz w niczym nie ustępuje jakości tym przesyłanym przez kabel HDMI czy DisplayPort. Aby skorzystać z tej opcji, port USB-C w urządzeniu musi obsługiwać Display Alt Mode lub być kompatybilny z Thunderbolt 3.</p><h2>Szybkie ładowanie</h2><p>Z tym kablem w pełni wykorzystasz możliwości swoich urządzeń z Quick Charge 3.0 i wyższym. Przewodzi prąd o mocy 20 V/ 5 A, co w praktyce oznacza naładowanie standardowego smartfona do 50% w zaledwie 15 minut. Kabel z USB-C po obu stronach nadaje się do używania z mocnymi ładowarkami z Power Delivery. Ta technologia umożliwia ładowanie i zasilanie laptopa z mocą nawet 100 W z użyciem małej, uniwersalnej ładowarki zamiast dużego zasilacza.</p><h2>Solidne wykonanie</h2><p>Wtyki przewodu zamknięto w solidnych aluminiowych obudowach. Wewnątrz nich zamontowano chip E-MARK, który jest niezbędny w tak mocnych przewodach i odpowiada za dobranie odpowiednich parametrów prądu. Ładowanie i synchronizacja są szybkie, stabilne i przede wszystkim bezpieczne.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Maksymalna moc ładowania: 100 W Power Delivery</li><li>Kabel type-c, 2 metry, aluminiowe końcówki</li><li>Specyfikacja USB 3.1 Gen 1</li><li>Video 4K @ 60 Hz</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc (W)</p><p>100 W</p></li><li><p>Pozłacane końcówki</p><p>nie</p></li><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>Maksymalna rozdzielczość</p><p>4K</p></li><li><p>Możliwość pracy dwukierunkowej</p><p>tak</p></li><li><p>Oplot</p><p>nie</p></li><li><p>Przewód płaski</p><p>nie</p></li><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Standard USB</p><p>USB 10Gbps</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Złącze 2</p><p>Wtyk USB-C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55585.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55587.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55586.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55585.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55587.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-5gbp_55586.webp"
+  ],
+  "manufacturer": "Unitek"
 }

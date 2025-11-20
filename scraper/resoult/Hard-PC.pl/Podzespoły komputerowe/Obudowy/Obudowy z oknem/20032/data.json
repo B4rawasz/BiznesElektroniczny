@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy z oknem"
-    ],
-    "id": "20032",
-    "code": "0000009388",
-    "name": "Obudowa Montech X3 Mesh RGB White",
-    "price": 228.9,
-    "description": "<h2>Obudowa do komputera Montech X3 Mesh White</h2><p>Odkryj obudowę Montech X3 Mesh White — białą konstrukcję Midi Tower zaprojektowaną dla optymalnego przepływu powietrza dzięki siatkowemu panelowi przedniemu. W zestawie aż 6 fabrycznie zainstalowanych wentylatorów RGB (3x 140mm z przodu, 3x 120mm góra/tył) dla świetnego chłodzenia i wyglądu. Kompatybilna z płytami ATX, Micro-ATX, Mini-ITX, GPU do 305mm i coolerami CPU do 160mm. Oferuje USB 3.0, filtry przeciwkurzowe i montaż 4 dysków SSD.</p><h3>Bezkonkurencyjny Stosunek Ceny do Wydajności</h3><p>Montech X3 to nie tylko kolejna obudowa gamingowa PC — to ulepszenie pod każdym względem w porównaniu do poprzednich modeli serii X. Model X3 zapewnia najlepszy stosunek ceny do wydajności w ofercie Montech!</p><h3>Wysoki Przepływ Powietrza</h3><p>Trzy przednie wentylatory 140mm w Montech X3 gwarantują potężny wlot powietrza. W połączeniu z fabrycznie zainstalowanymi wentylatorami na górze i z tyłu, tworzą zoptymalizowany system chłodzenia.</p><h3>Pokaz Podświetlenia RGB</h3><p>Wszystkie sześć fabrycznie zainstalowanych wentylatorów posiada efektowne, stałe podświetlenie RGB. Możesz łatwo włączyć lub wyłączyć oświetlenie za pomocą dedykowanego przycisku LED.<br/><strong>Uwaga:</strong> Podświetlenie ma stały tryb (nie jest adresowalne), ale można je całkowicie wyłączyć.</p><h3>Pełny Widok Panoramiczny</h3><p>Montech X3 wyposażono w boczny panel z hartowanego szkła, oferujący pełny panoramiczny widok. Dzięki niemu możesz z dumą prezentować komponenty swojego zestawu i efektowne podświetlenie RGB.</p><h3>Wygodniej i Bezpieczniej</h3><p>Unikalny, uchylny (na zawiasach) panel boczny ze szkła hartowanego jest nie tylko łatwiejszy w demontażu. Brak otworów montażowych znacząco zwiększa jego wytrzymałość i bezpieczeństwo użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Sześć fabrycznie zainstalowanych wentylatorów RGB ze stałym oświetleniem</li><li>Boczny panel z hartowanego szkła, uchylny</li><li>Wszechstronne opcje chłodzenia</li><li>Szerokie wsparcie dla komponentów</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Midi Tower</p></li><li><p>Standard zasilacza</p><p>ATX</p></li><li><p>Miejsce na zasilacz</p><p>Tył obudowy</p></li><li><p>Format płyty głównej</p><p>ATX, MicroATX, Mini-ITX</p></li><li><p>Wysokość</p><p>480 mm</p></li><li><p>Długość</p><p>370 mm</p></li><li><p>Szerokość</p><p>210 mm</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Kolor przedniego panelu</p><p>Biały</p></li><li><p>Złącza przedniego panelu</p><p>Przycisk zasilania, Mikrofon, Audio, 2x USB 2.0, Przycisk resetowania, Przycisk LED, 1x USB 3.0</p></li><li><p>Boczny panel z oknem</p><p>Tak (hartowane szkło z lewej strony)</p></li><li><p>Kolor wnętrza obudowy</p><p>Czarny</p></li><li><p>Ilość wewnętrznych zatok 3.5</p><p>2 szt</p></li><li><p>Ilość wewnętrznych zatok 2.5</p><p>4 szt</p></li><li><p>Sloty kart rozszerzeń</p><p>7 szt</p></li><li><p>Wentylatory zainstalowane</p><p>6 szt</p></li><li><p>Wentylatory maksymalna ilość</p><p>6 szt</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak</p></li><li><p>Limit wysokości chłodzenia CPU</p><p>160 mm</p></li><li><p>Limit długości karty graficznej</p><p>305 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/montech.jpg",
-    "images": [
-        "galerie/o/obudowa-montech-x3-mesh-white_74915.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74916.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74917.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74918.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74919.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74920.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74921.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74922.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74915.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74916.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74917.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74918.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74919.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74920.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74921.webp",
-        "galerie/o/obudowa-montech-x3-mesh-white_74922.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "20032",
+  "code": "0000009388",
+  "name": "Obudowa Montech X3 Mesh RGB White",
+  "price": 228.9,
+  "description": "<h2>Obudowa do komputera Montech X3 Mesh White</h2><p>Odkryj obudowę Montech X3 Mesh White — białą konstrukcję Midi Tower zaprojektowaną dla optymalnego przepływu powietrza dzięki siatkowemu panelowi przedniemu. W zestawie aż 6 fabrycznie zainstalowanych wentylatorów RGB (3x 140mm z przodu, 3x 120mm góra/tył) dla świetnego chłodzenia i wyglądu. Kompatybilna z płytami ATX, Micro-ATX, Mini-ITX, GPU do 305mm i coolerami CPU do 160mm. Oferuje USB 3.0, filtry przeciwkurzowe i montaż 4 dysków SSD.</p><h3>Bezkonkurencyjny Stosunek Ceny do Wydajności</h3><p>Montech X3 to nie tylko kolejna obudowa gamingowa PC — to ulepszenie pod każdym względem w porównaniu do poprzednich modeli serii X. Model X3 zapewnia najlepszy stosunek ceny do wydajności w ofercie Montech!</p><h3>Wysoki Przepływ Powietrza</h3><p>Trzy przednie wentylatory 140mm w Montech X3 gwarantują potężny wlot powietrza. W połączeniu z fabrycznie zainstalowanymi wentylatorami na górze i z tyłu, tworzą zoptymalizowany system chłodzenia.</p><h3>Pokaz Podświetlenia RGB</h3><p>Wszystkie sześć fabrycznie zainstalowanych wentylatorów posiada efektowne, stałe podświetlenie RGB. Możesz łatwo włączyć lub wyłączyć oświetlenie za pomocą dedykowanego przycisku LED.<br/><strong>Uwaga:</strong> Podświetlenie ma stały tryb (nie jest adresowalne), ale można je całkowicie wyłączyć.</p><h3>Pełny Widok Panoramiczny</h3><p>Montech X3 wyposażono w boczny panel z hartowanego szkła, oferujący pełny panoramiczny widok. Dzięki niemu możesz z dumą prezentować komponenty swojego zestawu i efektowne podświetlenie RGB.</p><h3>Wygodniej i Bezpieczniej</h3><p>Unikalny, uchylny (na zawiasach) panel boczny ze szkła hartowanego jest nie tylko łatwiejszy w demontażu. Brak otworów montażowych znacząco zwiększa jego wytrzymałość i bezpieczeństwo użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Sześć fabrycznie zainstalowanych wentylatorów RGB ze stałym oświetleniem</li><li>Boczny panel z hartowanego szkła, uchylny</li><li>Wszechstronne opcje chłodzenia</li><li>Szerokie wsparcie dla komponentów</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Midi Tower</p></li><li><p>Standard zasilacza</p><p>ATX</p></li><li><p>Miejsce na zasilacz</p><p>Tył obudowy</p></li><li><p>Format płyty głównej</p><p>ATX, MicroATX, Mini-ITX</p></li><li><p>Wysokość</p><p>480 mm</p></li><li><p>Długość</p><p>370 mm</p></li><li><p>Szerokość</p><p>210 mm</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Kolor przedniego panelu</p><p>Biały</p></li><li><p>Złącza przedniego panelu</p><p>Przycisk zasilania, Mikrofon, Audio, 2x USB 2.0, Przycisk resetowania, Przycisk LED, 1x USB 3.0</p></li><li><p>Boczny panel z oknem</p><p>Tak (hartowane szkło z lewej strony)</p></li><li><p>Kolor wnętrza obudowy</p><p>Czarny</p></li><li><p>Ilość wewnętrznych zatok 3.5</p><p>2 szt</p></li><li><p>Ilość wewnętrznych zatok 2.5</p><p>4 szt</p></li><li><p>Sloty kart rozszerzeń</p><p>7 szt</p></li><li><p>Wentylatory zainstalowane</p><p>6 szt</p></li><li><p>Wentylatory maksymalna ilość</p><p>6 szt</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak</p></li><li><p>Limit wysokości chłodzenia CPU</p><p>160 mm</p></li><li><p>Limit długości karty graficznej</p><p>305 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/montech.jpg",
+  "images": [
+    "galerie/o/obudowa-montech-x3-mesh-white_74915.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74916.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74917.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74918.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74919.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74920.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74921.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74922.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74915.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74916.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74917.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74918.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74919.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74920.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74921.webp",
+    "galerie/o/obudowa-montech-x3-mesh-white_74922.webp"
+  ],
+  "manufacturer": "Montech"
 }

@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy z oknem"
-    ],
-    "id": "15396",
-    "code": "CM-H91FB-01",
-    "name": "Obudowa NZXT H9 Flow Tempered Glass Black",
-    "price": 689.9,
-    "description": "OPIS <p>H9 Flow został zaprojektowany do chłodzenia potężnych kart graficznych dzięki swoim rozbudowanym możliwościom termicznym, obejmującym pojemność dla dziesięciu wentylatorów i liczne opcje montażu radiatora 360 mm, a perforowany panel górny zapewnia jeszcze lepsze chłodzenie.</p><p>Unikalny, nieprzerwany szklany panel zapewniający wyraźny widok wnętrza</p><p>Intuicyjne zarządzanie kablami i konstrukcja dwukomorowa</p><p>Miejsce na dziesięć wentylatorów lub trzy radiatory 360 mm</p><p>Perforowany górny panel dla lepszego chłodzenia</p><p>Bezpośredni przepływ powietrza do GPU w celu obsługi komponentów o dużej mocy</p><p>Zawiera cztery ciche wentylatory serii F 120 mm z cichym przepływem powietrza</p><h2>Miejsce na GPU</h2><p>H9 Flow ma pojemność na 435 mm GPU, oferując miejsce na najnowsze karty NVIDIA z serii 40 i AMD z serii 7000.</p><h2>Wydajne chłodzenie</h2><p>H9 Flow ma miejsce na 10 wentylatorów. Z możliwością zamontowania wentylatorów 3x120mm z boku, 3x120mm lub 2x140mm na górze i na dole oraz 1x120mm z tyłu.</p><h2>Miejsce na radiatory</h2><p>H9 Flow ma miejsce na chłodzenie wodne o średnicy do 360 mm na górze, na dole lub z boku oraz radiator o średnicy do 120 mm z tyłu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Standard płyty głównej</p><p>Mini-ITX, Micro-ATX, ATX</p></li><li><p>Kompatybilny standard zasilacza</p><p>ATX</p></li><li><p>Położenie zasilacza</p><p>Góra</p></li><li><p>Maksymalna długość zasilacza</p><p>200 mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>165 mm</p></li><li><p>Maksymalna długość karty graficznej GPU</p><p>435 mm</p></li><li><p>Panel I/O</p><p>USB 3.1 Gen2 Typ-C x1<br/>USB 3.1 Gen1 Typ-A x2<br/>Mini Jack x1</p></li><li><p>Rodzaj panelu bocznego</p><p>Szkło hartowane<br/>Perforacja</p></li><li><p>Rodzaj panelu przedniego</p><p>Szkło hartowane</p></li><li><p>Liczba zainstalowanych wentylatorów</p><p>4</p></li><li><p>Zainstalowane wentylatory</p><p>3x 120 mm RGB<br/>1x 120 mm</p></li><li><p>Maksymalna liczba wentylatorów</p><p>10</p></li><li><p>Możliwość montażu wentylatorów - bok</p><p>3x 120 mm</p></li><li><p>Możliwość montażu wentylatorów - dół</p><p>3x 120 mm<br/>2x 140 mm</p></li><li><p>Możliwość montażu wentylatorów - góra</p><p>3x 120 mm<br/>2x 140 mm</p></li><li><p>Możliwość montażu wentylatorów - tył</p><p>1x 120 mm</p></li><li><p>Prędkość obrotowa wentylatora +/-10%</p><p>1800 RPM<br/>1200 RPM</p></li><li><p>Żywotność wentylatora</p><p>60000 h</p></li><li><p>Przepływ powietrza wentylatora</p><p>62.18 CFM<br/>48,58 CFM</p></li><li><p>Ciśnienie statyczne wentylatora</p><p>2.42 mmH2O</p></li><li><p>Poziom hałasu wentylatora</p><p>29 dB</p></li><li><p>Kontroler wentylatorów</p><p>Tak</p></li><li><p>Możliwość instalacji chłodzenia wodnego (AIO)</p><p>Tak</p></li><li><p>Możliwość montażu chłodzenia cieczą - bok</p><p>360 mm/240 mm/120 mm</p></li><li><p>Możliwość montażu chłodzenia cieczą - dół</p><p>360 mm/280 mm/240 mm/140 mm/120 mm</p></li><li><p>Możliwość montażu chłodzenia cieczą - góra</p><p>360 mm/280 mm/240 mm/140 mm/120 mm</p></li><li><p>Możliwość montażu chłodzenia cieczą - tył</p><p>120 mm</p></li><li><p>Podświetlenie</p><p>Tak</p></li><li><p>Kolor podświetlenia</p><p>RGB</p></li><li><p>Elementy podświetlane</p><p>Wentylator</p></li><li><p>Liczba gniazd rozszerzeń</p><p>7</p></li><li><p>Liczba miejsc na dyski 2.5\" (SSD/HDD)</p><p>6</p></li><li><p>Liczba miejsc na dyski 3.5\" (SSD/HDD)</p><p>2</p></li><li><p>Liczba miejsc hybrydowych na dyski (SSD/HDD)</p><p>2</p></li><li><p>Komora zasilacza</p><p>Tak</p></li><li><p>Zasilacz w zestawie</p><p>Nie</p></li><li><p>Zabezpieczenia</p><p>Filtry przeciwkurzowe</p></li><li><p>Materiał</p><p>Szkło hartowane, Stal</p></li><li><p>Długość</p><p>466 mm</p></li><li><p>Szerokość</p><p>290 mm</p></li><li><p>Wysokość</p><p>495 mm</p></li><li><p>Waga</p><p>13.1 kg</p></li><li><p>Akcesoria w zestawie</p><p>Zestaw elementów montażowych<br/>Kontroler RGBM<br/>Instrukcja montażu</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>NZXT</p></li><li><p>Dane producenta</p><p>NZXT Europe GmbH, Ammerthalstr. 32 85551, Kirchheim b. München, Bayern Germany , privacy@nzxt.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/nzxt.jpg",
-    "images": [
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55106.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55107.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55108.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55109.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55110.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55111.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55106.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55107.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55108.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55109.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55110.webp",
-        "galerie/o/obudowa-nzxt-h9-flow-tempered_55111.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "15396",
+  "code": "CM-H91FB-01",
+  "name": "Obudowa NZXT H9 Flow Tempered Glass Black",
+  "price": 689.9,
+  "description": "OPIS <p>H9 Flow został zaprojektowany do chłodzenia potężnych kart graficznych dzięki swoim rozbudowanym możliwościom termicznym, obejmującym pojemność dla dziesięciu wentylatorów i liczne opcje montażu radiatora 360 mm, a perforowany panel górny zapewnia jeszcze lepsze chłodzenie.</p><p>Unikalny, nieprzerwany szklany panel zapewniający wyraźny widok wnętrza</p><p>Intuicyjne zarządzanie kablami i konstrukcja dwukomorowa</p><p>Miejsce na dziesięć wentylatorów lub trzy radiatory 360 mm</p><p>Perforowany górny panel dla lepszego chłodzenia</p><p>Bezpośredni przepływ powietrza do GPU w celu obsługi komponentów o dużej mocy</p><p>Zawiera cztery ciche wentylatory serii F 120 mm z cichym przepływem powietrza</p><h2>Miejsce na GPU</h2><p>H9 Flow ma pojemność na 435 mm GPU, oferując miejsce na najnowsze karty NVIDIA z serii 40 i AMD z serii 7000.</p><h2>Wydajne chłodzenie</h2><p>H9 Flow ma miejsce na 10 wentylatorów. Z możliwością zamontowania wentylatorów 3x120mm z boku, 3x120mm lub 2x140mm na górze i na dole oraz 1x120mm z tyłu.</p><h2>Miejsce na radiatory</h2><p>H9 Flow ma miejsce na chłodzenie wodne o średnicy do 360 mm na górze, na dole lub z boku oraz radiator o średnicy do 120 mm z tyłu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Standard płyty głównej</p><p>Mini-ITX, Micro-ATX, ATX</p></li><li><p>Kompatybilny standard zasilacza</p><p>ATX</p></li><li><p>Położenie zasilacza</p><p>Góra</p></li><li><p>Maksymalna długość zasilacza</p><p>200 mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>165 mm</p></li><li><p>Maksymalna długość karty graficznej GPU</p><p>435 mm</p></li><li><p>Panel I/O</p><p>USB 3.1 Gen2 Typ-C x1<br/>USB 3.1 Gen1 Typ-A x2<br/>Mini Jack x1</p></li><li><p>Rodzaj panelu bocznego</p><p>Szkło hartowane<br/>Perforacja</p></li><li><p>Rodzaj panelu przedniego</p><p>Szkło hartowane</p></li><li><p>Liczba zainstalowanych wentylatorów</p><p>4</p></li><li><p>Zainstalowane wentylatory</p><p>3x 120 mm RGB<br/>1x 120 mm</p></li><li><p>Maksymalna liczba wentylatorów</p><p>10</p></li><li><p>Możliwość montażu wentylatorów - bok</p><p>3x 120 mm</p></li><li><p>Możliwość montażu wentylatorów - dół</p><p>3x 120 mm<br/>2x 140 mm</p></li><li><p>Możliwość montażu wentylatorów - góra</p><p>3x 120 mm<br/>2x 140 mm</p></li><li><p>Możliwość montażu wentylatorów - tył</p><p>1x 120 mm</p></li><li><p>Prędkość obrotowa wentylatora +/-10%</p><p>1800 RPM<br/>1200 RPM</p></li><li><p>Żywotność wentylatora</p><p>60000 h</p></li><li><p>Przepływ powietrza wentylatora</p><p>62.18 CFM<br/>48,58 CFM</p></li><li><p>Ciśnienie statyczne wentylatora</p><p>2.42 mmH2O</p></li><li><p>Poziom hałasu wentylatora</p><p>29 dB</p></li><li><p>Kontroler wentylatorów</p><p>Tak</p></li><li><p>Możliwość instalacji chłodzenia wodnego (AIO)</p><p>Tak</p></li><li><p>Możliwość montażu chłodzenia cieczą - bok</p><p>360 mm/240 mm/120 mm</p></li><li><p>Możliwość montażu chłodzenia cieczą - dół</p><p>360 mm/280 mm/240 mm/140 mm/120 mm</p></li><li><p>Możliwość montażu chłodzenia cieczą - góra</p><p>360 mm/280 mm/240 mm/140 mm/120 mm</p></li><li><p>Możliwość montażu chłodzenia cieczą - tył</p><p>120 mm</p></li><li><p>Podświetlenie</p><p>Tak</p></li><li><p>Kolor podświetlenia</p><p>RGB</p></li><li><p>Elementy podświetlane</p><p>Wentylator</p></li><li><p>Liczba gniazd rozszerzeń</p><p>7</p></li><li><p>Liczba miejsc na dyski 2.5\" (SSD/HDD)</p><p>6</p></li><li><p>Liczba miejsc na dyski 3.5\" (SSD/HDD)</p><p>2</p></li><li><p>Liczba miejsc hybrydowych na dyski (SSD/HDD)</p><p>2</p></li><li><p>Komora zasilacza</p><p>Tak</p></li><li><p>Zasilacz w zestawie</p><p>Nie</p></li><li><p>Zabezpieczenia</p><p>Filtry przeciwkurzowe</p></li><li><p>Materiał</p><p>Szkło hartowane, Stal</p></li><li><p>Długość</p><p>466 mm</p></li><li><p>Szerokość</p><p>290 mm</p></li><li><p>Wysokość</p><p>495 mm</p></li><li><p>Waga</p><p>13.1 kg</p></li><li><p>Akcesoria w zestawie</p><p>Zestaw elementów montażowych<br/>Kontroler RGBM<br/>Instrukcja montażu</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>NZXT</p></li><li><p>Dane producenta</p><p>NZXT Europe GmbH, Ammerthalstr. 32 85551, Kirchheim b. München, Bayern Germany , privacy@nzxt.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/nzxt.jpg",
+  "images": [
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55106.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55107.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55108.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55109.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55110.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55111.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55106.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55107.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55108.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55109.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55110.webp",
+    "galerie/o/obudowa-nzxt-h9-flow-tempered_55111.webp"
+  ],
+  "manufacturer": "NZXT"
 }

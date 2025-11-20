@@ -1,20 +1,21 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18131",
-    "code": "GAJO-705",
-    "name": "Przycisk MOZA E-Stop Switch",
-    "price": 257.9,
-    "description": "<h2>Wyłącznik awaryjny MOZA</h2><p>Przełącznik bezpieczeństwa MOZA E-stop gwarantuje bezpieczeństwo, dzięki czemu możesz cieszyć się wyścigami i symulacjami lotów ze spokojem ducha.</p><h2>Spersonalizowana ochrona z wieloma trybami</h2><p>Przełącznik awaryjny MOZA oferuje regulowane tryby ochrony dostosowane do rodzaju używanego symulatora, zapewniając większe bezpieczeństwo i kontrolę. Dla sprzętu do symulacji wyścigów:</p><p>Tryb 1: Podłącz przełącznik MOZA E-stop bezpośrednio do komputera za pomocą kabla USB. Naciśnięcie przełącznika powoduje jedynie dezaktywację sprzężenia zwrotnego siły, które jest natychmiast przywracane po zwolnieniu.</p><p>Tryb 2: Podłącz przełącznik MOZA E-stop do DASH na podstawie za pomocą kabla RJ11 (6 styków). Naciśnięcie przełącznika powoduje jedynie dezaktywację sprzężenia zwrotnego siły, które jest natychmiast przywracane po zwolnieniu.</p><p>Tryb 3: Podłącz przełącznik MOZA E-stop do portu E-STOP na podstawie za pomocą kabla RJ9 (4 styki). Naciśnięcie przełącznika całkowicie odcina zasilanie, a po zwolnieniu należy ponownie włączyć bazę, naciskając przycisk zasilania na podstawie. Niektóre gry mogą wymagać ponownego uruchomienia, aby przywrócić sprzężenie zwrotne siły.</p><p>W przypadku sprzętu do symulacji lotu: Przełącznik MOZA E-stop można podłączyć bezpośrednio do komputera za pomocą kabla USB. Naciśnięcie przełącznika dezaktywuje sprzężenie zwrotne siły i jest ono przywracane natychmiast po zwolnieniu.</p><h2>Przycisk i obudowa ze stopu aluminium</h2><p>Wyłącznik awaryjny MOZA wykonany jest ze stopu aluminium, łączącego w sobie trwałość, styl i funkcjonalność.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>Aluminium</p></li><li><p>Zgodność</p><p>Moza R9 Rozstaw osi<br/>Moza R16 Rozstaw osi<br/>Moza R26 Rozstaw osi</p></li><li><p>Złącza</p><p>1x USB-C<br/>1x kabel RJ11 (6-pin)<br/>1x kabel RJ9 (4-pin)</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/m/moza-e-stop-switch_66773.webp",
-        "galerie/m/moza-e-stop-switch_66774.webp",
-        "galerie/m/moza-e-stop-switch_66773.webp",
-        "galerie/m/moza-e-stop-switch_66774.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18131",
+  "code": "GAJO-705",
+  "name": "Przycisk MOZA E-Stop Switch",
+  "price": 257.9,
+  "description": "<h2>Wyłącznik awaryjny MOZA</h2><p>Przełącznik bezpieczeństwa MOZA E-stop gwarantuje bezpieczeństwo, dzięki czemu możesz cieszyć się wyścigami i symulacjami lotów ze spokojem ducha.</p><h2>Spersonalizowana ochrona z wieloma trybami</h2><p>Przełącznik awaryjny MOZA oferuje regulowane tryby ochrony dostosowane do rodzaju używanego symulatora, zapewniając większe bezpieczeństwo i kontrolę. Dla sprzętu do symulacji wyścigów:</p><p>Tryb 1: Podłącz przełącznik MOZA E-stop bezpośrednio do komputera za pomocą kabla USB. Naciśnięcie przełącznika powoduje jedynie dezaktywację sprzężenia zwrotnego siły, które jest natychmiast przywracane po zwolnieniu.</p><p>Tryb 2: Podłącz przełącznik MOZA E-stop do DASH na podstawie za pomocą kabla RJ11 (6 styków). Naciśnięcie przełącznika powoduje jedynie dezaktywację sprzężenia zwrotnego siły, które jest natychmiast przywracane po zwolnieniu.</p><p>Tryb 3: Podłącz przełącznik MOZA E-stop do portu E-STOP na podstawie za pomocą kabla RJ9 (4 styki). Naciśnięcie przełącznika całkowicie odcina zasilanie, a po zwolnieniu należy ponownie włączyć bazę, naciskając przycisk zasilania na podstawie. Niektóre gry mogą wymagać ponownego uruchomienia, aby przywrócić sprzężenie zwrotne siły.</p><p>W przypadku sprzętu do symulacji lotu: Przełącznik MOZA E-stop można podłączyć bezpośrednio do komputera za pomocą kabla USB. Naciśnięcie przełącznika dezaktywuje sprzężenie zwrotne siły i jest ono przywracane natychmiast po zwolnieniu.</p><h2>Przycisk i obudowa ze stopu aluminium</h2><p>Wyłącznik awaryjny MOZA wykonany jest ze stopu aluminium, łączącego w sobie trwałość, styl i funkcjonalność.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>Aluminium</p></li><li><p>Zgodność</p><p>Moza R9 Rozstaw osi<br/>Moza R16 Rozstaw osi<br/>Moza R26 Rozstaw osi</p></li><li><p>Złącza</p><p>1x USB-C<br/>1x kabel RJ11 (6-pin)<br/>1x kabel RJ9 (4-pin)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/moza-e-stop-switch_66773.webp",
+    "galerie/m/moza-e-stop-switch_66774.webp",
+    "galerie/m/moza-e-stop-switch_66773.webp",
+    "galerie/m/moza-e-stop-switch_66774.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Akcesoria sieciowe",
-        "Karty sieciowe"
-    ],
-    "id": "19012",
-    "code": "WU1400",
-    "name": "Karta sieciowa WiFi Cudy WU1400 2,4GHz/5GHz USB 3.0",
-    "price": 59.0,
-    "description": "<h2>Wysoka prędkość Wi-Fi</h2><p>Karta sieciowa Cudy WU1400 zapewnia szybką łączność Wi-Fi AC1300. Idealna do transmisji online i gier, zwiększa wydajność internetu w domu.</p><h2>Zgodność z systemami</h2><p>WU1400 jest kompatybilna z Windows, Mac OS i Linux, co umożliwia łatwe połączenie z różnymi urządzeniami i systemami operacyjnymi.</p><h2>Złącze USB 3.0</h2><p>Zaawansowane złącze USB 3.0 zapewnia stabilne i szybkie połączenie, eliminując problemy techniczne podczas wymagających zastosowań.</p><h2>Dwuzakresowe działanie</h2><p>Karta sieciowa Cudy działa w paśmie 2,4 GHz dla większego zasięgu oraz 5 GHz dla wyższej prędkości, dostosowując się do różnych potrzeb użytkowników. Możesz zarówno przeglądać strony internetowe, jak i prowadzić streamingi online, płynnie i bez przeszkód.</p><h2>Antena o dużym zysku</h2><p>Antena w Cudy WU1400 zwiększa stabilność i zasięg połączenia, gwarantując nieprzerwaną pracę i łączność na dalekie odległości.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj</p><p>bezprzewodowa</p></li><li><p>Interfejs</p><p>USB</p></li><li><p>Obsługiwany standard bezprzewodowy</p><p>Wi-Fi 5 (802.11 a/b/g/n/ac)</p></li><li><p>Rodzaje wejść/wyjść</p><p>USB 3.2 Gen. 1 - 1 szt.</p></li><li><p>Antena</p><p>zewnętrzna - 1 szt.</p></li><li><p>Zysk energetyczny anteny</p><p>5 dBi</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz; 5 GHz</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>do 1300 Mb/s</p></li><li><p>Obsługiwane systemy operacyjne</p><p>Windows (Vista; 7; 8; 8.1; 10), Mac OS i Linux</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/cudy.jpg",
-    "images": [
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69929.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69930.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69931.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69932.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69933.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69934.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69935.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69936.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69929.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69930.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69931.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69932.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69933.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69934.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69935.webp",
-        "galerie/k/karta-sieciowa-wifi-cudy-wu14_69936.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Karty sieciowe"
+  ],
+  "id": "19012",
+  "code": "WU1400",
+  "name": "Karta sieciowa WiFi Cudy WU1400 2,4GHz/5GHz USB 3.0",
+  "price": 59.0,
+  "description": "<h2>Wysoka prędkość Wi-Fi</h2><p>Karta sieciowa Cudy WU1400 zapewnia szybką łączność Wi-Fi AC1300. Idealna do transmisji online i gier, zwiększa wydajność internetu w domu.</p><h2>Zgodność z systemami</h2><p>WU1400 jest kompatybilna z Windows, Mac OS i Linux, co umożliwia łatwe połączenie z różnymi urządzeniami i systemami operacyjnymi.</p><h2>Złącze USB 3.0</h2><p>Zaawansowane złącze USB 3.0 zapewnia stabilne i szybkie połączenie, eliminując problemy techniczne podczas wymagających zastosowań.</p><h2>Dwuzakresowe działanie</h2><p>Karta sieciowa Cudy działa w paśmie 2,4 GHz dla większego zasięgu oraz 5 GHz dla wyższej prędkości, dostosowując się do różnych potrzeb użytkowników. Możesz zarówno przeglądać strony internetowe, jak i prowadzić streamingi online, płynnie i bez przeszkód.</p><h2>Antena o dużym zysku</h2><p>Antena w Cudy WU1400 zwiększa stabilność i zasięg połączenia, gwarantując nieprzerwaną pracę i łączność na dalekie odległości.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj</p><p>bezprzewodowa</p></li><li><p>Interfejs</p><p>USB</p></li><li><p>Obsługiwany standard bezprzewodowy</p><p>Wi-Fi 5 (802.11 a/b/g/n/ac)</p></li><li><p>Rodzaje wejść/wyjść</p><p>USB 3.2 Gen. 1 - 1 szt.</p></li><li><p>Antena</p><p>zewnętrzna - 1 szt.</p></li><li><p>Zysk energetyczny anteny</p><p>5 dBi</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz; 5 GHz</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>do 1300 Mb/s</p></li><li><p>Obsługiwane systemy operacyjne</p><p>Windows (Vista; 7; 8; 8.1; 10), Mac OS i Linux</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cudy.jpg",
+  "images": [
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69929.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69930.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69931.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69932.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69933.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69934.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69935.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69936.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69929.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69930.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69931.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69932.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69933.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69934.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69935.webp",
+    "galerie/k/karta-sieciowa-wifi-cudy-wu14_69936.webp"
+  ],
+  "manufacturer": "Cudy"
 }

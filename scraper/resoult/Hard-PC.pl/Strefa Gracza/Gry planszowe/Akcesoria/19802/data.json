@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Gry planszowe",
-        "Akcesoria"
-    ],
-    "id": "19802",
-    "code": "9918995305006",
-    "name": "Farbka Citadel Agrax Earthshade 18ml (shade)",
-    "price": 23.9,
-    "description": "<h2>Agrax Earthshade – Wash do podkreślania detali i cieniowania</h2><p>Agrax Earthshade to jeden z najbardziej popularnych washy z oferty Citadel, zaprojektowany do łatwego cieniowania detali i podkreślania tekstur na modelach. Dzięki swojej gęstej formule, ta farba doskonale wnika w zagłębienia i detale, tworząc naturalne cieniowanie na powierzchniach, takich jak zbroje, skóra, broni czy elementy scenerii.</p><p>Charakteryzuje się ciemnym, brązowym odcieniem, który doskonale nadaje się do uzyskania efektu zużycia i zabrudzenia na różnych materiałach. Agrax Earthshade jest świetnym wyborem do uzyskiwania efektów „zużycia” na metalach, drewnie, skórze, a także do malowania głębokich cieni w detalach, takich jak twarze czy ozdoby.</p><p>Farba ta jest niezwykle łatwa w aplikacji – wystarczy nałożyć ją na pomalowany wcześniej model, a wash samodzielnie rozprowadzi się po powierzchni, tworząc naturalne, płynne przejścia kolorystyczne. Agrax Earthshade doskonale współpracuje z innymi farbami Citadel, nadając modelom głębię i realizm.</p><p>Agrax Earthshade to obowiązkowy produkt dla każdego hobbysty, który chce uzyskać efekt realistycznego cieniowania przy minimalnym nakładzie pracy.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
-    "manufacturer_img": "galerie/producenci/games-workshop.jpg",
-    "images": [
-        "galerie/f/farbka-citadel-agrax-earthsha_73401.webp",
-        "galerie/f/farbka-citadel-agrax-earthsha_73401.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Gry planszowe",
+    "Akcesoria"
+  ],
+  "id": "19802",
+  "code": "9918995305006",
+  "name": "Farbka Citadel Agrax Earthshade 18ml (shade)",
+  "price": 23.9,
+  "description": "<h2>Agrax Earthshade – Wash do podkreślania detali i cieniowania</h2><p>Agrax Earthshade to jeden z najbardziej popularnych washy z oferty Citadel, zaprojektowany do łatwego cieniowania detali i podkreślania tekstur na modelach. Dzięki swojej gęstej formule, ta farba doskonale wnika w zagłębienia i detale, tworząc naturalne cieniowanie na powierzchniach, takich jak zbroje, skóra, broni czy elementy scenerii.</p><p>Charakteryzuje się ciemnym, brązowym odcieniem, który doskonale nadaje się do uzyskania efektu zużycia i zabrudzenia na różnych materiałach. Agrax Earthshade jest świetnym wyborem do uzyskiwania efektów „zużycia” na metalach, drewnie, skórze, a także do malowania głębokich cieni w detalach, takich jak twarze czy ozdoby.</p><p>Farba ta jest niezwykle łatwa w aplikacji – wystarczy nałożyć ją na pomalowany wcześniej model, a wash samodzielnie rozprowadzi się po powierzchni, tworząc naturalne, płynne przejścia kolorystyczne. Agrax Earthshade doskonale współpracuje z innymi farbami Citadel, nadając modelom głębię i realizm.</p><p>Agrax Earthshade to obowiązkowy produkt dla każdego hobbysty, który chce uzyskać efekt realistycznego cieniowania przy minimalnym nakładzie pracy.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
+  "manufacturer_img": "galerie/producenci/games-workshop.jpg",
+  "images": [
+    "galerie/f/farbka-citadel-agrax-earthsha_73401.webp",
+    "galerie/f/farbka-citadel-agrax-earthsha_73401.webp"
+  ],
+  "manufacturer": "Games Workshop"
 }

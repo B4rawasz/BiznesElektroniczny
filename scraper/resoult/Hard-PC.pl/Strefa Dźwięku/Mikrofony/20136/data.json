@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Mikrofony"
-    ],
-    "id": "20136",
-    "code": "4820216974249",
-    "name": "Mikrofon Fifine AM6",
-    "price": 279.0,
-    "description": "<h2>Mikrofon pojemnościowy FIFINE AmpliGame AM6 z redukcją szumów RGB</h2><p>FIFINE AmpliGame AM6 to mikrofon pojemnościowy skierowany przede wszystkim do graczy PC korzystających z klawiatury i myszy. Model ten oferuje funkcję balansu gry i czatu, ułatwiając sterowanie dźwiękiem podczas rozgrywki bez potrzeby korzystania z dodatkowego oprogramowania.</p><h2>Kompatybilność i zastosowanie</h2><p>Mikrofon współpracuje z systemami Windows, Mac OS oraz konsolami PlayStation 4 i 5 poprzez złącze USB. Nie obsługuje natomiast bezpośrednio konsoli Xbox. Dzięki funkcji redukcji szumów, urządzenie rekompensuje zbyt wysoką czułość mikrofonu pojemnościowego, co pozwala na czysty dźwięk nawet w hałaśliwym otoczeniu.</p><h2>Łatwe sterowanie dźwiękiem</h2><p>Za pomocą wygodnego pokrętła można bez problemu regulować głośność oraz balans między dźwiękiem gry a czatem, co pozwala na szybką i intuicyjną obsługę podczas rozgrywki, bez rozpraszania się i potrzeby korzystania z klawiatury czy myszy.</p><h2>Monitorowanie głosu w czasie rzeczywistym</h2><p>Dźwięk przesyłany jest do komputera przez USB, a jednocześnie do podłączonych słuchawek przez wyjście 3,5 mm na mikrofonie. Pozwala to na słyszenie własnego głosu bez opóźnień, co jest istotne podczas komunikacji w grach zespołowych.</p><h2>Wysoka jakość dźwięku i wygoda</h2><p>Kardioidalna charakterystyka kierunkowa mikrofonu zapewnia selektywne wychwytywanie dźwięku, minimalizując szumy tła. Model wyposażono w małomembranową kapsułę pojemnościową, która kładzie nacisk na czyste częstotliwości i efektywne tłumienie szumów otoczenia.</p><h2>Efektywne podświetlenie RGB</h2><p>Mikrofon posiada podświetlenie RGB sterowane przyciskiem pod obudową. Do dyspozycji jest 4 style podświetlenia oraz 6 schematów kolorów, co pozwala dopasować wygląd do stanowiska gamingowego bez konieczności używania dodatkowego oprogramowania.</p><h2>Minimalistyczna konfiguracja</h2><p>Urządzenie wymaga jedynie połączenia USB z komputerem oraz podłączenia przewodowego zestawu słuchawkowego do mikrofonu, co ogranicza liczbę kabli i ułatwia szybkie ustawienie sprzętu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Termin gwarancji</p><p>1 rok od daty sprzedaży</p></li><li><p>Typ</p><p>pojemnościowy</p></li><li><p>Pasmo przenoszenia</p><p>70 Hz – 20 kHz</p></li><li><p>Czułość</p><p>-42 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Częstotliwość próbkowania</p><p>48 kHz</p></li><li><p>Szybkość transmisji bitów</p><p>16-bit/24-bit</p></li><li><p>Stosunek sygnału do szumu</p><p>75 dB</p></li><li><p>Złącze</p><p>USB Type-C</p></li><li><p>Waga</p><p>0,6 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fifine.jpg",
-    "images": [
-        "galerie/m/mikrofon-fifine-am6_76827.webp",
-        "galerie/m/mikrofon-fifine-am6_76828.webp",
-        "galerie/m/mikrofon-fifine-am6_76826.webp",
-        "galerie/m/mikrofon-fifine-am6_76827.webp",
-        "galerie/m/mikrofon-fifine-am6_76828.webp",
-        "galerie/m/mikrofon-fifine-am6_76826.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "20136",
+  "code": "4820216974249",
+  "name": "Mikrofon Fifine AM6",
+  "price": 279.0,
+  "description": "<h2>Mikrofon pojemnościowy FIFINE AmpliGame AM6 z redukcją szumów RGB</h2><p>FIFINE AmpliGame AM6 to mikrofon pojemnościowy skierowany przede wszystkim do graczy PC korzystających z klawiatury i myszy. Model ten oferuje funkcję balansu gry i czatu, ułatwiając sterowanie dźwiękiem podczas rozgrywki bez potrzeby korzystania z dodatkowego oprogramowania.</p><h2>Kompatybilność i zastosowanie</h2><p>Mikrofon współpracuje z systemami Windows, Mac OS oraz konsolami PlayStation 4 i 5 poprzez złącze USB. Nie obsługuje natomiast bezpośrednio konsoli Xbox. Dzięki funkcji redukcji szumów, urządzenie rekompensuje zbyt wysoką czułość mikrofonu pojemnościowego, co pozwala na czysty dźwięk nawet w hałaśliwym otoczeniu.</p><h2>Łatwe sterowanie dźwiękiem</h2><p>Za pomocą wygodnego pokrętła można bez problemu regulować głośność oraz balans między dźwiękiem gry a czatem, co pozwala na szybką i intuicyjną obsługę podczas rozgrywki, bez rozpraszania się i potrzeby korzystania z klawiatury czy myszy.</p><h2>Monitorowanie głosu w czasie rzeczywistym</h2><p>Dźwięk przesyłany jest do komputera przez USB, a jednocześnie do podłączonych słuchawek przez wyjście 3,5 mm na mikrofonie. Pozwala to na słyszenie własnego głosu bez opóźnień, co jest istotne podczas komunikacji w grach zespołowych.</p><h2>Wysoka jakość dźwięku i wygoda</h2><p>Kardioidalna charakterystyka kierunkowa mikrofonu zapewnia selektywne wychwytywanie dźwięku, minimalizując szumy tła. Model wyposażono w małomembranową kapsułę pojemnościową, która kładzie nacisk na czyste częstotliwości i efektywne tłumienie szumów otoczenia.</p><h2>Efektywne podświetlenie RGB</h2><p>Mikrofon posiada podświetlenie RGB sterowane przyciskiem pod obudową. Do dyspozycji jest 4 style podświetlenia oraz 6 schematów kolorów, co pozwala dopasować wygląd do stanowiska gamingowego bez konieczności używania dodatkowego oprogramowania.</p><h2>Minimalistyczna konfiguracja</h2><p>Urządzenie wymaga jedynie połączenia USB z komputerem oraz podłączenia przewodowego zestawu słuchawkowego do mikrofonu, co ogranicza liczbę kabli i ułatwia szybkie ustawienie sprzętu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Termin gwarancji</p><p>1 rok od daty sprzedaży</p></li><li><p>Typ</p><p>pojemnościowy</p></li><li><p>Pasmo przenoszenia</p><p>70 Hz – 20 kHz</p></li><li><p>Czułość</p><p>-42 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Częstotliwość próbkowania</p><p>48 kHz</p></li><li><p>Szybkość transmisji bitów</p><p>16-bit/24-bit</p></li><li><p>Stosunek sygnału do szumu</p><p>75 dB</p></li><li><p>Złącze</p><p>USB Type-C</p></li><li><p>Waga</p><p>0,6 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fifine.jpg",
+  "images": [
+    "galerie/m/mikrofon-fifine-am6_76827.webp",
+    "galerie/m/mikrofon-fifine-am6_76828.webp",
+    "galerie/m/mikrofon-fifine-am6_76826.webp",
+    "galerie/m/mikrofon-fifine-am6_76827.webp",
+    "galerie/m/mikrofon-fifine-am6_76828.webp",
+    "galerie/m/mikrofon-fifine-am6_76826.webp"
+  ],
+  "manufacturer": "Fifine"
 }

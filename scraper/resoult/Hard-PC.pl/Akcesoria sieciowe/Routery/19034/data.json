@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Akcesoria sieciowe",
-        "Routery"
-    ],
-    "id": "19034",
-    "code": "LT500D_EU",
-    "name": "Router Cudy LT500D EU WiFi SIM 4G LTE",
-    "price": 219.0,
-    "description": "<h2>Router 4G LTE Cudy LT500 – mobilna i niezawodna sieć wszędzie tam, gdzie jej potrzebujesz</h2><p>Router Cudy LT500 to idealne rozwiązanie do domu, biura oraz na wakacyjne wyjazdy. Dzięki wszechstronnej funkcjonalności i wsparciu najnowszych technologii LTE oraz Wi-Fi, zapewnia szybki i stabilny dostęp do Internetu w dowolnym miejscu. Obsługuje szeroki zakres pasm LTE FDD i TDD, współpracuje z większością operatorów komórkowych i oferuje wszechstronne możliwości konfiguracji sieci, w tym zaawansowane opcje VPN oraz DDNS.</p>\rNiezależnie od tego, czy pracujesz zdalnie, grasz online, czy po prostu potrzebujesz solidnego połączenia na wakacjach — Cudy LT500 dostarcza niezawodne rozwiązanie sieciowe.\r                       \r\r\t\r\r\r\r\r<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li>Obsługa LTE FDD i TDD – kompatybilność z większością operatorów komórkowych na świecie</li><li>Zintegrowany klient VPN – PPTP, L2TP, OpenVPN, WireGuard, IPsec, Zerotier</li><li>Zdalne zarządzanie – obsługa ponad 15 dostawców DDNS</li><li>Wysoka wydajność Wi-Fi – do 867 Mbps (5GHz) + 300 Mbps (2.4GHz)</li><li>Tryby LAN i WAN – jednoczesne połączenie przez 4G i WAN dla większej niezawodności</li><li>System Whole Home Mesh – łatwa rozbudowa zasięgu Wi-Fi w całym domu</li><li>Anteny wysokiego zysku – mocny sygnał i lepszy zasięg, nawet przez ściany</li><li>Łatwy w użyciu – szybka konfiguracja i gotowość do działania po włożeniu karty SIM</li><li>Idealny do użytku domowego, biurowego i mobilnego</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Interfejsy</p><p>3 x LAN RJ45 10/100 Mbps<br/>1 x WAN RJ45 10/100 Mbps<br/>1 x slot na kartę SIM (Nano SIM)<br/>Przycisk WPS<br/>Przycisk Reset</p></li><li><p>Anteny</p><p>2 x anteny Wi-Fi<br/>2 x anteny LTE</p></li><li><p>Wzmocnienie</p><p>5 dBi</p></li><li><p>Standardy i pasma</p><p>Wi-Fi IEEE 802.11ac/a/b/g/n</p></li><li><p>Częstotliwość Wi-Fi</p><p>2.4 GHz i 5 GHz</p></li><li><p>LTE-FDD</p><p>B1/B3/B5/B7/B8/B20/B28</p></li><li><p>LTE-TDD</p><p>B38/B40/B41</p></li><li><p>WCDMA</p><p>B1/B5/B8</p></li><li><p>Prędkości</p><p>LTE do 150 Mbps (download), 50 Mbps (upload)<br/>Wi-Fi do 867 Mbps (5GHz), 300 Mbps (2.4GHz)</p></li><li><p>Funkcje bezprzewodowe</p><p>Sieć gościnna<br/>Kontrola rodzicielska<br/>WMM, WEP, WPA/WPA2, WPA-PSK/WPA2-PSK</p></li><li><p>Dynamiczny DNS</p><p>ponad 15 dostawców</p></li><li><p>NAT</p><p>przekierowanie portów, wyzwalanie, UPnP, DMZ</p></li><li><p>Technologia Mesh</p><p>tak</p></li><li><p>MIMO</p><p>2x2</p></li><li><p>Slot na kartę SIM</p><p>tak</p></li><li><p>Port USB</p><p>brak</p></li><li><p>System operacyjny</p><p>Windows, MacOS, Linux</p></li><li><p>Zgodność z przeglądarkami</p><p>Chrome, Firefox, Safari, inne z obsługą Java</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/cudy.jpg",
-    "images": [
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72835.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72836.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72837.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72838.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72839.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72840.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72841.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72842.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72843.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72835.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72836.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72837.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72838.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72839.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72840.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72841.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72842.webp",
-        "galerie/r/router-cudy-lt500d-eu-wifi-si_72843.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Routery"
+  ],
+  "id": "19034",
+  "code": "LT500D_EU",
+  "name": "Router Cudy LT500D EU WiFi SIM 4G LTE",
+  "price": 219.0,
+  "description": "<h2>Router 4G LTE Cudy LT500 – mobilna i niezawodna sieć wszędzie tam, gdzie jej potrzebujesz</h2><p>Router Cudy LT500 to idealne rozwiązanie do domu, biura oraz na wakacyjne wyjazdy. Dzięki wszechstronnej funkcjonalności i wsparciu najnowszych technologii LTE oraz Wi-Fi, zapewnia szybki i stabilny dostęp do Internetu w dowolnym miejscu. Obsługuje szeroki zakres pasm LTE FDD i TDD, współpracuje z większością operatorów komórkowych i oferuje wszechstronne możliwości konfiguracji sieci, w tym zaawansowane opcje VPN oraz DDNS.</p>\rNiezależnie od tego, czy pracujesz zdalnie, grasz online, czy po prostu potrzebujesz solidnego połączenia na wakacjach — Cudy LT500 dostarcza niezawodne rozwiązanie sieciowe.\r                       \r\r\t\r\r\r\r\r<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li>Obsługa LTE FDD i TDD – kompatybilność z większością operatorów komórkowych na świecie</li><li>Zintegrowany klient VPN – PPTP, L2TP, OpenVPN, WireGuard, IPsec, Zerotier</li><li>Zdalne zarządzanie – obsługa ponad 15 dostawców DDNS</li><li>Wysoka wydajność Wi-Fi – do 867 Mbps (5GHz) + 300 Mbps (2.4GHz)</li><li>Tryby LAN i WAN – jednoczesne połączenie przez 4G i WAN dla większej niezawodności</li><li>System Whole Home Mesh – łatwa rozbudowa zasięgu Wi-Fi w całym domu</li><li>Anteny wysokiego zysku – mocny sygnał i lepszy zasięg, nawet przez ściany</li><li>Łatwy w użyciu – szybka konfiguracja i gotowość do działania po włożeniu karty SIM</li><li>Idealny do użytku domowego, biurowego i mobilnego</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Interfejsy</p><p>3 x LAN RJ45 10/100 Mbps<br/>1 x WAN RJ45 10/100 Mbps<br/>1 x slot na kartę SIM (Nano SIM)<br/>Przycisk WPS<br/>Przycisk Reset</p></li><li><p>Anteny</p><p>2 x anteny Wi-Fi<br/>2 x anteny LTE</p></li><li><p>Wzmocnienie</p><p>5 dBi</p></li><li><p>Standardy i pasma</p><p>Wi-Fi IEEE 802.11ac/a/b/g/n</p></li><li><p>Częstotliwość Wi-Fi</p><p>2.4 GHz i 5 GHz</p></li><li><p>LTE-FDD</p><p>B1/B3/B5/B7/B8/B20/B28</p></li><li><p>LTE-TDD</p><p>B38/B40/B41</p></li><li><p>WCDMA</p><p>B1/B5/B8</p></li><li><p>Prędkości</p><p>LTE do 150 Mbps (download), 50 Mbps (upload)<br/>Wi-Fi do 867 Mbps (5GHz), 300 Mbps (2.4GHz)</p></li><li><p>Funkcje bezprzewodowe</p><p>Sieć gościnna<br/>Kontrola rodzicielska<br/>WMM, WEP, WPA/WPA2, WPA-PSK/WPA2-PSK</p></li><li><p>Dynamiczny DNS</p><p>ponad 15 dostawców</p></li><li><p>NAT</p><p>przekierowanie portów, wyzwalanie, UPnP, DMZ</p></li><li><p>Technologia Mesh</p><p>tak</p></li><li><p>MIMO</p><p>2x2</p></li><li><p>Slot na kartę SIM</p><p>tak</p></li><li><p>Port USB</p><p>brak</p></li><li><p>System operacyjny</p><p>Windows, MacOS, Linux</p></li><li><p>Zgodność z przeglądarkami</p><p>Chrome, Firefox, Safari, inne z obsługą Java</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cudy.jpg",
+  "images": [
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72835.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72836.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72837.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72838.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72839.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72840.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72841.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72842.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72843.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72835.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72836.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72837.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72838.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72839.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72840.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72841.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72842.webp",
+    "galerie/r/router-cudy-lt500d-eu-wifi-si_72843.webp"
+  ],
+  "manufacturer": "Cudy"
 }

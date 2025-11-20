@@ -1,20 +1,21 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki dokanałowe/douszne"
-    ],
-    "id": "9337",
-    "code": "SM-ES19S-BK",
-    "name": "Słuchawki SoundMagic ES19S Black",
-    "price": 79.0,
-    "description": "<p><strong>SoundMAGIC ES19S</strong> to słuchawki z mikrofonem zapewniąjące znakomity dźwięk oraz jakość rozmów. Przełącznik A-B sprawia, że słuchawki współpracują ze wszystkimi smartphonami oferując ten sam świetny poziom jakości dźwięku.</p><p>SoundMAGIC E19S to bardzo lekkie słuchawki douszne. Imponują jakością reprodukcji dźwięku oferując czysty, dobrze wyważony i mocny bas. Te słuchawki ważą tylko 15 gramów. Ich ekskluzywny design oraz metalowa konstrukcja zapewnia moc i niezawodną wytrzymałość. Ten wyjątkowy wygląd dostarcza również wysoki poziom komfortu idacy w parze z ich zaletami estetycznymi.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Soundmagic</p></li><li><p>Dane producenta</p><p>Shenzhen SoundMAGIC Technology Development Co.,Ltd, No.8, Fulong Industrial Zone, Shipai town, Dongguan City, Guangdong Province, sales2@soundmagic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/soundmagic.jpg",
-    "images": [
-        "galerie/s/sluchawki-soundmagic-es19s-bl_27841.webp",
-        "galerie/s/sluchawki-soundmagic-es19s-bl_27842.webp",
-        "galerie/s/sluchawki-soundmagic-es19s-bl_27841.webp",
-        "galerie/s/sluchawki-soundmagic-es19s-bl_27842.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "9337",
+  "code": "SM-ES19S-BK",
+  "name": "Słuchawki SoundMagic ES19S Black",
+  "price": 79.0,
+  "description": "<p><strong>SoundMAGIC ES19S</strong> to słuchawki z mikrofonem zapewniąjące znakomity dźwięk oraz jakość rozmów. Przełącznik A-B sprawia, że słuchawki współpracują ze wszystkimi smartphonami oferując ten sam świetny poziom jakości dźwięku.</p><p>SoundMAGIC E19S to bardzo lekkie słuchawki douszne. Imponują jakością reprodukcji dźwięku oferując czysty, dobrze wyważony i mocny bas. Te słuchawki ważą tylko 15 gramów. Ich ekskluzywny design oraz metalowa konstrukcja zapewnia moc i niezawodną wytrzymałość. Ten wyjątkowy wygląd dostarcza również wysoki poziom komfortu idacy w parze z ich zaletami estetycznymi.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Soundmagic</p></li><li><p>Dane producenta</p><p>Shenzhen SoundMAGIC Technology Development Co.,Ltd, No.8, Fulong Industrial Zone, Shipai town, Dongguan City, Guangdong Province, sales2@soundmagic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/soundmagic.jpg",
+  "images": [
+    "galerie/s/sluchawki-soundmagic-es19s-bl_27841.webp",
+    "galerie/s/sluchawki-soundmagic-es19s-bl_27842.webp",
+    "galerie/s/sluchawki-soundmagic-es19s-bl_27841.webp",
+    "galerie/s/sluchawki-soundmagic-es19s-bl_27842.webp"
+  ],
+  "manufacturer": "Soundmagic"
 }

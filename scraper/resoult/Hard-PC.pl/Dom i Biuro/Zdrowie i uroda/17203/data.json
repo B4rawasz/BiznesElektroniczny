@@ -1,28 +1,29 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Zdrowie i uroda"
-    ],
-    "id": "17203",
-    "code": "TSL-HC-A310B",
-    "name": "Tesla Smart Pulsoksymetr napalcowy SpO2",
-    "price": 149.0,
-    "description": "<h2>Trzymaj rękę na pulsie swojego zdrowia</h2><p>Niewielkie, wygodne urządzenie do nieinwazyjnego, bezbolesnego i szybkiego pomiaru saturacji krwi, tętna i wskaźnika perfuzji.</p><h2>Dokładne pomiary</h2><p>Pulsoksymetr TESLA Smart mierzy saturację hemoglobiny (SpO2) i częstość tętna (PRbpm) z maksymalną dokładnością, nawet przy niskiej perfuzji, to znaczy przy zmniejszonym przepływie krwi w tkance.</p><h2>Zapobiegaj możliwym problemom zdrowotnym</h2><p>Pulsoksymetr TESLA Smart to wygodne urządzenie medyczne, które monitoruje poziom tlenu we krwi i tętno. Wczesne wykrycie pomaga zapobiegać śmiertelnym skutkom spowodowanym brakiem tlenu we krwi, który może dotyczyć na przykład kobiet w ciąży, małych dzieci lub osób starszych. Pulsoksymetr TESLA Smart jest również odpowiedni dla astmatyków i osób cierpiących na choroby serca, a także dla sportowców i osób pracujących na wysokości.</p><h2>Łatwy w użyciu</h2><p>Wystarczy otworzyć urządzenie i przypiąć nim palec wskazujący. Naciśnij przycisk, aby włączyć urządzenie i wykonać pomiary.</p><h2>Praktyczne funkcje</h2><p>Jeśli odczyty są niepoprawne, a Twoje zdrowie jest zagrożone, pulsoksymetr TESLA Smart uruchomi alarm wizualny i dźwiękowy. Dzięki dużemu kolorowemu wyświetlaczowi OLED wszystkie wyniki są łatwe do odczytania. Po długim okresie nieużytkowania pulsoksymetr TESLA Smart automatycznie się wyłącza.</p><h2>Przegląd swojego zdrowia w aplikacji mobilnej</h2><p>Odczyty są synchronizowane z aplikacją mobilną TESLA Smart. Możesz zobaczyć ich historię tutaj. Aby zobaczyć pełną dynamikę wskaźników zdrowia, możesz połączyć swój pulsoksymetr z innymi inteligentnymi urządzeniami medycznymi. Dodatkowo aplikacja i wszystkie jej elementy dostępne są w języku polskim.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>100 szt</p></li><li><p>Wysokość:</p><p>3.1 cm</p></li><li><p>Szerokość:</p><p>6.5 cm</p></li><li><p>Głębokość:</p><p>3.5 cm</p></li><li><p>Waga:</p><p>0.05 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63080.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63081.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63082.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63083.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63084.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63085.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63080.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63081.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63082.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63083.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63084.webp",
-        "galerie/t/tesla-smart-pulsoksymetr-napa_63085.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Zdrowie i uroda"
+  ],
+  "id": "17203",
+  "code": "TSL-HC-A310B",
+  "name": "Tesla Smart Pulsoksymetr napalcowy SpO2",
+  "price": 149.0,
+  "description": "<h2>Trzymaj rękę na pulsie swojego zdrowia</h2><p>Niewielkie, wygodne urządzenie do nieinwazyjnego, bezbolesnego i szybkiego pomiaru saturacji krwi, tętna i wskaźnika perfuzji.</p><h2>Dokładne pomiary</h2><p>Pulsoksymetr TESLA Smart mierzy saturację hemoglobiny (SpO2) i częstość tętna (PRbpm) z maksymalną dokładnością, nawet przy niskiej perfuzji, to znaczy przy zmniejszonym przepływie krwi w tkance.</p><h2>Zapobiegaj możliwym problemom zdrowotnym</h2><p>Pulsoksymetr TESLA Smart to wygodne urządzenie medyczne, które monitoruje poziom tlenu we krwi i tętno. Wczesne wykrycie pomaga zapobiegać śmiertelnym skutkom spowodowanym brakiem tlenu we krwi, który może dotyczyć na przykład kobiet w ciąży, małych dzieci lub osób starszych. Pulsoksymetr TESLA Smart jest również odpowiedni dla astmatyków i osób cierpiących na choroby serca, a także dla sportowców i osób pracujących na wysokości.</p><h2>Łatwy w użyciu</h2><p>Wystarczy otworzyć urządzenie i przypiąć nim palec wskazujący. Naciśnij przycisk, aby włączyć urządzenie i wykonać pomiary.</p><h2>Praktyczne funkcje</h2><p>Jeśli odczyty są niepoprawne, a Twoje zdrowie jest zagrożone, pulsoksymetr TESLA Smart uruchomi alarm wizualny i dźwiękowy. Dzięki dużemu kolorowemu wyświetlaczowi OLED wszystkie wyniki są łatwe do odczytania. Po długim okresie nieużytkowania pulsoksymetr TESLA Smart automatycznie się wyłącza.</p><h2>Przegląd swojego zdrowia w aplikacji mobilnej</h2><p>Odczyty są synchronizowane z aplikacją mobilną TESLA Smart. Możesz zobaczyć ich historię tutaj. Aby zobaczyć pełną dynamikę wskaźników zdrowia, możesz połączyć swój pulsoksymetr z innymi inteligentnymi urządzeniami medycznymi. Dodatkowo aplikacja i wszystkie jej elementy dostępne są w języku polskim.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>100 szt</p></li><li><p>Wysokość:</p><p>3.1 cm</p></li><li><p>Szerokość:</p><p>6.5 cm</p></li><li><p>Głębokość:</p><p>3.5 cm</p></li><li><p>Waga:</p><p>0.05 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63080.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63081.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63082.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63083.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63084.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63085.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63080.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63081.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63082.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63083.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63084.webp",
+    "galerie/t/tesla-smart-pulsoksymetr-napa_63085.webp"
+  ],
+  "manufacturer": "Tesla"
 }

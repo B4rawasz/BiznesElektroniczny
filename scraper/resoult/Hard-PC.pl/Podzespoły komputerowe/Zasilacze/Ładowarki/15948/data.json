@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Ładowarki"
-    ],
-    "id": "15948",
-    "code": "C14101BK-1.5M",
-    "name": "Kabel Unitek USB-C 3w1 USB-C, Lightning, microUSB do ładowania",
-    "price": 27.99,
-    "description": "<h2>Ładowanie nawet trzech telefonów jednocześnie</h2><p>Kabel Unitek pozwala na komfortowe i szybkie ładowanie do trzech urządzeń jednocześnie. Dzięki złączu USB-C, micro USB oraz Lightning możesz podłączyć go do zdecydowanej większości dostępnych na rynku smartfonów. Kabel ma 1,5 metra długości. Takie rozwiązanie doskonale sprawdzi się w hotelach, biurach, czy innych miejscach, gdzie nie możemy przewidzieć, jakie urządzenie chce naładować nasz gość. Przewód współpracuje z ładowarkami z portem USB-C.</p><h2>Superszybkie ładowanie</h2><p>Złącze Lightning obsługuje technologię szybkiego ładowania z mocą aż do 20W. Oznacza to, że naładowanie nowego iPhone’a 13 Pro Max z baterią 4,373 mAh od 0 do 50% trwa zaledwie pół godziny! Pełne ładowanie przy takim modelu smartfona zajmuje tylko 90 minut.</p><p>Technologia szybkiego ładowania jest dostępna również w przy wyjściu USB-C. Moc ładowania to 15W. Micro USB umożliwia ładowanie o mocy 10W.</p><h2>Idealny dla nowego iPhone’a</h2><p>Poza świetnymi parametrami ładowania, przewód Lightning umożliwia synchronizację danych. Uwaga: synchronizacja nie jest możliwa na pozostałych portach. Połączenie Lightning – USB-C na pewno docenią użytkownicy MacBooków. Przewód został zaprojektowany w taki sposób, aby w pełni współpracować z najnowszymi modelami iPhone’ów.</p><h2>Najwyższa jakość wykonania</h2><p>Nylonowy oplot charakteryzuje się bardzo dużą wytrzymałością na uszkodzenia oraz zapobiega plątaniu się kabla. Końcówki wykonane są z wysokiej jakości aluminium. Dzięki zastosowaniu czystej miedzi przewód umożliwia ładowanie baz start w energii.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Możliwe ładowanie trzech urządzeń jednocześnie przez złącza Lightning, USB-C i micro USB</li><li>Kompatybilny z iPhonem 13</li><li>Synchronizacja danych przez złącze Lightning</li><li>Długość 1,5 m</li><li>Wytrzymały, nylonowy oplot odporny na plątanie</li><li>Maksymalna moc ładowania 20 W</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Dla urządzeń</p><p>iPad<br/>iPhone<br/>Smartphone<br/>Tablet</p></li><li><p>Długość przewodu</p><p>1.5 m</p></li><li><p>Standard ładowania</p><p>Power Delivery<br/>Quick Charge</p></li><li><p>Złącze 2</p><p>Wtyk Lightning<br/>Wtyk microUSB<br/>Wtyk USB-C</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Obsługiwane technologie</p><p>Power Delivery</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56684.webp",
-        "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56685.webp",
-        "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56686.webp",
-        "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56687.webp",
-        "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56684.webp",
-        "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56685.webp",
-        "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56686.webp",
-        "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56687.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Ładowarki"
+  ],
+  "id": "15948",
+  "code": "C14101BK-1.5M",
+  "name": "Kabel Unitek USB-C 3w1 USB-C, Lightning, microUSB do ładowania",
+  "price": 27.99,
+  "description": "<h2>Ładowanie nawet trzech telefonów jednocześnie</h2><p>Kabel Unitek pozwala na komfortowe i szybkie ładowanie do trzech urządzeń jednocześnie. Dzięki złączu USB-C, micro USB oraz Lightning możesz podłączyć go do zdecydowanej większości dostępnych na rynku smartfonów. Kabel ma 1,5 metra długości. Takie rozwiązanie doskonale sprawdzi się w hotelach, biurach, czy innych miejscach, gdzie nie możemy przewidzieć, jakie urządzenie chce naładować nasz gość. Przewód współpracuje z ładowarkami z portem USB-C.</p><h2>Superszybkie ładowanie</h2><p>Złącze Lightning obsługuje technologię szybkiego ładowania z mocą aż do 20W. Oznacza to, że naładowanie nowego iPhone’a 13 Pro Max z baterią 4,373 mAh od 0 do 50% trwa zaledwie pół godziny! Pełne ładowanie przy takim modelu smartfona zajmuje tylko 90 minut.</p><p>Technologia szybkiego ładowania jest dostępna również w przy wyjściu USB-C. Moc ładowania to 15W. Micro USB umożliwia ładowanie o mocy 10W.</p><h2>Idealny dla nowego iPhone’a</h2><p>Poza świetnymi parametrami ładowania, przewód Lightning umożliwia synchronizację danych. Uwaga: synchronizacja nie jest możliwa na pozostałych portach. Połączenie Lightning – USB-C na pewno docenią użytkownicy MacBooków. Przewód został zaprojektowany w taki sposób, aby w pełni współpracować z najnowszymi modelami iPhone’ów.</p><h2>Najwyższa jakość wykonania</h2><p>Nylonowy oplot charakteryzuje się bardzo dużą wytrzymałością na uszkodzenia oraz zapobiega plątaniu się kabla. Końcówki wykonane są z wysokiej jakości aluminium. Dzięki zastosowaniu czystej miedzi przewód umożliwia ładowanie baz start w energii.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Możliwe ładowanie trzech urządzeń jednocześnie przez złącza Lightning, USB-C i micro USB</li><li>Kompatybilny z iPhonem 13</li><li>Synchronizacja danych przez złącze Lightning</li><li>Długość 1,5 m</li><li>Wytrzymały, nylonowy oplot odporny na plątanie</li><li>Maksymalna moc ładowania 20 W</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Dla urządzeń</p><p>iPad<br/>iPhone<br/>Smartphone<br/>Tablet</p></li><li><p>Długość przewodu</p><p>1.5 m</p></li><li><p>Standard ładowania</p><p>Power Delivery<br/>Quick Charge</p></li><li><p>Złącze 2</p><p>Wtyk Lightning<br/>Wtyk microUSB<br/>Wtyk USB-C</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Obsługiwane technologie</p><p>Power Delivery</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56684.webp",
+    "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56685.webp",
+    "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56686.webp",
+    "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56687.webp",
+    "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56684.webp",
+    "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56685.webp",
+    "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56686.webp",
+    "galerie/k/kabel-unitek-usb-c-3w1-usb-c_56687.webp"
+  ],
+  "manufacturer": "Unitek"
 }

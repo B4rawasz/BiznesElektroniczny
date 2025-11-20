@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Słuchawki nauszne/wokółuszne"
-    ],
-    "id": "11852",
-    "code": "PRO-C-BK",
-    "name": "Słuchawki Bezprzewodowe OneOdio PRO-C HI-FI Bluetooth",
-    "price": 185.99,
-    "description": "<p>Słuchawki zapewniają jakość dźwięku Hi-Fi. Ciesz się doskonałym, zrównoważonym dźwiękiem i najwyższym komfortem. Duże 50-milimetrowe przetworniki w połączeniu z magnesami neodymowymi zapewniają dźwięk stereo, mocne basy, czysty wokal i wyraźne wysokie tony, tworząc idealnie zrównoważony dźwięk. Co więcej, ONEODIO PRO-C brzmią świetnie przy większości gatunków muzycznych.</p><h2>Zasilanie przez cały dzień.</h2><p>Wbudowana bateria 1500 mAh zapewnia do 80 godzin odtwarzania na jednym ładowaniu. Dodatkowo PRO-C mają możliwość pracy w trybie przewodowym. Dołączony kabel audio z zintegrowanym kontrolerem i wbudowanym mikrofonem umożliwia wyraźne prowadzenie rozmów. Ponadto możesz pomijać utwory za pomocą przycisku znajdującego się na kontrolerze. Zaawansowana technologia mikrofonów z bezkierunkową redukcją szumów CVC 8.0 i szybka, stabilna transmisja Bluetooth V5.0. Prowadzenie rozmów za pomocą słuchawek ONEODIO PRO-C to czysta przyjemność.</p><h2>Maksymalny komfort i oszczędność miejsca.</h2><p>Ergonomiczna konstrukcja słuchawek i miękkie nauszniki zapewniają długotrwały komfort i wygodę przez wiele godzin użytkowania. Składany pałąk przeznaczony nie tylko do oszczędzania miejsca na biurku, ale także do noszenia w dołączonej torbie. Dzięki eleganckiemu wzornictwu i wysokiej jakości dźwięku, słuchawki ONEODIO są przeznaczone dla najnowszej generacji iPodów, iPhone’ów i iPadów. Współpracują ze wszystkimi Androidami, tabletami, odtwarzaczami mp3 i powiązanymi urządzeniami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Połączenie: bezprzewodowe (Bluetooth), przewodowe</li><li>Przetwornik: 50 mm</li><li>Impedancja: 32 Ω</li><li>Czułość: 110 dB +/- 3 dB</li><li>Pojemność baterii: 1500 mAh</li><li>Czas pracy: około 80 godzin</li><li>Pasmo przenoszenia: 20 – 20000 Hz</li><li>Złącze: 3.5 mm</li><li>Wersja Bluetooth: 5.0</li><li>Regulacja głośności: tak</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>OneOdio</p></li><li><p>Dane producenta</p><p>OneOdio, Flat 1506,15/F, Lucky Center, NO. 165-171, Want Chai Road, HongKong, Chiny, info@oneodio.pl</p></li><li><p>Podmiot odpowiedzialny</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/oneodio.jpg",
-    "images": [
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40716.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40717.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40718.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40719.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40720.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40721.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40722.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40723.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40716.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40717.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40718.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40719.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40720.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40721.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40722.webp",
-        "galerie/s/sluchawki-bezprzewodowe-oneod_40723.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki nauszne/wokółuszne"
+  ],
+  "id": "11852",
+  "code": "PRO-C-BK",
+  "name": "Słuchawki Bezprzewodowe OneOdio PRO-C HI-FI Bluetooth",
+  "price": 185.99,
+  "description": "<p>Słuchawki zapewniają jakość dźwięku Hi-Fi. Ciesz się doskonałym, zrównoważonym dźwiękiem i najwyższym komfortem. Duże 50-milimetrowe przetworniki w połączeniu z magnesami neodymowymi zapewniają dźwięk stereo, mocne basy, czysty wokal i wyraźne wysokie tony, tworząc idealnie zrównoważony dźwięk. Co więcej, ONEODIO PRO-C brzmią świetnie przy większości gatunków muzycznych.</p><h2>Zasilanie przez cały dzień.</h2><p>Wbudowana bateria 1500 mAh zapewnia do 80 godzin odtwarzania na jednym ładowaniu. Dodatkowo PRO-C mają możliwość pracy w trybie przewodowym. Dołączony kabel audio z zintegrowanym kontrolerem i wbudowanym mikrofonem umożliwia wyraźne prowadzenie rozmów. Ponadto możesz pomijać utwory za pomocą przycisku znajdującego się na kontrolerze. Zaawansowana technologia mikrofonów z bezkierunkową redukcją szumów CVC 8.0 i szybka, stabilna transmisja Bluetooth V5.0. Prowadzenie rozmów za pomocą słuchawek ONEODIO PRO-C to czysta przyjemność.</p><h2>Maksymalny komfort i oszczędność miejsca.</h2><p>Ergonomiczna konstrukcja słuchawek i miękkie nauszniki zapewniają długotrwały komfort i wygodę przez wiele godzin użytkowania. Składany pałąk przeznaczony nie tylko do oszczędzania miejsca na biurku, ale także do noszenia w dołączonej torbie. Dzięki eleganckiemu wzornictwu i wysokiej jakości dźwięku, słuchawki ONEODIO są przeznaczone dla najnowszej generacji iPodów, iPhone’ów i iPadów. Współpracują ze wszystkimi Androidami, tabletami, odtwarzaczami mp3 i powiązanymi urządzeniami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Połączenie: bezprzewodowe (Bluetooth), przewodowe</li><li>Przetwornik: 50 mm</li><li>Impedancja: 32 Ω</li><li>Czułość: 110 dB +/- 3 dB</li><li>Pojemność baterii: 1500 mAh</li><li>Czas pracy: około 80 godzin</li><li>Pasmo przenoszenia: 20 – 20000 Hz</li><li>Złącze: 3.5 mm</li><li>Wersja Bluetooth: 5.0</li><li>Regulacja głośności: tak</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>OneOdio</p></li><li><p>Dane producenta</p><p>OneOdio, Flat 1506,15/F, Lucky Center, NO. 165-171, Want Chai Road, HongKong, Chiny, info@oneodio.pl</p></li><li><p>Podmiot odpowiedzialny</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/oneodio.jpg",
+  "images": [
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40716.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40717.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40718.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40719.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40720.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40721.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40722.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40723.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40716.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40717.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40718.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40719.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40720.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40721.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40722.webp",
+    "galerie/s/sluchawki-bezprzewodowe-oneod_40723.webp"
+  ],
+  "manufacturer": "OneOdio"
 }

@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "12870",
-    "code": "KS-KHC",
-    "name": "Kabel Słuchawkowy Mozos KS-KHC do HyperX Cloud / Alpha",
-    "price": 29.9,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Zamienny przewód mini jack 3.5 mm do słuchawek Hyperx. Tani i skuteczny kabel audio o długości 2 metrów z regulacją głośności oraz przyciskiem wyciszenia. Zamienny przewód KS-KHC to tania alternatywa. Nylonowy oplot i wykonanie z miedzi beztlenowej zapewni osiągi bliskie oryginalnemu przewodowi za ułamek jego ceny.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Kabel zastępuje przewód, który jest dostarczany z zestawami słuchawkowymi Kingston HyperX Cloud i HyperX Cloud Alpha Gaming.</li><li>Umożliwia sterowanie głośnością za pomocą wbudowanego pokrętła głośności.</li><li>Optymalna długość kabla 2 metry z obsługą wyłączania mikrofonu i regulacji głośności słuchawek.</li><li>Trwałe kable z miedzianym rdzeniem, w oplocie nylonowym.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny.</p></li><li><p>Długość</p><p>2m.</p></li><li><p>Materiał oplotu</p><p>nylon, pleciony.</p></li><li><p>Rdzeń</p><p>miedź beztlenowa.</p></li><li><p>Waga</p><p>około 30g.</p></li><li><p>Opakowanie</p><p>Opp torba.</p></li><li> </li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46343.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46344.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46345.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46346.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46347.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46348.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46349.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46343.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46344.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46345.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46346.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46347.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46348.webp",
-        "galerie/k/kabel-sluchawkowy-z-mikrofone_46349.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "12870",
+  "code": "KS-KHC",
+  "name": "Kabel Słuchawkowy Mozos KS-KHC do HyperX Cloud / Alpha",
+  "price": 29.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Zamienny przewód mini jack 3.5 mm do słuchawek Hyperx. Tani i skuteczny kabel audio o długości 2 metrów z regulacją głośności oraz przyciskiem wyciszenia. Zamienny przewód KS-KHC to tania alternatywa. Nylonowy oplot i wykonanie z miedzi beztlenowej zapewni osiągi bliskie oryginalnemu przewodowi za ułamek jego ceny.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Kabel zastępuje przewód, który jest dostarczany z zestawami słuchawkowymi Kingston HyperX Cloud i HyperX Cloud Alpha Gaming.</li><li>Umożliwia sterowanie głośnością za pomocą wbudowanego pokrętła głośności.</li><li>Optymalna długość kabla 2 metry z obsługą wyłączania mikrofonu i regulacji głośności słuchawek.</li><li>Trwałe kable z miedzianym rdzeniem, w oplocie nylonowym.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny.</p></li><li><p>Długość</p><p>2m.</p></li><li><p>Materiał oplotu</p><p>nylon, pleciony.</p></li><li><p>Rdzeń</p><p>miedź beztlenowa.</p></li><li><p>Waga</p><p>około 30g.</p></li><li><p>Opakowanie</p><p>Opp torba.</p></li><li> </li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46343.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46344.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46345.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46346.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46347.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46348.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46349.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46343.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46344.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46345.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46346.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46347.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46348.webp",
+    "galerie/k/kabel-sluchawkowy-z-mikrofone_46349.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

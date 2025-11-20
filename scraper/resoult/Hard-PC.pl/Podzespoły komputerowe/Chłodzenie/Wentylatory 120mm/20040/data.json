@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 120mm"
-    ],
-    "id": "20040",
-    "code": "0000009412",
-    "name": "Wentylator Montech GF120 ARGB PWM White 120mm",
-    "price": 40.9,
-    "description": "<h2>Wentylator do obudowy Montech GF120 ARGB PWM White 120mm</h2><p>Wentylator Montech GF120 ARGB PWM White 120mm to idealne połączenie wydajności i estetyki. Dzięki dziewięciu łopatkom wirnika, oferuje przepływ powietrza na poziomie 112,64 m³/h oraz ciche działanie z poziomem hałasu wynoszącym zaledwie 25,5 dB(A). Sterowanie PWM pozwala na płynną regulację prędkości w zakresie 800-1600 RPM. Elegancka biała obudowa i efektywne oświetlenie ARGB nadają charakteru, tworząc wyjątkowy wygląd każdej konfiguracji komputerowej.</p><h2>Wydajny i cichy wentylator obudowy</h2><p>Montech GF120 PWM to wydajny wentylator 120 mm, który dzięki dziewięciu łopatkom wirnika zapewnia imponujący przepływ powietrza na poziomie 112,64 m³/h oraz ciśnienie statyczne 1,55 mmH2O. Dzięki zaawansowanemu sterowaniu PWM prędkość wentylatora może być regulowana od 800 do 1600 obrotów na minutę, co pozwala na optymalne chłodzenie systemu przy zachowaniu niskiego poziomu hałasu.</p><h2>Cicha i niezawodna praca</h2><p>Pomimo dużej wydajności, wentylator GF120 PWM generuje hałas na poziomie tylko 25,5 dB(A) przy maksymalnej prędkości. Wysokiej jakości łożysko hydrauliczne oraz precyzyjne smarowanie minimalizują wibracje, zapewniając cichą i stabilną pracę przez długi czas. W zestawie znajdują się cztery śruby montażowe, które ułatwiają szybki i pewny montaż.</p><h2>Elegancki design z adresowalnym RGB</h2><p>Montech GF120 PWM łączy biały korpus wentylatora z przezroczystymi łopatkami RGB, wyposażonymi w osiem cyfrowo adresowalnych diod LED. Oświetlenie ARGB pozwala na jednolite, efektowne efekty świetlne, które można w pełni personalizować, dostosowując wygląd wentylatora do własnych preferencji i podkreślając charakter całej konfiguracji komputerowej.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wymiary: 120 x 120 x 25 mm</li><li>Kolor: Biały</li><li>Prędkość obrotowa: 800 - 1600 RPM</li><li>Typ łożyska: HDB (Hydraulic Dynamic Bearing)</li><li>Zakres napięcia: 12V</li><li>Złącze: PWM 4-pin i ARGB 5V 3-pin</li><li>Maksymalny przepływ powietrza: 66.3 CFM</li><li>Maksymalne ciśnienie statyczne: 1.55 mmH2O</li><li>Poziom hałasu (max): 25.5 dBA</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przeznaczenie</p><p>Wentylator obudowy</p></li><li><p>Ilość wentylatorów</p><p>1 szt</p></li><li><p>Wymiary wentylatora</p><p>120 mm</p></li><li><p>Maksymalny poziom hałasu</p><p>25,5 dB</p></li><li><p>Obroty minimalne</p><p>800 obr/min</p></li><li><p>Obroty maksymalne</p><p>1600 obr/min</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Ciśnienie statyczne</p><p>1,55 mmH<sub>2</sub>O</p></li><li><p>Przepływ</p><p>66,3 CFM (112,66 m³/h)</p></li><li><p>Łożysko</p><p>HDB (Hydro Dynamic Bearing)</p></li><li><p>Grubość</p><p>25 mm</p></li><li><p>Złącze zasilania</p><p>Fan PWM 4 pin</p></li><li><p>Złącze podświetlenia</p><p>ARGB 5V 3-pin</p></li><li><p>Wbudowana regulacja obrotów</p><p>PWM</p></li><li><p>Kolor wirnika</p><p>Biały</p></li><li><p>Kolor ramki</p><p>Biały</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/montech.jpg",
-    "images": [
-        "galerie/w/wentylator-montech-gf120-argb_74846.webp",
-        "galerie/w/wentylator-montech-gf120-argb_74847.webp",
-        "galerie/w/wentylator-montech-gf120-argb_74848.webp",
-        "galerie/w/wentylator-montech-gf120-argb_74849.webp",
-        "galerie/w/wentylator-montech-gf120-argb_74846.webp",
-        "galerie/w/wentylator-montech-gf120-argb_74847.webp",
-        "galerie/w/wentylator-montech-gf120-argb_74848.webp",
-        "galerie/w/wentylator-montech-gf120-argb_74849.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "20040",
+  "code": "0000009412",
+  "name": "Wentylator Montech GF120 ARGB PWM White 120mm",
+  "price": 40.9,
+  "description": "<h2>Wentylator do obudowy Montech GF120 ARGB PWM White 120mm</h2><p>Wentylator Montech GF120 ARGB PWM White 120mm to idealne połączenie wydajności i estetyki. Dzięki dziewięciu łopatkom wirnika, oferuje przepływ powietrza na poziomie 112,64 m³/h oraz ciche działanie z poziomem hałasu wynoszącym zaledwie 25,5 dB(A). Sterowanie PWM pozwala na płynną regulację prędkości w zakresie 800-1600 RPM. Elegancka biała obudowa i efektywne oświetlenie ARGB nadają charakteru, tworząc wyjątkowy wygląd każdej konfiguracji komputerowej.</p><h2>Wydajny i cichy wentylator obudowy</h2><p>Montech GF120 PWM to wydajny wentylator 120 mm, który dzięki dziewięciu łopatkom wirnika zapewnia imponujący przepływ powietrza na poziomie 112,64 m³/h oraz ciśnienie statyczne 1,55 mmH2O. Dzięki zaawansowanemu sterowaniu PWM prędkość wentylatora może być regulowana od 800 do 1600 obrotów na minutę, co pozwala na optymalne chłodzenie systemu przy zachowaniu niskiego poziomu hałasu.</p><h2>Cicha i niezawodna praca</h2><p>Pomimo dużej wydajności, wentylator GF120 PWM generuje hałas na poziomie tylko 25,5 dB(A) przy maksymalnej prędkości. Wysokiej jakości łożysko hydrauliczne oraz precyzyjne smarowanie minimalizują wibracje, zapewniając cichą i stabilną pracę przez długi czas. W zestawie znajdują się cztery śruby montażowe, które ułatwiają szybki i pewny montaż.</p><h2>Elegancki design z adresowalnym RGB</h2><p>Montech GF120 PWM łączy biały korpus wentylatora z przezroczystymi łopatkami RGB, wyposażonymi w osiem cyfrowo adresowalnych diod LED. Oświetlenie ARGB pozwala na jednolite, efektowne efekty świetlne, które można w pełni personalizować, dostosowując wygląd wentylatora do własnych preferencji i podkreślając charakter całej konfiguracji komputerowej.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wymiary: 120 x 120 x 25 mm</li><li>Kolor: Biały</li><li>Prędkość obrotowa: 800 - 1600 RPM</li><li>Typ łożyska: HDB (Hydraulic Dynamic Bearing)</li><li>Zakres napięcia: 12V</li><li>Złącze: PWM 4-pin i ARGB 5V 3-pin</li><li>Maksymalny przepływ powietrza: 66.3 CFM</li><li>Maksymalne ciśnienie statyczne: 1.55 mmH2O</li><li>Poziom hałasu (max): 25.5 dBA</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przeznaczenie</p><p>Wentylator obudowy</p></li><li><p>Ilość wentylatorów</p><p>1 szt</p></li><li><p>Wymiary wentylatora</p><p>120 mm</p></li><li><p>Maksymalny poziom hałasu</p><p>25,5 dB</p></li><li><p>Obroty minimalne</p><p>800 obr/min</p></li><li><p>Obroty maksymalne</p><p>1600 obr/min</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Ciśnienie statyczne</p><p>1,55 mmH<sub>2</sub>O</p></li><li><p>Przepływ</p><p>66,3 CFM (112,66 m³/h)</p></li><li><p>Łożysko</p><p>HDB (Hydro Dynamic Bearing)</p></li><li><p>Grubość</p><p>25 mm</p></li><li><p>Złącze zasilania</p><p>Fan PWM 4 pin</p></li><li><p>Złącze podświetlenia</p><p>ARGB 5V 3-pin</p></li><li><p>Wbudowana regulacja obrotów</p><p>PWM</p></li><li><p>Kolor wirnika</p><p>Biały</p></li><li><p>Kolor ramki</p><p>Biały</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/montech.jpg",
+  "images": [
+    "galerie/w/wentylator-montech-gf120-argb_74846.webp",
+    "galerie/w/wentylator-montech-gf120-argb_74847.webp",
+    "galerie/w/wentylator-montech-gf120-argb_74848.webp",
+    "galerie/w/wentylator-montech-gf120-argb_74849.webp",
+    "galerie/w/wentylator-montech-gf120-argb_74846.webp",
+    "galerie/w/wentylator-montech-gf120-argb_74847.webp",
+    "galerie/w/wentylator-montech-gf120-argb_74848.webp",
+    "galerie/w/wentylator-montech-gf120-argb_74849.webp"
+  ],
+  "manufacturer": "Montech"
 }

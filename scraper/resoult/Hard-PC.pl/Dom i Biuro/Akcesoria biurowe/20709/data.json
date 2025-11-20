@@ -1,28 +1,29 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Akcesoria biurowe"
-    ],
-    "id": "20709",
-    "code": "FH-1-WH",
-    "name": "Automatyczny kosz na śmieci z czujnikiem 12L MOZOS FH-1 Biały",
-    "price": 69.0,
-    "description": "<h2>Mozos FH-1 – Inteligentny kosz na śmieci z automatycznym otwieraniem 12L</h2><p>Mozos FH-1-WH to nowoczesny kosz na śmieci łączący elegancki design z praktycznymi funkcjami. Wyposażony w bezdotykowy czujnik ruchu, pozwala wrzucać odpady bez dotykania pokrywy, co zwiększa higienę i komfort codziennego użytkowania. Dodatkowo oferuje dwa sposoby otwierania – automatyczny sensor lub pzycisk manualny – dzięki czemu możesz dopasować sposób obsługi do sytuacji. To sprawia, że FH-1-WH świetnie sprawdzi się w kuchni, łazience, biurze czy gabinecie, gdzie czystość i wygoda mają kluczowe znaczenie.</p><h2>Wysoka jakość i trwałość</h2><p>Kosz został wykonany z połączenia tworzyw ABS i PP, które są odporne na uszkodzenia i łatwe w czyszczeniu. Gładka powierzchnia sprawia, że wystarczy przetarcie wilgotną ściereczką, aby zachować estetyczny wygląd. Pomimo kompaktowych wymiarów 20×20×30,5 cm oferuje pojemność 12 L, co czyni go praktycznym wyborem do mniejszych pomieszczeń. Minimalistyczna forma i biały kolor sprawiają, że pasuje do każdego wnętrza, a przy tym stanowi elegancki element wyposażenia.</p><h2>Praktyczny i energooszczędny</h2><p>Mozos FH-1-WH działa na 2 baterie AA (brak w zestawie), a jego pobór mocy wynosi zaledwie 1,5 W. Niewielka waga ułatwia przenoszenie i ustawianie w dowolnym miejscu, przy jednoczesnym zachowaniu stabilności i bezpiecznego użytkowania. To inteligentny kosz, który sprawdzi się w każdym domu, biurze czy przestrzeni komercyjnej – wygodny, higieniczny i stylowy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>ABS + PP</p></li><li><p>Wymiary</p><p>20 × 20 × 30,5 cm</p></li><li><p>Waga brutto</p><p>1 kg</p></li><li><p>Pojemność</p><p>12 L</p></li><li><p>Moc</p><p>1,5 W</p></li><li><p>Napięcie</p><p>3 V</p></li><li><p>Baterie</p><p>2 × AA (brak w zestawie)</p></li><li><p>Metody otwierania</p><p>Czujnik ruchu, przycisk manualny,</p></li><li><p>Logo producenta</p><p>Tak</p></li></ul><h2>Cechy:</h2><ul><li>Bezdotykowe otwieranie dzięki czujnikowi ruchu – higieniczne i wygodne</li><li>2 sposoby obsługi: sensor, przycisk manualny</li><li>Kompaktowe wymiary (20×20×30,5 cm) – idealny do kuchni, łazienki, biura</li><li>Pojemność 12 L – praktyczny wybór do codziennego użytku</li><li>Solidne materiały ABS + PP – trwałość i łatwość czyszczenia</li><li>Energooszczędny – działa na 2 baterie AA, pobór mocy tylko 1,5 W</li><li>Lekki i mobilny – waży 1 kg, a przy tym stabilny</li><li>Nowoczesny, biały design – elegancki wygląd w każdym wnętrzu</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/a/automatyczny-koszt-na-smieci_78042.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78041.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78040.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78037.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78038.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78039.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78042.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78041.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78040.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78037.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78038.webp",
-        "galerie/a/automatyczny-koszt-na-smieci_78039.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Akcesoria biurowe"
+  ],
+  "id": "20709",
+  "code": "FH-1-WH",
+  "name": "Automatyczny kosz na śmieci z czujnikiem 12L MOZOS FH-1 Biały",
+  "price": 69.0,
+  "description": "<h2>Mozos FH-1 – Inteligentny kosz na śmieci z automatycznym otwieraniem 12L</h2><p>Mozos FH-1-WH to nowoczesny kosz na śmieci łączący elegancki design z praktycznymi funkcjami. Wyposażony w bezdotykowy czujnik ruchu, pozwala wrzucać odpady bez dotykania pokrywy, co zwiększa higienę i komfort codziennego użytkowania. Dodatkowo oferuje dwa sposoby otwierania – automatyczny sensor lub pzycisk manualny – dzięki czemu możesz dopasować sposób obsługi do sytuacji. To sprawia, że FH-1-WH świetnie sprawdzi się w kuchni, łazience, biurze czy gabinecie, gdzie czystość i wygoda mają kluczowe znaczenie.</p><h2>Wysoka jakość i trwałość</h2><p>Kosz został wykonany z połączenia tworzyw ABS i PP, które są odporne na uszkodzenia i łatwe w czyszczeniu. Gładka powierzchnia sprawia, że wystarczy przetarcie wilgotną ściereczką, aby zachować estetyczny wygląd. Pomimo kompaktowych wymiarów 20×20×30,5 cm oferuje pojemność 12 L, co czyni go praktycznym wyborem do mniejszych pomieszczeń. Minimalistyczna forma i biały kolor sprawiają, że pasuje do każdego wnętrza, a przy tym stanowi elegancki element wyposażenia.</p><h2>Praktyczny i energooszczędny</h2><p>Mozos FH-1-WH działa na 2 baterie AA (brak w zestawie), a jego pobór mocy wynosi zaledwie 1,5 W. Niewielka waga ułatwia przenoszenie i ustawianie w dowolnym miejscu, przy jednoczesnym zachowaniu stabilności i bezpiecznego użytkowania. To inteligentny kosz, który sprawdzi się w każdym domu, biurze czy przestrzeni komercyjnej – wygodny, higieniczny i stylowy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>ABS + PP</p></li><li><p>Wymiary</p><p>20 × 20 × 30,5 cm</p></li><li><p>Waga brutto</p><p>1 kg</p></li><li><p>Pojemność</p><p>12 L</p></li><li><p>Moc</p><p>1,5 W</p></li><li><p>Napięcie</p><p>3 V</p></li><li><p>Baterie</p><p>2 × AA (brak w zestawie)</p></li><li><p>Metody otwierania</p><p>Czujnik ruchu, przycisk manualny,</p></li><li><p>Logo producenta</p><p>Tak</p></li></ul><h2>Cechy:</h2><ul><li>Bezdotykowe otwieranie dzięki czujnikowi ruchu – higieniczne i wygodne</li><li>2 sposoby obsługi: sensor, przycisk manualny</li><li>Kompaktowe wymiary (20×20×30,5 cm) – idealny do kuchni, łazienki, biura</li><li>Pojemność 12 L – praktyczny wybór do codziennego użytku</li><li>Solidne materiały ABS + PP – trwałość i łatwość czyszczenia</li><li>Energooszczędny – działa na 2 baterie AA, pobór mocy tylko 1,5 W</li><li>Lekki i mobilny – waży 1 kg, a przy tym stabilny</li><li>Nowoczesny, biały design – elegancki wygląd w każdym wnętrzu</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/a/automatyczny-koszt-na-smieci_78042.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78041.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78040.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78037.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78038.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78039.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78042.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78041.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78040.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78037.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78038.webp",
+    "galerie/a/automatyczny-koszt-na-smieci_78039.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

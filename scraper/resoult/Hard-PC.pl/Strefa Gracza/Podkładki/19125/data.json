@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Podkładki"
-    ],
-    "id": "19125",
-    "code": "HTP-040",
-    "name": "Podkładka HATOR Tonn EVO XXL Black - 900х420mm",
-    "price": 99.0,
-    "description": "<p>Powierzchnie gamingowe Tonn EVO – prawdziwa ewolucja w akcji! Zachowując charakterystyczny styl, zaktualizowane powierzchnie stały się jeszcze bardziej stylowe i praktyczne. Model dostępny jest w czterech rozmiarach – dla każdego rozmiaru obszaru roboczego.</p><p>Optymalnie dobrana tekstura powierzchni zapewnia najlepszą równowagę między szybkością ruchu myszy a precyzją sterowania kursorem.</p><p>Kolorowa podstawa nie tylko podkreśla surową konstrukcję powierzchni, ale dzięki gumowemu materiałowi i efektywnej fakturze zapewnia pewną przyczepność z powierzchnią stołu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Powierzchnia</p><p>Tkanina</p></li><li><p>Spód</p><p>Guma</p></li><li><p>Rozmiar</p><p>900x420x5mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Hator</p></li><li><p>Dane producenta</p><p>HATOR Gaming B.V., Olof Palmelaan 3C, 2729NA Zoetermeer, Holandia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/hator.jpg",
-    "images": [
-        "galerie/p/podkladka-hator-tonn-evo-xxl_70735.webp",
-        "galerie/p/podkladka-hator-tonn-evo-xxl_70736.webp",
-        "galerie/p/podkladka-hator-tonn-evo-xxl_70737.webp",
-        "galerie/p/podkladka-hator-tonn-evo-xxl_70738.webp",
-        "galerie/p/podkladka-hator-tonn-evo-xxl_70735.webp",
-        "galerie/p/podkladka-hator-tonn-evo-xxl_70736.webp",
-        "galerie/p/podkladka-hator-tonn-evo-xxl_70737.webp",
-        "galerie/p/podkladka-hator-tonn-evo-xxl_70738.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Podkładki"
+  ],
+  "id": "19125",
+  "code": "HTP-040",
+  "name": "Podkładka HATOR Tonn EVO XXL Black - 900х420mm",
+  "price": 99.0,
+  "description": "<p>Powierzchnie gamingowe Tonn EVO – prawdziwa ewolucja w akcji! Zachowując charakterystyczny styl, zaktualizowane powierzchnie stały się jeszcze bardziej stylowe i praktyczne. Model dostępny jest w czterech rozmiarach – dla każdego rozmiaru obszaru roboczego.</p><p>Optymalnie dobrana tekstura powierzchni zapewnia najlepszą równowagę między szybkością ruchu myszy a precyzją sterowania kursorem.</p><p>Kolorowa podstawa nie tylko podkreśla surową konstrukcję powierzchni, ale dzięki gumowemu materiałowi i efektywnej fakturze zapewnia pewną przyczepność z powierzchnią stołu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Powierzchnia</p><p>Tkanina</p></li><li><p>Spód</p><p>Guma</p></li><li><p>Rozmiar</p><p>900x420x5mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Hator</p></li><li><p>Dane producenta</p><p>HATOR Gaming B.V., Olof Palmelaan 3C, 2729NA Zoetermeer, Holandia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/hator.jpg",
+  "images": [
+    "galerie/p/podkladka-hator-tonn-evo-xxl_70735.webp",
+    "galerie/p/podkladka-hator-tonn-evo-xxl_70736.webp",
+    "galerie/p/podkladka-hator-tonn-evo-xxl_70737.webp",
+    "galerie/p/podkladka-hator-tonn-evo-xxl_70738.webp",
+    "galerie/p/podkladka-hator-tonn-evo-xxl_70735.webp",
+    "galerie/p/podkladka-hator-tonn-evo-xxl_70736.webp",
+    "galerie/p/podkladka-hator-tonn-evo-xxl_70737.webp",
+    "galerie/p/podkladka-hator-tonn-evo-xxl_70738.webp"
+  ],
+  "manufacturer": "Hator"
 }

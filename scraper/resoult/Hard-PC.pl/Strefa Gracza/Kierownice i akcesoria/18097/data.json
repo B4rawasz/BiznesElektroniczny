@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18097",
-    "code": "GAJO-381",
-    "name": "Mechanizm kierownicy MOZA R16 baza, serwo (16Nm) V2",
-    "price": 3840.9,
-    "description": "<p>Wprowadź swoje wyścigowe doświadczenia na nowy poziom z podstawą kierownicy MOZA R16 Direct Drive Wheelbase. Dzięki zaawansowanej technologii i wyjątkowej precyzji, ta podstawa pozwala poczuć każdy zakręt i nierówność toru, przenosząc Cię w sam środek wyścigowej akcji. Idealna dla zawodowców i entuzjastów symulacji, MOZA R16 gwarantuje realistyczną i niezwykle immersyjną jazdę.</p><h2>Doskonałe sterowanie i precyzyjne sprzężenie zwrotne</h2><p>MOZA R16 Direct Drive Wheelbase oferuje prawdziwie realistyczne ruchy kierownicy, dzięki czemu poczujesz każdy szczegół toru. Silnik o momencie obrotowym 16 Nm bezpośrednio przekazuje siłę sprzężenia zwrotnego do kierowcy, co pozwala na doskonałe wyczucie nawierzchni i pełną kontrolę nad pojazdem. Dzięki zintegrowanemu systemowi chłodzenia oraz czujnikom monitorującym temperaturę, silnik utrzymuje optymalną temperaturę nawet podczas najbardziej wymagających wyścigów.</p><h2>Niezwykle niska latencja – Błyskawiczne reakcje na torze</h2><p>MOZA R16 wyposażona jest w czterordzeniowy procesor, który w czasie rzeczywistym oblicza złożone reakcje force feedback, przekładając warunki torowe na odczucia kierowcy. Dzięki enkoderowi o rozdzielczości 262,144 punktów na obrót, każde drganie i ruch są dokładnie odwzorowane, co zwiększa realizm symulacji.</p><h2>Innowacyjna technologia Zero-Latency i szybkozłączka</h2><p>MOZA R16 wykorzystuje bezprzewodową technologię zero-latency, która umożliwia montaż kierownic bez dodatkowych kabli. Wszystkie dane są przesyłane poprzez powierzchnię kontaktową, co umożliwia błyskawiczną wymianę kierownic dzięki szybkozłączce MOZA. To rozwiązanie zapewnia nie tylko wygodę, ale również estetykę i prostotę obsługi.</p><h2>Dlaczego warto wybrać MOZA R16 Direct Drive Wheelbase?</h2><p>MOZA R16 to podstawa kierownicy stworzona dla wymagających użytkowników, którzy poszukują najwyższej precyzji i realizmu w symulacji wyścigów. Dzięki zaawansowanej technologii, potężnemu momentowi obrotowemu i innowacyjnym rozwiązaniom chłodzenia, MOZA R16 to niezawodny wybór dla każdego, kto chce osiągnąć mistrzostwo na torze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"list-specification\"><li>Mocny silnik o momencie obrotowym 16 Nm: Bezpośredni napęd z potężnym momentem obrotowym zapewnia autentyczne wrażenia z jazdy, reagując na każdy ruch i warunki torowe.</li><li>Niskie opóźnienia dzięki technologii zero-latency: Błyskawiczne przetwarzanie danych bez opóźnień zapewnia pełną kontrolę nad pojazdem i natychmiastową reakcję na komendy.</li><li>Procesor czterordzeniowy: Zaawansowany procesor przetwarza nawet najbardziej złożone manewry force feedback, zapewniając realistyczne wrażenia z jazdy.</li><li>Precyzyjny enkoder z 262,144 punktami rozdzielczości: Gwarantuje płynne i niezwykle dokładne sterowanie, oddając każdy ruch kierownicy z chirurgiczną precyzją.</li><li>Wbudowane czujniki i system chłodzenia: Inteligentny system chłodzenia z czujnikami zapobiega przegrzewaniu się silnika podczas intensywnych wyścigów.</li><li>Kompaktowy rozmiar: Idealny do instalacji nawet w małych symulatorach, dzięki niewielkim wymiarom obudowy.</li><li>Aluminiowa obudowa z żebrami chłodzącymi: Wysokiej jakości aluminium i konstrukcja chłodząca pomagają utrzymać odpowiednią temperaturę silnika.</li><li>Supercar design: Nowoczesny wygląd inspirowany samochodami sportowymi dodaje unikalnego stylu każdemu setupowi wyścigowemu.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>170 x 130 x 327 mm (W x H x D)</p></li><li><p>Waga</p><p>8.9 kg</p></li><li><p>Materiał</p><p>aluminum, plastik</p></li><li><p>Kolor</p><p>Black</p></li><li><p>Podłączenie</p><p>USB</p></li><li><p>Platforma</p><p>PC</p></li><li><p>Napięcie robocze</p><p>110 - 220 V AC to 36 V DC</p></li><li><p>Zużycie energii</p><p>360 W</p></li><li><p>Częstotliwość próbkowania</p><p>1,000 Hz</p></li><li><p>Maksymalny moment obrotowy</p><p>16 Nm</p></li><li><p>Kompatybilność z produktami MOZA</p><p>MOZA Racing steering wheels with D1 Spec Quick Release</p></li><li><p>W zestawie</p><p>1x MOZA R16 Direct Drive Wheelbase<br/>1x Akcesoria montażowe</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/m/moza-r16-direct-drive-wheelba_66592.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66593.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66594.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66595.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66596.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66597.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66598.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66592.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66593.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66594.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66595.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66596.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66597.webp",
-        "galerie/m/moza-r16-direct-drive-wheelba_66598.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18097",
+  "code": "GAJO-381",
+  "name": "Mechanizm kierownicy MOZA R16 baza, serwo (16Nm) V2",
+  "price": 3840.9,
+  "description": "<p>Wprowadź swoje wyścigowe doświadczenia na nowy poziom z podstawą kierownicy MOZA R16 Direct Drive Wheelbase. Dzięki zaawansowanej technologii i wyjątkowej precyzji, ta podstawa pozwala poczuć każdy zakręt i nierówność toru, przenosząc Cię w sam środek wyścigowej akcji. Idealna dla zawodowców i entuzjastów symulacji, MOZA R16 gwarantuje realistyczną i niezwykle immersyjną jazdę.</p><h2>Doskonałe sterowanie i precyzyjne sprzężenie zwrotne</h2><p>MOZA R16 Direct Drive Wheelbase oferuje prawdziwie realistyczne ruchy kierownicy, dzięki czemu poczujesz każdy szczegół toru. Silnik o momencie obrotowym 16 Nm bezpośrednio przekazuje siłę sprzężenia zwrotnego do kierowcy, co pozwala na doskonałe wyczucie nawierzchni i pełną kontrolę nad pojazdem. Dzięki zintegrowanemu systemowi chłodzenia oraz czujnikom monitorującym temperaturę, silnik utrzymuje optymalną temperaturę nawet podczas najbardziej wymagających wyścigów.</p><h2>Niezwykle niska latencja – Błyskawiczne reakcje na torze</h2><p>MOZA R16 wyposażona jest w czterordzeniowy procesor, który w czasie rzeczywistym oblicza złożone reakcje force feedback, przekładając warunki torowe na odczucia kierowcy. Dzięki enkoderowi o rozdzielczości 262,144 punktów na obrót, każde drganie i ruch są dokładnie odwzorowane, co zwiększa realizm symulacji.</p><h2>Innowacyjna technologia Zero-Latency i szybkozłączka</h2><p>MOZA R16 wykorzystuje bezprzewodową technologię zero-latency, która umożliwia montaż kierownic bez dodatkowych kabli. Wszystkie dane są przesyłane poprzez powierzchnię kontaktową, co umożliwia błyskawiczną wymianę kierownic dzięki szybkozłączce MOZA. To rozwiązanie zapewnia nie tylko wygodę, ale również estetykę i prostotę obsługi.</p><h2>Dlaczego warto wybrać MOZA R16 Direct Drive Wheelbase?</h2><p>MOZA R16 to podstawa kierownicy stworzona dla wymagających użytkowników, którzy poszukują najwyższej precyzji i realizmu w symulacji wyścigów. Dzięki zaawansowanej technologii, potężnemu momentowi obrotowemu i innowacyjnym rozwiązaniom chłodzenia, MOZA R16 to niezawodny wybór dla każdego, kto chce osiągnąć mistrzostwo na torze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"list-specification\"><li>Mocny silnik o momencie obrotowym 16 Nm: Bezpośredni napęd z potężnym momentem obrotowym zapewnia autentyczne wrażenia z jazdy, reagując na każdy ruch i warunki torowe.</li><li>Niskie opóźnienia dzięki technologii zero-latency: Błyskawiczne przetwarzanie danych bez opóźnień zapewnia pełną kontrolę nad pojazdem i natychmiastową reakcję na komendy.</li><li>Procesor czterordzeniowy: Zaawansowany procesor przetwarza nawet najbardziej złożone manewry force feedback, zapewniając realistyczne wrażenia z jazdy.</li><li>Precyzyjny enkoder z 262,144 punktami rozdzielczości: Gwarantuje płynne i niezwykle dokładne sterowanie, oddając każdy ruch kierownicy z chirurgiczną precyzją.</li><li>Wbudowane czujniki i system chłodzenia: Inteligentny system chłodzenia z czujnikami zapobiega przegrzewaniu się silnika podczas intensywnych wyścigów.</li><li>Kompaktowy rozmiar: Idealny do instalacji nawet w małych symulatorach, dzięki niewielkim wymiarom obudowy.</li><li>Aluminiowa obudowa z żebrami chłodzącymi: Wysokiej jakości aluminium i konstrukcja chłodząca pomagają utrzymać odpowiednią temperaturę silnika.</li><li>Supercar design: Nowoczesny wygląd inspirowany samochodami sportowymi dodaje unikalnego stylu każdemu setupowi wyścigowemu.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>170 x 130 x 327 mm (W x H x D)</p></li><li><p>Waga</p><p>8.9 kg</p></li><li><p>Materiał</p><p>aluminum, plastik</p></li><li><p>Kolor</p><p>Black</p></li><li><p>Podłączenie</p><p>USB</p></li><li><p>Platforma</p><p>PC</p></li><li><p>Napięcie robocze</p><p>110 - 220 V AC to 36 V DC</p></li><li><p>Zużycie energii</p><p>360 W</p></li><li><p>Częstotliwość próbkowania</p><p>1,000 Hz</p></li><li><p>Maksymalny moment obrotowy</p><p>16 Nm</p></li><li><p>Kompatybilność z produktami MOZA</p><p>MOZA Racing steering wheels with D1 Spec Quick Release</p></li><li><p>W zestawie</p><p>1x MOZA R16 Direct Drive Wheelbase<br/>1x Akcesoria montażowe</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/moza-r16-direct-drive-wheelba_66592.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66593.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66594.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66595.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66596.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66597.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66598.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66592.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66593.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66594.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66595.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66596.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66597.webp",
+    "galerie/m/moza-r16-direct-drive-wheelba_66598.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

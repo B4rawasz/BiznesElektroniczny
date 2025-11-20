@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia na CPU"
-    ],
-    "id": "18951",
-    "code": "ZUWA-320",
-    "name": "Ramka Thermal Grizzly Intel 1851 CPU Contact Frame V1",
-    "price": 133.9,
-    "description": "<h2>Ulepszona wydajność chłodzenia dzięki ramce montażowej</h2><p>Intel 1851 CPU Contact Frame służy jako pomoc montażowa i zastępuje oryginalny mechanizm dociskowy (ILM) płyty głównej. Dzięki zoptymalizowanemu naciskowi poprawia efektywność chłodzenia procesora przez systemy chłodzenia CPU.</p><h2>Podkręcanie bez kompromisów</h2><p>Intel LGA 1851 CPU Contact Frame zastępuje ILM płyty głównej. Specjalnie zaprojektowany profil wewnętrzny ramki przenosi siłę docisku z centralnej części CPU na jego krawędzie, zapobiegając wygięciu procesora w kształt wklęsły. Dzięki temu powierzchnia styku z chłodzeniem jest większa, co pozwala lepiej odprowadzać ciepło z newralgicznych punktów („hotspotów”).</p><h2>Ostrzeżenie</h2><p>Demontaż rozpraszacza ciepła CPU (IHS) oraz mocowania gniazda procesora (Retention Module) odbywa się na własne ryzyko i skutkuje całkowitą utratą gwarancji producenta oraz rękojmi.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
-    "images": [
-        "galerie/r/ramka-thermal-grizzly-intel-1_69850.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69851.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69852.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69853.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69854.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69855.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69850.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69851.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69852.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69853.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69854.webp",
-        "galerie/r/ramka-thermal-grizzly-intel-1_69855.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "18951",
+  "code": "ZUWA-320",
+  "name": "Ramka Thermal Grizzly Intel 1851 CPU Contact Frame V1",
+  "price": 133.9,
+  "description": "<h2>Ulepszona wydajność chłodzenia dzięki ramce montażowej</h2><p>Intel 1851 CPU Contact Frame służy jako pomoc montażowa i zastępuje oryginalny mechanizm dociskowy (ILM) płyty głównej. Dzięki zoptymalizowanemu naciskowi poprawia efektywność chłodzenia procesora przez systemy chłodzenia CPU.</p><h2>Podkręcanie bez kompromisów</h2><p>Intel LGA 1851 CPU Contact Frame zastępuje ILM płyty głównej. Specjalnie zaprojektowany profil wewnętrzny ramki przenosi siłę docisku z centralnej części CPU na jego krawędzie, zapobiegając wygięciu procesora w kształt wklęsły. Dzięki temu powierzchnia styku z chłodzeniem jest większa, co pozwala lepiej odprowadzać ciepło z newralgicznych punktów („hotspotów”).</p><h2>Ostrzeżenie</h2><p>Demontaż rozpraszacza ciepła CPU (IHS) oraz mocowania gniazda procesora (Retention Module) odbywa się na własne ryzyko i skutkuje całkowitą utratą gwarancji producenta oraz rękojmi.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/r/ramka-thermal-grizzly-intel-1_69850.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69851.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69852.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69853.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69854.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69855.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69850.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69851.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69852.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69853.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69854.webp",
+    "galerie/r/ramka-thermal-grizzly-intel-1_69855.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
 }

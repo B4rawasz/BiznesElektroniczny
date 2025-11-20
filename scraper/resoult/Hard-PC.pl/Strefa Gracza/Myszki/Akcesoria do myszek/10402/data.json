@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Akcesoria do myszek"
-    ],
-    "id": "10402",
-    "code": "GAZU-611",
-    "name": "Glorious Mouse Bungee Black",
-    "price": 71.9,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p><strong>Glorious Mouse Bungee</strong> to najlepsze rozwiązanie do zarządzania kablem od myszki. Pomaga wyeliminować opór stawiany przez kabel, dzięki czemu czujesz się jakbyś korzystał z myszki bezprzewodowej. Rozwiązanie to zapewnia swobodę ruchu, co znacząco zwiększa precyzję, która jest tak bardzo istotna w grach FPS.</p><p><strong>Glorious Mouse Bungee</strong> posiada regulowane ramię, które umożliwia dostosowanie wysokości uchwytu do stylu gry i preferencji gracza. Ultramobilna konstrukcja dzięki kompaktowym wymiarom sprawdza się również podczas podróży na LANy. Gumowe zaciski dostosowują się do dowolnej grubości kabla.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiar: 63 x 97 x 88 mm</li><li>Waga: 265 gramów</li><li>Kolor: Czarny</li><li>Baza: Guma</li><li>Gumowy klips do mocowania różnych rozmiarów kabli</li><li>Regulowane sprężynowo ramię do różnych regulacji wysokości</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/glorious.jpg",
-    "images": [
-        "galerie/g/glorious-pc-gaming-race-mouse_33144.webp",
-        "galerie/g/glorious-pc-gaming-race-mouse_33145.webp",
-        "galerie/g/glorious-pc-gaming-race-mouse_33146.webp",
-        "galerie/g/glorious-pc-gaming-race-mouse_33147.webp",
-        "galerie/g/glorious-pc-gaming-race-mouse_33144.webp",
-        "galerie/g/glorious-pc-gaming-race-mouse_33145.webp",
-        "galerie/g/glorious-pc-gaming-race-mouse_33146.webp",
-        "galerie/g/glorious-pc-gaming-race-mouse_33147.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Akcesoria do myszek"
+  ],
+  "id": "10402",
+  "code": "GAZU-611",
+  "name": "Glorious Mouse Bungee Black",
+  "price": 71.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p><strong>Glorious Mouse Bungee</strong> to najlepsze rozwiązanie do zarządzania kablem od myszki. Pomaga wyeliminować opór stawiany przez kabel, dzięki czemu czujesz się jakbyś korzystał z myszki bezprzewodowej. Rozwiązanie to zapewnia swobodę ruchu, co znacząco zwiększa precyzję, która jest tak bardzo istotna w grach FPS.</p><p><strong>Glorious Mouse Bungee</strong> posiada regulowane ramię, które umożliwia dostosowanie wysokości uchwytu do stylu gry i preferencji gracza. Ultramobilna konstrukcja dzięki kompaktowym wymiarom sprawdza się również podczas podróży na LANy. Gumowe zaciski dostosowują się do dowolnej grubości kabla.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiar: 63 x 97 x 88 mm</li><li>Waga: 265 gramów</li><li>Kolor: Czarny</li><li>Baza: Guma</li><li>Gumowy klips do mocowania różnych rozmiarów kabli</li><li>Regulowane sprężynowo ramię do różnych regulacji wysokości</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/g/glorious-pc-gaming-race-mouse_33144.webp",
+    "galerie/g/glorious-pc-gaming-race-mouse_33145.webp",
+    "galerie/g/glorious-pc-gaming-race-mouse_33146.webp",
+    "galerie/g/glorious-pc-gaming-race-mouse_33147.webp",
+    "galerie/g/glorious-pc-gaming-race-mouse_33144.webp",
+    "galerie/g/glorious-pc-gaming-race-mouse_33145.webp",
+    "galerie/g/glorious-pc-gaming-race-mouse_33146.webp",
+    "galerie/g/glorious-pc-gaming-race-mouse_33147.webp"
+  ],
+  "manufacturer": "Glorious"
 }

@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Gry planszowe",
-        "Akcesoria"
-    ],
-    "id": "19796",
-    "code": "9918995024006",
-    "name": "Farbka Citadel Retributor Armour 12ml (base)",
-    "price": 17.9,
-    "description": "<h2>Retributor Armour – farba metaliczna do złotych akcentów i pancerzy</h2><p>Retributor Armour to farba metaliczna Citadel, która doskonale nadaje się do malowania złotych detali, pancerzy i ozdób. Charakteryzuje się intensywnym, bogatym odcieniem złota, który idealnie pasuje do armii takich jak Adepta Sororitas, Grey Knights oraz innych jednostek, które posiadają złote akcenty lub pełne złote zbroje.</p><p>Farba ta zapewnia doskonałe krycie już przy pierwszej warstwie, tworząc gładką, metaliczną powłokę. Retributor Armour świetnie sprawdza się na większych powierzchniach, takich jak zbroje, hełmy, tarcze czy bronie, ale równie dobrze sprawdzi się na drobniejszych elementach, takich jak ozdoby czy symbole.</p><p>Dzięki swojej metalicznej formule, Retributor Armour daje piękny, połyskujący efekt, który doskonale imituje wygląd prawdziwego złota, szczególnie po nałożeniu na ciemniejszy podkład. Jest to idealna farba do tworzenia bogatych, złotych akcentów, które wyróżnią Twój model na tle innych.</p><p>Retributor Armour to must-have dla każdego modelarza, który chce uzyskać profesjonalny efekt złotych pancerzy i detali w swoich armiach.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
-    "manufacturer_img": "galerie/producenci/games-workshop.jpg",
-    "images": [
-        "galerie/f/farbka-citadel-retributor-arm_73407.webp",
-        "galerie/f/farbka-citadel-retributor-arm_73407.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Gry planszowe",
+    "Akcesoria"
+  ],
+  "id": "19796",
+  "code": "9918995024006",
+  "name": "Farbka Citadel Retributor Armour 12ml (base)",
+  "price": 17.9,
+  "description": "<h2>Retributor Armour – farba metaliczna do złotych akcentów i pancerzy</h2><p>Retributor Armour to farba metaliczna Citadel, która doskonale nadaje się do malowania złotych detali, pancerzy i ozdób. Charakteryzuje się intensywnym, bogatym odcieniem złota, który idealnie pasuje do armii takich jak Adepta Sororitas, Grey Knights oraz innych jednostek, które posiadają złote akcenty lub pełne złote zbroje.</p><p>Farba ta zapewnia doskonałe krycie już przy pierwszej warstwie, tworząc gładką, metaliczną powłokę. Retributor Armour świetnie sprawdza się na większych powierzchniach, takich jak zbroje, hełmy, tarcze czy bronie, ale równie dobrze sprawdzi się na drobniejszych elementach, takich jak ozdoby czy symbole.</p><p>Dzięki swojej metalicznej formule, Retributor Armour daje piękny, połyskujący efekt, który doskonale imituje wygląd prawdziwego złota, szczególnie po nałożeniu na ciemniejszy podkład. Jest to idealna farba do tworzenia bogatych, złotych akcentów, które wyróżnią Twój model na tle innych.</p><p>Retributor Armour to must-have dla każdego modelarza, który chce uzyskać profesjonalny efekt złotych pancerzy i detali w swoich armiach.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
+  "manufacturer_img": "galerie/producenci/games-workshop.jpg",
+  "images": [
+    "galerie/f/farbka-citadel-retributor-arm_73407.webp",
+    "galerie/f/farbka-citadel-retributor-arm_73407.webp"
+  ],
+  "manufacturer": "Games Workshop"
 }

@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Odkurzacze"
-    ],
-    "id": "17204",
-    "code": "TSL-VC-AI100",
-    "name": "Tesla Smart Robot sprzątający AI100",
-    "price": 799.0,
-    "description": "<h2>Niezawodny sprzęt do doskonałego sprzątania</h2><p>AI100 ma wszystko, czego potrzebujesz do dokładnego sprzątania. Moc ssania 1800 Pa pozwala poradzić sobie ze wszystkimi rodzajami podłóg, a wielofunkcyjny pojemnik na kurz (300 ml) i wodę (120 ml) może być używany do odkurzania i mycia bez konieczności wymiany pojemników. Ponadto filtr HEPA H11 zapewnia, że podczas sprzątania nie ma niepożądanych strumieni kurzu - niezawodnie zatrzymuje do 95% brudu, kurzu i alergenów. Dużą zaletą jest również dostępność materiałów eksploatacyjnych, więc wiesz, że nie będziesz zaskoczony wysoką ceną przy zakupie części.</p><h2>Do 110 minut na jednym ładowaniu</h2><p>Dzięki akumulatorowi o pojemności 2000 mAh odkurzacz może pracować aż do 110 minut, co wystarcza do sprzątania średniej wielkości mieszkania. Podczas sprzątania większego obszaru przydatna jest funkcja automatycznego ładowania - jeśli poziom naładowania spadnie poniżej 20%, urządzenie naładuje się, a następnie będzie kontynuować sprzątanie od miejsca, w którym zostało przerwane.</p><h2>Szczotki, które nie ominą żadnego kurzu</h2><p>Chociaż AI100 należy do kategorii niedrogich robotów sprzątających, ma doskonałą konstrukcję szczotek. Posiada dwie szczotki boczne i środkową szczotkę do zbierania brudu. Szczotki boczne usuwają brud z trudno dostępnych miejsc, takich jak narożniki lub ściany. Centralna szczotka skutecznie zbiera kurz, brud, włosy i inne drobne cząstki.</p><h2>Użyj aplikacji mobilnej, aby uzyskać inteligentne funkcje</h2><p>W zestawie znajduje się klasyczny pilot zdalnego sterowania, ale zalecamy korzystanie z aplikacji mobilnej, aby cieszyć się wszystkimi zaletami inteligentnego odkurzacza. Po podłączeniu do domowej sieci Wi-Fi możesz nim sterować zdalnie. Możesz odkurzać nawet bez wstawania z kanapy. Aplikacja TESLA Smart ma wszystkie niezbędne ustawienia - możesz ustawić czas sprzątania, wybrać żądany tryb lub moc ssania. Ponadto możesz zaplanować szczegółowy harmonogram sprzątania, podłączyć go do asystentów głosowych lub innych inteligentnych urządzeń w domu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>4 szt</p></li><li><p>Wysokość:</p><p>7.3 cm</p></li><li><p>Szerokość:</p><p>30 cm</p></li><li><p>Głębokość:</p><p>30 cm</p></li><li><p>Waga:</p><p>2.6 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-robot-sprzatajacy_63074.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63075.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63076.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63077.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63078.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63079.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63074.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63075.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63076.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63077.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63078.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63079.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Odkurzacze"
+  ],
+  "id": "17204",
+  "code": "TSL-VC-AI100",
+  "name": "Tesla Smart Robot sprzątający AI100",
+  "price": 799.0,
+  "description": "<h2>Niezawodny sprzęt do doskonałego sprzątania</h2><p>AI100 ma wszystko, czego potrzebujesz do dokładnego sprzątania. Moc ssania 1800 Pa pozwala poradzić sobie ze wszystkimi rodzajami podłóg, a wielofunkcyjny pojemnik na kurz (300 ml) i wodę (120 ml) może być używany do odkurzania i mycia bez konieczności wymiany pojemników. Ponadto filtr HEPA H11 zapewnia, że podczas sprzątania nie ma niepożądanych strumieni kurzu - niezawodnie zatrzymuje do 95% brudu, kurzu i alergenów. Dużą zaletą jest również dostępność materiałów eksploatacyjnych, więc wiesz, że nie będziesz zaskoczony wysoką ceną przy zakupie części.</p><h2>Do 110 minut na jednym ładowaniu</h2><p>Dzięki akumulatorowi o pojemności 2000 mAh odkurzacz może pracować aż do 110 minut, co wystarcza do sprzątania średniej wielkości mieszkania. Podczas sprzątania większego obszaru przydatna jest funkcja automatycznego ładowania - jeśli poziom naładowania spadnie poniżej 20%, urządzenie naładuje się, a następnie będzie kontynuować sprzątanie od miejsca, w którym zostało przerwane.</p><h2>Szczotki, które nie ominą żadnego kurzu</h2><p>Chociaż AI100 należy do kategorii niedrogich robotów sprzątających, ma doskonałą konstrukcję szczotek. Posiada dwie szczotki boczne i środkową szczotkę do zbierania brudu. Szczotki boczne usuwają brud z trudno dostępnych miejsc, takich jak narożniki lub ściany. Centralna szczotka skutecznie zbiera kurz, brud, włosy i inne drobne cząstki.</p><h2>Użyj aplikacji mobilnej, aby uzyskać inteligentne funkcje</h2><p>W zestawie znajduje się klasyczny pilot zdalnego sterowania, ale zalecamy korzystanie z aplikacji mobilnej, aby cieszyć się wszystkimi zaletami inteligentnego odkurzacza. Po podłączeniu do domowej sieci Wi-Fi możesz nim sterować zdalnie. Możesz odkurzać nawet bez wstawania z kanapy. Aplikacja TESLA Smart ma wszystkie niezbędne ustawienia - możesz ustawić czas sprzątania, wybrać żądany tryb lub moc ssania. Ponadto możesz zaplanować szczegółowy harmonogram sprzątania, podłączyć go do asystentów głosowych lub innych inteligentnych urządzeń w domu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>4 szt</p></li><li><p>Wysokość:</p><p>7.3 cm</p></li><li><p>Szerokość:</p><p>30 cm</p></li><li><p>Głębokość:</p><p>30 cm</p></li><li><p>Waga:</p><p>2.6 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-robot-sprzatajacy_63074.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63075.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63076.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63077.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63078.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63079.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63074.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63075.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63076.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63077.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63078.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63079.webp"
+  ],
+  "manufacturer": "Tesla"
 }

@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Karty dźwiękowe - Wzmacniacze DAC"
-    ],
-    "id": "12911",
-    "code": "E10K-TC",
-    "name": "Wzmacniacz słuchawkowy FiiO E10K-TC (Type-C) DAC",
-    "price": 325.0,
-    "description": "<p>Nowy E10K-TC jest na tyle mały i lekki, że możesz go zabrać ze sobą, gdziekolwiek tylko się wybierasz. Jeżeli zostajesz w domu, E10K-TC znakomicie odnajdzie się na Twoim biurku, aby Twoja muzyka np. z komputera brzmiała świetnie. Mała i łatwa w obsłudze konstrukcja sprawia, że jest to idealny towarzysz do słuchania na co dzień.</p><h2>Bezbłędne dekodowanie XMOS</h2><p>E10K-TC został wyposażony we flagowy układ XMOS XUF208 dla lepszego dekodowania USB. W porównaniu z oryginalnym E10K, klasa USB Audio została uaktualniona do wersji 2.0, w związku z czym PCM jest teraz obsługiwany z częstotliwością próbkowania do 32 bitów/384 kHz, aby jeszcze lepiej uchwycić wszelkie niuanse muzyczne.</p><figure><img alt=\"\" height=\"607\" src=\"galerie/w/wzmacniacz-sluchawkowy-fiio-e_46694.webp\" width=\"718\"/></figure><h2>Wysokiej klasy komponenty dla zachwycającego brzmienia</h2><p>Zastosowany DAC w E10K-TC to PCM5102 z ulepszeniami płaskości i opóźnienia wewnętrznego filtra cyfrowego – co oznacza lepszą jakość audio oraz mniejsze opóźnienia dźwięku. Dodatkowo wysokoprądowy obwód wzmacniacza E10K-TC zapewnia świetną moc wyjściową z jednocześnie doskonałą reakcją przejściową.</p><figure><img alt=\"\" height=\"683\" src=\"galerie/w/wzmacniacz-sluchawkowy-fiio-e_46695.webp\" width=\"716\"/></figure><h2>Dwa poziomy wzmocnienia z dodatkowym podbiciem basów</h2><p>E10K-TC posiada regulację wysokiego/niskiego wzmocnienia oraz dodatkowe, niezależne podbicie niskich tonów. Wysokie wzmocnienie jest przeznaczone dla słuchawek o wyższej impedancji, które mogą wymagać dodatkowej głośności, podczas gdy wzmocnienie basów pozwala zaspokoić preferencje różnych słuchaczy podczas słuchania różnych rodzajów muzyki.</p><h2>Niewiarygodnie niski poziom szumów</h2><p>Zoptymalizowane aktywne obwody dolnoprzepustowe oraz odpowiedzialne za basy zapewniają niższy poziom szumów w każdej sytuacji, dzięki czemu Twoja muzyka jest odtwarzana wiernie i bez zakłóceń.</p><h2>Nowoczesne, wszechstronne złącza</h2><p>Złącze USB typu C zapewnia większą kompatybilność urządzenia z różnorodnymi źródłami dźwięku. Jednocześnie wyjścia słuchawkowe/liniowe/koncentryczne (do 24bit/192kHz) zapewniają łatwość podłączenia do innych urządzeń.</p><figure><img alt=\"\" height=\"518\" src=\"galerie/w/wzmacniacz-sluchawkowy-fiio-e_46696.webp\" width=\"717\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Źródło zasilania</p><p>standardowe złącze USB typu C</p></li><li><p>Układ DAC</p><p>PCM5102</p></li><li><p>Moc wyjściowa</p><p>&gt;200mW (32 Ohm)</p></li><li><p>Częstotliwość próbkowania (dekodowanie USB)</p><p>do 384kHz/24bit</p></li><li><p>Stosunek sygnał - szum</p><p>&gt;114db</p></li><li><p>Wyjście koaksjalne</p><p>do 192kHz/24bit</p></li><li><p>Pasmo przenoszenia</p><p>20Hz~20kHz</p></li><li><p>Zalecana impedancja słuchawek</p><p>16Ω~150Ω</p></li><li><p>Wymiary</p><p>79mm×49.1mm×21mm</p></li><li><p>Waga</p><p>78g</p></li><li></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>FiiO</p></li><li><p>Dane producenta</p><p>FIIO Electronics Technology Co., Ltd., No.21 Longliang Road, Xialiang village, Longgui Street, Baiyun District, Guangzhou city,China,510540, sunny@fiio.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fiio.jpg",
-    "images": [
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46690.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46691.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46692.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46693.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46694.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46695.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46696.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46697.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46690.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46691.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46692.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46693.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46694.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46695.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46696.webp",
-        "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46697.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Karty dźwiękowe - Wzmacniacze DAC"
+  ],
+  "id": "12911",
+  "code": "E10K-TC",
+  "name": "Wzmacniacz słuchawkowy FiiO E10K-TC (Type-C) DAC",
+  "price": 325.0,
+  "description": "<p>Nowy E10K-TC jest na tyle mały i lekki, że możesz go zabrać ze sobą, gdziekolwiek tylko się wybierasz. Jeżeli zostajesz w domu, E10K-TC znakomicie odnajdzie się na Twoim biurku, aby Twoja muzyka np. z komputera brzmiała świetnie. Mała i łatwa w obsłudze konstrukcja sprawia, że jest to idealny towarzysz do słuchania na co dzień.</p><h2>Bezbłędne dekodowanie XMOS</h2><p>E10K-TC został wyposażony we flagowy układ XMOS XUF208 dla lepszego dekodowania USB. W porównaniu z oryginalnym E10K, klasa USB Audio została uaktualniona do wersji 2.0, w związku z czym PCM jest teraz obsługiwany z częstotliwością próbkowania do 32 bitów/384 kHz, aby jeszcze lepiej uchwycić wszelkie niuanse muzyczne.</p><figure><img alt=\"\" height=\"607\" src=\"galerie/w/wzmacniacz-sluchawkowy-fiio-e_46694.webp\" width=\"718\"/></figure><h2>Wysokiej klasy komponenty dla zachwycającego brzmienia</h2><p>Zastosowany DAC w E10K-TC to PCM5102 z ulepszeniami płaskości i opóźnienia wewnętrznego filtra cyfrowego – co oznacza lepszą jakość audio oraz mniejsze opóźnienia dźwięku. Dodatkowo wysokoprądowy obwód wzmacniacza E10K-TC zapewnia świetną moc wyjściową z jednocześnie doskonałą reakcją przejściową.</p><figure><img alt=\"\" height=\"683\" src=\"galerie/w/wzmacniacz-sluchawkowy-fiio-e_46695.webp\" width=\"716\"/></figure><h2>Dwa poziomy wzmocnienia z dodatkowym podbiciem basów</h2><p>E10K-TC posiada regulację wysokiego/niskiego wzmocnienia oraz dodatkowe, niezależne podbicie niskich tonów. Wysokie wzmocnienie jest przeznaczone dla słuchawek o wyższej impedancji, które mogą wymagać dodatkowej głośności, podczas gdy wzmocnienie basów pozwala zaspokoić preferencje różnych słuchaczy podczas słuchania różnych rodzajów muzyki.</p><h2>Niewiarygodnie niski poziom szumów</h2><p>Zoptymalizowane aktywne obwody dolnoprzepustowe oraz odpowiedzialne za basy zapewniają niższy poziom szumów w każdej sytuacji, dzięki czemu Twoja muzyka jest odtwarzana wiernie i bez zakłóceń.</p><h2>Nowoczesne, wszechstronne złącza</h2><p>Złącze USB typu C zapewnia większą kompatybilność urządzenia z różnorodnymi źródłami dźwięku. Jednocześnie wyjścia słuchawkowe/liniowe/koncentryczne (do 24bit/192kHz) zapewniają łatwość podłączenia do innych urządzeń.</p><figure><img alt=\"\" height=\"518\" src=\"galerie/w/wzmacniacz-sluchawkowy-fiio-e_46696.webp\" width=\"717\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Źródło zasilania</p><p>standardowe złącze USB typu C</p></li><li><p>Układ DAC</p><p>PCM5102</p></li><li><p>Moc wyjściowa</p><p>&gt;200mW (32 Ohm)</p></li><li><p>Częstotliwość próbkowania (dekodowanie USB)</p><p>do 384kHz/24bit</p></li><li><p>Stosunek sygnał - szum</p><p>&gt;114db</p></li><li><p>Wyjście koaksjalne</p><p>do 192kHz/24bit</p></li><li><p>Pasmo przenoszenia</p><p>20Hz~20kHz</p></li><li><p>Zalecana impedancja słuchawek</p><p>16Ω~150Ω</p></li><li><p>Wymiary</p><p>79mm×49.1mm×21mm</p></li><li><p>Waga</p><p>78g</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>FiiO</p></li><li><p>Dane producenta</p><p>FIIO Electronics Technology Co., Ltd., No.21 Longliang Road, Xialiang village, Longgui Street, Baiyun District, Guangzhou city,China,510540, sunny@fiio.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fiio.jpg",
+  "images": [
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46690.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46691.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46692.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46693.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46694.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46695.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46696.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46697.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46690.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46691.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46692.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46693.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46694.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46695.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46696.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-e_46697.webp"
+  ],
+  "manufacturer": "FiiO"
 }

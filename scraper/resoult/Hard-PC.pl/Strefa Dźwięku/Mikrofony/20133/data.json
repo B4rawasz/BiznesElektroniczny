@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Mikrofony"
-    ],
-    "id": "20133",
-    "code": "4820216971606",
-    "name": "Mikrofon Fifine A6T",
-    "price": 279.0,
-    "description": "<h2>Gamingowy mikrofon Fifine A6T AMPLIGAME USB RGB</h2><p><strong>Fifine A6T AMPLIGAME</strong> to wysokiej jakości mikrofon gamingowy typu Plug and Play, zaprojektowany z myślą o graczach. Model A6T AMPLIGAME oferuje doskonałą jakość dźwięku z głębokimi basami oraz czystymi wysokimi tonami.</p><h2>Kompletne wyposażenie dla graczy</h2><p>Mikrofon wyposażono w wygodny statyw, podświetlenie RGB oraz zdejmowany pop-filtr, który poprawia jakość nagrań. To kompletny zestaw, który zadowoli nawet wymagających użytkowników.</p><h2>Uniwersalna kompatybilność i wygoda użytkowania</h2><p>Fifine A6T współpracuje z systemami <strong>Windows, Mac</strong> oraz konsolami <strong>PlayStation</strong>. Port USB umieszczony jest bezpośrednio za mikrofonem, co znacznie ułatwia jego podłączanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Złącze</p><p>USB</p></li><li><p>Napięcie</p><p>5 V</p></li><li><p>Plug &amp; Play</p><p>tak</p></li><li><p>Kierunkowość</p><p>kardioidalna, jednokierunkowy</p></li><li><p>Prąd elektryczny</p><p>50-80 mA</p></li><li><p>Pasmo przenoszenia</p><p>60 Hz – 18 kHz</p></li><li><p>Czułość</p><p>40 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Stosunek sygnału do szumu</p><p>70 dB</p></li><li><p>Częstotliwość próbkowania</p><p>48 kHz</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fifine.jpg",
-    "images": [
-        "galerie/m/mikrofon-fifine-a6t_76835.webp",
-        "galerie/m/mikrofon-fifine-a6t_76836.webp",
-        "galerie/m/mikrofon-fifine-a6t_76837.webp",
-        "galerie/m/mikrofon-fifine-a6t_76838.webp",
-        "galerie/m/mikrofon-fifine-a6t_76835.webp",
-        "galerie/m/mikrofon-fifine-a6t_76836.webp",
-        "galerie/m/mikrofon-fifine-a6t_76837.webp",
-        "galerie/m/mikrofon-fifine-a6t_76838.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "20133",
+  "code": "4820216971606",
+  "name": "Mikrofon Fifine A6T",
+  "price": 279.0,
+  "description": "<h2>Gamingowy mikrofon Fifine A6T AMPLIGAME USB RGB</h2><p><strong>Fifine A6T AMPLIGAME</strong> to wysokiej jakości mikrofon gamingowy typu Plug and Play, zaprojektowany z myślą o graczach. Model A6T AMPLIGAME oferuje doskonałą jakość dźwięku z głębokimi basami oraz czystymi wysokimi tonami.</p><h2>Kompletne wyposażenie dla graczy</h2><p>Mikrofon wyposażono w wygodny statyw, podświetlenie RGB oraz zdejmowany pop-filtr, który poprawia jakość nagrań. To kompletny zestaw, który zadowoli nawet wymagających użytkowników.</p><h2>Uniwersalna kompatybilność i wygoda użytkowania</h2><p>Fifine A6T współpracuje z systemami <strong>Windows, Mac</strong> oraz konsolami <strong>PlayStation</strong>. Port USB umieszczony jest bezpośrednio za mikrofonem, co znacznie ułatwia jego podłączanie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Złącze</p><p>USB</p></li><li><p>Napięcie</p><p>5 V</p></li><li><p>Plug &amp; Play</p><p>tak</p></li><li><p>Kierunkowość</p><p>kardioidalna, jednokierunkowy</p></li><li><p>Prąd elektryczny</p><p>50-80 mA</p></li><li><p>Pasmo przenoszenia</p><p>60 Hz – 18 kHz</p></li><li><p>Czułość</p><p>40 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Stosunek sygnału do szumu</p><p>70 dB</p></li><li><p>Częstotliwość próbkowania</p><p>48 kHz</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fifine.jpg",
+  "images": [
+    "galerie/m/mikrofon-fifine-a6t_76835.webp",
+    "galerie/m/mikrofon-fifine-a6t_76836.webp",
+    "galerie/m/mikrofon-fifine-a6t_76837.webp",
+    "galerie/m/mikrofon-fifine-a6t_76838.webp",
+    "galerie/m/mikrofon-fifine-a6t_76835.webp",
+    "galerie/m/mikrofon-fifine-a6t_76836.webp",
+    "galerie/m/mikrofon-fifine-a6t_76837.webp",
+    "galerie/m/mikrofon-fifine-a6t_76838.webp"
+  ],
+  "manufacturer": "Fifine"
 }

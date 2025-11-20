@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Akcesoria do myszek"
-    ],
-    "id": "11355",
-    "code": "GAMO-840",
-    "name": "Ślizgacze Glorious G-Skatez (Model D)",
-    "price": 32.9,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Glorious G-Skatez to ślizgacze premium przeznaczone dla myszki Glorious Model D. G-Skatez wykonane są z teflonu (PTFE) o zaokrąglonych krawędziach, dzięki czemu nie będą zawadzać o podkładkę nadając myszce odpowiedni ślizg. 0,81mm grubości zapewnia maksymalną żywotność.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Model: GD-GSKATE</li><li>Pasuje do: Glorious Model O/O-</li><li>Grubość: 0.81mm</li><li>Zawartość: 1 zestaw</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/glorious.jpg",
-    "images": [
-        "galerie/s/slizgacze-glorious-pc-gaming_37936.webp",
-        "galerie/s/slizgacze-glorious-pc-gaming_37937.webp",
-        "galerie/s/slizgacze-glorious-pc-gaming_37936.webp",
-        "galerie/s/slizgacze-glorious-pc-gaming_37937.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Akcesoria do myszek"
+  ],
+  "id": "11355",
+  "code": "GAMO-840",
+  "name": "Ślizgacze Glorious G-Skatez (Model D)",
+  "price": 32.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Glorious G-Skatez to ślizgacze premium przeznaczone dla myszki Glorious Model D. G-Skatez wykonane są z teflonu (PTFE) o zaokrąglonych krawędziach, dzięki czemu nie będą zawadzać o podkładkę nadając myszce odpowiedni ślizg. 0,81mm grubości zapewnia maksymalną żywotność.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Model: GD-GSKATE</li><li>Pasuje do: Glorious Model O/O-</li><li>Grubość: 0.81mm</li><li>Zawartość: 1 zestaw</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/s/slizgacze-glorious-pc-gaming_37936.webp",
+    "galerie/s/slizgacze-glorious-pc-gaming_37937.webp",
+    "galerie/s/slizgacze-glorious-pc-gaming_37936.webp",
+    "galerie/s/slizgacze-glorious-pc-gaming_37937.webp"
+  ],
+  "manufacturer": "Glorious"
 }

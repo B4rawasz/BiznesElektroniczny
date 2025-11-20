@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Akcesoria do monitorów"
-    ],
-    "id": "15534",
-    "code": "Y-C139M",
-    "name": "Kabel HDMI 2.0 4K 60Hz Unitek Basic Y-C139M - 3m",
-    "price": 19.99,
-    "description": "<h2>Szybki jak błyskawica</h2><p>Dla jakości sygnału HDMI w kablu największe znaczenie ma przewód. Dlatego Unitek stosuje wyłącznie żyły wykonane ze 100% miedzi o grubości 30 do 24 AWG. Kable są bardzo wytrzymałe i giętkie. Łącznie 19 żył jest skręcane parami i wielokrotnie ekranowane, żeby obraz był czysty, wyraźny i bez zakłóceń.</p><p>W porównaniu ze standardowymi przewodami, technologia ta zapewnia do 35% szybszy transfer sygnału (o 50% większą stabilność obrazu i 99% większą odporność na różnego rodzaju zakłócenia (przesłuch</p><h2>Nowe możliwości HDMI</h2><p>Przewód obsługuje wersję HDMI 2.0. Wspiera wyświetlanie obrazu 3D oraz rozdzielczość do 4K przy częstotliwości 30 Hz. Pozwala na transmisję sygnału Ethernet a także przesyłanie zwrotne sygnału audio. Przewód HDMI typu High Speed poszerza szerokość pasma sygnału do 340Mhz i maksymalną przepływność TMDS do wartości 10,2 Gbps, co pozwala na uzyskanie rozdzielczości 1920x1200p60 przy 48 bitowej głębi kolorów a także obsługę rozdzielczości 4K x 2K (4096x2160p24) przy gamie barw 36 bit i niższej.</p><h2>Z dbałością o każdy detal</h2><p>Unitek dba także o funkcjonalne aspekty dostarczanych towarów. Kable pakowane są w estetyczne tekturowe pudełka. Każdy przewód spięty jest opaską, aby łatwiej zapanować nad organizacją jego przebiegu. Końcówki zabezpieczone są przeciwkurzowymi zatyczkami - ułatwiają jego przeciąganie w ciasnych korytkach - i owinięte taśma zabezpieczającą. Pozłacanie wtyków chroni je przed korozją i stabilizuje sygnał. Wszystko to po to, aby przewód służył przez długie lata.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować, zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wykonany z czystej miedzi z wielokrotnym ekranowaniem</li><li>HDMI 2.0</li><li>Pozłacane wtyki</li><li>Przeciwkurzowe zatyczki</li><li>Długość 3 m</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Dodatkowe informacje</p><p>High Speed HDMI Cable</p></li><li><p>Głębokość</p><p>3 cm</p></li><li><p>Ilość w opakowaniu</p><p>1 szt</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał zewnętrzny</p><p>PVC</p></li><li><p>Obsługiwane technologie</p><p>32 kanały audio<br/>3D<br/>ARC<br/>CEC<br/>Dolby Atmos<br/>Dolby Digital<br/>EDID<br/>Ethernet<br/>HDCP<br/>HDR<br/>Plug &amp; Play</p></li><li><p>Pozłacane końcówki</p><p>tak</p></li><li><p>Przepustowość</p><p>18 Gbps</p></li><li><p>Standard Video</p><p>HDMI 2.0</p></li><li><p>Szerokość</p><p>2 cm</p></li><li><p>Waga</p><p>0.071 kg</p></li><li><p>Wysokość</p><p>1 cm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55400.webp",
-        "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55401.webp",
-        "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55402.webp",
-        "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55400.webp",
-        "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55401.webp",
-        "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55402.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Akcesoria do monitorów"
+  ],
+  "id": "15534",
+  "code": "Y-C139M",
+  "name": "Kabel HDMI 2.0 4K 60Hz Unitek Basic Y-C139M - 3m",
+  "price": 19.99,
+  "description": "<h2>Szybki jak błyskawica</h2><p>Dla jakości sygnału HDMI w kablu największe znaczenie ma przewód. Dlatego Unitek stosuje wyłącznie żyły wykonane ze 100% miedzi o grubości 30 do 24 AWG. Kable są bardzo wytrzymałe i giętkie. Łącznie 19 żył jest skręcane parami i wielokrotnie ekranowane, żeby obraz był czysty, wyraźny i bez zakłóceń.</p><p>W porównaniu ze standardowymi przewodami, technologia ta zapewnia do 35% szybszy transfer sygnału (o 50% większą stabilność obrazu i 99% większą odporność na różnego rodzaju zakłócenia (przesłuch</p><h2>Nowe możliwości HDMI</h2><p>Przewód obsługuje wersję HDMI 2.0. Wspiera wyświetlanie obrazu 3D oraz rozdzielczość do 4K przy częstotliwości 30 Hz. Pozwala na transmisję sygnału Ethernet a także przesyłanie zwrotne sygnału audio. Przewód HDMI typu High Speed poszerza szerokość pasma sygnału do 340Mhz i maksymalną przepływność TMDS do wartości 10,2 Gbps, co pozwala na uzyskanie rozdzielczości 1920x1200p60 przy 48 bitowej głębi kolorów a także obsługę rozdzielczości 4K x 2K (4096x2160p24) przy gamie barw 36 bit i niższej.</p><h2>Z dbałością o każdy detal</h2><p>Unitek dba także o funkcjonalne aspekty dostarczanych towarów. Kable pakowane są w estetyczne tekturowe pudełka. Każdy przewód spięty jest opaską, aby łatwiej zapanować nad organizacją jego przebiegu. Końcówki zabezpieczone są przeciwkurzowymi zatyczkami - ułatwiają jego przeciąganie w ciasnych korytkach - i owinięte taśma zabezpieczającą. Pozłacanie wtyków chroni je przed korozją i stabilizuje sygnał. Wszystko to po to, aby przewód służył przez długie lata.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować, zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wykonany z czystej miedzi z wielokrotnym ekranowaniem</li><li>HDMI 2.0</li><li>Pozłacane wtyki</li><li>Przeciwkurzowe zatyczki</li><li>Długość 3 m</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Dodatkowe informacje</p><p>High Speed HDMI Cable</p></li><li><p>Głębokość</p><p>3 cm</p></li><li><p>Ilość w opakowaniu</p><p>1 szt</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał zewnętrzny</p><p>PVC</p></li><li><p>Obsługiwane technologie</p><p>32 kanały audio<br/>3D<br/>ARC<br/>CEC<br/>Dolby Atmos<br/>Dolby Digital<br/>EDID<br/>Ethernet<br/>HDCP<br/>HDR<br/>Plug &amp; Play</p></li><li><p>Pozłacane końcówki</p><p>tak</p></li><li><p>Przepustowość</p><p>18 Gbps</p></li><li><p>Standard Video</p><p>HDMI 2.0</p></li><li><p>Szerokość</p><p>2 cm</p></li><li><p>Waga</p><p>0.071 kg</p></li><li><p>Wysokość</p><p>1 cm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55400.webp",
+    "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55401.webp",
+    "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55402.webp",
+    "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55400.webp",
+    "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55401.webp",
+    "galerie/k/kabel-hdmi-2-0-4k-60hz-unitek_55402.webp"
+  ],
+  "manufacturer": "Unitek"
 }

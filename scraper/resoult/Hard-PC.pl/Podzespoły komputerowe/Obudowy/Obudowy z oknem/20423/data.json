@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy z oknem"
-    ],
-    "id": "20423",
-    "code": "GEPH-203",
-    "name": "Obudowa Phanteks XT M3 RGB (3×120 mm fans) Black",
-    "price": 0.0,
-    "description": "<h2>Smukła, miniaturowa obudowa do Twojego sprzętu gamingowego</h2><p><strong>Phanteks XT M3</strong> to kompaktowa obudowa SF zaprojektowana z myślą o dużych możliwościach. Dzięki konstrukcji z tylnym złączem jest kompatybilna z zaawansowanymi kartami graficznymi i płytami głównymi, idealna dla nowoczesnego sprzętu gamingowego.</p><h2>Skuteczne chłodzenie dzięki wentylatorowi i radiatorowi</h2><p>Obudowa pozwala na montaż do <strong>dziewięciu wentylatorów</strong>, zapewniając efektywne chłodzenie nawet przy dużym obciążeniu. Trzy wentylatory można zamontować na spodzie, tuż pod kartą graficzną, co zwiększa chłodzenie GPU. Na pokrywie można zainstalować chłodnicę o szerokości <strong>360 mm</strong>, jeśli preferujesz chłodzenie wodne.</p><h2>Optymalny przepływ powietrza</h2><p>Przedni panel z siatką gwarantuje doskonały przepływ powietrza, co zmniejsza gromadzenie się gorącego powietrza wewnątrz obudowy i wspiera stabilność systemu.</p><h2>Mini-ITX przeznaczona do wydajnego sprzętu</h2><p>Obudowa pomieści karty graficzne o długości do <strong>430 mm</strong>. W przypadku użycia pełnej długości GPU montaż wentylatorów z przodu nie będzie możliwy. Maksymalna wysokość chłodzenia procesora wynosi <strong>175 mm</strong>, a długość zasilacza nie powinna przekraczać <strong>150 mm</strong>.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Kompaktowy rozmiar: Oszczędzająca miejsce obudowa do przechowywania sprzętu najwyższej klasy</li><li>Efektywne chłodzenie: miejsce na aż dziewięć wentylatorów</li><li>Duży radiator: Możliwy montaż radiatora 360 mm na pokrywie</li><li>Schludna konstrukcja: miejsce na właściwe zarządzanie kablami</li><li>Obsługa połączenia tylnego: obsługa płyt głównych z konstrukcją połączenia tylnego</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Wymiary (Długość / Głębokość × Szerokość × Wysokość)</p><p>460 × 235 × 370 mm</p></li><li><p>Waga</p><p>5,5 kg</p></li><li><p>Kompatybilne formaty płyt głównych</p><p>Micro-ATX, Mini-ITX (maksymalny format: Micro-ATX)</p></li><li><p>Maksymalna wysokość chłodzenia procesora</p><p>175 mm</p></li><li><p>Maksymalna długość karty graficznej</p><p>430 mm</p></li><li><p>Maksymalna długość/głębokość zasilacza</p><p>150 mm</p></li><li><p>Wyświetlacz w zestawie</p><p>Nie</p></li><li><p>Zasilacz w zestawie</p><p>Nie</p></li><li><p>Format zasilania</p><p>ATX</p></li><li><p>Pozycja zasilacza</p><p>Tył, dół</p></li><li><p>Maksymalna liczba wentylatorów</p><p>9</p></li><li><p>Maksymalna kompatybilność z grzejnikami</p><p>1x potrójny (360 mm)</p></li><li><p>Maksymalna liczba dysków</p><p>2x 2,5 cala, 1x 3,5 cala</p></li><li><p>Połączenia zewnętrzne</p><p>1x USB 3.2 typu C, 1x USB 3.0 typu A</p></li><li><p>Wyjścia i wejścia audio</p><p>1x wyjście/wejście combo (gniazdo 3,5 mm, 4-biegunowe, TRRS)</p></li><li><p>Panel boczny</p><p>Ze szkła hartowanego (z oknem)</p></li><li><p>Gniazda rozszerzeń/PCI</p><p>4</p></li><li><p>Oświetlenie / RGB</p><p>Tak (ARGB / DRGB)</p></li><li><p>Wentylatory fabrycznie zainstalowane</p><p>3x 120 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/phanteks.jpg",
-    "images": [
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77192.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77189.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77190.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77187.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77188.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77191.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77193.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77194.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77192.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77189.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77190.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77187.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77188.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77191.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77193.webp",
-        "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77194.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "20423",
+  "code": "GEPH-203",
+  "name": "Obudowa Phanteks XT M3 RGB (3×120 mm fans) Black",
+  "price": 0.0,
+  "description": "<h2>Smukła, miniaturowa obudowa do Twojego sprzętu gamingowego</h2><p><strong>Phanteks XT M3</strong> to kompaktowa obudowa SF zaprojektowana z myślą o dużych możliwościach. Dzięki konstrukcji z tylnym złączem jest kompatybilna z zaawansowanymi kartami graficznymi i płytami głównymi, idealna dla nowoczesnego sprzętu gamingowego.</p><h2>Skuteczne chłodzenie dzięki wentylatorowi i radiatorowi</h2><p>Obudowa pozwala na montaż do <strong>dziewięciu wentylatorów</strong>, zapewniając efektywne chłodzenie nawet przy dużym obciążeniu. Trzy wentylatory można zamontować na spodzie, tuż pod kartą graficzną, co zwiększa chłodzenie GPU. Na pokrywie można zainstalować chłodnicę o szerokości <strong>360 mm</strong>, jeśli preferujesz chłodzenie wodne.</p><h2>Optymalny przepływ powietrza</h2><p>Przedni panel z siatką gwarantuje doskonały przepływ powietrza, co zmniejsza gromadzenie się gorącego powietrza wewnątrz obudowy i wspiera stabilność systemu.</p><h2>Mini-ITX przeznaczona do wydajnego sprzętu</h2><p>Obudowa pomieści karty graficzne o długości do <strong>430 mm</strong>. W przypadku użycia pełnej długości GPU montaż wentylatorów z przodu nie będzie możliwy. Maksymalna wysokość chłodzenia procesora wynosi <strong>175 mm</strong>, a długość zasilacza nie powinna przekraczać <strong>150 mm</strong>.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Kompaktowy rozmiar: Oszczędzająca miejsce obudowa do przechowywania sprzętu najwyższej klasy</li><li>Efektywne chłodzenie: miejsce na aż dziewięć wentylatorów</li><li>Duży radiator: Możliwy montaż radiatora 360 mm na pokrywie</li><li>Schludna konstrukcja: miejsce na właściwe zarządzanie kablami</li><li>Obsługa połączenia tylnego: obsługa płyt głównych z konstrukcją połączenia tylnego</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Wymiary (Długość / Głębokość × Szerokość × Wysokość)</p><p>460 × 235 × 370 mm</p></li><li><p>Waga</p><p>5,5 kg</p></li><li><p>Kompatybilne formaty płyt głównych</p><p>Micro-ATX, Mini-ITX (maksymalny format: Micro-ATX)</p></li><li><p>Maksymalna wysokość chłodzenia procesora</p><p>175 mm</p></li><li><p>Maksymalna długość karty graficznej</p><p>430 mm</p></li><li><p>Maksymalna długość/głębokość zasilacza</p><p>150 mm</p></li><li><p>Wyświetlacz w zestawie</p><p>Nie</p></li><li><p>Zasilacz w zestawie</p><p>Nie</p></li><li><p>Format zasilania</p><p>ATX</p></li><li><p>Pozycja zasilacza</p><p>Tył, dół</p></li><li><p>Maksymalna liczba wentylatorów</p><p>9</p></li><li><p>Maksymalna kompatybilność z grzejnikami</p><p>1x potrójny (360 mm)</p></li><li><p>Maksymalna liczba dysków</p><p>2x 2,5 cala, 1x 3,5 cala</p></li><li><p>Połączenia zewnętrzne</p><p>1x USB 3.2 typu C, 1x USB 3.0 typu A</p></li><li><p>Wyjścia i wejścia audio</p><p>1x wyjście/wejście combo (gniazdo 3,5 mm, 4-biegunowe, TRRS)</p></li><li><p>Panel boczny</p><p>Ze szkła hartowanego (z oknem)</p></li><li><p>Gniazda rozszerzeń/PCI</p><p>4</p></li><li><p>Oświetlenie / RGB</p><p>Tak (ARGB / DRGB)</p></li><li><p>Wentylatory fabrycznie zainstalowane</p><p>3x 120 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77192.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77189.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77190.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77187.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77188.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77191.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77193.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77194.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77192.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77189.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77190.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77187.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77188.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77191.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77193.webp",
+    "galerie/o/obudowa-phanteks-xt-m3-rgb-3_77194.webp"
+  ],
+  "manufacturer": "Phanteks"
 }

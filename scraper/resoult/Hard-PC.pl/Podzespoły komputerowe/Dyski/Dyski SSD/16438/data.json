@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Dyski",
-        "Dyski SSD"
-    ],
-    "id": "16438",
-    "code": "LNS100-512RB",
-    "name": "Dysk SSD Lexar NS100 512GB SATA3 2.5 550/440MB/s",
-    "price": 189.0,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ dysku</p><p>SSD</p></li><li><p>Format szerokości</p><p>2,5'' (SFF)</p></li><li><p>Typ napędu</p><p>Wewnętrzny</p></li><li><p>Pojemność dysku</p><p>512 GB</p></li><li><p>Interfejs dysku</p><p>SATA III - 6 Gb/s</p></li><li><p>TBW</p><p>240 TB</p></li><li><p>Prędkość odczytu</p><p>550 MB/s</p></li><li><p>Prędkość zapisu</p><p>450 MB/s</p></li><li><p>Kolor</p><p>Nie dotyczy</p></li><li><p>Wysokość</p><p>7 mm</p></li><li><p>Szerokość</p><p>69.85 mm</p></li><li><p>Głębokość</p><p>100.2 mm</p></li><li><p>Waga</p><p>34 g</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lexuar</p></li><li><p>Dane producenta</p><p>Lexar Europe B.V, Grevelingstraat 40, 2161WG Lisse, Netherlands, nfo-europe@lexar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lexar.jpg",
-    "images": [
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58726.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58727.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58728.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58729.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58730.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58731.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58726.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58727.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58728.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58729.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58730.webp",
-        "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58731.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Dyski SSD"
+  ],
+  "id": "16438",
+  "code": "LNS100-512RB",
+  "name": "Dysk SSD Lexar NS100 512GB SATA3 2.5 550/440MB/s",
+  "price": 189.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ dysku</p><p>SSD</p></li><li><p>Format szerokości</p><p>2,5'' (SFF)</p></li><li><p>Typ napędu</p><p>Wewnętrzny</p></li><li><p>Pojemność dysku</p><p>512 GB</p></li><li><p>Interfejs dysku</p><p>SATA III - 6 Gb/s</p></li><li><p>TBW</p><p>240 TB</p></li><li><p>Prędkość odczytu</p><p>550 MB/s</p></li><li><p>Prędkość zapisu</p><p>450 MB/s</p></li><li><p>Kolor</p><p>Nie dotyczy</p></li><li><p>Wysokość</p><p>7 mm</p></li><li><p>Szerokość</p><p>69.85 mm</p></li><li><p>Głębokość</p><p>100.2 mm</p></li><li><p>Waga</p><p>34 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lexuar</p></li><li><p>Dane producenta</p><p>Lexar Europe B.V, Grevelingstraat 40, 2161WG Lisse, Netherlands, nfo-europe@lexar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lexar.jpg",
+  "images": [
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58726.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58727.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58728.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58729.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58730.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58731.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58726.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58727.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58728.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58729.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58730.webp",
+    "galerie/d/dysk-ssd-lexar-ns100-256gb-sa_58731.webp"
+  ],
+  "manufacturer": "Lexuar"
 }

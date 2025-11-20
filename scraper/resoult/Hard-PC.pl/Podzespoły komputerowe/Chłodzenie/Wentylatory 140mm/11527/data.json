@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 140mm"
-    ],
-    "id": "11527",
-    "code": "LUPH-053",
-    "name": "Wentylator Phanteks SK PH-F120SK D-RGB 120mm PWM",
-    "price": 15.99,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><!-- OPIS --><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Wymiary: 120 x 120 x 25 mm (W x H x D)</li><li>Materiał: Plastik, guma</li><li>Kolor: Czarny (ramka), biały (łopatki)</li><li>Podświetlenie: RGB, 12 LED</li><li>Głośność: 27 dB (A)</li><li>Prędkość obrotowa: 500 - 1500 rpm (-10 / + 5%)</li><li>Przepływ powietrza: 84.95 m³ / h</li><li>Cisnienie statyczne: 0.96 mm H2O</li><li>Zakres pracy: 4 - 13 V</li><li>Zużycie energii: max. 2.64 W.</li><li>Wtyczka: 4-pin PWM, Phanteks RGB 3-pin</li><li>Długość przewodu: 550 mm (zasilanie), 300mm + 100mm (RGB + Y-switch)</li><li>MTBF: 40,000 godzin</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/phanteks.jpg",
-    "images": [
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38953.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38954.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38955.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38956.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38957.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38958.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38959.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38960.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38953.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38954.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38955.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38956.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38957.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38958.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38959.webp",
-        "galerie/w/wentylator-phanteks-sk-ph-f12_38960.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 140mm"
+  ],
+  "id": "11527",
+  "code": "LUPH-053",
+  "name": "Wentylator Phanteks SK PH-F120SK D-RGB 120mm PWM",
+  "price": 15.99,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><!-- OPIS --><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Wymiary: 120 x 120 x 25 mm (W x H x D)</li><li>Materiał: Plastik, guma</li><li>Kolor: Czarny (ramka), biały (łopatki)</li><li>Podświetlenie: RGB, 12 LED</li><li>Głośność: 27 dB (A)</li><li>Prędkość obrotowa: 500 - 1500 rpm (-10 / + 5%)</li><li>Przepływ powietrza: 84.95 m³ / h</li><li>Cisnienie statyczne: 0.96 mm H2O</li><li>Zakres pracy: 4 - 13 V</li><li>Zużycie energii: max. 2.64 W.</li><li>Wtyczka: 4-pin PWM, Phanteks RGB 3-pin</li><li>Długość przewodu: 550 mm (zasilanie), 300mm + 100mm (RGB + Y-switch)</li><li>MTBF: 40,000 godzin</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38953.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38954.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38955.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38956.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38957.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38958.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38959.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38960.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38953.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38954.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38955.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38956.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38957.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38958.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38959.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38960.webp"
+  ],
+  "manufacturer": "Phanteks"
 }

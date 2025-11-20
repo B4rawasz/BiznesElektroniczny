@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Akcesoria do monitorów"
-    ],
-    "id": "15542",
-    "code": "C1624BK-1M",
-    "name": "Kabel DisplayPort 1.4 8K@60Hz Unitek C1624BK-1M - 1m",
-    "price": 32.99,
-    "description": "<h2>Najwyższa jakość wykonania</h2><p>Kabel Unitek DisplayPort 1.4 wykonany z odpornego na korozję pozłacanego złącza oraz izolowanymi przewodami doskonale sprawdzi się przy urządzeniach obsługujących standard 8k oraz 4k. Przepustowość do 32,4 Gbps gwarantuje szybki i stabilny transfer danych. Przewód podłączysz do laptopa, konsoli, monitora czy odtwarzacza Blu-ray. Trwałą konstrukcję zapewniają pozłacane wtyki i wyprofilowany uchwyt.</p><p>Dzięki obsłudze Display Stream Compression 1.2 (DSC), FEC oraz Dynamic HDR możesz cieszyć się najwyższą jakością obrazu 8k przy częstotliwości odświeżania do 240 Hz. Kabel doskonale sprawdza się przy obsłudze 3D oraz VR.</p><h2>Jakość obrazu i dźwięku bez kompromisów</h2><p>DisplayPort 1.4 zapewnia rozrywkę najwyższej jakości zarówno w obszarze obrazu jak i dźwięku. Przewód obsługuje 32 kanały audio i szeroką gamę kolorów dynamicznego HDR. Pozłacane złącza i zastosowanie światłowodu razem z kodowaniem korygującym FEC skutecznie chronią przed zakłóceniami i szumami nawet na największych odległościach.</p><h2>Seriale w 8K</h2><p>Serwisy streamingowe takie jak Netflix, Amazon Prime czy HBO stosują zabezpieczenia przed nielegalnym kopiowaniem sygnału wysokiej jakości. Dlatego, aby odtwarzać wideo w rozdzielczości 8K potrzeba urządzeń, które wspierają zabezpieczenia HDCP 2.3 - tak jak ten kabel DisplayPort 1.4.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu</p><p>1 szt</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Obsługiwane technologie</p><p>32 kanały audio<br/>3D<br/>DisplayPort Alt Mode<br/>HDCP<br/>HDR<br/>Multi-Stream Transport</p></li><li><p>Pozłacane końcówki</p><p>tak</p></li><li><p>Przepustowość</p><p>32.4 Gbps</p></li><li><p>Standard Video</p><p>DisplayPort 1.4</p></li><li><p>Długość przewodu</p><p>1 m</p></li><li><p>Ilość w opakowaniu zbiorczym</p><p>40 szt</p></li><li><p>Linia produktu</p><p>High</p></li><li><p>Maksymalna rozdzielczość</p><p>8K</p></li><li><p>Możliwość pracy dwukierunkowej</p><p>tak</p></li><li><p>Oplot</p><p>nie</p></li><li><p>Przewód płaski</p><p>nie</p></li><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Zastosowanie</p><p>Audio / Video</p></li><li><p>Złącze 1</p><p>Wtyk DP</p></li><li><p>Złącze 2</p><p>Wtyk DP</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55416.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55417.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55418.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55419.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55420.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55421.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55422.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55423.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55416.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55417.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55418.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55419.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55420.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55421.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55422.webp",
-        "galerie/k/kabel-displayport-1-4-8k-60hz_55423.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Akcesoria do monitorów"
+  ],
+  "id": "15542",
+  "code": "C1624BK-1M",
+  "name": "Kabel DisplayPort 1.4 8K@60Hz Unitek C1624BK-1M - 1m",
+  "price": 32.99,
+  "description": "<h2>Najwyższa jakość wykonania</h2><p>Kabel Unitek DisplayPort 1.4 wykonany z odpornego na korozję pozłacanego złącza oraz izolowanymi przewodami doskonale sprawdzi się przy urządzeniach obsługujących standard 8k oraz 4k. Przepustowość do 32,4 Gbps gwarantuje szybki i stabilny transfer danych. Przewód podłączysz do laptopa, konsoli, monitora czy odtwarzacza Blu-ray. Trwałą konstrukcję zapewniają pozłacane wtyki i wyprofilowany uchwyt.</p><p>Dzięki obsłudze Display Stream Compression 1.2 (DSC), FEC oraz Dynamic HDR możesz cieszyć się najwyższą jakością obrazu 8k przy częstotliwości odświeżania do 240 Hz. Kabel doskonale sprawdza się przy obsłudze 3D oraz VR.</p><h2>Jakość obrazu i dźwięku bez kompromisów</h2><p>DisplayPort 1.4 zapewnia rozrywkę najwyższej jakości zarówno w obszarze obrazu jak i dźwięku. Przewód obsługuje 32 kanały audio i szeroką gamę kolorów dynamicznego HDR. Pozłacane złącza i zastosowanie światłowodu razem z kodowaniem korygującym FEC skutecznie chronią przed zakłóceniami i szumami nawet na największych odległościach.</p><h2>Seriale w 8K</h2><p>Serwisy streamingowe takie jak Netflix, Amazon Prime czy HBO stosują zabezpieczenia przed nielegalnym kopiowaniem sygnału wysokiej jakości. Dlatego, aby odtwarzać wideo w rozdzielczości 8K potrzeba urządzeń, które wspierają zabezpieczenia HDCP 2.3 - tak jak ten kabel DisplayPort 1.4.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu</p><p>1 szt</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Obsługiwane technologie</p><p>32 kanały audio<br/>3D<br/>DisplayPort Alt Mode<br/>HDCP<br/>HDR<br/>Multi-Stream Transport</p></li><li><p>Pozłacane końcówki</p><p>tak</p></li><li><p>Przepustowość</p><p>32.4 Gbps</p></li><li><p>Standard Video</p><p>DisplayPort 1.4</p></li><li><p>Długość przewodu</p><p>1 m</p></li><li><p>Ilość w opakowaniu zbiorczym</p><p>40 szt</p></li><li><p>Linia produktu</p><p>High</p></li><li><p>Maksymalna rozdzielczość</p><p>8K</p></li><li><p>Możliwość pracy dwukierunkowej</p><p>tak</p></li><li><p>Oplot</p><p>nie</p></li><li><p>Przewód płaski</p><p>nie</p></li><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Zastosowanie</p><p>Audio / Video</p></li><li><p>Złącze 1</p><p>Wtyk DP</p></li><li><p>Złącze 2</p><p>Wtyk DP</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55416.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55417.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55418.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55419.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55420.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55421.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55422.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55423.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55416.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55417.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55418.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55419.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55420.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55421.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55422.webp",
+    "galerie/k/kabel-displayport-1-4-8k-60hz_55423.webp"
+  ],
+  "manufacturer": "Unitek"
 }

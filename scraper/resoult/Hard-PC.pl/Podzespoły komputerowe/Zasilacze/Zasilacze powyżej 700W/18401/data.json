@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "18401",
-    "code": "0000007080",
-    "name": "Zasilacz Seasonic G12 GC-850 v2 80Plus Gold 850W",
-    "price": 427.9,
-    "description": "<p>Zasilacz Seasonic G12 GC-850 v2 80Plus Gold 850W to synonim niezawodności i wydajności w świecie komponentów komputerowych. Dzięki certyfikatowi 80 PLUS Gold zapewnia wysoką sprawność energetyczną, co przekłada się na niższe rachunki za prąd i mniejsze nagrzewanie się podzespołów. Moc 850 W z pojedynczą linią +12V o natężeniu 70 A gwarantuje stabilne zasilanie nawet dla najbardziej wymagających konfiguracji z zaawansowanymi kartami graficznymi. Technologia S2FC dba o cichą pracę wentylatora 120 mm, dostosowując jego prędkość do obciążenia systemu. Seasonic G12 GC-850 v2 to idealny wybór dla graczy, profesjonalistów oraz entuzjastów sprzętu komputerowego, którzy cenią sobie jakość i niezawodność.</p><h2>Seasonic G12 GC-850 v2 80Plus Gold 850W - niezawodność i wydajność w jednym</h2><p>W świecie komponentów komputerowych zasilacz odgrywa kluczową rolę w zapewnieniu stabilności i bezpieczeństwa całego systemu. Seasonic G12 GC-850 v2 80Plus Gold 850W to produkt, który łączy w sobie wysoką jakość wykonania, efektywność energetyczną oraz cichą pracę, spełniając oczekiwania zarówno graczy, jak i profesjonalistów.</p><h2>Wysoka moc i stabilność zasilania</h2><p>Seasonic G12 GC-850 v2 oferuje moc 850 W, co czyni go idealnym wyborem dla nowoczesnych komputerów wyposażonych w zaawansowane karty graficzne i procesory. Pojedyncza linia +12V o natężeniu 70 A zapewnia stabilne i niezawodne zasilanie, minimalizując ryzyko przeciążeń i spadków napięcia.</p><h2>Efektywność energetyczna potwierdzona certyfikatem 80 PLUS Gold</h2><p>Certyfikat 80 PLUS Gold gwarantuje, że zasilacz osiąga sprawność na poziomie co najmniej 87% przy 20% obciążeniu, 90% przy 50% obciążeniu oraz 87% przy pełnym obciążeniu. Oznacza to mniejsze straty energii w postaci ciepła, co przekłada się na niższe rachunki za prąd oraz dłuższą żywotność komponentów.</p><h2>Cicha praca dzięki technologii S2FC</h2><p>Zastosowanie technologii Smart and Silent Fan Control (S2FC) pozwala na inteligentne sterowanie pracą wentylatora 120 mm. Wentylator dostosowuje swoją prędkość obrotową do aktualnego obciążenia systemu, zapewniając optymalne chłodzenie przy minimalnym poziomie hałasu. Dzięki temu użytkownik może cieszyć się cichą pracą komputera nawet podczas intensywnego użytkowania.</p><h2>Solidne wykonanie i niezawodność</h2><p>Seasonic to marka znana z wysokiej jakości swoich produktów. Model G12 GC-850 v2 został wykonany z dbałością o każdy detal, co gwarantuje jego długą żywotność i niezawodność. Stałe okablowanie ułatwia instalację i organizację wnętrza obudowy, a kompaktowe wymiary (140 mm x 150 mm x 86 mm) sprawiają, że zasilacz zmieści się w większości standardowych obudów komputerowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>850 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>Brak</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Nie</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0,3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>2,5 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>70 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>3</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>6</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>140 mm</p></li><li><p>Wymiary</p><p>140 x 150 x 86 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/seasonic.jpg",
-    "images": [
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71122.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71123.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71124.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71125.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71126.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71127.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71128.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71129.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71122.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71123.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71124.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71125.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71126.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71127.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71128.webp",
-        "galerie/z/zasilacz-seasonic-g12-gc-850_71129.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "18401",
+  "code": "0000007080",
+  "name": "Zasilacz Seasonic G12 GC-850 v2 80Plus Gold 850W",
+  "price": 427.9,
+  "description": "<p>Zasilacz Seasonic G12 GC-850 v2 80Plus Gold 850W to synonim niezawodności i wydajności w świecie komponentów komputerowych. Dzięki certyfikatowi 80 PLUS Gold zapewnia wysoką sprawność energetyczną, co przekłada się na niższe rachunki za prąd i mniejsze nagrzewanie się podzespołów. Moc 850 W z pojedynczą linią +12V o natężeniu 70 A gwarantuje stabilne zasilanie nawet dla najbardziej wymagających konfiguracji z zaawansowanymi kartami graficznymi. Technologia S2FC dba o cichą pracę wentylatora 120 mm, dostosowując jego prędkość do obciążenia systemu. Seasonic G12 GC-850 v2 to idealny wybór dla graczy, profesjonalistów oraz entuzjastów sprzętu komputerowego, którzy cenią sobie jakość i niezawodność.</p><h2>Seasonic G12 GC-850 v2 80Plus Gold 850W - niezawodność i wydajność w jednym</h2><p>W świecie komponentów komputerowych zasilacz odgrywa kluczową rolę w zapewnieniu stabilności i bezpieczeństwa całego systemu. Seasonic G12 GC-850 v2 80Plus Gold 850W to produkt, który łączy w sobie wysoką jakość wykonania, efektywność energetyczną oraz cichą pracę, spełniając oczekiwania zarówno graczy, jak i profesjonalistów.</p><h2>Wysoka moc i stabilność zasilania</h2><p>Seasonic G12 GC-850 v2 oferuje moc 850 W, co czyni go idealnym wyborem dla nowoczesnych komputerów wyposażonych w zaawansowane karty graficzne i procesory. Pojedyncza linia +12V o natężeniu 70 A zapewnia stabilne i niezawodne zasilanie, minimalizując ryzyko przeciążeń i spadków napięcia.</p><h2>Efektywność energetyczna potwierdzona certyfikatem 80 PLUS Gold</h2><p>Certyfikat 80 PLUS Gold gwarantuje, że zasilacz osiąga sprawność na poziomie co najmniej 87% przy 20% obciążeniu, 90% przy 50% obciążeniu oraz 87% przy pełnym obciążeniu. Oznacza to mniejsze straty energii w postaci ciepła, co przekłada się na niższe rachunki za prąd oraz dłuższą żywotność komponentów.</p><h2>Cicha praca dzięki technologii S2FC</h2><p>Zastosowanie technologii Smart and Silent Fan Control (S2FC) pozwala na inteligentne sterowanie pracą wentylatora 120 mm. Wentylator dostosowuje swoją prędkość obrotową do aktualnego obciążenia systemu, zapewniając optymalne chłodzenie przy minimalnym poziomie hałasu. Dzięki temu użytkownik może cieszyć się cichą pracą komputera nawet podczas intensywnego użytkowania.</p><h2>Solidne wykonanie i niezawodność</h2><p>Seasonic to marka znana z wysokiej jakości swoich produktów. Model G12 GC-850 v2 został wykonany z dbałością o każdy detal, co gwarantuje jego długą żywotność i niezawodność. Stałe okablowanie ułatwia instalację i organizację wnętrza obudowy, a kompaktowe wymiary (140 mm x 150 mm x 86 mm) sprawiają, że zasilacz zmieści się w większości standardowych obudów komputerowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>850 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>Brak</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Nie</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0,3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>2,5 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>70 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>3</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>6</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>140 mm</p></li><li><p>Wymiary</p><p>140 x 150 x 86 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/seasonic.jpg",
+  "images": [
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71122.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71123.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71124.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71125.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71126.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71127.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71128.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71129.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71122.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71123.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71124.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71125.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71126.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71127.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71128.webp",
+    "galerie/z/zasilacz-seasonic-g12-gc-850_71129.webp"
+  ],
+  "manufacturer": "Seasonic"
 }

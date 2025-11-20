@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "19953",
-    "code": "SGS3",
-    "name": "Stojak do kierownicy MOZOS SGS3 (Logitech/Thrustmaster)",
-    "price": 439.0,
-    "description": "<h2>Mozos SGS3 – składany stojak pod kierownicę i skrzynię biegów do symulatorów wyścigowych</h2><p>Stojak Mozos SGS3 to idealna propozycja dla miłośników symulacji wyścigowych, którzy chcą cieszyć się realistyczną rozgrywką, nie rezygnując z przestrzeni w swoim mieszkaniu. Dzięki składanej konstrukcji bez problemu schowasz go po zakończonej grze – bez konieczności demontażu kierownicy czy pedałów. Idealnie sprawdzi się w salonie – możesz grać wygodnie siedząc na sofie lub w ulubionym fotelu. Solidna, stalowa rama z malowaniem proszkowym w kolorze czarnym zapewnia stabilność i odporność na zarysowania oraz rdzę. Konstrukcja typu twin-spar eliminuje środkowy wspornik, oferując większą sztywność i lepszy dostęp do pedałów – szczególnie ceniony przy technice jazdy „heel and toe”.</p><h2>Uniwersalny, stabilny stelaż do kierownic komputerowych</h2><p>Stojak umożliwia precyzyjne dostosowanie pozycji – regulowana płyta pod kierownicę pozwala na ustawienie wysokości i kąta nachylenia (-15°, 0°, +15°), natomiast płyta pod pedały może być nachylona pod kątem 7°, 12° lub 18°, z możliwością przesuwania przód–tył. Dodatkowo mocowanie do zmiany biegów można zamontować zarówno po lewej, jak i prawej stronie – w zależności od preferencji gracza. Przedwstępnie wywiercone otwory montażowe zapewniają szeroką kompatybilność z najpopularniejszymi markami sprzętu: Logitech, Fanatec, Thrustmaster i innymi. Dzięki silikonowym stopkom urządzenie nie rysuje podłogi i pozostaje stabilne nawet podczas intensywnej jazdy. W zestawie znajduje się stelaż Mozos SGS3. Inne elementy jak kierownice itd. nie wchodzą w skład zestawu a mają jedynie ukazać przykładowe zastosowanie. W związku z uniwersalną budową stojaka jest duża szansa, że nawet w przypadku niewystępowania twojego modelu kierownicy na poniższej liście – powinien pasować. Sprawdź wymiary i porównaj z grafiką w galerii zdjęć.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Składana konstrukcja pozwala na łatwe przechowywanie w małych przestrzeniach.</li><li>Zabezpieczenie pinem zapewnia stabilność stojaka po złożeniu.</li><li>Regulowana płyta pod kierownicę i pedały umożliwia idealne dopasowanie do sylwetki gracza.</li><li>Uniwersalne otwory montażowe pasują do większości kierownic, pedałów i shifterów dostępnych na rynku.</li><li>Silikonowe stopki chronią podłogę przed zarysowaniami i tłumią drgania podczas gry.</li><li>Powłoka proszkowa zabezpiecza przed rdzewieniem i zarysowaniami.</li><li>Prosty montaż – szybka i bezproblemowa instalacja.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>680x880x815 mm</p></li><li><p>Maksymalne obciążenie</p><p>20 kg</p></li><li><p>Typ ramy</p><p>składana</p></li><li><p>Materiał ramy</p><p>stal</p></li><li><p>Wykończenie</p><p>malowanie proszkowe</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Zakres nachylenia płyty kierownicy</p><p>–15° / 0° / +15°</p></li><li><p>Zakres nachylenia płyty pedałów</p><p>7° / 12° / 18°</p></li><li><p>Zarządzanie kablami</p><p>tak</p></li><li><p>Instrukcja montażu</p><p>tak</p></li><li><p>Waga</p><p>14,4kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74572.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74566.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74568.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74569.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74570.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74571.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74567.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74572.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74566.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74568.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74569.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74570.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74571.webp",
-        "galerie/s/stojak-do-kierownicy-mozos-sg_74567.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "19953",
+  "code": "SGS3",
+  "name": "Stojak do kierownicy MOZOS SGS3 (Logitech/Thrustmaster)",
+  "price": 439.0,
+  "description": "<h2>Mozos SGS3 – składany stojak pod kierownicę i skrzynię biegów do symulatorów wyścigowych</h2><p>Stojak Mozos SGS3 to idealna propozycja dla miłośników symulacji wyścigowych, którzy chcą cieszyć się realistyczną rozgrywką, nie rezygnując z przestrzeni w swoim mieszkaniu. Dzięki składanej konstrukcji bez problemu schowasz go po zakończonej grze – bez konieczności demontażu kierownicy czy pedałów. Idealnie sprawdzi się w salonie – możesz grać wygodnie siedząc na sofie lub w ulubionym fotelu. Solidna, stalowa rama z malowaniem proszkowym w kolorze czarnym zapewnia stabilność i odporność na zarysowania oraz rdzę. Konstrukcja typu twin-spar eliminuje środkowy wspornik, oferując większą sztywność i lepszy dostęp do pedałów – szczególnie ceniony przy technice jazdy „heel and toe”.</p><h2>Uniwersalny, stabilny stelaż do kierownic komputerowych</h2><p>Stojak umożliwia precyzyjne dostosowanie pozycji – regulowana płyta pod kierownicę pozwala na ustawienie wysokości i kąta nachylenia (-15°, 0°, +15°), natomiast płyta pod pedały może być nachylona pod kątem 7°, 12° lub 18°, z możliwością przesuwania przód–tył. Dodatkowo mocowanie do zmiany biegów można zamontować zarówno po lewej, jak i prawej stronie – w zależności od preferencji gracza. Przedwstępnie wywiercone otwory montażowe zapewniają szeroką kompatybilność z najpopularniejszymi markami sprzętu: Logitech, Fanatec, Thrustmaster i innymi. Dzięki silikonowym stopkom urządzenie nie rysuje podłogi i pozostaje stabilne nawet podczas intensywnej jazdy. W zestawie znajduje się stelaż Mozos SGS3. Inne elementy jak kierownice itd. nie wchodzą w skład zestawu a mają jedynie ukazać przykładowe zastosowanie. W związku z uniwersalną budową stojaka jest duża szansa, że nawet w przypadku niewystępowania twojego modelu kierownicy na poniższej liście – powinien pasować. Sprawdź wymiary i porównaj z grafiką w galerii zdjęć.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Składana konstrukcja pozwala na łatwe przechowywanie w małych przestrzeniach.</li><li>Zabezpieczenie pinem zapewnia stabilność stojaka po złożeniu.</li><li>Regulowana płyta pod kierownicę i pedały umożliwia idealne dopasowanie do sylwetki gracza.</li><li>Uniwersalne otwory montażowe pasują do większości kierownic, pedałów i shifterów dostępnych na rynku.</li><li>Silikonowe stopki chronią podłogę przed zarysowaniami i tłumią drgania podczas gry.</li><li>Powłoka proszkowa zabezpiecza przed rdzewieniem i zarysowaniami.</li><li>Prosty montaż – szybka i bezproblemowa instalacja.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>680x880x815 mm</p></li><li><p>Maksymalne obciążenie</p><p>20 kg</p></li><li><p>Typ ramy</p><p>składana</p></li><li><p>Materiał ramy</p><p>stal</p></li><li><p>Wykończenie</p><p>malowanie proszkowe</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Zakres nachylenia płyty kierownicy</p><p>–15° / 0° / +15°</p></li><li><p>Zakres nachylenia płyty pedałów</p><p>7° / 12° / 18°</p></li><li><p>Zarządzanie kablami</p><p>tak</p></li><li><p>Instrukcja montażu</p><p>tak</p></li><li><p>Waga</p><p>14,4kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74572.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74566.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74568.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74569.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74570.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74571.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74567.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74572.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74566.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74568.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74569.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74570.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74571.webp",
+    "galerie/s/stojak-do-kierownicy-mozos-sg_74567.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

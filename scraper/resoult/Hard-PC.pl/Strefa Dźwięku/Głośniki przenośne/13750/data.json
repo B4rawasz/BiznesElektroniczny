@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki przenośne"
-    ],
-    "id": "13750",
-    "code": "OUTDOOR-XTREME",
-    "name": "Głośnik Bluetooth MOZOS Outdoor Xtreme v2",
-    "price": 319.0,
-    "description": "<h2>Mozos Outdoor-Xtreme v2 – Twój niezawodny towarzysz na każdą plenerową imprezę!</h2><p>Poznaj Mozos Outdoor-Xtreme v2 – ulepszony, bezprzewodowy głośnik, który sprawdzi się doskonale na świeżym powietrzu! Dzięki wysokiej mocy RMS 60W (80W szczytowej), zapewnia intensywną głośność i czystość dźwięku, której próżno szukać w tym przedziale cenowym. Niezależnie od miejsca, Mozos Outdoor-Xtreme zagwarantuje świetną zabawę, napędzając nawet większe spotkania muzyką pełną głębokiego, klarownego basu.</p><p>Mozos Outdoor-Xtreme v2 wyposażono w dwa szerokopasmowe przetworniki 93 mm oraz podwójne przetworniki wysokotonowe 31 mm, które dostarczą dźwięk na najwyższym poziomie. A jeśli potrzeba jeszcze więcej mocy, tryb TWS połączy dwa głośniki, zwiększając moc do 120W (160W szczytowej). Pozwól Mozos Outdoor-Xtreme v2 stać się Twoim niezastąpionym kompanem na każdą okazję!</p><figure><img alt=\"\" height=\"800\" src=\"galerie/g/glosnik-bluetooth-mozos-outdo_49287.webp\" width=\"1200\"/></figure><h2>Zobacz prezentację na kanale HardPc TV</h2><figure><iframe frameborder=\"0\" height=\"409\" src=\"https://www.youtube.com/embed/5C7RLPbUzbg\" width=\"727\"></iframe></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Niesamowitej jakości brzmienie w pełnym zakresie pasma.</li><li>Wodoodporność i pyłoodporność w zakresie IPX6.</li><li>Najnowsza technologia Bluetooth 5.3.</li><li>Wysoka głośność dzięki dużej mocy i efektywności przetworników.</li><li>Wsparcie dla technologii TWS. Połącz ze sobą dwa urządzenia i nagłośnij dużą imprezę.</li><li>Wbudowany mikrofon umożliwia prowadzenie rozmów głosowych.</li><li>Funkcja powerbanku umożliwi naładowanie twojego telefonu.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Bluetooth</p><p>5.3</p></li><li><p>Wsparcie</p><p>A2DPV1.2;AVRCPV1.4，GAVDPV1.2; AVDTPV1.2;SPPV1.2;AVCTPV1.</p></li><li><p>Bezprzewodowy zakres działania</p><p>do 10 metrów.</p></li><li><p>Moc wyjściowa</p><p>60W RMS/80W szczytowa.</p></li><li><p>Przetwornik szerokopasmowy</p><p>o średnicy 93 mm, 4ohm, 35W*2.</p></li><li><p>Przetwornik wysokotonowy</p><p>o średnicy 31 mm, 8ohm, 15W*2..</p></li><li><p>Pasmo przenoszenia</p><p>75Hz-20 KHz.</p></li><li><p>Stosunek sygnału do szumu</p><p>≥80DB.</p></li><li><p>Typ baterii</p><p>litowo-jonowa, 3.6v 10200 mAh (7,2 V/51000 mAh)</p></li><li><p>Napięcie/prąd wejściowy DC</p><p>TYP C DC 5 V/2000MA.</p></li><li><p>Czas działania</p><p>do 14 godzin (przy 50h głośności).</p></li><li><p>Czas ładowania baterii</p><p>około 6 godzin.</p></li><li><p>Wymiary</p><p>316,8 * 190,3 * 112,4 mm.</p></li><li><p>Waga</p><p>2630g ± 20g.</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49285.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49290.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49291.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49293.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49292.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49286.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49287.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49288.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49289.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49285.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49290.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49291.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49293.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49292.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49286.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49287.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49288.webp",
-        "galerie/g/glosnik-bluetooth-mozos-outdo_49289.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki przenośne"
+  ],
+  "id": "13750",
+  "code": "OUTDOOR-XTREME",
+  "name": "Głośnik Bluetooth MOZOS Outdoor Xtreme v2",
+  "price": 319.0,
+  "description": "<h2>Mozos Outdoor-Xtreme v2 – Twój niezawodny towarzysz na każdą plenerową imprezę!</h2><p>Poznaj Mozos Outdoor-Xtreme v2 – ulepszony, bezprzewodowy głośnik, który sprawdzi się doskonale na świeżym powietrzu! Dzięki wysokiej mocy RMS 60W (80W szczytowej), zapewnia intensywną głośność i czystość dźwięku, której próżno szukać w tym przedziale cenowym. Niezależnie od miejsca, Mozos Outdoor-Xtreme zagwarantuje świetną zabawę, napędzając nawet większe spotkania muzyką pełną głębokiego, klarownego basu.</p><p>Mozos Outdoor-Xtreme v2 wyposażono w dwa szerokopasmowe przetworniki 93 mm oraz podwójne przetworniki wysokotonowe 31 mm, które dostarczą dźwięk na najwyższym poziomie. A jeśli potrzeba jeszcze więcej mocy, tryb TWS połączy dwa głośniki, zwiększając moc do 120W (160W szczytowej). Pozwól Mozos Outdoor-Xtreme v2 stać się Twoim niezastąpionym kompanem na każdą okazję!</p><figure><img alt=\"\" height=\"800\" src=\"galerie/g/glosnik-bluetooth-mozos-outdo_49287.webp\" width=\"1200\"/></figure><h2>Zobacz prezentację na kanale HardPc TV</h2><figure><iframe frameborder=\"0\" height=\"409\" src=\"https://www.youtube.com/embed/5C7RLPbUzbg\" width=\"727\"></iframe></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Niesamowitej jakości brzmienie w pełnym zakresie pasma.</li><li>Wodoodporność i pyłoodporność w zakresie IPX6.</li><li>Najnowsza technologia Bluetooth 5.3.</li><li>Wysoka głośność dzięki dużej mocy i efektywności przetworników.</li><li>Wsparcie dla technologii TWS. Połącz ze sobą dwa urządzenia i nagłośnij dużą imprezę.</li><li>Wbudowany mikrofon umożliwia prowadzenie rozmów głosowych.</li><li>Funkcja powerbanku umożliwi naładowanie twojego telefonu.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Bluetooth</p><p>5.3</p></li><li><p>Wsparcie</p><p>A2DPV1.2;AVRCPV1.4，GAVDPV1.2; AVDTPV1.2;SPPV1.2;AVCTPV1.</p></li><li><p>Bezprzewodowy zakres działania</p><p>do 10 metrów.</p></li><li><p>Moc wyjściowa</p><p>60W RMS/80W szczytowa.</p></li><li><p>Przetwornik szerokopasmowy</p><p>o średnicy 93 mm, 4ohm, 35W*2.</p></li><li><p>Przetwornik wysokotonowy</p><p>o średnicy 31 mm, 8ohm, 15W*2..</p></li><li><p>Pasmo przenoszenia</p><p>75Hz-20 KHz.</p></li><li><p>Stosunek sygnału do szumu</p><p>≥80DB.</p></li><li><p>Typ baterii</p><p>litowo-jonowa, 3.6v 10200 mAh (7,2 V/51000 mAh)</p></li><li><p>Napięcie/prąd wejściowy DC</p><p>TYP C DC 5 V/2000MA.</p></li><li><p>Czas działania</p><p>do 14 godzin (przy 50h głośności).</p></li><li><p>Czas ładowania baterii</p><p>około 6 godzin.</p></li><li><p>Wymiary</p><p>316,8 * 190,3 * 112,4 mm.</p></li><li><p>Waga</p><p>2630g ± 20g.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49285.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49290.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49291.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49293.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49292.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49286.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49287.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49288.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49289.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49285.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49290.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49291.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49293.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49292.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49286.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49287.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49288.webp",
+    "galerie/g/glosnik-bluetooth-mozos-outdo_49289.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

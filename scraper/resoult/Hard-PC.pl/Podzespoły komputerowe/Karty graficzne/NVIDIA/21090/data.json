@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Karty graficzne",
-        "NVIDIA"
-    ],
-    "id": "21090",
-    "code": "X870E A ELITE X",
-    "name": "Płyta główna Gigabyte X870E AORUS ELITE X3D",
-    "price": 1499.0,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gigabyte</p></li><li><p>Gwarancja</p><p>3 lata w serwisie sprzedawcy</p></li><li><p>Grupa produktowa</p><p>Płyty główne Gigabyte</p></li><li><p>Przeznaczenie</p><p>AMD</p></li><li><p>Chipset płyty głównej</p><p>AMD X870E</p></li><li><p>Standard płyty</p><p>ATX</p></li><li><p>Gniazdo procesora</p><p>Socket AM5</p></li><li><p>Obsługiwane typy procesorów</p><p>AMD Ryzen 3/5/7/9 serii 7000, 8000, 9000</p></li><li><p>Maks. ilość obsługiwanych procesorów</p><p>1</p></li><li><p>Obsługiwana pamięć</p><p>DDR5</p></li><li><p>Rodzaj obsługiwanej pamięci</p><p>DIMM (do PC)</p></li><li><p>Typ obsługiwanej pamięci</p><p>DDR5-4800 do DDR5-5600</p></li><li><p>Typ obsługiwanej pamięci OC</p><p>DDR5-6000 do DDR5-8800</p></li><li><p>Dwukanałowa obsługa pamięci</p><p>Tak</p></li><li><p>Ilość gniazd pamięci</p><p>4 szt.</p></li><li><p>Maks. pojemność pamięci</p><p>256 GB</p></li><li><p>Złącza PCI-E (liczba slotów)</p><p>3 x PCI-Express x16</p></li><li><p>Złącza dla dysków i napędów</p><p>4 x Serial ATA III</p></li><li><p>Obsługa RAID</p><p>Tak (0, 1, 10)</p></li><li><p>Złącza na tylnym panelu</p><p>1 x HDMI, 1 x RJ45, 1 x USB-C 3.2 Gen2, 2 x USB4, 3 x USB 3.2 Gen1, 5 x USB 3.2 Gen2, gniazdo anteny Wi-Fi, SPDIF</p></li><li><p>Złącza na płycie głównej</p><p>1 x Audio, 1 x USB-C 3.2 Gen2x2, 2 x 8-pin ATX 12V, 2 x M.2 PCIe 4.0, 2 x M.2 PCIe 5.0, 2 x USB 3.2 Gen1</p></li><li><p>Wtyczka zasilania</p><p>ATX 24pin</p></li><li><p>Zintegrowana karta sieciowa</p><p>Tak (Realtek 5GbE LAN)</p></li><li><p>Transmisja danych</p><p>Bluetooth, Wi-Fi</p></li><li><p>Karta bezprzewodowa</p><p>Wi-Fi 7 | Bluetooth 5.4</p></li><li><p>Zintegrowana karta dźwiękowa</p><p>Tak (Realtek ALC1220 7.1)</p></li><li><p>Szerokość</p><p>244 mm</p></li><li><p>Wysokość</p><p>305 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gigabyte</p></li><li><p>Dane producenta</p><p>Gigabyte Technology Poland Sp. z o.o., Fabryczna 20, 53-609 Wrocław, Polska</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/gigabyte.jpg",
-    "images": [
-        "galerie/p/plyta-glowna-gigabyte-x870e-a_79687.webp",
-        "galerie/p/plyta-glowna-gigabyte-x870e-a_79687.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Karty graficzne",
+    "NVIDIA"
+  ],
+  "id": "21090",
+  "code": "X870E A ELITE X",
+  "name": "Płyta główna Gigabyte X870E AORUS ELITE X3D",
+  "price": 1499.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gigabyte</p></li><li><p>Gwarancja</p><p>3 lata w serwisie sprzedawcy</p></li><li><p>Grupa produktowa</p><p>Płyty główne Gigabyte</p></li><li><p>Przeznaczenie</p><p>AMD</p></li><li><p>Chipset płyty głównej</p><p>AMD X870E</p></li><li><p>Standard płyty</p><p>ATX</p></li><li><p>Gniazdo procesora</p><p>Socket AM5</p></li><li><p>Obsługiwane typy procesorów</p><p>AMD Ryzen 3/5/7/9 serii 7000, 8000, 9000</p></li><li><p>Maks. ilość obsługiwanych procesorów</p><p>1</p></li><li><p>Obsługiwana pamięć</p><p>DDR5</p></li><li><p>Rodzaj obsługiwanej pamięci</p><p>DIMM (do PC)</p></li><li><p>Typ obsługiwanej pamięci</p><p>DDR5-4800 do DDR5-5600</p></li><li><p>Typ obsługiwanej pamięci OC</p><p>DDR5-6000 do DDR5-8800</p></li><li><p>Dwukanałowa obsługa pamięci</p><p>Tak</p></li><li><p>Ilość gniazd pamięci</p><p>4 szt.</p></li><li><p>Maks. pojemność pamięci</p><p>256 GB</p></li><li><p>Złącza PCI-E (liczba slotów)</p><p>3 x PCI-Express x16</p></li><li><p>Złącza dla dysków i napędów</p><p>4 x Serial ATA III</p></li><li><p>Obsługa RAID</p><p>Tak (0, 1, 10)</p></li><li><p>Złącza na tylnym panelu</p><p>1 x HDMI, 1 x RJ45, 1 x USB-C 3.2 Gen2, 2 x USB4, 3 x USB 3.2 Gen1, 5 x USB 3.2 Gen2, gniazdo anteny Wi-Fi, SPDIF</p></li><li><p>Złącza na płycie głównej</p><p>1 x Audio, 1 x USB-C 3.2 Gen2x2, 2 x 8-pin ATX 12V, 2 x M.2 PCIe 4.0, 2 x M.2 PCIe 5.0, 2 x USB 3.2 Gen1</p></li><li><p>Wtyczka zasilania</p><p>ATX 24pin</p></li><li><p>Zintegrowana karta sieciowa</p><p>Tak (Realtek 5GbE LAN)</p></li><li><p>Transmisja danych</p><p>Bluetooth, Wi-Fi</p></li><li><p>Karta bezprzewodowa</p><p>Wi-Fi 7 | Bluetooth 5.4</p></li><li><p>Zintegrowana karta dźwiękowa</p><p>Tak (Realtek ALC1220 7.1)</p></li><li><p>Szerokość</p><p>244 mm</p></li><li><p>Wysokość</p><p>305 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gigabyte</p></li><li><p>Dane producenta</p><p>Gigabyte Technology Poland Sp. z o.o., Fabryczna 20, 53-609 Wrocław, Polska</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gigabyte.jpg",
+  "images": [
+    "galerie/p/plyta-glowna-gigabyte-x870e-a_79687.webp",
+    "galerie/p/plyta-glowna-gigabyte-x870e-a_79687.webp"
+  ],
+  "manufacturer": "Gigabyte"
 }

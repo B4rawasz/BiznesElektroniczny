@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.1"
-    ],
-    "id": "15962",
-    "code": "M1360 black",
-    "name": "Głośniki Edifier M1360 2.1 Czarne",
-    "price": 159.9,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Głośniki 2.1 M1360 to praktyczne rozwiązanie dla każdego miłośnika muzyki. Sprawdzą się w wielu różnych zastosowaniach. Satelity są skierowane w górę, a subwoofer 4\" w dół, w efekcie czego możesz cieszyć się krystalicznie czystym dźwiękiem i wzmocnionym basem. Dołączony do zestawu pilot zdalnego sterowania pozwoli Ci wygodnie obsługiwać urządzenie, a wejście stereo 3,5 mm zapewnia możliwość połączenia go z określonym sprzętem.</p><h2>Dźwięk na najwyższym poziomie</h2><p>System M1360 składa się z zestawu 2 skierowanych w górę głośników satelitarnych oraz skierowanego w dół subwoofera. Jego drewniana obudowa zapewnia zwiększoną odporność na wibracje, a umieszczony z przodu port bass reflex dostarcza bogatych w szczegóły dźwięków. Zarówno satelity, jak i subwoofer charakteryzują się magnetycznym ekranowaniem, które nie tylko nadaje im elegancki charakter, ale też sprawia, że zaskoczą Cię niezawodnością.</p><h2>Prosta i wygodna obsługa</h2><p>Przewodowy pilot zdalnego sterowania daje Ci wymarzoną kontrolę nad dźwiękiem. Za jego pomocą wygodnie dostosujesz głośność odtwarzania. Możesz też całkowicie wyciszyć głośniki. Pilot został też wyposażony w dodatkowe wejście 3,5 mm. Dzięki temu możesz podłączyć do niego wybrane urządzenie.</p><h2>Kompatybilne głośniki multimedialne</h2><p>M1360 charakteryzuje też szeroka kompatybilność. Z powodzeniem podłączysz je do swojego komputera lub laptopa. Dostarczą Ci doskonałej jakości, bogatego w szczegóły dźwięku, niezależnie od tego, co robisz - czy słuchasz muzyki, oglądasz filmy i seriale, czy grasz w swoje ulubione gry komputerowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:<!-- ATRYBUTY --></h2><ul class=\"list-specification\"><li><p>Całkowita moc wyjściowa</p><p>RMS 2 W x2 + 4,5 W x1</p></li><li><p>THD + N (poziom testowy)</p><p>10%</p></li><li><p>Stosunek sygnału do szumu</p><p>≥85 dBA</p></li><li><p>Pasmo przenoszenia</p><p>Głośniki satelitarne</p><p>150Hz-20kHz Subwoofer</p><p>20Hz-170kHz</p></li><li><p>Zniekształcenia</p><p>≤0,5%</p></li><li><p>Czułość wejścia</p><p>Głośniki satelitarne</p><p>350 mV ±50 mV Subwoofer</p><p>250 mV ±50 mV</p></li><li><p>Impedancja wejścia</p><p>10 KΩ</p></li><li><p>Wejście audio</p><p>Wejście liniowe stereo 3,5 mm</p></li><li><p>Obsługa</p><p>Kontroler przewodowy</p></li><li><p>Jednostka subwoofera/niskich tonów</p><p>4\" (106 mm), ekranowanie magnetyczne, 6Ω</p></li><li><p>Jednostka tweetera</p><p>50x90 mm, ekranowanie magnetyczne, 4Ω</p></li><li><p>Kontrola</p><p>Przewodowa</p><p>regulacja głośności, jack słuchawek, wyciszenie</p></li><li><p>Wymiary</p><p>Głośnik satelitarny</p><p>64x140x112 mm Subwoofer</p><p>158x225x252 mm</p></li><li><p>Waga netto</p><p>Ok. 2,5 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosniki-edifier-edifier-m136_56758.webp",
-        "galerie/g/glosniki-edifier-edifier-m136_56759.webp",
-        "galerie/g/glosniki-edifier-edifier-m136_56760.webp",
-        "galerie/g/glosniki-edifier-edifier-m136_56761.webp",
-        "galerie/g/glosniki-edifier-edifier-m136_56758.webp",
-        "galerie/g/glosniki-edifier-edifier-m136_56759.webp",
-        "galerie/g/glosniki-edifier-edifier-m136_56760.webp",
-        "galerie/g/glosniki-edifier-edifier-m136_56761.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.1"
+  ],
+  "id": "15962",
+  "code": "M1360 black",
+  "name": "Głośniki Edifier M1360 2.1 Czarne",
+  "price": 159.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Głośniki 2.1 M1360 to praktyczne rozwiązanie dla każdego miłośnika muzyki. Sprawdzą się w wielu różnych zastosowaniach. Satelity są skierowane w górę, a subwoofer 4\" w dół, w efekcie czego możesz cieszyć się krystalicznie czystym dźwiękiem i wzmocnionym basem. Dołączony do zestawu pilot zdalnego sterowania pozwoli Ci wygodnie obsługiwać urządzenie, a wejście stereo 3,5 mm zapewnia możliwość połączenia go z określonym sprzętem.</p><h2>Dźwięk na najwyższym poziomie</h2><p>System M1360 składa się z zestawu 2 skierowanych w górę głośników satelitarnych oraz skierowanego w dół subwoofera. Jego drewniana obudowa zapewnia zwiększoną odporność na wibracje, a umieszczony z przodu port bass reflex dostarcza bogatych w szczegóły dźwięków. Zarówno satelity, jak i subwoofer charakteryzują się magnetycznym ekranowaniem, które nie tylko nadaje im elegancki charakter, ale też sprawia, że zaskoczą Cię niezawodnością.</p><h2>Prosta i wygodna obsługa</h2><p>Przewodowy pilot zdalnego sterowania daje Ci wymarzoną kontrolę nad dźwiękiem. Za jego pomocą wygodnie dostosujesz głośność odtwarzania. Możesz też całkowicie wyciszyć głośniki. Pilot został też wyposażony w dodatkowe wejście 3,5 mm. Dzięki temu możesz podłączyć do niego wybrane urządzenie.</p><h2>Kompatybilne głośniki multimedialne</h2><p>M1360 charakteryzuje też szeroka kompatybilność. Z powodzeniem podłączysz je do swojego komputera lub laptopa. Dostarczą Ci doskonałej jakości, bogatego w szczegóły dźwięku, niezależnie od tego, co robisz - czy słuchasz muzyki, oglądasz filmy i seriale, czy grasz w swoje ulubione gry komputerowe.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:<!-- ATRYBUTY --></h2><ul class=\"list-specification\"><li><p>Całkowita moc wyjściowa</p><p>RMS 2 W x2 + 4,5 W x1</p></li><li><p>THD + N (poziom testowy)</p><p>10%</p></li><li><p>Stosunek sygnału do szumu</p><p>≥85 dBA</p></li><li><p>Pasmo przenoszenia</p><p>Głośniki satelitarne</p><p>150Hz-20kHz Subwoofer</p><p>20Hz-170kHz</p></li><li><p>Zniekształcenia</p><p>≤0,5%</p></li><li><p>Czułość wejścia</p><p>Głośniki satelitarne</p><p>350 mV ±50 mV Subwoofer</p><p>250 mV ±50 mV</p></li><li><p>Impedancja wejścia</p><p>10 KΩ</p></li><li><p>Wejście audio</p><p>Wejście liniowe stereo 3,5 mm</p></li><li><p>Obsługa</p><p>Kontroler przewodowy</p></li><li><p>Jednostka subwoofera/niskich tonów</p><p>4\" (106 mm), ekranowanie magnetyczne, 6Ω</p></li><li><p>Jednostka tweetera</p><p>50x90 mm, ekranowanie magnetyczne, 4Ω</p></li><li><p>Kontrola</p><p>Przewodowa</p><p>regulacja głośności, jack słuchawek, wyciszenie</p></li><li><p>Wymiary</p><p>Głośnik satelitarny</p><p>64x140x112 mm Subwoofer</p><p>158x225x252 mm</p></li><li><p>Waga netto</p><p>Ok. 2,5 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosniki-edifier-edifier-m136_56758.webp",
+    "galerie/g/glosniki-edifier-edifier-m136_56759.webp",
+    "galerie/g/glosniki-edifier-edifier-m136_56760.webp",
+    "galerie/g/glosniki-edifier-edifier-m136_56761.webp",
+    "galerie/g/glosniki-edifier-edifier-m136_56758.webp",
+    "galerie/g/glosniki-edifier-edifier-m136_56759.webp",
+    "galerie/g/glosniki-edifier-edifier-m136_56760.webp",
+    "galerie/g/glosniki-edifier-edifier-m136_56761.webp"
+  ],
+  "manufacturer": "Edifier"
 }

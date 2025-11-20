@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Thermalpady"
-    ],
-    "id": "10371",
-    "code": "ZUWA-183",
-    "name": "Thermalpad Thermal Grizzly Carbonaut 31 x 25 x 0,2mm",
-    "price": 46.9,
-    "description": "OPIS <p><strong>Thermal Grizzly</strong> to niemiecka firma znana przede wszystkim z niezwykle wydajnych past termoprzewodzących. Ich flagowy produkt, pasta <a href=\"index.php?szukaj=kryonaut&amp;d=szukaj&amp;szukaj_opis=1\">Kryonaut</a> wygrywa w większości testów termicznych i zyskała zaufanie niezliczonej liczby klientów. Rozwiązania Thermal Grizzly kierowane są nie tylko do użytkowników domowych, ale i profesjonalnych overclockerów. Wykorzystuje się je również w przemyśle.</p><p><strong>Thermal Grizzly Carbonaut</strong> to <strong>thermalpad</strong> składający się z polimeru na bazie nanocząsteczek węgla o wysokiej przewodności cieplnej sięgającej aż <strong>62.5W /mK</strong>. Tak wysoka przewodność to jednak nie jedyna z zalet.</p><p><strong>Thermal Grizzly Carbonaut</strong> to zdecydowany lider w kwestii trwałości. Materiał z jakiego wykonano thermalpad nie podlega praktycznie żadnym procesom rozkładu, zatem jego właściwości są stałe, a żywotność niemal nieograniczona (mówi się o nawet 15 latach). Ponieważ Carbonaut nie posiada warstwy kleju, można z niego korzystać wielokrotnie.</p><p>Elastyczna struktura z włókna węglowego zapewnia doskonałą przewodność, która dorównuje pastom termoprzewodzącym ze średniej półki wydajnościowej. Niemniej jednak Thermalpad Thermal Grizzly Carbonaut zostały zaprojektowane z myślą o trwałości, a nie ekstremalnym podkręcaniu. Ważny jest również nacisk kontaktowy; im mocniejszy docisk chłodzenia do powierzchni CPU/GPU tym lepsza przewodność. Dzięki elastyczności Carbonaut mamy pewność, że thermalpad idealnie wypełni powierzchnię między tymi elementami. Nie bez znaczenia jest również wygoda aplikacji – wystarczy położyć Carbonaut na IHS.</p><p>Ważne: Carbonaut jest przewodnikiem elektrycznym – należy unikać stykania thermalpada z tranzystorami lub transformatorami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 31 x 25 x 0,2 mm</li><li>Ilość: 1</li><li>Przewodność cieplna: 62,5 W / (mK)</li><li>Temperatura pracy: od -250 do +150 ° C</li><li>Kompatybilność: Karty graficzne Nvidia GeForce RTX 2080Ti</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
-    "images": [
-        "galerie/t/thermalpad-thermal-grizzly-ca_32981.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32982.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32983.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32984.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32985.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32981.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32982.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32983.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32984.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32985.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "10371",
+  "code": "ZUWA-183",
+  "name": "Thermalpad Thermal Grizzly Carbonaut 31 x 25 x 0,2mm",
+  "price": 46.9,
+  "description": "OPIS <p><strong>Thermal Grizzly</strong> to niemiecka firma znana przede wszystkim z niezwykle wydajnych past termoprzewodzących. Ich flagowy produkt, pasta <a href=\"index.php?szukaj=kryonaut&amp;d=szukaj&amp;szukaj_opis=1\">Kryonaut</a> wygrywa w większości testów termicznych i zyskała zaufanie niezliczonej liczby klientów. Rozwiązania Thermal Grizzly kierowane są nie tylko do użytkowników domowych, ale i profesjonalnych overclockerów. Wykorzystuje się je również w przemyśle.</p><p><strong>Thermal Grizzly Carbonaut</strong> to <strong>thermalpad</strong> składający się z polimeru na bazie nanocząsteczek węgla o wysokiej przewodności cieplnej sięgającej aż <strong>62.5W /mK</strong>. Tak wysoka przewodność to jednak nie jedyna z zalet.</p><p><strong>Thermal Grizzly Carbonaut</strong> to zdecydowany lider w kwestii trwałości. Materiał z jakiego wykonano thermalpad nie podlega praktycznie żadnym procesom rozkładu, zatem jego właściwości są stałe, a żywotność niemal nieograniczona (mówi się o nawet 15 latach). Ponieważ Carbonaut nie posiada warstwy kleju, można z niego korzystać wielokrotnie.</p><p>Elastyczna struktura z włókna węglowego zapewnia doskonałą przewodność, która dorównuje pastom termoprzewodzącym ze średniej półki wydajnościowej. Niemniej jednak Thermalpad Thermal Grizzly Carbonaut zostały zaprojektowane z myślą o trwałości, a nie ekstremalnym podkręcaniu. Ważny jest również nacisk kontaktowy; im mocniejszy docisk chłodzenia do powierzchni CPU/GPU tym lepsza przewodność. Dzięki elastyczności Carbonaut mamy pewność, że thermalpad idealnie wypełni powierzchnię między tymi elementami. Nie bez znaczenia jest również wygoda aplikacji – wystarczy położyć Carbonaut na IHS.</p><p>Ważne: Carbonaut jest przewodnikiem elektrycznym – należy unikać stykania thermalpada z tranzystorami lub transformatorami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 31 x 25 x 0,2 mm</li><li>Ilość: 1</li><li>Przewodność cieplna: 62,5 W / (mK)</li><li>Temperatura pracy: od -250 do +150 ° C</li><li>Kompatybilność: Karty graficzne Nvidia GeForce RTX 2080Ti</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/t/thermalpad-thermal-grizzly-ca_32981.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32982.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32983.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32984.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32985.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32981.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32982.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32983.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32984.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32985.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
 }

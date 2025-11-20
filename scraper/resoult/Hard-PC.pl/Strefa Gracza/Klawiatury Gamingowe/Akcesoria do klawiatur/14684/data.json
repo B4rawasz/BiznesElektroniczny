@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Klawiatury Gamingowe",
-        "Akcesoria do klawiatur"
-    ],
-    "id": "14684",
-    "code": "GATA-2059",
-    "name": "Stabilizatory do klawiatury mechanicznej AKKO Screw-in Stabilizer - mint",
-    "price": 52.9,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Nylon</p></li><li><p>Rozmiar</p><p>9x 2u<br/>1x 6.25u<br/>1x 7u</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Akko Gear</p></li><li><p>Dane producenta</p><p>Akko Gear, 107, No. 6-18, Xinhe Avenue, Xinqiao Community Xinqiao Street, Guangdong 518000 China, Baoan District Shenzhen, support@akkogear.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/akko.jpg",
-    "images": [
-        "galerie/a/akko-screw-in-stabilizer-mint_53592.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53593.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53594.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53595.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53596.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53597.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53592.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53593.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53594.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53595.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53596.webp",
-        "galerie/a/akko-screw-in-stabilizer-mint_53597.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "14684",
+  "code": "GATA-2059",
+  "name": "Stabilizatory do klawiatury mechanicznej AKKO Screw-in Stabilizer - mint",
+  "price": 52.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Nylon</p></li><li><p>Rozmiar</p><p>9x 2u<br/>1x 6.25u<br/>1x 7u</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Akko Gear</p></li><li><p>Dane producenta</p><p>Akko Gear, 107, No. 6-18, Xinhe Avenue, Xinqiao Community Xinqiao Street, Guangdong 518000 China, Baoan District Shenzhen, support@akkogear.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/akko.jpg",
+  "images": [
+    "galerie/a/akko-screw-in-stabilizer-mint_53592.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53593.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53594.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53595.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53596.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53597.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53592.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53593.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53594.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53595.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53596.webp",
+    "galerie/a/akko-screw-in-stabilizer-mint_53597.webp"
+  ],
+  "manufacturer": "Akko Gear"
 }

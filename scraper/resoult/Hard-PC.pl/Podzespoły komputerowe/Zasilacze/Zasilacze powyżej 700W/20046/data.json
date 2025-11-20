@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "20046",
-    "code": "0000009394",
-    "name": "Zasilacz Montech Century II 1050W 80PLUS Gold ATX 3.1 PCIe 5.1",
-    "price": 482.9,
-    "description": "<h2>Zasilacz komputerowy Montech Century II 1050W</h2><p>Zasilacz komputerowy Montech Century II 1050W to połączenie nowoczesnej technologii i stylowego designu. Dzięki certyfikatom 80 PLUS Platinum i Cybenetics Platinum zapewnia wyjątkową efektywność energetyczną, a zaawansowana architektura zasilania gwarantuje niezawodność i długotrwałą wydajność. Kompatybilność z platformami ATX 3.1 oraz PCIe 5.1, płaskie kable i cichy wentylator 135 mm sprawiają, że jest to idealne rozwiązanie dla wymagających użytkowników.</p><h2>Podpis innowacji Montech</h2><p>Innowacyjne wariacje symbolu Ontech, uzupełnione nowym frontem dla Century II. Stylowy design doskonale pasuje do charakterystycznej estetyki górnej płyty, tworząc odważny i spójny wygląd.</p><h2>Całkowita szczytowa efektywność</h2><p>Dostarczająca efektywną wydajność na wszystkich poziomach obciążenia, przekraczając benchmarki efektywności przy niskim obciążeniu, aby spełnić standardy Platinum.</p><h2>Certyfikat 80 PLUS i Cybenetics Platinum</h2><p>Uznana za najwyższą efektywność i wydajność. Dostarcza maksymalną moc przy optymalnym oszczędzaniu energii.</p><h2>Wsparcie klasy premium: kabel 12V-2x6</h2><p>Standaryzowany kabel 12V-2x6 zapewnia doskonałą kompatybilność z najnowszymi kartami graficznymi.</p><h2>Nowoczesna moc na przyszłość</h2><p>Zbudowana na platformach ATX 3.1 i PCIe 5.1, zapewniając najwyższą efektywność i kompatybilność.</p><h2>Precyzyjna architektura zasilania w działaniu</h2><p>Dzięki aktywnemu PFC, technologii Half Bridge LLC oraz DC-to-DC, ta zaawansowana konstrukcja układu maksymalizuje efektywność zasilania, gwarantując niezawodną wydajność i działanie.</p><h2>Płaskie i elastyczne dla schludnej budowy</h2><p>Z dołączonymi płaskimi kablami i w pełni modułową konstrukcją, doświadczysz porządnej budowy i łatwiejszej konserwacji.</p><h2>Niezawodność od początku do końca</h2><p>100% japońskich kondensatorów w zaawansowanej architekturze zasilania zapewnia stabilną, długoterminową niezawodną pracę.</p><h2>Efektywne chłodzenie, cicha praca</h2><p>Optymalny rozmiar wentylatora 135 mm z trybem Smart Zero Fan, zapewniający idealną wentylację przy zachowaniu niskiego poziomu hałasu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Certyfikat 80 PLUS Gold i Cybenetics Platinum – wysoka efektywność energetyczna</li><li>Wydajność przy niskim obciążeniu</li><li>Kompatybilność z ATX 3.1 i PCIe 5.1 – zapewnia nowoczesną moc i przyszłościową kompatybilność</li><li>Zaawansowana architektura zasilania – aktywne PFC, Half Bridge LLC, DC-to-DC</li><li>100% japońskie kondensatory – gwarancja długoterminowej niezawodności</li><li>Modularna konstrukcja – płaskie kable, łatwiejsza konserwacja</li><li>Wentylator 135 mm z trybem Smart Zero Fan – cicha praca i efektywne chłodzenie</li><li>Kabel 12V-2x6 – zapewnia doskonałą kompatybilność z nowoczesnymi kartami graficznymi</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1050 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Stalowy</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Tak</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0,3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>87,5 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>2</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>4</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>4</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>1</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/montech.jpg",
-    "images": [
-        "galerie/z/zasilacz-montech-century-ii-1_74812.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74813.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74814.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74815.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74816.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74817.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74818.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74812.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74813.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74814.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74815.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74816.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74817.webp",
-        "galerie/z/zasilacz-montech-century-ii-1_74818.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "20046",
+  "code": "0000009394",
+  "name": "Zasilacz Montech Century II 1050W 80PLUS Gold ATX 3.1 PCIe 5.1",
+  "price": 482.9,
+  "description": "<h2>Zasilacz komputerowy Montech Century II 1050W</h2><p>Zasilacz komputerowy Montech Century II 1050W to połączenie nowoczesnej technologii i stylowego designu. Dzięki certyfikatom 80 PLUS Platinum i Cybenetics Platinum zapewnia wyjątkową efektywność energetyczną, a zaawansowana architektura zasilania gwarantuje niezawodność i długotrwałą wydajność. Kompatybilność z platformami ATX 3.1 oraz PCIe 5.1, płaskie kable i cichy wentylator 135 mm sprawiają, że jest to idealne rozwiązanie dla wymagających użytkowników.</p><h2>Podpis innowacji Montech</h2><p>Innowacyjne wariacje symbolu Ontech, uzupełnione nowym frontem dla Century II. Stylowy design doskonale pasuje do charakterystycznej estetyki górnej płyty, tworząc odważny i spójny wygląd.</p><h2>Całkowita szczytowa efektywność</h2><p>Dostarczająca efektywną wydajność na wszystkich poziomach obciążenia, przekraczając benchmarki efektywności przy niskim obciążeniu, aby spełnić standardy Platinum.</p><h2>Certyfikat 80 PLUS i Cybenetics Platinum</h2><p>Uznana za najwyższą efektywność i wydajność. Dostarcza maksymalną moc przy optymalnym oszczędzaniu energii.</p><h2>Wsparcie klasy premium: kabel 12V-2x6</h2><p>Standaryzowany kabel 12V-2x6 zapewnia doskonałą kompatybilność z najnowszymi kartami graficznymi.</p><h2>Nowoczesna moc na przyszłość</h2><p>Zbudowana na platformach ATX 3.1 i PCIe 5.1, zapewniając najwyższą efektywność i kompatybilność.</p><h2>Precyzyjna architektura zasilania w działaniu</h2><p>Dzięki aktywnemu PFC, technologii Half Bridge LLC oraz DC-to-DC, ta zaawansowana konstrukcja układu maksymalizuje efektywność zasilania, gwarantując niezawodną wydajność i działanie.</p><h2>Płaskie i elastyczne dla schludnej budowy</h2><p>Z dołączonymi płaskimi kablami i w pełni modułową konstrukcją, doświadczysz porządnej budowy i łatwiejszej konserwacji.</p><h2>Niezawodność od początku do końca</h2><p>100% japońskich kondensatorów w zaawansowanej architekturze zasilania zapewnia stabilną, długoterminową niezawodną pracę.</p><h2>Efektywne chłodzenie, cicha praca</h2><p>Optymalny rozmiar wentylatora 135 mm z trybem Smart Zero Fan, zapewniający idealną wentylację przy zachowaniu niskiego poziomu hałasu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Certyfikat 80 PLUS Gold i Cybenetics Platinum – wysoka efektywność energetyczna</li><li>Wydajność przy niskim obciążeniu</li><li>Kompatybilność z ATX 3.1 i PCIe 5.1 – zapewnia nowoczesną moc i przyszłościową kompatybilność</li><li>Zaawansowana architektura zasilania – aktywne PFC, Half Bridge LLC, DC-to-DC</li><li>100% japońskie kondensatory – gwarancja długoterminowej niezawodności</li><li>Modularna konstrukcja – płaskie kable, łatwiejsza konserwacja</li><li>Wentylator 135 mm z trybem Smart Zero Fan – cicha praca i efektywne chłodzenie</li><li>Kabel 12V-2x6 – zapewnia doskonałą kompatybilność z nowoczesnymi kartami graficznymi</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1050 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Kolor obudowy</p><p>Stalowy</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Tak</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0,3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>87,5 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>2</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>4</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>4</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>1</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/montech.jpg",
+  "images": [
+    "galerie/z/zasilacz-montech-century-ii-1_74812.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74813.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74814.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74815.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74816.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74817.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74818.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74812.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74813.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74814.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74815.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74816.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74817.webp",
+    "galerie/z/zasilacz-montech-century-ii-1_74818.webp"
+  ],
+  "manufacturer": "Montech"
 }

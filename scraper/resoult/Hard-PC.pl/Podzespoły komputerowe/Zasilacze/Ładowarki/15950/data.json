@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Ładowarki"
-    ],
-    "id": "15950",
-    "code": "C14082ABK",
-    "name": "Kabel USB-C - USB-C Unitek C14082ABK 10Gbps 4K 60Hz 20V/5A - 1m",
-    "price": 54.99,
-    "description": "<p>Przewód USB-C w standardzie USB 3.1 Gen 2 umożliwia oszałamiająco szybki transfer danych 10 Gbit na sekundę, video 4K@60 Hz i zasilanie Power Delivery z mocą nawet 100 W. Wtyki USB-C pasują do nowoczesnych ultrabooków, nowych smartfonów i szybkich dysków zewnętrznych.</p><h2>USB SuperSpeed +</h2><p>Standard USB 3.1 Gen 2 umożliwia przesyłanie danych z prędkością 10 Gbps, czyli najszybciej spośród USB dostępnych obecnie na rynku. Z taką przepustowością synchronizowanie plików w urządzeniach, kopiowanie dysku czy zdjęć trwa dosłownie moment, a ponadto przewód może służyć jako doskonały kabel do video.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/k/kabel-usb-c-usb-c-unitek-c140_56691.webp\" width=\"3000\"/></figure><h2>Video 4K@60Hz</h2><p>Na co dzień sprawdzi się jako elegancki przewód łączący komputer (np. MacBook Pro 2019) z monitorem 4K, a na wyjazdach – czy to służbowych czy prywatnych – do podłączenia smartfona lub tabletu do telewizora. Obraz w rozdzielczości 4K lub 2K przy próbkowaniu 60 Hz w niczym nie ustępuje jakości tym przesyłanym przez kabel HDMI czy DisplayPort. Aby skorzystać z tej opcji port USB-C w urządzeniu musi obsługiwać Display Alt Mode lub być kompatybilny z Thunderbolt 3.</p><figure><img alt=\"\" height=\"1500\" src=\"galerie/k/kabel-usb-c-usb-c-unitek-c140_56692.webp\" width=\"2250\"/></figure><h2>Szybkie ładowanie</h2><p>Z tym kablem w pełni wykorzystasz możliwości swoich urządzeń z Quick Charge 3.0 i wyższym. Przewodzi prąd o mocy 20 V/ 5 A, co w praktyce oznacza naładowanie standardowego smartfona do 50% w zaledwie 15 minut.</p><p>Dzięki technologii Power Delivery przy użyciu odpowiednio mocnej ładowarki przewód nie tylko podtrzyma przy życiu laptopa podczas pracy, ale także naładuje go na zapas.</p><figure><img alt=\"\" height=\"1500\" src=\"galerie/k/kabel-usb-c-usb-c-unitek-c140_56693.webp\" width=\"2250\"/></figure><h2>Solidne wykonanie</h2><p>Wtyki przewodu zamknięto w solidnych aluminiowych obudowach, a wewnątrz zamontowano chip E-MARK, który jest niezbędny w tak mocnych przewodach i jest odpowiedzialny za dobranie parametrów ładowania odpowiednich do urządzenia. Ładowanie i synchronizacja są szybkie, stabilne i przede wszystkim bezpieczne.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>1 metr, aluminiowe końcówki</li><li>Ładowanie Power Delivery 100 W</li><li>Specyfikacja USB 3.1 Gen 2</li><li>Video 4K przy próbkowaniu 60 Hz</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Zastosowanie</p><p>Audio / Video<br/>Transfer danych<br/>Video<br/>Zasilanie / ładowanie</p></li><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>Złącze 2</p><p>Wtyk USB-C</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Moc (W)</p><p>100 W</p></li><li><p>Możliwość pracy dwukierunkowej</p><p>tak</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56690.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56694.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56691.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56692.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56693.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56690.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56694.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56691.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56692.webp",
-        "galerie/k/kabel-usb-c-usb-c-unitek-c140_56693.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Ładowarki"
+  ],
+  "id": "15950",
+  "code": "C14082ABK",
+  "name": "Kabel USB-C - USB-C Unitek C14082ABK 10Gbps 4K 60Hz 20V/5A - 1m",
+  "price": 54.99,
+  "description": "<p>Przewód USB-C w standardzie USB 3.1 Gen 2 umożliwia oszałamiająco szybki transfer danych 10 Gbit na sekundę, video 4K@60 Hz i zasilanie Power Delivery z mocą nawet 100 W. Wtyki USB-C pasują do nowoczesnych ultrabooków, nowych smartfonów i szybkich dysków zewnętrznych.</p><h2>USB SuperSpeed +</h2><p>Standard USB 3.1 Gen 2 umożliwia przesyłanie danych z prędkością 10 Gbps, czyli najszybciej spośród USB dostępnych obecnie na rynku. Z taką przepustowością synchronizowanie plików w urządzeniach, kopiowanie dysku czy zdjęć trwa dosłownie moment, a ponadto przewód może służyć jako doskonały kabel do video.</p><figure><img alt=\"\" height=\"2000\" src=\"galerie/k/kabel-usb-c-usb-c-unitek-c140_56691.webp\" width=\"3000\"/></figure><h2>Video 4K@60Hz</h2><p>Na co dzień sprawdzi się jako elegancki przewód łączący komputer (np. MacBook Pro 2019) z monitorem 4K, a na wyjazdach – czy to służbowych czy prywatnych – do podłączenia smartfona lub tabletu do telewizora. Obraz w rozdzielczości 4K lub 2K przy próbkowaniu 60 Hz w niczym nie ustępuje jakości tym przesyłanym przez kabel HDMI czy DisplayPort. Aby skorzystać z tej opcji port USB-C w urządzeniu musi obsługiwać Display Alt Mode lub być kompatybilny z Thunderbolt 3.</p><figure><img alt=\"\" height=\"1500\" src=\"galerie/k/kabel-usb-c-usb-c-unitek-c140_56692.webp\" width=\"2250\"/></figure><h2>Szybkie ładowanie</h2><p>Z tym kablem w pełni wykorzystasz możliwości swoich urządzeń z Quick Charge 3.0 i wyższym. Przewodzi prąd o mocy 20 V/ 5 A, co w praktyce oznacza naładowanie standardowego smartfona do 50% w zaledwie 15 minut.</p><p>Dzięki technologii Power Delivery przy użyciu odpowiednio mocnej ładowarki przewód nie tylko podtrzyma przy życiu laptopa podczas pracy, ale także naładuje go na zapas.</p><figure><img alt=\"\" height=\"1500\" src=\"galerie/k/kabel-usb-c-usb-c-unitek-c140_56693.webp\" width=\"2250\"/></figure><h2>Solidne wykonanie</h2><p>Wtyki przewodu zamknięto w solidnych aluminiowych obudowach, a wewnątrz zamontowano chip E-MARK, który jest niezbędny w tak mocnych przewodach i jest odpowiedzialny za dobranie parametrów ładowania odpowiednich do urządzenia. Ładowanie i synchronizacja są szybkie, stabilne i przede wszystkim bezpieczne.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>1 metr, aluminiowe końcówki</li><li>Ładowanie Power Delivery 100 W</li><li>Specyfikacja USB 3.1 Gen 2</li><li>Video 4K przy próbkowaniu 60 Hz</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Zastosowanie</p><p>Audio / Video<br/>Transfer danych<br/>Video<br/>Zasilanie / ładowanie</p></li><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>Złącze 2</p><p>Wtyk USB-C</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Moc (W)</p><p>100 W</p></li><li><p>Możliwość pracy dwukierunkowej</p><p>tak</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56690.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56694.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56691.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56692.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56693.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56690.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56694.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56691.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56692.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-c140_56693.webp"
+  ],
+  "manufacturer": "Unitek"
 }

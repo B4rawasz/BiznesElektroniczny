@@ -1,20 +1,21 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Zdrowie i uroda"
-    ],
-    "id": "17211",
-    "code": "TSL-PC-TSD200W",
-    "name": "Tesla Smart Szczoteczka do zębów deluxe biała",
-    "price": 279.0,
-    "description": "<h2>42 000 pulsacji na minutę</h2><p>Szczoteczka ultradźwiękowa jest idealnym pomocnikiem w walce z płytką nazębną, pigmentacją i bakteriami. Dzięki technologii ultradźwiękowej szczoteczka wytwarza wibracje o wysokiej częstotliwości, które umożliwiają wnikanie pasty w głąb przestrzeni międzyzębowych. Dzięki prędkości obrotowej 42 000 pulsacji na minutę szczotka zapewnia dokładne i skuteczne czyszczenie.</p><h2>Higiena jamy ustnej pod stałym nadzorem</h2><p>Jeśli chcesz ulepszyć technikę pielęgnacji zębów, pomoże Ci w tym aplikacja TESLA Smart. Nie tylko da Ci możliwość ustawienia trybu i intensywności szczotkowania oraz monitorowania poziomu naładowania baterii, ale także będzie prowadzić rejestr użycia szczoteczki do zębów.</p><h2>Bateria, której ładowanie wystarczy na cały miesiąc</h2><p>Szczoteczka ma bardzo długą żywotność - nawet do 30 dni przy użytkowaniu dwa razy dziennie przez dwie minuty. Wskaźnik LED powiadomi Cię z wyprzedzeniem o niskim poziomie naładowania. Szczoteczkę w łatwy sposób naładujesz za pomocą kabla USB-C.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>40 szt</p></li><li><p>Wysokość:</p><p>19.3 cm</p></li><li><p>Szerokość:</p><p>2.2 cm</p></li><li><p>Głębokość:</p><p>2.2 cm</p></li><li><p>Waga:</p><p>0.38 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-szczoteczka-do-ze_63045.webp",
-        "galerie/t/tesla-smart-szczoteczka-do-ze_63046.webp",
-        "galerie/t/tesla-smart-szczoteczka-do-ze_63045.webp",
-        "galerie/t/tesla-smart-szczoteczka-do-ze_63046.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Zdrowie i uroda"
+  ],
+  "id": "17211",
+  "code": "TSL-PC-TSD200W",
+  "name": "Tesla Smart Szczoteczka do zębów deluxe biała",
+  "price": 279.0,
+  "description": "<h2>42 000 pulsacji na minutę</h2><p>Szczoteczka ultradźwiękowa jest idealnym pomocnikiem w walce z płytką nazębną, pigmentacją i bakteriami. Dzięki technologii ultradźwiękowej szczoteczka wytwarza wibracje o wysokiej częstotliwości, które umożliwiają wnikanie pasty w głąb przestrzeni międzyzębowych. Dzięki prędkości obrotowej 42 000 pulsacji na minutę szczotka zapewnia dokładne i skuteczne czyszczenie.</p><h2>Higiena jamy ustnej pod stałym nadzorem</h2><p>Jeśli chcesz ulepszyć technikę pielęgnacji zębów, pomoże Ci w tym aplikacja TESLA Smart. Nie tylko da Ci możliwość ustawienia trybu i intensywności szczotkowania oraz monitorowania poziomu naładowania baterii, ale także będzie prowadzić rejestr użycia szczoteczki do zębów.</p><h2>Bateria, której ładowanie wystarczy na cały miesiąc</h2><p>Szczoteczka ma bardzo długą żywotność - nawet do 30 dni przy użytkowaniu dwa razy dziennie przez dwie minuty. Wskaźnik LED powiadomi Cię z wyprzedzeniem o niskim poziomie naładowania. Szczoteczkę w łatwy sposób naładujesz za pomocą kabla USB-C.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>40 szt</p></li><li><p>Wysokość:</p><p>19.3 cm</p></li><li><p>Szerokość:</p><p>2.2 cm</p></li><li><p>Głębokość:</p><p>2.2 cm</p></li><li><p>Waga:</p><p>0.38 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-szczoteczka-do-ze_63045.webp",
+    "galerie/t/tesla-smart-szczoteczka-do-ze_63046.webp",
+    "galerie/t/tesla-smart-szczoteczka-do-ze_63045.webp",
+    "galerie/t/tesla-smart-szczoteczka-do-ze_63046.webp"
+  ],
+  "manufacturer": "Tesla"
 }

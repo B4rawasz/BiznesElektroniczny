@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Ogrzewanie"
-    ],
-    "id": "17234",
-    "code": "TSL-BNDL-BASIC",
-    "name": "Tesla Smart Zestaw 3 głowice z centralką",
-    "price": 749.0,
-    "description": "<h2>Oszczędność pieniędzy</h2><p>Inteligentna głowica termostatyczna TESLA została opracowana w celu zmniejszenia zużycia energii podczas ogrzewania lub chłodzenia domu. Inteligentna technologia pomaga zużywać tylko tyle energii, ile jest potrzebne, bez rezygnowania z komfortu. Monitoruje nagłe spadki temperatury sygnalizowane otwartymi oknami i reaguje na nie, minimalizując koszty ogrzewania.</p><h2>Czytelny wyświetlacz LCD</h2><p>Dzięki czytelnemu wyświetlaczowi o wysokim kontraście i jednemu dużemu elementowi sterującemu sterowanie głowicą jest bardzo proste - działa tak samo jak klasyczna głowica. Obracając nią ustawiasz temperaturę, a naciskając przycisk przełączasz się pomiędzy poszczególnymi funkcjami</p><h2>Automatyzacja na podstawie lokalizacji</h2><p>Za Twoją zgodą inteligentna głowica termostatyczna TESLA może uzyskać dostęp do informacji o lokalizacji Twojego telefonu, a tym samym zautomatyzować takie działania jak ogrzewanie domu. Może automatycznie podnieść temperaturę, gdy zbliżasz się do domu i wyłączyć grzejnik, gdy z niego wychodzisz.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>12 szt</p></li><li><p>Waga:</p><p>0.75 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-zestaw-3-glowice_62916.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62917.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62918.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62919.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62920.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62921.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62916.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62917.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62918.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62919.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62920.webp",
-        "galerie/t/tesla-smart-zestaw-3-glowice_62921.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Ogrzewanie"
+  ],
+  "id": "17234",
+  "code": "TSL-BNDL-BASIC",
+  "name": "Tesla Smart Zestaw 3 głowice z centralką",
+  "price": 749.0,
+  "description": "<h2>Oszczędność pieniędzy</h2><p>Inteligentna głowica termostatyczna TESLA została opracowana w celu zmniejszenia zużycia energii podczas ogrzewania lub chłodzenia domu. Inteligentna technologia pomaga zużywać tylko tyle energii, ile jest potrzebne, bez rezygnowania z komfortu. Monitoruje nagłe spadki temperatury sygnalizowane otwartymi oknami i reaguje na nie, minimalizując koszty ogrzewania.</p><h2>Czytelny wyświetlacz LCD</h2><p>Dzięki czytelnemu wyświetlaczowi o wysokim kontraście i jednemu dużemu elementowi sterującemu sterowanie głowicą jest bardzo proste - działa tak samo jak klasyczna głowica. Obracając nią ustawiasz temperaturę, a naciskając przycisk przełączasz się pomiędzy poszczególnymi funkcjami</p><h2>Automatyzacja na podstawie lokalizacji</h2><p>Za Twoją zgodą inteligentna głowica termostatyczna TESLA może uzyskać dostęp do informacji o lokalizacji Twojego telefonu, a tym samym zautomatyzować takie działania jak ogrzewanie domu. Może automatycznie podnieść temperaturę, gdy zbliżasz się do domu i wyłączyć grzejnik, gdy z niego wychodzisz.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>12 szt</p></li><li><p>Waga:</p><p>0.75 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-zestaw-3-glowice_62916.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62917.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62918.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62919.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62920.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62921.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62916.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62917.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62918.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62919.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62920.webp",
+    "galerie/t/tesla-smart-zestaw-3-glowice_62921.webp"
+  ],
+  "manufacturer": "Tesla"
 }

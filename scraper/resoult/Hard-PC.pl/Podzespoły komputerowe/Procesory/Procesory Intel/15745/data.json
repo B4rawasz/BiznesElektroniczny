@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Procesory",
-        "Procesory Intel"
-    ],
-    "id": "15745",
-    "code": "BX8071513100F",
-    "name": "Procesor Intel Core i3-13100F BOX 3,4 GHz, LGA1700",
-    "price": 386.9,
-    "description": "<p>Procesor Intel Core i3-13100F 13. generacji do komputerów stacjonarnych, bez procesora graficznego. Dzięki obsłudze PCIe 5.0 i 4.0 oraz DDR5 i DDR4 procesor Intel Core i3 13. generacji do komputerów stacjonarnych jest zoptymalizowany pod kątem produktywności. Wymagana oddzielna karta graficzna. Kompatybilny z płytami głównymi opartymi na chipsetach serii Intel 700 i Intel 600. Podstawowa moc procesora 58 W.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Liczba rdzeni</p><p>4</p></li><li><p>Liczba rdzeni Performance-core</p><p>4</p></li><li><p>Liczba rdzeni Efficient-core</p><p>0</p></li><li><p>Liczba wątków</p><p>8</p></li><li><p>Maks. częstotliwość turbo</p><p>4.50 GHz</p></li><li><p>Maksymalna częstotliwość turbo rdzeni Performance-core</p><p>4.50 GHz</p></li><li><p>Częstotliwość bazowa rdzeni Performance-core3</p><p>.40 GHz</p></li><li><p>Cache</p><p>12 MB Intel® Smart Cache</p></li><li><p>Łącznie pamięci podręcznej L2</p><p>5 MB</p></li><li><p>Podstawowa moc procesora</p><p>58 W</p></li><li><p>Maksymalna moc turbo</p><p>89 W</p></li><li><p>Maks. wielkość pamięci (w zależności od rodzaju pamięci)</p><p>128 GB</p></li><li><p>Rodzaje pamięci</p><p>Up to DDR5 4800 MT/s<br/>Up to DDR4 3200 MT/s</p></li><li><p>Maks. liczba kanałów pamięci<br/>2</p></li><li><p>Maks. przepustowość pamięci<br/>76.8 GB/s</p></li><li><p>Wersja magistrali DMI (Direct Media Interface)<br/>4.0</p></li><li><p>Maksymalna liczba linii DMI<br/>8</p></li><li><p>Skalowalność<br/>1S Only</p></li><li><p>Wersja PCI Express<br/>5.0 and 4.0</p></li><li><p>Liczba konfiguracji PCI Express<br/>Up to 1x16+4, 2x8+4</p></li><li><p>Maksymalna liczba linii PCI Express<br/>20</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/intel.jpg",
-    "images": [
-        "galerie/p/procesor-intel-core-i3-13100f_56131.webp",
-        "galerie/p/procesor-intel-core-i3-13100f_56131.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory Intel"
+  ],
+  "id": "15745",
+  "code": "BX8071513100F",
+  "name": "Procesor Intel Core i3-13100F BOX 3,4 GHz, LGA1700",
+  "price": 386.9,
+  "description": "<p>Procesor Intel Core i3-13100F 13. generacji do komputerów stacjonarnych, bez procesora graficznego. Dzięki obsłudze PCIe 5.0 i 4.0 oraz DDR5 i DDR4 procesor Intel Core i3 13. generacji do komputerów stacjonarnych jest zoptymalizowany pod kątem produktywności. Wymagana oddzielna karta graficzna. Kompatybilny z płytami głównymi opartymi na chipsetach serii Intel 700 i Intel 600. Podstawowa moc procesora 58 W.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Liczba rdzeni</p><p>4</p></li><li><p>Liczba rdzeni Performance-core</p><p>4</p></li><li><p>Liczba rdzeni Efficient-core</p><p>0</p></li><li><p>Liczba wątków</p><p>8</p></li><li><p>Maks. częstotliwość turbo</p><p>4.50 GHz</p></li><li><p>Maksymalna częstotliwość turbo rdzeni Performance-core</p><p>4.50 GHz</p></li><li><p>Częstotliwość bazowa rdzeni Performance-core3</p><p>.40 GHz</p></li><li><p>Cache</p><p>12 MB Intel® Smart Cache</p></li><li><p>Łącznie pamięci podręcznej L2</p><p>5 MB</p></li><li><p>Podstawowa moc procesora</p><p>58 W</p></li><li><p>Maksymalna moc turbo</p><p>89 W</p></li><li><p>Maks. wielkość pamięci (w zależności od rodzaju pamięci)</p><p>128 GB</p></li><li><p>Rodzaje pamięci</p><p>Up to DDR5 4800 MT/s<br/>Up to DDR4 3200 MT/s</p></li><li><p>Maks. liczba kanałów pamięci<br/>2</p></li><li><p>Maks. przepustowość pamięci<br/>76.8 GB/s</p></li><li><p>Wersja magistrali DMI (Direct Media Interface)<br/>4.0</p></li><li><p>Maksymalna liczba linii DMI<br/>8</p></li><li><p>Skalowalność<br/>1S Only</p></li><li><p>Wersja PCI Express<br/>5.0 and 4.0</p></li><li><p>Liczba konfiguracji PCI Express<br/>Up to 1x16+4, 2x8+4</p></li><li><p>Maksymalna liczba linii PCI Express<br/>20</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/intel.jpg",
+  "images": [
+    "galerie/p/procesor-intel-core-i3-13100f_56131.webp",
+    "galerie/p/procesor-intel-core-i3-13100f_56131.webp"
+  ],
+  "manufacturer": "Intel"
 }

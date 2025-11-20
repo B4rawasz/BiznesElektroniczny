@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Ładowarki"
-    ],
-    "id": "15604",
-    "code": "P1400A",
-    "name": "Ładowarka samochodowa Unitek 38W USB-A USB-C QC3.0",
-    "price": 40.0,
-    "description": "<h2>Ładuj swoje urządzenia w drodze</h2><p>Spędzasz dużo czasu w samochodzie, a może zwyczajnie brakuje Ci kilku procent baterii w telefonie? Dzięki ładowarce samochodowej Unitek możesz w bezpieczny sposób ładować swoje urządzenia w trasie, bez konieczności zabierania ze sobą powerbanków.</p><h2>Szybkie i bezpieczne ładowanie</h2><p>Dwa porty ładowarki, USB-C i USB-A, zapewniają łączną moc 38W. Pozwala to na błyskawiczne ładowanie takich urządzeń jak smartfony czy tablety. Port USB-C umożliwia ładowanie do 20W, 12V1,67A, 9V2,22A i 5V3A. Port USB-A z funkcją Quick Charge 3.0 ładuje do 18W, w tym 12V1,5A, 9V2A i 5V3A. Ładowarka jest kompatybilna z wejściem zasilania DC 12-24V. Wbudowany chipset chroni przed zwarciem i przegrzaniem. Dzięki temu Twoje urządzenia są ładowanie nie tylko szybko, ale i bezpiecznie.</p><h2>Praktyczna i elegancka</h2><p>Wykonana z czarnego, wysokiej jakości tworzywa ABS ładowarka doskonale wpasuje się we wnętrze Twojego samochodu. Dzięki swoim niewielkim wymiarom (25 mm x 25 mm x 57 mm) bez problemu zmieści się w schowku czy kieszeni. Ładowarka jest kompatybilna z wszystkimi kablami ładującymi.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Ładowarka z dwoma portami (USB-C i USB-A)</li><li>Port USB-C ładuje do 20W, w tym 12V1,67A, 9V2,22A i 5V3A</li><li>Port USB-A ładuje do 18W, w tym 12V1,5A, 9V2,A i 5V3A</li><li>Ładowarka kompatybilna z wejściem zasilania DC 12-24V</li><li>Wymiary: 25 mm x 25 mm x 57 mm</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Port ładujący USB</p><p>tak</p></li><li><p>Standard ładowania</p><p>Power Delivery<br/>Quick Charge</p></li><li><p>Maksymalne natężenie na wyjściu</p><p>3 A</p></li><li><p>Moc (W)</p><p>38 W</p></li><li><p>Rodzaj portów ładowania</p><p>USB-A<br/>USB-C</p></li><li><p>Rodzaj ładowania</p><p>Przewodowe</p></li><li><p>Rodzaj ładowarki</p><p>Samochodowe</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/l/ladowarka-samochodowa-unitek_55559.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55560.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55561.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55562.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55563.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55559.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55560.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55561.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55562.webp",
-        "galerie/l/ladowarka-samochodowa-unitek_55563.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Ładowarki"
+  ],
+  "id": "15604",
+  "code": "P1400A",
+  "name": "Ładowarka samochodowa Unitek 38W USB-A USB-C QC3.0",
+  "price": 40.0,
+  "description": "<h2>Ładuj swoje urządzenia w drodze</h2><p>Spędzasz dużo czasu w samochodzie, a może zwyczajnie brakuje Ci kilku procent baterii w telefonie? Dzięki ładowarce samochodowej Unitek możesz w bezpieczny sposób ładować swoje urządzenia w trasie, bez konieczności zabierania ze sobą powerbanków.</p><h2>Szybkie i bezpieczne ładowanie</h2><p>Dwa porty ładowarki, USB-C i USB-A, zapewniają łączną moc 38W. Pozwala to na błyskawiczne ładowanie takich urządzeń jak smartfony czy tablety. Port USB-C umożliwia ładowanie do 20W, 12V1,67A, 9V2,22A i 5V3A. Port USB-A z funkcją Quick Charge 3.0 ładuje do 18W, w tym 12V1,5A, 9V2A i 5V3A. Ładowarka jest kompatybilna z wejściem zasilania DC 12-24V. Wbudowany chipset chroni przed zwarciem i przegrzaniem. Dzięki temu Twoje urządzenia są ładowanie nie tylko szybko, ale i bezpiecznie.</p><h2>Praktyczna i elegancka</h2><p>Wykonana z czarnego, wysokiej jakości tworzywa ABS ładowarka doskonale wpasuje się we wnętrze Twojego samochodu. Dzięki swoim niewielkim wymiarom (25 mm x 25 mm x 57 mm) bez problemu zmieści się w schowku czy kieszeni. Ładowarka jest kompatybilna z wszystkimi kablami ładującymi.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Ładowarka z dwoma portami (USB-C i USB-A)</li><li>Port USB-C ładuje do 20W, w tym 12V1,67A, 9V2,22A i 5V3A</li><li>Port USB-A ładuje do 18W, w tym 12V1,5A, 9V2,A i 5V3A</li><li>Ładowarka kompatybilna z wejściem zasilania DC 12-24V</li><li>Wymiary: 25 mm x 25 mm x 57 mm</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Port ładujący USB</p><p>tak</p></li><li><p>Standard ładowania</p><p>Power Delivery<br/>Quick Charge</p></li><li><p>Maksymalne natężenie na wyjściu</p><p>3 A</p></li><li><p>Moc (W)</p><p>38 W</p></li><li><p>Rodzaj portów ładowania</p><p>USB-A<br/>USB-C</p></li><li><p>Rodzaj ładowania</p><p>Przewodowe</p></li><li><p>Rodzaj ładowarki</p><p>Samochodowe</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/l/ladowarka-samochodowa-unitek_55559.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55560.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55561.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55562.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55563.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55559.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55560.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55561.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55562.webp",
+    "galerie/l/ladowarka-samochodowa-unitek_55563.webp"
+  ],
+  "manufacturer": "Unitek"
 }

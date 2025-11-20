@@ -1,30 +1,31 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Zdrowie i uroda"
-    ],
-    "id": "17199",
-    "code": "TSL-HC-HL60",
-    "name": "Tesla Smart Poduszka elektryczna z głośnikiem",
-    "price": 299.0,
-    "description": "<h2>Inteligentna poduszka zapewniająca dobry sen</h2><p>Inteligentna poduszka TESLA stanie się niezbędnym elementem Twojej sypialni. Posiada trzy funkcje – inteligentne ogrzewanie, monitorowanie snu oraz muzykę przed zaśnięciem. Wszystko po to, by zapewnić Ci najlepszy sen.</p><h2>Połączenie</h2><p>Poduszka TESLA Smart Pillow ma trzy funkcje – inteligentne ogrzewanie, monitorowanie snu i muzyka na dobranoc.</p><h2>Wygoda i funkcjonalność</h2><p>Poduszka posiada użyteczne funkcje, i dorównuje najwygodniejszym poduszkom.</p><h2>Wszystko w jednej aplikacji</h2><p>Wszystkie informacje i dane można obserwować w aplikacji mobilnej, która jest dostępna dla smartfonów z systemem iOS i Android. Sama poduszka może przechowywać dane maksymalnie przez trzy dni. Dlatego wskazana jest regularna synchronizacja. Jednak to - o ile nie ustawisz tego inaczej - będzie wykonywane automatycznie przez aplikację. Dzięki aplikacji można dowiedzieć się, jak długi był nasz sen, jaka była jego jakość i inne ciekawe informacje.</p><h2>Komunikacja przez asystentów</h2><p>Można również skorygować ustawienia i sterować poduszką za pomocą inteligentnych asystentów osobistych Amazon Alexa i Google Assistant. Sterowanie głosowe ułatwia wybór temperatury lub odtwarzanie ulubionej muzyki bez konieczności wstawania z łóżka.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>5 szt</p></li><li><p>Wysokość:</p><p>8 cm</p></li><li><p>Szerokość:</p><p>57 cm</p></li><li><p>Głębokość:</p><p>38 cm</p></li><li><p>Waga:</p><p>1.33 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-poduszka-elektryc_63113.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63114.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63115.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63116.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63117.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63118.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63119.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63113.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63114.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63115.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63116.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63117.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63118.webp",
-        "galerie/t/tesla-smart-poduszka-elektryc_63119.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Zdrowie i uroda"
+  ],
+  "id": "17199",
+  "code": "TSL-HC-HL60",
+  "name": "Tesla Smart Poduszka elektryczna z głośnikiem",
+  "price": 299.0,
+  "description": "<h2>Inteligentna poduszka zapewniająca dobry sen</h2><p>Inteligentna poduszka TESLA stanie się niezbędnym elementem Twojej sypialni. Posiada trzy funkcje – inteligentne ogrzewanie, monitorowanie snu oraz muzykę przed zaśnięciem. Wszystko po to, by zapewnić Ci najlepszy sen.</p><h2>Połączenie</h2><p>Poduszka TESLA Smart Pillow ma trzy funkcje – inteligentne ogrzewanie, monitorowanie snu i muzyka na dobranoc.</p><h2>Wygoda i funkcjonalność</h2><p>Poduszka posiada użyteczne funkcje, i dorównuje najwygodniejszym poduszkom.</p><h2>Wszystko w jednej aplikacji</h2><p>Wszystkie informacje i dane można obserwować w aplikacji mobilnej, która jest dostępna dla smartfonów z systemem iOS i Android. Sama poduszka może przechowywać dane maksymalnie przez trzy dni. Dlatego wskazana jest regularna synchronizacja. Jednak to - o ile nie ustawisz tego inaczej - będzie wykonywane automatycznie przez aplikację. Dzięki aplikacji można dowiedzieć się, jak długi był nasz sen, jaka była jego jakość i inne ciekawe informacje.</p><h2>Komunikacja przez asystentów</h2><p>Można również skorygować ustawienia i sterować poduszką za pomocą inteligentnych asystentów osobistych Amazon Alexa i Google Assistant. Sterowanie głosowe ułatwia wybór temperatury lub odtwarzanie ulubionej muzyki bez konieczności wstawania z łóżka.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>5 szt</p></li><li><p>Wysokość:</p><p>8 cm</p></li><li><p>Szerokość:</p><p>57 cm</p></li><li><p>Głębokość:</p><p>38 cm</p></li><li><p>Waga:</p><p>1.33 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-poduszka-elektryc_63113.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63114.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63115.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63116.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63117.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63118.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63119.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63113.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63114.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63115.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63116.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63117.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63118.webp",
+    "galerie/t/tesla-smart-poduszka-elektryc_63119.webp"
+  ],
+  "manufacturer": "Tesla"
 }

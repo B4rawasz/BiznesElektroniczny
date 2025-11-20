@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Procesory",
-        "Procesory Intel"
-    ],
-    "id": "19594",
-    "code": "BX8071514400",
-    "name": "Procesor Intel Core i5-14400 4,7 GHz 9.5 MB LGA1700",
-    "price": 1031.99,
-    "description": "<p>Poznaj procesory Intel Core i5 14. generacji – idealny wybór dla graczy, twórców i użytkowników domowych, którzy oczekują wysokiej wydajności w rozsądnej cenie. Najnowsza generacja oparta na hybrydowej architekturze Intel łączy wydajne rdzenie Performance z energooszczędnymi rdzeniami Efficient, zapewniając płynną pracę zarówno w wymagających grach, jak i podczas wielozadaniowej pracy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Zwiększoną liczbę rdzeni i wątków, co przekłada się na lepsze osiągi w grach i aplikacjach profesjonalnych,</li><li>Wsparcie dla najnowszych standardów, takich jak DDR5, PCIe 5.0 i Thunderbolt 4, zapewniając pełną kompatybilność z nowoczesnymi komponentami,</li><li>Zoptymalizowaną wydajność energetyczną – więcej mocy, mniej zużycia,</li><li>Zintegrowany układ graficzny Intel UHD Graphics (w wybranych modelach), umożliwiający podstawową obsługę multimediów bez potrzeby dedykowanej karty graficznej.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba rdzeni</p><p>10 (6 rdzeni Performance, 4 rdzenie Efficient)</p></li><li><p>Liczba wątków</p><p>16</p></li><li><p>Maksymalna częstotliwość turbo</p><p>4,7 GHz</p></li><li><p>Pamięć podręczna</p><p>20 MB Intel Smart Cache</p></li><li><p>Moc podstawowa procesora</p><p>65 W</p></li><li><p>Maksymalna moc turbo</p><p>148 W</p></li><li><p>Obsługiwane typy pamięci</p><p>DDR5 do 4800 MT/s, DDR4 do 3200 MT/s</p></li><li><p>Maksymalna wielkość pamięci</p><p>192 GB</p></li><li><p>Zintegrowana grafika</p><p>Intel UHD Graphics 730</p></li><li><p>Obsługiwane gniazdo</p><p>LGA1700</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/intel.jpg",
-    "images": [
-        "galerie/p/procesor-intel-core-i5-14400_72119.webp",
-        "galerie/p/procesor-intel-core-i5-14400_72119.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory Intel"
+  ],
+  "id": "19594",
+  "code": "BX8071514400",
+  "name": "Procesor Intel Core i5-14400 4,7 GHz 9.5 MB LGA1700",
+  "price": 1031.99,
+  "description": "<p>Poznaj procesory Intel Core i5 14. generacji – idealny wybór dla graczy, twórców i użytkowników domowych, którzy oczekują wysokiej wydajności w rozsądnej cenie. Najnowsza generacja oparta na hybrydowej architekturze Intel łączy wydajne rdzenie Performance z energooszczędnymi rdzeniami Efficient, zapewniając płynną pracę zarówno w wymagających grach, jak i podczas wielozadaniowej pracy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Zwiększoną liczbę rdzeni i wątków, co przekłada się na lepsze osiągi w grach i aplikacjach profesjonalnych,</li><li>Wsparcie dla najnowszych standardów, takich jak DDR5, PCIe 5.0 i Thunderbolt 4, zapewniając pełną kompatybilność z nowoczesnymi komponentami,</li><li>Zoptymalizowaną wydajność energetyczną – więcej mocy, mniej zużycia,</li><li>Zintegrowany układ graficzny Intel UHD Graphics (w wybranych modelach), umożliwiający podstawową obsługę multimediów bez potrzeby dedykowanej karty graficznej.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba rdzeni</p><p>10 (6 rdzeni Performance, 4 rdzenie Efficient)</p></li><li><p>Liczba wątków</p><p>16</p></li><li><p>Maksymalna częstotliwość turbo</p><p>4,7 GHz</p></li><li><p>Pamięć podręczna</p><p>20 MB Intel Smart Cache</p></li><li><p>Moc podstawowa procesora</p><p>65 W</p></li><li><p>Maksymalna moc turbo</p><p>148 W</p></li><li><p>Obsługiwane typy pamięci</p><p>DDR5 do 4800 MT/s, DDR4 do 3200 MT/s</p></li><li><p>Maksymalna wielkość pamięci</p><p>192 GB</p></li><li><p>Zintegrowana grafika</p><p>Intel UHD Graphics 730</p></li><li><p>Obsługiwane gniazdo</p><p>LGA1700</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/intel.jpg",
+  "images": [
+    "galerie/p/procesor-intel-core-i5-14400_72119.webp",
+    "galerie/p/procesor-intel-core-i5-14400_72119.webp"
+  ],
+  "manufacturer": "Intel"
 }

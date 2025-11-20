@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy bez okna"
-    ],
-    "id": "11553",
-    "code": "GEJB-045",
-    "name": "Obudowa Jonsbo V4 Micro-ATX Cube Black",
-    "price": 300.9,
-    "description": "<p>Poszukujesz eleganckiej oraz kompaktowej obudowy, która pomieści wydajny zestaw do gier lub pracy? Model Jonsbo V4 Micro-ATX Cube to obudowa której poszukiwałeś!</p><h2>Elegancka obudowa ze szczotkowanego aluminium</h2><p>Obudowa komputerowa Jonsbo V4 Micro-ATX Cube to model przeznaczony dla osób poszukujących bardziej stylowych i eleganckich obudów komputerowych. W produkcji modelu V4 udział wzięło szczotkowane aluminium, które sprawia, że obudowa prezentuje się wyśmienicie. Model ma kształt sześcianu przez co wyróżnia się na tle obudów konkurencji.</p><p>W obudowie Jonsbo V4 Micro-ATX Cube panel I/O został umieszczony na prawym rogu. Do dyspozycji użytkownika przekazano dwa porty USB - po jednym USB 3.0 i USB 2.0 oraz dwa złącza audio HD (wejście i wyjście). Przycisk zasilający znajduje się na froncie obudowy. Wymiary modelu V4 to 238 x 278 x 290 mm (szer. X wys. X gł.) przy wadze 2 kg.</p><h2>Kompaktowa, ale pojemna</h2><p>Obudowa Jonsbo V4 Micro-ATX Cube to kompaktowy model, który pomieści wewnątrz wydajny zestaw do gier czy pracy. Obudowa posiada cztery sloty na karty rozszerzeń i jest przystosowana do montażu płyt Mini-ITX oraz Micro-ATX. Maksymalna długość karty graficznej jaką zmieścimy w obudowie Jonsbo V4 Micro-ATX Cube wynosi 260 mm, a wysokość chłodzenia CPU nie może przekraczać 120 mm! W obudowie zmieszczą się dwa dyski 2,5/3,5-cala i jeden nośnik o średnicy 2,5-cala.</p><h2>Utrzyma odpowiednią temperaturę</h2><p>Obudowa Jonsbo V4 Micro-ATX Cube nie posiada fabrycznie zamontowanych wentylatorów, jednak producent przewidział montaż trzech wentylatorów. W obudowie zmieszczą się modele o średnicy 80mm. Miejsce na ich montaż znajduje się na tylnej ściance.</p><div class=\"description-feauters\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><li>Wymiary: 238 x 278 x 290 mm (W x H x D)</li><li>Materiał: aluminum</li><li>Waga: 2 kg</li><li>Standard: Mini-ITX, Micro-ATX</li><li>System chłodzenia:</li><ul><li>3x 80 mm (tył - brak)</li></ul><li>Zatoki:</li><ul><li>2x 2.5 / 3.5 inches</li><li>1x 2.5 inches</li></ul><li>Zasilacz: ATX (brak w zestawie)</li><li>Ilość miejsc na karty rozszerzeń: 4</li><li>I / O panel:</li><ul><li>1x USB 3.0</li><li>1x USB 2.0</li><li>2x HD audio</li><li>1x power switch</li></ul><li>Maksymalna wysokość chłodzenia CPU: 120 mm</li><li>Maksymalna długość karty graficznej: 260 mm</li></ul></div>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Jonsbo</p></li><li><p>Dane producenta</p><p>Dongguan Sibositong Industrial Co., Ltd., No. 5, Xinglong Lu, Sanzhong Village, Qingxi Town, Dongguan City, Guangdong Province, 523651, China, jane@jonsbo.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/jonsbo.jpg",
-    "images": [
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39143.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39144.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39145.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39146.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39147.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39143.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39144.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39145.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39146.webp",
-        "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39147.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy bez okna"
+  ],
+  "id": "11553",
+  "code": "GEJB-045",
+  "name": "Obudowa Jonsbo V4 Micro-ATX Cube Black",
+  "price": 300.9,
+  "description": "<p>Poszukujesz eleganckiej oraz kompaktowej obudowy, która pomieści wydajny zestaw do gier lub pracy? Model Jonsbo V4 Micro-ATX Cube to obudowa której poszukiwałeś!</p><h2>Elegancka obudowa ze szczotkowanego aluminium</h2><p>Obudowa komputerowa Jonsbo V4 Micro-ATX Cube to model przeznaczony dla osób poszukujących bardziej stylowych i eleganckich obudów komputerowych. W produkcji modelu V4 udział wzięło szczotkowane aluminium, które sprawia, że obudowa prezentuje się wyśmienicie. Model ma kształt sześcianu przez co wyróżnia się na tle obudów konkurencji.</p><p>W obudowie Jonsbo V4 Micro-ATX Cube panel I/O został umieszczony na prawym rogu. Do dyspozycji użytkownika przekazano dwa porty USB - po jednym USB 3.0 i USB 2.0 oraz dwa złącza audio HD (wejście i wyjście). Przycisk zasilający znajduje się na froncie obudowy. Wymiary modelu V4 to 238 x 278 x 290 mm (szer. X wys. X gł.) przy wadze 2 kg.</p><h2>Kompaktowa, ale pojemna</h2><p>Obudowa Jonsbo V4 Micro-ATX Cube to kompaktowy model, który pomieści wewnątrz wydajny zestaw do gier czy pracy. Obudowa posiada cztery sloty na karty rozszerzeń i jest przystosowana do montażu płyt Mini-ITX oraz Micro-ATX. Maksymalna długość karty graficznej jaką zmieścimy w obudowie Jonsbo V4 Micro-ATX Cube wynosi 260 mm, a wysokość chłodzenia CPU nie może przekraczać 120 mm! W obudowie zmieszczą się dwa dyski 2,5/3,5-cala i jeden nośnik o średnicy 2,5-cala.</p><h2>Utrzyma odpowiednią temperaturę</h2><p>Obudowa Jonsbo V4 Micro-ATX Cube nie posiada fabrycznie zamontowanych wentylatorów, jednak producent przewidział montaż trzech wentylatorów. W obudowie zmieszczą się modele o średnicy 80mm. Miejsce na ich montaż znajduje się na tylnej ściance.</p><div class=\"description-feauters\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><li>Wymiary: 238 x 278 x 290 mm (W x H x D)</li><li>Materiał: aluminum</li><li>Waga: 2 kg</li><li>Standard: Mini-ITX, Micro-ATX</li><li>System chłodzenia:</li><ul><li>3x 80 mm (tył - brak)</li></ul><li>Zatoki:</li><ul><li>2x 2.5 / 3.5 inches</li><li>1x 2.5 inches</li></ul><li>Zasilacz: ATX (brak w zestawie)</li><li>Ilość miejsc na karty rozszerzeń: 4</li><li>I / O panel:</li><ul><li>1x USB 3.0</li><li>1x USB 2.0</li><li>2x HD audio</li><li>1x power switch</li></ul><li>Maksymalna wysokość chłodzenia CPU: 120 mm</li><li>Maksymalna długość karty graficznej: 260 mm</li></ul></div>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Jonsbo</p></li><li><p>Dane producenta</p><p>Dongguan Sibositong Industrial Co., Ltd., No. 5, Xinglong Lu, Sanzhong Village, Qingxi Town, Dongguan City, Guangdong Province, 523651, China, jane@jonsbo.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/jonsbo.jpg",
+  "images": [
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39143.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39144.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39145.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39146.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39147.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39143.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39144.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39145.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39146.webp",
+    "galerie/o/obudowa-jonsbo-v4-micro-atx-c_39147.webp"
+  ],
+  "manufacturer": "Jonsbo"
 }

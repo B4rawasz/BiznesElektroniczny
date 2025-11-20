@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Thermalpady"
-    ],
-    "id": "10370",
-    "code": "ZUWA-180",
-    "name": "Thermalpad Thermal Grizzly Carbonaut 38 x 38 x 0,2mm",
-    "price": 69.9,
-    "description": "OPIS <p>Procesory to najciężej pracujące podzespoły w komputerach PC. To przez nie przechodzi nie tylko niewyobrażalna liczba danych i procesów, ale są one również narażone na pracę w wysokich temperaturach. Z reguły, aby usprawnić przepływ temperatury na procesory kładzie się pasty termoprzewodzące. Tego typu zastosowanie sprawdza się od lat, jednak co jakiś czas taką pastę trzeba wymienić - zupełnie inaczej jest w przypadku podkładki termicznej <strong>Thermal Grizzly Carbonaut</strong>.</p><p>Podkładka termiczna na procesor <strong>Thermal Grizzly Carbonaut</strong> to nie tylko długotrwalsze, ale także lepsze i wydajniejsze rozwiązanie niż klasyczna pasta termoprzewodząca. Wykonana z polimeru na bazie nanocząsteczek węgla, których przewodność cieplna wynosi aż 62.5W/mK sprawia, że Carbonaut to idealny wybór. Jej temperatura pracy: od -250°C do +150°C.</p><p>Podkładka termiczna Thermal Grizzly Carbonaut charakteryzuje się nie tylko doskonałą przewodnością temperatur dorównującej pastom termoprzewodzącym, ale przede wszystkim trwałością. Materiał z jakiego została wyprodukowana podkładka nie podlega praktycznie żadnym procesom rozkładu, co sprawia, że właściwości Carbonaut są i będą takie same. Żywotność Thermal Grizzly Carbonaut może sięgać nawet kilkanaście lat!</p><p>Thermal Grizzly Carbonaut nie jest też produktem jednorazowym. Z racji tego, że nie podkładka nie posiada warstwy kleju można z niej korzystać wielokrotnie. Należy jednak pamiętać, że producent przy tworzeniu Carbonaut stawiał na trwałość, nie na ekstremalne podkręcanie procesorów.</p><p>Przy montażu bardzo ważny jest nacisk kontaktowy; im większy docisk chłodzenia do powierzchni GPU/CPU tym uzyskamy lepsze wyniki przewodności. Podkładka ma wymiary 38 x 38 x 0,2 mm i jest kompatybilna z procesorami Intel (Socket 2066) oraz AMD (AM4). Jej montaż jest bardzo łatwy - wystarczy położyć ją na IHS.</p><p>Przed montażem należy pamiętać, że Thermal Grizzly Carbonaut jest przewodnikiem elektrycznym i należy unikać stykania podkładki z tranzystorami lub transformatorami.</p><p>Produkt Thermal Grizzly Carbonaut został objęty 24-miesięczną gwarancją.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 38 x 38 x 0,2 mm</li><li>Ilość: 1</li><li>Przewodność cieplna: 62,5 W / (mK)</li><li>Temperatura pracy: od -250 do +150 ° C</li><li>Kompatybilność: Procesory Intel (Socket 2066) oraz AMD (AM4)</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
-    "images": [
-        "galerie/t/thermalpad-thermal-grizzly-ca_32976.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32977.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32978.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32979.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32980.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32976.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32977.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32978.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32979.webp",
-        "galerie/t/thermalpad-thermal-grizzly-ca_32980.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "10370",
+  "code": "ZUWA-180",
+  "name": "Thermalpad Thermal Grizzly Carbonaut 38 x 38 x 0,2mm",
+  "price": 69.9,
+  "description": "OPIS <p>Procesory to najciężej pracujące podzespoły w komputerach PC. To przez nie przechodzi nie tylko niewyobrażalna liczba danych i procesów, ale są one również narażone na pracę w wysokich temperaturach. Z reguły, aby usprawnić przepływ temperatury na procesory kładzie się pasty termoprzewodzące. Tego typu zastosowanie sprawdza się od lat, jednak co jakiś czas taką pastę trzeba wymienić - zupełnie inaczej jest w przypadku podkładki termicznej <strong>Thermal Grizzly Carbonaut</strong>.</p><p>Podkładka termiczna na procesor <strong>Thermal Grizzly Carbonaut</strong> to nie tylko długotrwalsze, ale także lepsze i wydajniejsze rozwiązanie niż klasyczna pasta termoprzewodząca. Wykonana z polimeru na bazie nanocząsteczek węgla, których przewodność cieplna wynosi aż 62.5W/mK sprawia, że Carbonaut to idealny wybór. Jej temperatura pracy: od -250°C do +150°C.</p><p>Podkładka termiczna Thermal Grizzly Carbonaut charakteryzuje się nie tylko doskonałą przewodnością temperatur dorównującej pastom termoprzewodzącym, ale przede wszystkim trwałością. Materiał z jakiego została wyprodukowana podkładka nie podlega praktycznie żadnym procesom rozkładu, co sprawia, że właściwości Carbonaut są i będą takie same. Żywotność Thermal Grizzly Carbonaut może sięgać nawet kilkanaście lat!</p><p>Thermal Grizzly Carbonaut nie jest też produktem jednorazowym. Z racji tego, że nie podkładka nie posiada warstwy kleju można z niej korzystać wielokrotnie. Należy jednak pamiętać, że producent przy tworzeniu Carbonaut stawiał na trwałość, nie na ekstremalne podkręcanie procesorów.</p><p>Przy montażu bardzo ważny jest nacisk kontaktowy; im większy docisk chłodzenia do powierzchni GPU/CPU tym uzyskamy lepsze wyniki przewodności. Podkładka ma wymiary 38 x 38 x 0,2 mm i jest kompatybilna z procesorami Intel (Socket 2066) oraz AMD (AM4). Jej montaż jest bardzo łatwy - wystarczy położyć ją na IHS.</p><p>Przed montażem należy pamiętać, że Thermal Grizzly Carbonaut jest przewodnikiem elektrycznym i należy unikać stykania podkładki z tranzystorami lub transformatorami.</p><p>Produkt Thermal Grizzly Carbonaut został objęty 24-miesięczną gwarancją.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 38 x 38 x 0,2 mm</li><li>Ilość: 1</li><li>Przewodność cieplna: 62,5 W / (mK)</li><li>Temperatura pracy: od -250 do +150 ° C</li><li>Kompatybilność: Procesory Intel (Socket 2066) oraz AMD (AM4)</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/t/thermalpad-thermal-grizzly-ca_32976.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32977.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32978.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32979.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32980.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32976.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32977.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32978.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32979.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32980.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
 }

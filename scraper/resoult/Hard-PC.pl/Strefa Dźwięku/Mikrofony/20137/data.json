@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Mikrofony"
-    ],
-    "id": "20137",
-    "code": "4820216974621",
-    "name": "Mikrofon Fifine AM6P USB Pink",
-    "price": 279.0,
-    "description": "<h2>Mikrofon pojemnościowy FIFINE AM6P AmpliGame z redukcją szumów RGB</h2><p>FIFINE AM6P to zaawansowany mikrofon pojemnościowy dedykowany głównie graczom PC, którzy korzystają z klawiatury i myszy. Dzięki funkcji balansu gry i czatu pozwala na wygodne sterowanie dźwiękiem podczas rozgrywki bez potrzeby skomplikowanego oprogramowania.</p><h2>Wsparcie dla wielu platform i prostota podłączenia</h2><p>Mikrofon działa z systemami Windows, Mac OS oraz konsolami PS4 i PS5 przez USB. Mimo braku miksu czatu na konsolach, funkcja redukcji szumów kompensuje naturalnie wysoką czułość mikrofonu pojemnościowego. Urządzenie nie jest jednak kompatybilne z Xbox bezpośrednio.</p><h2>Łatwe sterowanie i monitorowanie dźwięku</h2><p>Regulacja głośności odbywa się za pomocą wygodnego pokrętła, które pozwala szybko zwiększyć lub zmniejszyć poziom dźwięku, w tym balans między czatem a dźwiękiem gry, bez konieczności przerywania gry. Dzięki wyjściu słuchawkowemu i niskim opóźnieniom użytkownik może monitorować swój głos w czasie rzeczywistym.</p><h2>Kardioidalna charakterystyka i oświetlenie RGB</h2><p>Kapsuła mikrofonu o kardioidalnej charakterystyce kierunkowej skutecznie redukuje szumy tła, a jednocześnie skupia się na czystym dźwięku głosu. Mikrofon wyposażono w podświetlenie RGB z 4 stylami i 6 schematami kolorów, sterowane przyciskiem, które ożywia stanowisko gamingowe bez konieczności korzystania z oprogramowania.</p><h2>Minimalizm kabli i wygoda użytkowania</h2><p>Do działania potrzebne jest tylko jedno połączenie USB z komputerem, a do mikrofonu podłącza się przewodowy zestaw słuchawkowy. Takie rozwiązanie minimalizuje bałagan i ułatwia szybkie ustawienie sprzętu.</p><h2>Technologia i jakość dźwięku</h2><p>Mikrofon wyposażono w małomembranową kapsułę pojemnościową, która kładzie nacisk na czyste częstotliwości oraz skuteczną redukcję szumów tła. Dzięki temu FIFINE AM6P zapewnia dobrą równowagę między jakością dźwięku a minimalnym poziomem zakłóceń.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>różowy</p></li><li><p>Termin gwarancji</p><p>1 rok od daty sprzedaży</p></li><li><p>Typ</p><p>pojemnościowy</p></li><li><p>Pasmo przenoszenia</p><p>70 Hz – 20 kHz</p></li><li><p>Czułość</p><p>-42 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Częstotliwość próbkowania</p><p>48 kHz</p></li><li><p>Szybkość transmisji bitów</p><p>16-bit/24-bit</p></li><li><p>Stosunek sygnału do szumu</p><p>75 dB</p></li><li><p>Złącze</p><p>USB Type-C</p></li><li><p>Waga</p><p>0,6 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/fifine.jpg",
-    "images": [
-        "galerie/m/mikrofon-fifine-am6p-usb-pink_76822.webp",
-        "galerie/m/mikrofon-fifine-am6p-usb-pink_76823.webp",
-        "galerie/m/mikrofon-fifine-am6p-usb-pink_76824.webp",
-        "galerie/m/mikrofon-fifine-am6p-usb-pink_76825.webp",
-        "galerie/m/mikrofon-fifine-am6p-usb-pink_76822.webp",
-        "galerie/m/mikrofon-fifine-am6p-usb-pink_76823.webp",
-        "galerie/m/mikrofon-fifine-am6p-usb-pink_76824.webp",
-        "galerie/m/mikrofon-fifine-am6p-usb-pink_76825.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "20137",
+  "code": "4820216974621",
+  "name": "Mikrofon Fifine AM6P USB Pink",
+  "price": 279.0,
+  "description": "<h2>Mikrofon pojemnościowy FIFINE AM6P AmpliGame z redukcją szumów RGB</h2><p>FIFINE AM6P to zaawansowany mikrofon pojemnościowy dedykowany głównie graczom PC, którzy korzystają z klawiatury i myszy. Dzięki funkcji balansu gry i czatu pozwala na wygodne sterowanie dźwiękiem podczas rozgrywki bez potrzeby skomplikowanego oprogramowania.</p><h2>Wsparcie dla wielu platform i prostota podłączenia</h2><p>Mikrofon działa z systemami Windows, Mac OS oraz konsolami PS4 i PS5 przez USB. Mimo braku miksu czatu na konsolach, funkcja redukcji szumów kompensuje naturalnie wysoką czułość mikrofonu pojemnościowego. Urządzenie nie jest jednak kompatybilne z Xbox bezpośrednio.</p><h2>Łatwe sterowanie i monitorowanie dźwięku</h2><p>Regulacja głośności odbywa się za pomocą wygodnego pokrętła, które pozwala szybko zwiększyć lub zmniejszyć poziom dźwięku, w tym balans między czatem a dźwiękiem gry, bez konieczności przerywania gry. Dzięki wyjściu słuchawkowemu i niskim opóźnieniom użytkownik może monitorować swój głos w czasie rzeczywistym.</p><h2>Kardioidalna charakterystyka i oświetlenie RGB</h2><p>Kapsuła mikrofonu o kardioidalnej charakterystyce kierunkowej skutecznie redukuje szumy tła, a jednocześnie skupia się na czystym dźwięku głosu. Mikrofon wyposażono w podświetlenie RGB z 4 stylami i 6 schematami kolorów, sterowane przyciskiem, które ożywia stanowisko gamingowe bez konieczności korzystania z oprogramowania.</p><h2>Minimalizm kabli i wygoda użytkowania</h2><p>Do działania potrzebne jest tylko jedno połączenie USB z komputerem, a do mikrofonu podłącza się przewodowy zestaw słuchawkowy. Takie rozwiązanie minimalizuje bałagan i ułatwia szybkie ustawienie sprzętu.</p><h2>Technologia i jakość dźwięku</h2><p>Mikrofon wyposażono w małomembranową kapsułę pojemnościową, która kładzie nacisk na czyste częstotliwości oraz skuteczną redukcję szumów tła. Dzięki temu FIFINE AM6P zapewnia dobrą równowagę między jakością dźwięku a minimalnym poziomem zakłóceń.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>różowy</p></li><li><p>Termin gwarancji</p><p>1 rok od daty sprzedaży</p></li><li><p>Typ</p><p>pojemnościowy</p></li><li><p>Pasmo przenoszenia</p><p>70 Hz – 20 kHz</p></li><li><p>Czułość</p><p>-42 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Częstotliwość próbkowania</p><p>48 kHz</p></li><li><p>Szybkość transmisji bitów</p><p>16-bit/24-bit</p></li><li><p>Stosunek sygnału do szumu</p><p>75 dB</p></li><li><p>Złącze</p><p>USB Type-C</p></li><li><p>Waga</p><p>0,6 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fifine.jpg",
+  "images": [
+    "galerie/m/mikrofon-fifine-am6p-usb-pink_76822.webp",
+    "galerie/m/mikrofon-fifine-am6p-usb-pink_76823.webp",
+    "galerie/m/mikrofon-fifine-am6p-usb-pink_76824.webp",
+    "galerie/m/mikrofon-fifine-am6p-usb-pink_76825.webp",
+    "galerie/m/mikrofon-fifine-am6p-usb-pink_76822.webp",
+    "galerie/m/mikrofon-fifine-am6p-usb-pink_76823.webp",
+    "galerie/m/mikrofon-fifine-am6p-usb-pink_76824.webp",
+    "galerie/m/mikrofon-fifine-am6p-usb-pink_76825.webp"
+  ],
+  "manufacturer": "Fifine"
 }

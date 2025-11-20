@@ -1,32 +1,33 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Monitory"
-    ],
-    "id": "19338",
-    "code": "XG27UCS",
-    "name": "Monitor  27\" Asus Monitor ROG Strix XG27UCS IPS UHD HDMI DP USB-C",
-    "price": 1799.0,
-    "description": "<p>ROG Strix XG27UCS Monitor do gier z USB Type-C 27-calowy 4K UHD (3840x2160), 160 Hz (powyżej 144 Hz), 1 ms (GTG), Fast IPS, synchronizacja Extreme Low Motion Blur Sync, USB Type-C, zgodność z G-Sync (pod przetwarzanie), DisplayWidget Center, gniazdo statywu, HDR</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Proporcje obrazu</p><p>16:9</p></li><li><p>Przekątna ekranu</p><p>27\"</p></li><li><p>Typ matrycy</p><p>TFT IPS</p></li><li><p>Powierzchnia matrycy</p><p>Matowa</p></li><li><p>Ekran dotykowy</p><p>Nie</p></li><li><p>Technologia podświetlania</p><p>Diody LED</p></li><li><p>Obszar widzialny w pionie</p><p>335.66 mm</p></li><li><p>Obszar widzialny w poziomie</p><p>596.73 mm</p></li><li><p>Plamka matrycy</p><p>0.155 mm</p></li><li><p>Rozdzielczość</p><p>3840 x 2160</p></li><li><p>Czas reakcji</p><p>1 ms</p></li><li><p>Jasność</p><p>400 cd/m²</p></li><li><p>Jasność HDR</p><p>450 cd/m²</p></li><li><p>Kontrast statyczny</p><p>1 000</p><p>1</p></li><li><p>Częstotliwość odświeżania</p><p>160 Hz</p></li><li><p>Kąt widzenia poziomy</p><p>178 °</p></li><li><p>Kąt widzenia pionowy</p><p>178 °</p></li><li><p>Ilość kolorów</p><p>1,07 mld</p></li><li><p>Gniazda we/wy</p><p>1 x 3,5 mm minijack<br/>1 x HDMI<br/>1 x DisplayPort<br/>1 x USB (Type C)</p></li><li><p>luetooth</p><p>Nie</p></li><li><p>WiFi</p><p>Nie</p></li><li><p>Wbudowane głośniki</p><p>Nie</p></li><li><p>Wbudowany tuner TV</p><p>Nie</p></li><li><p>Kamera internetowa</p><p>Brak</p></li><li><p>Pivot</p><p>Tak</p></li><li><p>Regulacja wysokości</p><p>Tak</p></li><li><p>Standard VESA</p><p>100 x 100</p></li><li><p>Pobór mocy</p><p>26 W</p></li><li><p>Klasa energetyczna</p><p>F</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Wysokość</p><p>367 mm</p></li><li><p>Wysokość z podstawą</p><p>512.8 mm</p></li><li><p>Szerokość</p><p>614.8 mm</p></li><li><p>Głębokość</p><p>60.1 mm</p></li><li><p>Głębokość z podstawą</p><p>218.8 mm</p></li><li><p>Waga</p><p>3.88 kg</p></li><li><p>Waga z podstawą</p><p>6.57 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ASUS</p></li><li><p>Dane producenta</p><p>ASUS Polska Sp. z.o.o, ul. Cybernetyki 9, 02-677 Warszawa, Polska, Tel: +48 22 571 80 00</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/asus.jpg",
-    "images": [
-        "galerie/m/monitor-27-asus-monitor-rog-s_71383.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71384.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71385.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71386.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71387.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71388.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71389.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71390.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71383.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71384.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71385.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71386.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71387.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71388.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71389.webp",
-        "galerie/m/monitor-27-asus-monitor-rog-s_71390.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Monitory"
+  ],
+  "id": "19338",
+  "code": "XG27UCS",
+  "name": "Monitor  27\" Asus Monitor ROG Strix XG27UCS IPS UHD HDMI DP USB-C",
+  "price": 1799.0,
+  "description": "<p>ROG Strix XG27UCS Monitor do gier z USB Type-C 27-calowy 4K UHD (3840x2160), 160 Hz (powyżej 144 Hz), 1 ms (GTG), Fast IPS, synchronizacja Extreme Low Motion Blur Sync, USB Type-C, zgodność z G-Sync (pod przetwarzanie), DisplayWidget Center, gniazdo statywu, HDR</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Proporcje obrazu</p><p>16:9</p></li><li><p>Przekątna ekranu</p><p>27\"</p></li><li><p>Typ matrycy</p><p>TFT IPS</p></li><li><p>Powierzchnia matrycy</p><p>Matowa</p></li><li><p>Ekran dotykowy</p><p>Nie</p></li><li><p>Technologia podświetlania</p><p>Diody LED</p></li><li><p>Obszar widzialny w pionie</p><p>335.66 mm</p></li><li><p>Obszar widzialny w poziomie</p><p>596.73 mm</p></li><li><p>Plamka matrycy</p><p>0.155 mm</p></li><li><p>Rozdzielczość</p><p>3840 x 2160</p></li><li><p>Czas reakcji</p><p>1 ms</p></li><li><p>Jasność</p><p>400 cd/m²</p></li><li><p>Jasność HDR</p><p>450 cd/m²</p></li><li><p>Kontrast statyczny</p><p>1 000</p><p>1</p></li><li><p>Częstotliwość odświeżania</p><p>160 Hz</p></li><li><p>Kąt widzenia poziomy</p><p>178 °</p></li><li><p>Kąt widzenia pionowy</p><p>178 °</p></li><li><p>Ilość kolorów</p><p>1,07 mld</p></li><li><p>Gniazda we/wy</p><p>1 x 3,5 mm minijack<br/>1 x HDMI<br/>1 x DisplayPort<br/>1 x USB (Type C)</p></li><li><p>luetooth</p><p>Nie</p></li><li><p>WiFi</p><p>Nie</p></li><li><p>Wbudowane głośniki</p><p>Nie</p></li><li><p>Wbudowany tuner TV</p><p>Nie</p></li><li><p>Kamera internetowa</p><p>Brak</p></li><li><p>Pivot</p><p>Tak</p></li><li><p>Regulacja wysokości</p><p>Tak</p></li><li><p>Standard VESA</p><p>100 x 100</p></li><li><p>Pobór mocy</p><p>26 W</p></li><li><p>Klasa energetyczna</p><p>F</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Wysokość</p><p>367 mm</p></li><li><p>Wysokość z podstawą</p><p>512.8 mm</p></li><li><p>Szerokość</p><p>614.8 mm</p></li><li><p>Głębokość</p><p>60.1 mm</p></li><li><p>Głębokość z podstawą</p><p>218.8 mm</p></li><li><p>Waga</p><p>3.88 kg</p></li><li><p>Waga z podstawą</p><p>6.57 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ASUS</p></li><li><p>Dane producenta</p><p>ASUS Polska Sp. z.o.o, ul. Cybernetyki 9, 02-677 Warszawa, Polska, Tel: +48 22 571 80 00</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/asus.jpg",
+  "images": [
+    "galerie/m/monitor-27-asus-monitor-rog-s_71383.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71384.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71385.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71386.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71387.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71388.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71389.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71390.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71383.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71384.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71385.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71386.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71387.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71388.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71389.webp",
+    "galerie/m/monitor-27-asus-monitor-rog-s_71390.webp"
+  ],
+  "manufacturer": "ASUS"
 }

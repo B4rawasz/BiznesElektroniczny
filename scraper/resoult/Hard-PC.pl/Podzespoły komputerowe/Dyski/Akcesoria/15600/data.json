@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Dyski",
-        "Akcesoria"
-    ],
-    "id": "15600",
-    "code": "S1225A",
-    "name": "Obudowa na dysk M.2 Unitek S1225A PCIe NVMe/SATA 10Gbps",
-    "price": 114.99,
-    "description": "<h2>Profesjonalista w każdym calu</h2><p>Aluminiowa obudowa Unitek S1225A z interfejsem USB 3.2 Gen2 umożliwia montaż dowolnej pamięci M.2 typu PCIe (NVMe) lub SATA (AHCI).</p><p>Idealnie współgra z dyskami o radiatorach do 12,5 mm wysokości. Do slotu pasują dyski z kluczem „M key” i „M+B key” o różnych długościach: 42 mm, 60 mm lub 80 mm.</p><h2>Z szybkością błyskawicy</h2><p>Obudowa zapewnia transfer danych z prędkością do 10Gbps. Działa z technologią UASP (USB Attached SCSI Protocol) oraz instrukcją TRIM (ATA Data Set Management Command).</p><p>Dzięki UASP urządzenie USB może ustalać kolejność komend i wykonywać kilka poleceń jednocześnie. Zwiększa to transfery odczytu, jak również zapisu o około 30% w porównaniu do tradycyjnych urządzeń USB.</p><p>TRIM informuje dysk SSD, które bloki danych są nieużywane i pozwala na ich ponowne zapełnienie danymi. Zwiększa to wydajność oraz wydłuża żywotność dysku.</p><h2>Solidny pancerz</h2><p>Obudowa nie tylko ochroni dysk przez zewnętrznymi uszkodzeniami, ale także świetnie odprowadza ciepło ze względu na wysoką jakość materiału, dołączone podkładki termiczne, jak również przemyślany design z aluminiowymi żeberkami. Niewielkie rozmiary pozwolą schować ją nawet do małej, damskiej torebki. Pomyślano także o trybie Autosleep celem zwiększenia oszczędności baterii – tryb Autosleep uruchamia się po 30 minutach bezczynności. Slot na dysk jest wysuwany i zawiera zabezpieczenie chroniące przed przypadkowym wysunięciem. Dołączony, płaski kabel jest wytrzymały oraz będzie służył przez lata.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Standard USB 3.2 Gen2 10Gbps z wsteczną kompatybilnością</li><li>Kompatybilność z dyskami PCIe (NVMe) lub SATA (AHCI)</li><li>UASP i TRIM</li><li>Tryb Autosleep</li><li>Design wspomagający odprowadzanie ciepła</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Obsługiwane technologie</p><p>Plug &amp; Play<br/>Sleep Mode</p></li><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>W zestawie</p><p>Adapter na USB-A<br/>Przewód USB-C</p></li><li><p>Współpraca z systemami</p><p>Android<br/>iOS<br/>Linux<br/>MacOS<br/>Windows</p></li><li><p>Zastosowanie</p><p>Transfer danych</p></li><li><p>Złącza wewnętrzne</p><p>PCI-E<br/>SATA</p></li><li><p>Złącze 1</p><p>Port USB-C</p></li><li><p>Interfejs dysku</p><p>M.2 SATA<br/>NVMe<br/>PCI-E</p></li><li><p>Ilość portów USB-C</p><p>1 szt</p></li><li><p>Ilość obsługiwanych dysków</p><p>1 szt</p></li><li><p>Format dysku</p><p>M.2</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55530.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55531.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55532.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55533.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55534.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55535.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55530.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55531.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55532.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55533.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55534.webp",
-        "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55535.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Akcesoria"
+  ],
+  "id": "15600",
+  "code": "S1225A",
+  "name": "Obudowa na dysk M.2 Unitek S1225A PCIe NVMe/SATA 10Gbps",
+  "price": 114.99,
+  "description": "<h2>Profesjonalista w każdym calu</h2><p>Aluminiowa obudowa Unitek S1225A z interfejsem USB 3.2 Gen2 umożliwia montaż dowolnej pamięci M.2 typu PCIe (NVMe) lub SATA (AHCI).</p><p>Idealnie współgra z dyskami o radiatorach do 12,5 mm wysokości. Do slotu pasują dyski z kluczem „M key” i „M+B key” o różnych długościach: 42 mm, 60 mm lub 80 mm.</p><h2>Z szybkością błyskawicy</h2><p>Obudowa zapewnia transfer danych z prędkością do 10Gbps. Działa z technologią UASP (USB Attached SCSI Protocol) oraz instrukcją TRIM (ATA Data Set Management Command).</p><p>Dzięki UASP urządzenie USB może ustalać kolejność komend i wykonywać kilka poleceń jednocześnie. Zwiększa to transfery odczytu, jak również zapisu o około 30% w porównaniu do tradycyjnych urządzeń USB.</p><p>TRIM informuje dysk SSD, które bloki danych są nieużywane i pozwala na ich ponowne zapełnienie danymi. Zwiększa to wydajność oraz wydłuża żywotność dysku.</p><h2>Solidny pancerz</h2><p>Obudowa nie tylko ochroni dysk przez zewnętrznymi uszkodzeniami, ale także świetnie odprowadza ciepło ze względu na wysoką jakość materiału, dołączone podkładki termiczne, jak również przemyślany design z aluminiowymi żeberkami. Niewielkie rozmiary pozwolą schować ją nawet do małej, damskiej torebki. Pomyślano także o trybie Autosleep celem zwiększenia oszczędności baterii – tryb Autosleep uruchamia się po 30 minutach bezczynności. Slot na dysk jest wysuwany i zawiera zabezpieczenie chroniące przed przypadkowym wysunięciem. Dołączony, płaski kabel jest wytrzymały oraz będzie służył przez lata.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Standard USB 3.2 Gen2 10Gbps z wsteczną kompatybilnością</li><li>Kompatybilność z dyskami PCIe (NVMe) lub SATA (AHCI)</li><li>UASP i TRIM</li><li>Tryb Autosleep</li><li>Design wspomagający odprowadzanie ciepła</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Obsługiwane technologie</p><p>Plug &amp; Play<br/>Sleep Mode</p></li><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>W zestawie</p><p>Adapter na USB-A<br/>Przewód USB-C</p></li><li><p>Współpraca z systemami</p><p>Android<br/>iOS<br/>Linux<br/>MacOS<br/>Windows</p></li><li><p>Zastosowanie</p><p>Transfer danych</p></li><li><p>Złącza wewnętrzne</p><p>PCI-E<br/>SATA</p></li><li><p>Złącze 1</p><p>Port USB-C</p></li><li><p>Interfejs dysku</p><p>M.2 SATA<br/>NVMe<br/>PCI-E</p></li><li><p>Ilość portów USB-C</p><p>1 szt</p></li><li><p>Ilość obsługiwanych dysków</p><p>1 szt</p></li><li><p>Format dysku</p><p>M.2</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55530.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55531.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55532.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55533.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55534.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55535.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55530.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55531.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55532.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55533.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55534.webp",
+    "galerie/o/obudowa-na-dysk-m-2-unitek-s1_55535.webp"
+  ],
+  "manufacturer": "Unitek"
 }

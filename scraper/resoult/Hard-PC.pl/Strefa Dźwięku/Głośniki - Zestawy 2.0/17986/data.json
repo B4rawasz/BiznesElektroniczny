@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.0"
-    ],
-    "id": "17986",
-    "code": "e25HD red",
-    "name": "Głośniki Edifier e25HD 2.0 Czerwone",
-    "price": 799.0,
-    "description": "<h2>Głośniki Edifier e25HD (czerwone)</h2><p>Zanurz się w świecie ulubionych dźwięków z Edifier e25HD. Głośniki zachwycają bogactwem szczegółów i wysoką jakością brzmienia, którą potwierdza certyfikat Fi-Res. Ponadto łączą się z kompatybilnym urządzeniem na 3 różne sposoby (Bluetooth, AUX, OPT), a ich obsługę ułatwiają panel dotykowy i pilot zdalnego sterowania (w zestawie). Z kolei aplikacja Edifier ConneX oferuje dodatkowe funkcje e25HD. Dodatkowo zestaw wyróżnia się minimalistycznym i eleganckim designem, który idealnie uzupełni niemal każde wnętrze.</p><h2>Dopracowany design – doskonałe brzmienie</h2><p>Edifier e25HD wykorzystują 1-calowy przetwornik wysokotonowy z jedwabną kopułą, 3-calowy przetwornik średniotonowy oraz 2 pasywne radiatory basowe. Co więcej, dopracowana konstrukcja skutecznie zmniejsza rezonans akustyczny i zniekształcenia. Dzięki temu zestaw zapewnia krystalicznie czyste, przyjemne dla uszu tony wysokie i średnie oraz mocny, głęboki bas.</p><h2>Imponująca jakość dźwięku Hi-Res</h2><p>Głośniki wspierają rozdzielczość audio do 24 bit/96 kHz i wykorzystują podwójny, cyfrowy wzmacniacz dźwięku TI klasy D. To sprawia, że brzmienie jest pełne detali, a kontrola dynamiki sygnału (DRC) podkreśla zbyt ciche dźwięki i zmniejsza natężenie tych za głośnych. W rezultacie odsłuchiwany dźwięk jest wyrównany. Co więcej, wsparcie kodeków audio LDAC i S/PDIF dodatkowo wpływa na wysokiej klasy brzmienie potwierdzone certyfikatem Hi-Res.</p><h2>3 sposoby połączenia i prosta obsługa</h2><p>Wybierz odpowiedni sposób połączenia dla siebie. Głośniki wykorzystują porty: AUX oraz optyczny, a dzięki dołączonym do zestawu kablom z powodzeniem podłączysz je do kompatybilnego sprzętu. Jeśli jednak preferujesz bezprzewodowe rozwiązania, sparuj Edifier e25HD z wybranym urządzeniem poprzez Bluetooth 5.3. Z kolei obsługę ułatwiają dostępny na prawym głośniku panel dotykowy oraz pilot zdalnego sterowania (w zestawie).</p><h2>Aplikacja Edifier ConneX</h2><p>Wykorzystaj pełen potencjał e25HD. Dostępna w sklepach App Store i Google Play aplikacja Edifier ConneX otwiera przed Tobą nowe możliwości. Z jej poziomu możesz regulować głośność i korzystać z dostępnych efektów dźwiękowych. Dostępna jest także do wglądu instrukcja obsługi urządzenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czerwony</p></li><li><p>Szczytowa moc wyjściowa</p><p>74 W</p></li><li><p>Maksymalna moc wyjściowa RMS</p><p>głośniki wysokotonowe: 15 W x2<br/>głośniki średniotonowe: 22 W x2</p></li><li><p>Średnica przetwornika</p><p>wysokotonowe: 19 mm<br/>średniotonowe: 82 mm<br/>niskotonowe: 82 mm</p></li><li><p>Pasmo przenoszenia</p><p>50 Hz - 40 kHz</p></li><li><p>Współczynnik hałasu do szumu</p><p>85 dB(A)</p></li><li><p>Wejścia audio</p><p>Bluetooth<br/>optyczne<br/>AUX</p></li><li><p>Wersja Bluetooth</p><p>5.3</p></li><li><p>Aplikacja</p><p>Edifier ConneX</p></li><li><p>Wymiary</p><p>113 × 213 × 222.5 mm</p></li><li><p>Waga</p><p>3.24 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosniki-edifier-e25hd-2-0-cz_66976.webp",
-        "galerie/g/glosniki-edifier-e25hd-2-0-cz_66977.webp",
-        "galerie/g/glosniki-edifier-e25hd-2-0-cz_66978.webp",
-        "galerie/g/glosniki-edifier-e25hd-2-0-cz_66979.webp",
-        "galerie/g/glosniki-edifier-e25hd-2-0-cz_66976.webp",
-        "galerie/g/glosniki-edifier-e25hd-2-0-cz_66977.webp",
-        "galerie/g/glosniki-edifier-e25hd-2-0-cz_66978.webp",
-        "galerie/g/glosniki-edifier-e25hd-2-0-cz_66979.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.0"
+  ],
+  "id": "17986",
+  "code": "e25HD red",
+  "name": "Głośniki Edifier e25HD 2.0 Czerwone",
+  "price": 799.0,
+  "description": "<h2>Głośniki Edifier e25HD (czerwone)</h2><p>Zanurz się w świecie ulubionych dźwięków z Edifier e25HD. Głośniki zachwycają bogactwem szczegółów i wysoką jakością brzmienia, którą potwierdza certyfikat Fi-Res. Ponadto łączą się z kompatybilnym urządzeniem na 3 różne sposoby (Bluetooth, AUX, OPT), a ich obsługę ułatwiają panel dotykowy i pilot zdalnego sterowania (w zestawie). Z kolei aplikacja Edifier ConneX oferuje dodatkowe funkcje e25HD. Dodatkowo zestaw wyróżnia się minimalistycznym i eleganckim designem, który idealnie uzupełni niemal każde wnętrze.</p><h2>Dopracowany design – doskonałe brzmienie</h2><p>Edifier e25HD wykorzystują 1-calowy przetwornik wysokotonowy z jedwabną kopułą, 3-calowy przetwornik średniotonowy oraz 2 pasywne radiatory basowe. Co więcej, dopracowana konstrukcja skutecznie zmniejsza rezonans akustyczny i zniekształcenia. Dzięki temu zestaw zapewnia krystalicznie czyste, przyjemne dla uszu tony wysokie i średnie oraz mocny, głęboki bas.</p><h2>Imponująca jakość dźwięku Hi-Res</h2><p>Głośniki wspierają rozdzielczość audio do 24 bit/96 kHz i wykorzystują podwójny, cyfrowy wzmacniacz dźwięku TI klasy D. To sprawia, że brzmienie jest pełne detali, a kontrola dynamiki sygnału (DRC) podkreśla zbyt ciche dźwięki i zmniejsza natężenie tych za głośnych. W rezultacie odsłuchiwany dźwięk jest wyrównany. Co więcej, wsparcie kodeków audio LDAC i S/PDIF dodatkowo wpływa na wysokiej klasy brzmienie potwierdzone certyfikatem Hi-Res.</p><h2>3 sposoby połączenia i prosta obsługa</h2><p>Wybierz odpowiedni sposób połączenia dla siebie. Głośniki wykorzystują porty: AUX oraz optyczny, a dzięki dołączonym do zestawu kablom z powodzeniem podłączysz je do kompatybilnego sprzętu. Jeśli jednak preferujesz bezprzewodowe rozwiązania, sparuj Edifier e25HD z wybranym urządzeniem poprzez Bluetooth 5.3. Z kolei obsługę ułatwiają dostępny na prawym głośniku panel dotykowy oraz pilot zdalnego sterowania (w zestawie).</p><h2>Aplikacja Edifier ConneX</h2><p>Wykorzystaj pełen potencjał e25HD. Dostępna w sklepach App Store i Google Play aplikacja Edifier ConneX otwiera przed Tobą nowe możliwości. Z jej poziomu możesz regulować głośność i korzystać z dostępnych efektów dźwiękowych. Dostępna jest także do wglądu instrukcja obsługi urządzenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czerwony</p></li><li><p>Szczytowa moc wyjściowa</p><p>74 W</p></li><li><p>Maksymalna moc wyjściowa RMS</p><p>głośniki wysokotonowe: 15 W x2<br/>głośniki średniotonowe: 22 W x2</p></li><li><p>Średnica przetwornika</p><p>wysokotonowe: 19 mm<br/>średniotonowe: 82 mm<br/>niskotonowe: 82 mm</p></li><li><p>Pasmo przenoszenia</p><p>50 Hz - 40 kHz</p></li><li><p>Współczynnik hałasu do szumu</p><p>85 dB(A)</p></li><li><p>Wejścia audio</p><p>Bluetooth<br/>optyczne<br/>AUX</p></li><li><p>Wersja Bluetooth</p><p>5.3</p></li><li><p>Aplikacja</p><p>Edifier ConneX</p></li><li><p>Wymiary</p><p>113 × 213 × 222.5 mm</p></li><li><p>Waga</p><p>3.24 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosniki-edifier-e25hd-2-0-cz_66976.webp",
+    "galerie/g/glosniki-edifier-e25hd-2-0-cz_66977.webp",
+    "galerie/g/glosniki-edifier-e25hd-2-0-cz_66978.webp",
+    "galerie/g/glosniki-edifier-e25hd-2-0-cz_66979.webp",
+    "galerie/g/glosniki-edifier-e25hd-2-0-cz_66976.webp",
+    "galerie/g/glosniki-edifier-e25hd-2-0-cz_66977.webp",
+    "galerie/g/glosniki-edifier-e25hd-2-0-cz_66978.webp",
+    "galerie/g/glosniki-edifier-e25hd-2-0-cz_66979.webp"
+  ],
+  "manufacturer": "Edifier"
 }

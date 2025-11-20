@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Obudowy",
-        "Obudowy z oknem"
-    ],
-    "id": "20029",
-    "code": "0000009389",
-    "name": "Obudowa Montech X3 Glass ARGB Black",
-    "price": 249.0,
-    "description": "<h2>Obudowa do komputera Montech X3 Glass Black</h2><p>Odkryj obudowę Montech X3 Glass Black — idealne połączenie stylu i wydajności dla Twojego PC. Ta obudowa ATX ze szklanym panelem bocznym zachwyca wyglądem i prezentuje Twoje komponenty. Wyróżnia się aż 6 fabrycznie zainstalowanymi wentylatorami RGB (3x 140mm, 3x 120mm), które zapewniają rewelacyjny przepływ powietrza i spektakularne podświetlenie od razu po wyjęciu z pudełka. Zbuduj swój gamingowy komputer marzeń w tej stylowej i funkcjonalnej obudowie.</p><h2>Niezrównany Stosunek Ceny do Możliwości</h2><p>Montech X3 to nie tylko kolejna obudowa gamingowa, to znaczące ulepszenie pod każdym względem w porównaniu do poprzednich modeli z serii X. X3 oferuje najlepszy stosunek ceny do możliwości (Price per Performance), jaki Montech ma do zaoferowania!</p><h2>Wysoki Przepływ Powietrza</h2><p>Trzy fabrycznie zainstalowane wentylatory 140mm na froncie Montech X3 zapewniają ogromny wlot powietrza. W połączeniu z wentylacją na górze i z tyłu, wentylatory optymalizują system chłodzenia w obudowie.</p><h2>Spektakularne Oświetlenie RGB</h2><p>Wszystkie sześć fabrycznie zainstalowanych wentylatorów posiada stałe podświetlenie RGB. Podświetlenie wentylatorów można włączyć lub wyłączyć, po prostu naciskając przycisk LED. <strong>Uwaga:</strong> Oświetlenie jest stałe (nie adresowalne), ale można je wyłączyć.</p><h2>Panoramiczny Widok na Podzespoły</h2><p>Montech X3 wyposażony jest w pełny, panoramiczny panel boczny z hartowanego szkła, dzięki czemu możesz z łatwością wyeksponować swój \"bojowy\" system i oświetlenie RGB.</p><h2>Większa Wygoda i Bezpieczeństwo</h2><p>Unikalna konstrukcja panelu bocznego z hartowanego szkła, mocowanego na zawiasach (Side Swivel), jest nie tylko łatwiejsza w obsłudze dla użytkownika. Brak nawierconych otworów montażowych znacząco poprawia integralność strukturalną i bezpieczeństwo panelu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Sześć fabrycznie zainstalowanych wentylatorów RGB ze stałym podświetleniem</li><li>Uchylny boczny panel ze szkła hartowanego</li><li>Wszechstronne opcje chłodzenia</li><li>Wszechstronne wsparcie komponentów</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Midi Tower</p></li><li><p>Standard zasilacza</p><p>ATX</p></li><li><p>Miejsce na zasilacz</p><p>Tył obudowy</p></li><li><p>Format płyty głównej</p><p>ATX, MicroATX, Mini-ITX</p></li><li><p>Wysokość</p><p>480 mm</p></li><li><p>Długość</p><p>370 mm</p></li><li><p>Szerokość</p><p>210 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Kolor przedniego panelu</p><p>Czarny</p></li><li><p>Złącza przedniego panelu</p><p>Przycisk zasilania, Mikrofon, Audio, 2x USB 2.0, Przycisk resetowania, Przycisk LED, 1x USB 3.0</p></li><li><p>Boczny panel z oknem</p><p>Tak (hartowane szkło z lewej strony oraz na przodzie)</p></li><li><p>Ilość wewnętrznych zatok 3.5</p><p>2 szt</p></li><li><p>Ilość wewnętrznych zatok 2.5</p><p>4 szt</p></li><li><p>Sloty kart rozszerzeń</p><p>7 szt</p></li><li><p>Wentylatory zainstalowane</p><p>6 szt</p></li><li><p>Wentylatory maksymalna ilość</p><p>6 szt</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak</p></li><li><p>Limit wysokości chłodzenia CPU</p><p>160 mm</p></li><li><p>Limit długości karty graficznej</p><p>305 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/montech.jpg",
-    "images": [
-        "galerie/o/obudowa-montech-x3-glass-blac_74939.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74940.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74941.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74942.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74943.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74944.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74945.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74946.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74939.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74940.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74941.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74942.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74943.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74944.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74945.webp",
-        "galerie/o/obudowa-montech-x3-glass-blac_74946.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "20029",
+  "code": "0000009389",
+  "name": "Obudowa Montech X3 Glass ARGB Black",
+  "price": 249.0,
+  "description": "<h2>Obudowa do komputera Montech X3 Glass Black</h2><p>Odkryj obudowę Montech X3 Glass Black — idealne połączenie stylu i wydajności dla Twojego PC. Ta obudowa ATX ze szklanym panelem bocznym zachwyca wyglądem i prezentuje Twoje komponenty. Wyróżnia się aż 6 fabrycznie zainstalowanymi wentylatorami RGB (3x 140mm, 3x 120mm), które zapewniają rewelacyjny przepływ powietrza i spektakularne podświetlenie od razu po wyjęciu z pudełka. Zbuduj swój gamingowy komputer marzeń w tej stylowej i funkcjonalnej obudowie.</p><h2>Niezrównany Stosunek Ceny do Możliwości</h2><p>Montech X3 to nie tylko kolejna obudowa gamingowa, to znaczące ulepszenie pod każdym względem w porównaniu do poprzednich modeli z serii X. X3 oferuje najlepszy stosunek ceny do możliwości (Price per Performance), jaki Montech ma do zaoferowania!</p><h2>Wysoki Przepływ Powietrza</h2><p>Trzy fabrycznie zainstalowane wentylatory 140mm na froncie Montech X3 zapewniają ogromny wlot powietrza. W połączeniu z wentylacją na górze i z tyłu, wentylatory optymalizują system chłodzenia w obudowie.</p><h2>Spektakularne Oświetlenie RGB</h2><p>Wszystkie sześć fabrycznie zainstalowanych wentylatorów posiada stałe podświetlenie RGB. Podświetlenie wentylatorów można włączyć lub wyłączyć, po prostu naciskając przycisk LED. <strong>Uwaga:</strong> Oświetlenie jest stałe (nie adresowalne), ale można je wyłączyć.</p><h2>Panoramiczny Widok na Podzespoły</h2><p>Montech X3 wyposażony jest w pełny, panoramiczny panel boczny z hartowanego szkła, dzięki czemu możesz z łatwością wyeksponować swój \"bojowy\" system i oświetlenie RGB.</p><h2>Większa Wygoda i Bezpieczeństwo</h2><p>Unikalna konstrukcja panelu bocznego z hartowanego szkła, mocowanego na zawiasach (Side Swivel), jest nie tylko łatwiejsza w obsłudze dla użytkownika. Brak nawierconych otworów montażowych znacząco poprawia integralność strukturalną i bezpieczeństwo panelu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Sześć fabrycznie zainstalowanych wentylatorów RGB ze stałym podświetleniem</li><li>Uchylny boczny panel ze szkła hartowanego</li><li>Wszechstronne opcje chłodzenia</li><li>Wszechstronne wsparcie komponentów</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Midi Tower</p></li><li><p>Standard zasilacza</p><p>ATX</p></li><li><p>Miejsce na zasilacz</p><p>Tył obudowy</p></li><li><p>Format płyty głównej</p><p>ATX, MicroATX, Mini-ITX</p></li><li><p>Wysokość</p><p>480 mm</p></li><li><p>Długość</p><p>370 mm</p></li><li><p>Szerokość</p><p>210 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Kolor przedniego panelu</p><p>Czarny</p></li><li><p>Złącza przedniego panelu</p><p>Przycisk zasilania, Mikrofon, Audio, 2x USB 2.0, Przycisk resetowania, Przycisk LED, 1x USB 3.0</p></li><li><p>Boczny panel z oknem</p><p>Tak (hartowane szkło z lewej strony oraz na przodzie)</p></li><li><p>Ilość wewnętrznych zatok 3.5</p><p>2 szt</p></li><li><p>Ilość wewnętrznych zatok 2.5</p><p>4 szt</p></li><li><p>Sloty kart rozszerzeń</p><p>7 szt</p></li><li><p>Wentylatory zainstalowane</p><p>6 szt</p></li><li><p>Wentylatory maksymalna ilość</p><p>6 szt</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak</p></li><li><p>Limit wysokości chłodzenia CPU</p><p>160 mm</p></li><li><p>Limit długości karty graficznej</p><p>305 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Montech</p></li><li><p>Dane producenta</p><p>TELON TECHNOLOGY CO., LTD, 1F., NO. 106, DONGMING ST., NANGANG DIST., TAIPEI CITY 115003, TAIWAN (R.O.C.), https://www.montechpc.com/faq-after-sales-service</p></li><li><p>Podmiot odpowiedzialny</p><p>PROLINE SA, ul. Brzozowa 5, 55-095 Mirków, Polska, pomoc@proline.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/montech.jpg",
+  "images": [
+    "galerie/o/obudowa-montech-x3-glass-blac_74939.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74940.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74941.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74942.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74943.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74944.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74945.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74946.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74939.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74940.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74941.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74942.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74943.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74944.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74945.webp",
+    "galerie/o/obudowa-montech-x3-glass-blac_74946.webp"
+  ],
+  "manufacturer": "Montech"
 }

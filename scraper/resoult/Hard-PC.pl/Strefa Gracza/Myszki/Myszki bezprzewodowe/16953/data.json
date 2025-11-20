@@ -1,25 +1,26 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Myszki bezprzewodowe"
-    ],
-    "id": "16953",
-    "code": "A4TMYS41198",
-    "name": "Mysz Bezprzewodowa A4Tech G3-280N RF Glossy Grey",
-    "price": 43.9,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Bezprzewodowa mysz, którą wyróżnia innowacyjna technologia V-Track - dzięki wzmocnionej wiązce świetlnej, wnikającą głęboko w strukturę podłoża, mysz działa płynnie i dokładnie na każdej powierzchni 3D, takiej jak puchowa narzuta, szklany stół, marmurowa posadzka itp. Mysz pracuje na innowacyjnej, opatentowanej przez A4Tech technologii synchronizacji, dzięki której mysz pracuje tak płynnie jak gdyby była podłączona przewodowo.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li><p>Ilość akumulatorów / baterii</p><p>1</p></li><li><p>Liczba przycisków myszy</p><p>3</p></li><li><p>Rodzaj akumulatorów</p><p>AA</p></li><li><p>Rozdzielczość CPI / DPI</p><p>1200</p></li><li><p>Technologia</p><p>2,4GHz</p></li><li><p>Typ odbiornika</p><p>nano USB</p></li><li><p>Maksymalny zasięg (m)</p><p>15</p></li><li><p>Maksymalna rozdzielczość (dpi)</p><p>1200</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>A4Tech</p></li><li><p>Dane producenta</p><p>A-Four Tech Co., Ltd., 6F, No. 108, Min-Chuan Rd., Hsin-Tien City, New Taipei City, Tajwan, market@a4tech.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/a4tech.jpg",
-    "images": [
-        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59875.webp",
-        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59876.webp",
-        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59877.webp",
-        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59878.webp",
-        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59875.webp",
-        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59876.webp",
-        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59877.webp",
-        "galerie/m/mysz-bezprzewodowa-a4tech-g3_59878.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "16953",
+  "code": "A4TMYS41198",
+  "name": "Mysz Bezprzewodowa A4Tech G3-280N RF Glossy Grey",
+  "price": 43.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Bezprzewodowa mysz, którą wyróżnia innowacyjna technologia V-Track - dzięki wzmocnionej wiązce świetlnej, wnikającą głęboko w strukturę podłoża, mysz działa płynnie i dokładnie na każdej powierzchni 3D, takiej jak puchowa narzuta, szklany stół, marmurowa posadzka itp. Mysz pracuje na innowacyjnej, opatentowanej przez A4Tech technologii synchronizacji, dzięki której mysz pracuje tak płynnie jak gdyby była podłączona przewodowo.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li><p>Ilość akumulatorów / baterii</p><p>1</p></li><li><p>Liczba przycisków myszy</p><p>3</p></li><li><p>Rodzaj akumulatorów</p><p>AA</p></li><li><p>Rozdzielczość CPI / DPI</p><p>1200</p></li><li><p>Technologia</p><p>2,4GHz</p></li><li><p>Typ odbiornika</p><p>nano USB</p></li><li><p>Maksymalny zasięg (m)</p><p>15</p></li><li><p>Maksymalna rozdzielczość (dpi)</p><p>1200</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>A4Tech</p></li><li><p>Dane producenta</p><p>A-Four Tech Co., Ltd., 6F, No. 108, Min-Chuan Rd., Hsin-Tien City, New Taipei City, Tajwan, market@a4tech.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/a4tech.jpg",
+  "images": [
+    "galerie/m/mysz-bezprzewodowa-a4tech-g3_59875.webp",
+    "galerie/m/mysz-bezprzewodowa-a4tech-g3_59876.webp",
+    "galerie/m/mysz-bezprzewodowa-a4tech-g3_59877.webp",
+    "galerie/m/mysz-bezprzewodowa-a4tech-g3_59878.webp",
+    "galerie/m/mysz-bezprzewodowa-a4tech-g3_59875.webp",
+    "galerie/m/mysz-bezprzewodowa-a4tech-g3_59876.webp",
+    "galerie/m/mysz-bezprzewodowa-a4tech-g3_59877.webp",
+    "galerie/m/mysz-bezprzewodowa-a4tech-g3_59878.webp"
+  ],
+  "manufacturer": "A4Tech"
 }

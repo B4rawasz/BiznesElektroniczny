@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Alkohol Izopropylowy (Kontakt IPA)"
-    ],
-    "id": "9557",
-    "code": "ART.AGT-002",
-    "name": "Alkohol Izopropylowy AG Chemia Kontakt IPA Plus 100ml",
-    "price": 5.9,
-    "description": "<p>Preparat zawierający alkohol izopropylowy „IPA” wysokiej czystości, usuwa zżywiczałe oleje i smary oraz inne zakłócające zanieczyszczenia, służy do czyszczenia i pielęgnacji czytników CD-ROM, DVD, urządzeń optycznych, mechanizmów i głowic AV, jest neutralny chemicznie wobec materiałów powszechnie stosowanych w elektronice i elektrotechnice, nie pozostawia śladów.</p><p>Doskonale nadaje się również do usuwanie resztek pasty termoprzewodzącej, taśmy termoprzewodzącej itp.</p><p>Zalecane jest również użycie go (odtłuszczenie) przed założeniem nowej pasty, dwustronnej taśmy termoprzewodzącej itp.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Zastosowanie:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>czytniki CD-ROM, czytniki DVD,</li><li>czytniki Audio- CD,</li><li>czyszczenie narzędzi,</li><li>czyszczenie płytek pcb,</li><li>czyszczenie przepływomierzy,</li><li>urządzenia Photo CD,</li><li>czyszczenie sit,</li><li>mechanizmy i głowice AV,</li><li>myjki ultradźwiękowe,</li><li>złącza światłowodów</li></ul><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Pojemność: 100ml</li><li>Zawartość głównego składnika: 99,9%</li><li>Gęstość względna 20ºC: 0,785g/ml</li><li>Kwasowość jako kwas octowy: 0%</li><li>Nielotna pozostałość: &lt; 0g/100ml</li><li>Barwa, Pt-Co:  &lt; 5</li><li>Destylacja IBP: 82,2 ºC</li><li>Destylacja DP: 82,4ºC</li><li>Współczynnik załamania światła w 20ºC: 0,07</li><li>Absorpcja UV w 230 nm: 0,01</li><li>Absorpcja UV w 250 nm: 0,01</li><li>Absorpcja UV w 270 nm:  &lt; 0,01</li><li>Absorpcja UV w 290 nm:  &lt; 0,01</li><li>Absorpcja UV w 310 nm: &lt; 0,01</li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>AG Termopasty</p></li><li><p>Dane producenta</p><p>AG TermoPasty Grzegorz Gąsowski, Kolejowa 33E, 18-218, Sokoły, info@termopasty.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/ag-chemia.jpg",
-    "images": [
-        "galerie/a/alkohol-izopropylowy-ag-chemi_35696.webp",
-        "galerie/a/alkohol-izopropylowy-ag-chemi_35696.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Alkohol Izopropylowy (Kontakt IPA)"
+  ],
+  "id": "9557",
+  "code": "ART.AGT-002",
+  "name": "Alkohol Izopropylowy AG Chemia Kontakt IPA Plus 100ml",
+  "price": 5.9,
+  "description": "<p>Preparat zawierający alkohol izopropylowy „IPA” wysokiej czystości, usuwa zżywiczałe oleje i smary oraz inne zakłócające zanieczyszczenia, służy do czyszczenia i pielęgnacji czytników CD-ROM, DVD, urządzeń optycznych, mechanizmów i głowic AV, jest neutralny chemicznie wobec materiałów powszechnie stosowanych w elektronice i elektrotechnice, nie pozostawia śladów.</p><p>Doskonale nadaje się również do usuwanie resztek pasty termoprzewodzącej, taśmy termoprzewodzącej itp.</p><p>Zalecane jest również użycie go (odtłuszczenie) przed założeniem nowej pasty, dwustronnej taśmy termoprzewodzącej itp.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Zastosowanie:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>czytniki CD-ROM, czytniki DVD,</li><li>czytniki Audio- CD,</li><li>czyszczenie narzędzi,</li><li>czyszczenie płytek pcb,</li><li>czyszczenie przepływomierzy,</li><li>urządzenia Photo CD,</li><li>czyszczenie sit,</li><li>mechanizmy i głowice AV,</li><li>myjki ultradźwiękowe,</li><li>złącza światłowodów</li></ul><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Pojemność: 100ml</li><li>Zawartość głównego składnika: 99,9%</li><li>Gęstość względna 20ºC: 0,785g/ml</li><li>Kwasowość jako kwas octowy: 0%</li><li>Nielotna pozostałość: &lt; 0g/100ml</li><li>Barwa, Pt-Co:  &lt; 5</li><li>Destylacja IBP: 82,2 ºC</li><li>Destylacja DP: 82,4ºC</li><li>Współczynnik załamania światła w 20ºC: 0,07</li><li>Absorpcja UV w 230 nm: 0,01</li><li>Absorpcja UV w 250 nm: 0,01</li><li>Absorpcja UV w 270 nm:  &lt; 0,01</li><li>Absorpcja UV w 290 nm:  &lt; 0,01</li><li>Absorpcja UV w 310 nm: &lt; 0,01</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>AG Termopasty</p></li><li><p>Dane producenta</p><p>AG TermoPasty Grzegorz Gąsowski, Kolejowa 33E, 18-218, Sokoły, info@termopasty.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ag-chemia.jpg",
+  "images": [
+    "galerie/a/alkohol-izopropylowy-ag-chemi_35696.webp",
+    "galerie/a/alkohol-izopropylowy-ag-chemi_35696.webp"
+  ],
+  "manufacturer": "AG Termopasty"
 }

@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Procesory",
-        "Procesory AMD"
-    ],
-    "id": "19645",
-    "code": "100-100000061WOF",
-    "name": "Procesor AMD Ryzen 9 5900X",
-    "price": 1204.9,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Gniazdo procesora (socket)</p><p>Socket AM4</p></li><li><p>Architektura</p><p>Zen 3</p></li><li><p>Taktowanie rdzenia</p><p>3.7 GHz (4.8 GHz w trybie turbo)</p></li><li><p>Liczba rdzeni fizycznych</p><p>12 rdzeni</p></li><li><p>Liczba wątków</p><p>24 wątki</p></li><li><p>Odblokowany mnożnik</p><p>Tak</p></li><li><p>Pamięć podręczna</p><p>70 MB</p></li><li><p>Zintegrowany układ graficzny</p><p>Nie</p></li><li><p>Model układu graficznego</p><p>Brak</p></li><li><p>Rodzaj obsługiwanej pamięci</p><p>DDR4-3200 (PC4-25600)</p></li><li><p>Proces litograficzny</p><p>7 nm</p></li><li><p>Pobór mocy (TDP)</p><p>105 W</p></li><li><p>Dodatkowe informacje</p><p>Wersja BOX</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Advanced Micro Devices, Inc., 2485 Augustine Drive, 95054, Santa Clara, CA , USA, youtube@amd.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Advanced Micro Devices GmbH, Einsteinring 22-28, 85609 Aschheim, Munich, Niemcy, +49 89-450-53100</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/amd.jpg",
-    "images": [
-        "galerie/p/procesor-amd-ryzen-9-5900x_74701.webp",
-        "galerie/p/procesor-amd-ryzen-9-5900x_74701.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory AMD"
+  ],
+  "id": "19645",
+  "code": "100-100000061WOF",
+  "name": "Procesor AMD Ryzen 9 5900X",
+  "price": 1204.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Gniazdo procesora (socket)</p><p>Socket AM4</p></li><li><p>Architektura</p><p>Zen 3</p></li><li><p>Taktowanie rdzenia</p><p>3.7 GHz (4.8 GHz w trybie turbo)</p></li><li><p>Liczba rdzeni fizycznych</p><p>12 rdzeni</p></li><li><p>Liczba wątków</p><p>24 wątki</p></li><li><p>Odblokowany mnożnik</p><p>Tak</p></li><li><p>Pamięć podręczna</p><p>70 MB</p></li><li><p>Zintegrowany układ graficzny</p><p>Nie</p></li><li><p>Model układu graficznego</p><p>Brak</p></li><li><p>Rodzaj obsługiwanej pamięci</p><p>DDR4-3200 (PC4-25600)</p></li><li><p>Proces litograficzny</p><p>7 nm</p></li><li><p>Pobór mocy (TDP)</p><p>105 W</p></li><li><p>Dodatkowe informacje</p><p>Wersja BOX</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Advanced Micro Devices, Inc., 2485 Augustine Drive, 95054, Santa Clara, CA , USA, youtube@amd.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Advanced Micro Devices GmbH, Einsteinring 22-28, 85609 Aschheim, Munich, Niemcy, +49 89-450-53100</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/amd.jpg",
+  "images": [
+    "galerie/p/procesor-amd-ryzen-9-5900x_74701.webp",
+    "galerie/p/procesor-amd-ryzen-9-5900x_74701.webp"
+  ],
+  "manufacturer": "Lamzu"
 }

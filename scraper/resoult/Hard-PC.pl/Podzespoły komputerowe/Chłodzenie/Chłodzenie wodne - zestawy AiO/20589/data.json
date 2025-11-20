@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenie wodne - zestawy AiO"
-    ],
-    "id": "20589",
-    "code": "WASE-941",
-    "name": "Chłodzenie wodne AiO Lian Li HYDROSHIFT II LCD-C 360CL ARGB White",
-    "price": 771.9,
-    "description": "<h2>Lian Li HYDROSHIFT II LCD-C 360CL White – AiO z LCD i wentylatorami UNI FAN CL Wireless</h2><p>Lian Li HYDROSHIFT II LCD-C 360CL w wersji <b>białej</b> to chłodzenie AiO stworzone dla osób, które chcą połączyć wydajność z estetyką RGB. Centralnym punktem zestawu jest <b>2,1-calowy ekran LCD IPS</b>, który pozwala wyświetlać dane systemowe, animacje, a nawet krótkie filmy MP4 i GIF-y. Całość uzupełniają trzy <b>wentylatory UNI FAN CL Wireless</b>, zapewniające cichą i wydajną pracę.</p><h2>Radiator 360 mm w kompaktowej formie</h2><p>Aluminiowy radiator o długości 360 mm i grubości jedynie 22 mm sprawdzi się nawet w obudowach z ograniczoną ilością miejsca. Dzięki zoptymalizowanej konstrukcji AiO oferuje wydajne chłodzenie bez nadmiernego hałasu.</p><h2>Wyświetlacz LCD z bezprzewodową obsługą</h2><p>Wyświetlacz IPS umożliwia personalizację – od statystyk systemowych po animowane grafiki. Sterowanie odbywa się na trzy sposoby: offline poprzez obrotowy pierścień na bloku pompy, przewodowo przez <b>L-Connect 3</b> lub całkowicie bezprzewodowo z użyciem <b>L-Wireless Controller</b>.</p><h2>Ciche i wydajne wentylatory UNI FAN CL Wireless</h2><p>W zestawie znajdują się trzy białe wentylatory CL Wireless z przezroczystymi rotorami. Łączą cichą pracę z wysoką kulturą chłodzenia. Do ich obsługi bezprzewodowej wymagany jest dodatkowy kontroler (dostępny osobno w kolorze czarnym lub białym).</p><h2>Łatwy montaż i czysty wygląd</h2><p>Boczne prowadzenie przewodów, regulowana obejma węży oraz narzędziowy system montażu sprawiają, że instalacja jest szybka i estetyczna. Idealne rozwiązanie dla gamingowych i designerskich konfiguracji w jasnych obudowach.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Seria</p><p>HydroShift II</p></li><li><p>Model</p><p>HYDROSHIFT II LCD-C 360CL White</p></li><li><p>Typ chłodzenia</p><p>AiO wodne chłodzenie procesora</p></li><li><p>Kompatybilne gniazda CPU</p><p>Intel 1700, 1851; AMD AM4, AM5</p></li><li><p>Wyświetlacz</p><p>IPS LCD 2,1 cala (obsługa MP4, GIF, grafik, sensorów systemowych)</p></li><li><p>Radiator</p><p>360 mm (400 × 122 × 22 mm)</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Blok wodny</p><p>Miedź</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Wentylatory</p><p>3× UNI FAN CL Wireless 120 mm (biała ramka, przezroczysty rotor)</p></li><li><p>Maksymalna głośność pompy</p><p>28 dB(A)</p></li><li><p>Maksymalna głośność wentylatora</p><p>31 dB(A)</p></li><li><p>Oświetlenie</p><p>RGB (adresowalne)</p></li><li><p>Kolor główny</p><p>Biały</p></li><li><p>Kolor ramki wentylatora</p><p>Biały</p></li><li><p>Kolor łopatek wentylatora</p><p>Przezroczysty</p></li><li><p>Kolor radiatora</p><p>Biały</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/lian-li.jpg",
-    "images": [
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78513.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78514.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78515.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78513.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78514.webp",
-        "galerie/c/chlodzenie-wodne-aio-lian-li_78515.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20589",
+  "code": "WASE-941",
+  "name": "Chłodzenie wodne AiO Lian Li HYDROSHIFT II LCD-C 360CL ARGB White",
+  "price": 771.9,
+  "description": "<h2>Lian Li HYDROSHIFT II LCD-C 360CL White – AiO z LCD i wentylatorami UNI FAN CL Wireless</h2><p>Lian Li HYDROSHIFT II LCD-C 360CL w wersji <b>białej</b> to chłodzenie AiO stworzone dla osób, które chcą połączyć wydajność z estetyką RGB. Centralnym punktem zestawu jest <b>2,1-calowy ekran LCD IPS</b>, który pozwala wyświetlać dane systemowe, animacje, a nawet krótkie filmy MP4 i GIF-y. Całość uzupełniają trzy <b>wentylatory UNI FAN CL Wireless</b>, zapewniające cichą i wydajną pracę.</p><h2>Radiator 360 mm w kompaktowej formie</h2><p>Aluminiowy radiator o długości 360 mm i grubości jedynie 22 mm sprawdzi się nawet w obudowach z ograniczoną ilością miejsca. Dzięki zoptymalizowanej konstrukcji AiO oferuje wydajne chłodzenie bez nadmiernego hałasu.</p><h2>Wyświetlacz LCD z bezprzewodową obsługą</h2><p>Wyświetlacz IPS umożliwia personalizację – od statystyk systemowych po animowane grafiki. Sterowanie odbywa się na trzy sposoby: offline poprzez obrotowy pierścień na bloku pompy, przewodowo przez <b>L-Connect 3</b> lub całkowicie bezprzewodowo z użyciem <b>L-Wireless Controller</b>.</p><h2>Ciche i wydajne wentylatory UNI FAN CL Wireless</h2><p>W zestawie znajdują się trzy białe wentylatory CL Wireless z przezroczystymi rotorami. Łączą cichą pracę z wysoką kulturą chłodzenia. Do ich obsługi bezprzewodowej wymagany jest dodatkowy kontroler (dostępny osobno w kolorze czarnym lub białym).</p><h2>Łatwy montaż i czysty wygląd</h2><p>Boczne prowadzenie przewodów, regulowana obejma węży oraz narzędziowy system montażu sprawiają, że instalacja jest szybka i estetyczna. Idealne rozwiązanie dla gamingowych i designerskich konfiguracji w jasnych obudowach.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Seria</p><p>HydroShift II</p></li><li><p>Model</p><p>HYDROSHIFT II LCD-C 360CL White</p></li><li><p>Typ chłodzenia</p><p>AiO wodne chłodzenie procesora</p></li><li><p>Kompatybilne gniazda CPU</p><p>Intel 1700, 1851; AMD AM4, AM5</p></li><li><p>Wyświetlacz</p><p>IPS LCD 2,1 cala (obsługa MP4, GIF, grafik, sensorów systemowych)</p></li><li><p>Radiator</p><p>360 mm (400 × 122 × 22 mm)</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Blok wodny</p><p>Miedź</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Wentylatory</p><p>3× UNI FAN CL Wireless 120 mm (biała ramka, przezroczysty rotor)</p></li><li><p>Maksymalna głośność pompy</p><p>28 dB(A)</p></li><li><p>Maksymalna głośność wentylatora</p><p>31 dB(A)</p></li><li><p>Oświetlenie</p><p>RGB (adresowalne)</p></li><li><p>Kolor główny</p><p>Biały</p></li><li><p>Kolor ramki wentylatora</p><p>Biały</p></li><li><p>Kolor łopatek wentylatora</p><p>Przezroczysty</p></li><li><p>Kolor radiatora</p><p>Biały</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78513.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78514.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78515.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78513.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78514.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78515.webp"
+  ],
+  "manufacturer": "Lian Li"
 }

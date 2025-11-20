@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia notebooków"
-    ],
-    "id": "17735",
-    "code": "NBNK-148",
-    "name": "Podstawka chłodząca do laptopa DeepCool U Pal",
-    "price": 47.9,
-    "description": "<h2>Podkładka do notebooka z innowacyjnym chłodzeniem z kanałem U</h2><p>Jak powszechnie wiadomo, gorące punkty notebooka często znajdują się po dwóch zewnętrznych stronach, lewej i prawej. Chłodzenie w kształcie litery U z dwoma wentylatorami 140 mm pomaga dokładnie przewietrzyć te obszary, a szczelina pomaga szybciej rozproszyć ogrzane powietrze.</p><h2>Superszybki port USB 3.0</h2><p>Zasilany port przelotowy Super Speed ​​USB 3.0 pomaga przesyłać dane z największą możliwą szybkością.</p><h2>Regulowany kąt zapewnia wygodną pracę</h2><p>Niezależnie od tego, czy chcesz się zrelaksować, bawić czy pracować: U PAL umożliwia regulację sześciu różnych kątów. Oznacza to, że zawsze masz wygodny kąt widzenia i w szczególności zapobiegasz nieprawidłowej postawie.</p><h2>Cicha praca</h2><p>Dwa wbudowane wentylatory 140 mm pracują z prędkością 1000 obr./min, aby zapewnić chłód notebooka. Poziom hałasu został zredukowany do minimum, aby nie przeszkadzać podczas pracy lub grania.</p><h2>Zoptymalizowany przepływ powietrza</h2><p>Metalowa kratka o strukturze plastra miodu umożliwia szybkie odprowadzanie powietrza, aby zapewnić najlepszą wydajność chłodzenia.</p><h2>Konstrukcja antypoślizgowa</h2><p>Paski antypoślizgowe w połączeniu z gumowymi nóżkami zapewniają stabilność Twojego notebooka, a tym samym zapewniają najwyższy komfort!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>390 x 280 x 27,5 mm (dł. x szer. x wys.)</p></li><li><p>Materiał</p><p>plastik, metal</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Wentylatory</p><p>2x 140 mm</p></li><li><p>Przepływ powietrza</p><p>156,6 m³/h</p></li><li><p>Głośność</p><p>26,3 dBa</p></li><li><p>Połączenia</p><p>USB 3.0</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/deepcool.jpg",
-    "images": [
-        "galerie/p/podstawka-chlodzaca-do-laptop_64938.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64935.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64937.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64939.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64940.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64936.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64941.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64938.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64935.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64937.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64939.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64940.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64936.webp",
-        "galerie/p/podstawka-chlodzaca-do-laptop_64941.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia notebooków"
+  ],
+  "id": "17735",
+  "code": "NBNK-148",
+  "name": "Podstawka chłodząca do laptopa DeepCool U Pal",
+  "price": 47.9,
+  "description": "<h2>Podkładka do notebooka z innowacyjnym chłodzeniem z kanałem U</h2><p>Jak powszechnie wiadomo, gorące punkty notebooka często znajdują się po dwóch zewnętrznych stronach, lewej i prawej. Chłodzenie w kształcie litery U z dwoma wentylatorami 140 mm pomaga dokładnie przewietrzyć te obszary, a szczelina pomaga szybciej rozproszyć ogrzane powietrze.</p><h2>Superszybki port USB 3.0</h2><p>Zasilany port przelotowy Super Speed ​​USB 3.0 pomaga przesyłać dane z największą możliwą szybkością.</p><h2>Regulowany kąt zapewnia wygodną pracę</h2><p>Niezależnie od tego, czy chcesz się zrelaksować, bawić czy pracować: U PAL umożliwia regulację sześciu różnych kątów. Oznacza to, że zawsze masz wygodny kąt widzenia i w szczególności zapobiegasz nieprawidłowej postawie.</p><h2>Cicha praca</h2><p>Dwa wbudowane wentylatory 140 mm pracują z prędkością 1000 obr./min, aby zapewnić chłód notebooka. Poziom hałasu został zredukowany do minimum, aby nie przeszkadzać podczas pracy lub grania.</p><h2>Zoptymalizowany przepływ powietrza</h2><p>Metalowa kratka o strukturze plastra miodu umożliwia szybkie odprowadzanie powietrza, aby zapewnić najlepszą wydajność chłodzenia.</p><h2>Konstrukcja antypoślizgowa</h2><p>Paski antypoślizgowe w połączeniu z gumowymi nóżkami zapewniają stabilność Twojego notebooka, a tym samym zapewniają najwyższy komfort!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>390 x 280 x 27,5 mm (dł. x szer. x wys.)</p></li><li><p>Materiał</p><p>plastik, metal</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Wentylatory</p><p>2x 140 mm</p></li><li><p>Przepływ powietrza</p><p>156,6 m³/h</p></li><li><p>Głośność</p><p>26,3 dBa</p></li><li><p>Połączenia</p><p>USB 3.0</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/p/podstawka-chlodzaca-do-laptop_64938.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64935.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64937.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64939.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64940.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64936.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64941.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64938.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64935.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64937.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64939.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64940.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64936.webp",
+    "galerie/p/podstawka-chlodzaca-do-laptop_64941.webp"
+  ],
+  "manufacturer": "DeepCool"
 }

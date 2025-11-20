@@ -1,33 +1,34 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Chłodzenia na CPU"
-    ],
-    "id": "14841",
-    "code": "SAVGCOVORTEX",
-    "name": "Chłodzenie Savio Vortex",
-    "price": 124.9,
-    "description": "<h2>Wysoka wydajność chłodzenia</h2><p>SAVIO VORTEX to niezwykle wydajne chłodzenie powietrzne procesora, wyposażone w cichy wentylator, który zapewnia niemal bezgłośną pracę oraz optymalny przepływ powietrza. Zastosowane technologie zapewniają wyróżniające się parametry pracy oraz wysoką efektywność. Dodatkową zaletą chłodzenia są jego wymiary 140x128x76mm, co przekłada się na dużą kompatybilność z różnymi typami obudów.</p><h2>Miedziane ciepłowody</h2><p>Chłodzenie SAVIO VORTEX zostało wyposażone w 4 miedziane ciepłowody o średnicy 6 mm. Bezpośrednio stykają się z powierzchnią procesora, dzięki czemu transfer temperatury do radiatora odbywa się błyskawicznie. Istotnie redukuje to temperaturę pracy. Specjalne rozmieszenie żeber w radiatorze umożliwia optymalny przepływ powietrza w kierunku ciepłowodów i pozwala na skuteczne rozpraszanie ciepła do otoczenia.</p><h2>Szeroka kompatybilność</h2><p>SAVIO VORTEX z powodzeniem sprawdzi się z większością procesorów Intel oraz AMD. Do chłodzenia dołączono zestaw montażowy, który gwarantuje kompatybilność ze wszystkimi popularnymi podstawkami procesorów. System montażu sprawia, że instalacja chłodzenia przebiegnie szybko i sprawnie. Co ważne, w komplecie znajduje się także wysokiej klasy, termoprzewodząca pasta, która oferuje łatwe nakładanie oraz wydajne przewodnictwo cieplne.</p><h2>TDP 180 W</h2><p>Chłodzenie SAVIO VORTEX dostosowane jest do obsługi nowoczesnych procesorów. Wydajność chłodzenia osiąga imponujące 180 W TDP (Thermal Design Power). Z łatwością poradzi sobie ze schłodzeniem większości modeli CPU dostępnych na rynku, a co za tym idzie, w odczuwalny sposób poprawia użytkowanie komputera.</p><p>Ponadto dzięki zastosowaniu odpowiednich materiałów poddanych licznym wymagającym testom, chłodzenie gwarantuje bezawaryjną pracę i długi okres eksploatacji.</p><h2>Wydajny wentylator o rozmiarze 120 mm</h2><p>Dołączony do zestawu wentylator w rozmiarze 120 mm podłączany za pomocą wtyczki 4-pinowej pozwala na skuteczne obniżenie wysokich temperatur generowanych w radiatorze. Jest to idealne rozwiązanie, które sprawdzi się podczas obsługi gier czy profesjonalnych programów, zapewniając płynność działania.</p><p>Wentylator dodatkowo cechuje się bardzo cichą pracą niezależnie od obrotów dzięki zastosowaniu aerodynamicznej budowy, a także gwarantującej osiągi na poziomie od 600 do 1500 RPM.</p><h2>Połączenie PWM</h2><p>SAVIO VORTEX wyposażony został w możliwość regulacji obrotów wentylatora w BIOSIE lub za pomocą dedykowanego oprogramowania płyty głównej, dzięki temu użytkownik zyskuje pełną kontrolę nad pracą podzespołu oraz ma możliwość dostosowania wydajności chłodzenia do własnych potrzeb.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>TDP</p><p>180 W</p></li><li><p>Wymiary</p><p>140x128x76 mm (z wentylatorem)</p></li><li><p>Ilość ciepłowodów</p><p>4</p></li><li><p>Złącze wentylatora</p><p>4-pin (PMW)</p></li><li><p>Obroty wentylatora</p><p>600-1500 RPM</p></li><li><p>Kompatybilność Intel</p><p>LGA 1200 / 1151 / 1150 / 1155 / 1156 / 1700</p></li><li><p>Kompatybilność AMD</p><p>AM3(+) / AM2(+) / FM2(+) / FM1 / AM4</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/savio.jpg",
-    "images": [
-        "galerie/c/chlodzenie-savio-vortex_53936.webp",
-        "galerie/c/chlodzenie-savio-vortex_53937.webp",
-        "galerie/c/chlodzenie-savio-vortex_53938.webp",
-        "galerie/c/chlodzenie-savio-vortex_53939.webp",
-        "galerie/c/chlodzenie-savio-vortex_53940.webp",
-        "galerie/c/chlodzenie-savio-vortex_53941.webp",
-        "galerie/c/chlodzenie-savio-vortex_53942.webp",
-        "galerie/c/chlodzenie-savio-vortex_53943.webp",
-        "galerie/c/chlodzenie-savio-vortex_53936.webp",
-        "galerie/c/chlodzenie-savio-vortex_53937.webp",
-        "galerie/c/chlodzenie-savio-vortex_53938.webp",
-        "galerie/c/chlodzenie-savio-vortex_53939.webp",
-        "galerie/c/chlodzenie-savio-vortex_53940.webp",
-        "galerie/c/chlodzenie-savio-vortex_53941.webp",
-        "galerie/c/chlodzenie-savio-vortex_53942.webp",
-        "galerie/c/chlodzenie-savio-vortex_53943.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "14841",
+  "code": "SAVGCOVORTEX",
+  "name": "Chłodzenie Savio Vortex",
+  "price": 124.9,
+  "description": "<h2>Wysoka wydajność chłodzenia</h2><p>SAVIO VORTEX to niezwykle wydajne chłodzenie powietrzne procesora, wyposażone w cichy wentylator, który zapewnia niemal bezgłośną pracę oraz optymalny przepływ powietrza. Zastosowane technologie zapewniają wyróżniające się parametry pracy oraz wysoką efektywność. Dodatkową zaletą chłodzenia są jego wymiary 140x128x76mm, co przekłada się na dużą kompatybilność z różnymi typami obudów.</p><h2>Miedziane ciepłowody</h2><p>Chłodzenie SAVIO VORTEX zostało wyposażone w 4 miedziane ciepłowody o średnicy 6 mm. Bezpośrednio stykają się z powierzchnią procesora, dzięki czemu transfer temperatury do radiatora odbywa się błyskawicznie. Istotnie redukuje to temperaturę pracy. Specjalne rozmieszenie żeber w radiatorze umożliwia optymalny przepływ powietrza w kierunku ciepłowodów i pozwala na skuteczne rozpraszanie ciepła do otoczenia.</p><h2>Szeroka kompatybilność</h2><p>SAVIO VORTEX z powodzeniem sprawdzi się z większością procesorów Intel oraz AMD. Do chłodzenia dołączono zestaw montażowy, który gwarantuje kompatybilność ze wszystkimi popularnymi podstawkami procesorów. System montażu sprawia, że instalacja chłodzenia przebiegnie szybko i sprawnie. Co ważne, w komplecie znajduje się także wysokiej klasy, termoprzewodząca pasta, która oferuje łatwe nakładanie oraz wydajne przewodnictwo cieplne.</p><h2>TDP 180 W</h2><p>Chłodzenie SAVIO VORTEX dostosowane jest do obsługi nowoczesnych procesorów. Wydajność chłodzenia osiąga imponujące 180 W TDP (Thermal Design Power). Z łatwością poradzi sobie ze schłodzeniem większości modeli CPU dostępnych na rynku, a co za tym idzie, w odczuwalny sposób poprawia użytkowanie komputera.</p><p>Ponadto dzięki zastosowaniu odpowiednich materiałów poddanych licznym wymagającym testom, chłodzenie gwarantuje bezawaryjną pracę i długi okres eksploatacji.</p><h2>Wydajny wentylator o rozmiarze 120 mm</h2><p>Dołączony do zestawu wentylator w rozmiarze 120 mm podłączany za pomocą wtyczki 4-pinowej pozwala na skuteczne obniżenie wysokich temperatur generowanych w radiatorze. Jest to idealne rozwiązanie, które sprawdzi się podczas obsługi gier czy profesjonalnych programów, zapewniając płynność działania.</p><p>Wentylator dodatkowo cechuje się bardzo cichą pracą niezależnie od obrotów dzięki zastosowaniu aerodynamicznej budowy, a także gwarantującej osiągi na poziomie od 600 do 1500 RPM.</p><h2>Połączenie PWM</h2><p>SAVIO VORTEX wyposażony został w możliwość regulacji obrotów wentylatora w BIOSIE lub za pomocą dedykowanego oprogramowania płyty głównej, dzięki temu użytkownik zyskuje pełną kontrolę nad pracą podzespołu oraz ma możliwość dostosowania wydajności chłodzenia do własnych potrzeb.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>TDP</p><p>180 W</p></li><li><p>Wymiary</p><p>140x128x76 mm (z wentylatorem)</p></li><li><p>Ilość ciepłowodów</p><p>4</p></li><li><p>Złącze wentylatora</p><p>4-pin (PMW)</p></li><li><p>Obroty wentylatora</p><p>600-1500 RPM</p></li><li><p>Kompatybilność Intel</p><p>LGA 1200 / 1151 / 1150 / 1155 / 1156 / 1700</p></li><li><p>Kompatybilność AMD</p><p>AM3(+) / AM2(+) / FM2(+) / FM1 / AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Savio</p></li><li><p>Dane producenta</p><p>Elmak. Sp. z o.o., Al. Żołnierzy I Armii Wojska Polskiego 22, 35-301 Rzeszów, kontakt@savio.net.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/savio.jpg",
+  "images": [
+    "galerie/c/chlodzenie-savio-vortex_53936.webp",
+    "galerie/c/chlodzenie-savio-vortex_53937.webp",
+    "galerie/c/chlodzenie-savio-vortex_53938.webp",
+    "galerie/c/chlodzenie-savio-vortex_53939.webp",
+    "galerie/c/chlodzenie-savio-vortex_53940.webp",
+    "galerie/c/chlodzenie-savio-vortex_53941.webp",
+    "galerie/c/chlodzenie-savio-vortex_53942.webp",
+    "galerie/c/chlodzenie-savio-vortex_53943.webp",
+    "galerie/c/chlodzenie-savio-vortex_53936.webp",
+    "galerie/c/chlodzenie-savio-vortex_53937.webp",
+    "galerie/c/chlodzenie-savio-vortex_53938.webp",
+    "galerie/c/chlodzenie-savio-vortex_53939.webp",
+    "galerie/c/chlodzenie-savio-vortex_53940.webp",
+    "galerie/c/chlodzenie-savio-vortex_53941.webp",
+    "galerie/c/chlodzenie-savio-vortex_53942.webp",
+    "galerie/c/chlodzenie-savio-vortex_53943.webp"
+  ],
+  "manufacturer": "Savio"
 }

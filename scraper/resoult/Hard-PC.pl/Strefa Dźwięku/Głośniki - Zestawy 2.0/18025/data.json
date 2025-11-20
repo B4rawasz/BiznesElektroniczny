@@ -1,26 +1,27 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.0"
-    ],
-    "id": "18025",
-    "code": "R2000DB black",
-    "name": "Głośniki Edifier R2000DB 2.0 Czarne",
-    "price": 849.0,
-    "description": "<h2>Edifier R2000DB</h2><p>Głośniki R2000DB to świetne połączenie klasycznej, drewnianej konstrukcji i innowacyjnych zastosowań technologicznych, odpowiadających za wysoką jakość dźwięku. Uniwersalne wejścia optyczne sprawiają, że nie musisz obawiać się o połączenie z większością modeli. Dołączony kontroler zdalnego sterowania ułatwia obsługę z niedalekiej odległości. Głośniki wysokotonowe 25mm typu Eagle Eye wytwarzają doskonały, wyraźny sygnał audio.</p><h2>Kompaktowy rozmiar o głębokim wnętrzu</h2><p>Wysokotonowy, 5-calowy przetwornik z pewnością dostarczy mnóstwo niezapomnianych, muzycznych wrażeń. Aluminiowa membrana i 1-calowy przetwornik przeznaczone są do przekształcania tonów średnich i niskich, które odpowiednio balansują tonacje. Ponadto, wzmacniacz klasy D zawiera technologię cyfrowego przetwarzania sygnału (DSP) oraz kontroli dynamiki sygnału (DRC). Zachwyć się bogactwem szczegółów podczas relaksu z ekscytującym filmem, piosenką lub grą.</p><h2>Wygodna obsługa</h2><p>R2000DB wyposażono w praktyczny, bezprzewodowy pilot zdalnego sterowania. Umożliwia on przede wszystkim łatwe przełączanie źródła, zmianę poziomu głośności lub wyboru trybów cyfrowego. Z jego pomocą wyciszysz niechcianą piosenkę, wykonując tylko jeden ruch. Co więcej, ergonomiczna konstrukcja dopasowuje się do kształtu dłoni, nie powodując uczucia dyskomfortu.</p><h2>Wyjątkowa jakość dźwięku</h2><p>Zestaw głośników Edifier to profesjonalny dodatek do komputerów oraz konsol do gier. Idealnie wpasowują się w każdą przestrzeń, zapewniając zróżnicowaną funkcjonalność dostosowaną do indywidualnego stylu życia. Wytrzymały materiał MDF całkowicie minimalizuje rezonans akustyczny. Dzięki głośnikom R2000DB możesz cieszyć się spektakularnym efektem dźwiękowym, który dopełnia gamingowy nastrój.</p><h2>Ponadczasowy wizerunek</h2><p>Dokładne wykonanie i klasyczny charakter to udane połączenie, które sprawdzi się w stylowo urządzonym pomieszczeniu. Drewniana, połyskująca obudowa MDF w pełni eliminuje rezonans akustyczny, oczyszczając przesył ze zbędnych wibracji i szumów. Podłącz głośniki do gramofonu, telewizora, czy laptopa i zanurz się w klimatycznej, relaksującej muzyce.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Całkowita moc wyjściowa</p><p>RMS 24W × 2 + 36 W × 2</p></li><li><p>Stosunek sygnału do szumu</p><p>≥85dB(A)</p></li><li><p>Pasmo przenoszenia</p><p>50Hz ~ 20kHz (@+/-3db)</p></li><li><p>Czułość wejściowa</p><p>Line 1: 800mV ± 50mV<br/>Line 2: 600mV ± 50mV<br/>OPT: 500mFFs±50mFFs</p></li><li><p>Typ wejścia</p><p>Bluetooth, 3.5mm do RCA, Optyczny, Koaksjalny</p></li><li><p>Membrana wysokotonowa</p><p>Φ25mm Ru-Fe-B, jedwabna kopułka 6Ω</p></li><li><p>Przetwornik pełnozakresowy</p><p>5,25\"</p></li><li><p>Oporność</p><p>Głośnik wysokotonowy：6Ω<br/>Głośnik niskotonowy：4Ω</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosniki-edifier-r2000db-2-0_66511.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66512.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66513.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66514.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66515.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66511.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66512.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66513.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66514.webp",
-        "galerie/g/glosniki-edifier-r2000db-2-0_66515.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.0"
+  ],
+  "id": "18025",
+  "code": "R2000DB black",
+  "name": "Głośniki Edifier R2000DB 2.0 Czarne",
+  "price": 849.0,
+  "description": "<h2>Edifier R2000DB</h2><p>Głośniki R2000DB to świetne połączenie klasycznej, drewnianej konstrukcji i innowacyjnych zastosowań technologicznych, odpowiadających za wysoką jakość dźwięku. Uniwersalne wejścia optyczne sprawiają, że nie musisz obawiać się o połączenie z większością modeli. Dołączony kontroler zdalnego sterowania ułatwia obsługę z niedalekiej odległości. Głośniki wysokotonowe 25mm typu Eagle Eye wytwarzają doskonały, wyraźny sygnał audio.</p><h2>Kompaktowy rozmiar o głębokim wnętrzu</h2><p>Wysokotonowy, 5-calowy przetwornik z pewnością dostarczy mnóstwo niezapomnianych, muzycznych wrażeń. Aluminiowa membrana i 1-calowy przetwornik przeznaczone są do przekształcania tonów średnich i niskich, które odpowiednio balansują tonacje. Ponadto, wzmacniacz klasy D zawiera technologię cyfrowego przetwarzania sygnału (DSP) oraz kontroli dynamiki sygnału (DRC). Zachwyć się bogactwem szczegółów podczas relaksu z ekscytującym filmem, piosenką lub grą.</p><h2>Wygodna obsługa</h2><p>R2000DB wyposażono w praktyczny, bezprzewodowy pilot zdalnego sterowania. Umożliwia on przede wszystkim łatwe przełączanie źródła, zmianę poziomu głośności lub wyboru trybów cyfrowego. Z jego pomocą wyciszysz niechcianą piosenkę, wykonując tylko jeden ruch. Co więcej, ergonomiczna konstrukcja dopasowuje się do kształtu dłoni, nie powodując uczucia dyskomfortu.</p><h2>Wyjątkowa jakość dźwięku</h2><p>Zestaw głośników Edifier to profesjonalny dodatek do komputerów oraz konsol do gier. Idealnie wpasowują się w każdą przestrzeń, zapewniając zróżnicowaną funkcjonalność dostosowaną do indywidualnego stylu życia. Wytrzymały materiał MDF całkowicie minimalizuje rezonans akustyczny. Dzięki głośnikom R2000DB możesz cieszyć się spektakularnym efektem dźwiękowym, który dopełnia gamingowy nastrój.</p><h2>Ponadczasowy wizerunek</h2><p>Dokładne wykonanie i klasyczny charakter to udane połączenie, które sprawdzi się w stylowo urządzonym pomieszczeniu. Drewniana, połyskująca obudowa MDF w pełni eliminuje rezonans akustyczny, oczyszczając przesył ze zbędnych wibracji i szumów. Podłącz głośniki do gramofonu, telewizora, czy laptopa i zanurz się w klimatycznej, relaksującej muzyce.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Całkowita moc wyjściowa</p><p>RMS 24W × 2 + 36 W × 2</p></li><li><p>Stosunek sygnału do szumu</p><p>≥85dB(A)</p></li><li><p>Pasmo przenoszenia</p><p>50Hz ~ 20kHz (@+/-3db)</p></li><li><p>Czułość wejściowa</p><p>Line 1: 800mV ± 50mV<br/>Line 2: 600mV ± 50mV<br/>OPT: 500mFFs±50mFFs</p></li><li><p>Typ wejścia</p><p>Bluetooth, 3.5mm do RCA, Optyczny, Koaksjalny</p></li><li><p>Membrana wysokotonowa</p><p>Φ25mm Ru-Fe-B, jedwabna kopułka 6Ω</p></li><li><p>Przetwornik pełnozakresowy</p><p>5,25\"</p></li><li><p>Oporność</p><p>Głośnik wysokotonowy：6Ω<br/>Głośnik niskotonowy：4Ω</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosniki-edifier-r2000db-2-0_66511.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66512.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66513.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66514.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66515.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66511.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66512.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66513.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66514.webp",
+    "galerie/g/glosniki-edifier-r2000db-2-0_66515.webp"
+  ],
+  "manufacturer": "Edifier"
 }

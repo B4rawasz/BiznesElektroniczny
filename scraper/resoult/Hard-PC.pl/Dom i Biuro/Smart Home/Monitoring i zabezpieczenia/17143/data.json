@@ -1,29 +1,30 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Monitoring i zabezpieczenia"
-    ],
-    "id": "17143",
-    "code": "TSL-GW-GT03ZG",
-    "name": "Tesla Smart Centrala bramka sterująca RJ45 Zigbee",
-    "price": 169.0,
-    "description": "<h2>Jednostka centralna do sterowania urządzeniami TESLA Smart</h2><p>Stylowa i kompaktowa jednostka centralna TESLA Smart RJ45 ZigBee Hub jest ważnym elementem łączącym inteligentne urządzenia w Twoim domu. Wykorzystując system bezprzewodowy ZigBee, centralna jednostka tworzy wirtualną sieć, która zapewnia odpowiednią funkcjonalność wielu elementów Twojego inteligentnego domu wyposażonego w produkty TESLA.</p><h2>Twórca inteligentnej i niezawodnej sieci ZigBee</h2><p>Niektóre inteligentne urządzenia TESLA są wyposażone w system ZigBee zamiast modułu do łączenia się z siecią Wi-Fi, dlatego, aby zapewnić prawidłowe działanie takich elementów jak inteligentne włączniki, czujniki czy głowice termostatyczne, konieczne jest w pierwszej kolejności stworzenie sieci ZigBee.</p><h2>Niezwykle proste połączenie</h2><p>Jednostka centralna TESLA Smart ZigBee Hub nie posiada dużej ilości portów ani skomplikowanej procedury konfiguracji. Do podłączenia potrzebny jest tylko kabel zasilający USB Type-C i kabel sieciowy UTP. Po pierwszym połączeniu wystarczy otworzyć aplikację TESLA Smart dostępną na iOS lub Android, dodać do aplikacji produkt Gateways — TESLA Smart RJ45 ZigBee Hub —produkt sam przeprowadzi Cię przez proces konfiguracji.</p><h2>Zautomatyzowanie gospodarstwa domowego i oszczędność pieniędzy</h2><p>Dzięki inteligentnym produktom TESLA Smart zapomnisz o wielu zmartwieniach. Możesz dostosować oświetlenie, czujniki lub inteligentne gniazdka do swojego harmonogramu dnia. Zaletą inteligentnego domu jest monitorowanie zużycia energii. Dzięki przejrzystym statystykom aplikacja TESLA Smart pomaga zidentyfikować najmniej wydajne elementy, umożliwiając w ten sposób zarówno zautomatyzowanie, jak i optymalizację ich działania.</p><h2>Centralną jednostkę można schować wszędzie</h2><p>Wystarczy wybrać odpowiednią lokalizację w pobliżu routera i podłączyć urządzenie za pomocą dołączonego kabla sieciowego UTP.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>96 szt</p></li><li><p>Wysokość:</p><p>1.95 cm</p></li><li><p>Szerokość:</p><p>9 cm</p></li><li><p>Głębokość:</p><p>8.45 cm</p></li><li><p>Waga:</p><p>0.076 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-centrala-bramka-s_63587.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63588.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63589.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63590.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63591.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63592.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63587.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63588.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63589.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63590.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63591.webp",
-        "galerie/t/tesla-smart-centrala-bramka-s_63592.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Monitoring i zabezpieczenia"
+  ],
+  "id": "17143",
+  "code": "TSL-GW-GT03ZG",
+  "name": "Tesla Smart Centrala bramka sterująca RJ45 Zigbee",
+  "price": 169.0,
+  "description": "<h2>Jednostka centralna do sterowania urządzeniami TESLA Smart</h2><p>Stylowa i kompaktowa jednostka centralna TESLA Smart RJ45 ZigBee Hub jest ważnym elementem łączącym inteligentne urządzenia w Twoim domu. Wykorzystując system bezprzewodowy ZigBee, centralna jednostka tworzy wirtualną sieć, która zapewnia odpowiednią funkcjonalność wielu elementów Twojego inteligentnego domu wyposażonego w produkty TESLA.</p><h2>Twórca inteligentnej i niezawodnej sieci ZigBee</h2><p>Niektóre inteligentne urządzenia TESLA są wyposażone w system ZigBee zamiast modułu do łączenia się z siecią Wi-Fi, dlatego, aby zapewnić prawidłowe działanie takich elementów jak inteligentne włączniki, czujniki czy głowice termostatyczne, konieczne jest w pierwszej kolejności stworzenie sieci ZigBee.</p><h2>Niezwykle proste połączenie</h2><p>Jednostka centralna TESLA Smart ZigBee Hub nie posiada dużej ilości portów ani skomplikowanej procedury konfiguracji. Do podłączenia potrzebny jest tylko kabel zasilający USB Type-C i kabel sieciowy UTP. Po pierwszym połączeniu wystarczy otworzyć aplikację TESLA Smart dostępną na iOS lub Android, dodać do aplikacji produkt Gateways — TESLA Smart RJ45 ZigBee Hub —produkt sam przeprowadzi Cię przez proces konfiguracji.</p><h2>Zautomatyzowanie gospodarstwa domowego i oszczędność pieniędzy</h2><p>Dzięki inteligentnym produktom TESLA Smart zapomnisz o wielu zmartwieniach. Możesz dostosować oświetlenie, czujniki lub inteligentne gniazdka do swojego harmonogramu dnia. Zaletą inteligentnego domu jest monitorowanie zużycia energii. Dzięki przejrzystym statystykom aplikacja TESLA Smart pomaga zidentyfikować najmniej wydajne elementy, umożliwiając w ten sposób zarówno zautomatyzowanie, jak i optymalizację ich działania.</p><h2>Centralną jednostkę można schować wszędzie</h2><p>Wystarczy wybrać odpowiednią lokalizację w pobliżu routera i podłączyć urządzenie za pomocą dołączonego kabla sieciowego UTP.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>96 szt</p></li><li><p>Wysokość:</p><p>1.95 cm</p></li><li><p>Szerokość:</p><p>9 cm</p></li><li><p>Głębokość:</p><p>8.45 cm</p></li><li><p>Waga:</p><p>0.076 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-centrala-bramka-s_63587.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63588.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63589.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63590.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63591.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63592.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63587.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63588.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63589.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63590.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63591.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63592.webp"
+  ],
+  "manufacturer": "Tesla"
 }

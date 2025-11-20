@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Akcesoria"
-    ],
-    "id": "12953",
-    "code": "TUN-BASIC",
-    "name": "Stroik do instrumentów strunowych MOZOS Tuner Basic",
-    "price": 19.9,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Stroik Mozos Tun-basic to produkt dla każdego grającego na instrumentach strunowych.</h2><p>Precyzyjne strojenie instrumentu jest absolutną koniecznością. Nasz tuner kompatybilny jest z gitarami klasycznymi, akustycznymi, basowymi, elektroakustycznymi i elektrycznymi. Stroik sprawdzi się w także z ukulele i skrzypcami. Stroik jest bardzo prosty w użytkowaniu dzięki jednemu przyciskowi. Mozos Tun-Basic wyposażony też jest w ekran LCD z 2 kolorami podświetlenia (zielony-dostrojony, biały-rozstrojony). Dzięki obrotowej konstrukcji (dwuosiowej) ergonomia używania produktu jest na wysokim poziomie. Duży klips montażowy ułatwia aplikację na różnych gryfach oraz umożliwia używanie tunera w niesprzyjających warunkach akustycznych (np. na scenie w trakcie koncertu). Niewielki rozmiar i duża dokładność przy tak konkurencyjnej cenie gwarantuje zadowolenie z zakupu. Pojedyncza bateria litowa CR2032 zapewnia nieprzerwany czas pracy do 24 godzin, a funkcja automatycznego wyłączania oszczędza żywotność baterii, gdy tuner jest bezczynny.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Mały i precyzyjny stroik do instrumentów strunowych.</li><li>Kolory wyświetlacz z obrotową konstrukcją dla łatwiejszej obsługi.</li><li>Uniwersalny klips montażowy o dużym zakresie.</li><li>Świetnie sprawdza się do różnych typów gitar, ukulele, skrzypiec.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Element strojenia</p><p>chromatyczny, gitara, bas, skrzypce, ukulele</p></li><li><p>Podświetlenie 2-kolorowe</p><p>zielone – zestrojone, białe – rozstrojone</p></li><li><p>Częstotliwość referencyjna/Kalibracja A4</p><p>440 Hz</p></li><li><p>Zakres strojenia</p><p>A0 (27,5 Hz)-C8 (4186.00 Hz)</p></li><li><p>Dokładność strojenia</p><p>± 0,5 centa</p></li><li><p>Zasilanie</p><p>jedna bateria 2032 (w zestawie)</p></li><li><p>Wymiary</p><p>29x75x50mm</p></li><li><p>Waga</p><p>20g</p></li><li></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/mozos.jpg",
-    "images": [
-        "galerie/s/stroik-do-instrumentow-struno_46896.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46897.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46898.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46899.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46900.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46901.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46902.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46903.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46904.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46896.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46897.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46898.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46899.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46900.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46901.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46902.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46903.webp",
-        "galerie/s/stroik-do-instrumentow-struno_46904.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Akcesoria"
+  ],
+  "id": "12953",
+  "code": "TUN-BASIC",
+  "name": "Stroik do instrumentów strunowych MOZOS Tuner Basic",
+  "price": 19.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Stroik Mozos Tun-basic to produkt dla każdego grającego na instrumentach strunowych.</h2><p>Precyzyjne strojenie instrumentu jest absolutną koniecznością. Nasz tuner kompatybilny jest z gitarami klasycznymi, akustycznymi, basowymi, elektroakustycznymi i elektrycznymi. Stroik sprawdzi się w także z ukulele i skrzypcami. Stroik jest bardzo prosty w użytkowaniu dzięki jednemu przyciskowi. Mozos Tun-Basic wyposażony też jest w ekran LCD z 2 kolorami podświetlenia (zielony-dostrojony, biały-rozstrojony). Dzięki obrotowej konstrukcji (dwuosiowej) ergonomia używania produktu jest na wysokim poziomie. Duży klips montażowy ułatwia aplikację na różnych gryfach oraz umożliwia używanie tunera w niesprzyjających warunkach akustycznych (np. na scenie w trakcie koncertu). Niewielki rozmiar i duża dokładność przy tak konkurencyjnej cenie gwarantuje zadowolenie z zakupu. Pojedyncza bateria litowa CR2032 zapewnia nieprzerwany czas pracy do 24 godzin, a funkcja automatycznego wyłączania oszczędza żywotność baterii, gdy tuner jest bezczynny.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Mały i precyzyjny stroik do instrumentów strunowych.</li><li>Kolory wyświetlacz z obrotową konstrukcją dla łatwiejszej obsługi.</li><li>Uniwersalny klips montażowy o dużym zakresie.</li><li>Świetnie sprawdza się do różnych typów gitar, ukulele, skrzypiec.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Element strojenia</p><p>chromatyczny, gitara, bas, skrzypce, ukulele</p></li><li><p>Podświetlenie 2-kolorowe</p><p>zielone – zestrojone, białe – rozstrojone</p></li><li><p>Częstotliwość referencyjna/Kalibracja A4</p><p>440 Hz</p></li><li><p>Zakres strojenia</p><p>A0 (27,5 Hz)-C8 (4186.00 Hz)</p></li><li><p>Dokładność strojenia</p><p>± 0,5 centa</p></li><li><p>Zasilanie</p><p>jedna bateria 2032 (w zestawie)</p></li><li><p>Wymiary</p><p>29x75x50mm</p></li><li><p>Waga</p><p>20g</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/s/stroik-do-instrumentow-struno_46896.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46897.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46898.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46899.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46900.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46901.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46902.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46903.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46904.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46896.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46897.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46898.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46899.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46900.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46901.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46902.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46903.webp",
+    "galerie/s/stroik-do-instrumentow-struno_46904.webp"
+  ],
+  "manufacturer": "MOZOS"
 }

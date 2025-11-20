@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Thermalpady"
-    ],
-    "id": "12180",
-    "code": "TP-GP04-R-B",
-    "name": "Thermalpad Gelid GP-Ultimate TP-GP04-R-B 15W/mK 120x20x1mm",
-    "price": 17.9,
-    "description": "OPIS <p>Podkładki termiczne (thermalpad, termopad) posiadają właściwości, które wpływają na wydajność podzespołów komputera. Skutecznie odprowadzają ciepło, przez co elementy, które sobie z tym nie radziły działają znacznie lepiej. Jeśli więc rozglądamy się za odpowiednią podkładką idealnym rozwiązaniem jest podkładka termiczna <strong>Thermalpad GELID GP-ULTIMATE </strong>.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><li>Wysoka przewodność cieplna 15W/mK - lider w swojej klasie.</li><li>Łatwośc aplikacji.</li><li>Nie przewodzi prądu elektrycznego.</li><li>Nie powoduje korozji, nie twardnieje , nie jest toksyczny</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>12x20x1mm.</p></li><li><p>Przewodność cieplna</p><p>15W/mK.</p></li><li><p>Gęstość</p><p>3.2g/cm3</p></li><li><p>Twardość (Shore)</p><p>60-70 OO</p></li><li><p>Cechy</p><p>Nie przewodzi prądu elektrycznego.<br/>Nie zaleca się używać thermalpada ściśniętego o ponad połowę swojej nominalnej grubości.</p></li><li> </li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/gelid.jpg",
-    "images": [
-        "galerie/t/thermalpad-gelid-gp-ultimate_68724.webp",
-        "galerie/t/thermalpad-gelid-gp-ultimate_43039.webp",
-        "galerie/t/thermalpad-gelid-gp-ultimate_43040.webp",
-        "galerie/t/thermalpad-gelid-gp-ultimate_68724.webp",
-        "galerie/t/thermalpad-gelid-gp-ultimate_43039.webp",
-        "galerie/t/thermalpad-gelid-gp-ultimate_43040.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "12180",
+  "code": "TP-GP04-R-B",
+  "name": "Thermalpad Gelid GP-Ultimate TP-GP04-R-B 15W/mK 120x20x1mm",
+  "price": 17.9,
+  "description": "OPIS <p>Podkładki termiczne (thermalpad, termopad) posiadają właściwości, które wpływają na wydajność podzespołów komputera. Skutecznie odprowadzają ciepło, przez co elementy, które sobie z tym nie radziły działają znacznie lepiej. Jeśli więc rozglądamy się za odpowiednią podkładką idealnym rozwiązaniem jest podkładka termiczna <strong>Thermalpad GELID GP-ULTIMATE </strong>.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><li>Wysoka przewodność cieplna 15W/mK - lider w swojej klasie.</li><li>Łatwośc aplikacji.</li><li>Nie przewodzi prądu elektrycznego.</li><li>Nie powoduje korozji, nie twardnieje , nie jest toksyczny</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>12x20x1mm.</p></li><li><p>Przewodność cieplna</p><p>15W/mK.</p></li><li><p>Gęstość</p><p>3.2g/cm3</p></li><li><p>Twardość (Shore)</p><p>60-70 OO</p></li><li><p>Cechy</p><p>Nie przewodzi prądu elektrycznego.<br/>Nie zaleca się używać thermalpada ściśniętego o ponad połowę swojej nominalnej grubości.</p></li><li> </li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gelid.jpg",
+  "images": [
+    "galerie/t/thermalpad-gelid-gp-ultimate_68724.webp",
+    "galerie/t/thermalpad-gelid-gp-ultimate_43039.webp",
+    "galerie/t/thermalpad-gelid-gp-ultimate_43040.webp",
+    "galerie/t/thermalpad-gelid-gp-ultimate_68724.webp",
+    "galerie/t/thermalpad-gelid-gp-ultimate_43039.webp",
+    "galerie/t/thermalpad-gelid-gp-ultimate_43040.webp"
+  ],
+  "manufacturer": "Gelid"
 }

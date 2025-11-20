@@ -1,26 +1,27 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home"
-    ],
-    "id": "17134",
-    "code": "TSL-BT-FIHD",
-    "name": "Tesla Składana suszarka do włosów z jonizacją",
-    "price": 169.0,
-    "description": "<h2>Idealny partner w podróży</h2><p>Kompaktowy rozmiar, niska waga, możliwość złożenia. Trzy cechy, które sprawiają, że suszarka do włosów TESLA Foldabe Ionic Hair Dryer jest doskonałym pomocnikiem dla wszystkich użytkowników o aktywnym stylu życia. Pomimo kompaktowej konstrukcji suszarka zapewnia poziom funkcjonalności i wydajności podobny do standardowych suszarek do włosów.</p><h2>Poziom pielęgnacji, który pokochasz</h2><p>Możesz dostosować moc suszarki do swoich aktualnych potrzeb i cech włosów. Suszarka do włosów ma dwie prędkości suszenia, funkcję zimnego powietrza i charakteryzuje się wygodnym zamocowaniem dyfuzora, który znajduje się w wyposażeniu standardowym. Ponadto suszarka do włosów jest wyposażona w jonizator powietrza, który pomoże chronić włosy przed uszkodzeniem przez wysokie temperatury. Jony ujemne uszczelniają poszczególne włoski, dzięki czemu uzyskana fryzura jest gładka, błyszcząca i pozbawiona puszenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>10 szt</p></li><li><p>Wysokość:</p><p>7.5 cm</p></li><li><p>Szerokość:</p><p>20.8 cm</p></li><li><p>Głębokość:</p><p>12.8 cm</p></li><li><p>Waga:</p><p>0.7 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-skladana-suszarka-do-wl_63834.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63835.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63836.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63837.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63838.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63834.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63835.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63836.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63837.webp",
-        "galerie/t/tesla-skladana-suszarka-do-wl_63838.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home"
+  ],
+  "id": "17134",
+  "code": "TSL-BT-FIHD",
+  "name": "Tesla Składana suszarka do włosów z jonizacją",
+  "price": 169.0,
+  "description": "<h2>Idealny partner w podróży</h2><p>Kompaktowy rozmiar, niska waga, możliwość złożenia. Trzy cechy, które sprawiają, że suszarka do włosów TESLA Foldabe Ionic Hair Dryer jest doskonałym pomocnikiem dla wszystkich użytkowników o aktywnym stylu życia. Pomimo kompaktowej konstrukcji suszarka zapewnia poziom funkcjonalności i wydajności podobny do standardowych suszarek do włosów.</p><h2>Poziom pielęgnacji, który pokochasz</h2><p>Możesz dostosować moc suszarki do swoich aktualnych potrzeb i cech włosów. Suszarka do włosów ma dwie prędkości suszenia, funkcję zimnego powietrza i charakteryzuje się wygodnym zamocowaniem dyfuzora, który znajduje się w wyposażeniu standardowym. Ponadto suszarka do włosów jest wyposażona w jonizator powietrza, który pomoże chronić włosy przed uszkodzeniem przez wysokie temperatury. Jony ujemne uszczelniają poszczególne włoski, dzięki czemu uzyskana fryzura jest gładka, błyszcząca i pozbawiona puszenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>10 szt</p></li><li><p>Wysokość:</p><p>7.5 cm</p></li><li><p>Szerokość:</p><p>20.8 cm</p></li><li><p>Głębokość:</p><p>12.8 cm</p></li><li><p>Waga:</p><p>0.7 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-skladana-suszarka-do-wl_63834.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63835.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63836.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63837.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63838.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63834.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63835.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63836.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63837.webp",
+    "galerie/t/tesla-skladana-suszarka-do-wl_63838.webp"
+  ],
+  "manufacturer": "Tesla"
 }

@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Odkurzacze"
-    ],
-    "id": "17105",
-    "code": "TSL-VC-AI300MOP",
-    "name": "Smart Robot Vacuum AI300 Mopping Cloth 3x",
-    "price": 49.0,
-    "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>50 szt</p></li><li><p>Wysokość:</p><p>0.3 cm</p></li><li><p>Szerokość:</p><p>10.5 cm</p></li><li><p>Głębokość:</p><p>26.5 cm</p></li><li><p>Waga:</p><p>0.034 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/s/smart-robot-vacuum-ai300-mopp_64076.webp",
-        "galerie/s/smart-robot-vacuum-ai300-mopp_64077.webp",
-        "galerie/s/smart-robot-vacuum-ai300-mopp_64076.webp",
-        "galerie/s/smart-robot-vacuum-ai300-mopp_64077.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Odkurzacze"
+  ],
+  "id": "17105",
+  "code": "TSL-VC-AI300MOP",
+  "name": "Smart Robot Vacuum AI300 Mopping Cloth 3x",
+  "price": 49.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>50 szt</p></li><li><p>Wysokość:</p><p>0.3 cm</p></li><li><p>Szerokość:</p><p>10.5 cm</p></li><li><p>Głębokość:</p><p>26.5 cm</p></li><li><p>Waga:</p><p>0.034 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/s/smart-robot-vacuum-ai300-mopp_64076.webp",
+    "galerie/s/smart-robot-vacuum-ai300-mopp_64077.webp",
+    "galerie/s/smart-robot-vacuum-ai300-mopp_64076.webp",
+    "galerie/s/smart-robot-vacuum-ai300-mopp_64077.webp"
+  ],
+  "manufacturer": "Tesla"
 }

@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Myszki",
-        "Myszki bezprzewodowe"
-    ],
-    "id": "19409",
-    "code": "F1 MOBA BLACK",
-    "name": "Mysz VGN Dragonfly F1 PRO Moba Wireless Black",
-    "price": 309.0,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Bezprzewodowa mysz do gier VGN Dragonfly F1 Moba</h2><p>VGN Dragonfly F1 Moba to ultralekka i precyzyjna <strong>myszka bezprzewodowa dla graczy</strong>, która łączy w sobie nowoczesne komponenty, trwałość i maksymalny komfort użytkowania. Została stworzona z myślą o graczach, którzy oczekują natychmiastowej reakcji i pełnej kontroli w każdej sytuacji.</p><p>Za niezrównane wrażenia odpowiadają główne przełączniki Huano Ice Berry Pink Dot, oferujące przyjemne, wyraźne kliknięcie i szybką reakcję. Wbudowany czujnik PixArt PAW3395 pozwala na regulację rozdzielczości od 50 do 26 000 CPI, z możliwością precyzyjnego ustawienia co 50 CPI. Domyślna częstotliwość odpytywania wynosi 1000 Hz, ale po dokupieniu adaptera 4K można ją zwiększyć aż do 4000 Hz – co znacząco podnosi poziom reaktywności.</p><p>Połączenie bezprzewodowe 2.4 GHz zapewnia stabilność i niskie opóźnienia dzięki modułowi Nordic 52833. To <strong>bezprzewodowa myszka do komputera</strong>, która bez problemu radzi sobie nawet podczas najbardziej wymagających sesji. W razie potrzeby można z niej korzystać również podczas ładowania – za pomocą kabla USB-C.</p><h2>Zaawansowany czujnik zapewniający lepszą czułość</h2><p>Kluczowym atutem modelu Dragonfly F1 Moba jest czujnik PixArt PAW3395, zaprojektowany z myślą o ekstremalnie szybkim i precyzyjnym śledzeniu ruchów. Jego działanie jest pozbawione wygładzania, interpolacji i uśredniania – dzięki czemu każdy ruch odwzorowywany jest z maksymalną dokładnością. Taka charakterystyka to must-have dla każdego gracza, który oczekuje najwyższej klasy kontroli.</p><p>Użytkownik może skonfigurować rozdzielczość od 50 do 26 000 CPI w krokach co 50 CPI, a cztery ulubione wartości można zapisać w pamięci myszy i przełączać je za pomocą fizycznego przycisku. To świetne rozwiązanie dla osób, które często zmieniają styl gry. Dodatkowo oprogramowanie oferuje możliwość personalizacji podświetlenia RGB oraz innych parametrów działania. To <strong>myszka gamingowa bezprzewodowa</strong>, która pozwala w pełni dostosować się do Twoich potrzeb.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>ok. 121,2 x 37,6 x 63,5 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>ok. 55g</p></li><li><p>Materiały</p><p>tworzywo sztuczne (podwozie), PTFE (łyżwy)</p></li><li><p>Żywotność baterii</p><p>130 godzin</p></li><li><p>Czujnik</p><p>PixArt PAW3395</p></li><li><p>Rozdzielczość</p><p>do 26 000 CPI (regulowana w krokach co 50 CPI)</p></li><li><p>Mikrokontroler</p><p>Nordic 52833</p></li><li><p>Prędkość</p><p>650IPS</p></li><li><p>Przyspieszenie</p><p>50G</p></li><li><p>Odległość odrywania</p><p>1 mm</p></li><li><p>Częstotliwość odpytywania</p><p>1000 Hz (4000Hz po zakupie dodatkowego adaptera)</p></li><li><p>Przełączniki Główne przyciski</p><p>Huano Ice Berry Pink Dot</p></li><li><p>Średnia żywotność</p><p>90 milionów kliknięć</p></li><li><p>Kółko myszy</p><p>Enkoder TCC Silver, koder Kailh GE2.0</p></li><li><p>Kabel myszy</p><p>kabel USB-C do USB 2.0 typu A</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>VGN</p></li><li><p>Dane producenta</p><p>SHENZHEN TENGMI TECHNOLOGY CO.,LTD, ZhIHuiGu, BaoHuaSenTongLe ,Qianjin 2nd xixiang Street ,BaoAn District, Guangdong, 302 Room Shenzhen, Chiny</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland ,info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/vgn.jpg",
-    "images": [
-        "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71579.webp",
-        "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71580.webp",
-        "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71581.webp",
-        "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71579.webp",
-        "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71580.webp",
-        "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71581.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "19409",
+  "code": "F1 MOBA BLACK",
+  "name": "Mysz VGN Dragonfly F1 PRO Moba Wireless Black",
+  "price": 309.0,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Bezprzewodowa mysz do gier VGN Dragonfly F1 Moba</h2><p>VGN Dragonfly F1 Moba to ultralekka i precyzyjna <strong>myszka bezprzewodowa dla graczy</strong>, która łączy w sobie nowoczesne komponenty, trwałość i maksymalny komfort użytkowania. Została stworzona z myślą o graczach, którzy oczekują natychmiastowej reakcji i pełnej kontroli w każdej sytuacji.</p><p>Za niezrównane wrażenia odpowiadają główne przełączniki Huano Ice Berry Pink Dot, oferujące przyjemne, wyraźne kliknięcie i szybką reakcję. Wbudowany czujnik PixArt PAW3395 pozwala na regulację rozdzielczości od 50 do 26 000 CPI, z możliwością precyzyjnego ustawienia co 50 CPI. Domyślna częstotliwość odpytywania wynosi 1000 Hz, ale po dokupieniu adaptera 4K można ją zwiększyć aż do 4000 Hz – co znacząco podnosi poziom reaktywności.</p><p>Połączenie bezprzewodowe 2.4 GHz zapewnia stabilność i niskie opóźnienia dzięki modułowi Nordic 52833. To <strong>bezprzewodowa myszka do komputera</strong>, która bez problemu radzi sobie nawet podczas najbardziej wymagających sesji. W razie potrzeby można z niej korzystać również podczas ładowania – za pomocą kabla USB-C.</p><h2>Zaawansowany czujnik zapewniający lepszą czułość</h2><p>Kluczowym atutem modelu Dragonfly F1 Moba jest czujnik PixArt PAW3395, zaprojektowany z myślą o ekstremalnie szybkim i precyzyjnym śledzeniu ruchów. Jego działanie jest pozbawione wygładzania, interpolacji i uśredniania – dzięki czemu każdy ruch odwzorowywany jest z maksymalną dokładnością. Taka charakterystyka to must-have dla każdego gracza, który oczekuje najwyższej klasy kontroli.</p><p>Użytkownik może skonfigurować rozdzielczość od 50 do 26 000 CPI w krokach co 50 CPI, a cztery ulubione wartości można zapisać w pamięci myszy i przełączać je za pomocą fizycznego przycisku. To świetne rozwiązanie dla osób, które często zmieniają styl gry. Dodatkowo oprogramowanie oferuje możliwość personalizacji podświetlenia RGB oraz innych parametrów działania. To <strong>myszka gamingowa bezprzewodowa</strong>, która pozwala w pełni dostosować się do Twoich potrzeb.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>ok. 121,2 x 37,6 x 63,5 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>ok. 55g</p></li><li><p>Materiały</p><p>tworzywo sztuczne (podwozie), PTFE (łyżwy)</p></li><li><p>Żywotność baterii</p><p>130 godzin</p></li><li><p>Czujnik</p><p>PixArt PAW3395</p></li><li><p>Rozdzielczość</p><p>do 26 000 CPI (regulowana w krokach co 50 CPI)</p></li><li><p>Mikrokontroler</p><p>Nordic 52833</p></li><li><p>Prędkość</p><p>650IPS</p></li><li><p>Przyspieszenie</p><p>50G</p></li><li><p>Odległość odrywania</p><p>1 mm</p></li><li><p>Częstotliwość odpytywania</p><p>1000 Hz (4000Hz po zakupie dodatkowego adaptera)</p></li><li><p>Przełączniki Główne przyciski</p><p>Huano Ice Berry Pink Dot</p></li><li><p>Średnia żywotność</p><p>90 milionów kliknięć</p></li><li><p>Kółko myszy</p><p>Enkoder TCC Silver, koder Kailh GE2.0</p></li><li><p>Kabel myszy</p><p>kabel USB-C do USB 2.0 typu A</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>VGN</p></li><li><p>Dane producenta</p><p>SHENZHEN TENGMI TECHNOLOGY CO.,LTD, ZhIHuiGu, BaoHuaSenTongLe ,Qianjin 2nd xixiang Street ,BaoAn District, Guangdong, 302 Room Shenzhen, Chiny</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland ,info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/vgn.jpg",
+  "images": [
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71579.webp",
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71580.webp",
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71581.webp",
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71579.webp",
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71580.webp",
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-mob_71581.webp"
+  ],
+  "manufacturer": "VGN"
 }

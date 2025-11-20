@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Podkładki",
-        "Podkładki Medium"
-    ],
-    "id": "13817",
-    "code": "AQ-II-SAK-BLUE-XXL",
-    "name": "Podkładka X-Raypad Aqua Control II Sakura Blue XXL - 900x400mm",
-    "price": 179.0,
-    "description": "<p>Aqua Control II to seria podkładek pod mysz od X-Raypad zapewniająca idealny balans pomiędzy szybkością a kontrolą. Wykonano ją z niepowlekanej tkaniny Amundsen, która oferuje niskie tarcie początkowe, zapewniając zwiększoną prędkość ruchu zachowując przy tym wysoką precyzję.</p><p>Aqua Control II ma grubość 4mm co przekłada się na zwiększony komfort podczas rozgrywki. Spód podkładki wykonano z antypoślizgowej gumy, która zapobiega przesuwaniu się jej po powierzchni blatu biurka. Nie mogło zabraknąć obszytych rantów, które w przypadku Aqua Control II są niemalże płaskie, co eliminuje tarcia i podrażnienia nadgarstka.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wykonanie</p><p>Tkanina Amundsen</p></li><li><p>Powierzchnia</p><p>Speed &amp; Control</p></li><li><p>Baza</p><p>Antypoślizgowa guma</p></li><li><p>Krawędzie</p><p>Obszyte</p></li><li><p>Rozmiar</p><p>Duży 900 x 400 x 4 mm</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>X-Raypad</p></li><li><p>Dane producenta</p><p>X-ray Technology Co.,Ltd, Tianfeng Road, Dalingshan, DongGuan Guangdong, China, michael@xraypads.com</p></li><li><p>Podmiot odpowiedzialny</p><p>SUCCESS COURIER SL, CALLE RIO TORMES NUM. 1, PLANTA 1, DERECHA, OFICINA 3, Fuenlabrada, Madrid, 28947, Spain, successservice2@hotmail.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/x-raypad.jpg",
-    "images": [
-        "galerie/p/podkladka-x-raypad-aqua-contr_49829.webp",
-        "galerie/p/podkladka-x-raypad-aqua-contr_49829.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Podkładki",
+    "Podkładki Medium"
+  ],
+  "id": "13817",
+  "code": "AQ-II-SAK-BLUE-XXL",
+  "name": "Podkładka X-Raypad Aqua Control II Sakura Blue XXL - 900x400mm",
+  "price": 179.0,
+  "description": "<p>Aqua Control II to seria podkładek pod mysz od X-Raypad zapewniająca idealny balans pomiędzy szybkością a kontrolą. Wykonano ją z niepowlekanej tkaniny Amundsen, która oferuje niskie tarcie początkowe, zapewniając zwiększoną prędkość ruchu zachowując przy tym wysoką precyzję.</p><p>Aqua Control II ma grubość 4mm co przekłada się na zwiększony komfort podczas rozgrywki. Spód podkładki wykonano z antypoślizgowej gumy, która zapobiega przesuwaniu się jej po powierzchni blatu biurka. Nie mogło zabraknąć obszytych rantów, które w przypadku Aqua Control II są niemalże płaskie, co eliminuje tarcia i podrażnienia nadgarstka.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wykonanie</p><p>Tkanina Amundsen</p></li><li><p>Powierzchnia</p><p>Speed &amp; Control</p></li><li><p>Baza</p><p>Antypoślizgowa guma</p></li><li><p>Krawędzie</p><p>Obszyte</p></li><li><p>Rozmiar</p><p>Duży 900 x 400 x 4 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>X-Raypad</p></li><li><p>Dane producenta</p><p>X-ray Technology Co.,Ltd, Tianfeng Road, Dalingshan, DongGuan Guangdong, China, michael@xraypads.com</p></li><li><p>Podmiot odpowiedzialny</p><p>SUCCESS COURIER SL, CALLE RIO TORMES NUM. 1, PLANTA 1, DERECHA, OFICINA 3, Fuenlabrada, Madrid, 28947, Spain, successservice2@hotmail.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/x-raypad.jpg",
+  "images": [
+    "galerie/p/podkladka-x-raypad-aqua-contr_49829.webp",
+    "galerie/p/podkladka-x-raypad-aqua-contr_49829.webp"
+  ],
+  "manufacturer": "X-Raypad"
 }

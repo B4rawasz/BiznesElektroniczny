@@ -1,22 +1,23 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.0"
-    ],
-    "id": "20620",
-    "code": "ARTYX13",
-    "name": "Głośniki Rampage Arty X13 Soundbar",
-    "price": 129.99,
-    "description": "<h2>Rampage Arty X13 – głośniki gamingowe z Bluetooth i RGB 45dB</h2><p><strong>Rampage Arty X13</strong> to zestaw głośników dla graczy, który łączy wysoką jakość dźwięku z nowoczesnym designem. Dzięki technologii <strong>Bluetooth</strong>, dynamicznemu podświetleniu <strong>RGB</strong> oraz solidnej konstrukcji, głośniki te sprawdzą się zarówno w grach, jak i podczas słuchania muzyki czy oglądania filmów. Ich funkcjonalność i estetyka czynią je idealnym dodatkiem do każdego stanowiska gamingowego.</p><h2>Czysty dźwięk dla lepszych wrażeń</h2><p>Głośniki gamingowe Rampage Arty X13 oferują czysty i wyraźny dźwięk dzięki mocy <strong>RMS 3W na kanał</strong>. Idealnie sprawdzą się zarówno podczas intensywnych rozgrywek, jak i w codziennym użytkowaniu, zapewniając doskonałe wrażenia dźwiękowe.</p><h2>RGB LED dla wyjątkowej atmosfery</h2><p>Dynamiczne podświetlenie <strong>RGB</strong> nadaje stanowisku gamingowemu unikalny charakter. Możesz wybierać spośród różnych trybów oświetlenia, które dopasują się do Twojego nastroju lub stylu gry.</p><h2>Bezprzewodowa wygoda dzięki Bluetooth</h2><p>Dzięki wbudowanemu modułowi <strong>Bluetooth</strong>, głośniki pozwalają na szybkie i bezproblemowe połączenie z telefonem, laptopem czy tabletem. To praktyczne rozwiązanie, kiedy nie chcemy łączyć głośników po kablu.</p><h2>Łatwość użytkowania dzięki zasilaniu USB</h2><p>Rampage Arty X13 zasilane są za pomocą <strong>USB</strong>, co czyni je niezwykle prostymi w instalacji. Wystarczy podłączyć głośniki do portu USB, aby od razu cieszyć się ich funkcjonalnością.</p><h2>Kompaktowy i stylowy design</h2><p>Głośniki charakteryzują się nowoczesnym wyglądem i kompaktowymi wymiarami, dzięki czemu łatwo znajdą miejsce na każdym biurku. Ich elegancki design doskonale komponuje się z innymi akcesoriami gamingowymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Dźwięk wysokiej jakości</li><li>Podświetlenie RGB</li><li>Łączność Bluetooth i przewodowa</li><li>Zasilanie USB</li><li>Stylowy design</li><li>Dwie możliwości użytku: Głośniki możesz używać jako dwie osobne kolumny oraz połączyć w soundbar.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Impedancja</p><p>4 Ω</p></li><li><p>Napięcie zasilające</p><p>5 V</p></li><li><p>Moc głośników</p><p>10 W</p></li><li><p>Pasmo przenoszenia</p><p>150 Hz ~ 20000 Hz</p></li><li><p>Poziom głośności</p><p>45 dB</p></li><li><p>Rodzaj głośników</p><p>2.0</p></li><li><p>Podświetlenie RGB</p><p>tak</p></li><li><p>Złącza</p><p>Wtyk audio 3.5mm, Wtyk USB-A</p></li><li><p>Wysokość</p><p>7.4 cm</p></li><li><p>Szerokość</p><p>38 cm</p></li><li><p>Waga</p><p>0.749 kg</p></li><li><p>Głębokość</p><p>7.8 cm</p></li><li><p>Materiał zewnętrzny</p><p>ABS</p></li><li><p>Kolor</p><p>Czarny</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/rampage.jpg",
-    "images": [
-        "galerie/g/glosniki-rampage-arty-x13-sou_79961.webp",
-        "galerie/g/glosniki-rampage-arty-x13-sou_79959.webp",
-        "galerie/g/glosniki-rampage-arty-x13-sou_79960.webp",
-        "galerie/g/glosniki-rampage-arty-x13-sou_79961.webp",
-        "galerie/g/glosniki-rampage-arty-x13-sou_79959.webp",
-        "galerie/g/glosniki-rampage-arty-x13-sou_79960.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.0"
+  ],
+  "id": "20620",
+  "code": "ARTYX13",
+  "name": "Głośniki Rampage Arty X13 Soundbar",
+  "price": 129.99,
+  "description": "<h2>Rampage Arty X13 – głośniki gamingowe z Bluetooth i RGB 45dB</h2><p><strong>Rampage Arty X13</strong> to zestaw głośników dla graczy, który łączy wysoką jakość dźwięku z nowoczesnym designem. Dzięki technologii <strong>Bluetooth</strong>, dynamicznemu podświetleniu <strong>RGB</strong> oraz solidnej konstrukcji, głośniki te sprawdzą się zarówno w grach, jak i podczas słuchania muzyki czy oglądania filmów. Ich funkcjonalność i estetyka czynią je idealnym dodatkiem do każdego stanowiska gamingowego.</p><h2>Czysty dźwięk dla lepszych wrażeń</h2><p>Głośniki gamingowe Rampage Arty X13 oferują czysty i wyraźny dźwięk dzięki mocy <strong>RMS 3W na kanał</strong>. Idealnie sprawdzą się zarówno podczas intensywnych rozgrywek, jak i w codziennym użytkowaniu, zapewniając doskonałe wrażenia dźwiękowe.</p><h2>RGB LED dla wyjątkowej atmosfery</h2><p>Dynamiczne podświetlenie <strong>RGB</strong> nadaje stanowisku gamingowemu unikalny charakter. Możesz wybierać spośród różnych trybów oświetlenia, które dopasują się do Twojego nastroju lub stylu gry.</p><h2>Bezprzewodowa wygoda dzięki Bluetooth</h2><p>Dzięki wbudowanemu modułowi <strong>Bluetooth</strong>, głośniki pozwalają na szybkie i bezproblemowe połączenie z telefonem, laptopem czy tabletem. To praktyczne rozwiązanie, kiedy nie chcemy łączyć głośników po kablu.</p><h2>Łatwość użytkowania dzięki zasilaniu USB</h2><p>Rampage Arty X13 zasilane są za pomocą <strong>USB</strong>, co czyni je niezwykle prostymi w instalacji. Wystarczy podłączyć głośniki do portu USB, aby od razu cieszyć się ich funkcjonalnością.</p><h2>Kompaktowy i stylowy design</h2><p>Głośniki charakteryzują się nowoczesnym wyglądem i kompaktowymi wymiarami, dzięki czemu łatwo znajdą miejsce na każdym biurku. Ich elegancki design doskonale komponuje się z innymi akcesoriami gamingowymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Dźwięk wysokiej jakości</li><li>Podświetlenie RGB</li><li>Łączność Bluetooth i przewodowa</li><li>Zasilanie USB</li><li>Stylowy design</li><li>Dwie możliwości użytku: Głośniki możesz używać jako dwie osobne kolumny oraz połączyć w soundbar.</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Impedancja</p><p>4 Ω</p></li><li><p>Napięcie zasilające</p><p>5 V</p></li><li><p>Moc głośników</p><p>10 W</p></li><li><p>Pasmo przenoszenia</p><p>150 Hz ~ 20000 Hz</p></li><li><p>Poziom głośności</p><p>45 dB</p></li><li><p>Rodzaj głośników</p><p>2.0</p></li><li><p>Podświetlenie RGB</p><p>tak</p></li><li><p>Złącza</p><p>Wtyk audio 3.5mm, Wtyk USB-A</p></li><li><p>Wysokość</p><p>7.4 cm</p></li><li><p>Szerokość</p><p>38 cm</p></li><li><p>Waga</p><p>0.749 kg</p></li><li><p>Głębokość</p><p>7.8 cm</p></li><li><p>Materiał zewnętrzny</p><p>ABS</p></li><li><p>Kolor</p><p>Czarny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/rampage.jpg",
+  "images": [
+    "galerie/g/glosniki-rampage-arty-x13-sou_79961.webp",
+    "galerie/g/glosniki-rampage-arty-x13-sou_79959.webp",
+    "galerie/g/glosniki-rampage-arty-x13-sou_79960.webp",
+    "galerie/g/glosniki-rampage-arty-x13-sou_79961.webp",
+    "galerie/g/glosniki-rampage-arty-x13-sou_79959.webp",
+    "galerie/g/glosniki-rampage-arty-x13-sou_79960.webp"
+  ],
+  "manufacturer": "Rampage"
 }

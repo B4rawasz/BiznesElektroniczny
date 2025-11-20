@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Chłodzenie",
-        "Wentylatory 120mm"
-    ],
-    "id": "17745",
-    "code": "LUDC-002",
-    "name": "Wentylatory DeepCool FC120 ARGB 120mm – 3-pack",
-    "price": 119.9,
-    "description": "<p>Wentylator DeepCool FC120 Performance A-RGB PWM rewolucjonizuje zarządzanie kablami dzięki innowacyjnemu połączeniu łańcuchowemu. Przesyła to zarówno funkcje A-RGB, jak i zasilania, łączy wentylatory ze sobą i minimalizuje plątaninę kabli.</p><h2>Innowacyjne połączenie A-RGB</h2><p>Każdy wentylator FC120 wykorzystuje pojedynczy kabel do zasilania i sygnałów danych A-RGB, używanych w rzędzie wentylatorów, aby wyeliminować plątaninę kabli. System podłączenia wentylatorów eliminuje potrzebę stosowania koncentratora i umożliwia synchronizację sterowania PWM i A-RGB dla maksymalnie 4 wentylatorów.</p><h2>Blask</h2><p>Indywidualnie sterowane diody LED A-RGB otaczają centralną piastę i oświetlają każdą półprzezroczystą łopatkę wentylatora, tworząc klasyczny, żywy efekt świetlny. FC120 oferuje również standardowy wbudowany efekt świetlny bez konieczności stosowania oprogramowania lub specjalnego kontrolera. Pozwala to na szybką i łatwą konfigurację. Aby osiągnąć pełną harmonię systemu A-RGB, inne komponenty można zsynchronizować za pomocą oprogramowania sterującego A-RGB obsługiwanego przez płytę główną.</p><h2>Znakomita wydajność</h2><p>FC120 został precyzyjnie zaprojektowany, aby zapewnić lepsze ciśnienie statyczne i skoncentrowany przepływ powietrza, co zapewnia doskonałą wydajność chłodzenia. Wąska rama zapewnia łopatkom wentylatora większą powierzchnię, co dodatkowo zwiększa wydajność.</p><h2>Szczegóły, które robią różnicę</h2><p>Łopatki wentylatora wykonane z wysokiej jakości politereftalanu butylenu (PBT) zachwycają niezwykłą trwałością i odpornością na zużycie. Ich wysoka wytrzymałość na rozciąganie i sztywność minimalizują niepożądane wibracje.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 25 x 120 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>tworzywo sztuczne/guma</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Łożysko</p><p>łożysko ślizgowe z łożyskiem płynnym</p></li><li><p>Głośność</p><p>28 dB(A)</p></li><li><p>Prędkość</p><p>500 - 1800 obr./min</p></li><li><p>Ciśnienie statyczne</p><p>1,89 mmH2O</p></li><li><p>Wydajność dostawy</p><p>105,2 m³/h</p></li><li><p>Oświetlenie</p><p>A-RGB</p></li><li><p>Prąd</p><p>0,13 A</p></li><li><p>Napięcie</p><p>12 V</p></li><li><p>Pobór mocy</p><p>1,56 W</p></li><li><p>Połączenia</p><p>Wentylator: 4-pin PWM<br/>RGB: 3-pin (5VDG)</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/deepcool.jpg",
-    "images": [
-        "galerie/w/wentylatory-deepcool-fc120-ar_64873.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64874.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64875.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64876.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64877.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64878.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64879.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64873.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64874.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64875.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64876.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64877.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64878.webp",
-        "galerie/w/wentylatory-deepcool-fc120-ar_64879.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "17745",
+  "code": "LUDC-002",
+  "name": "Wentylatory DeepCool FC120 ARGB 120mm – 3-pack",
+  "price": 119.9,
+  "description": "<p>Wentylator DeepCool FC120 Performance A-RGB PWM rewolucjonizuje zarządzanie kablami dzięki innowacyjnemu połączeniu łańcuchowemu. Przesyła to zarówno funkcje A-RGB, jak i zasilania, łączy wentylatory ze sobą i minimalizuje plątaninę kabli.</p><h2>Innowacyjne połączenie A-RGB</h2><p>Każdy wentylator FC120 wykorzystuje pojedynczy kabel do zasilania i sygnałów danych A-RGB, używanych w rzędzie wentylatorów, aby wyeliminować plątaninę kabli. System podłączenia wentylatorów eliminuje potrzebę stosowania koncentratora i umożliwia synchronizację sterowania PWM i A-RGB dla maksymalnie 4 wentylatorów.</p><h2>Blask</h2><p>Indywidualnie sterowane diody LED A-RGB otaczają centralną piastę i oświetlają każdą półprzezroczystą łopatkę wentylatora, tworząc klasyczny, żywy efekt świetlny. FC120 oferuje również standardowy wbudowany efekt świetlny bez konieczności stosowania oprogramowania lub specjalnego kontrolera. Pozwala to na szybką i łatwą konfigurację. Aby osiągnąć pełną harmonię systemu A-RGB, inne komponenty można zsynchronizować za pomocą oprogramowania sterującego A-RGB obsługiwanego przez płytę główną.</p><h2>Znakomita wydajność</h2><p>FC120 został precyzyjnie zaprojektowany, aby zapewnić lepsze ciśnienie statyczne i skoncentrowany przepływ powietrza, co zapewnia doskonałą wydajność chłodzenia. Wąska rama zapewnia łopatkom wentylatora większą powierzchnię, co dodatkowo zwiększa wydajność.</p><h2>Szczegóły, które robią różnicę</h2><p>Łopatki wentylatora wykonane z wysokiej jakości politereftalanu butylenu (PBT) zachwycają niezwykłą trwałością i odpornością na zużycie. Ich wysoka wytrzymałość na rozciąganie i sztywność minimalizują niepożądane wibracje.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 25 x 120 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>tworzywo sztuczne/guma</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Łożysko</p><p>łożysko ślizgowe z łożyskiem płynnym</p></li><li><p>Głośność</p><p>28 dB(A)</p></li><li><p>Prędkość</p><p>500 - 1800 obr./min</p></li><li><p>Ciśnienie statyczne</p><p>1,89 mmH2O</p></li><li><p>Wydajność dostawy</p><p>105,2 m³/h</p></li><li><p>Oświetlenie</p><p>A-RGB</p></li><li><p>Prąd</p><p>0,13 A</p></li><li><p>Napięcie</p><p>12 V</p></li><li><p>Pobór mocy</p><p>1,56 W</p></li><li><p>Połączenia</p><p>Wentylator: 4-pin PWM<br/>RGB: 3-pin (5VDG)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/w/wentylatory-deepcool-fc120-ar_64873.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64874.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64875.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64876.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64877.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64878.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64879.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64873.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64874.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64875.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64876.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64877.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64878.webp",
+    "galerie/w/wentylatory-deepcool-fc120-ar_64879.webp"
+  ],
+  "manufacturer": "DeepCool"
 }

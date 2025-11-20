@@ -1,24 +1,25 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Monitory",
-        "Monitory"
-    ],
-    "id": "20761",
-    "code": "GCB3280QSU-B2",
-    "name": "Monitor 32\" iiyama G-Master GCB3280QSU-B2 Red Eagle - 180Hz | QHD | 31,5'' | VA | 0,2ms",
-    "price": 1099.0,
-    "description": "<h2>iiyama G-Master GCB3280QSU-B2 Red Eagle – zakrzywiony monitor gamingowy 180 Hz</h2><p>iiyama G-Master GCB3280QSU-B2 to 31,5-calowy monitor stworzony z myślą o graczach, którzy oczekują pełnej immersji i płynnej rozgrywki. Zakrzywiona matryca VA w rozdzielczości QHD (2560 x 1440) łączy wysoką szczegółowość obrazu z kontrastem 3000:1, co zapewnia wyraźne detale i głębokie barwy w każdej scenie.</p><h2>Płynność i szybkość reakcji</h2><p>Odświeżanie na poziomie 180 Hz i czas reakcji 0,2 ms redukują efekt smużenia i opóźnienia, co sprawia, że monitor doskonale nadaje się do dynamicznych gier akcji i e-sportu. Dzięki wsparciu technologii AMD FreeSync obraz jest wolny od zacięć i efektu tearingu.</p><h2>Komfort i ochrona wzroku</h2><p>Zakrzywiona konstrukcja dopasowana do naturalnego pola widzenia ogranicza zmęczenie oczu, a zastosowane technologie Flicker-Free i filtr światła niebieskiego dodatkowo wspierają komfort podczas długich sesji. Antyrefleksyjna powłoka poprawia widoczność w różnych warunkach oświetleniowych.</p><h2>Multimedia i łączność</h2><p>Monitor wyposażono w dwa wbudowane głośniki 2W, złącza HDMI 2.0 i DisplayPort 1.4, cztery porty USB 3.2 oraz wyjście słuchawkowe. Regulowana podstawa umożliwia dopasowanie wysokości, kąta nachylenia i obrotu, a zgodność z uchwytem VESA 100 × 100 mm daje dodatkową swobodę montażu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iiyama</p></li><li><p>Przekątna ekranu</p><p>31,5 cala</p></li><li><p>Rozdzielczość</p><p>2560 × 1440 (QHD)</p></li><li><p>Typ ekranu</p><p>Zakrzywiony</p></li><li><p>Typ matrycy</p><p>VA, LED</p></li><li><p>Częstotliwość odświeżania</p><p>180 Hz</p></li><li><p>Czas reakcji</p><p>0,2 ms</p></li><li><p>Kontrast</p><p>3000:1</p></li><li><p>Jasność</p><p>350 cd/m²</p></li><li><p>Kąty widzenia</p><p>178° / 178°</p></li><li><p>HDR</p><p>Tak</p></li><li><p>Liczba kolorów</p><p>16,7 mln</p></li><li><p>Złącza</p><p>1 × DisplayPort 1.4, 1 × HDMI 2.0, 4 × USB 3.2, 1 × audio</p></li><li><p>Głośniki</p><p>2 × 2 W</p></li><li><p>Funkcje gamingowe</p><p>AMD FreeSync, Flicker-Free, filtr światła niebieskiego</p></li><li><p>Regulacja</p><p>Wysokość, pochył, obrót</p></li><li><p>Wymiary</p><p>709,5 × 473–623 × 290 mm</p></li><li><p>Waga</p><p>9 kg</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Standard VESA</p><p>100 × 100 mm</p></li><li><p>Zużycie energii</p><p>44 W (klasa F)</p></li><li><p>Gwarancja</p><p>3 lata (serwis zewnętrzny)</p></li><li><p>Akcesoria w zestawie</p><p>Kabel DisplayPort, kabel HDMI, kabel USB, kabel zasilający</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iiyama</p></li><li><p>Dane producenta</p><p>iiyama International Corporate Headquarters, Wijkermeerstraat 8, 2131 HA Hoofddorp, The Netherlands, www.iiyama.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/iiyama.jpg",
-    "images": [
-        "galerie/m/monitor-32-iiyama-g-master-gc_78066.webp",
-        "galerie/m/monitor-32-iiyama-g-master-gc_78067.webp",
-        "galerie/m/monitor-32-iiyama-g-master-gc_78068.webp",
-        "galerie/m/monitor-32-iiyama-g-master-gc_78069.webp",
-        "galerie/m/monitor-32-iiyama-g-master-gc_78066.webp",
-        "galerie/m/monitor-32-iiyama-g-master-gc_78067.webp",
-        "galerie/m/monitor-32-iiyama-g-master-gc_78068.webp",
-        "galerie/m/monitor-32-iiyama-g-master-gc_78069.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Monitory"
+  ],
+  "id": "20761",
+  "code": "GCB3280QSU-B2",
+  "name": "Monitor 32\" iiyama G-Master GCB3280QSU-B2 Red Eagle - 180Hz | QHD | 31,5'' | VA | 0,2ms",
+  "price": 1099.0,
+  "description": "<h2>iiyama G-Master GCB3280QSU-B2 Red Eagle – zakrzywiony monitor gamingowy 180 Hz</h2><p>iiyama G-Master GCB3280QSU-B2 to 31,5-calowy monitor stworzony z myślą o graczach, którzy oczekują pełnej immersji i płynnej rozgrywki. Zakrzywiona matryca VA w rozdzielczości QHD (2560 x 1440) łączy wysoką szczegółowość obrazu z kontrastem 3000:1, co zapewnia wyraźne detale i głębokie barwy w każdej scenie.</p><h2>Płynność i szybkość reakcji</h2><p>Odświeżanie na poziomie 180 Hz i czas reakcji 0,2 ms redukują efekt smużenia i opóźnienia, co sprawia, że monitor doskonale nadaje się do dynamicznych gier akcji i e-sportu. Dzięki wsparciu technologii AMD FreeSync obraz jest wolny od zacięć i efektu tearingu.</p><h2>Komfort i ochrona wzroku</h2><p>Zakrzywiona konstrukcja dopasowana do naturalnego pola widzenia ogranicza zmęczenie oczu, a zastosowane technologie Flicker-Free i filtr światła niebieskiego dodatkowo wspierają komfort podczas długich sesji. Antyrefleksyjna powłoka poprawia widoczność w różnych warunkach oświetleniowych.</p><h2>Multimedia i łączność</h2><p>Monitor wyposażono w dwa wbudowane głośniki 2W, złącza HDMI 2.0 i DisplayPort 1.4, cztery porty USB 3.2 oraz wyjście słuchawkowe. Regulowana podstawa umożliwia dopasowanie wysokości, kąta nachylenia i obrotu, a zgodność z uchwytem VESA 100 × 100 mm daje dodatkową swobodę montażu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iiyama</p></li><li><p>Przekątna ekranu</p><p>31,5 cala</p></li><li><p>Rozdzielczość</p><p>2560 × 1440 (QHD)</p></li><li><p>Typ ekranu</p><p>Zakrzywiony</p></li><li><p>Typ matrycy</p><p>VA, LED</p></li><li><p>Częstotliwość odświeżania</p><p>180 Hz</p></li><li><p>Czas reakcji</p><p>0,2 ms</p></li><li><p>Kontrast</p><p>3000:1</p></li><li><p>Jasność</p><p>350 cd/m²</p></li><li><p>Kąty widzenia</p><p>178° / 178°</p></li><li><p>HDR</p><p>Tak</p></li><li><p>Liczba kolorów</p><p>16,7 mln</p></li><li><p>Złącza</p><p>1 × DisplayPort 1.4, 1 × HDMI 2.0, 4 × USB 3.2, 1 × audio</p></li><li><p>Głośniki</p><p>2 × 2 W</p></li><li><p>Funkcje gamingowe</p><p>AMD FreeSync, Flicker-Free, filtr światła niebieskiego</p></li><li><p>Regulacja</p><p>Wysokość, pochył, obrót</p></li><li><p>Wymiary</p><p>709,5 × 473–623 × 290 mm</p></li><li><p>Waga</p><p>9 kg</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Standard VESA</p><p>100 × 100 mm</p></li><li><p>Zużycie energii</p><p>44 W (klasa F)</p></li><li><p>Gwarancja</p><p>3 lata (serwis zewnętrzny)</p></li><li><p>Akcesoria w zestawie</p><p>Kabel DisplayPort, kabel HDMI, kabel USB, kabel zasilający</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iiyama</p></li><li><p>Dane producenta</p><p>iiyama International Corporate Headquarters, Wijkermeerstraat 8, 2131 HA Hoofddorp, The Netherlands, www.iiyama.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/iiyama.jpg",
+  "images": [
+    "galerie/m/monitor-32-iiyama-g-master-gc_78066.webp",
+    "galerie/m/monitor-32-iiyama-g-master-gc_78067.webp",
+    "galerie/m/monitor-32-iiyama-g-master-gc_78068.webp",
+    "galerie/m/monitor-32-iiyama-g-master-gc_78069.webp",
+    "galerie/m/monitor-32-iiyama-g-master-gc_78066.webp",
+    "galerie/m/monitor-32-iiyama-g-master-gc_78067.webp",
+    "galerie/m/monitor-32-iiyama-g-master-gc_78068.webp",
+    "galerie/m/monitor-32-iiyama-g-master-gc_78069.webp"
+  ],
+  "manufacturer": "iiyama"
 }

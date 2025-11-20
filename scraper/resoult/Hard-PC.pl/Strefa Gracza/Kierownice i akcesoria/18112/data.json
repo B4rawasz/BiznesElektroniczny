@@ -1,26 +1,27 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18112",
-    "code": "GAJO-453",
-    "name": "Hamulec ręczny MOZA HBP RS31",
-    "price": 494.9,
-    "description": "<p>Dodaj nowy wymiar do swojego simracingowego setupu z MOZA HBP Handbrake. Ten zaawansowany hamulec ręczny to idealne uzupełnienie, które zwiększa przyjemność z jazdy i kontrolę nad pojazdem. Dzięki realistycznemu wykonaniu, poczujesz się jak za kierownicą prawdziwego samochodu, zarówno drogowego, jak i wyścigowego.</p><h2>Realistyczny Design</h2><p>MOZA HBP Handbrake oferuje precyzyjne odwzorowanie rzeczywistego działania ręcznego hamulca, co pozwala na jeszcze głębsze zanurzenie się w symulacji.</p><h2>Indywidualna regulacja</h2><p>Dzięki możliwości dostosowania kąta nachylenia, możesz idealnie dopasować hamulec do swojego stylu jazdy. To zapewnia autentyczne odczucia zarówno w symulacjach wyścigowych, jak i drogowych.</p><h2>Wysokiej jakości sensor</h2><p>Wyposażona w czujnik o wysokiej precyzji, MOZA HBP Handbrake zapewnia dokładne i błyskawiczne reakcje, co pozwala na pełną kontrolę nad pojazdem.</p><h2>Regulacja</h2><p>Możliwość wymiany sprężyn pozwala na dostosowanie siły powrotu oraz długości hamowania. Dodatkowo, możesz precyzyjnie ustawić zachowanie ręcznego hamulca według własnych preferencji.</p><h2>Łatwe podłączenie</h2><p>MOZA HBP Handbrake można łatwo podłączyć do PC za pomocą portu USB, przez MOZA Universal HUB lub bezpośrednio do kompatybilnej podstawy MOZA.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>330 x 100 x 170 mm (szer. x wys. x gł.)</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Materiał</p><p>aluminium</p></li><li><p>Typ czujnika</p><p>czujnik Halla</p></li><li><p>Regulacja zachowania wyzwalacza</p><p>Tak</p></li><li><p>Kompatybilność</p><p>Bazy ze złączem hamulca ręcznego / PC</p></li><li><p>Połączenie</p><p>USB 2.0 typu B</p></li><li><p>W zestawie</p><p>1x hamulec ręczny SR-P HBP<br/>1x zestaw akcesoriów</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/m/moza-hbp-handbremse_66654.webp",
-        "galerie/m/moza-hbp-handbremse_66655.webp",
-        "galerie/m/moza-hbp-handbremse_66656.webp",
-        "galerie/m/moza-hbp-handbremse_66657.webp",
-        "galerie/m/moza-hbp-handbremse_66658.webp",
-        "galerie/m/moza-hbp-handbremse_66654.webp",
-        "galerie/m/moza-hbp-handbremse_66655.webp",
-        "galerie/m/moza-hbp-handbremse_66656.webp",
-        "galerie/m/moza-hbp-handbremse_66657.webp",
-        "galerie/m/moza-hbp-handbremse_66658.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18112",
+  "code": "GAJO-453",
+  "name": "Hamulec ręczny MOZA HBP RS31",
+  "price": 494.9,
+  "description": "<p>Dodaj nowy wymiar do swojego simracingowego setupu z MOZA HBP Handbrake. Ten zaawansowany hamulec ręczny to idealne uzupełnienie, które zwiększa przyjemność z jazdy i kontrolę nad pojazdem. Dzięki realistycznemu wykonaniu, poczujesz się jak za kierownicą prawdziwego samochodu, zarówno drogowego, jak i wyścigowego.</p><h2>Realistyczny Design</h2><p>MOZA HBP Handbrake oferuje precyzyjne odwzorowanie rzeczywistego działania ręcznego hamulca, co pozwala na jeszcze głębsze zanurzenie się w symulacji.</p><h2>Indywidualna regulacja</h2><p>Dzięki możliwości dostosowania kąta nachylenia, możesz idealnie dopasować hamulec do swojego stylu jazdy. To zapewnia autentyczne odczucia zarówno w symulacjach wyścigowych, jak i drogowych.</p><h2>Wysokiej jakości sensor</h2><p>Wyposażona w czujnik o wysokiej precyzji, MOZA HBP Handbrake zapewnia dokładne i błyskawiczne reakcje, co pozwala na pełną kontrolę nad pojazdem.</p><h2>Regulacja</h2><p>Możliwość wymiany sprężyn pozwala na dostosowanie siły powrotu oraz długości hamowania. Dodatkowo, możesz precyzyjnie ustawić zachowanie ręcznego hamulca według własnych preferencji.</p><h2>Łatwe podłączenie</h2><p>MOZA HBP Handbrake można łatwo podłączyć do PC za pomocą portu USB, przez MOZA Universal HUB lub bezpośrednio do kompatybilnej podstawy MOZA.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>330 x 100 x 170 mm (szer. x wys. x gł.)</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Materiał</p><p>aluminium</p></li><li><p>Typ czujnika</p><p>czujnik Halla</p></li><li><p>Regulacja zachowania wyzwalacza</p><p>Tak</p></li><li><p>Kompatybilność</p><p>Bazy ze złączem hamulca ręcznego / PC</p></li><li><p>Połączenie</p><p>USB 2.0 typu B</p></li><li><p>W zestawie</p><p>1x hamulec ręczny SR-P HBP<br/>1x zestaw akcesoriów</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/moza-hbp-handbremse_66654.webp",
+    "galerie/m/moza-hbp-handbremse_66655.webp",
+    "galerie/m/moza-hbp-handbremse_66656.webp",
+    "galerie/m/moza-hbp-handbremse_66657.webp",
+    "galerie/m/moza-hbp-handbremse_66658.webp",
+    "galerie/m/moza-hbp-handbremse_66654.webp",
+    "galerie/m/moza-hbp-handbremse_66655.webp",
+    "galerie/m/moza-hbp-handbremse_66656.webp",
+    "galerie/m/moza-hbp-handbremse_66657.webp",
+    "galerie/m/moza-hbp-handbremse_66658.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

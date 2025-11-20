@@ -1,27 +1,28 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Dom i Biuro",
-        "Smart Home",
-        "Odkurzacze"
-    ],
-    "id": "17206",
-    "code": "TSL-VC-R530",
-    "name": "Tesla Smart Robot sprzątający laserowy",
-    "price": 1599.0,
-    "description": "<p>Inteligentny robot odkurzacz TESLA z nawigacją laserową klasy premium odkurza i mopuje na wilgotno, nawet gdy nie ma Cię w domu. Omija przeszkody, dzieli dom na strefy i oferuje mnóstwo opcji sterowania.</p><h2>Robot, który nie zna przeszkód</h2><p>Inteligentny Robot Odkurzacz Laserowy TESLA z łatwością przekracza niskie progi, omija schody, ostrożnie nawiguje wokół kryształowego wazonu i nie pozostawia ani jednej plamki kurzu nawet w najdalszym kącie pod kanapą. Dzięki czujnikowi zapobiegającemu upadkowi i kolizjom oraz specjalnej konstrukcji, bez wysiłku pokonuje przeszkody o wysokości do 1,5 cm.</p><h2>Inteligentne połączenie</h2><p>Chcesz, aby Twój odkurzacz zaczynał pracę automatycznie każdego ranka o godzinie 9:00? Intensywnie wycierać kuchnię i unikać kącika dla dzieci? Potrzebujesz wytrzeć rozlane mleko w kuchni? Robot zrobi to wszystko za pomocą jednego kliknięcia w aplikacji TESLA Smart (w języku polskim). A dzięki inteligentnym ustawieniom możesz to robić nawet wtedy, gdy nie ma Cię w domu. Wykonuje więc swoją pracę bez przeszkadzania komukolwiek. Połączenie odkurzacza z innymi urządzeniami w inteligentnym domu sprawi, że będzie on automatycznie wyłączał się na przykład po włączeniu telewizora. Przy użyciu inteligentnych asystentów można sterować odkurzaczem za pomocą poleceń głosowych lub sterować nim za pomocą dołączonego pilota.</p><h2>Trzy tryby czyszczenia i tryb cichy</h2><p>Do wyboru są trzy intensywności czyszczenia: czyszczenie ekologiczne, czyszczenie standardowe lub czyszczenie intensywne.</p><h2>Automatyczne ładowanie</h2><p>Bateria o dużej pojemności w tym robocie-pomocniku pozwala na pełną moc nawet przez 140 minut jednorazowo. A jeśli będzie musiał poradzić sobie z naprawdę dużą i wielopiętrową powierzchnią, to również nie będzie to dla niego problem. Sam pojedzie, aby naładować baterie, a następnie dokończyć pracę.</p><h2>Bezkompromisowo potężna wydajność</h2><p>Inteligentny Robot Odkurzacz Laserowy TESLA z łatwością radzi sobie z każdym rodzajem podłóg, w tym z dywanami. Posiada bardzo dużą moc ssania 2200 Pa oraz wysokiej jakości wymienny filtr HEPA, który wychwytuje nawet najdrobniejszy kurz, roztocza i alergeny, więc oprócz precyzyjnie wyczyszczonej podłogi pomaga poprawić jakość powietrza w Twoim domu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>3 szt</p></li><li><p>Wysokość:</p><p>7 cm</p></li><li><p>Szerokość:</p><p>33 cm</p></li><li><p>Głębokość:</p><p>33 cm</p></li><li><p>Waga:</p><p>3.67 kg</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/tesla.jpg",
-    "images": [
-        "galerie/t/tesla-smart-robot-sprzatajacy_63067.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63068.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63069.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63070.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63071.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63067.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63068.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63069.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63070.webp",
-        "galerie/t/tesla-smart-robot-sprzatajacy_63071.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Odkurzacze"
+  ],
+  "id": "17206",
+  "code": "TSL-VC-R530",
+  "name": "Tesla Smart Robot sprzątający laserowy",
+  "price": 1599.0,
+  "description": "<p>Inteligentny robot odkurzacz TESLA z nawigacją laserową klasy premium odkurza i mopuje na wilgotno, nawet gdy nie ma Cię w domu. Omija przeszkody, dzieli dom na strefy i oferuje mnóstwo opcji sterowania.</p><h2>Robot, który nie zna przeszkód</h2><p>Inteligentny Robot Odkurzacz Laserowy TESLA z łatwością przekracza niskie progi, omija schody, ostrożnie nawiguje wokół kryształowego wazonu i nie pozostawia ani jednej plamki kurzu nawet w najdalszym kącie pod kanapą. Dzięki czujnikowi zapobiegającemu upadkowi i kolizjom oraz specjalnej konstrukcji, bez wysiłku pokonuje przeszkody o wysokości do 1,5 cm.</p><h2>Inteligentne połączenie</h2><p>Chcesz, aby Twój odkurzacz zaczynał pracę automatycznie każdego ranka o godzinie 9:00? Intensywnie wycierać kuchnię i unikać kącika dla dzieci? Potrzebujesz wytrzeć rozlane mleko w kuchni? Robot zrobi to wszystko za pomocą jednego kliknięcia w aplikacji TESLA Smart (w języku polskim). A dzięki inteligentnym ustawieniom możesz to robić nawet wtedy, gdy nie ma Cię w domu. Wykonuje więc swoją pracę bez przeszkadzania komukolwiek. Połączenie odkurzacza z innymi urządzeniami w inteligentnym domu sprawi, że będzie on automatycznie wyłączał się na przykład po włączeniu telewizora. Przy użyciu inteligentnych asystentów można sterować odkurzaczem za pomocą poleceń głosowych lub sterować nim za pomocą dołączonego pilota.</p><h2>Trzy tryby czyszczenia i tryb cichy</h2><p>Do wyboru są trzy intensywności czyszczenia: czyszczenie ekologiczne, czyszczenie standardowe lub czyszczenie intensywne.</p><h2>Automatyczne ładowanie</h2><p>Bateria o dużej pojemności w tym robocie-pomocniku pozwala na pełną moc nawet przez 140 minut jednorazowo. A jeśli będzie musiał poradzić sobie z naprawdę dużą i wielopiętrową powierzchnią, to również nie będzie to dla niego problem. Sam pojedzie, aby naładować baterie, a następnie dokończyć pracę.</p><h2>Bezkompromisowo potężna wydajność</h2><p>Inteligentny Robot Odkurzacz Laserowy TESLA z łatwością radzi sobie z każdym rodzajem podłóg, w tym z dywanami. Posiada bardzo dużą moc ssania 2200 Pa oraz wysokiej jakości wymienny filtr HEPA, który wychwytuje nawet najdrobniejszy kurz, roztocza i alergeny, więc oprócz precyzyjnie wyczyszczonej podłogi pomaga poprawić jakość powietrza w Twoim domu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>3 szt</p></li><li><p>Wysokość:</p><p>7 cm</p></li><li><p>Szerokość:</p><p>33 cm</p></li><li><p>Głębokość:</p><p>33 cm</p></li><li><p>Waga:</p><p>3.67 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-robot-sprzatajacy_63067.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63068.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63069.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63070.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63071.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63067.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63068.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63069.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63070.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63071.webp"
+  ],
+  "manufacturer": "Tesla"
 }

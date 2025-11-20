@@ -1,23 +1,24 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Dyski",
-        "Dyski SSD"
-    ],
-    "id": "17457",
-    "code": "SKC3000D/2048G",
-    "name": "Dysk SSD Kingston KC3000 2TB NVMe M.2 2280 7000/700MB/s",
-    "price": 699.0,
-    "description": "<h2>KC3000 PCIe 4.0 NVMe M.2 SSD - Wysokowydajna pamięć masowa do komputerów stacjonarnych i laptopów</h2><p>Kingston KC3000 PCIe 4.0 NVMe M.2 SSD zapewnia wyższą wydajność, wykorzystując najnowszy kontroler Gen 4x4 NVMe i pamięć 3D TLC NAND. Zmodernizuj pamięć masową i zwiększ niezawodność systemu, aby sprostać wymagającym obciążeniom i uzyskać lepszą wydajność aplikacji do renderowania 3D i tworzenia treści 4K+. Dzięki imponującej szybkości odczytu i zapisu (do 7000MB/s1) dysk umożliwia szybszą pracę na wysokowydajnych komputerach stacjonarnych i laptopach, dzięki czemu jest idealnym rozwiązaniem dla zaawansowanych użytkowników, którzy wymagają najszybszego sprzętu.</p><p>Kompaktowy format M.2 2280 doskonale pasuje do płyt głównych i zapewnia większą elastyczność tam, gdzie zaawansowani użytkownicy doceniają szybkość reakcji i doskonałe czasy ładowania.</p><p>Z myślą o różnych wymaganiach związanych z przechowywaniem danych dostępny jest szeroki wybór pojemności – od 512 do 4096GB2.</p><h2>Technologia PCIe 4.0 NVMe</h2><p>Korzystaj swobodnie z wymagających aplikacji dzięki szybkości odczytu/zapisu do 7000/7000MB/s1.</p><h2>Jeszcze więcej pamięci</h2><p>Zmodernizuj pamięć masową i zarządzaj nią, korzystając z pełnego wyboru pojemności — do 4096 GB2.</p><h2>Większa elastyczność</h2><p>Kompaktowy format M.2 z łatwością mieści się w obudowach komputerów typu SFF, komputerów stacjonarnych i laptopów.</p><h2>Niskoprofilowy aluminiowy radiator z powłoką grafenową</h2><p>Wyjątkowy system odprowadzania ciepła zapewnia maksymalną wydajność chłodzenia dysku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Interfejs</p><p>PCIe 4.0 x4 NVMe</p></li><li><p>Pojemność</p><p>2TB</p></li><li><p>Kontroler</p><p>Phison E18</p></li><li><p>NAND</p><p>3D TLC</p></li><li><p>Szybkość odczytu/zapisu sekwencyjnego</p><p>2048GB – 7000/7000MB/s</p></li><li><p>Losowy odczyt/zapis segmentów 4KB1</p><p>2048GB — do 1 000 000/1 000 000 IOPS</p></li><li><p>Całkowita liczba zapisanych bajtów (TBW)</p><p>2048GB – 1.6PBW</p></li><li><p>Pobór energii</p><p>2048GB – 50mW w stanie bezczynności / średnio 0,36W / 2,8W (maks.) przy odczycie / 9,9W (maks.) przy zapisie</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Kingston</p></li><li><p>Dane producenta</p><p>Kingston Technology Deutschland GmbH, Leonrodstraße 56, D-80636 München Niemcy, eu_pr@kingston.eu</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/kingston.jpg",
-    "images": [
-        "galerie/d/dysk-ssd-kingston-kc3000-2tb_63708.webp",
-        "galerie/d/dysk-ssd-kingston-kc3000-2tb_63709.webp",
-        "galerie/d/dysk-ssd-kingston-kc3000-2tb_63710.webp",
-        "galerie/d/dysk-ssd-kingston-kc3000-2tb_63708.webp",
-        "galerie/d/dysk-ssd-kingston-kc3000-2tb_63709.webp",
-        "galerie/d/dysk-ssd-kingston-kc3000-2tb_63710.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Dyski SSD"
+  ],
+  "id": "17457",
+  "code": "SKC3000D/2048G",
+  "name": "Dysk SSD Kingston KC3000 2TB NVMe M.2 2280 7000/700MB/s",
+  "price": 699.0,
+  "description": "<h2>KC3000 PCIe 4.0 NVMe M.2 SSD - Wysokowydajna pamięć masowa do komputerów stacjonarnych i laptopów</h2><p>Kingston KC3000 PCIe 4.0 NVMe M.2 SSD zapewnia wyższą wydajność, wykorzystując najnowszy kontroler Gen 4x4 NVMe i pamięć 3D TLC NAND. Zmodernizuj pamięć masową i zwiększ niezawodność systemu, aby sprostać wymagającym obciążeniom i uzyskać lepszą wydajność aplikacji do renderowania 3D i tworzenia treści 4K+. Dzięki imponującej szybkości odczytu i zapisu (do 7000MB/s1) dysk umożliwia szybszą pracę na wysokowydajnych komputerach stacjonarnych i laptopach, dzięki czemu jest idealnym rozwiązaniem dla zaawansowanych użytkowników, którzy wymagają najszybszego sprzętu.</p><p>Kompaktowy format M.2 2280 doskonale pasuje do płyt głównych i zapewnia większą elastyczność tam, gdzie zaawansowani użytkownicy doceniają szybkość reakcji i doskonałe czasy ładowania.</p><p>Z myślą o różnych wymaganiach związanych z przechowywaniem danych dostępny jest szeroki wybór pojemności – od 512 do 4096GB2.</p><h2>Technologia PCIe 4.0 NVMe</h2><p>Korzystaj swobodnie z wymagających aplikacji dzięki szybkości odczytu/zapisu do 7000/7000MB/s1.</p><h2>Jeszcze więcej pamięci</h2><p>Zmodernizuj pamięć masową i zarządzaj nią, korzystając z pełnego wyboru pojemności — do 4096 GB2.</p><h2>Większa elastyczność</h2><p>Kompaktowy format M.2 z łatwością mieści się w obudowach komputerów typu SFF, komputerów stacjonarnych i laptopów.</p><h2>Niskoprofilowy aluminiowy radiator z powłoką grafenową</h2><p>Wyjątkowy system odprowadzania ciepła zapewnia maksymalną wydajność chłodzenia dysku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Interfejs</p><p>PCIe 4.0 x4 NVMe</p></li><li><p>Pojemność</p><p>2TB</p></li><li><p>Kontroler</p><p>Phison E18</p></li><li><p>NAND</p><p>3D TLC</p></li><li><p>Szybkość odczytu/zapisu sekwencyjnego</p><p>2048GB – 7000/7000MB/s</p></li><li><p>Losowy odczyt/zapis segmentów 4KB1</p><p>2048GB — do 1 000 000/1 000 000 IOPS</p></li><li><p>Całkowita liczba zapisanych bajtów (TBW)</p><p>2048GB – 1.6PBW</p></li><li><p>Pobór energii</p><p>2048GB – 50mW w stanie bezczynności / średnio 0,36W / 2,8W (maks.) przy odczycie / 9,9W (maks.) przy zapisie</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Kingston</p></li><li><p>Dane producenta</p><p>Kingston Technology Deutschland GmbH, Leonrodstraße 56, D-80636 München Niemcy, eu_pr@kingston.eu</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/kingston.jpg",
+  "images": [
+    "galerie/d/dysk-ssd-kingston-kc3000-2tb_63708.webp",
+    "galerie/d/dysk-ssd-kingston-kc3000-2tb_63709.webp",
+    "galerie/d/dysk-ssd-kingston-kc3000-2tb_63710.webp",
+    "galerie/d/dysk-ssd-kingston-kc3000-2tb_63708.webp",
+    "galerie/d/dysk-ssd-kingston-kc3000-2tb_63709.webp",
+    "galerie/d/dysk-ssd-kingston-kc3000-2tb_63710.webp"
+  ],
+  "manufacturer": "Kingston"
 }

@@ -1,31 +1,32 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Zasilacze powyżej 700W"
-    ],
-    "id": "20774",
-    "code": "GC-PS007-SE",
-    "name": "Zasilacz Redragon GC-PS007-SE 850W 80 Plus Gold ATX 3.1",
-    "price": 349.0,
-    "description": "<h2>GC-PS0-007-SE – Wydajny zasilacz do komputera</h2><p>GC-PS007-SE to certyfikowany 80 Plus Gold, solidny zasilacz komputerowy o mocy 850W, spełniający wymagania najnowszych podzespołów. Dostępny w kolorze czarnym lub białym, wyróżnia się wysoką sprawnością potwierdzoną certyfikatem 80 Plus Gold, zapewniając stabilność oraz oszczędność energii nawet podczas intensywnego użytkowania. Kompaktowe wymiary 160 x 150 x 86 mm ułatwiają montaż w różnych obudowach, a cichy wentylator o średnicy 12 cm dba o optymalne chłodzenie podzespołów.</p><h2>Wysoka moc i pełna kompatybilność</h2><p>Zasilacz oferuje 850W mocy, co pozwala na stabilne zasilanie nawet najbardziej rozbudowanych zestawów komputerowych. Posiada szeroki wybór złączy, w tym 24-pin, IDE, SATA, PCI-E (w tym nowoczesny PCIE5.1 12V-2X6 12+4) oraz złącza CPU, dzięki czemu bez problemu obsłuży najnowsze podzespoły.</p><h2>Energooszczędność i bezpieczeństwo</h2><p>Certyfikat 80 Plus Gold gwarantuje wysoką sprawność energetyczną oraz niższe zużycie prądu. Zasilacz wyposażony jest w aktywny układ PFC/APFC, co przekłada się na większą stabilność napięć i bezpieczeństwo pracy.</p><h2>Wygoda użytkowania</h2><p>Długość przewodów zasilających (do 650 mm dla PCIE) zapewnia wygodę aranżacji wnętrza komputera. Wbudowany wyłącznik I/O oraz cichy wentylator zwiększają komfort codziennego użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>160 × 150 × 86 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Kolor kabli</p><p>Czarny</p></li><li><p>Kolor wtyczki</p><p>Czarny</p></li><li><p>Kolor wentylatora</p><p>Czarny</p></li><li><p>Wentylator</p><p>120 mm</p></li><li><p>Złącza</p><p>24P (20+4) ×1, IDE ×2, SATA ×4, PCI-E 8P (6+2) ×2, CPU 8P (4+4)&amp;(4+4) ×1, PCI-E 5.1 12V-2X6 (12+4) ×1</p></li><li><p>Długość kabla zasilającego</p><p>150 cm</p></li><li><p>Certyfikat</p><p>80 PLUS Gold</p></li><li><p>PFC</p><p>APFC</p></li><li><p>Moc</p><p>850 W</p></li><li><p>Standard</p><p>ATX 3.1</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Redragon Co.Ltd</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>ITRG-Zięba-Magiera-Stylińsk Spółka Jawna, ul. Christo Botrwa 6B/B4, 30-798 Kraków, handel@itrg.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/redragon.jpg",
-    "images": [
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78157.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78156.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78158.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78159.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78160.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78161.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78162.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78157.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78156.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78158.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78159.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78160.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78161.webp",
-        "galerie/z/zasilacz-redragon-gc-ps007-se_78162.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "20774",
+  "code": "GC-PS007-SE",
+  "name": "Zasilacz Redragon GC-PS007-SE 850W 80 Plus Gold ATX 3.1",
+  "price": 349.0,
+  "description": "<h2>GC-PS0-007-SE – Wydajny zasilacz do komputera</h2><p>GC-PS007-SE to certyfikowany 80 Plus Gold, solidny zasilacz komputerowy o mocy 850W, spełniający wymagania najnowszych podzespołów. Dostępny w kolorze czarnym lub białym, wyróżnia się wysoką sprawnością potwierdzoną certyfikatem 80 Plus Gold, zapewniając stabilność oraz oszczędność energii nawet podczas intensywnego użytkowania. Kompaktowe wymiary 160 x 150 x 86 mm ułatwiają montaż w różnych obudowach, a cichy wentylator o średnicy 12 cm dba o optymalne chłodzenie podzespołów.</p><h2>Wysoka moc i pełna kompatybilność</h2><p>Zasilacz oferuje 850W mocy, co pozwala na stabilne zasilanie nawet najbardziej rozbudowanych zestawów komputerowych. Posiada szeroki wybór złączy, w tym 24-pin, IDE, SATA, PCI-E (w tym nowoczesny PCIE5.1 12V-2X6 12+4) oraz złącza CPU, dzięki czemu bez problemu obsłuży najnowsze podzespoły.</p><h2>Energooszczędność i bezpieczeństwo</h2><p>Certyfikat 80 Plus Gold gwarantuje wysoką sprawność energetyczną oraz niższe zużycie prądu. Zasilacz wyposażony jest w aktywny układ PFC/APFC, co przekłada się na większą stabilność napięć i bezpieczeństwo pracy.</p><h2>Wygoda użytkowania</h2><p>Długość przewodów zasilających (do 650 mm dla PCIE) zapewnia wygodę aranżacji wnętrza komputera. Wbudowany wyłącznik I/O oraz cichy wentylator zwiększają komfort codziennego użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>160 × 150 × 86 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Kolor kabli</p><p>Czarny</p></li><li><p>Kolor wtyczki</p><p>Czarny</p></li><li><p>Kolor wentylatora</p><p>Czarny</p></li><li><p>Wentylator</p><p>120 mm</p></li><li><p>Złącza</p><p>24P (20+4) ×1, IDE ×2, SATA ×4, PCI-E 8P (6+2) ×2, CPU 8P (4+4)&amp;(4+4) ×1, PCI-E 5.1 12V-2X6 (12+4) ×1</p></li><li><p>Długość kabla zasilającego</p><p>150 cm</p></li><li><p>Certyfikat</p><p>80 PLUS Gold</p></li><li><p>PFC</p><p>APFC</p></li><li><p>Moc</p><p>850 W</p></li><li><p>Standard</p><p>ATX 3.1</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Redragon Co.Ltd</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>ITRG-Zięba-Magiera-Stylińsk Spółka Jawna, ul. Christo Botrwa 6B/B4, 30-798 Kraków, handel@itrg.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/redragon.jpg",
+  "images": [
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78157.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78156.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78158.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78159.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78160.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78161.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78162.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78157.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78156.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78158.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78159.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78160.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78161.webp",
+    "galerie/z/zasilacz-redragon-gc-ps007-se_78162.webp"
+  ],
+  "manufacturer": "Redragon Co.Ltd"
 }

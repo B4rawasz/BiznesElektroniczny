@@ -1,19 +1,20 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Gry planszowe",
-        "Akcesoria"
-    ],
-    "id": "19793",
-    "code": "9918995022706",
-    "name": "Farbka Citadel Mournfang Brown 12ml (base)",
-    "price": 12.9,
-    "description": "<h2>Mournfang Brown – farba do malowania brązowych detali i akcentów</h2><p>Mournfang Brown to farba Citadel, która charakteryzuje się ciepłym, głębokim brązowym odcieniem, doskonałym do malowania skórzanych detali, podstaw i wszelkich elementów, które wymagają naturalnego, brązowego wyglądu. Jest to farba o bogatej teksturze, idealna do uzyskiwania efektu zużytej skóry, drewnianych powierzchni czy naturalnych materiałów.</p><p>Dzięki swojej łatwej aplikacji, Mournfang Brown doskonale sprawdza się w malowaniu skórzanych akcentów na pancerzach, butach, rękawiczkach, jak również na elementach broni i drewna, nadając im autentyczny, realistyczny wygląd. Jest również świetnym wyborem do uzyskania efektu brudnej ziemi lub mokrawej gliny na sceneriach, dzięki czemu Twoje modele nabiorą wzbogaconego, naturalnego charakteru.</p><p>Farba ta ma świetne krycie, a jej ciepły odcień doskonale współpracuje z innymi farbami Citadel, co sprawia, że świetnie nadaje się do uzyskiwania głębokich kontrastów i tekstur. Mournfang Brown to doskonały wybór dla hobbystów, którzy szukają farby do uzyskania naturalnych, ciepłych odcieni na swoich modelach, szczególnie tych związanych z orkami, chaosowymi wojownikami czy wojownikami północy.</p>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
-    "manufacturer_img": "galerie/producenci/games-workshop.jpg",
-    "images": [
-        "galerie/f/farbka-citadel-mournfang-brow_73410.webp",
-        "galerie/f/farbka-citadel-mournfang-brow_73410.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Gry planszowe",
+    "Akcesoria"
+  ],
+  "id": "19793",
+  "code": "9918995022706",
+  "name": "Farbka Citadel Mournfang Brown 12ml (base)",
+  "price": 12.9,
+  "description": "<h2>Mournfang Brown – farba do malowania brązowych detali i akcentów</h2><p>Mournfang Brown to farba Citadel, która charakteryzuje się ciepłym, głębokim brązowym odcieniem, doskonałym do malowania skórzanych detali, podstaw i wszelkich elementów, które wymagają naturalnego, brązowego wyglądu. Jest to farba o bogatej teksturze, idealna do uzyskiwania efektu zużytej skóry, drewnianych powierzchni czy naturalnych materiałów.</p><p>Dzięki swojej łatwej aplikacji, Mournfang Brown doskonale sprawdza się w malowaniu skórzanych akcentów na pancerzach, butach, rękawiczkach, jak również na elementach broni i drewna, nadając im autentyczny, realistyczny wygląd. Jest również świetnym wyborem do uzyskania efektu brudnej ziemi lub mokrawej gliny na sceneriach, dzięki czemu Twoje modele nabiorą wzbogaconego, naturalnego charakteru.</p><p>Farba ta ma świetne krycie, a jej ciepły odcień doskonale współpracuje z innymi farbami Citadel, co sprawia, że świetnie nadaje się do uzyskiwania głębokich kontrastów i tekstur. Mournfang Brown to doskonały wybór dla hobbystów, którzy szukają farby do uzyskania naturalnych, ciepłych odcieni na swoich modelach, szczególnie tych związanych z orkami, chaosowymi wojownikami czy wojownikami północy.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Games Workshop</p></li><li><p>Dane producenta</p><p>Games Workshop EU Espana, c/d Oleart Abogados S.L.P., C/ Aragón, 208,210, Planta 4 Puerta 6, Barcelona, 08011, España, https://www.warhammer.com/en-GB/contact-us</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul><h2>Ogólne warunki bezpieczeństwa</h2><i>Produkt przeznaczony dla osób 12+. Z uwagi na małe elementy całkowity zakaz używania przez dzieci poniżej 3 roku życia. Produkt może mieć małe elementy i ostro zakończone krawędzie. Zachowaj ostrożność podczas odcinania elementów i trzymaj palce z dala od ostrza bądź szczęk obcinaczek. Jeśli produkt zawiera farby, proszę pamiętać by chronić skórę i oczy. Może powodować reakcję alergiczną. </i><p> </p>",
+  "manufacturer_img": "galerie/producenci/games-workshop.jpg",
+  "images": [
+    "galerie/f/farbka-citadel-mournfang-brow_73410.webp",
+    "galerie/f/farbka-citadel-mournfang-brow_73410.webp"
+  ],
+  "manufacturer": "Games Workshop"
 }

@@ -1,28 +1,29 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Gracza",
-        "Kierownice i akcesoria"
-    ],
-    "id": "18111",
-    "code": "GAJO-440",
-    "name": "Mechanizm kierownicy MOZA R9 V2 baza, serwo (9 Nm)",
-    "price": 1995.9,
-    "description": "<p>Podnieś swoje wyścigowe doświadczenia na wyższy poziom z MOZA R9 V2 Direct Drive Wheelbase. Ta zaawansowana podstawa kierownicy zapewnia realistyczne sterowanie i precyzyjny feedback, który zaspokoi potrzeby najbardziej wymagających kierowców wyścigowych.</p><h2>Mocny silnik Direct Drive</h2><p>Wyposażona w silnik direct drive o momencie obrotowym 9 Nm, MOZA R9 V2 oferuje wyjątkowe wrażenia z jazdy. Dzięki potężnemu silnikowi, każdy ruch toru jest odczuwany z najwyższą dokładnością, co pozwala na pełne kontrolowanie pojazdu w każdej sytuacji.</p><h2>Zaawansowany system chłodzenia</h2><p>Inteligentny system chłodzenia oraz wbudowane czujniki zapobiegają przegrzewaniu się silnika, nawet podczas intensywnych wyścigów. Wysokiej jakości aluminiowa obudowa z żebrami chłodzącymi dodatkowo wspiera efektywne odprowadzanie ciepła.</p><h2>Szybki procesor Quad-Core</h2><p>Dzięki wbudowanemu procesorowi quad-core, MOZA R9 V2 precyzyjnie oblicza nawet najbardziej złożone reakcje force feedback. Wszystkie warunki toru i ruchy pojazdu są przekazywane do kierowcy w czasie rzeczywistym z najwyższą dokładnością, zapewniając najlepsze możliwe wrażenia symulacyjne.</p><h2>Technologia Zero-Latency</h2><p>Technologia bez opóźnień umożliwia łatwe podłączenie kierownic bez dodatkowych kabli. Dane są przesyłane za pomocą powierzchni kontaktowej, co umożliwia korzystanie z mechanizmu szybkiego zwalniania, który jest standardem w kierownicach i podstawach MOZA.</p><h2>Kompaktowa konstrukcja</h2><p>MOZA R9 V2 została zaprojektowana z myślą o kompaktowych przestrzeniach, co pozwala na instalację w nawet najwęższych symulatorach.</p><h2>Wysokiej jakości materiały</h2><p>Aluminiowa obudowa nie tylko zapewnia trwałość, ale także elegancki wygląd, który doskonale wpisuje się w estetykę każdego wyścigowego setupu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>157 x 124 x 240 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>7 kg</p></li><li><p>Materiał</p><p>aluminium, plastik</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Łączność</p><p>USB</p></li><li><p>Platforma</p><p>PC</p></li><li><p>Napięcie</p><p>110–220 V AC do 36 V DC</p></li><li><p>Pobór mocy</p><p>180 W</p></li><li><p>Częstotliwość odświeżania USB</p><p>1000 Hz</p></li><li><p>Maksymalny moment obrotowy</p><p>9 Nm</p></li><li><p>Kompatybilne produkty MOZA</p><p> </p></li><li><p>Kierownice MOZA Racing z szybkozłączką D1 Spec (w tym kierownica MOZA ES)</p></li><li><p>W zestawie</p><p>1x MOZA R9 V2 Direct Drive Wheelbase<br/>1x zestaw montażowy i akcesoria</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/moza-racing.jpg",
-    "images": [
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66648.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66649.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66650.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66651.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66652.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66653.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66648.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66649.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66650.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66651.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66652.webp",
-        "galerie/m/moza-r9-v2-direct-drive-wheel_66653.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18111",
+  "code": "GAJO-440",
+  "name": "Mechanizm kierownicy MOZA R9 V2 baza, serwo (9 Nm)",
+  "price": 1995.9,
+  "description": "<p>Podnieś swoje wyścigowe doświadczenia na wyższy poziom z MOZA R9 V2 Direct Drive Wheelbase. Ta zaawansowana podstawa kierownicy zapewnia realistyczne sterowanie i precyzyjny feedback, który zaspokoi potrzeby najbardziej wymagających kierowców wyścigowych.</p><h2>Mocny silnik Direct Drive</h2><p>Wyposażona w silnik direct drive o momencie obrotowym 9 Nm, MOZA R9 V2 oferuje wyjątkowe wrażenia z jazdy. Dzięki potężnemu silnikowi, każdy ruch toru jest odczuwany z najwyższą dokładnością, co pozwala na pełne kontrolowanie pojazdu w każdej sytuacji.</p><h2>Zaawansowany system chłodzenia</h2><p>Inteligentny system chłodzenia oraz wbudowane czujniki zapobiegają przegrzewaniu się silnika, nawet podczas intensywnych wyścigów. Wysokiej jakości aluminiowa obudowa z żebrami chłodzącymi dodatkowo wspiera efektywne odprowadzanie ciepła.</p><h2>Szybki procesor Quad-Core</h2><p>Dzięki wbudowanemu procesorowi quad-core, MOZA R9 V2 precyzyjnie oblicza nawet najbardziej złożone reakcje force feedback. Wszystkie warunki toru i ruchy pojazdu są przekazywane do kierowcy w czasie rzeczywistym z najwyższą dokładnością, zapewniając najlepsze możliwe wrażenia symulacyjne.</p><h2>Technologia Zero-Latency</h2><p>Technologia bez opóźnień umożliwia łatwe podłączenie kierownic bez dodatkowych kabli. Dane są przesyłane za pomocą powierzchni kontaktowej, co umożliwia korzystanie z mechanizmu szybkiego zwalniania, który jest standardem w kierownicach i podstawach MOZA.</p><h2>Kompaktowa konstrukcja</h2><p>MOZA R9 V2 została zaprojektowana z myślą o kompaktowych przestrzeniach, co pozwala na instalację w nawet najwęższych symulatorach.</p><h2>Wysokiej jakości materiały</h2><p>Aluminiowa obudowa nie tylko zapewnia trwałość, ale także elegancki wygląd, który doskonale wpisuje się w estetykę każdego wyścigowego setupu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>157 x 124 x 240 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>7 kg</p></li><li><p>Materiał</p><p>aluminium, plastik</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Łączność</p><p>USB</p></li><li><p>Platforma</p><p>PC</p></li><li><p>Napięcie</p><p>110–220 V AC do 36 V DC</p></li><li><p>Pobór mocy</p><p>180 W</p></li><li><p>Częstotliwość odświeżania USB</p><p>1000 Hz</p></li><li><p>Maksymalny moment obrotowy</p><p>9 Nm</p></li><li><p>Kompatybilne produkty MOZA</p><p> </p></li><li><p>Kierownice MOZA Racing z szybkozłączką D1 Spec (w tym kierownica MOZA ES)</p></li><li><p>W zestawie</p><p>1x MOZA R9 V2 Direct Drive Wheelbase<br/>1x zestaw montażowy i akcesoria</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66648.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66649.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66650.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66651.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66652.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66653.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66648.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66649.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66650.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66651.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66652.webp",
+    "galerie/m/moza-r9-v2-direct-drive-wheel_66653.webp"
+  ],
+  "manufacturer": "Moza Racing"
 }

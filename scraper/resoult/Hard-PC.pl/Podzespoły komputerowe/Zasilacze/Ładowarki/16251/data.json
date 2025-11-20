@@ -1,21 +1,22 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Podzespoły komputerowe",
-        "Zasilacze",
-        "Ładowarki"
-    ],
-    "id": "16251",
-    "code": "C14086BK",
-    "name": "Przedłużacz USB-C Unitek 10Gbps 4K, PD 100W - 0,5 m",
-    "price": 35.99,
-    "description": "<h2>Mało brakowało</h2><p>Czasem potrzebujesz tylko kilku centymetrów kabla więcej. I tu wchodzi przedłużacz USB-C 3.1 Unitek. Cały na czarno. Jako jeden z niewielu przedłużaczy USB-C jest w pełni kompatybilny ze standardem USB 3.1 Gen2, a to znaczy, że zapewnia transfer na poziomie 10 Gb na sekundę, ładowanie 100W i video 4K.</p><h2>Przedłużacz USB C z PowerDelivery</h2><p>Technologia Power Delivery pozwala na zasilanie przez USB nie tylko smartfonów i tabletów, ale także dużych urządzeń jak notebooków np. MacBooka Pro. Natężenie 5A w połączeniu z napięciem 20 V daje nam moc 100W. Chip E-Mark wbudowany w końcówki dba o bezpieczeństwo ładowania. Pamiętaj, że ostateczna moc ładowania będzie zależna od pozostałych podłączonych urządzeń, nie wszystkie obsługują Power Delivery.</p><h2>Video przez kabel USB-C</h2><p>Złącze USB 3.1 drugiej generacji niczym nie ustępuje dedykowanym przewodom video. Obraz w jakości 4K przy próbkowaniu 60Hz, Full HD @ 120 Hz. Do tego oczywiście dźwięk stereo i możesz siadać do oglądania filmu lub gry. Żeby skorzystać z możliwości video, porty USB-C muszą być zgodne z Thunderbolt 3 lub DP Alt Mode.</p><h2>Kabel USB 10 Gbps</h2><p>Jeśli zależy Ci na bardzo dużej szybkości kopiowania danych, to także przedłużacz dla Ciebie. Niewiele urządzeń na rynku oferuje transfer wyższy niż 10 Gbps, a już na pewno nie żaden przedłużacz USB-C. Jest oczywiście wstecznie kompatybilny z USB 3.0, USB 2,0, USB 1.1.</p><h2>Wygoda używania</h2><p>Przedłużka USB-C o długości 50 cm świetnie sprawdzi się, jeśli port USB-C jest zamontowany z tyłu obudowy twojego komputera stacjonarnego, a chcesz sprawić, by Twoja praca była nieco wygodniejsza. Kabel szczególnie nadaje się do podłączenia rozładowanego Nintendo Go do stacji dokującej – możesz jednocześnie grać i ładować pada.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>Standard USB</p><p>USB 10Gbps</p></li><li><p>Złącze 2</p><p>Port USB-C</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Moc (W)</p><p>100 W</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/unitek.jpg",
-    "images": [
-        "galerie/p/przedluzacz-usb-c-unitek-10gb_57690.webp",
-        "galerie/p/przedluzacz-usb-c-unitek-10gb_57691.webp",
-        "galerie/p/przedluzacz-usb-c-unitek-10gb_57690.webp",
-        "galerie/p/przedluzacz-usb-c-unitek-10gb_57691.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Ładowarki"
+  ],
+  "id": "16251",
+  "code": "C14086BK",
+  "name": "Przedłużacz USB-C Unitek 10Gbps 4K, PD 100W - 0,5 m",
+  "price": 35.99,
+  "description": "<h2>Mało brakowało</h2><p>Czasem potrzebujesz tylko kilku centymetrów kabla więcej. I tu wchodzi przedłużacz USB-C 3.1 Unitek. Cały na czarno. Jako jeden z niewielu przedłużaczy USB-C jest w pełni kompatybilny ze standardem USB 3.1 Gen2, a to znaczy, że zapewnia transfer na poziomie 10 Gb na sekundę, ładowanie 100W i video 4K.</p><h2>Przedłużacz USB C z PowerDelivery</h2><p>Technologia Power Delivery pozwala na zasilanie przez USB nie tylko smartfonów i tabletów, ale także dużych urządzeń jak notebooków np. MacBooka Pro. Natężenie 5A w połączeniu z napięciem 20 V daje nam moc 100W. Chip E-Mark wbudowany w końcówki dba o bezpieczeństwo ładowania. Pamiętaj, że ostateczna moc ładowania będzie zależna od pozostałych podłączonych urządzeń, nie wszystkie obsługują Power Delivery.</p><h2>Video przez kabel USB-C</h2><p>Złącze USB 3.1 drugiej generacji niczym nie ustępuje dedykowanym przewodom video. Obraz w jakości 4K przy próbkowaniu 60Hz, Full HD @ 120 Hz. Do tego oczywiście dźwięk stereo i możesz siadać do oglądania filmu lub gry. Żeby skorzystać z możliwości video, porty USB-C muszą być zgodne z Thunderbolt 3 lub DP Alt Mode.</p><h2>Kabel USB 10 Gbps</h2><p>Jeśli zależy Ci na bardzo dużej szybkości kopiowania danych, to także przedłużacz dla Ciebie. Niewiele urządzeń na rynku oferuje transfer wyższy niż 10 Gbps, a już na pewno nie żaden przedłużacz USB-C. Jest oczywiście wstecznie kompatybilny z USB 3.0, USB 2,0, USB 1.1.</p><h2>Wygoda używania</h2><p>Przedłużka USB-C o długości 50 cm świetnie sprawdzi się, jeśli port USB-C jest zamontowany z tyłu obudowy twojego komputera stacjonarnego, a chcesz sprawić, by Twoja praca była nieco wygodniejsza. Kabel szczególnie nadaje się do podłączenia rozładowanego Nintendo Go do stacji dokującej – możesz jednocześnie grać i ładować pada.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>10 Gbps</p></li><li><p>Standard USB</p><p>USB 10Gbps</p></li><li><p>Złącze 2</p><p>Port USB-C</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Moc (W)</p><p>100 W</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/p/przedluzacz-usb-c-unitek-10gb_57690.webp",
+    "galerie/p/przedluzacz-usb-c-unitek-10gb_57691.webp",
+    "galerie/p/przedluzacz-usb-c-unitek-10gb_57690.webp",
+    "galerie/p/przedluzacz-usb-c-unitek-10gb_57691.webp"
+  ],
+  "manufacturer": "Unitek"
 }

@@ -1,34 +1,35 @@
 {
-    "category": [
-        "Hard-PC.pl",
-        "Strefa Dźwięku",
-        "Głośniki - Zestawy 2.0"
-    ],
-    "id": "15867",
-    "code": "S1000MKII brown",
-    "name": "Głośniki Edifier S1000MKII 2.0 Brązowe",
-    "price": 1099.0,
-    "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Dźwięk jest bardzo ważny, dlatego warto wyposażyć się w zestaw, który będzie cieszył ucho swoim brzmieniem, a nie im szkodził Edifier S1000 MKII to zestaw głośników wysokiej klasy, które sprawią, że na nowo zakochałam się w naszych ulubionych utworach!</p><h2>Nienaganny wygląd głośników wpasuje się do każdego wnętrza</h2><p>Aktywny system głośników Edifier S1000 MKII może pochwalić się niesamowitymi właściwościami muzycznymi oraz niebanalnym wyglądem. Konstrukcja głośników została wykonana z płyty MDF, która ma pozytywny wpływ na ostateczny wydźwięk muzyki płynącej z głośników. Głośniki nie tylko grają świetnie, ale również bardzo dobrze się prezentują i z pewnością będą pasować do każdego wystroju wnętrz.</p><h2>Ciesz się każdym dźwiękiem</h2><p>Edifier S1000 MKII to głośniki, które potrafią zachwycić swoim brzmieniem. Producent postawił tutaj na 1-calowe głośniki średnich tonów oraz 5,5-calowe głośniki tonów niskich wyposażone w aluminiowe membrany. Takie połączenie sprawia, że dźwięk wydobywający się z S1000 MKII jest bogaty w zarówno w wysokie, średnie i niskie tony. Świetnie zbalansowany dźwięk pozwala się cieszyć każdą nutą.</p><p>Łączna moc głośników to 120 W, co sprawia, że Edifier S1000 MKII świetnie sprawdzą się w salonie, biurze czy sali konferencyjnej.</p><h2>Wygodne i komfortowe sterowanie zestawem</h2><p>Głośniki Edifier S1000 MKII korzystają z wydajnej i bezstratnej technologii Bluetooth 5.0. Wspierają także sygnał audio o częstotliwości próbkowania 24 BIT/216 kHZ. Producent wyposażył je w wejścia AUX, Balanced Input, Bluetooth, wejście optyczne oraz koaksjalne. Zestawem możemy sterować za pomocą dołączonego do zestawu pilota zdalnego sterowania, bądź panelu tylnym umieszczonym na jednej z kolumn.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:<!-- ATRYBUTY --></h2><ul class=\"list-specification\"><li><p>Całkowita moc wyjściowa</p><p>RMS 25Wx2 + 35Wx2 (Średnie tony niskie)</p></li><li><p>Stosunek sygnału do szumu</p><p>≥ 90dBA</p></li><li><p>Pasmo przenoszenia</p><p>45Hz - 40kHz</p></li><li><p>Czułość wejściowa</p><p>Line in 1 750±50mV / Line in 2 900±50mV / OPT, COX 350 mFFs ± 50 mFFs / Bluetooth 450±50mV</p></li><li><p>Jednostka średnio/niskotonowa</p><p>5.5”</p></li><li><p>Jednostka wysokich tonów</p><p>1”</p></li><li><p>Oporność</p><p>Głośnik wysokotonowy 4Ω；<br/>Głośnik niskotonowy 4Ω</p></li></ul></article>",
-    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
-    "manufacturer_img": "galerie/producenci/edifier.jpg",
-    "images": [
-        "galerie/g/glosniki-edifier-s1000mkii-2_56514.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56515.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56516.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56517.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56518.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56519.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56520.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56521.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56522.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56514.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56515.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56516.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56517.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56518.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56519.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56520.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56521.webp",
-        "galerie/g/glosniki-edifier-s1000mkii-2_56522.webp"
-    ]
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Głośniki - Zestawy 2.0"
+  ],
+  "id": "15867",
+  "code": "S1000MKII brown",
+  "name": "Głośniki Edifier S1000MKII 2.0 Brązowe",
+  "price": 1099.0,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Dźwięk jest bardzo ważny, dlatego warto wyposażyć się w zestaw, który będzie cieszył ucho swoim brzmieniem, a nie im szkodził Edifier S1000 MKII to zestaw głośników wysokiej klasy, które sprawią, że na nowo zakochałam się w naszych ulubionych utworach!</p><h2>Nienaganny wygląd głośników wpasuje się do każdego wnętrza</h2><p>Aktywny system głośników Edifier S1000 MKII może pochwalić się niesamowitymi właściwościami muzycznymi oraz niebanalnym wyglądem. Konstrukcja głośników została wykonana z płyty MDF, która ma pozytywny wpływ na ostateczny wydźwięk muzyki płynącej z głośników. Głośniki nie tylko grają świetnie, ale również bardzo dobrze się prezentują i z pewnością będą pasować do każdego wystroju wnętrz.</p><h2>Ciesz się każdym dźwiękiem</h2><p>Edifier S1000 MKII to głośniki, które potrafią zachwycić swoim brzmieniem. Producent postawił tutaj na 1-calowe głośniki średnich tonów oraz 5,5-calowe głośniki tonów niskich wyposażone w aluminiowe membrany. Takie połączenie sprawia, że dźwięk wydobywający się z S1000 MKII jest bogaty w zarówno w wysokie, średnie i niskie tony. Świetnie zbalansowany dźwięk pozwala się cieszyć każdą nutą.</p><p>Łączna moc głośników to 120 W, co sprawia, że Edifier S1000 MKII świetnie sprawdzą się w salonie, biurze czy sali konferencyjnej.</p><h2>Wygodne i komfortowe sterowanie zestawem</h2><p>Głośniki Edifier S1000 MKII korzystają z wydajnej i bezstratnej technologii Bluetooth 5.0. Wspierają także sygnał audio o częstotliwości próbkowania 24 BIT/216 kHZ. Producent wyposażył je w wejścia AUX, Balanced Input, Bluetooth, wejście optyczne oraz koaksjalne. Zestawem możemy sterować za pomocą dołączonego do zestawu pilota zdalnego sterowania, bądź panelu tylnym umieszczonym na jednej z kolumn.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:<!-- ATRYBUTY --></h2><ul class=\"list-specification\"><li><p>Całkowita moc wyjściowa</p><p>RMS 25Wx2 + 35Wx2 (Średnie tony niskie)</p></li><li><p>Stosunek sygnału do szumu</p><p>≥ 90dBA</p></li><li><p>Pasmo przenoszenia</p><p>45Hz - 40kHz</p></li><li><p>Czułość wejściowa</p><p>Line in 1 750±50mV / Line in 2 900±50mV / OPT, COX 350 mFFs ± 50 mFFs / Bluetooth 450±50mV</p></li><li><p>Jednostka średnio/niskotonowa</p><p>5.5”</p></li><li><p>Jednostka wysokich tonów</p><p>1”</p></li><li><p>Oporność</p><p>Głośnik wysokotonowy 4Ω；<br/>Głośnik niskotonowy 4Ω</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Edifier</p></li><li><p>Dane producenta</p><p>Edifier International Limited, P.0.Box 6264, General Post Office Hong Kong, Chiny, legal@themisar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>THEMIS AR Unterstützung UG, Beedstrasse 54, In Dusseldorf (40468), Niemcy, legal@themisar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/edifier.jpg",
+  "images": [
+    "galerie/g/glosniki-edifier-s1000mkii-2_56514.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56515.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56516.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56517.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56518.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56519.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56520.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56521.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56522.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56514.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56515.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56516.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56517.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56518.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56519.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56520.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56521.webp",
+    "galerie/g/glosniki-edifier-s1000mkii-2_56522.webp"
+  ],
+  "manufacturer": "Edifier"
 }
