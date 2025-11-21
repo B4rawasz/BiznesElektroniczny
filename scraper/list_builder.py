@@ -23,7 +23,7 @@ def main():
                 continue
             if manufacturer not in manufacturers:
                 print("Processing manufacturer:", manufacturer)
-                manufacturers[manufacturer] = []
+                manufacturers[manufacturer] = os.path.join(dirpath, "manufacturer_logo.jpg")
                 
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(manufacturers, f, ensure_ascii=False, indent=2)
