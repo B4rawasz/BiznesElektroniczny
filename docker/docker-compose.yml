@@ -21,6 +21,8 @@ services:
       - "443:443"
     depends_on:
       - database
+    volumes:
+      - ../classic2:/var/www/html/themes/classic2
     networks:
       - prestashop-network
 
