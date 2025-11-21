@@ -1,0 +1,6 @@
+/.vscode
+__pycache__/
+*.pyc
+product_links.txt
+sample_product.html
+category_links.txt
