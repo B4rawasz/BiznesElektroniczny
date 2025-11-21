@@ -80,12 +80,12 @@ global_settings:
         - ps_banner
         - ps_customtext
         - ps_newproducts
+        - ps_emailsubscription
+        - ps_specials
       displayFooterBefore:
         - blockreassurance
-        - ps_emailsubscription
         - ps_socialfollow
       displayFooter:
-        - ps_viewedproduct
         - ps_linklist
         - ps_customeraccountlinks
         - ps_contactinfo
