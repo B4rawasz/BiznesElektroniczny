@@ -1,26 +1,30 @@
 <div id="_desktop_user_info">
   <div class="user-info">
-    <a>
-    <i class="icon-user"></i>
-    </a>
     {if $logged}
-      <a
-        class="logout hidden-sm-down"
-        href="{$urls.actions.logout}"
-        rel="nofollow"
-      >
-        <i class="material-icons">&#xE7FF;</i>
-        {l s='Sign out' d='Shop.Theme.Actions'}
-      </a>
-
       <a
         class="account"
         href="{$urls.pages.my_account}"
         title="{l s='View my customer account' d='Shop.Theme.Customeraccount'}"
         rel="nofollow"
       >
-        <i class="material-icons hidden-md-up logged">&#xE7FF;</i>
-        <span class="hidden-sm-down">{$customerName}</span>
+        <i class="icon-user"></i>
+        <span class="hidden-sm-down">Twoje konto</span>
+      </a>
+
+      <a>
+        Program lojalnościowy
+      </a>
+
+      <a>
+        Współpraca
+      </a>
+
+      <a
+        class="logout hidden-sm-down"
+        href="{$urls.actions.logout}"
+        rel="nofollow"
+      >
+        <span class="hidden-sm-down">Wyloguj się</span>
       </a>
 
   {else}
@@ -31,6 +35,7 @@
       rel="nofollow"
       class="login-link"
     >
+      <i class="icon-user"></i>
       <span class="hidden-sm-down">Zaloguj się</span>
     </a>
 
