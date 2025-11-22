@@ -12,7 +12,7 @@ import product_schema
 import sale_schema
 import stock_schema
 
-TOTALY_SECRET_API_KEY = "2YNTE1A6YHCVRWAVT62V1GA58I7IMI5Q"
+TOTALY_SECRET_API_KEY = "8IP8ZBCLII3B6MS84U1C5469W7PRT1SX"
 BASE_URL = "https://localhost/api/"
 
 BASE_PATH = Path(__file__).resolve().parent.resolve()
