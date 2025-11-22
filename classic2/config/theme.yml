@@ -58,6 +58,7 @@ global_settings:
         - blockreassurance
       displayNavFullWidth:
         - blockreassurance
+        - ps_mainmenu
       displayAdminCustomers:
         - blockwishlist
       displayCustomerAccount:
@@ -70,10 +71,9 @@ global_settings:
         - ps_languageselector
         - ps_currencyselector
         - ps_customersignin
-        - ps_shoppingcart
       displayTop:
-        - ps_mainmenu
         - ps_searchbar
+        - ps_shoppingcart
       displayHome:
         - ps_imageslider
         - ps_featuredproducts
@@ -84,7 +84,6 @@ global_settings:
         - ps_specials
       displayFooterBefore:
         - blockreassurance
-        - ps_socialfollow
       displayFooter:
         - ps_linklist
         - ps_customeraccountlinks

@@ -36,7 +36,9 @@
         d='Shop.Theme.Global'
       }
     {else}
-      <a href="{$urls.pages.contact}">{l s='Contact us' d='Shop.Theme.Global'}</a>
+      <a href="tel:48813070345">{l s='+48 813 070 345' d='Shop.Theme.Global'}</a>
+      <i class="icon-phone"></i>
+      <a href="{$urls.pages.contact}" class="contact-link-text">{l s='Kontakt' d='Shop.Theme.Global'}</a>
     {/if}
   </div>
 </div>

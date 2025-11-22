@@ -78,6 +78,7 @@
 
 {block name='stylesheets'}
   {include file="_partials/stylesheets.tpl" stylesheets=$stylesheets}
+  <link rel="stylesheet" href="{$shop_url}/themes/classic2/assets/css/custom.css?v=1">
 {/block}
 
 {block name='javascript_head'}

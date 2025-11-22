@@ -25,10 +25,13 @@
 
 {block name='block_social'}
   <div class="block-social col-lg-4 col-md-12 col-sm-12">
-    <ul>
-      {foreach from=$social_links item='social_link'}
-        <li class="{$social_link.class}"><a href="{$social_link.url}" target="_blank" rel="noopener noreferrer">{$social_link.label}</a></li>
-      {/foreach}
-    </ul>
+  <ul class="list-social">
+						<li><a href="https://www.instagram.com/hardpc.pl/" title="zobacz nasz Instagram" target="_blank"
+								rel="noreferrer"><i class="icon-instagram"></i></a></li>
+						<li><a href="https://www.facebook.com/HardPcpl/" title="zobacz nasz Facebook" target="_blank"
+								rel="noreferrer"><i class="icon-facebook"></i></a></li>
+						<li><a href="https://www.youtube.com/HardPcTV" title="zobacz kanał na YouTube" target="_blank"
+								rel="noreferrer"><i class="icon-youtube"></i></a></li>
+					</ul>
   </div>
 {/block}
