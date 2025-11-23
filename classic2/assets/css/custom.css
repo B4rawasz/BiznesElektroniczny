@@ -1,5 +1,10 @@
 /* === ROBOTO – z SUCRO / screen.css === */
 
+body {
+	width: 100vw;
+	overflow-x: hidden;
+}
+
 @font-face {
 	font-family: "icomoon";
 	src: url("../css/icomoon.woff2") format("woff2");
@@ -485,4 +490,13 @@ textarea {
 	font-size: 15px;
 	font-weight: 400;
 	font-family: Roboto, sans-serif;
+}
+
+#wrapper {
+	padding-top: 0;
+}
+
+#carousel {
+	width: 100vw;
+	margin-left: calc(-50vw + 50%);
 }
