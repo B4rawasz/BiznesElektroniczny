@@ -30,6 +30,22 @@
         {block name='page_content'}
           {block name='hook_home'}
             {$HOOK_HOME nofilter}
+            <ul class="list-i-goowno">
+							<li>
+								<p><i class="icon-call-center"></i> Profesjonalne doradztwo</p>
+								<p>W zakresie wyboru sprzętu</p>
+							</li>
+							<li>
+								<p><i class="icon-security"></i> Bezpieczne zakupy</p>
+								<p>W pełni szyfrowane połączenie SSL</p>
+							</li>
+							<li>
+								<p><i class="icon-return"></i> Bezproblemowe zwroty</p>
+								<p>Do 14 dni bez podania przyczyny</p>
+							</li>
+						</ul>
+            {hook h='displayHome2'}
+            {hook h='displayHome3'}
           {/block}
         {/block}
       </section>
