@@ -1,6 +1,9 @@
 {assign var=_counter value=0}
 {function name="menu" nodes=[] depth=0 parent=null}
     {if $nodes|count}
+    {if $depth == 0}
+    <div class="container">
+    {/if}
       <ul class="top-menu" {if $depth == 0}id="top-menu"{/if} data-depth="{$depth}">
         {foreach from=$nodes item=node}
             <li class="{$node.type}{if $node.current} current {/if}" id="{$node.page_identifier}">
@@ -30,6 +33,9 @@
             </li>
         {/foreach}
       </ul>
+    {if $depth == 0}
+    </div>
+    {/if}
     {/if}
 {/function}
 

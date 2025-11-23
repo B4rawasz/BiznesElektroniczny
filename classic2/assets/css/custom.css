@@ -355,3 +355,134 @@ textarea {
 #header .logo {
 	width: 230px;
 }
+
+.icon-cart::before {
+	content: "\e905";
+	font-size: 25px;
+}
+
+.icon-cart-arrow::before {
+	content: "\e90f";
+	font-size: 8px;
+}
+
+.icon-cart-arrow {
+	display: inline-block;
+	transform-origin: center center;
+	transition: all 0.3s ease;
+	position: absolute;
+	top: 17%;
+	right: 11px;
+	margin-top: -4px;
+}
+
+#_desktop_cart a {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	position: relative;
+	padding: 7px 28px 7px 12px;
+	border-radius: 4px;
+	background: #3a70ea;
+	color: #fff;
+	font-weight: 700;
+}
+
+#_desktop_cart a:hover {
+	background: #57c548;
+	color: #fff;
+}
+
+#_desktop_cart a:hover .icon-cart-arrow {
+	top: 30%;
+	right: 18px;
+	transform: rotate(-90deg);
+}
+
+#_desktop_cart .header {
+	display: flex;
+	align-items: center;
+	color: #3c3c3c;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 1.1;
+}
+
+#_desktop_cart .cart-value {
+	color: #3a70ea;
+	font-size: 17px;
+	font-weight: 700;
+	margin-right: 20px;
+	margin-left: 11px;
+}
+
+#header .menu {
+	width: 100%;
+	background: #3a70ea;
+}
+
+#header .menu #top-menu {
+	display: flex;
+	height: 48px;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.top-menu a[data-depth="0"] {
+	font-size: 14px;
+	color: #fff !important;
+	font-weight: 500;
+	position: relative;
+}
+
+.top-menu a[data-depth="0"]::after {
+	content: "\e90f";
+	font-size: 8px;
+	font-family: "icomoon" !important;
+	font-style: normal;
+	font-weight: normal;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	line-height: 1;
+	padding-left: 2px;
+}
+
+.top-menu a[data-depth="0"]::before {
+	top: 50%;
+	left: auto;
+	right: -2px;
+	width: 1px;
+	height: 13px;
+	margin-top: -6.5px;
+	background: #c1d3ec;
+	content: "";
+	display: block;
+	overflow: hidden;
+	position: absolute;
+	bottom: 0;
+	text-align: left;
+	text-indent: -3000em;
+	direction: ltr;
+}
+
+.top-menu .sub-menu {
+	width: 1040px;
+	min-width: auto;
+	max-width: auto;
+	left: 11%;
+}
+
+.top-menu a[data-depth="1"] {
+	color: #3c3c3c !important;
+	font-size: 17px;
+	font-weight: 700;
+	font-family: Roboto, sans-serif;
+}
+
+.top-menu a[data-depth="2"] {
+	color: #3a70ea !important;
+	font-size: 15px;
+	font-weight: 400;
+	font-family: Roboto, sans-serif;
+}
