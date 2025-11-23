@@ -25,10 +25,11 @@
 
 <section class="featured-products clearfix mt-3">
   <h2 class="h2 products-section-title text-uppercase">
-    {l s='On sale' d='Shop.Theme.Catalog'}
+    <span>Promocje</span>
+    <span>Produkty w specjalnie obniżonej cenie. Śpiesz się, ilość produktów i czas trwania ograniczony.</span>
   </h2>
   {include file="catalog/_partials/productlist3.tpl" products=$products productClass="col-xs-12 col-sm-6 col-lg-4 col-xl-3"}
   <a class="all-product-link float-xs-left float-md-right h4" href="{$allSpecialProductsLink}">
-    {l s='All sale products' d='Shop.Theme.Catalog'}<i class="material-icons">&#xE315;</i>
+    Zobacz wszystkie promocje
   </a>
 </section>

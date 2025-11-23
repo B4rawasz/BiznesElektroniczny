@@ -51,27 +51,15 @@
           {/if}
         {/block}
 
-        <div class="highlighted-informations{if !$product.main_variants} no-variants{/if}">
-          {block name='quick_view'}
-            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
-              <i class="material-icons search">&#xE8B6;</i> {l s='Quick view' d='Shop.Theme.Actions'}
-            </a>
-          {/block}
-
-          {block name='product_variants'}
-            {if $product.main_variants}
-              {include file='catalog/_partials/variant-links.tpl' variants=$product.main_variants}
-            {/if}
-          {/block}
-        </div>
+        
       </div>
 
       <div class="product-description">
         {block name='product_name'}
           {if $page.page_name == 'index'}
-            <h3 class="h3 product-title"><a href="{$product.url}" content="{$product.url}">{$product.name|truncate:30:'...'}</a></h3>
+            <h3 class="h3 product-title"><a href="{$product.url}" content="{$product.url}">{$product.name|truncate:60:'...'}</a></h3>
           {else}
-            <h2 class="h3 product-title"><a href="{$product.url}" content="{$product.url}">{$product.name|truncate:30:'...'}</a></h2>
+            <h2 class="h3 product-title"><a href="{$product.url}" content="{$product.url}">{$product.name|truncate:60:'...'}</a></h2>
           {/if}
         {/block}
 
@@ -100,15 +88,18 @@
                 {/if}
               </span>
 
+              {if $product.has_discount}
+                <span class="regular-price-30-o">
+                <span class="regular-price-30">Najniższa cena z 30 dni:</span>
+                <span class="regular-price-30">{$product.regular_price}</span>
+                </span>
+              {/if}
+
               {hook h='displayProductPriceBlock' product=$product type='unit_price'}
 
               {hook h='displayProductPriceBlock' product=$product type='weight'}
             </div>
           {/if}
-        {/block}
-
-        {block name='product_reviews'}
-          {hook h='displayProductListReviews' product=$product}
         {/block}
       </div>
 
