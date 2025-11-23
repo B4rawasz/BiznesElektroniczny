@@ -84,9 +84,6 @@ global_settings:
       displayFooterBefore:
         - blockreassurance
       displayFooter:
-        - ps_linklist
-        - ps_customeraccountlinks
-        - ps_contactinfo
         - blockwishlist
       displayFooterAfter:
         - blockreassurance

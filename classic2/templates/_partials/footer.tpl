@@ -31,7 +31,219 @@
 </div>
 <div class="footer-container">
   <div class="container">
+      <ul class="list-a">
+					<li><i class="icon-address"></i> Hard-Pc.pl, ul. Długa 6, 24-300 Opole lubelskie</li>
+					<li><i class="icon-phone"></i> <a href="tel:48813070345" class="link-phone" title="zadzwoń +48 813070345 "><span>+48</span> 813 070 345</a></li>
+					<li><i class="icon-mail"></i> <a href="mailto:info@hard-pc.pl" title="napisz wiadomość e-mail">info@hard-pc.pl</a></li>
+				</ul>
     <div class="row">
+      <div class="col-md-3 wrapper">
+        <p class="h3 hidden-sm-down">Informacje</p>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href="/content/4-about-us"
+                  title=""
+                  target=""
+              >
+                O nas
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href="/kontakt"
+                  title=""
+                  target=""
+              >
+                Kontakt
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Program lojalnościowy
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Oferty pracy
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Usługi IT dla firm
+              </a>
+            </li>
+        </ul>
+      </div>
+      <div class="col-md-3 wrapper">
+        <p class="h3 hidden-sm-down">Dla kupujących</p>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Regulamin
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Polityka Prywatności
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Reklamacje
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Odstąpienie od umowy
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Formy płatności i koszty transportu
+              </a>
+            </li>
+        </ul>
+      </div>
+      <div class="col-md-3 wrapper">
+        <p class="h3 hidden-sm-down">Konto klienta</p>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Ustawienia konta
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Historia zamówień
+              </a>
+            </li>
+        </ul>
+      </div>
+      <div class="col-md-3 wrapper">
+        <p class="h3 hidden-sm-down">Zestawy komputerowe</p>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Do 2 500,00 zł
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Do 3 000,00 zł
+              </a>
+            </li>
+        </ul>
+        <ul>
+          <li>
+              <a
+                  id=""
+                  class=""
+                  href=""
+                  title=""
+                  target=""
+              >
+                Do 4 000,00 zł
+              </a>
+            </li>
+        </ul>
+      </div>
       {block name='hook_footer'}
         {hook h='displayFooter'}
       {/block}
@@ -45,9 +257,8 @@
       <div class="col-md-12">
         <p class="text-sm-center">
           {block name='copyright_link'}
-            <a href="https://www.prestashop.com" target="_blank" rel="noopener noreferrer nofollow">
-              {l s='%copyright% %year% - Ecommerce software by %prestashop%' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
-            </a>
+            © Hard-Pc.pl. Wszelkie prawa zastrzeżone. Oprogramowanie kqs.store
+Realizacja: sucro.pl
           {/block}
         </p>
       </div>
