@@ -10,7 +10,7 @@ def toXAMLSaleSchema(product_id: int) -> str:
     <id_customer><![CDATA[0]]></id_customer>
     <price><![CDATA[-1]]></price>
     <from_quantity><![CDATA[1]]></from_quantity>
-    <reduction><![CDATA[0.15]]></reduction>
+    <reduction><![CDATA[0.10]]></reduction>
     <reduction_tax><![CDATA[1]]></reduction_tax>
     <reduction_type><![CDATA[percentage]]></reduction_type>
     <from><![CDATA[0000-00-00 00:00:00]]></from>

@@ -12,7 +12,7 @@ import product_schema
 import sale_schema
 import stock_schema
 
-TOTALY_SECRET_API_KEY = "8IP8ZBCLII3B6MS84U1C5469W7PRT1SX"
+TOTALY_SECRET_API_KEY = "M59TMFDBC6SK45M8CK5QUWXLMEML9A1A"
 BASE_URL = "https://localhost/api/"
 
 BASE_PATH = Path(__file__).resolve().parent.resolve()
@@ -77,6 +77,10 @@ def upload_manufacturers():
                     print(f"Failed to upload logo for '{manufacturer}': {img_response.status_code} - {img_response.text}")
         else:
             print(f"Failed to upload manufacturer '{manufacturer}': {response.text}")
+    
+    #save manufacturers_ids to file
+    with open(BASE_PATH / "manufacturer_ids.json", "w", encoding="utf-8") as f:
+        json.dump(manufacturers_ids, f, ensure_ascii=False, indent=2)
 
 def upload_category(parent_id: int, category_name: str, subcategories: dict):
     
@@ -135,7 +139,21 @@ def upload_category(parent_id: int, category_name: str, subcategories: dict):
     else:
         print(f"Failed to upload category '{category_name}': {response.text}")
 
+    #save category_ids to file
+    with open(BASE_PATH / "category_ids.json", "w", encoding="utf-8") as f:
+        json.dump(category_ids, f, ensure_ascii=False, indent=2)
+
 def upload_products():
+    #read manufacturers_ids from file
+    global manufacturers_ids
+    with open(BASE_PATH / "manufacturer_ids.json", "r", encoding="utf-8") as f:
+        manufacturers_ids = json.load(f)
+
+    #read category_ids from file
+    global category_ids
+    with open(BASE_PATH / "category_ids.json", "r", encoding="utf-8") as f:
+        category_ids = json.load(f)
+
     for dirpath, _, filenames in os.walk(DATA_PATH / "Hard-PC.pl"):
         for fn in filenames:
             if fn.lower() != "data.json":
@@ -156,6 +174,10 @@ def upload_products():
 
             category_name = data.get("category")[-1]
             category_id = category_ids.get(category_name, 2)
+
+            if category_id is None:
+                print(f"Category '{category_name}' not found for product '{data.get('name', '')}'. Skipping product.")
+                continue
 
             product_data = product_schema.toXAMLProductSchema(
                 manufacturer_id=manufacturer_id,
@@ -217,24 +239,11 @@ def upload_products():
 
                 # upload images
                 for img_idx in range(1, 4):
-                    image_path = Path(dirpath) / f"image_{img_idx}.webp"
+                    image_path = Path(dirpath) / f"image_{img_idx}.png"
                     if not image_path.exists():
                         continue
 
-                    with Image.open(image_path) as img:
-                        img.save("temp_image.png", "png")
-
-                    # check if image is under 2MB, if not, resize
-                    if os.path.getsize("temp_image.png") > 2 * 1024 * 1024:
-                        with Image.open("temp_image.png") as img:
-                            # save proportions
-                            aspect_ratio = img.width / img.height
-                            new_width = 1024
-                            new_height = int(new_width / aspect_ratio)
-                            img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
-                            img.save("temp_image.png", "png")
-
-                    with open("temp_image.png", "rb") as img_file:
+                    with open(image_path, "rb") as img_file:
                         files = {'image': img_file}
                         img_response = requests.post(
                             BASE_URL + f"images/products/{new_product_id}",

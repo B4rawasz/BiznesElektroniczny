@@ -49,13 +49,6 @@ with open("product_links.txt", "w", encoding="utf-8") as file:
 with open("category_links.txt", "w", encoding="utf-8") as file:
     for category_link in category_links:
         file.write(category_link + "\n")
-#response_product = requests.get(product_links[0])
-#soup_product = BeautifulSoup(response_product.content, "html.parser")
-
-#with open("sample_product.html", "w", encoding="utf-8") as file:
-#    file.write(str(soup_product))
-
-#data = extractor.extract(soup_product)
 
 def scrape_products():
     for idx, product_link in enumerate(product_links):
