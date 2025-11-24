@@ -1111,6 +1111,10 @@ textarea {
 	font-weight: 400;
 }
 
+#wrapper .breadcrumb {
+	margin-bottom: 0;
+}
+
 #wrapper .breadcrumb .container {
 	height: 100%;
 	display: flex;
@@ -1169,4 +1173,134 @@ textarea {
 	width: 100vw;
 	height: 48px;
 	margin-left: calc(-50vw + 50%);
+}
+
+#main #js-product-list-header {
+	width: 100vw;
+	margin-left: calc(-50vw + 50%);
+	background-image: url("../img/strefa-gracza.png");
+	background-repeat: no-repeat;
+}
+
+#main #js-product-list-header[data-category-id="73"],
+#main #js-product-list-header[data-category-id="74"],
+#main #js-product-list-header[data-category-id="75"],
+#main #js-product-list-header[data-category-id="76"],
+#main #js-product-list-header[data-category-id="77"],
+#main #js-product-list-header[data-category-id="78"],
+#main #js-product-list-header[data-category-id="79"],
+#main #js-product-list-header[data-category-id="80"],
+#main #js-product-list-header[data-category-id="81"],
+#main #js-product-list-header[data-category-id="82"] {
+	background-image: url("../img/strefa-dzwieku.png");
+}
+
+#main #js-product-list-header .block-category {
+	background-color: transparent;
+}
+
+#main #js-product-list-header .block-category #category-description h1 {
+	margin-bottom: 10px;
+	margin-top: 30px;
+	color: #fff;
+	font-size: 23px;
+	font-weight: 500;
+	line-height: 1.02;
+}
+
+#main #js-product-list-header .block-category #category-description h2 {
+	margin-bottom: 10px;
+	color: #fff;
+	font-size: 23px;
+	font-weight: 500;
+	line-height: 1.02;
+}
+
+#main #js-product-list-header .block-category #category-description p {
+	color: #fff;
+	font-family: Roboto, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.44;
+}
+
+#main #js-product-list-header .block-category #category-description p strong {
+	color: #fff;
+	font-family: Roboto, sans-serif;
+	font-size: 16px;
+	line-height: 1.44;
+	font-weight: bolder;
+}
+
+#main #js-product-list-header .block-category #category-description p a {
+	display: none;
+}
+
+#main #js-product-list-header .block-category #category-description-spacer {
+	width: calc(100% + 60px);
+	margin-left: -30px;
+	height: 1px;
+	background-color: #fff;
+	margin-top: 20px;
+}
+
+#main #js-product-list-header #subcategories {
+	background-color: transparent;
+}
+
+#subcategories .subcategories-list {
+	display: flex;
+	flex-direction: row;
+	gap: 5px;
+}
+
+#main #js-product-list-header #subcategories .subcategories-list li {
+	border-radius: 4px;
+	background: #f4f4f6;
+	min-width: 154px;
+	width: 154px;
+	height: 180px;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#subcategories ul li .subcategory-image {
+	padding: 0;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#subcategories ul li .subcategory-image a {
+	border: none;
+	padding: 0;
+}
+
+#subcategories ul li {
+	padding: 12px 10px 0;
+}
+
+#subcategories ul li .subcategory-name {
+	text-transform: none !important;
+	height: 30px;
+	color: #3a70ea;
+	font-size: 15px;
+	line-height: 1.01;
+	text-align: center;
+	font-weight: 300;
+}
+
+#subcategories ul li:hover .subcategory-image a {
+	padding: 0;
+	border: 0;
+}
+
+#subcategories ul li .subcategory-image a img {
+	height: 106px;
+	width: 114px;
+	object-fit: cover;
+	transform: scale(1.2);
 }

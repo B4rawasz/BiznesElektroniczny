@@ -22,36 +22,19 @@
  * @copyright Since 2007 PrestaShop SA and Contributors
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
-<div id="js-product-list-header">
+<div id="js-product-list-header" data-category-id="{$category.id|default:0}">
     {if $listing.pagination.items_shown_from == 1}
-        <div class="block-category card card-block">
-            <h1 class="h1">{$category.name}</h1>
+        <div class="block-category card card-block container">
             <div class="block-category-inner">
                 {if $category.description}
                     <div id="category-description" class="text-muted">{$category.description nofilter}</div>
                 {/if}
-                {if !empty($category.image.large.url)}
-                    <div class="category-cover">
-                        <img src="{$category.image.large.url}" alt="{if !empty($category.image.legend)}{$category.image.legend}{else}{$category.name}{/if}" loading="lazy" width="141" height="180">
-                    </div>
-                {/if}
             </div>
+            <div id="category-description-spacer"></div>
+            {if isset($subcategories) && $subcategories|@count > 0}
+                {include file='catalog/_partials/subcategories.tpl' subcategories=$subcategories}
+            {/if}
         </div>
     {/if}
 </div>
 
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const description = document.getElementById('category-description');
-        if (description) {
-            console.log('Opis kategorii załadowany ' + description.innerHTML);
-        }
-
-        var content = description.innerHTML;
-
-        parts = content.split('===');
-
-        document.getElementById('category-description').innerHTML = parts[0];
-        document.getElementById('js-product-list-bottom').innerHTML = parts[1];
-    });
-</script>
