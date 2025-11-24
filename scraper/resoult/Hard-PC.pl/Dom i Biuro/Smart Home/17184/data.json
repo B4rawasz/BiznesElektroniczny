@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home"
+  ],
+  "id": "17184",
+  "code": "TSL-PC-C101",
+  "name": "Tesla Smart Kuweta dla kota",
+  "price": 2299.9,
+  "description": "<h2>Inteligentna toaleta dla Twojego zwierzaka</h2><p>TESLA inteligentna toaleta dla kotów została zaprojektowana, aby zapewnić Ci maksymalny komfort. A także łatwą obsługę kuwety dla Twojego czworonożnego przyjaciela.</p><h2>Łatwa konserwacja</h2><p>Toaletę można łatwo rozłożyć i wyjąć wewnętrzną część. Silikonowa wkładka wewnątrz toalety jest wymienna, więc nie musisz się martwić, jeśli kot uszkodzi ją pazurami.</p><h2>Wygoda zarówno dla właściciela jak i dla zwierzęcia</h2><p>TESLA inteligentna toaleta dla kotów zapewnia odpowiednie środowisko dla Twojego zwierzęcia, a następnie rozpoczyna sprzątanie po ustawionym przez Ciebie czasie.</p><h2>Inteligentna toaleta</h2><p>Głównym celem inteligentnej toalety dla kotów TESLA jest Twój komfort.</p><h2>Opcje ustawień</h2><p>Inteligentna toaleta dla kotów TESLA ma zarówno tryb dzienny jak i nocny. Za pomocą aplikacji TESLA Smart, która jest połączona z toaletą przez Wi-Fi, można ustawić czas, po którym rozpocznie ona cykl czyszczenia. Możesz również wybrać pomiędzy czyszczeniem automatycznym a ręcznym.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>1 szt</p></li><li><p>Wysokość:</p><p>60.5 cm</p></li><li><p>Szerokość:</p><p>65.5 cm</p></li><li><p>Głębokość:</p><p>64.2 cm</p></li><li><p>Waga:</p><p>8 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-kuweta-dla-kota_63189.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63190.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63191.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63192.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63193.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63189.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63190.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63191.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63192.webp",
+    "galerie/t/tesla-smart-kuweta-dla-kota_63193.webp"
+  ],
+  "manufacturer": "Tesla"
+}

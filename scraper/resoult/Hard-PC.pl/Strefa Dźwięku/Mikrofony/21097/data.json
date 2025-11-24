@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "21097",
+  "code": "010-03-631",
+  "name": "Mikrofon dynamiczny Shure MV7X XLR",
+  "price": 799.0,
+  "description": "<p>Shure MV7X to mikrofon dynamiczny zaprojektowany specjalnie dla podcasterów, wokalistów i twórców, którzy chcą uzyskać studyjną jakość dźwięku bez konieczności inwestowania w rozbudowane wyposażenie. To tańsza, uproszczona wersja znanego MV7 – pozbawiona funkcji USB, ale zachowująca legendarne brzmienie i konstrukcję inspirowaną modelem SM7B. Wystarczy podłączyć MV7X do dowolnego interfejsu audio przez XLR, by rozpocząć nagrywanie profesjonalnego podcastu, lektorki czy wokalu.</p><h2>Profesjonalny dźwięk w domowym studiu:</h2><p>Wiele świetnych podcastów powstaje w warunkach domowych – MV7X został stworzony właśnie do takich zastosowań. Dzięki technologii izolacji głosu mikrofon precyzyjnie skupia się na mowie użytkownika, tłumiąc dźwięki otoczenia i zapewniając klarowny, ciepły ton głosu. Konstrukcja dynamiczna i kardioidalna charakterystyka kierunkowości eliminują pogłos i hałas z tła, co pozwala uzyskać czysty dźwięk nawet w akustycznie trudnych pomieszczeniach.</p><h2>Technologia izolacji głosu:</h2><p>Shure MV7X wykorzystuje inteligentne połączenie dynamicznego przetwornika, doskonałego tłumienia z tyłu oraz wewnętrznego mocowania przeciwwstrząsowego. Dzięki temu mikrofon wychwytuje wyłącznie głos użytkownika i ignoruje zakłócenia z otoczenia. Efekt? Naturalne, radiowe brzmienie bez konieczności stosowania pop-filtra i dodatkowych akcesoriów.</p><h2>Prosty w obsłudze, gotowy do pracy:</h2><p>MV7X został zaprojektowany tak, by działał bez komplikacji. Wystarczy podłączyć go do interfejsu audio przez złącze XLR – mikrofon nie wymaga zasilania phantom, nie potrzebuje sterowników i współpracuje z praktycznie każdym mikserem, rejestratorem lub kartą dźwiękową. To idealne rozwiązanie do nagrań jedno- lub wielomikrofonowych, gdy chcesz uzyskać spójny dźwięk w profesjonalnym stylu Shure przy ograniczonym budżecie.</p><h2>Legendarne DNA Shure:</h2><p>MV7X czerpie pełnymi garściami z konstrukcji modelu SM7B – mikrofonu, który stał się ikoną branży radiowej i muzycznej. Oferuje ten sam charakter brzmienia i wytrzymałość w bardziej kompaktowej, budżetowej formie. To idealna opcja dla początkujących i średniozaawansowanych twórców, którzy chcą wejść do świata profesjonalnego audio bez kompromisów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Grupa produktowa</p><p>Mikrofony Shure</p></li><li><p>Przeznaczenie</p><p>Podcast / Wokal / Lektor / Studio domowe</p></li><li><p>System mocowania</p><p>Statyw biurkowy, gwint 5/8\"</p></li><li><p>Rodzaj przetwornika</p><p>Dynamiczny</p></li><li><p>Charakterystyka kierunkowości</p><p>Kardioidalna</p></li><li><p>Rodzaj łączności</p><p>Przewodowa</p></li><li><p>Złącza</p><p>XLR (1 szt.)</p></li><li><p>Pasmo przenoszenia</p><p>20 – 20000 Hz</p></li><li><p>Czułość</p><p>-55 dBV/Pa (1,78 mV/Pa)</p></li><li><p>Zakres dynamiczny</p><p>36 dB</p></li><li><p>Maks. poziom ciśnienia akustycznego</p><p>132 dB</p></li><li><p>Zasilanie</p><p>Nie wymaga (brak zasilania phantom)</p></li><li><p>Dodatkowe informacje</p><p>Voice Isolation Technology, montaż przeciwwstrząsowy, zoptymalizowany pod kątem mowy, konstrukcja inspirowana SM7B</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Wysokość</p><p>164 mm</p></li><li><p>Szerokość</p><p>153 mm</p></li><li><p>Głębokość</p><p>90 mm</p></li><li><p>Waga</p><p>550 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Shure</p></li><li><p>Dane producenta</p><p>Shure Europe GmbH, Jakob-Dieffenbacher-Straße 12, 75031 Eppingen, Niemcy, service@shure.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/shure.jpg",
+  "images": [
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79713.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79715.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79716.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79712.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79714.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79713.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79715.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79716.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79712.webp",
+    "galerie/m/mikrofon-dynamiczny-shure-mv7_79714.webp"
+  ],
+  "manufacturer": "Shure"
+}

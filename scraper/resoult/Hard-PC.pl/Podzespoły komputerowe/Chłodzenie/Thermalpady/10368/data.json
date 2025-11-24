@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "10368",
+  "code": "ZUWA-179",
+  "name": "Thermalpad Thermal Grizzly Carbonaut 32 x 32 x 0,2mm",
+  "price": 52.9,
+  "description": "OPIS <p>Procesory komputerowe podczas gdy pracują wydobywają z siebie bardzo dużo ilości ciepła, które musi być odprowadzane. Z reguły znajduje się na nich specjalna pasta, która odprowadza ciepło, jednak co kilka miesięcy trzeba ją uzupełniać. Zupełnie inaczej jest w przypadku taśmy <strong>Thermal Grizzly Carbonaut</strong>, której wydajność oraz żywotność jest znacznie większa niż w przypadku past.</p><p><strong>Thermal Grizzly Carbonaut</strong> to <strong>thermalpad</strong> wykonany z polimeru opartego na bazie nanocząsteczek węgla o wysokiej przewodności cieplnej sięgającej 62.5W/mK. Dzięki takim właściwościom taśma jest kilka razy bardziej wydajniejsza niż standardowa pasta.</p><p>Materiał z jakiego wykonana została taśma Thermal Grizzly Carbonaut posiada niewyobrażalną żywotność. W przypadku past termoprzewodzących żywotność kończy się po kilku miesiącach. Zupełnie inaczej jest w przypadku Thermal Grizzly Carbonaut, której żywotność liczona jest w latach.</p><p>Bardzo dużą zaletą modelu Carbonaut jest z pewnością to, że nie posiada on żadnej warstwy kleju co sprawia, że z taśmy można korzystać wielokrotnie. Elastyczna struktura wykonana z włókna węglowego zapewnia przewodność, której nie powstydziłby się pasty termoprzewodzące.</p><p>Temperatura pracy Thermal Grizzly Carbonaut to zakres od -250°C do +150°C co potwierdza jak wydajnym elementem podzespołów potrafi być. Warto jednak pamiętać, że taśma Carbonaut została stworzona z myślą o trwałości, nie o ekstremalnym podkręcaniu procesorów. Przy montażu Thermal Grizzly Carbonaut trzeba pamiętać o nacisku kontaktowym - im mocniejszy docisk chłodzenia do powierzchni CPU/GPU, tym lepsza przewodność.</p><p>Trzeba mieć na uwadze fakt, że Carbonaut jest przewodnikiem elektrycznym, więc należy unikać stykania thermalpada z tranzystorami lub transformatorami.</p><p>Wymiary Thermal Grizzly Carbonaut to 32 x 32 x 0.2 mm i jest kompatybilne z procesorami Intel (Socket 115X).</p><p>Thermal Grizzly Carbonaut została objęta 24-miesięczną gwarancją.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 32 x 32 x 0,2 mm</li><li>Ilość: 1</li><li>Przewodność cieplna: 62,5 W / (mK)</li><li>Temperatura pracy: od -250 do +150 ° C</li><li>Kompatybilność: Procesory Intel (Socket 115X)</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/t/thermalpad-thermal-grizzly-ca_32966.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32967.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32968.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32969.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32970.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32966.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32967.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32968.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32969.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ca_32970.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

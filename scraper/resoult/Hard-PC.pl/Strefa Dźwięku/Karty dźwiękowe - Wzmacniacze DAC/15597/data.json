@@ -1,0 +1,23 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Karty dźwiękowe - Wzmacniacze DAC"
+  ],
+  "id": "15597",
+  "code": "Y-247A",
+  "name": "Karta dźwiękowa USB Unitek Y-247A Stereo + Mikrofon",
+  "price": 44.99,
+  "description": "<h2>Wszystko gra</h2><p>Unitek Y-247A karta dźwiękowa na USB to świetne rozwiązanie problemu braku portu słuchawkowego i mikrofonowego w coraz cieńszych ultrabookach. Doskonale zastąpi nam również oryginalną kartę dźwiękową notebooka, która uległa uszkodzeniu. Podłączamy ją do portu USB i... GRA, bo jest Plug&amp;Play.</p><h2>Solidna i smukła</h2><p>Warto zwrócić uwagę na prezencję. To porządnie wykonany aluminiowy adapter o bardzo niewielkich wymiarach. Doskonale pasuje do większości wypasionych notebooków. Porty są na tyle od siebie odległe, że bez problemu podłączymy tam każde słuchawki.</p><h2>Profesjonalistka w każdym calu</h2><p>Najważniejsze jednak to nie jak karta wygląda ale jak gra. W Y-247A zastosowano najnowszy chipset C-Media. Jakość dźwięku doskonała. Częstotliwość próbkowania to 48 kHz. Stosunek sygnału do szumu to odpowiednio 83.1 dB dla wejścia mikrofonowego oraz 93.7 dB dla wyjścia słuchawkowego.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować, zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj urządzenia</p><p>Adapter / Konwerter</p></li><li><p>Zastosowanie</p><p>Audio</p></li><li><p>Złącze 1</p><p>Wtyk USB-A</p></li><li><p>Złącze 2</p><p>Port audio 3.5mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/karta-dzwiekowa-usb-unitek-y_55522.webp",
+    "galerie/k/karta-dzwiekowa-usb-unitek-y_55523.webp",
+    "galerie/k/karta-dzwiekowa-usb-unitek-y_55524.webp",
+    "galerie/k/karta-dzwiekowa-usb-unitek-y_55522.webp",
+    "galerie/k/karta-dzwiekowa-usb-unitek-y_55523.webp",
+    "galerie/k/karta-dzwiekowa-usb-unitek-y_55524.webp"
+  ],
+  "manufacturer": "Unitek"
+}

@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "9359",
+  "code": "ZUAD-722",
+  "name": "Przedłużacz Phanteks EPS 8-pin 50cm Czarno-Czerwony",
+  "price": 22.9,
+  "description": "OPIS <p>Uniwersalne przedłużacze kabli zasilających od Phanteks to idealne rozwiązanie dla entuzjastów upiększania wnętrza swojego komputera. Wykonano je z wysokiej jakości materiałów zapewniających trwałość oraz elastyczność. Ułożenie ich w obudowie jest bajecznie łatwe, a dzięki długości 50cm są odpowiednie do nawet największych obudów.</p><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li><div>Przedłużacz EPS 8pin</div></li><li><div>Długość:50ccm z wtyczkami</div></li><li><div>Grubość przewodu: 18AWG</div></li></ul>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/p/przedluzacz-phanteks-eps-8-pi_27937.webp",
+    "galerie/p/przedluzacz-phanteks-eps-8-pi_27938.webp",
+    "galerie/p/przedluzacz-phanteks-eps-8-pi_27947.webp",
+    "galerie/p/przedluzacz-phanteks-eps-8-pi_27948.webp",
+    "galerie/p/przedluzacz-phanteks-eps-8-pi_27937.webp",
+    "galerie/p/przedluzacz-phanteks-eps-8-pi_27938.webp",
+    "galerie/p/przedluzacz-phanteks-eps-8-pi_27947.webp",
+    "galerie/p/przedluzacz-phanteks-eps-8-pi_27948.webp"
+  ],
+  "manufacturer": "Phanteks"
+}

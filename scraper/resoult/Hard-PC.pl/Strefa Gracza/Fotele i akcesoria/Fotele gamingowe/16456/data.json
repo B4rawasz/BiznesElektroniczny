@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Fotele i akcesoria",
+    "Fotele gamingowe"
+  ],
+  "id": "16456",
+  "code": "GAGC-347",
+  "name": "Fotel Dla Gracza ThunderX3 EAZE Loft - Black",
+  "price": 856.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wysokość</p><p>Wysokość całkowita ~ 121 - 131 cm<br/>Wysokość siedziska ~ 45 - 55 cm<br/>Wysokość oparcia ~ 81 cm</p></li><li><p>Szerokość</p><p>Szerokość oparcia (na wysokości barków) ~ 56 cm<br/>Szerokość oparcia (w najszerszym miejscu) ~ 55 cm</p></li><li><p>Głębokość</p><p>Szerokość siedziska ~ 52</p></li><li><p>Mechanizm bujania</p><p>Tak</p></li><li><p>Odchylenie</p><p>90° to 135°</p></li><li><p>Wysokość siłownika gazowego</p><p>80/100 mm</p></li><li><p>Materiał</p><p>Stal (rama), Pianka (wypełnienie), Sztuczna skóra (obicie), Tkanina  (obicie) Aluminum (baza), Poliuretan (kółka)</p></li><li><p>Color</p><p>Black</p></li><li><p>Maksymalne obciążenie</p><p>150 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ThunderX3</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589, Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thunderx3.jpg",
+  "images": [
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58826.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58827.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58828.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58829.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58830.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58831.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58832.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58833.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58834.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58835.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58826.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58827.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58828.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58829.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58830.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58831.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58832.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58833.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58834.webp",
+    "galerie/f/fotel-dla-gracza-thunderx3-ea_58835.webp"
+  ],
+  "manufacturer": "ThunderX3"
+}

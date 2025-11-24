@@ -1,0 +1,29 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Monitory"
+  ],
+  "id": "16452",
+  "code": "90LM06F0-B01E70",
+  "name": "Monitor 34\" ASUS VG34VQEL1A  VA, UWQHD,  100 Hz",
+  "price": 1699.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ ekranu</p><p>zakrzywiony</p></li><li><p>Przekątna</p><p>34 cali</p></li><li><p>Rozdzielczość nominalna</p><p>3440 x 1440 piksele</p></li><li><p>Powłoka matrycy</p><p>antyrefleksyjna</p></li><li><p>Typ matrycy</p><p>VA</p></li><li><p>Format obrazu</p><p>21 na 9</p></li><li><p>Rodzaj podświetlenia</p><p>LED</p></li><li><p>HDR</p><p>tak</p></li><li><p>Obszar aktywny</p><p>797 x 334 mm</p></li><li><p>Głośniki</p><p>tak (2 x 2 W)</p></li><li><p>Częstotliwość odświeżania</p><p>100 Hz</p></li><li><p>Wielkość plamki</p><p>0.231 mm</p></li><li><p>Możliwość regulacji</p><p>obrót, pochył, wysokość</p></li><li><p>Obsługa FreeSync</p><p>tak</p></li><li><p>Redukcja migotania</p><p>tak</p></li><li><p>Filtr światła niebieskiego</p><p>tak</p></li><li><p>Zużycie energii w trybie pracy</p><p>29.5 W</p></li><li><p>Złącza</p><p>Standard portów wideo, DisplayPort, HDMI 2.0</p></li><li><p>Porty wejścia/wyjścia</p><p>1 x DisplayPort, 2 x HDMI, 3 x USB 3.2 Gen 1 Type A</p></li><li><p>Kontrast</p><p>3000</p><p>1</p></li><li><p>Jasność</p><p>300 cd/m²</p></li><li><p>Czas reakcji plamki</p><p>1 ms</p></li><li><p>Kąt widzenia pion</p><p>178 °</p></li><li><p>Kąt widzenia poziom</p><p>178 °</p></li><li><p>Ilość wyświetlanych kolorów</p><p>16.7 mln</p></li><li><p>Szerokość</p><p>807.8 mm</p></li><li><p>Wysokość</p><p>540.6 mm</p></li><li><p>Głębokość</p><p>248.5 mm</p></li><li><p>Waga</p><p>8.07 kg</p></li><li><p>Standard VESA</p><p>100 x 100</p></li><li><p>Akcesoria</p><p>kabel DisplayPort, kabel HDMI, kabel USB, power cord</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ASUS</p></li><li><p>Dane producenta</p><p>ASUS Polska Sp. z.o.o, ul. Cybernetyki 9, 02-677 Warszawa, Polska, Tel: +48 22 571 80 00</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/asus.jpg",
+  "images": [
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58790.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58791.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58792.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58793.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58794.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58795.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58790.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58791.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58792.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58793.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58794.webp",
+    "galerie/m/monitor-34-asus-vg34vqel1a-va_58795.webp"
+  ],
+  "manufacturer": "ASUS"
+}

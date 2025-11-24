@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze poniżej 500W"
+  ],
+  "id": "17405",
+  "code": "EY7A003",
+  "name": "Zasilacz ENDORFY Elementum E5 350W 80Plus",
+  "price": 182.9,
+  "description": "OPIS <p>Elementum E5 350 W to Twoje zabezpieczenie przed nieoczekiwanym. Ten zasilacz z certyfikatem 80 PLUS® zapewnia zasilanie przy stałej mocy 350 W – a dzięki złączu PCI-E 6/8-pin umożliwia podłączenie podstawowych kart graficznych. Utrzymany w głębokiej czarnej kolorystyce będzie też estetycznie prezentował się nawet w mniej okazałych PC.</p><ul><li> Bezpieczna praca – zabezpieczenia OVP, UVP, SCP, OPP i SIP chronią Twój komputer między innymi przed zwarciami i przeciążeniem. Dzięki nim w razie awarii albo przepięcia ze strony instalacji elektrycznej zasilacz się po prostu wyłączy.</li><li> Cichy wentylator – 12-centymetrowy wentylator zaprojektowany w taki sposób, by zapewniać wysoką wydajność chłodzenia bez głośnego szumu.</li><li> 3 lata gwarancji – każdy zasilacz Elementum E5 350 W nabyty w sprzedaży detalicznej objęty jest 3-letnią gwarancją producenta.</li></ul><h2>Bezpieczna praca</h2><p>Szereg zabezpieczeń (OVP, UVP, SCP, OPP i SIP) chroni Twój komputer między innymi przed zwarciami i przeciążeniem. W praktyce oznacza to, że każda awaria albo przepięcie ze strony instalacji elektrycznej spowoduje natychmiastowe wyłączenie zasilacza Elementum E5 350 W.</p><h2>12-centymetrowy wentylator</h2><p>Za chłodzenie w Elementum E5 350 W odpowiada 12-centymetrowy wentylator. Dzięki niemu cały zasilacz utrzymuje niską temperaturę nawet podczas wymagających zadań, a Ty możesz korzystać z PC bez monotonnego szumu w tle.</p><h2>3 lata gwarancji</h2><p>Razem z zasilaczem Elementum E5 350 W otrzymujesz 3-letnią gwarancję producenta.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Certyfikat 80 PLUS®</li><li>ErP Lot 6 Ready</li><li>Kompatybilność z Low power C6/C7 sleep state</li><li>Aktywne PFC</li><li>W pełni czarne okablowanie</li><li>Dostępny tylko jako bulk (w opakowaniu zbiorczym)</li><li>3 lata gwarancji</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj produktu</p><p>zasilacz komputerowy ATX</p></li><li><p>Kolor</p><p>czarny</p></li><li><p>Wymiary (wys.×gł.×szer.)</p><p>87×140×150 mm</p></li><li><p>Moc ciągła</p><p>350 W</p></li><li><p>Efektywność</p><p>80 PLUS®</p></li><li><p>Okablowanie</p><p>czarne przewody w oplocie</p></li><li><p>Wentylator</p><p>120 mm</p></li><li><p>Zabezpieczenia</p><p>OVP, UVP, SCP, OPP, SIP</p></li><li><p>Napięcie wejściowe</p><p>230 V</p></li><li><p>Liczba złącz oraz długość okablowania</p><p>1× EPS 12V 8-PIN (4+4), 625 mm<br/>1× ATX 24-PIN, 450 mm<br/>1× PCI-E 8-PIN (6+2), 460 mm<br/>4× SATA, 410 – 700 mm<br/>2× MOLEX, 410 - 555 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ENDORFY</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, kontakt@cooling.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/endorfy.jpg",
+  "images": [
+    "galerie/z/zasilacz-endorfy-elementum-e5_63487.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63488.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63489.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63490.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63491.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63492.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63493.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63494.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63495.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63487.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63488.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63489.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63490.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63491.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63492.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63493.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63494.webp",
+    "galerie/z/zasilacz-endorfy-elementum-e5_63495.webp"
+  ],
+  "manufacturer": "ENDORFY"
+}

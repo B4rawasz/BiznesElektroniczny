@@ -1,0 +1,29 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Narzędzia"
+  ],
+  "id": "19478",
+  "code": "NT-0001",
+  "name": "Narzędzie uderzeniowe LSA Krone Lanberg",
+  "price": 13.9,
+  "description": "OPIS <p>Narzędzie uderzeniowe LSA Lanberg, zwane również nożem terminującym do złącz Krone IDC 110 oraz nożem krosowniczym służy do zaciskania/zarabiania kabli w technologii LSA stosowane do wykonania zakończeń kablowych w gniazdach sieciowych, podtynkowych, natynkowych, teleinformatycznych, patchpanelach, keystonach i w wielu innych urządzeniach przeznaczonych głównie do instalacji telekomunikacyjnych. Urządzenie idealnie sprawdzi się do gniazd LSA w sieciach xDSL i ISDN wraz z zakańczaniem kabli na złączach LSA i blokach paneli łączówek telefonicznych. Ze względu na fakt, że pojedynczy przewód nie może być w izolacji, technika LSA z usuwaniem izolacji eliminuje ten problem co przekłada się na praktyczne zastosowanie tego narzędzia. NT-0001 posiada w sobie sprężynę zapewniającą prawidłowe dociśnięcie żyły do kontaktu, haczyk do wyciągania żył wraz z elementem do demontażu łączówki z gniazda, nożyce do odcięcia nadmiaru kabla wyposażone w blokadę oraz regulator siły uderzenia - głębokości wciśnięcia żyły w złącze. Dzięki narzędziu uderzeniowemu Lanberg odpowiednie przygotowanie okablowania stanie się o wiele prostsze, a sam proces zaciskania znacznie skróci czas pracy w porównaniu z ręcznymi próbami lub innymi metodami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Sieciowe</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Waga</p><p>54g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lanberg</p></li><li><p>Dane producenta</p><p>Impakt S.A., ul. Stanisława Lema 16, 62-050 Mosina, Polska, info@impakt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lanberg.jpg",
+  "images": [
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71928.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71929.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71930.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71931.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71932.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71933.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71928.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71929.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71930.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71931.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71932.webp",
+    "galerie/n/narzedzie-uderzeniowe-lsa-kro_71933.webp"
+  ],
+  "manufacturer": "Lanberg"
+}

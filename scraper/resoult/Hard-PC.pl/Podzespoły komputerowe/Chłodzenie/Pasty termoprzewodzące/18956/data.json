@@ -1,0 +1,34 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "18956",
+  "code": "ZUWA-325",
+  "name": "Pasta termoprzewodząca Thermal Grizzly Duronaut – 6g",
+  "price": 72.9,
+  "description": "<h2>Wysoka przewodność cieplna i długotrwała stabilność</h2><p>Duronaut to wysokiej jakości pasta termoprzewodząca stworzona z myślą o wyjątkowej wydajności cieplnej i długoterminowej stabilności. Nazwa „Duronaut” pochodzi od angielskiego słowa „durability” i podkreśla niezwykłą trwałość produktu.</p><h2>Zaawansowany skład dla maksymalnej skuteczności</h2><p>Stabilność Duronaut uzyskano dzięki specjalnie opracowanemu olejowi silikonowemu w połączeniu z mikropartykulami aluminium i nanocząsteczkami tlenku cynku o różnych kształtach. Optymalny dobór rozmiarów i form cząsteczek minimalizuje efekt wypychania pasty („pump-out effect”), zapewnia doskonałą przyczepność do powierzchni oraz ekstremalnie niską oporność cieplną.</p><h2>Efektywna aplikacja w cienkiej warstwie</h2><p>Optymalna forma i rozmiar cząsteczek pozwala nakładać pastę w bardzo cienkiej warstwie, co dodatkowo zwiększa przyczepność i redukuje oporność cieplną. Dzięki temu Duronaut zapewnia wydajny transfer ciepła między źródłem ciepła (np. procesorem) a systemem chłodzenia.</p><h2>Precyzyjna aplikacja dzięki TG Spatula Pro</h2><p>Dla uzyskania najlepszych rezultatów Duronaut dostarczana jest z łopatką TG Spatula Pro. Jej nowo zaprojektowany kształt umożliwia większy nacisk podczas nakładania, co pozwala na równomierne rozprowadzenie pasty i uzyskanie wyjątkowo cienkiej warstwy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Szary</p></li><li><p>Przewodność elektryczna</p><p>0 pS/m</p></li><li><p>Typowe zastosowanie</p><p>CPU, GPU, notebooki, układy scalone (IC)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/p/pasta-termoprzewodzaca-therma_76062.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76065.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76063.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76064.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76069.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76066.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76067.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76068.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76062.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76065.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76063.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76064.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76069.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76066.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76067.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_76068.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Pamięć RAM",
+    "DDR4"
+  ],
+  "id": "15768",
+  "code": "LD4BU016G-R3600GDWG",
+  "name": "Pamięć DDR4 Lexar THOR OC 32GB(2*16GB)/3600MHz White",
+  "price": 319.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Szybka pamięć DDR4 poprawiająca wydajność komputera stacjonarnego</li><li>Przyspiesz wydajność komputera do wielozadaniowości</li><li>Łatwe do zainstalowania</li><li>Prosta aktualizacja dla twojego komputera</li><li>Dożywotnia ograniczona gwarancja</li><li>Wyposażony w aluminiowy rozpraszacz ciepła zapewniający doskonałe wykończenie i wysoce wydajne odprowadzanie ciepła</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj pamięci</p><p>DDR4</p></li><li><p>Całkowita pojemność pamięci</p><p>32 GB</p></li><li><p>Częstotliwość szyny pamięci</p><p>3600 MHz</p></li><li><p>Liczba pamięci w zestawie</p><p>2</p></li><li><p>CAS Latency</p><p>CL18</p></li><li><p>Obsługa ECC</p><p>Nie</p></li><li><p>Radiator</p><p>Nie</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lexuar</p></li><li><p>Dane producenta</p><p>Lexar Europe B.V, Grevelingstraat 40, 2161WG Lisse, Netherlands, nfo-europe@lexar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lexar.jpg",
+  "images": [
+    "galerie/p/pamiec-ddr4-lexar-thor-oc-16g_56198.webp",
+    "galerie/p/pamiec-ddr4-lexar-thor-oc-16g_56199.webp",
+    "galerie/p/pamiec-ddr4-lexar-thor-oc-16g_56198.webp",
+    "galerie/p/pamiec-ddr4-lexar-thor-oc-16g_56199.webp"
+  ],
+  "manufacturer": "Lexuar"
+}

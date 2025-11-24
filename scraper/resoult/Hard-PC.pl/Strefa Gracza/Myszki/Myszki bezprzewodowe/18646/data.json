@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "18646",
+  "code": "HS-WM-HL8K-MB",
+  "name": "Mysz HITSCAN Hyperlight 8K Wireless Black",
+  "price": 449.0,
+  "description": "<h2>Ultra lekka konstrukcja, ultra wytrzymałość</h2><p>HITSCAN Hyperlight to mysz stworzona dla graczy, którzy cenią sobie nie tylko wydajność, ale również komfort podczas długich rozgrywek. Dzięki wadze poniżej 40 gramów mysz ta jest praktycznie niewyczuwalna, co umożliwia płynne, dynamiczne ruchy bez zmęczenia nadgarstka. Solidna konstrukcja gwarantuje długowieczność, nawet przy intensywnym użytkowaniu.</p><h2>Ekstremalnie szybkie przełączniki optyczne</h2><p>Odkryj nowy poziom precyzji dzięki optycznym przełącznikom, które eliminują problem podwójnego klikania. Wykorzystują zaawansowaną technologię detekcji światła, co zapewnia szybki i niezawodny czas reakcji. Idealne rozwiązanie dla tych, którzy wymagają natychmiastowej reakcji od swojej myszy gamingowej.</p><h2>Bezprzewodowa technologia 2.4GHz</h2><p>Hyperlight oferuje pełną swobodę wyboru — bezprzewodowo lub przewodowo. Dzięki zoptymalizowanemu mikrosterownikowi zapewnia stabilne połączenie z raportowaniem na poziomie 1 ms lub nawet 0,125 ms przy częstotliwości próbkowania 8000Hz. Wyposażona w energooszczędny sensor PixArt, gwarantuje do 75 godzin pracy na jednym ładowaniu, co pozwala skupić się na grze bez przerw.</p><h2>Niespotykana wydajność – Sensor PixArt PAW3395</h2><p>Mysz Hyperlight wyposażona jest w zaawansowany sensor PixArt PAW3395, który spełni oczekiwania nawet najbardziej wymagających graczy. Z rozdzielczością 26 000 DPI, prędkością śledzenia 650 IPS i przyspieszeniem 50G, oferuje najwyższą precyzję i szybkość.</p><h2>Najnowocześniejszy mikrosterownik Nordic nRF52840</h2><p>Dzięki zastosowaniu mikrosterownika nRF52840 od Nordic, Hyperlight zapewnia wyjątkową stabilność i szybkość działania. Polling na poziomie 8K gwarantuje błyskawiczną reakcję i niezawodne połączenie, umożliwiając pełną koncentrację na rozgrywce.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>118×61×38 mm</p></li><li><p>Waga</p><p>39 g ± 1 g</p></li><li><p>Sensor</p><p>PixArt 3395</p></li><li><p>Częstotliwość odpytywania (Polling rate)</p><p>Do 8000K (wymagany oddzielny moduł 8K Dongle)</p></li><li><p>Mikrokontroler (MCU)</p><p>Nordic 52840</p></li><li><p>Główne przyciski</p><p>Omron Optyczne</p></li><li><p>Przyciski boczne</p><p>TTC Mechaniczne</p></li><li><p>Kółko przewijania</p><p>TTC Gold z ochroną przed kurzem</p></li><li><p>Akumulator</p><p>250 mAh</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>HITSCAN</p></li><li><p>Dane producenta</p><p>Hitscan LLC, 5900 Balcones Drive STE 100, Texas, 78731, USA</p></li><li><p>Podmiot odpowiedzialny</p><p>MAXFPS Aktiebolag, Johanneslundsvägen 12, Upplands Väsby, Stockholm, 19461, Sweden, supply@maxfps.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/hitscan.jpg",
+  "images": [
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68585.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68586.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68587.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68588.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68589.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68585.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68586.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68587.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68588.webp",
+    "galerie/m/mysz-hitscan-hyperlight-8k-wi_68589.webp"
+  ],
+  "manufacturer": "HITSCAN"
+}

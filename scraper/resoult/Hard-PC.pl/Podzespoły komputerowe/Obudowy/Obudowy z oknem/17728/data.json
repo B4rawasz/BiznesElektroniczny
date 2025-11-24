@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "17728",
+  "code": "GEDC-034",
+  "name": "Obudowa DeepCool Matrexx 40 3FS Micro-ATX – Black",
+  "price": 146.9,
+  "description": "<p>DeepCool Matrexx 40 3FS jest przeznaczony dla graczy zwracających uwagę na design, którzy chcą stworzyć harmonijną konfigurację. Jego futurystyczny wygląd z dużymi panelami bocznymi ze szkła hartowanego szczególnie dobrze prezentuje się na sprzęcie. Kompaktowa obudowa do płyt głównych Mini-ITX i Micro-ATX oferuje otwartą konstrukcję z dobrą cyrkulacją powietrza i dużą ilością miejsca wewnątrz.</p><h2>Wystarczająco dużo miejsca na sprzęt do gier</h2><p>Oprócz miejsca na płytę główną Micro-ATX, obudowa może pomieścić karty graficzne o długości do 320 milimetrów i chłodnice procesora o wysokości do 165 milimetrów. Dzięki gniazdom na dwa dyski 3,5” lub dwa dyski 2,5”, Matrexx 40 3FS oferuje również wystarczająco dużo miejsca na Twoje dane.</p><h2>Wystarczająca wentylacja zapewniająca dobre chłodzenie</h2><p>Dzięki przewiewnej konstrukcji z dużymi wycięciami zapewniony jest optymalny dopływ powietrza. W sumie DeepCool Matrexx 40 3FS może pomieścić do sześciu wentylatorów 120 mm lub czterech wentylatorów 140 mm. W przypadku systemów chłodzonych wodą, z przodu i na pokrywie obudowy można umieścić chłodnicę 280 mm. Z tyłu miejsce na radiator 120mm. Panel I/O z boku oferuje port USB-A 3.0 i USB 2.0, a także port audio 3,5 mm.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>193 x 378,2 x 405,8 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>5,52 kg</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>metal, szkło hartowane</p></li><li><p>Obsługiwane płyty główne</p><p>Micro-ATX, Mini-ITX</p></li><li><p>Wentylator</p><p>3x 120 mm lub 2x 140 mm (przód)<br/>2x 120 mm lub 2x 140 mm (góra)<br/>1x 120 mm (tył)</p></li><li><p>Mocowanie chłodnicy</p><p>1x maks. 120 mm (tył)<br/>1x maks. 280 mm (góra)<br/>1x maks. 280 mm (tył)</p></li><li><p>Wnęki na dyski</p><p>2x 3,5 cala<br/>2x 2,5 cala</p></li><li><p>Panel I/O</p><p>1x USB 2.0<br/>1x USB 3.0<br/>1x 3,5-mm-Audio (4-pol, TRRS)</p></li><li><p>Gniazda rozszerzeń</p><p>4</p></li><li><p>Max wysokość chłodzenia</p><p>165 mm</p></li><li><p>Max długość karty graficznej</p><p>320mm</p></li><li><p>Typ zasilacza</p><p>ATX PS2 (maksymalna długość: 160 mm)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64990.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64991.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64993.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64987.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64992.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64988.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64989.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64994.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64995.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64990.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64991.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64993.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64987.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64992.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64988.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64989.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64994.webp",
+    "galerie/o/obudowa-deepcool-matrexx-40-3_64995.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "15601",
+  "code": "D1019B",
+  "name": "Hub USB-C 3.1 8w1 Unitek Power Delivery 100W",
+  "price": 224.9,
+  "description": "<h2>Wieloportowy HUB USB-C 8 w 1</h2><p>Hub D1019B to uniwersalny replikator portów do komputera wyposażonego w port USB typu C. Podłączając hub do jednego portu USB C, otrzymujemy aż 8 różnych wyjść: HDMI 4K, VGA Full HD, RJ45 (Gigabit Ethernet) ,2 x port USB 3.1 Gen 1 5Gbps, USB-C z funkcją Power Delivery 100 W, Czytnik kart SD, Port audio, minijack 3,5 mm</p><p>Ten hub jest stworzony do lekkich, przenośnych ultrabooków, w których często brakuje tego typu portów. Jednocześnie, samo urządzenie dzięki dobrze przemyślanemu zestawowi funkcji również jest małe i poręczne.</p><p>Dwa porty USB-A obsługują SuperSpeed USB z szybkośćcią przesyłania danych do 5 Gb/s. Są oczywiście wstecznie kompatybilne z USB 2.0 i USB1.1.</p><h2>Dwa zewnętrzne monitory</h2><p>Port HDMI 1.4 umożliwia wyświetlanie obrazu w rozdzielczości 4K z maksymalnym odświeżaniem 30 Hz. Hub jest wyposażony także w port VGA – do starszych modeli monitorów lub projektora (maksymalna rozdzielczość FullHD 1080P@60Hz). Dodatkowy monitor może pracować w trybie klonowania lub rozszerzonego pulpitu, co daje maksymalnie nawet trzy ekrany do pracy lub rozrywki.</p><p>Jeśli monitory są podłączone do obu wyjść, maksymalna rozdzielczość dla obu wynosi FullHD 1080 P.</p><h2>Stabilne połączenie LAN i Internet</h2><p>Bezprzewodowy dostęp do sieci jest bardzo wygodny. Jeśli jednak zależy nam na prędkości połączenia i jego niezawodności to nie ma jak połączenie przewodem. Gigabitowy port RJ45 umieszczono u szczytu urządzenia, aby przewód nie zawijał się niepotrzebnie na naszym biurku.</p><p>Port RJ-45 jest całkowicie zgodny ze standardem IEEE 802.3 i wspiera funkcje takie jak Wake-on-LAN i half/full duplex.</p><h2>Power Delivery 100W</h2><p>Do portu USB-C huba możesz podłączyć ładowarkę (np. oryginalny zasilacz MacBook) i ładować komputer bezpośrednio przez USB. Dzięki technologii Power Delivery 3.0, hub wspiera ładowanie z maksymalną mocją 100W (20V / 5A).</p><p>Co wyjątkowe, port USB-C obsługuje także przesyłanie danych ze specyfikacją USB 3.1 Gen 1, więc można wykorzystać go jako kolejny port USB do transferu danych, podpinając np. dysk M.2 w obudowie zewnętrznej.</p><h2>Port Audio</h2><p>Port wejścia/wyjścia minijack 3,5 mm wspiera 48 k/Hz z 16-bitowym próbkowaniem. Działa zarówno z głośnikami jak i zestawami słuchawkowymi z mikrofonem.</p><h2>Czytnik kart</h2><p>Czytnik umożliwia komunikację z kartami pamięci typu SD (SDHC i SDXC) z maksymalną szybkością przesyłania danych 48 Mbps.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Maksymalne natężenie na wyjściu</p><p>5 A</p></li><li><p>Materiał zewnętrzny</p><p>Aluminium</p></li><li><p>Moc (W)</p><p>100 W</p></li><li><p>Obsługiwane technologie</p><p>Plug &amp; Play</p></li><li><p>Port USB</p><p>tak</p></li><li><p>Port ładujący USB</p><p>tak</p></li><li><p>Przepustowość</p><p>5 Gbps</p></li><li><p>Standard ładowania</p><p>Power Delivery</p></li><li><p>Współpraca z systemami</p><p>Android<br/>iOS<br/>Linux<br/>MacOS<br/>Windows</p></li><li><p>Dla urządzeń</p><p>Laptop<br/>Mac Pro<br/>MacBook<br/>MacBook Pro<br/>Smartphone<br/>Tablet</p></li><li><p>Ilość portów</p><p>8 szt</p></li><li><p>Ilość portów HDMI</p><p>1 szt</p></li><li><p>Ilość portów USB-A</p><p>2 szt</p></li><li><p>Ilość portów USB-C</p><p>1 szt</p></li><li><p>Ilość portów audio 3.5mm</p><p>1 szt</p></li><li><p>Obsługiwane karty pamięci</p><p>SD</p></li><li><p>Rodzaj urządzenia</p><p>Hub</p></li><li><p>Standard USB</p><p>USB 5Gbps</p></li><li><p>Zastosowanie</p><p>Audio<br/>Audio / Video<br/>Sieć<br/>Transfer danych<br/>Video<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Złącze 2</p><p>Port audio 3.5mm<br/>Port HDMI<br/>Port RJ-45 (8P8C)<br/>Port USB-A<br/>Port USB-C<br/>Port VGA<br/>Slot SD</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55536.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55537.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55538.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55539.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55540.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55541.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55542.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55543.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55544.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55545.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55546.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55536.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55537.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55538.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55539.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55540.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55541.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55542.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55543.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55544.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55545.webp",
+    "galerie/h/hub-usb-c-3-1-8w1-unitek-powe_55546.webp"
+  ],
+  "manufacturer": "Unitek"
+}

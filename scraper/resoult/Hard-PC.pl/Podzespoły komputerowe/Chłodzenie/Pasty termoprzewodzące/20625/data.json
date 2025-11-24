@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "20625",
+  "code": "TM-220",
+  "name": "Pasta termoprzewodząca Rampage TM-220  11w/mk szpatułka + IPA",
+  "price": 34.99,
+  "description": "<h2>Rampage TM-220 – Wysokowydajna Pasta Termoprzewodząca</h2><p>Zadbaj o optymalną wydajność swojego sprzętu z <strong>Rampage TM-220</strong>. Ta wysokowydajna pasta termoprzewodząca, stworzona z myślą o profesjonalistach i entuzjastach technologii, zapewnia doskonałe chłodzenie nawet w najbardziej wymagających warunkach. Dzięki swojej formule i prostocie aplikacji, jest to idealne rozwiązanie dla Twojego komputera.</p><h2>Wysoka przewodność cieplna – lepsze chłodzenie dla Twojego sprzętu</h2><p><strong>Rampage TM-220</strong> wyróżnia się przewodnością cieplną na poziomie <strong>11 W/mK</strong>, co zapewnia skuteczne odprowadzanie ciepła z najbardziej nagrzewających się komponentów. Dzięki temu Twój komputer będzie działał płynniej, a jego wydajność pozostanie na najwyższym poziomie nawet podczas intensywnych obciążeń.</p><h2>Uniwersalność zastosowań – idealna do różnych komponentów</h2><p>Pasta termoprzewodząca <strong>Rampage TM-220</strong> nadaje się do szerokiego zakresu zastosowań, takich jak procesory, karty graficzne, układy chłodzenia wodnego czy radiatory. Jej wszechstronność sprawia, że jest to rozwiązanie dla każdego użytkownika, niezależnie od konfiguracji sprzętu.</p><h2>Prosty w aplikacji – bez stresu, bez bałaganu</h2><p>Formuła pasty została zaprojektowana tak, aby była łatwa w aplikacji. Dzięki dołączonemu aplikatorowi możesz precyzyjnie nanieść pastę, nawet jeśli nie masz doświadczenia w montażu komponentów komputerowych. To prostota, którą docenisz od razu.</p><h2>Rampage TM-220 – Twoje wsparcie w dbaniu o wydajność</h2><p><strong>Rampage TM-220</strong> to idealny wybór dla każdego, kto chce zapewnić swojemu komputerowi maksymalną wydajność i niezawodność. Dzięki łatwej aplikacji, wysokiej przewodności cieplnej i bezpieczeństwu użytkowania, pasta ta stanie się nieodłącznym elementem Twojego zestawu narzędzi do konserwacji sprzętu. Wypróbuj ją już dziś i zadbaj o swój komputer!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wysoka przewodność cieplna (11 W/mK)</li><li>Uniwersalność zastosowań</li><li>Prosty w aplikacji</li><li>Pełny zestaw</li><li>Zestaw zawiera aplikator</li><li>Bezpieczna formuła</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Temperatura robocza</p><p>-30~280℃</p></li><li><p>Przewodność cieplna</p><p>11 W/mK</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Rampage</p></li><li><p>Dane producenta</p><p>Segment Bilgisayar Dis Tic. Ltd. Sti, 34555, Deliklikaya Mh, Fersah 136, Istanbuł, Turcja, bilal.malik@segment.com.tr</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, rampage@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/rampage.jpg",
+  "images": [
+    "galerie/p/pasta-termoprzewodzaca-rampag_79935.webp",
+    "galerie/p/pasta-termoprzewodzaca-rampag_79934.webp",
+    "galerie/p/pasta-termoprzewodzaca-rampag_79935.webp",
+    "galerie/p/pasta-termoprzewodzaca-rampag_79934.webp"
+  ],
+  "manufacturer": "Rampage"
+}

@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "17003",
+  "code": "GAMO-1184",
+  "name": "Mysz VGN Dragonfly F1 PRO Wireless Black",
+  "price": 258.9,
+  "description": "OPIS   Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <h2>Bezprzewodowa mysz do gier VGN Dragonfly F1 PRO</h2><p>VGN Dragonfly F1 PRO to nowoczesna <strong>myszka bezprzewodowa dla graczy</strong>, która łączy lekkość, precyzję i niezawodność w jednym kompaktowym urządzeniu. Została zaprojektowana z myślą o profesjonalnych graczach, ale doskonale sprawdzi się również jako <strong>mysz komputerowa bezprzewodowa</strong> do codziennego użytkowania.</p><p>Główne przełączniki Kailh Golden Black Mamba 8.0 zapewniają wyraźny, ale lekki klik, który jest responsywny i trwały. Zastosowany sensor PixArt PAW3395 umożliwia ustawienie czułości w zakresie od 50 do 26 000 CPI, a regulacja odbywa się w precyzyjnych krokach co 50 jednostek. Standardowa częstotliwość odpytywania to 1000 Hz, z możliwością rozszerzenia do 4000 Hz po dokupieniu adaptera 4K – idealne rozwiązanie dla graczy oczekujących maksymalnej responsywności.</p><p>Bezprzewodowa łączność w technologii 2,4 GHz oparta jest na chipie Nordic 52833, który gwarantuje stabilne połączenie bez opóźnień. W razie potrzeby <strong>bezprzewodowa myszka</strong> może pracować także przewodowo przez kabel USB-C, co umożliwia grę nawet podczas ładowania.</p><h2>Precyzyjne śledzenie ruchu i pełna kontrola</h2><p>VGN Dragonfly F1 PRO została zaprojektowana z myślą o graczach, którzy oczekują pełnej kontroli nad każdym ruchem. Sensor PAW3395 to jedno z najlepszych rozwiązań dostępnych na rynku – nie stosuje interpolacji, wygładzania ani uśredniania. Efektem jest czysty i natychmiastowy odczyt ruchów, niezależnie od tempa czy stylu gry.</p><p>Użytkownik może zapisać cztery poziomy czułości w pamięci wewnętrznej myszy i wygodnie przełączać się między nimi za pomocą przełącznika na spodzie urządzenia. Oprogramowanie producenta daje też możliwość dostosowania podświetlenia RGB oraz innych ustawień – m.in. debounce time czy LOD – dzięki czemu Dragonfly F1 PRO to <strong>myszka gamingowa bezprzewodowa</strong>, którą łatwo spersonalizujesz pod swoje potrzeby.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>ok. 49g</p></li><li><p>Materiały</p><p>tworzywo sztuczne, PTFE</p></li><li><p>Żywotność baterii</p><p>65 godzin</p></li><li><p>Czujnik</p><p>PixArt PAW3395</p></li><li><p>Rozdzielczość</p><p>do 26 000 CPI (regulowana w krokach co 50 CPI)</p></li><li><p>Mikrokontroler</p><p>Nordic 52833</p></li><li><p>Prędkość</p><p>650IPS</p></li><li><p>Przyspieszenie</p><p>50G</p></li><li><p>Odległość odrywania</p><p>1 mm</p></li><li><p>Częstotliwość odpytywania</p><p>1000Hz (4000 Hz po zakupie dodatkowego adaptera)</p></li><li><p>Przełączniki Główne przyciski</p><p>Kailh Golden Black Mamba GM 8.0</p></li><li><p>Średnia żywotność</p><p>90 milionów kliknięć</p></li><li><p>Kółko myszy</p><p>Enkoder TTC Slver, koder Kailh GE2.0</p></li><li><p>Kabel myszy</p><p>kabel USB-C do USB 2.0 typu A</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>VGN</p></li><li><p>Dane producenta</p><p>SHENZHEN TENGMI TECHNOLOGY CO.,LTD, ZhIHuiGu, BaoHuaSenTongLe ,Qianjin 2nd xixiang Street ,BaoAn District, Guangdong, 302 Room Shenzhen, Chiny</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland ,info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/vgn.jpg",
+  "images": [
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-4k_60123.webp",
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-4k_60124.webp",
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-4k_60123.webp",
+    "galerie/m/mysz-vgn-dragonfly-f1-pro-4k_60124.webp"
+  ],
+  "manufacturer": "VGN"
+}

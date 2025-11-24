@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "14424",
+  "code": "GEPH-153",
+  "name": "Obudowa Phanteks Eclipse G500A Tempered Glass Black",
+  "price": 608.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane technicze:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>240 x 515 x 500 mm (W x H x D)</p></li><li><p>Color</p><p>Black</p></li><li><p>Materiał</p><p>stal, szkło harotwane</p></li><li><p>Standard</p><p>Micro-ATX, Mini-ITX, ATX, E-ATX</p></li><li><p>Możliwość montażu wentylatorów</p><p>3x 120 mm / 140 mm (front)<br/>3x 120 mm / 140 mm (cover)<br/>1x 120 mm / 140 mm (back)</p></li><li><p>Fabrycznie zainstalowane wentylatory</p><p>4x 140mm PWM fans (front and rear)</p></li><li><p>Możliwość montażu chłodnic</p><p>1x max. 360 mm / 420 mm (front)<br/>1x max. 280 mm / 360 mm (lid)<br/>1x max. 120 mm (rear)</p></li><li><p>Miejsca na napędy</p><p>2x 3.5\" lub 6x 2.5\" (HDD cage)<br/>3x 2.5\" (mainboard tray)</p></li><li><p>Zasilacz</p><p>1x standard ATX dp 250mm długości (brak w zestawie)</p></li><li><p>Miejsce na karty rozszerzeń</p><p>7</p></li><li><p>I/O panel</p><p>1x power button<br/>2x USB 3.0 (Type-A, USB 3.2 Gen 1, max. 5 Gbit/s)<br/>1x USB 3.1 (Type C, USB 3.2 Gen 2, max. 10 Gbit/s)<br/>1x 3, 5mm combo connector</p></li><li><p>Maksymalna długość karty graficznej</p><p>435 mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>185mm</p></li><li><p>W zestawie</p><p>1x obudowa<br/>4x 140 mm PWM fan (preinstalled)<br/>1x Vertical GPU mount<br/>1x GPU mount<br/>2x 3.5 inch mounting cage<br/>3x 2.5 inch mounting brackets<br/>1x PHANTEKS Accessory boxa</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/o/obudowa-phanteks-eclipse-g500_52230.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52231.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52232.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52233.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52234.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52235.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52236.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52237.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52238.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52239.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52230.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52231.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52232.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52233.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52234.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52235.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52236.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52237.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52238.webp",
+    "galerie/o/obudowa-phanteks-eclipse-g500_52239.webp"
+  ],
+  "manufacturer": "Phanteks"
+}

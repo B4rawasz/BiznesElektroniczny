@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "14692",
+  "code": "ZUAD-1209",
+  "name": "Zestaw opasek na rzep do porządkowania kabli Kolink Core Adept ARGB Connector Link Kit",
+  "price": 12.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary rzepu</p><p>100 x 14 mm (dł. x szer.)</p></li><li><p>Wymiary rzepu</p><p>120 x 30 mm (dł. x szer.)</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>tworzywo sztuczne</p></li><li><p>Zawartość paczki</p><p>6x rzepy<br/>1x samoprzylepna taśma na rzep</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Kolink</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/kolink.jpg",
+  "images": [
+    "galerie/z/zestaw-opasek-na-rzep-do-porz_53686.webp",
+    "galerie/z/zestaw-opasek-na-rzep-do-porz_53686.webp"
+  ],
+  "manufacturer": "Kolink"
+}

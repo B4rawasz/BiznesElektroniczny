@@ -1,0 +1,25 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Pamięć RAM",
+        "DDR5"
+    ],
+    "id": "19724",
+    "code": "AX5U6400C3216G-DTLABRBK",
+    "name": "Pamięć DDR5 ADATA XPG Lancer Blade RGB 32GB(2* 16GB) 6400MHz CL32",
+    "price": 1059.9,
+    "description": "<p>XPG LANCER BLADE RGB to pamięć DDR5 zaprojektowana z myślą o entuzjastach wydajności, graczach oraz overclockerach. Moduły oferują nie tylko imponującą częstotliwość 6400 MHz i niskie opóźnienia CL32, ale również zaawansowane możliwości personalizacji dzięki dynamicznemu podświetleniu RGB.</p><p>Zaawansowane oprogramowanie XPG Prime pozwala na synchronizację efektów świetlnych z innymi produktami z ekosystemu XPG, a kompatybilność z rozwiązaniami RGB największych producentów płyt głównych umożliwia pełną kontrolę nad wyglądem zestawu. Do wyboru użytkownik ma m.in. tryby: stałe światło, efekt oddychania, kometa oraz tryb muzyczny.</p><p>Wbudowany układ PMIC odpowiada za stabilne zasilanie i większą energooszczędność, natomiast technologia ECC (Error-Correcting Code) umożliwia korekcję błędów w czasie rzeczywistym, zapewniając wysoką niezawodność. Pamięć obsługuje profile przetaktowywania AMD EXPO i Intel XMP 3.0, co pozwala na szybkie i łatwe uzyskanie maksymalnej wydajności bez zaawansowanej konfiguracji BIOS-u.</p><p>Wykonana z wysokiej jakości komponentów, XPG LANCER BLADE RGB oferuje nie tylko doskonałą estetykę, ale także długotrwałą i stabilną pracę.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ pamięci</p><p>DDR5</p></li><li><p>Rodzaj złącza</p><p>UDIMM</p></li><li><p>Pojemność całkowita</p><p>32 GB (2 x 16 GB)</p></li><li><p>Częstotliwość pracy</p><p>6400 MHz</p></li><li><p>Opóźnienia</p><p>CL32</p></li><li><p>Napięcie</p><p>1.4 V</p></li><li><p>Konfiguracja</p><p>Zestaw (Dual Channel)</p></li><li><p>Radiator</p><p>Tak</p></li><li><p>Niskoprofilowe</p><p>Nie</p></li><li><p>Podświetlenie</p><p>RGB</p></li><li><p>Obsługiwane profile</p><p>AMD EXPO, Intel XMP 3.0</p></li><li><p>Zarządzanie zasilaniem</p><p>Wbudowany układ PMIC</p></li><li><p>ECC</p><p>Tak, korekcja błędów w czasie rzeczywistym</p></li></ul></article>",
+    "security_data": "",
+    "manufacturer_img": "galerie/producenci/adata.jpg",
+    "images": [
+        "galerie/p/pamiec-ddr5adata-xpg-lancer-b_73104.webp",
+        "galerie/p/pamiec-ddr5adata-xpg-lancer-b_73105.webp",
+        "galerie/p/pamiec-ddr5adata-xpg-lancer-b_73106.webp",
+        "galerie/p/pamiec-ddr5adata-xpg-lancer-b_73107.webp",
+        "galerie/p/pamiec-ddr5adata-xpg-lancer-b_73104.webp",
+        "galerie/p/pamiec-ddr5adata-xpg-lancer-b_73105.webp",
+        "galerie/p/pamiec-ddr5adata-xpg-lancer-b_73106.webp",
+        "galerie/p/pamiec-ddr5adata-xpg-lancer-b_73107.webp"
+    ]
+}

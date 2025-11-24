@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Dyski HDD"
+  ],
+  "id": "8624",
+  "code": "HDWD110UZSVA",
+  "name": "Dysk Toshiba P300 1TB SATA III 7200RPM 64MB cache (HDWD110UZSVA)",
+  "price": 229.0,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p><strong>Toshiba P300</strong> to idealne rozwiązanie dla projektantów graficznych i kreatywnych profesjonalistów poszukujących wysokiej wydajności. Cechuje się pojemnością sięgającą 3 TB, szybkim odczytem i zapisem oraz bezpieczną konstrukcją.</p><p>Technologia dual-stage actuator, dostępna w modelach dysków P300 o pojemności 2 TB i 3 TB, zwiększa precyzję pozycjonowania, przeciwdziałając wpływowi drgań na wyrównanie głowicy w stosunku do ścieżki. Takie rozwiązanie zapewnia większą precyzję, szybszy odczyt i zapis oraz błyskawiczny dostęp do danych.</p><p>Dzięki wyposażeniu w technologię Perpendicular Magnetic Recording, która oferuje ponad trzykrotnie większą gęstość zapisu niż w przypadku tradycyjnych rozwiązań i zapewnia dużą pojemność dysku P300, i technologię Tunnel Magneto-Resistive recording, która zwiększa stabilność, dysk P300 jest świetnie przygotowany do szybkiego i bezpiecznego odczytu oraz zapisu danych.</p><p>Konstrukcja dysku P300 obejmuje wewnętrzny czujnik wstrząsów, co zapobiega utracie danych. Ponadto technologia ramp loading sprawia, że podczas transportu dysku twardego lub komputera stacjonarnego głowica nie styka się z powierzchnią dysku, co zapobiega zadrapaniom i utracie danych.</p><p>Firma Toshiba słynie w świecie z 40-letniej historii nowatorskich rozwiązań. Zaawansowane technologie stosowane w jej dyskach twardych wpisują się w tę tradycję innowacyjności. Zostały opracowane z myślą o dużej pojemności i znakomitej wydajności. Możesz więc mieć pewność, że Twój komputer stacjonarny w pełni korzysta z ogromnego doświadczenia firmy Toshiba w dziedzinie dysków twardych.</p><p><strong>Opiekun produktu: Jarosław Wielgos, mail: <a href=\"/cdn-cgi/l/email-protection#533932213638133b3221377e23307d233f\"><span class=\"__cf_email__\" data-cfemail=\"137972617678537b7261773e63703d637f\">[email protected]</span></a> tel. 531-101-102</strong></p><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Format: 3,5 cali</li><li>Pojemność: 1000 GB</li><li>Interfejs: Serial ATA III</li><li>Prędkość obrotowa: 7200 rpm</li><li>Pamięć Cache: 64 MB</li><li>Technologia przechowywania: HDD</li><li>Rodzina produktów: Performance</li><li>Średni czas dostępu: 4.17 ms</li><li>Technologie:<br/>-NCQ<br/>-PMR<br/>-SATA 3<br/>-TMR</li><li>Wymiary: 101,6 x 26,1 x 147 mm</li><li>Waga: 450 g</li></ul>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Toshiba</p></li><li><p>Dane producenta</p><p>Toshiba Electronics Europe GmbH, Hansaallee 181, 40549 Dusseldorf, Germany, ESO@toshiba-teg.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/toshiba.jpg",
+  "images": [
+    "galerie/d/dysk-toshiba-p300-1tb-sata-ii_23975.webp",
+    "galerie/d/dysk-toshiba-p300-1tb-sata-ii_23976.webp",
+    "galerie/d/dysk-toshiba-p300-1tb-sata-ii_23977.webp",
+    "galerie/d/dysk-toshiba-p300-1tb-sata-ii_23975.webp",
+    "galerie/d/dysk-toshiba-p300-1tb-sata-ii_23976.webp",
+    "galerie/d/dysk-toshiba-p300-1tb-sata-ii_23977.webp"
+  ],
+  "manufacturer": "Toshiba"
+}

@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Ładowarki"
+  ],
+  "id": "15608",
+  "code": "Y-C480BK",
+  "name": "Kabel USB-A - USB-C Unitek Y-C480BK QC 3.0 - 25cm",
+  "price": 8.99,
+  "description": "<h2>Proste rozwiązania</h2><p>Czasem potrzebujesz prostego, ale niezawodnego przewodu USB-A na USB-C. I taki właśnie jest ten kabel. Jest dostępny w wersjach 0,25; 0,5; 1; 1,5; 2 i 3 metry, łatwo więc dobrać odpowiednią długość do danego zastosowania. Zalewane wtyczki gwarantują długą żywotność, a ekranowanie i miedziane żyły niezakłócony transfer danych.</p><h2>Szybkie ładowanie</h2><p>Kabel przewodzi prąd o maksymalnej mocy 27 W (9V/3A), więc doskonale nadaje się do ładowarek z technologią QuickCharge 3.0. Przesyłanie danych jest zgodne ze specyfikacją USB 2.0 – odbywa się z prędkością 480 Mbps.</p><h2>Trzy lata gwarancji</h2><p>Tak jak inne produkty marki Unitek ten przewód może zostać objęty trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Głębokość</p><p>25 cm</p></li><li><p>Przepustowość</p><p>0.48 Gbps</p></li><li><p>Standard USB</p><p>USB 2.0</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-A</p></li><li><p>Złącze 2</p><p>Wtyk USB-C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-usb-a-usb-c-unitek-y-c4_55580.webp",
+    "galerie/k/kabel-usb-a-usb-c-unitek-y-c4_55581.webp",
+    "galerie/k/kabel-usb-a-usb-c-unitek-y-c4_55582.webp",
+    "galerie/k/kabel-usb-a-usb-c-unitek-y-c4_55580.webp",
+    "galerie/k/kabel-usb-a-usb-c-unitek-y-c4_55581.webp",
+    "galerie/k/kabel-usb-a-usb-c-unitek-y-c4_55582.webp"
+  ],
+  "manufacturer": "Unitek"
+}

@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze 650W"
+  ],
+  "id": "14511",
+  "code": "PA-6G1BB-EU",
+  "name": "Zasilacz NZXT C650 V2 650W 80Plus Gold",
+  "price": 452.9,
+  "description": "OPIS <h2>ZASILACZ NZXT C650 V2 650W MODULARNY 80+ GOLD</h2><p>Zasilacz ATX C SERIES GOLD firmy NZXT zapewnia bezpieczną, niezawodną moc, zapewniając jednocześnie optymalną wydajność i cichszą pracę. Wyprodukowane z wysokiej jakości komponentów i objęte 10-letnią gwarancją producenta, zasilacze C Series Gold ATX zapewniają zarówno spokój ducha, jak i 650, 750, 850 oraz 1000 watów czystej, niezawodnej mocy dla Twojego systemu do gier komputerowych.</p><h2>BARDZIEJ WYDAJNY</h2><p>Przy 50% obciążeniu i wysokim napięciu wejściowym wydajność konwersji energii jest wyższa o 1,5% niż 80plus Gold Standard.</p><h2>W PEŁNI MODULARNY</h2><p>Używaj w C SERIES GOLD tylko tych kabli, których potrzebujesz, aby utrzymać system w czystości i porządku. Czarny kabel w oplocie i matowe, czarne wykończenie bezproblemowo pasują do każdego stylu komputera PC.</p><h2>DOKŁADNIE PRZETESTOWANE</h2><p>C SERIES GOLD została zbudowana i przetestowana zgodnie z surowymi normami pod kątem bezproblemowej instalacji i stabilnej pracy. Pasuje do każdej obudowy obsługującej zasilacz ATX i obsługuje najnowsze procesory graficzne NVIDIA i AMD do serii 30 oraz serię AMD 6000</p><h2>BARDZIEJ PRECYZYJNY I BEZBŁĘDNY</h2><p>Mechanizm zabezpieczający oparty na mikrosterowniku (MCU) monitoruje prąd i napięcie oraz moc wyjściową.</p><h2>ZOPTYMALIZOWANY I CICHY</h2><p>Zasilacz C SERIES GOLD optymalizuje rozpraszania ciepła dzięki ulepszonym komponentom i zoptymalizowanej konstrukcji obwodu. Wentylator został ulepszony z 120 na 135mm. Dodatkowo wentylator PWM został wyposażony w łożysko FDB, aby zapewnić cichą pracę przy dużym obciążeniu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standard</p><p>ATX 12V v2.52</p></li><li><p>Moc</p><p>650 W</p></li><li><p>Certyfikat sprawności</p><p>80 Plus Gold</p></li><li><p>Efektywność</p><p>90.5 %</p></li><li><p>Typ okablowania</p><p>Modularne</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Prędkość obrotowa wentylatora +/-10%</p><p>2300 RPM</p></li><li><p>Poziom hałasu</p><p>0 - 44.5 dB</p></li><li><p>Typ łożyska</p><p>FDB (Fluid Dynamic Bearing)</p></li><li><p>Zakres napięcia wejściowego</p><p>100 - 240 V</p></li><li><p>Zakres natężenia wejściowego</p><p>8-4 A</p></li><li><p>Natężenie przy napięciu +12V1</p><p>54.2 A</p></li><li><p>Natężenie przy napięciu +5V</p><p>22 A</p></li><li><p>Natężenie przy napięciu +3.3V</p><p>22 A</p></li><li><p>Natężenie przy napięciu +5Vsb</p><p>3 A</p></li><li><p>Natężenie przy napięciu -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +12V</p><p>650 W</p></li><li><p>Obciążalność linii +3.3V i +5V</p><p>120 W</p></li><li><p>Główne złącze zasilające</p><p>ATX 24-pin</p></li><li><p>Liczba złącz EPS (CPU)</p><p>2</p></li><li><p>Liczba złącz PCI-E</p><p>4</p></li><li><p>Liczba złącz SATA</p><p>6</p></li><li><p>Liczba złącz Molex</p><p>6</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Typ PFC</p><p>Aktywne</p></li><li><p>Zalecana temperatura otoczenia</p><p>0 - 50 °C</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Długość</p><p>150 mm</p></li><li><p>Szerokość</p><p>150 mm</p></li><li><p>Wysokość</p><p>86 mm</p></li><li><p>Akcesoria w zestawie</p><p>Kabel 24-Pin ATX<br/>Kabel 4+4-Pin CPU x2<br/>Kabel 6+2-pin PCIe x2<br/>Kabel SATA x2<br/>estaw elementów montażowych</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>NZXT</p></li><li><p>Dane producenta</p><p>NZXT Europe GmbH, Ammerthalstr. 32 85551, Kirchheim b. München, Bayern Germany , privacy@nzxt.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/nzxt.jpg",
+  "images": [
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52928.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52929.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52930.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52931.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52932.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52928.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52929.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52930.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52931.webp",
+    "galerie/z/zasilacz-nzxt-c650-v2-650w-80_52932.webp"
+  ],
+  "manufacturer": "NZXT"
+}

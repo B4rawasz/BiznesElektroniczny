@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "7007",
+  "code": "CA-6P-01",
+  "name": "Przedłużacz Gelid PCI-E 6pin 30cm czarny",
+  "price": 18.5,
+  "description": "OPIS <p>Gelid Single Sleeved Cables to seria wysokiej jakości wewnętrznych przedłużaczy zasilania. Do ich oplecenia wykorzystany został gęsty oplot z tworzywa sztucznego, dzięki temu wewnętrzne przewody nie prześwitują nawet gdy są mocno wygięte. Dodatkowo każdy przewód umieszczony jest w oddzielnym oplocie bez termokurczy, wygląda to estetycznie i bardzo efektownie, z pewnością zostanie to docenione przez wszystkich entuzjastów modyfikacji.</p><p>Po podświetleniu katodą lub innym źródłem UV materiał z którego wykonany jest oplot intensywnie się wzbudza.  </p><p>Przedłużacz zasilania karty graficznej 6pin PCIE.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li><div>Przedłużacz PCIE 6pin</div></li><li><div>Długość: 32cm z wtyczkami</div></li><li><div>Przewody: 6 żył każda w osobnym czarnym oplocie</div></li><li><div>Grubość przewodu: 18AWG</div></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gelid.jpg",
+  "images": [
+    "galerie/p/przedluzacz-gelid-pci-e-6pin_68730.webp",
+    "galerie/p/przedluzacz-gelid-pci-e-6pin_15668.webp",
+    "galerie/p/przedluzacz-gelid-pci-e_15669.webp",
+    "galerie/p/przedluzacz-gelid-pci-e_15670.webp",
+    "galerie/p/przedluzacz-gelid-pci-e-6pin_68730.webp",
+    "galerie/p/przedluzacz-gelid-pci-e-6pin_15668.webp",
+    "galerie/p/przedluzacz-gelid-pci-e_15669.webp",
+    "galerie/p/przedluzacz-gelid-pci-e_15670.webp"
+  ],
+  "manufacturer": "Gelid"
+}

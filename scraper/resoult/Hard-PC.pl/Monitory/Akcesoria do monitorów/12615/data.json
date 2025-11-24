@@ -1,0 +1,33 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Monitory",
+    "Akcesoria do monitorów"
+  ],
+  "id": "12615",
+  "code": "LBB-003",
+  "name": "Konwerter VGA D-Sub Męski na HDMI Żeński",
+  "price": 25.9,
+  "description": "<h2>Mozos LBB-003.</h2><p>Adapter VGA do HDMI, audio, umożliwia konwersję sygnału z VGA na HDMI. Konwerter zapewnia wysokiej jakości transmisję bez jakiejkolwiek utraty sygnału. Dodatkowo adapter został wyposażony w wejście mini Jack 3.5 mm do transmisji audio. W adapterze znajdziemy uniwersalne źródło zasilania dzięki wejściu micro USB. Urządzenie obsługuje rozdzielczości: 1080p/720p/60Hz. Mozos LBB-003 swoje zastosowanie znajdzie między innymi w przesyłaniu sygnału video oraz audio z komputerów i urządzeń ze złączem VGA do monitorów, wyświetlaczy czy też projektorów wyposażonych w złącze HDMI.</p><figure><img alt=\"\" height=\"800\" src=\"galerie/k/konwerter-vga-d-sub-meski-na_45215.webp\" width=\"800\"/></figure><h2>Adapter typu plug and play. Łatwa konfiguracja.</h2><p>Plug-and-play, automatycznie wykrywa natywną rozdzielczość wyświetlacza i skaluje moc wyjściową komputera, aby ją dopasować. Konwerter pobierze sygnał audio z komputera i osadzi go w wyjściu sygnału HDMI, dzięki czemu użytkownik będzie mógł cieszyć się sygnałem zarówno audio, jak i wideo za pomocą jednego kabla. Nasz adapter posiada najlepsze parametry na rynku. Nie daj się skusić tanimi, niemarkowymi produktami. Konwerter od Mozos, kompatybilny jest ze wszystkimi systemami Windows.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"attribs\"><li>Wysokiej jakości materiał przewodzący.</li><li>Przejściówka VGA na HDMI + standardowy port audio 3,5 mm.</li><li>Szeroka kompatybilność: telewizor, telewizja cyfrowa, plazma, telewizor LCD, projektor.</li><li>Inteligentny chip i praca bez zakłóceń.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rodzaj</p><p>Przejściówka VGA (złącze DB15) na HDMI + Audio (standardowy port audio 3,5 mm).</p></li><li><p>Materiał</p><p>Pozłacana, odporna na zużycie konstrukcja.</p></li><li><p>Obsługa rozdzielczości</p><p>720, 1080l, 1080P.</p></li><li><p>Kompatybilność z systemami</p><p>Windows.</p></li><li><p>Chipset</p><p>MS9288C</p></li><li><p>Kierunkowość</p><p>Jednokierunkowy</p></li><li><p>Akcesoria w zestawie</p><p>Przewód AUX w zestawie.</p></li><li> </li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/k/konwerter-vga-d-sub-meski-na_45213.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45214.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45215.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45216.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45217.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45218.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45219.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45220.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45213.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45214.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45215.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45216.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45217.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45218.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45219.webp",
+    "galerie/k/konwerter-vga-d-sub-meski-na_45220.webp"
+  ],
+  "manufacturer": "MOZOS"
+}

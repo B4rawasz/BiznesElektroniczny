@@ -1,0 +1,32 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "19091",
+  "code": "LULI-054",
+  "name": "Wentylator Lian Li Uni Fan SL-INF 120 ARGB Reverse White - 120mm",
+  "price": 127.9,
+  "description": "<h2>Stylowy i wydajny wentylator Reverse</h2><p>Lian Li UNI FAN SL-INF 120 Reverse Blade to 120 mm wentylator PWM, który wyróżnia się unikalnym wyglądem i wysoką wydajnością. Dzięki konstrukcji wstecznej pozwala na odwrócenie kierunku przepływu powietrza, jednocześnie eksponując stylowy design z efektownymi lustrami infinity mirror. To idealne rozwiązanie dla użytkowników, którzy cenią estetykę i chcą stworzyć spójny wygląd wnętrza obudowy.</p><h2>Mocne chłodzenie i cicha praca</h2><p>Wentylator osiąga prędkość do 2 100 obr./min, generując maksymalny przepływ powietrza na poziomie 108,05 m³/h oraz ciśnienie statyczne 2,02 mmH2O. Pomimo wysokiej wydajności, pracuje cicho – jego poziom hałasu wynosi zaledwie 32 dB(A). Dzięki zastosowaniu gumowych odsprzęgaczy skutecznie redukuje wibracje, co przekłada się na jeszcze cichszą pracę komputera.</p><h2>Inteligentny system podłączenia – mniej kabli, więcej porządku</h2><p>Lian Li UNI FAN SL-INF 120 Reverse Blade wykorzystuje zaawansowany system połączeń pinowych, eliminując konieczność stosowania nadmiernej liczby kabli. Wentylatory łączą się ze sobą w klaster, co znacznie ułatwia montaż i poprawia organizację okablowania.</p><h2>ARGB i efekt infinity mirror – wyjątkowa estetyka</h2><p>Wentylator wyposażono w aż 40 adresowalnych diod RGB, umieszczonych na rotorze i w aluminiowej ramie. Dodatkowo, efekt infinity mirror na centralnym hubie i bokach obudowy nadaje podświetleniu wyjątkowej głębi. Całość można dostosować za pomocą oprogramowania L-Connect 3 lub poprzez podłączenie do kompatybilnej płyty głównej.</p><h2>Idealny do obudów, radiatorów i chłodzeń CPU</h2><p>Dzięki wysokiemu ciśnieniu statycznemu i dużemu przepływowi powietrza, wentylator doskonale sprawdzi się zarówno jako element systemu chłodzenia obudowy, jak i w konfiguracjach chłodzenia wodnego (radiatory) oraz powietrznego (chłodzenia CPU). Dodatkowo, hydrodynamiczne łożysko zapewnia długą żywotność i stabilną pracę nawet przy intensywnym użytkowaniu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 122,1 x 25 mm (S x W x G)</p></li><li><p>Materiał</p><p>plastik, aluminium</p></li><li><p>Łożysko</p><p>hydrodynamiczne</p></li><li><p>Prędkość obrotowa</p><p>200 - 2 100 obr./min</p></li><li><p>Poziom hałasu</p><p>maks. 32 dB(A)</p></li><li><p>Przepływ powietrza</p><p>maks. 108,05 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>maks. 2,02 mmH₂O</p></li><li><p>Napięcie</p><p>12 V</p></li><li><p>Napięcie startowe</p><p>6 V</p></li><li><p>Natężenie prądu</p><p>0,18 A</p></li><li><p>Pobór mocy</p><p>5,16 W</p></li><li><p>Typ podświetlenia</p><p>cyfrowo adresowalne RGB</p></li><li><p>Liczba diod</p><p>40 LED</p></li><li><p>Natężenie prądu</p><p>0,6 A</p></li><li><p>Złącze</p><p>7-pinowe (zintegrowane PWM i ARGB)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70944.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70945.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70946.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70947.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70948.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70949.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70950.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70944.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70945.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70946.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70947.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70948.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70949.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-sl_70950.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

@@ -1,0 +1,29 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Obudowy",
+        "Obudowy z oknem"
+    ],
+    "id": "19529",
+    "code": "0000008303",
+    "name": "Obudowa Antec AX90 Black ARGB",
+    "price": 390.9,
+    "description": "<h2>Obudowa do komputera Antec Airflow Xtreme AX90 Black ARGB</h2><p>Obudowa komputerowa Antec AX90 to idealny wybór dla graczy i entuzjastów komputerowych poszukujących nowoczesnego designu, wydajnego chłodzenia i solidnej konstrukcji. Dzięki przemyślanemu układowi wnętrza, możliwość instalacji różnych konfiguracji sprzętowych jest niezwykle wygodna, a efektowne oświetlenie ARGB nadaje całości stylowego wyglądu.</p><h2>Nowoczesny design i solidne wykonanie</h2><p>Obudowa Antec AX90 wyróżnia się eleganckim designem, który łączy funkcjonalność z estetyką. Frontowy panel w kształcie diamentowej siatki zapewnia optymalny przepływ powietrza, a hartowane szkło boczne umożliwia eksponowanie komponentów. Konstrukcja z wytrzymałych materiałów, takich jak stal, plastik i szkło, gwarantuje długowieczność i stabilność.</p><h2>Maksymalna kompatybilność sprzętowa</h2><p>Wnętrze obudowy pozwala na instalację płyt głównych w standardzie ATX, microATX oraz Mini-ITX, co czyni ją niezwykle uniwersalnym wyborem. Dodatkowo, miejsce na karty graficzne o długości do 385 mm oraz chłodzenia procesora do 160 mm sprawia, że obudowa pomieści nawet najbardziej wymagające konfiguracje.</p><h2>Rozbudowane możliwości chłodzenia</h2><p>Antec AX90 wspiera montaż do 11 wentylatorów 120 mm lub 5 wentylatorów 140 mm, co pozwala na efektywne odprowadzanie ciepła. Możliwość instalacji chłodzenia wodnego z radiatorami do 360 mm na froncie i górze obudowy zapewnia najwyższy poziom wydajności termicznej.</p><h2>Personalizacja i wygoda użytkowania</h2><p>Dzięki wbudowanemu kontrolerowi ARGB, użytkownik może dostosować oświetlenie do swoich preferencji, korzystając z przycisku na panelu przednim lub synchronizując je z płytą główną. Panel przedni został również wyposażony w porty USB 3.0, USB 2.0 oraz wejścia na słuchawki i mikrofon, co zapewnia wygodny dostęp do urządzeń peryferyjnych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Przestronny design: wspiera płyty główne ATX, microATX i Mini-ITX.</li><li>Wydajne chłodzenie: miejsca na aż 11 wentylatorów 120 mm i obsługa chłodzenia wodnego do 360 mm.</li><li>Wytrzymała konstrukcja: wykonana z plastiku, stali oraz hartowanego szkła.</li><li>Estetyczny wygląd: przezroczysty panel boczny i siatka frontowa dla maksymalnego przepływu powietrza.</li><li>Wbudowany hub ARGB: łatwa personalizacja oświetlenia z synchronizacją z płytą główną.</li><li>Funkcjonalność: porty USB 3.0, USB 2.0 oraz wejścia audio na panelu przednim.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Midi Tower</p></li><li><p>Standard zasilacza</p><p>ATX</p></li><li><p>Miejsce na zasilacz</p><p>Dół obudowy z tyłu</p></li><li><p>Format płyty głównej</p><p>ATX, MicroATX, Mini-ITX</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Ilość wewnętrznych zatok 3.5</p><p>2 szt</p></li><li><p>Ilość wewnętrznych zatok 2.5</p><p>2 szt</p></li><li><p>Wentylatory zainstalowane</p><p>4 szt</p></li><li><p>Wentylatory maksymalna ilość</p><p>11 szt</p></li><li><p>Filtry przeciwkurzowe</p><p>Tak</p></li><li><p>Limit wysokości chłodzenia CPU</p><p>160 mm</p></li><li><p>Limit długości karty graficznej</p><p>385 mm</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Antec</p></li><li><p>Podmiot odpowiedzialny</p><p>Antec Europe BV, Corkstraat 46, 3047 AC Rotterdam, Holandia, eusupport@antec.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/antec.jpg",
+    "images": [
+        "galerie/o/obudowa-antec-ax90-black-argb_73215.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73216.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73217.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73218.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73219.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73220.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73215.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73216.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73217.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73218.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73219.webp",
+        "galerie/o/obudowa-antec-ax90-black-argb_73220.webp"
+    ]
+}

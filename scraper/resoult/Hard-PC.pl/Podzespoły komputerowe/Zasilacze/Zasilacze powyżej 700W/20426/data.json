@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "20426",
+  "code": "NEPH-028",
+  "name": "Zasilacz Phanteks AMP GH 1200W ATX 3.1 80+ Platinum Black",
+  "price": 816.9,
+  "description": "<h2>Mocny i niezawodny zasilacz gamingowy</h2><p><strong>Phanteks AMP GH 1200W</strong> to wysokowydajny zasilacz ATX 3.1, idealny dla entuzjastów sprzętu komputerowego. Kompaktowa obudowa o głębokości <strong>140 mm</strong> pasuje do większości standardowych konstrukcji, a <strong>certyfikat 80 PLUS Platinum</strong> potwierdza doskonałą sprawność energetyczną. Dzięki <strong>w pełni modułowej budowie</strong> oraz ekranowanym i teksturowanym kablom instalacja przebiega szybko i estetycznie.</p><h2>Wsparcie dla nowych technologii: ATX 3.1 i PCIe 5.1</h2><p>Model <strong>AMP GH 1200W</strong> spełnia wymagania najnowszych standardów <strong>ATX 3.0 i 3.1</strong>, zapewniając kompatybilność z nowoczesnym sprzętem. Dzięki zastosowaniu złącza <strong>12V 2x6 (PCIe 5.1)</strong>, zasilacz gwarantuje stabilne i bezpieczne zasilanie najbardziej wymagających kart graficznych obecnych i nadchodzących generacji.</p><h2>Modularna konstrukcja i pełna elastyczność połączeń</h2><p><strong>Pozłacane złącza</strong> zapewniają niską rezystancję oraz większą wydajność energetyczną. W zestawie z zasilaczem znajdują się wszystkie niezbędne przewody do podłączenia <em>płyty głównej, procesora, kart PCIe, urządzeń SATA oraz Molex</em>. Dzięki <strong>modularnej konstrukcji</strong> możesz z łatwością dopasować układ kabli do swojej konfiguracji, co przekłada się na lepszy przepływ powietrza i porządek w obudowie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wydajny zasilacz ATX 3.1 o mocy 1200 W do komputerów klasy high-end</li><li>Certyfikat 80 PLUS Platinum dzięki wysokiej sprawności do 94%</li><li>Cichy wentylator 120 mm z łożyskiem ślizgowym hydrodynamicznym zapewniającym wydajne chłodzenie</li><li>Mniej plątaniny kabli i lepszy przepływ powietrza dzięki modułowemu zarządzaniu kablami</li><li>Kable z indywidualnie teksturowanymi wiązkami kablowymi dla uporządkowanej konstrukcji</li><li>Cicha praca po naciśnięciu przycisku dzięki półpasywnemu trybowi hybrydowemu</li><li>Zawiera kabel zasilający 12 V 2x6 do wydajnych kart graficznych</li></ul><h2>Dane techniczne zasilacza ATX 1200W 80 PLUS Platinum</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Czarny</p></li><li><p>Wymiary (szer. × wys. × głęb.)</p><p>150 × 86 × 140 mm</p></li><li><p>Wentylator</p><p>120 mm, półpasywny (tryb pasywny, przełączalny)</p></li><li><p>Standard</p><p>ATX 3.1</p></li><li><p>Format zasilania</p><p>ATX</p></li><li><p>Dystrybucja napięcia 12V</p><p>Pojedyncza szyna</p></li><li><p>Modularność</p><p>W pełni modułowy</p></li><li><p>Moc znamionowa</p><p>1200 W</p></li><li><p>Sprawność</p><p>Certyfikat 80 PLUS Platinum</p></li><li><p>Specyfikacja prądowa linii:</p><p>+3,3 V: 20 A / 66 W<br/>+5 V: 20 A / 100 W<br/>+3,3 V i +5 V (łącznie): 120 W<br/>+12 V: 62 A / 1200 W (łącznie)<br/>-12 V: 0,3 A / 3,6 W<br/>+5 Vsb: 2,5 A / 12,5 W</p></li><li><p>Obwody zabezpieczające</p><p>OVP – ochrona przed przepięciem i podnapięciem<br/>UVP – ochrona przed podnapięciem<br/>SCP – ochrona przed zwarciem<br/>OPP – ochrona przed przeciążeniem<br/>OTP – ochrona przed przegrzaniem<br/>OCP – ochrona nadprądowa Zabezpieczenie przed brakiem obciążenia Zabezpieczenie przed resetem</p></li><li><p>Połączenia wewnętrzne</p><p>2x CPU 4+4-pin<br/>1x 12V-2x6&gt;<br/>4x PCIe 6+2-pin<br/>14x SATA<br/>2x Molex 4-pin</p></li><li><p>Długości kabli</p><p>Płyta główna 24-pin: 610 mm<br/>CPU 8-pin: 650 mm<br/>PCIe: 750 mm<br/>12V-2x6: 720 mm<br/>SATA: do 900 mm</p></li><li><p>Oświetlenie / RGB</p><p>Brak</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77204.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77203.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77201.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77202.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77205.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77204.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77203.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77201.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77202.webp",
+    "galerie/z/zasilacz-phanteks-amp-gh-750w_77205.webp"
+  ],
+  "manufacturer": "Phanteks"
+}

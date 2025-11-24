@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20581",
+  "code": "WASE-886",
+  "name": "Chłodzenie wodne AiO Lian Li HydroShift LCD 360mm Fanless White",
+  "price": 706.9,
+  "description": "",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-lian-li_77486.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_77487.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_77488.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_77486.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_77487.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_77488.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

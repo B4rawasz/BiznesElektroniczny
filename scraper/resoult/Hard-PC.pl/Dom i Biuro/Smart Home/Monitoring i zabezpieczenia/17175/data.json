@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Monitoring i zabezpieczenia"
+  ],
+  "id": "17175",
+  "code": "TSL-CAM-19TG",
+  "name": "Tesla Smart Kamera 360 4G na baterie",
+  "price": 888.99,
+  "description": "<h2>Niezależność energetyczna</h2><p>Kamera TESLA Smart Camera 360 4G Battery w połączeniu z panelem słonecznym TESLA 5W Solar Panel – to idealne rozwiązanie autonomiczne. Oznacza to, że jest bezobsługowe, nawet bez podłączenia do zasilania. Jeśli panel będzie wystawiony na bezpośrednie działanie promieni słonecznych przez co najmniej godzinę dziennie, kamera będzie działać nieprzerwanie.</p><h2>Idealny strażnik do odległych lokalizacji</h2><p>Do domków jednorodzinnych, drewnianych domów, stodół lub innych miejsc oddalonych od cywilizacji. Dzięki inteligentnej kamerze zasilanej bateryjnie nie musisz się martwić o brak Wi-Fi lub energii elektrycznej w tym miejscu. Działa również niezależnie od warunków pogodowych i dzięki ochronie klasy IP65 nie boi się deszczu.</p><h2>Miesięczne zużycie danych</h2><p>Monitorowanie na żywo 5 minut dziennie 50 alertów o ruchu 0,85 - 1,63 GB</p><p>Monitorowanie na żywo 10 minut dziennie 50 alertów o ruchu 1,71 - 3,26 GB</p><p>Monitorowanie na żywo 20 minut dziennie 50 alertów o ruchu 3,41 - 6,52 GB</p><h2>Rozpoznaje obecność osoby i wysyła powiadomienia</h2><p>Kamera jest wyposażona w zaawansowane funkcje wykrywania, dzięki czemu może rozpoznać człowieka. Zmniejsza to liczbę fałszywych sygnałów, co z kolei zmniejsza zużycie energii elektrycznej.</p><h2>Połączenie dwukierunkowe</h2><p>Chcesz zrobić niespodziankę nieproszonemu gościowi lub po prostu porozmawiać z kurierem? Nie ma problemu. Kamera ma wbudowany mikrofon i głośnik oraz zapewnia dwukierunkowy dźwięk, dzięki czemu możesz korzystać z aplikacji na smartfonie, aby udzielać wskazówek i uzyskiwać odpowiedzi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>8 szt</p></li><li><p>Wysokość:</p><p>10.3 cm</p></li><li><p>Szerokość:</p><p>15.8 cm</p></li><li><p>Głębokość:</p><p>20 cm</p></li><li><p>Waga:</p><p>0.92 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-kamera-360-4g-na_63343.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63344.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63345.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63346.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63347.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63343.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63344.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63345.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63346.webp",
+    "galerie/t/tesla-smart-kamera-360-4g-na_63347.webp"
+  ],
+  "manufacturer": "Tesla"
+}

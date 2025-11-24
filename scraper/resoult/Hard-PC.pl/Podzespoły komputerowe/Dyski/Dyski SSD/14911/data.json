@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Dyski SSD"
+  ],
+  "id": "14911",
+  "code": "S78-440Q550-P83",
+  "name": "Dysk SSD MSI Spatium M461 2TB M.2 PCIe NVMe 4.0 5000/4200MB/s",
+  "price": 699.0,
+  "description": "<h2>CIESZ SIĘ SZYBKOŚCIĄ ŁADOWANIA DANYCH</h2><p>Z fabryk MSI pochodzi nowa pamięć masowa o oszałamiających prędkościach i niesamowitej wydajności. Przenieś swój system na nowy, wyższy poziom, dzięki napędom SPATIUM.</p><h2>POTRZEBA SZYBKOŚCI!</h2><p>Zoptymalizowany pod kątem możliwości interfejsu PCIe Gen4, napęd SPATIUM M461 SSD osiąga prędkości odczytu/zapisu dochodzące do 5000/4200 MB/s, pozwalając tym samym na niesamowicie szybki transfer danych i skrócenie czasu ładowania gier.</p><h2>MAŁY ROZMIAR, WIĘKSZA POJEMNOŚĆ</h2><p>Najnowsza technologia 3D NAND flash oferuje możliwość gęstego upakowania danych w kompaktowej obudowie pamięci masowej i pozwala przechowywać informacje w takich urządzeniach jak SPATIUM o pojemności do 4 TB</p><h2>NIE PRZESTAWAJ GRAĆ</h2><p>Wbudowane zabezpieczenia danych i funkcje korekcji błędów zwiększają wytrzymałość i trwałość pamięci masowej NAND flash.</p><h2>ZADBAJ O SWOJE DANE</h2><p>Przenoś swoje dane, monitoruj stan napędów i wydajność dysków w czasie rzeczywistym za pomocą aplikacji MSI Center. Dzięki programowemu rozwiązaniu firmy Actiphy, które oferuje funkcje tworzenia kopii zapasowych i przywracania danych możesz zapobiec utracie cennych plików i informacji.</p><h2>5-LETNIA GWARANCJA</h2><p>Firma MSI gwarantuje wysoką jakość i niezawodność działania napędów z serii SPATIUM M461, dlatego dyski te objęte są aż 5-letnią kompleksową gwarancją. Jeśli potrzebujesz pomocy lub nie jesteś zadowolony ze swojego produktu, zgłoś się do wsparcia technicznego firmy MSI, a my pomożemy Ci w rozwiązaniu Twoich technicznych problemów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Interfejs PCIe Gen4x4 i zgodność ze standardem NVMe 1.4</li><li>Sekwencyjna szybkość odczytu do 5000 MB/s, a prędkość zapisu do 4200 MB/s.</li><li>Współczynnik TBW (Total Bytes Written) o wartości dochodzącej do 900</li><li>Wbudowane mechanizmy bezpieczeństwa danych i korekcji błędów</li><li>Dostępne pojemności nośnika od 500 GB do 4 TB, które zamknięto w obudowie formatu M.2 2280</li><li>Napęd przeznaczony zarówno do komputerów stacjonarnych, jak i notebooków</li><li>5-letnia gwarancja</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pojemność</p><p>2TB</p></li><li><p>Kontroler</p><p>PHISON E21T</p></li><li><p>Kości pamięci</p><p>3D NAND</p></li><li><p>Standard</p><p>M.2 2280</p></li><li><p>Interfejs</p><p>PCIe Gen4x4, NVMe 1.4</p></li><li><p>Kompatybilność</p><p>PCIe Gen4 / Gen3 / Gen2 / Gen1</p></li><li><p>Wymiary</p><p>80.00mm (L) x 22.00mm (W) x 2.15mm (H)</p></li><li><p>Odczyt sekwencyjny</p><p>do 5000 MB/s</p></li><li><p>Zapis sekwencyjny</p><p>do 4200MB/s</p></li><li><p>Odczyt losowy 4KB</p><p>680 000 IOPS</p></li><li><p>Zapis losowy 4KB</p><p>880 000 IOPS</p></li><li><p>TBW</p><p>1200</p></li><li><p>MTBF</p><p>1 5000 000godzin</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/msi.jpg",
+  "images": [
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54035.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54036.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54037.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54038.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54039.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54035.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54036.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54037.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54038.webp",
+    "galerie/d/dysk-ssd-msi-spatinum-m461-2t_54039.webp"
+  ],
+  "manufacturer": "MSI"
+}

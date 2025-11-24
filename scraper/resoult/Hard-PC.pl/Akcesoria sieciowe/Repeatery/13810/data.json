@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Repeatery"
+  ],
+  "id": "13810",
+  "code": "A15",
+  "name": "Dwupasmowy repeater sieciowy Tenda A15 AC750",
+  "price": 109.0,
+  "description": "<p>A15 to dwupasmowy repeater sieciowy AC750 dedykowany do dwupiętrowych domów, willi i wielopomieszczeniowych domów o powierzchni ponad 120 metrów kwadratowych. Oferuje prędkość transmisji danych do 300 Mb/s w paśmie 11n i prędkość transmisji danych 433 Mbps w paśmie 11ac. Dzięki dwóm zewnętrznym antenom, A15 może zapewnić większy zasięg WiFi i ekstremalnie szybki przesył danych pozwalający na odtwarzanie filmów 1080p HD, gry multiplayer online oraz szybkie pobieranie. Dzięki zaktualizowanemu kreatorowi instalacji wystarczą trzy kroki, aby skonfigurować wzmacniacz, który jest łatwy w użyciu. A15 działa również z routerami innych marek. A15 jest najlepszym wyborem dla pokrycia całego domu sygnałem WiFi.</p><h2>Szybkie przełączanie między pasmami 2,4 GHz i 5 GHz dla stabilnego połączenia</h2><p>Dzięki 2 zewnętrznym antenom o wysokiej jakości, A15 może jednocześnie rozbudowywać sieci WiFi o częstotliwości 2,4 GHz i 5 GHz.A15 oferuje pasmo 2,4 GHz o prędkości 300 Mb/s, które maksymalizuje łączność z urządzeniami mobilnymi i znacznie szybsze pasmo 5 GHz o prędkości 433 Mb/s, które minimalizuje zakłócenia.</p><h2>Znakomita wydajność w kompaktowej konstrukcji</h2><p>Kompaktowy wygląd zewnętrzny zapewnia wysokiej jakości zasięg WiFi. Pracując z dwupasmowym routerem WiFi, A15 pozwala cieszyć się szybszym i stabilniejszym połączeniem internetowym.</p><h2>Dwa tryby w jednym</h2><p>W zależności od potrzeby możesz przełączać się pomiędzy trybem repeatera i punktu dostępowego. Tryb repeatera: A15 może rozszerzać zasięg Wi-Fi routera przez mostkowanie sygnału. Oferuje również dostęp do internetu za pomocą podłączenia LAN. Tryb AP: podłącz kabel Ethernet do portu LAN w A15, aby przekształcić go w punkt dostępu.</p><h2>Kompatybilny z dowolnym routerem WiFi</h2><p>A15 może współpracować z dowolnym routerem WiFi i modemem routerem DSL WiFi dostępnym na rynku, wyprzedzając większość repeaterów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Interfejsy</p><p>1*10/100Mbps RJ45</p></li><li><p>Typ anteny</p><p>2 * External 2dBi dual-band omni-directional antenna</p></li><li><p>Przycisk</p><p>1 * WPS Button<br/>1 * Reset Button</p></li><li><p>Wskaźnik ledowy</p><p>1 * Signal LED<br/>1 * WPS LED<br/>1 * Power LED</p></li><li><p>Zasilacz</p><p>9V0.8A, built-in</p></li><li><p>Pobór energii</p><p>5.2W (max power consumption)</p></li><li><p>Wymiar</p><p>80mm*58mm*48mm(L x W x H)</p></li><li><p>Standard bezprzewodowy</p><p>IEEE802.11b,IEEE 802.11g, IEEE 802.11n, IEEE 802.11a,IEEE 802.11ac</p></li><li><p>Częstotliwość</p><p>5 GHz(11ac)<br/>2.4 GHz</p></li><li><p>Szybkość przesyłania danych</p><p>5GHz Up to 433Mbps<br/>2.4GHz Up to 300Mbps</p></li><li><p>RSSI</p><p>2.4 GHz<br/>11b-1M -97dBm<br/>11g-54M -76dBm<br/>11n-20M-MCS7 -74dBm<br/>11n-40M-MCS7 -72dBm<br/>5 GHz <br/>11a-6M -95dBm<br/>11n-20M-MCS7 -74dBm<br/>11n-40M-MCS7 -72dBm<br/>11ac-80M-MCS9 -63dBm</p></li><li><p>Moc transmisji</p><p>&lt;20dBm</p></li><li><p>Tryby bezprzewodowe</p><p>Repeater Mode，Access Point Mode</p></li><li><p>Ochrona bezprzewodowa</p><p>Default encryption mode Mix WPA-PSK/WPA2-PSK</p></li><li><p>WPA algorithm</p><p>TKIP</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tenda</p></li><li><p>Dane producenta</p><p>Tenda Polska Sp. z o.o.; Górczewska 216, 01-460 Warszawa, Polska, support.pl@tenda.cn</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tenda.jpg",
+  "images": [
+    "galerie/d/dwupasmowy-repeater-sieciowy_49804.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49805.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49806.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49807.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49808.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49804.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49805.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49806.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49807.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49808.webp"
+  ],
+  "manufacturer": "Tenda"
+}

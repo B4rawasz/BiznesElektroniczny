@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "20889",
+  "code": "NELI-017",
+  "name": "Zasilacz Lian Li EDGE EG1300 80 PLUS Platinum PCIe 5.1, ATX 3.1 - 1300W",
+  "price": 1023.9,
+  "description": "<h2>Lian Li EDGE EG1300 – rewolucyjny zasilacz ATX 3.1 do obudów dwukomorowych</h2><p>Lian Li EDGE EG1300 to nowoczesny zasilacz komputerowy stworzony specjalnie z myślą o obudowach dwukomorowych, takich jak kultowa seria O11. Dzięki unikalnej, <b>L-kształtnej konstrukcji</b> montaż kabli jest znacznie prostszy, a wnętrze komputera pozostaje schludne i uporządkowane. Zasilacz oferuje pełną modularność, wysoką wydajność z certyfikatem <b>80 PLUS Platinum</b> oraz zintegrowany hub USB, który otwiera zupełnie nowe możliwości przy podłączaniu akcesoriów.</p><h2>Integracja z obudowami Lian Li</h2><p>Konstrukcja EDGE umożliwia pionowy montaż w drugiej komorze obudowy, co pozwala na wygodne prowadzenie przewodów i poprawia estetykę całego zestawu. Złącza są skierowane na zewnątrz, dzięki czemu zarządzanie kablami staje się znacznie łatwiejsze.</p><h2>Zintegrowany hub USB</h2><p>Model EG1300 został wyposażony w cztery 9-pinowe wewnętrzne porty USB, które można wykorzystać do obsługi akcesoriów takich jak <b>wentylatory UNI, przewody Strimer Plus czy kontrolery RGB</b>. Podłączone urządzenia działają nawet po wyłączeniu komputera (jeśli zasilacz pozostaje włączony). Hub można połączyć z płytą główną lub przez dołączony przewód USB-A do panelu I/O.</p><h2>Pełna zgodność z ATX 3.1 i PCIe 5.1</h2><p>Lian Li EDGE EG1300 wspiera najnowsze standardy ATX 3.0 i 3.1, a także oferuje nowoczesne złącze <b>PCIe 5.1 (12V-2x6)</b>. Zostało ono zaprojektowane z myślą o bezpieczeństwie i niezawodności – ma pozłacane styki, zwiększoną grubość materiału oraz niską rezystancję kontaktową. Dzięki temu karta graficzna otrzymuje stabilniejsze i bezpieczniejsze zasilanie.</p><h2>Komponenty klasy przemysłowej</h2><p>Wewnątrz zastosowano wysokiej jakości kondensatory EPCOS z Niemiec, które gwarantują długą żywotność i odporność na wysokie temperatury. Technologia <b>LLC + aktywne PFC</b> poprawia efektywność, obniża temperatury i zapewnia czystsze zasilanie podzespołów.</p><h2>Chłodzenie i cisza</h2><p>Obudowa zasilacza została wykonana ze stali i wyposażona w duży panel siatkowy. W połączeniu z 120-milimetrowym wentylatorem PWM o niskim poziomie hałasu (maks. 33,6 dB(A)) gwarantuje to wydajne i ciche chłodzenie nawet pod dużym obciążeniem.</p><h2>Pełna modularność i oplecione przewody</h2><p>Zasilacz Lian Li EDGE EG1300 oferuje w pełni modularne, indywidualnie oplecione przewody z grzebieniami ułatwiającymi prowadzenie kabli. W zestawie znajdują się również elastyczne przewody SATA z rozgałęźnikami, które pozwalają na łatwą i estetyczną organizację okablowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Model</p><p>EDGE EG1300</p></li><li><p>Moc całkowita</p><p>1300 W</p></li><li><p>Standard</p><p>ATX 3.1 / ATX 3.0</p></li><li><p>Sprawność</p><p>80 PLUS Platinum / Cybenetics Platinum / PPLP Platinum</p></li><li><p>Wymiary</p><p>150 × 86 × 182 mm</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>Stal</p></li><li><p>Wentylator</p><p>120 mm PWM (FDB), max. 33,6 dB(A) przy 2400 obr./min</p></li><li><p>Chłodzenie półpasywne</p><p>Tak</p></li><li><p>Modularność</p><p>Pełna (fully modular)</p></li><li><p>Typ okablowania</p><p>Indywidualnie oplecione przewody z grzebieniami</p></li><li><p>Złącza</p><p>1× 24-pin ATX, 1× 4+4-pin CPU, 1× 8-pin CPU, 4× PCIe 6+2-pin, 1× 12V-2x6, 1× 12V-2x6 do 2× 8-pin, 16× SATA, 4× Molex, hub USB (2× przewody: 9-pin do 9-pin i 9-pin do USB-A)</p></li><li><p>Obciążalność linii +12V</p><p>108 A / 1296 W</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A / 66 W</p></li><li><p>Obciążalność linii +5V</p><p>20 A / 100 W</p></li><li><p>Ochrony</p><p>OVP, UVP, SCP, OPP, OTP, OCP</p></li><li><p>Złącza USB</p><p>4× wewnętrzne 9-pin, obsługa do 500 mA na port</p></li><li><p>Seria</p><p>Lian Li EDGE</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78491.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78492.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78493.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78494.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78495.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78496.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78497.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78498.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78499.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78500.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78491.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78492.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78493.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78494.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78495.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78496.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78497.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78498.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78499.webp",
+    "galerie/z/zasilacz-lian-li-edge-eg1300_78500.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

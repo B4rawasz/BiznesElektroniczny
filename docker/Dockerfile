@@ -103,6 +103,7 @@ if [ -d "/var/www/html/install" ]; then
         --db_name=prestashop \
         --db_user=root \
         --db_password=root1 \
+        --db_clear=0 \
         --language=pl \
         --name=HardPC \
         --country=pl \

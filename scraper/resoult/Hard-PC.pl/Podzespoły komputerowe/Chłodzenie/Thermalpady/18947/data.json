@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "18947",
+  "code": "ZUWA-308",
+  "name": "Thermalpad Thermal Grizzly PhaseSheet PTM – 50x40 mm",
+  "price": 39.9,
+  "description": "<h2>PhaseSheet PTM – Rewolucja w przewodnictwie cieplnym</h2><p>PhaseSheet PTM to innowacyjne rozwiązanie w dziedzinie materiałów termoprzewodzących, które zapewnia doskonałą wydajność chłodzenia i trwałość. Dzięki zaawansowanej technologii zmiany fazowej (Phase Change Material – PCM), ten produkt został zaprojektowany z myślą o entuzjastach komputerowych, którzy oczekują niezawodności i optymalnego odprowadzania ciepła z procesorów oraz kart graficznych.</p><h2>Wyjątkowa przewodność cieplna</h2><p>PhaseSheet PTM oferuje imponującą zdolność przewodzenia ciepła, zapewniając stałą wydajność nawet przy dużych obciążeniach. Dzięki temu Twój procesor lub karta graficzna działa stabilnie, nawet w ekstremalnych warunkach.</p><h2>Technologia zmiany fazy</h2><p>Przy temperaturze powyżej 45°C materiał zmienia stan na płynny, co umożliwia jego idealne dopasowanie do powierzchni procesora lub układu graficznego. Po ochłodzeniu wraca do stanu stałego, co eliminuje problem tzw. \"Pump-Out-Effekt\" – wyciskania pasty termoprzewodzącej w wyniku różnic w rozszerzalności cieplnej miedzi i krzemu.</p><h2>Łatwa aplikacja</h2><p>PhaseSheet PTM jest prosty w użyciu – wystarczy odpowiedni docisk (300–400 N), aby uzyskać minimalną grubość warstwy i maksymalną efektywność przewodzenia ciepła. Niską lepkość w stanie płynnym dodatkowo ułatwia jego równomierne rozprowadzenie.</p><h2>Trwałość i niezawodność</h2><p>Choć PhaseSheet PTM nie jest tak trwały jak KryoSheet, oferuje znacznie lepszą żywotność niż tradycyjne pasty termoprzewodzące. Produkt osiąga optymalną wydajność po około dziesięciu cyklach grzewczych powyżej 60°C, co czyni go idealnym rozwiązaniem dla zaawansowanych użytkowników.</p><h2>Bezpieczny i wszechstronny</h2><p>PhaseSheet PTM jest nieprzewodzący elektrycznie, dzięki czemu można go bezpiecznie stosować zarówno na procesorach, jak i kartach graficznych, eliminując ryzyko zwarcia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Materiał</p><p>Phase Change Material (PCM)</p></li><li><p>Kolor</p><p>Szary</p></li><li><p>Kompatybilność</p><p>Procesory i karty graficzne</p></li><li><p>Stan skupienia</p><p>Stały w temperaturze pokojowej, płynny powyżej 45°C</p></li><li><p>Docisk</p><p>300–400 N dla optymalnej efektywności</p></li><!-- KONIEC ATRYBUTÓW --></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/t/thermalpad-thermal-grizzly-ph_69795.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69796.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69797.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69798.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69799.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69795.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69796.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69797.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69798.webp",
+    "galerie/t/thermalpad-thermal-grizzly-ph_69799.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

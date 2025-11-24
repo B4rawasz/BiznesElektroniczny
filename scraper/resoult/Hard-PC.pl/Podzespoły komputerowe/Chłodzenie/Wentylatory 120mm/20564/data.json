@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "20564",
+  "code": "LULI-143",
+  "name": "Wentylator Lian Li UNI FAN CL Wireless Reverse Black - 120mm",
+  "price": 71.9,
+  "description": "<h2>Lian Li UNI FAN CL Bezprzewodowy wentylator odwrotny: wentylator odwrotny do montażu przedniego</h2><p>Najważniejsza cecha <strong>wentylatora UNI FAN CL w wersji odwróconej</strong>: strefy <strong>RGB</strong> są widoczne nawet wtedy, gdy wentylator zasysa powietrze do obudowy. Idealne do konstrukcji ze <em>szklanymi bokami</em> lub <em>odwróconą orientacją</em>.</p><h2>Bezprzewodowe i inteligentnie połączone</h2><p>Dzięki technologii <strong>Push-to-Connect</strong> instalacja zajmuje zaledwie kilka sekund. Połączenie z systemem odbywa się <strong>bezprzewodowo</strong> za pomocą kontrolera, co zapewnia maksymalną swobodę i sprawia, że ​​komputer wygląda schludnie.</p><h2>Wentylator PWM o wydajności chłodzenia bez hałasu</h2><p>Dzięki wysokiej jakości <em>łożysku FDB</em> i zrównoważonemu stosunkowi hałasu wentylatora do przepływu powietrza, <strong>wentylator UNI FAN CL Reverse Blade</strong> zapewnia wydajne chłodzenie przy minimalnym poziomie hałasu. Przy przepływie powietrza <strong>122,87 m³/h</strong>, ciśnieniu <strong>2,38 mmH₂O</strong> i poziomie hałasu zaledwie <strong>30,8 dB(A)</strong>, wentylator CL Wireless Reverse jest cichy i wydajny – idealny do wymagających konfiguracji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Odwrotne ustawienie ostrza: RGB bezpośrednio po widocznej stronie</li><li>Podwójna strefa RGB: sterowanie centralne i ramkowe</li><li>Push-to-Connect: łatwa i czysta instalacja</li><li>Przepływ powietrza 122,87 m³/h i ciśnienie statyczne 2,38 mmH₂O</li><li>Łożyska FDB: niezawodna, cicha praca</li><li>30,8 dB(A) przy maks. 2150 obr./min</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Długość / Głębokość</p><p>120 mm</p></li><li><p>Szerokość</p><p>120 mm</p></li><li><p>Wysokość wentylatora</p><p>28 mm</p></li><li><p>Rozmiar wentylatora</p><p>120 mm</p></li><li><p>min. prędkość wentylatora</p><p>250 obr./min</p></li><li><p>maksymalna prędkość wentylatora</p><p>2100 obr./min</p></li><li><p>maks. przepływ (pojedynczy wentylator)</p><p>122,87 m³/godz.</p></li><li><p>maksymalne ciśnienie statyczne</p><p>2,38 mmH2O</p></li><li><p>Maksymalny poziom hałasu wentylatora dB(A)</p><p>30,8 dB(A)</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79268.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79270.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79271.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79269.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79267.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79268.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79270.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79271.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79269.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-cl_79267.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "12627",
+  "code": "ZUWA-214",
+  "name": "Pasta termoprzewodząca Thermal Grizzly Kryonaut Extreme - 2g",
+  "price": 79.0,
+  "description": "<p>Thermal Grizzly to znany i ceniony producent między innymi past termoprzewodzących, które charakteryzują się ekstremalną wydajnością. Flagowy, wysokowydajny Kryonaut doczekał się ulepszonej formuły w postaci wersji Kryonaut Extreme.</p><p>Najnowsza pasta termoprzewodząca Kryonaut Extreme jak sama nazwa wskazuje, przeznaczona jest do ekstremalnych zastosowań takich jak np. overclocking. Wszystko to dzięki wysokiej przewodności cieplnej, która wynosi 14.2W m/K. Kryonaut idealnie sprawdza się w chłodzeniach niskotemperaturowych jak chłodzenie ciekłym azotem, czy suchym lodem. Nie straszne jej temperatury nawet -250 stopni Celsujsza.</p><p>Tlenek cynku oraz nanocząsteczki glinu są osadzone w strukturze nośnej, która idealnie kompensuje nierówności na powierzchni źródła ciepła i radiatora zapewniając znakomitą przewodność cieplną. Dodatkowo Kryonaut Extreme charakteryzuje się tym, że nie wysycha nawet w temperaturach dochodzących do 80 stopni Celsjuesza, a przy tyym nie przewodzi prądu.</p><p>Pasta Thermal Grizzly Kryonaut Extreme dostępna jest w 2-gramowej strzykawce. Ilość ta wystarcza na około 6 użyć – oczywiście dużo zależy od sposobu aplikacji, umiejętności użytkownika oraz wielkości samego procesora. W zestawie znajduje się wygodny aplikator ułatwiający rozprowadzanie.</p><h2>Uwaga na podróbki</h2><p>W związku z pojawieniem się w sprzedaży nieoryginalnych produktów Thermal Grizzly otrzymujemy wiele zapytań o sprzedawane przez nas pasty termoprzewodzące TG. Pragniemy zapewnić, że jesteśmy oficjalnym partnerem producenta i gwarantujemy oryginalność sprzedawanych past, którą możecie Państwo potwierdzić podczas elektronicznej weryfikacji towaru na stronie thermal-grizzly.com</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość</p><p>2 g</p></li><li><p>Przewodność cieplna</p><p>14.2 W / (m K)</p></li><li><p>Gęstość</p><p>3.76 g / cm³</p></li><li><p>Lepkość</p><p>135-180 Pa · s</p></li><li><p>Temperatura pracy</p><p>-250 ° C to 350 ° C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/p/pasta-termoprzewodzaca-therma_45267.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_45268.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_45269.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_45267.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_45268.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_45269.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

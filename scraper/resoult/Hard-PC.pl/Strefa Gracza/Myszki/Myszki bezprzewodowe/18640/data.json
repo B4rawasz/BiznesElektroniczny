@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "18640",
+  "code": "GAMO-1203",
+  "name": "Mysz Fnatic x Lamzu Maya 8K Wireless Special Edition",
+  "price": 539.0,
+  "description": "<p>Poznaj wyjątkową mysz Fnatic x Lamzu MAYA 8K, stworzoną z myślą o graczach poszukujących niezrównanej precyzji i szybkości reakcji. Dzięki ultralekkiej konstrukcji o wadze zaledwie 45 g i ergonomicznemu kształtowi, MAYA 8K zapewnia wygodę oraz swobodę ruchu podczas intensywnych sesji gamingowych.</p><h2>Niezawodna precyzja i maksymalna wydajność</h2><p>Za sprawą nowoczesnego sensora PixArt 3950, MAYA 8K oferuje regulowaną rozdzielczość aż do 30 000 DPI, co umożliwia pełne dopasowanie ustawień do indywidualnych potrzeb. Mysz wyposażona jest w zaawansowany 8K-Dongle, zapewniający imponującą częstotliwość raportowania na poziomie 8000 Hz – gwarantującą bezbłędną dokładność w każdej rozgrywce. Przy pracy na akumulatorze MAYA 8K działa aż do 20 godzin, a po zmniejszeniu częstotliwości do 1000 Hz - nawet do 80 godzin.</p><h2>Komfort dla każdego stylu chwytu</h2><p>Dzięki ergonomicznej budowie, MAYA 8K doskonale sprawdza się przy każdym stylu chwytu, czy to Palm Grip, Claw Grip, czy Fingertip Grip. Bez względu na preferencje, możesz cieszyć się pełną kontrolą i wygodą, która nie zawiedzie nawet w najbardziej wymagających momentach gry.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>45g</p></li><li><p>Wymiary</p><p>119 x 62 x38 mm (L x W x H)</p></li><li><p>Sensor</p><p>PixArt PMW3950</p></li><li><p>Częstotliwość próbkowania</p><p>do 8,000 Hz</p></li><li><p>Kompatybilność</p><p>Windows 10, 11, Mac, Linux</p></li><li><p>Przełączniki</p><p>Omron Optical Switches</p></li><li><p>Długość pracy na akumulatorze</p><p>80h prz 1,000 Hz, 40h przy 2,000 Hz, 20h przy 4,000 Hz, 10h przy 8000Hz</p></li><li><p>Typ akumulatora</p><p>Li-On</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fnatic</p></li><li><p>Dane producenta</p><p>Fnatic Gear Ltd, 1 Kingsland Passage, E8 2BB London, UK, shop@fnatic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fnatic.jpg",
+  "images": [
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68566.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68575.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68567.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68568.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68569.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68570.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68571.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68572.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68573.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68574.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68566.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68575.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68567.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68568.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68569.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68570.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68571.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68572.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68573.webp",
+    "galerie/m/mysz-fnatic-x-lamzu-maya-8k-s_68574.webp"
+  ],
+  "manufacturer": "Fnatic"
+}

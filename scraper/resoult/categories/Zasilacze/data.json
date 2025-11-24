@@ -1,0 +1,43 @@
+{
+    "name": "Zasilacze",
+    "description": "<h1>Zasilacze</h1>",
+    "description_long": "",
+    "sub_images": [
+        {
+            "name": "Zasilacze poniżej 500W",
+            "image_url": "SUCRO/zasilacze/ponizej-500w.webp"
+        },
+        {
+            "name": "Zasilacze 500W",
+            "image_url": "SUCRO/zasilacze/500w.webp"
+        },
+        {
+            "name": "Zasilacze 550W",
+            "image_url": "SUCRO/zasilacze/550w.webp"
+        },
+        {
+            "name": "Zasilacze 600W",
+            "image_url": "SUCRO/zasilacze/600w.webp"
+        },
+        {
+            "name": "Zasilacze 650W",
+            "image_url": "SUCRO/zasilacze/650w.webp"
+        },
+        {
+            "name": "Zasilacze 700W",
+            "image_url": "SUCRO/zasilacze/700w.webp"
+        },
+        {
+            "name": "Zasilacze powyżej 700W",
+            "image_url": "SUCRO/zasilacze/powyzej-700w.webp"
+        },
+        {
+            "name": "Zarządzenie okablowaniem",
+            "image_url": "SUCRO/zasilacze/zarzadzanie-okablowaniem.webp"
+        },
+        {
+            "name": "Ładowarki",
+            "image_url": "SUCRO/zasilacze/ladowarki.webp"
+        }
+    ]
+}

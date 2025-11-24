@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "19402",
+  "code": "AC-069-OO1NAN-A1",
+  "name": "Tester zasilaczy Thermaltake Dr. Power III ATX12V v3.1",
+  "price": 179.0,
+  "description": "OPIS <h2>Uniwersalna kompatybilność</h2><p>Dr. Power III to zaawansowany tester zasilaczy ATX, kompatybilny ze wszystkimi nowoczesnymi jednostkami aż do standardu ATX12V v3.1. Obsługuje złącze PCIe 12+4 pin i wykrywa sygnały SENSE0/SENSE1, co pozwala na precyzyjne określenie poziomu mocy dostarczanej do podzespołów.</p><h2>Czytelny wyświetlacz LCD</h2><p>Dzięki wbudowanemu ekranowi LCD użytkownik może w czasie rzeczywistym monitorować napięcia wyjściowe: +12V, +5V, +3.3V oraz +5Vsb. Natychmiastowa analiza pozwala szybko ocenić stan zasilacza i podjąć odpowiednie działania w przypadku nieprawidłowości.</p><h2>Wykrywanie mocy PCIe 12+4 pin</h2><p>Tester Dr. Power III precyzyjnie wykrywa wartości mocy 150W, 300W, 450W i 600W, co zapewnia pełną kompatybilność z najnowszymi kartami graficznymi PCIe Gen 5.1 oraz innymi komponentami wymagającymi stabilnego zasilania.</p><h2>Tryby testowania dostosowane do użytkownika</h2><p>Dzięki elastycznym trybom pracy użytkownik może wybrać testowanie manualne lub automatyczne. Pozwala to na szybkie i skuteczne sprawdzenie wydajności oraz poprawności działania zasilacza.</p><h2>Wbudowany system diagnostyczny</h2><p>Zaawansowany system diagnostyczny identyfikuje kluczowe problemy, takie jak: zbyt niskie napięcie, zbyt wysokie napięcie, brak napięcia, nieprawidłowy czas sygnału PG. W przypadku wykrycia błędu tester sygnalizuje go czerwonym podświetleniem ekranu LCD oraz alarmem dźwiękowym. Jeśli wszystko działa poprawnie, ekran pozostaje biały.</p><h2>Gwarancja jakości – 3 lata ochrony</h2><p>Dr. Power III to niezawodne narzędzie do diagnozowania zasilaczy, dlatego oferujemy aż 3-letnią gwarancję. Wybierz pewność i precyzję, aby zapewnić swojemu komputerowi optymalną wydajność i bezpieczeństwo.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Złącza</p><p>ATX 24pin, PCI-E 12+4Pin, PCI-E 6/8PIN, SATA, CPU 4/8PIN, Molex</p></li><li><p>Zakres pomiaru</p><p>+5V 4.60V - 5.40V<br/>+3.3V 3.04V - 3.56V<br/>+12V 11.00V - 13.00V<br/>+5Vsb 4.6V - 5.40V<br/>P.G. 100ms ≤ T ≤ 500ms</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermaltake</p></li><li><p>Dane producenta</p><p>Thermaltake Technology Co., Ltd., 5F,No.185, Sec.2 Tiding Blvd., Neihu Dist., Tajpej, Tajwan</p></li><li><p>Podmiot odpowiedzialny</p><p>eXtremeMem, Michał Chmura, Szyszkowa 35, 02-291 Warszawa, michal.chmura@extrememem.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermaltake.jpg",
+  "images": [
+    "galerie/t/tester-zasilaczy-thermaltake_71558.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71559.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71560.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71561.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71562.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71563.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71558.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71559.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71560.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71561.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71562.webp",
+    "galerie/t/tester-zasilaczy-thermaltake_71563.webp"
+  ],
+  "manufacturer": "Thermaltake"
+}

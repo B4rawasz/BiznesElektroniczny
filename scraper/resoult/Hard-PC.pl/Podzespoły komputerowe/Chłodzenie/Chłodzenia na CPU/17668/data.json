@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "17668",
+  "code": "CPDC-020",
+  "name": "Chłodzenie DeepCool AK620 120mm – White",
+  "price": 239.9,
+  "description": "<h2>Chłodzenie DeepCool AK620</h2><p>Chłodnica DeepCool AK620 zapewnia wyjątkowo wysoką wydajność chłodzenia dzięki sześciu rurkom cieplnym i dwóm wentylatorom PWM. Dzięki TDP na poziomie 260 W, chłodziarka jest również bardzo cicha i ma ogromne rezerwy chłodzenia dla podkręconych procesorów i pomimo swoich rozmiarów może być instalowana nawet z zainstalowaną płytą główną.</p><h2>Prosta konstrukcja z dużą wydajnością chłodzenia</h2><p>AK620 to wydajna chłodnica z podwójną wieżą , która umożliwia bardzo wydajne i ciche chłodzenie dzięki dwóm wentylatorom. Płynnie pracujący silnik wentylatora zapewnia redukcję wibracji i w połączeniu z łożyskiem zapewnia bardzo długą żywotność. Wentylatory PWM można sterować za pomocą kabla Y za pośrednictwem płyty głównej, dzięki czemu automatycznie dostosowują się do wytwarzania ciepła.</p><h2>Idealne chłodzenie dla Twojego procesora</h2><p>Dzięki sześciu wysokowydajnym rurkom cieplnym radiator zapewnia doskonałe odprowadzanie ciepła odpadowego. Powierzchnia żeberek chłodnicy jest bardzo duża ze względu na konstrukcję podwójnej wieży, dzięki czemu dużo ciepła może zostać przekazane do przepływającego powietrza. Listwy są zakrzywione w kształcie fali, co nie tylko poprawia rozwój objętości, ale także wydajność chłodzenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>129 × 138 × 160 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>miedź (rurki cieplne, płyta podstawy), aluminium (lamele, pokrywa)</p></li><li><p>Waga</p><p>1456 g</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Rurki cieplne</p><p>6x Ø 6 mm</p></li><li><p>Wydajność chłodzenia</p><p>260 W TDP</p></li><li><p>Wentylator</p><p>2x 120 mm PWM (maks. 1850 obr./min)</p></li><li><p>Złącze</p><p>4-pinowe PWM</p></li><li><p>Głośność całkowita</p><p>maks. 28 dB(A)</p></li><li><p>Kompatybilność</p><p>Intel Socket LGA2066, 2011-v3, 2011, 1700, 1200, 1151, 1150, 1155<br/>AMD Socket AM5, AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/c/chlodzenie-deepcool-ak620-120_65488.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65489.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65490.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65491.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65492.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65493.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65494.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65495.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65496.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65488.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65489.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65490.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65491.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65492.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65493.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65494.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65495.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-120_65496.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

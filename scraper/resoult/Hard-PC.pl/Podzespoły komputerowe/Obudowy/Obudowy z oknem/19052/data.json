@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "19052",
+  "code": "SPC247",
+  "name": "Taśmy LED SilentiumPC Aurora Stripes ARGB 2x30cm",
+  "price": 39.0,
+  "description": "<p>SilentiumPC Aurora Stripes ARGB to zestaw dwóch pasków z adresowalnym podświetleniem LED, który pozwala wzbogacić o walory świetlne gustownie zmontowany zestaw komputerowy. Po podłączeniu do płyty głównej z 3-pinowym złączem ARGB (5V), bądź kompatybilnego sterownika, można sterować kolorami, jak i efektami według preferencji użytkownika każdego punktu LED. Tworzy się w ten sposób niepowtarzalny nastrój we wnętrzu PC i dodaje charakteru zainstalowanym we wnętrzu komponentom.</p><p>Długie na 30 cm dwa paski Aurora Stripes ARGB składają się z 18 punktów świetlnych LED każdy, co umożliwia podświetlenie komputerów zamontowanych nawet w większych obudowach. Użytkownik może wybrać kolor, a także efekt świecenia, tak by finalny wygląd najbardziej odpowiadał jego preferencjom. Adresowalne podświetlenie (ARGB) oznacza, że każdy punkt świetlny traktowany jest niezależnie i możliwe jest definiowanie koloru dla każdego z osobna. Zależnie od możliwości sterownika dostępnych jest wiele efektów, a w tym powolne przejścia między kolorami, miganie, tęcza, efekt pływających barw itp.</p><h2>Zbuduj swój zestaw komputerowy w stylu ARGB</h2><p>Zestaw Aurora Stripes ARGB to jeden z elementów, które pozwolą Ci zbudować atrakcyjnie wyglądający komputer dla gracza. Niezależnie czy chcesz migającą i zmieniającą się w czasie rewię kolorów np. z efektem tęczy czy może stonowane i jednobarwne podświetlenie, Aurora Stripes ARGB spełni Twoje oczekiwania i pozwoli na stworzenie niepowtarzalnego charakteru PC. Możesz też je sparować z innymi urządzeniami ARGB, jak np. wentylatorami SilentiumPC Stella HP ARGB czy zestawami chłodzenia procesora wyposażonymi w podświetlenie ARGB, np. Fortis 3 Evo ARGB lub Navis Evo ARGB.</p><p>Aurora Stripes ARGB są kompatybilne z 3-pinowymi systemami ARGB 5V, które są powszechne na nowoczesnych płytach głównych. Kompatybilne rozwiązania to: Asus Aura Sync (3-pin ARGB), ASRock Polychrome Sync (3-pin ARGB), Gigabyte RGB Fusion 2.0 (3-pin), MSI Mystic Light (3-pin ARGB). Możliwe jest także podłączenie pasków Aurora do zewnętrznych kontrolerów, jak np. SilentiumPC Aurora Sync Evo PWM ARGB lub Nano-Reset ARGB np. w obudowach z rodziny Armis lub Astrum w wersjach ARGB. Dzięki temu, że każdy pasek wyposażony jest w rozdzielacz na końcu 65-centymetrowego przewodu możliwe jest podłączenie wielu urządzeń ARGB do jednego gniazda w płycie głównej lub kontrolerze i sterowanie wszystkimi podpiętymi urządzeniami jednocześnie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Dwa paski LED ARGB o długości 30 cm każdy.</li><li>Adresowalne podświetlenie LED (ARGB)</li><li>18 diod w każdym pasku z możliwością indywidualnego dobrania koloru świecenia.</li><li>Długie na 65 cm przewody sygnałowe z rozdzielaczem na końcu.</li><li>Kompatybilność z 3-pinowymi systemami ARGB (5V).</li><li>Możliwość synchronizacji z innymi urządzeniami ARGB, np. wentylatory ARGB i systemy chłodzenia procesorów SilentiumPC z podświetleniem ARGB.</li><li>Wygodne mocowanie na taśmę klejącą.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość pasków [szt]</p><p>2</p></li><li><p>Długość paska [mm]</p><p>300</p></li><li><p>Ilość LED na pasku [zt]</p><p>18</p></li><li><p>Napięcie [V]</p><p>5</p></li><li><p>Długość przewodu [mm]</p><p>650</p></li><li><p>Sposób sterowania</p><p>Kontroler/Płyta główna</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>SilentiumPC</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, support@silentiumpc.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/silentiumpc.jpg",
+  "images": [
+    "galerie/t/tasmy-led-silentiumpc-aurora_70099.webp",
+    "galerie/t/tasmy-led-silentiumpc-aurora_70100.webp",
+    "galerie/t/tasmy-led-silentiumpc-aurora_70101.webp",
+    "galerie/t/tasmy-led-silentiumpc-aurora_70099.webp",
+    "galerie/t/tasmy-led-silentiumpc-aurora_70100.webp",
+    "galerie/t/tasmy-led-silentiumpc-aurora_70101.webp"
+  ],
+  "manufacturer": "SilentiumPC"
+}

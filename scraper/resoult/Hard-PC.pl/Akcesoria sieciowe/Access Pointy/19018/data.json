@@ -1,0 +1,35 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Access Pointy"
+  ],
+  "id": "19018",
+  "code": "AP1300",
+  "name": "Access Point Cudy AP1300 WiFi 2,4GHz/5GHz PoE",
+  "price": 199.0,
+  "description": "<h2>Wydajny punkt dostępowy</h2><p>Punkt Dostępowy Cudy AP1300 to rozwiązanie dla wymagających sieci Wi-Fi. Oferuje przepustowość 1200 Mb/s z wykorzystaniem standardu 802.11ac i obsługuje roaming między punktami dostępowymi.</p><h2>Zaawansowana technologia Wi-Fi 5</h2><p>Dzięki połączeniu pasm 2,4 GHz i 5 GHz, Cudy AP1300 zapewnia lepsze pokrycie i przepustowość. Łącznie daje to aż do 1200 Mb/s. Technologia MU-MIMO i Beamforming poprawiają wydajność sieci i zasięg przy intensywnym eksploatowaniu.</p><h2>Funkcje biznesowe</h2><p>Punkt dostępowy Cudy AP1300 ułatwia zarządzanie siecią Wi-Fi, oferując spersonalizowane ekrany logowania. Sterowanie pasmem oraz automatyczne formowanie sieci typu backhaul umożliwia przypisanie urządzeń klienckich do pasm z mniejszym obciążeniem. Automatyczna optymalizacja kanałów zmniejsza zakłócenia.</p><h2>Łatwy w instalacji</h2><p>Punkt Dostępowy Cudy AP1300 można montować na suficie lub ścianie za pomocą dołączonych akcesoriów. Access Point oferuje elastyczne opcje zasilania: przy użyciu zasilacza bądź poprzez Power over Ethernet (PoE), co ułatwia instalację.</p><h2>Wszechstronne tryby pracy</h2><p>Cudy AP1300 działa w różnych trybach, w tym jako punkt dostępowy, router, extender i WISP. To umożliwia elastyczne wykorzystanie w różnych scenariuszach.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Tryb pracy</p><p>Access Point, Repeater, Router, WISP</p></li><li><p>Rodzaje wejść/wyjść</p><p>RJ-45 10/100/1000 (LAN) - 1 szt., zasilanie - 1 szt.</p></li><li><p>Obsługiwane standardy</p><p>Wi-Fi 5 (802.11 a/b/g/n/ac), 802.3 af (PoE), 802.3 at (PoE+)</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz; 5 GHz</p></li><li><p>Antena</p><p>wewnętrzna - 4 szt.</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>1200 Mb/s</p></li><li><p>Zabezpieczenia transmisji bezprzewodowej</p><p>WPA-PSK, WPA2-PSK</p></li><li><p>Zarządzanie i konfiguracja</p><p>strona WWW, aplikacja na smartfonie</p></li><li><p>Zasilanie</p><p>zasilacz sieciowy, PoE</p></li><li><p>Dodatkowe informacje</p><p>Przycisk Reset, MU-MIMO, QoS</p></li><li><p>Dołączone akcesoria</p><p>poradnik szybkiej konfiguracji, zasilacz sieciowy, zestaw do montażu</p></li><li><p>Wymiary</p><p>57 x 232 x 232 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cudy.jpg",
+  "images": [
+    "galerie/a/access-point-cudy-ap1300-wifi_69975.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69976.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69977.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69978.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69979.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69980.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69981.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69982.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69983.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69975.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69976.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69977.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69978.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69979.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69980.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69981.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69982.webp",
+    "galerie/a/access-point-cudy-ap1300-wifi_69983.webp"
+  ],
+  "manufacturer": "Cudy"
+}

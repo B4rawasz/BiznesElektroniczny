@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Oczyszczacze"
+  ],
+  "id": "17193",
+  "code": "TSL-AC-S200B",
+  "name": "Tesla Smart Oczyszczacz powietrza S200 czarny",
+  "price": 799.0,
+  "description": "<h2>Najnowocześniejsze technologie dla jakości powietrza</h2><p>Powietrze, którym oddychamy, ma ogromny wpływ na nasze zdrowie i stan psychiczny. Inteligentny oczyszczacz powietrza TESLA Smart Air Purifier S200 pomoże Ci utrzymać klimat w domu na wysokim poziomie dzięki najnowszej technologii. Lampa UV emitująca światło ultrafioletowe zabija bakterie, wirusy i inne mikroorganizmy znajdujące się w powietrzu.</p><h2>Połączenie trzech filtrów nie pozostawia żadnych szans alergenom</h2><p>Sercem inteligentnego oczyszczacza powietrza TESLA Smart Air Purifier S200 jest kombinacja trzech filtrów, które zwalczają zanieczyszczenia zawarte w powietrzu na wielu frontach. Filtr HEPA eliminuje do 99,95% cząstek pyłu o średnicy 0,2 mikrona, a także zatrzymuje pyłki, roztocza i pleśń. Filtr węglowy usuwa szkodliwe gazy, lotne związki organiczne i zapachy, takie jak dym papierosowy i zapachy kuchenne. Szybkiemu zatykaniu zapobiega filtr wstępny, który można myć, blokując duże cząstki i przedłużając żywotność filtrów. Panel sterowania lub aplikacja mobilna powiadomi Cię, kiedy konieczna będzie ich wymiana.</p><h2>Czujnik jakości powietrza i wyraźny wyświetlacz LCD</h2><p>Urządzenie zawiera inteligentny czujnik, który stale monitoruje powietrze w pomieszczeniu i dostarcza informacji o jakości powietrza. Zmierzone wartości są wyświetlane na wyraźnym wyświetlaczu LCD na panelu sterowania. Dla lepszej orientacji dostępna jest sygnalizacja świetlna - niebieski oznacza doskonałą jakość powietrza, zielony oznacza dobrą, pomarańczowy oznacza średnią, a czerwony kolor oznacza złą.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>2 szt</p></li><li><p>Wysokość:</p><p>39 cm</p></li><li><p>Szerokość:</p><p>23 cm</p></li><li><p>Głębokość:</p><p>23 cm</p></li><li><p>Waga:</p><p>3.2 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-oczyszczacz-powie_63144.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63145.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63146.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63147.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63148.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63144.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63145.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63146.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63147.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63148.webp"
+  ],
+  "manufacturer": "Tesla"
+}

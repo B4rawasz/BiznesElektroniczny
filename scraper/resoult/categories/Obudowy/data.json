@@ -1,0 +1,23 @@
+{
+    "name": "Obudowy",
+    "description": "<h1>Obudowy</h1>",
+    "description_long": "",
+    "sub_images": [
+        {
+            "name": "Obudowy bez okna",
+            "image_url": "SUCRO/obudowy/obudowy-bez-okna.webp"
+        },
+        {
+            "name": "Obudowy z oknem",
+            "image_url": "SUCRO/obudowy/obudowy-z-oknem.webp"
+        },
+        {
+            "name": "Obudowy z oświetleniem RGB i ARGB",
+            "image_url": "SUCRO/obudowy/obudowy-argb-rgb.webp"
+        },
+        {
+            "name": "Akcesoria",
+            "image_url": "SUCRO/obudowy/akcesoria.webp"
+        }
+    ]
+}

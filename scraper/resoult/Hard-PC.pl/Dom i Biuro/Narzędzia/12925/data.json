@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Narzędzia"
+  ],
+  "id": "12925",
+  "code": "ZUWS-115",
+  "name": "Narzędzie do otwierania laptopów iFixit Opening Tool - 5szt",
+  "price": 18.9,
+  "description": "<p>iFixit Opening Tool to uniwersalne narzędzie do otwierania obudów laptopów i tabletów. Otwierak wykonano z wytrzymałego, ale wciąż miękkiego materiału, który zapewnia bezpieczeństwo serwisowanemu sprzętowi. Z otwieraniem iFixit Opening Tool zminimalizujesz ryzyko zarysowania czy uszkodzenia laptopa czy też tableta. Specjalnie zaprojektowany uchwyt minimalizuje ryzyko poślizgu i umożliwia precyzyjną pracę. Narzędzie jest dwustronne – końcówka w kształcie klina służy do otwierania, haczykowata natomiast do ostrożnego podnoszenia i podważania elementów.</p><h2>Narzędzia dla majsterkowiczów i profesjonalistów</h2><p>Jeśli lubisz majsterkować przy komputerze lub innych urządzeniach elektronicznych, wcześniej czy później natkniesz się na iFixit. Firma nie tylko wyrobiła sobie markę dzięki wielu darmowym poradnikom zachęcającym konsumentów do samodzielnej naprawy sprzętu, ale również sprzedaje narzędzia. Narzędzia iFixit to profesjonalne rozwiązania stosowane przez wiele serwisów. Ich przemyślane, zorganizowane zestawy ułatwiają i przyspieszają pracę a dodatkowe akcesoria są idealnym uzupełnieniem warsztatu każdego serwisanta.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość</p><p>5szt</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>iFixit</p></li><li><p>Dane producenta</p><p>iFixit GmbH, Sigmaringerstrasse 260, 70597 Stuttgart, Deutschland, info@ifixit.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ifixit.jpg",
+  "images": [
+    "galerie/n/narzedzie-do-otwierania-lapto_46798.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46799.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46800.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46801.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46802.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46798.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46799.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46800.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46801.webp",
+    "galerie/n/narzedzie-do-otwierania-lapto_46802.webp"
+  ],
+  "manufacturer": "iFixit"
+}

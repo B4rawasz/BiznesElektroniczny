@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Monitoring i zabezpieczenia"
+  ],
+  "id": "17142",
+  "code": "TSL-GW-GT01ZG",
+  "name": "Tesla Smart Centrala bramka sterujaca ZigBee",
+  "price": 119.0,
+  "description": "<h2>Doskonale zarządza Twoim domem</h2><p>Jedno pudełko, wiele możliwości! Tak można opisać TESLA Smart ZigBee Hub. Urządzenie, które ma wszystko pod kontrolą i nic mu nie umknie. Dzięki niemu Twój dom zamieni się w inteligentny dom przyszłości.</p><h2>Łatwe sterowanie</h2><p>Ustawienie i sterowanie TESLA Smart ZigBee Hub jest proste. Pomoże Ci z tym aplikacja TESLA Smart, którą zrozumie każdy, nawet jeśli nie ma doświadczenia z nowoczesnymi technologiami. Produkt jest kluczowy dla pozostałych urządzeń komunikujących się poprzez protokół ZigBee. Bez niego nie obejdzie się żaden inteligentny dom.</p><h2>Technologia ZigBee</h2><p>ZigBee umożliwia wzajemną komunikację pomiędzy poszczególnymi elementami inteligentnego domu. które korzystają z protokołu ZigBee. Dzięki temu stają się jeszcze bardziej samodzielne. Jest to bardzo bezpieczne i stabilne rozwiązanie, na którym możesz polegać. Protokół ZigBee stworzy sieć i właśnie ZigBee Smart Hub jest podstawą dla pozostałych urządzeń, które korzystają z protokołu ZigBee.</p><h2>Sterowanie za pomocą inteligentnych asystentów</h2><p>Smart ZigBee Hub doskonale współpracuje z inteligentnymi asystentami osobistymi Amazon Alexa i Google Assistant. Potrafią one zareagować na Twoje polecenia i przekazać zadania poszczególnym urządzeniom. Produktem możesz też sterować za pomocą inteligentnej aplikacji w Twoim telefonie lub tablecie. Możesz ją pobrać na urządzenie z systemem operacyjnym iOS lub Android.</p><h2>Centralna jednostka sterująca</h2><p>Wszystkie urządzenia, które wykorzystują protokół ZigBee są stabilne, bezpieczne i mają zasięg do 50 metrów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>100 szt</p></li><li><p>Wysokość:</p><p>1.16 cm</p></li><li><p>Szerokość:</p><p>6.47 cm</p></li><li><p>Głębokość:</p><p>6.47 cm</p></li><li><p>Waga:</p><p>0.028 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-centrala-bramka-s_63593.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63594.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63595.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63596.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63593.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63594.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63595.webp",
+    "galerie/t/tesla-smart-centrala-bramka-s_63596.webp"
+  ],
+  "manufacturer": "Tesla"
+}

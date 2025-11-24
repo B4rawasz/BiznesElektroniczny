@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki przewodowe"
+  ],
+  "id": "19101",
+  "code": "HTM610",
+  "name": "Mysz HATOR Pulsar 3 RGB Czarna",
+  "price": 139.0,
+  "description": "<p>HATOR Pulsar 3 oferuje precyzję, trwałość i komfort w codziennym użytkowaniu, co czyni ją idealnym wyborem dla graczy poszukujących wysokiej wydajności w rozsądnej cenie. Dzięki nowoczesnej technologii i lekkiej konstrukcji, ta myszka jest gotowa, aby wynieść Twoją rozgrywkę na nowy poziom.</p><p>Symetryczny design i lekka konstrukcja o wadze 62 g — idealne rozwiązanie dla długich sesji gamingowych.</p><p>Niezawodny sensor o rozdzielczości do 12 000 DPI zapewnia precyzyjną dokładność i szybką reakcję.</p><p>Przełączniki optyczne HATOR Optical Switches z żywotnością 100 milionów kliknięć łączą natychmiastową reakcję z przyjemnym, dotykowym odczuciem.</p><p>Lekki i elastyczny kabel z paracordu.</p><p>Pasek LED z tyłu posiada 12 stref podświetlenia i zachwyca żywymi efektami. Dodatkowo podświetlenie kółka przewijania informuje o wybranej wartości DPI.</p><p>Oprogramowanie oferuje szerokie możliwości personalizacji myszy zgodnie z potrzebami użytkownika.</p><p>Ślizgacze z 100% PTFE zapewniają szybkie i płynne ruchy myszy na różnych powierzchniach.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Typ połączenia</p><p>USB</p></li><li><p>Częstotliwość próbkowania</p><p>1000Hz</p></li><li><p>Model sensora</p><p>Optyczny PixArt PMW 3311</p></li><li><p>Maksymalna czułość</p><p>12 000 DPI</p></li><li><p>Domyślne dane DPI</p><p>400 / 800 /1000 / 1200 / 1600 / 3200</p></li><li><p>Przyspieszenie czujnika dotykowego</p><p>35G</p></li><li><p>Typ przełączników</p><p>HATOR® Optical 100M “Czarna Mamba”</p></li><li><p>wytrzymałość</p><p>100 milionów kliknięć</p></li><li><p>siła nacisku</p><p>65 ±10%gf</p></li><li><p>Podświetlenie</p><p>RGB 16,8 mln kolorów</p></li><li><p>Przełączniki boczne</p><p>Kailh 3M</p></li><li><p>Encoder</p><p>TTC Gold Dutsptoof</p></li><li><p>Kompatybilne systemy</p><p>Windows® 10/11</p></li><li><p>Długość</p><p>123 mm.</p></li><li><p>Szerokość</p><p>68 mm.</p></li><li><p>Wysokość</p><p>38 mm.</p></li><li><p>Waga</p><p>62 g</p></li><li><p>Długość kabla</p><p>1800 mm.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Hator</p></li><li><p>Dane producenta</p><p>HATOR Gaming B.V., Olof Palmelaan 3C, 2729NA Zoetermeer, Holandia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/hator.jpg",
+  "images": [
+    "galerie/m/mysz-hator-pulsar-3-czarna_70595.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70596.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70597.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70598.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70599.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70600.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70595.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70596.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70597.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70598.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70599.webp",
+    "galerie/m/mysz-hator-pulsar-3-czarna_70600.webp"
+  ],
+  "manufacturer": "Hator"
+}

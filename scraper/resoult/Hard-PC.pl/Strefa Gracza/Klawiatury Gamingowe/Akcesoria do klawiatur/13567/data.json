@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "13567",
+  "code": "GAZU-854",
+  "name": "Potencjometr Glorious Rotary Knob - White",
+  "price": 43.9,
+  "description": "<p>W pełni konfigurowalna klawiatura Glorious GMMK Pro jest fabrycznie wyposażona w pasujące pokrętło. Sprzedawany przez nas GMMK Pro Rotary Knob to akcesorium do modyfikacji. Frezowane CNC aluminium zapewnia przyjemny dotyk. Odpowiednia tekstura na bokach zapewnia zwiększoną przyczepność i umożliwia precyzyjną regulację głośności.</p><p>Matowe, anodowane wykończenie potencjometru GMMK Pro Rotary Knob jest odporne na zarysowania. Elegancki wygląd przyciąga wzrok. Wymiana jest łatwa i nie wymaga narzędzi. Wystarczy ręcznie zdjąć fabryczne pokrętło, a następnie wcisnąć nowe na swoje miejsce.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>Wysokość: 14,5mm<br/>Średnica zewnętrzna: 18mm<br/>Średnica wewnętrzna: 14,5mm</p></li><li><p>Materiał</p><p>Aluminium</p></li><li><p>Kolor</p><p>White</p></li><li><p>Kompatybilność</p><p>Glorious GMMK Pro</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/p/potencjometr-glorious-pc-gami_48853.webp",
+    "galerie/p/potencjometr-glorious-pc-gami_48854.webp",
+    "galerie/p/potencjometr-glorious-pc-gami_48853.webp",
+    "galerie/p/potencjometr-glorious-pc-gami_48854.webp"
+  ],
+  "manufacturer": "Glorious"
+}

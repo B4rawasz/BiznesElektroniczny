@@ -1,0 +1,25 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Repeatery"
+  ],
+  "id": "13631",
+  "code": "PH5 Kit",
+  "name": "Wzmacniacz sygnału WiFi Tenda PH5 AV1000 Powerline",
+  "price": 299.0,
+  "description": "<h2>Innowacja “1+1”, niezawodne połączenie Wi-Fi gdziekolwiek jesteś!</h2><p>PH5 = 1000M adapter P3 + 1000M wzmacniacz Wi-Fi PA6 Wystarczyć mieć gniazdko, by mieć Wi-Fi. PH5 pomaga wyeliminować martwe punkty i obszary ze słabym sygnałem Wi-Fi -podłącz do gniazdka zasilania, aby stworzyć połączenie Wi-Fi.</p><h2>Podwójne 1000 Mb/s zapewnia szybsze połączenie da Tobie więcej rozrywki!</h2><p>Chipset Broadcom Powerline oraz technologia Homeplug AV2, szybkość transmisji PH5 dochodzi do 1000 Mb/s. Wydajność Gigabit Port jest 10 razy lepsza niż portu 100M, co sprawia, że jest to prawdziwa sieć Gigabit, która zapewnieni Tobie mocy rozrywki.</p><h2>Łatwy w użyciu Wi-Fi Clone!</h2><p>Technologia klonowania Wi-Fi pozwala na szybkie sklonowanie sieci, do którego wystarczy tylko naciśnięcie przycisku „WPS” na routerze i przycisku „W-Fi” na PA6</p><h2>Wiele urządzeń podłączonych jednocześnie</h2><p>Wyposażony w dwa gigabitowe porty ethernet, PA6 pozwala na jednoczesne podłączenie wielu urządzeń takich, jak konsole do gier, IPTV, etc. Wystarczy podłączyć kabel ethernet do powerline!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Interfejsy</p><p>Wi-Fi Powerline Extender 2 * 10/100/1000 Mbps RJ45<br/>Powerline Adapter 1 * 10/100/1000 Mbps RJ45</p></li><li><p>Typ anteny</p><p>2 * External 3dBi omni-directional antenna</p></li><li><p>Przycisk</p><p>Wi-Fi Powerline Extender * Pair, 1 * Wi-Fi Clone/switch, 1 * Reset<br/>Powerline Adapter 1 * Pair/Reset</p></li><li><p>Wskaźnik ledowy</p><p>Wi-Fi Powerline Extender 1 * Powerline, 1 * Wi-Fi<br/>Powerline Adapter 1 * Power, 1 * Powerline, 1 * Ethernet</p></li><li><p>Wejście zasilania</p><p>AC100～240V 50/60Hz 0.1A</p></li><li><p>Pobór energii</p><p>Wi-Fi Powerline Extender 8.9W(Maximum)<br/>Powerline Adapter 3.2W(Maximum)</p></li><li><p>Wymiar</p><p>Wi-Fi Powerline Extender 120mm*63mm*42mm(L x W x H)<br/>Powerline Adapter 82mm*60mm*32mm(L x W x H)</p></li><li><p>Standard bezprzewodowy</p><p>HomeplugAV2<br/>EEE 802.3, IEEE 802.3u, IEEE 802.3ab<br/>IEEE802.11b/g/n</p></li><li><p>Częstotliwość</p><p>Powerline 2-86MHz<br/>Wireless 2.4GHz</p></li><li><p>Szybkość przesyłania danych</p><p>Poweline 1000Mbps<br/>Wireless 2.4GHz Up to 300Mbps</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tenda</p></li><li><p>Dane producenta</p><p>Tenda Polska Sp. z o.o.; Górczewska 216, 01-460 Warszawa, Polska, support.pl@tenda.cn</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tenda.jpg",
+  "images": [
+    "galerie/w/wzmacniacz-sygnalu-tenda-ph5_48971.webp",
+    "galerie/w/wzmacniacz-sygnalu-tenda-ph5_48972.webp",
+    "galerie/w/wzmacniacz-sygnalu-tenda-ph5_48973.webp",
+    "galerie/w/wzmacniacz-sygnalu-tenda-ph5_48974.webp",
+    "galerie/w/wzmacniacz-sygnalu-tenda-ph5_48971.webp",
+    "galerie/w/wzmacniacz-sygnalu-tenda-ph5_48972.webp",
+    "galerie/w/wzmacniacz-sygnalu-tenda-ph5_48973.webp",
+    "galerie/w/wzmacniacz-sygnalu-tenda-ph5_48974.webp"
+  ],
+  "manufacturer": "Tenda"
+}

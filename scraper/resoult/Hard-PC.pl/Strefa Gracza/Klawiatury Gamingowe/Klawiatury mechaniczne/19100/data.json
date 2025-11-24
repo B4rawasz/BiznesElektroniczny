@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "19100",
+  "code": "HTK561",
+  "name": "Klawiatura HATOR Gravity TKL Retro RGB Aurum Orange Biała",
+  "price": 289.0,
+  "description": "<p>HATOR Gravity TKL to kompaktowa klawiatura gamingowa, stworzona z myślą o maksymalnym komforcie i precyzji podczas gry. Dzięki zaawansowanej technologii i stylowemu designowi staje się niezawodnym narzędziem dla graczy, którzy dążą do osiągnięcia nowych szczytów w swoich przygodach gamingowych.</p><p>Wstępnie nasmarowane mechaniczne przełączniki liniowe HATOR Aurum Orange mają nylonową bazę i trzon z tworzywa POK, a styki pokryte są kompozytowym złotem dla większej trwałości.</p><p>Wielowarstwowy system izolacji akustycznej skutecznie pochłania nadmiar hałasu i wibracji.</p><p>Stabilizatory premium z tworzywa POM, nasmarowane ręcznie, zapewniają precyzyjne i stabilne wciśnięcia klawiszy.</p><p>ABS keycapy z profilem OMA zapewniają przyjemną w dotyku fakturę.</p><p>System hot-swap pozwala na łatwą i szybką wymianę przełączników, tworząc optymalną kombinację.</p><p>Dwa dodatkowe przyciski i aluminiowe pokrętło regulacji głośności zapewniają wygodne sterowanie multimediami.</p><p>Płyta aluminiowa szczotkowana i anodowana zwiększa trwałość klawiatury i pochłania wibracje, zapewniając większy komfort.</p><p>Funkcje 100% Anti-ghosting i N-Key Rollover gwarantują rejestrację wszystkich jednoczesnych naciśnięć klawiszy, niezależnie od ich ilości.</p><p>Podświetlenie RGB z 16,8 milionami kolorów, konfigurowalne dla każdego klawisza, z dodatkowymi bocznymi strefami świetlnymi.</p><p>Odłączany miękki kabel USB Type-A do Type-C zapewnia niezawodne i wygodne połączenie.</p><p>Oprogramowanie do tworzenia i zapisywania makr i innych ustawień.</p><p>Klawiatura obsługuje niestandardowe oprogramowanie oparte na QMK z możliwością ustawień poprzez interfejs VIA. Uzyskaj jeszcze większy zakres ustawień i obsługę wszystkich systemów operacyjnych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Typ połączenia</p><p>USB</p></li><li><p>Częstotliwość odpytywania</p><p>1000Hz</p></li><li><p>Napięcie zasilania</p><p>5V</p></li><li><p>Natężenie prądu</p><p>220mА</p></li><li><p>Podświetlenie</p><p>RGB z możliwością indywidualnego dostosowania każdego klawisza</p></li><li><p>Typ przełączników</p><p>HATOR Aurum Orange Linear rev.2.0</p></li><li><p>Żywotność przełączników</p><p>70M naciśnięć klawiszy</p></li><li><p>Indigo Moc nacisku</p><p>50 ±10%g</p></li><li><p>Skok do uruchomienia</p><p>1,9 ±0.4mm</p></li><li><p>Całkowity skok</p><p>4 ±0.4mm</p></li><li><p>Materiał nasadek klawiszy</p><p>Podwójnie wtryskiwane nasadki ABS</p></li><li><p>Profil nasadek klawiszy</p><p>OMA</p></li><li><p>Dodatkowe funkcje</p><p>System Hotswap<br/>Wielowarstwowy system redukcji dźwięku<br/>PORON Switch pad<br/>Anodowana płyta aluminiowa zapewnia trwałość i redukcję hałasu<br/>Dodatkowe sterowanie funkcjami multimedialnymi<br/>Gotowość na niestandardowe oprogramowanie układowe QMK/VIA.</p></li><li><p>Wsparcie sprzętowe dla platform</p><p>Windows 10/11, Android, Linux, Mac OS, PS4/5, Xbox</p></li><li><p>Długość</p><p>364 mm.</p></li><li><p>Szerokość</p><p>136 mm.</p></li><li><p>Wysokość</p><p>35 mm.</p></li><li><p>Waga</p><p>755gt</p></li><li><p>Długość kabla</p><p>1800 mm.</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Hator</p></li><li><p>Dane producenta</p><p>HATOR Gaming B.V., Olof Palmelaan 3C, 2729NA Zoetermeer, Holandia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/hator.jpg",
+  "images": [
+    "galerie/k/klawiatura-hator-gravity-tkl_70577.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70578.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70579.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70580.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70581.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70582.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70577.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70578.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70579.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70580.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70581.webp",
+    "galerie/k/klawiatura-hator-gravity-tkl_70582.webp"
+  ],
+  "manufacturer": "Hator"
+}

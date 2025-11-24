@@ -1,0 +1,29 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki nauszne/wokółuszne"
+  ],
+  "id": "17540",
+  "code": "6972585501552",
+  "name": "Słuchawki MOONDROP Para",
+  "price": 1499.0,
+  "description": "<h2>Duża membrana 100 mm</h2><p>W przeciwieństwie do tradycyjnych planarnych słuchawek magnetycznych, PARA wykorzystuje bardzo dużą membranę o średnicy 100 mm z technologią Full Drive (FDT). Cała powierzchnia drgająca membrany jest równomiernie pokryta efektywnymi obwodami napędowymi i otoczona polem magnetycznym. Technologia ta zapewnia drgania o niskim rozdzieleniu, znacznie lepsze niż w przypadku tradycyjnych słuchawek planarnych magnetycznych i porównywalne z modelami elektrostatycznymi.</p><h2>FDT (Full Drive Technology)</h2><p>Tradycyjne membrany planarnych słuchawek magnetycznych W obszarze wibracji występują nieefektywne obwody i napędzana jest tylko środkowa część membrany. Powstałe w ten sposób podzielone wibracje powodują rozmycie szczegółów wysokich tonów i zniekształcenie barwy. Wibrująca część membrany umieszczona jest w jednolitym, planarnym polu magnetycznym, a efektywne obwody napędowe rozciągają się na całej powierzchni drgającej powierzchni. Wywiera to jednolitą siłę napędową na całej powierzchni, porównywalną do tej w słuchawkach elektrostatycznych, eliminując rozszczepione wibracje i zapewniając wydajność wysokich tonów znacznie lepszą niż w przypadku tradycyjnych planarnych słuchawek magnetycznych.</p><h2>Układ magnesów N52 zoptymalizowany za pomocą analizy elementów skończonych FEA</h2><p>W planarnych słuchawkach magnetycznych PARA zastosowano układ 36 bardzo dużych neodymowych magnesów paskowych N52, które generują planarne pole magnetyczne pokrywające całą wibrującą powierzchnię membrany, zoptymalizowane za pomocą symulacji elementów skończonych FEA w celu zapewnienia równomiernego i wydajnego rozkładu pola magnetycznego na całej wibrującej powierzchni.</p><h2>Zintegrowana struktura wnęki przetwornika</h2><p>PARA dziedziczy zintegrowaną strukturę wnęki jednostki po swoim poprzedniku VENUS, ale w znacznym stopniu modyfikuje zarówno strukturę, jak i materiały. Zintegrowana, przestrzenna struktura wnęki przetwornika składa się z dużego obwodu magnetycznego z jednolitym polem magnetycznym, które całkowicie pokrywa obszar wibracyjny bardzo dużej membrany FDT. Po wyczerpującej i wszechstronnej symulacji mechanicznej rama ze stopu aluminium VENUS została zastąpiona zoptymalizowaną konstrukcją z lekkiego, wytrzymałego tworzywa sztucznego klasy przemysłowej, zdolnego wytrzymać obciążenia układu obwodów magnetycznych i znacznie zmniejszyć wagę.</p><h2>Uniwersalna konstrukcja z wymiennym kablem 3,5 mm</h2><p>PARA wykorzystuje uniwersalną konstrukcję wymiennego kabla o podwójnej końcówce 3,5 mm i nachylonym kącie, co pozwala użytkownikom na swobodną wymianę kabli w celu spełnienia różnych wymagań.</p><h2>Zalecane z kablem aktualizacyjnym MOONDROP UP</h2><p>Kabel MOONDROP UP zawiera monokrystaliczne żyły miedziane o dużej średnicy z interfejsem XLR i opcjonalnymi adapterami 4,4 mm i 6,35 mm.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Czułość:</p><p>101 dB/Vrms (przy 1 kHz)</p></li><li><p>Impedancja:</p><p>8 Ω ± 15% (@ 1 kHz)</p></li><li><p>Zakres częstotliwości:</p><p>15–53 kHz (IEC61094, pole swobodne)</p></li><li><p>Efektywny zakres częstotliwości:</p><p>20-20 kHz (IEC60318-4, -3dB)</p></li><li><p>Gniazdo słuchawkowe:</p><p>3,5 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOONDROP</p></li><li><p>Dane producenta</p><p>Chengdu shuiyueyu technology Co.,Ltd 13th Floor, Building B, Building 1, Yuetiandi Commercial Building Project, No.159 Haichuan Road, Wenjiang District, Chengdu City, Sichuan Province, China, support@moondroplab.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moondrop.jpg",
+  "images": [
+    "galerie/s/sluchawki-moondrop-para_64393.webp",
+    "galerie/s/sluchawki-moondrop-para_64394.webp",
+    "galerie/s/sluchawki-moondrop-para_64395.webp",
+    "galerie/s/sluchawki-moondrop-para_64396.webp",
+    "galerie/s/sluchawki-moondrop-para_64397.webp",
+    "galerie/s/sluchawki-moondrop-para_64398.webp",
+    "galerie/s/sluchawki-moondrop-para_64393.webp",
+    "galerie/s/sluchawki-moondrop-para_64394.webp",
+    "galerie/s/sluchawki-moondrop-para_64395.webp",
+    "galerie/s/sluchawki-moondrop-para_64396.webp",
+    "galerie/s/sluchawki-moondrop-para_64397.webp",
+    "galerie/s/sluchawki-moondrop-para_64398.webp"
+  ],
+  "manufacturer": "MOONDROP"
+}

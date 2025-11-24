@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory AMD"
+  ],
+  "id": "15748",
+  "code": "100-100000926WOF",
+  "name": "Procesor AMD Ryzen 7 5700X BOX, AM4",
+  "price": 686.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Gniazdo procesora</p><p>Socket AM4</p></li><li><p>Taktowanie procesora</p><p>3.4 GHz</p></li><li><p>Taktowanie (Boost)</p><p>4.6 GHz</p></li><li><p>Liczba rdzeni</p><p>8</p></li><li><p>Liczba wątków</p><p>16</p></li><li><p>Cache L2</p><p>4 MB</p></li><li><p>Cache L3</p><p>32 MB</p></li><li><p>Obsługa ECC</p><p>Nie</p></li><li><p>Technologia wykonania</p><p>7 nm</p></li><li><p>Architektura</p><p>64-bit</p></li><li><p>Dodatkowe chłodzenie</p><p>Nie</p></li><li><p>Wersja</p><p>Box</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Advanced Micro Devices, Inc., 2485 Augustine Drive, 95054, Santa Clara, CA , USA, youtube@amd.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Advanced Micro Devices GmbH, Einsteinring 22-28, 85609 Aschheim, Munich, Niemcy, +49 89-450-53100</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/amd.jpg",
+  "images": [
+    "galerie/p/procesor-amd-ryzen-7-5700x-bo_56134.webp",
+    "galerie/p/procesor-amd-ryzen-7-5700x-bo_56134.webp"
+  ],
+  "manufacturer": "Lamzu"
+}

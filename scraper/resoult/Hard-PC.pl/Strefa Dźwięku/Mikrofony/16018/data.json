@@ -1,0 +1,31 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "16018",
+  "code": "SM-10B",
+  "name": "Mikrofon pojemnościowy Takstar SM-10B Phantom 48V",
+  "price": 399.0,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Odkryj mikrofon, który przekształci Twoją twórczość w czystą magię dźwięku. Nasz mikrofon pojemnościowy to doskonały wybór dla profesjonalnych studiów nagraniowych, dynamicznych studiów radiowych i energetycznych występów na scenie. Zestaw, który pomoże Ci osiągnąć doskonałe brzmienie, niezależnie od miejsca i warunków.</p><p>Doskonałe odwzorowanie dźwięku - Duża, pozłacana membrana mikrofonu to klucz do precyzyjnego i realistycznego dźwięku. Każdy dźwięk jest oddany w pełnej krasie, dzięki czemu Twoje nagrania staną się prawdziwymi arcydziełami dźwiękowymi.</p><p>Złap dźwięk w idealnym ujęciu - Kardioidalna charakterystyka kierunkowa pozwoli Ci skupić się na istotnym dźwięku, eliminując niepożądane zakłócenia. Twój przekaz będzie klarowny i mocno zaznaczony, bez zbędnego hałasu.</p><p>Pełne spektrum dźwięku - Szerokie pasmo przenoszenia mikrofonu to gwarancja, że żaden detal dźwiękowy nie umknie Twojej uwadze. Od głębokich basów po iskrzące sopranowe tony - wszystko zostanie uchwycone w pełnej chwale.</p><p>Kontrola nad dźwiękiem - Nasz mikrofon pozwala na jeszcze większą elastyczność. Opcjonalny filtr basowy eliminuje wszelkie niechciane dźwięki niskiej częstotliwości, zapewniając czystość brzmienia. Dodatkowo, opcjonalne tłumienie 10dB sprawi, że nawet najwyższe poziomy głośności nie będą stanowiły wyzwania.</p><p>Zestaw gotowy na każde wyzwanie - Razem z mikrofonem otrzymujesz komplet akcesoriów, które sprawią, że Twoje nagrania staną się dziełem sztuki dźwiękowej. Niezawodność, precyzja i możliwości, które zmienią sposób, w jaki tworzysz dźwięk - to wszystko znajdziesz w naszym mikrofonie pojemnościowym. Odkryj doskonałość brzmienia i podbijaj serca słuchaczy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja mikrofonu:</h2><ul class=\"list-specification\"><li><p>Charakterystyka</p><p>kardioidalna,</p></li><li><p>Pasmo przenoszenia</p><p>20 Hz - 20 kHz</p></li><li><p>Czułość</p><p>-36dB ± 2dB (0dB=1V/Pa przy 1kHz)</p></li><li><p>Impedancja wyjściowa</p><p>≤ 20 Ω ± 30% (przy 1kHz)</p></li><li><p>Impedancja obciążenia</p><p>≥ 1000 Ω</p></li><li><p>Poziom szumów</p><p>≤ 20dB A (IEC 581-5)</p></li><li><p>Max SPL</p><p>130dB (THD ≤ 1.0% przy 1kHz); 140dB</p></li><li><p>Filt basowy</p><p>10dB/oktawa przy 100Hz</p></li><li><p>Zasilanie</p><p>Phantom 48V</p></li><li><p>Wymiary</p><p>50 x 188 mm</p></li><li><p>Waga</p><p>480 g</p></li><li><p>Zestaw</p><p>mikrofon<br/>aluminiowa skrzynka<br/>SH-200 uchwyt mikrofonowy<br/>W-10 osłona przeciwietrzna</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Takstar</p></li><li><p>Dane producenta</p><p>Takstar Innovation Park, Xiagang Road, Longxi Street, Boluo County, Huizhou, Guangdong, sales @ takstar.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/takstar.jpg",
+  "images": [
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56938.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56940.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56941.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56942.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56943.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56944.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56939.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56938.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56940.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56941.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56942.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56943.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56944.webp",
+    "galerie/m/mikrofon-pojemnosciowy-taksta_56939.webp"
+  ],
+  "manufacturer": "Takstar"
+}

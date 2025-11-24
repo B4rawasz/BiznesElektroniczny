@@ -1,0 +1,33 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "15370",
+  "code": "L1080067",
+  "name": "Mikrofon Novox NC-1 New 2022 USB",
+  "price": 299.0,
+  "description": "<h2>Kardioidalna charakterystyka</h2><p>NC1 zbiera wyłącznie dźwięki z przodu. Dzięki temu wszystkie szumy i inne przeszkadzacze z otoczenia nie pojawią się na Twoim nagraniu.</p><h2>Nowy wymiar Plug &amp; Play</h2><p>Funkcjonalność Plug &amp; Play spisuje się bez zarzutu. Podłączasz mikrofon i… działa. Bez konieczności instalowania sterowników.</p><p>Połączenie odbywa się poprzez umieszczony na spodzie urządzenia port USB-C. Umożliwi Ci współpracę z komputerem za pomocą załączonego w opakowaniu kabla… A jeśli posiadasz przewód USB-C do USB-C, możesz połączyć się nawet z własnym smartfonem! Również tu działa Plug &amp; Play: z łatwością nagrasz dźwięk od razu po podłączeniu, korzystając choćby z telefonicznego dyktafonu.</p><h2>Odrobina technikaliów</h2><p>Mikrofon charakteryzuje się czułością na poziomie 17 mV/Pa (@ 1 kHz). Sprawia to, że spokojnie można nim rejestrować nie tylko mowę, ale i muzykę; dźwięki instrumentów, wokal, a nawet całe zespoły grające na żywo.</p><p>Maksymalny SPL wynosi w tym wypadku 120 dB. NC1 bez większego wysiłku radzi sobie także z wartościami zbliżonymi do tej najwyższej. Częstotliwość próbkowania to z kolei 24 bit/192 kHz.</p><h2>Co w pudełku?</h2><p>Mikrofon trafi do Ciebie wraz z niezbędnymi akcesoriami, które umożliwiają korzystanie z niego bez konieczności dokupowania dodatkowych rzeczy. A dokładnie są to: kabel USB, poręczny statyw tripod oraz gąbka.</p><h2>Dla kogo?</h2><p>Jak już wspomnieliśmy, NC1 ma szeroki wachlarz zastosowań. Kapitalnie radzi sobie z nagrywaniem głosu, a więc szczególnie docenią go lektorzy, youtuberzy, autorzy podcastów, streamerzy, zawodowi i casualowi gracze oraz – last but not least – osoby pracujące z domu i freelancerzy. To wyborne narzędzie do komunikacji wewnątrz zdalnego teamu.</p><p>Zamów i zapomnij o wszystkich rozpraszaczach i technikaliach towarzyszących pracy z dźwiękiem. Z Novox skupisz się na najważniejszym: na realizowaniu swojej kreatywnej wizji!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy</h2><ul class=\"list-specification\"><li>świetny mikrofon pojemnościowy USB o wysokiej jakości dźwięku</li><li>nowoczesny, szwedzki design</li><li>kardioidalna charakterystyka kierunkowa – mikrofon zbiera wyłącznie dźwięki z przodu</li><li>funkcjonalność Plug &amp; Play</li><li>solidna, wytrzymała konstrukcja</li><li>kompatybilność z systemami Windows, macOS i Android</li><li>niezbędne akcesoria do pracy: kabel USB, statyw tripod, osłona przeciwwietrzna (gąbka)</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>pasmo przenoszenia</p><p>30 Hz - 18 kHz</p></li><li><p>czułość</p><p>17 mV/Pa (@ 1 kHz)</p></li><li><p>maksymalny SPL</p><p>120 dB (@ 1 kHz ? 1% T. H. D.)</p></li><li><p>częstotliwość próbkowania</p><p>24 bit/192 kHz</p></li><li><p>THD ? 0,5%</p></li><li><p>SNR = 80 dB</p></li><li><p>port</p><p>USB-C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Novox</p></li><li><p>Dane producenta</p><p>Lauda Central Europe, Slowackiego 81, 80-257 Gdansk, info@laudacentral.eu</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/novox.jpg",
+  "images": [
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54949.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54950.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54951.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54952.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54953.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54954.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54955.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54956.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54949.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54950.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54951.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54952.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54953.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54954.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54955.webp",
+    "galerie/m/mikrofon-novox-nc-1-new-2022_54956.webp"
+  ],
+  "manufacturer": "Novox"
+}

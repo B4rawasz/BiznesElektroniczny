@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "12493",
+  "code": "KRX0093",
+  "name": "Chłodzenie Krux Integrator RGB AMD AM4",
+  "price": 49.0,
+  "description": "<p>KRUX Integrator RGB – maciupkie chłodzenie pasujące idealnie do minimalistycznych zestawów z nutką ARGB.</p><h2>Kompaktowe chłodzenie przeznaczone dla podstawki AM4</h2><p>Chłodzenie powietrzne KRUX Integrator RGB zostało zaprojektowane specjalnie dla podstawki AM4 i komputerów kompaktowych, do których standardowe systemy wieżowe nie wejdą.</p><h2>Podświetlenie LED ARGB</h2><p>Mleczny wentylator chłodzenia Integrator RGB został wyposażony w diody ARGB, które zaraz po podłączeniu mienią się różnokolorowym blaskiem. Kontroler jest wbudowany w wentylator, do zasilania wystarczy standardowy przewód zasilający 4-pin, rola użytkownika jest ograniczona do minimum.</p><h2>Prosty montaż i obsługa</h2><p>Integrator został od początku zaprojektowany tak aby był jak najprostszy w montażu na platformie AM4. Chłodzenie od razu po wyjęciu z opakowania jest gotowe do montażu na swoje nowe miejsce, dzięki wsparciu dla standardowego systemu montażu AMD, nie trzeba używać żadnych dodatkowych montaży bądź dystansów. Pasta termoprzewodząca jest preaplikowana i znajduje się już na podstawie. Po zamocowaniu chłodzenia, wystarczy podłączyć jeden przewód i cieszyć się nowym chłodzeniem z ARGB.</p><h2>Wentylator 92 mm z kontrolą obrotów PWM</h2><p>Za schładzanie całej konstrukcji odpowiedzialny jest mleczny wentylator w rozmiarze 92 mm. Po podłączeniu do płyty głównej poprzez złącze 4-pin PWM, użytkowni może sterować obrotami w zakresie od 1000 do 2800 ±10% obr./min.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>122×57×95 mm</p></li><li><p>Waga</p><p>360 g</p></li><li><p>WspółczynnikTDP</p><p>85 W</p></li><li><p>Typ</p><p>owalny</p></li><li><p>Wentylator</p><p>KRUX 92 mm</p></li><li><p>Radiator</p><p>Aluminiowy</p></li><li><p>Prędkośćobrotowawentylatora</p><p>1000 – 2800 ±10% obr./min.</p></li><li><p>Żywotność</p><p>40 000 h</p></li><li><p>Wtyczkazasilania</p><p>4-pin PWM</p></li><li><p>Podświetlenie</p><p>ARGB</p></li><li><p>Kompatybilność z podstawkami AMD</p><p>AM4</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Krux</p></li><li><p>Dane producenta</p><p>COOLING sp. z o.o., ul. Sokołowska 24, 05-806 Sokołów, kontakt@cooling.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/krux.jpg",
+  "images": [
+    "galerie/c/chlodzenie-krux-integrator-rg_44727.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44728.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44729.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44730.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44731.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44732.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44727.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44728.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44729.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44730.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44731.webp",
+    "galerie/c/chlodzenie-krux-integrator-rg_44732.webp"
+  ],
+  "manufacturer": "Krux"
+}

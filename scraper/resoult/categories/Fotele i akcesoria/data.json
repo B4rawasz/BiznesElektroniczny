@@ -1,0 +1,19 @@
+{
+    "name": "Fotele i akcesoria",
+    "description": "<h1>Fotele i akcesoria - komfort dla graczy i do pracy</h1><p align=\"justify\">Dobry fotel gamingowy to dziś nie tylko efektowny element stanowiska gracza, ale przede wszystkim podstawa wygody i zdrowej postawy. Spędzając wiele godzin przy komputerze – czy to w grze, czy w pracy – potrzebujesz siedziska, które zapewni odpowiednie podparcie pleców i odciąży kark. Właśnie dlatego w Hard-PC zebraliśmy szeroki wybór foteli dla graczy i ergonomicznych foteli biurowych, które łączą nowoczesny design z funkcjonalnością.</p><p align=\"JUSTIFY\" style=\"padding-top: 2%;\"><a href=\"#czytaj_wiecej\" style=\"color: #4479c2;\">Czytaj więcej</a></p>",
+    "description_long": "<p align=\"JUSTIFY\" id=\"czytaj_wiecej\"> </p><h2>Fotel dla gracza – wygoda i przewaga w rozgrywce</h2><p align=\"JUSTIFY\">Profesjonalny fotel dla gracza pozwala lepiej skupić się na rozgrywce. Regulowane podłokietniki, oparcie odchylane do pozycji leżącej, miękka poduszka lędźwiowa czy zagłówek pomagają utrzymać odpowiednią postawę nawet podczas wielogodzinnych maratonów. Wielu graczy wybiera fotel gamingowy ergonomiczny, który wspiera kręgosłup i redukuje zmęczenie – to realny wpływ na komfort i wyniki w grze.</p><h2>Ergonomiczne fotele biurowe – dla pracy i nauki</h2><p align=\"JUSTIFY\">Jeśli przy komputerze spędzasz głównie czas w pracy, świetnym wyborem będzie ergonomiczny fotel biurowy. W tej kategorii znajdziesz modele z oddychającą siatką mesh, zaawansowaną regulacją wysokości i kąta oparcia czy mechanicznym wsparciem odcinka lędźwiowego. Taki fotel pomaga utrzymać prawidłową postawę i zmniejsza ryzyko bólu pleców, co ma znaczenie zarówno dla zdrowia, jak i wydajności w codziennych obowiązkach.</p><h2>Różnorodność stylów i funkcji</h2><p align=\"JUSTIFY\">W Hard-PC oferujemy szeroki wybór: od klasycznych, stonowanych modeli biurowych, przez nowoczesne fotele do gier w stylu wyścigowym, po designerskie krzesła z siatkowym oparciem dla fanów minimalistycznych setupów. Możesz dobrać fotel nie tylko do swojej sylwetki, ale też do aranżacji pokoju czy biura. Bez względu na to, czy potrzebny Ci fotel do komputera do pracy, czy fotel gamingowy premium, znajdziesz u nas rozwiązanie dopasowane do własnych preferencji.</p><h2>Postaw na wygodę i zdrową postawę</h2><p align=\"JUSTIFY\">Dobrze dobrany fotel do komputera to inwestycja w komfort i zdrowie. Dzięki odpowiedniej regulacji i ergonomicznym kształtom możesz spędzać długie godziny przy biurku, nie nadwyrężając kręgosłupa. Przeglądając naszą ofertę, łatwo wybierzesz model idealny – od budżetowych foteli dla początkujących graczy po ergonomiczne krzesła klasy premium.</p>",
+    "sub_images": [
+        {
+            "name": "Fotele gamingowe",
+            "image_url": "SUCRO/strefa-gracza/fotele-gamingowe.webp"
+        },
+        {
+            "name": "Fotele biurowe i ergonomiczne",
+            "image_url": "SUCRO/strefa-gracza/fotele-ergonomiczne-biurowe.webp"
+        },
+        {
+            "name": "Akcesoria do foteli",
+            "image_url": "SUCRO/strefa-gracza/akcesoria-do-foteli.webp"
+        }
+    ]
+}

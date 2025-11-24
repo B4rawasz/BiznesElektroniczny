@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "17674",
+  "code": "CPDC-026",
+  "name": "Chłodzenie DeepCool ASSASSIN IV 140mm Black",
+  "price": 331.9,
+  "description": "<h2>DeepCool ASSASSIN IV: chłodnica powietrza procesora o dyskretnej konstrukcji</h2><p>Cichy zabójca ciepła powraca z nową estetyką i maksymalną wydajnością chłodzenia. DeepCool ASSASSIN IV oferuje wyjątkową wydajność i jest wyposażony w siedem rurek cieplnych oraz nowo opracowane wentylatory FDB 120 i 140 mm. Najnowszy dodatek do serii ASSASSIN zachwyca najwyższej klasy wydajnością chłodzenia i wyjątkowo cichą pracą.</p><h2>Wydajna, wysokiej klasy chłodnica procesora</h2><p>Obudowa ASSASSIN IV jest prosta i smukła, co pomaga w kierowaniu powietrza przez żebrowane wieże, podczas gdy wymienny wentylator 120 mm zapewnia niezakłóconą przestrzeń nad głową dla wysokiej klasy pamięci RGB. Za pomocą prostego przełącznika wentylator ten można przekształcić z cichej chłodnicy, gdy najważniejszy jest niski poziom hałasu, w wydajną jednostkę chłodzącą, gdy ważna jest maksymalna wydajność.</p><h2>Cicha praca i niska temperatura</h2><p>Kluczowym czynnikiem zapewniającym wyjątkowo cichą pracę ASSASSIN IV jest zastosowanie trójfazowych, sześciobiegowych silników wentylatorów o niskim napięciu i małej mocy. Wyposażony w siedem rurek cieplnych, które zapewniają lepszy transfer ciepła przez dwie wieże radiatorów z układem żeberek zapewniającym wysoką wydajność energetyczną. Dołączona pasta termoprzewodząca DM9 spełnia surowe normy dla zastosowań przemysłowych.</p><h2>Łatwy w montażu</h2><p>Instalowanie większych chłodnic powietrza może być trudne i jest głównym powodem, dla którego sprzęt i instalacja zostały zaprojektowane tak, aby były wyjątkowo przyjazne dla użytkownika. Nawet magnetyczna górna pokrywa wentylatora została zaprojektowana z myślą o łatwej instalacji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>164 × 147 × 144 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>miedź (rurki cieplne, płyta podstawy), aluminium (lamele, pokrywa)</p></li><li><p>Waga</p><p>1,575 g</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Rurki cieplne</p><p>7x Ø 6 mm</p></li><li><p>Wydajność chłodzenia</p><p>280 W TDP</p></li><li><p>Wentylator</p><p>1x 120 × 120 × 25 mm (szer. x wys. x gł.)<br/>1x 140 × 140 × 25 mm (szer. x wys. x gł.)</p></li><li><p>Złącze</p><p>4-pinowe PWM</p></li><li><p>Głośność całkowita</p><p>maks. 29 dB(A)</p></li><li><p>Kompatybilność</p><p>Intel Socket LGA2066, 2011-v3, 2011, 1700, 1200, 1151, 1150, 1155<br/>AMD Socket AM5, AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/c/chlodzenie-deepcool-assassin_65432.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65433.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65434.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65435.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65436.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65437.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65438.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65439.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65440.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65432.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65433.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65434.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65435.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65436.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65437.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65438.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65439.webp",
+    "galerie/c/chlodzenie-deepcool-assassin_65440.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

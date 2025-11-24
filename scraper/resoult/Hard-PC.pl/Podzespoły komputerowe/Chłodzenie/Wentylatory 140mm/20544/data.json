@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 140mm"
+  ],
+  "id": "20544",
+  "code": "LULI-123",
+  "name": "Wentylator Lian Li UNI FAN TL Wireless ARGB PWM Black - 140mm",
+  "price": 149.9,
+  "description": "<h2>Lian Li UNI FAN TL140 LED Wireless – cichy, mocny i bezprzewodowy</h2><p>Wentylator Lian Li UNI FAN TL140 LED Wireless to połączenie stylowego designu, wysokiej wydajności chłodzenia i uporządkowanego montażu dzięki systemowi plug-in i komunikacji bezprzewodowej. Wersja 140 mm z czarną ramką i klasycznym układem łopatek oferuje przepływ powietrza do 176,5 m³/h i ciśnienie statyczne 2,34 mmH₂O przy zaledwie 29 dB(A). To świetny wybór do nowoczesnych, wysokowydajnych zestawów gamingowych.</p><h2>Bez kabli, bez bałaganu – plug-in i łańcuchowe łączenie</h2><p>Dzięki praktycznemu systemowi łączenia, wentylatory można łatwo łączyć w szereg, minimalizując liczbę kabli i tworząc czysty, profesjonalny wygląd wnętrza. Podświetlane krawędzie i efekt infinity mirror zapewniają płynne, spójne przejścia świetlne między wentylatorami.</p><h2>Wydajne chłodzenie bez hałasu</h2><p>Prędkość do 1800 obr./min, wysoka wydajność przepływu oraz zwiększona wysokość (28 mm) gwarantują skuteczne chłodzenie nawet przy dużym obciążeniu. Dzięki technologii PWM i cichej konstrukcji wentylator generuje jedynie 29 dB(A), co czyni go niemal niesłyszalnym w pracy.</p><h2>Pełna kontrola z L-Connect 3</h2><p>Sterowanie podświetleniem ARGB i prędkością obrotową odbywa się za pomocą oprogramowania Lian Li L-Connect 3. Wymagany do działania jest kontroler bezprzewodowy Lian Li, który należy zakupić osobno.</p><h2>Uwaga: wymagany kontroler</h2><p>Wentylator UNI FAN TL140 LED Wireless nie działa samodzielnie – do jego obsługi niezbędny jest kontroler L-Wireless. Kontroler dostępny jest oddzielnie i umożliwia podłączenie do czterech wentylatorów. Można łączyć modele TL LED i TL LCD w ramach jednego kontrolera (maks. 4 wentylatory).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>Wentylator 140 mm PWM</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>Aluminium, tworzywo (ramka z elementami RGB)</p></li><li><p>Podświetlenie</p><p>ARGB (adresowalne RGB)</p></li><li><p>Efekty świetlne</p><p>Infinity mirror + paski LED na krawędziach</p></li><li><p>Maksymalna prędkość obrotowa</p><p>1 800 obr./min</p></li><li><p>Minimalna prędkość obrotowa</p><p>0 obr./min (tryb pasywny)</p></li><li><p>Przepływ powietrza</p><p>176,5 m³/h</p></li><li><p>Ciśnienie statyczne</p><p>2,34 mmH₂O</p></li><li><p>Maksymalny poziom hałasu</p><p>29 dB(A)</p></li><li><p>Napięcie znamionowe</p><p>12 V</p></li><li><p>Napięcie startowe</p><p>5 V</p></li><li><p>Wysokość wentylatora</p><p>28 mm</p></li><li><p>Wymiary (D×S)</p><p>142 × 140 mm</p></li><li><p>Łopatki</p><p>Standardowy układ</p></li><li><p>Łożysko</p><p>FDB (Fluid Dynamic Bearing)</p></li><li><p>Typ połączenia</p><p>Plug-in + sterowanie przez kontroler bezprzewodowy</p></li><li><p>Złącze wentylatora</p><p>4-pin PWM (przez kontroler)</p></li><li><p>Złącze RGB</p><p>3-pin ARGB (5V D-G)</p></li><li><p>Kompatybilność oprogramowania</p><p>Lian Li L-Connect 3</p></li><li><p>Zestaw</p><p>Nie (pojedynczy wentylator)</p></li><li><p>Kontroler w zestawie</p><p>Nie (wymaga dokupienia)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77598.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77595.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77596.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77597.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77598.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77595.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77596.webp",
+    "galerie/w/wentylator-lian-li-uni-fan-tl_77597.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Dyski",
+    "Dyski SSD"
+  ],
+  "id": "15759",
+  "code": "LNM710X002T-RNNNG",
+  "name": "Dysk SSD Lexar NM710 2TB NVMe M.2 2280 4850/4500MB/s",
+  "price": 539.0,
+  "description": "<p>Poznaj dyski Lexar NM710 M.2 2280 PCIe Gen4x4 NVMe SSD - produkt stworzony specjalnie po to, aby zapewnić Ci wydajniejszą pracę. Dzięki wysokim prędkościom transferu do 5000MB/s odczytu i 4500MB/s zapisu, ta kompaktowa jednostka SSD o pojemności nawet 2TB pozwala na szybsze i bardziej efektywne wczytywanie danych.</p><p>Ulepsz swój komputer za pomocą Lexar NM710 M.2 2280 PCIe Gen4x4 NVMe SSD, który jest o ponad 40% szybszy od dysków poprzedniej generacji SSD PCIe 3.0. Dzięki technologii HMB 3.0 i pamięci podręcznej SLC, Lexar NM710 M.2 2280 PCIe Gen4x4 NVMe SSD zwiększy wydajność Twojego systemu, oferują szybsze uruchamianie i wczytywanie danych.</p><p>Dzięki kompaktowemu i lekkiemu formatowi M.2 2280, Lexar NM710 M.2 2280 PCIe Gen4x4 NVMe SSD jest łatwy w instalacji w komputerach stacjonarnych lub laptopach o ograniczonej przestrzeni.</p><p>W przeciwieństwie do tradycyjnych dysków twardych, dysk SSD NM710 nie ma ruchomych części, co sprawia, że jest bardziej wytrzymały. Ponadto, jest odporny na wstrząsy i wibracje, co czyni go solidnym i niezawodnym dyskiem.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Format szerokości</p><p>M.2 2280</p></li><li><p>Typ napędu</p><p>Wewnętrzny</p></li><li><p>Pojemność dysku</p><p>2 TB</p></li><li><p>Interfejs dysku</p><p>PCI-Express</p></li><li><p>TBW</p><p>1200 TB</p></li><li><p>Prędkość odczytu</p><p>4850 MB/s</p></li><li><p>Prędkość zapisu</p><p>4500 MB/s</p></li><li><p>Kolor</p><p>Nie dotyczy</p></li><li><p>Wysokość</p><p>2.45 mm</p></li><li><p>Szerokość</p><p>22 mm</p></li><li><p>Głębokość</p><p>80 mm</p></li><li><p>Waga</p><p>7 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lexuar</p></li><li><p>Dane producenta</p><p>Lexar Europe B.V, Grevelingstraat 40, 2161WG Lisse, Netherlands, nfo-europe@lexar.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lexar.jpg",
+  "images": [
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56183.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56184.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56185.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56186.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56187.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56188.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56189.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56183.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56184.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56185.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56186.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56187.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56188.webp",
+    "galerie/d/dysk-ssd-lexar-nm710-500gb-nv_56189.webp"
+  ],
+  "manufacturer": "Lexuar"
+}

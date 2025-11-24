@@ -1,0 +1,25 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "12730",
+  "code": "KZ-Z1-PRO",
+  "name": "Słuchawki KZ Z1 Pro TWS Bluetooth Czarne",
+  "price": 199.0,
+  "description": "<p>KZ Z1 Pro to bezprzewodowe słuchawki dokanałowe typu TWS wyposażone w moduł Bluetooth 5.2. Zupełnie nowy przetwornik dynamiczny zastosowany w tym modelu sprawił, że słuchawki weszły na wyższy poziom oferując znaczną poprawę brzmienia zarówno tonów niskich jak i wokali, a także lepszą prezentację szczegółów.</p><p>Z1 Pro wykorzystuje moduł Bluetooth w standardzie 5.2, który dzięki mniejszemu zużyciu prądu zapewnia dłuższą pracę na baterii i stabilniejsze połączenie. W modelu KZ Z1 Pro zintegrowano tryb „Game” redukujący między innymi opóźnienie w transmisji dźwięku. Z wynikiem na poziomie 40ms Z1 Pro mogą pochwalić się niższym opóźnieniem niż większość bezprzewodowych słuchawek dla graczy.</p><p>KZ Z1 Pro są zgodnie z certyfikatem IPX6, co oznacza, że są odporne na pot czy zamoczenie pod wpływem deszczu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wersja Bluetooth</p><p>Bluetooth 5.2</p></li><li><p>Zasięg Bluetooth</p><p>20 m (wpływ środowiska)</p></li><li><p>Czułość</p><p>115dB</p></li><li><p>Pasmo przenoszenia</p><p>20-20 kHz</p></li><li><p>Waga słuchawek</p><p>10g</p></li><li><p>Waga etui</p><p>50g</p></li><li><p>Bateria w słuchawkach</p><p>28 mAh</p></li><li><p>Bateria w etui</p><p>400 mAh</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>KZ ACOUSTICS</p></li><li><p>Dane producenta</p><p>KZ ACOUSTICS, 2nd Floor, Building A, Longchang MicroPort Park, No.26 Hantang Street, Gutou Community, Dongcheng, Dongguan, Guangdong, China, sales@kzhifi.com</p></li><li><p>Podmiot odpowiedzialny</p><p> </p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/kz-acoustics.jpg",
+  "images": [
+    "galerie/s/sluchawki-z1-pro-tws-bluetoot_45777.webp",
+    "galerie/s/sluchawki-z1-pro-tws-bluetoot_45778.webp",
+    "galerie/s/sluchawki-z1-pro-tws-bluetoot_45779.webp",
+    "galerie/s/sluchawki-z1-pro-tws-bluetoot_45780.webp",
+    "galerie/s/sluchawki-z1-pro-tws-bluetoot_45777.webp",
+    "galerie/s/sluchawki-z1-pro-tws-bluetoot_45778.webp",
+    "galerie/s/sluchawki-z1-pro-tws-bluetoot_45779.webp",
+    "galerie/s/sluchawki-z1-pro-tws-bluetoot_45780.webp"
+  ],
+  "manufacturer": "KZ ACOUSTICS"
+}

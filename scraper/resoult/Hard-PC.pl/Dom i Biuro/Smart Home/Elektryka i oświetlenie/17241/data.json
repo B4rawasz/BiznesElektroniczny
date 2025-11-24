@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17241",
+  "code": "TSL-LIG-STRIPEXT3M",
+  "name": "Tesla TechToy Przedłużenie taśmy LED RGB 3m Wi-Fi",
+  "price": 79.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Szerokość:</p><p>300 cm</p></li><li><p>Waga:</p><p>0.12 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-techtoy-przedluzenie-ta_62769.webp",
+    "galerie/t/tesla-techtoy-przedluzenie-ta_62770.webp",
+    "galerie/t/tesla-techtoy-przedluzenie-ta_62771.webp",
+    "galerie/t/tesla-techtoy-przedluzenie-ta_62769.webp",
+    "galerie/t/tesla-techtoy-przedluzenie-ta_62770.webp",
+    "galerie/t/tesla-techtoy-przedluzenie-ta_62771.webp"
+  ],
+  "manufacturer": "Tesla"
+}

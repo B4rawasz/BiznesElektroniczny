@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki VoIP/Telekom"
+  ],
+  "id": "13204",
+  "code": "1000445",
+  "name": "Słuchawki EPOS PC 5 Chat",
+  "price": 75.0,
+  "description": "<p>EPOS PC 5 CHAT - Słuchawka nagłowna z pałąkiem na dwoje uszu ze złączem Jack 3,5mm / 4 pola, mikrofon z wyciszaniem szumów, szerokie pasmo przenoszenia. Kompatybilna z urządzeniami wyposażonymi w gniazdo audio-jack 3,5mm / 4styki.</p><p>Od 2020 roku firma EPOS stała się właścicielem marki Sennheiser Communications, wiodącego producenta rozwiązań komunikacyjnych w tym słuchawek komunikacyjnych, telekomów oraz słuchawek dla graczy. EPOS przejął od Sennheisera nie tylko techniczne know-how, ale również inżynierów dźwięku, co pozwoliło na kontynuację dotychczasowych jak i tworzenie nowych produktów.</p><p>EPOS jest częścią grupy Demant, światowego lidera zajmującego się rozwiązaniami dla słuchu. Grupa Demant działa na rynku od 1904 roku, w ponad 30 krajach i zatrudnia ponad 16 000 pracowników.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Interfejs Jack:  złącze 3,5 mm z 4 polami do smartfona lub komputera</li><li>Usuwanie szumów: dzięki eliminującemu zbędne hałasy mikrofonowi będziesz w pełni czytelny bez konieczności podnoszenia głosu</li><li>Stereofoniczny: idealne rozwiązanie słuchawkowe na dwoje uszu do komunikacji internetowej VoIP, rozmów przez telefon komórkowy oraz miłośników muzyki</li><li>Lekki i wygodny: bardzo lekka konstrukcja pałąka nagłownego pozwala na komfort użytkowania przez długi czas</li><li>Jakość za niewielkie pieniądze: doskonała przejrzystość dźwięku i trwałość za niewygórowaną cenę</li></ul><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wersja: Pałąk nagłowny, dwuuszny</li><li>Długość kabla: 2m</li><li>Interfejs: 1 x jack 3,5 mm</li><li>Pasmo przenoszenia: 42 - 17 000 Hz</li><li>Impedancja: 32 Ω</li><li>Poziom ciśnienia akustycznego (SPL): 95 dB</li><li>Mikrofon</li><li>Pasmo przenoszenia: 90 - 15 000 Hz</li><li>Rodzaj: Z redukcją szumów</li><li>Czułość: -40dBV/Pa</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>EPOS</p></li><li><p>Dane producenta</p><p>EPOS Group A/S, Industriparken 27, Ballerup 2750, Dania, privacy@demant.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/epos.jpg",
+  "images": [
+    "galerie/s/sluchawki-sennheiser-epos-pc_47716.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47717.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47718.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47719.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47720.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47716.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47717.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47718.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47719.webp",
+    "galerie/s/sluchawki-sennheiser-epos-pc_47720.webp"
+  ],
+  "manufacturer": "EPOS"
+}

@@ -1,0 +1,25 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "20144",
+  "code": "4820216975963",
+  "name": "Mikrofon Fifine TAM8P",
+  "price": 479.0,
+  "description": "<h2>Profesjonalny mikrofon do nagrań i transmisji</h2><p><strong>FIFINE TAM8P</strong> to dynamiczny mikrofon z podwójnym złączem <strong>USB i XLR</strong>, który idealnie sprawdza się w <em>podcastach</em>, <em>streamingu</em>, <em>dubbingu</em> oraz <em>transmisjach na żywo</em>. Oferuje połączenie wysokiej jakości dźwięku i wszechstronności, co czyni go idealnym wyborem dla twórców internetowych i profesjonalnych użytkowników.</p><h2>Wyrazisty i czysty dźwięk</h2><p>Mikrofon wyposażony jest w <strong>kapsułę kardioidalną</strong>, która skutecznie wychwytuje głos z przodu, eliminując zakłócenia z otoczenia. Zapewnia to <strong>klarowny i szczegółowy dźwięk</strong>, idealny do nagrań głosowych i transmisji na żywo.</p><h2>Kompletny zestaw do pracy</h2><p>W komplecie z mikrofonem znajduje się <strong>stolikowy uchwyt</strong> oraz <strong>pantograf</strong>, umożliwiający łatwe ustawienie mikrofonu w wybranym miejscu. To ergonomiczne rozwiązanie zapewnia wygodę użytkowania i dostosowanie pozycji mikrofonu do indywidualnych potrzeb.</p><h2>Styl i funkcjonalność</h2><p>Wbudowane <strong>wyjście słuchawkowe</strong> pozwala na bieżące monitorowanie dźwięku, co jest kluczowe przy profesjonalnym nagrywaniu. Dodatkowo mikrofon wyposażony jest w <strong>oświetlenie RGB</strong>, które nadaje stanowisku wyjątkowego charakteru i wzbogaca atmosferę pracy twórczej.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Model</p><p>TAM8P</p></li><li><p>Typ mikrofonu</p><p>Dynamiczny</p></li><li><p>Charakterystyka kierunkowa mikrofonu</p><p>Kardioidalna</p></li><li><p>Zakres częstotliwości</p><p>50 Hz – 16 kHz</p></li><li><p>Czułość mikrofonu</p><p>-50 ± 3 dB</p></li><li><p>Stosunek sygnału do szumu</p><p>&gt;80 dB</p></li><li><p>Maksymalny poziom ciśnienia akustycznego</p><p>120 dB</p></li><li><p>Częstotliwość próbkowania</p><p>44.1–48 kHz</p></li><li><p>Bitrate</p><p>16 bitów</p></li><li><p>Okres gwarancji</p><p>12 miesięcy</p></li><li><p>Kompatybilność z systemami operacyjnymi</p><p>Mac OS, Windows OS</p></li><li><p>Interfejsy połączeń</p><p>jack 3,5 mm, USB-A/Type-C, XLR</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fifine.jpg",
+  "images": [
+    "galerie/m/mikrofon-fifine-tam8p_76793.webp",
+    "galerie/m/mikrofon-fifine-tam8p_76794.webp",
+    "galerie/m/mikrofon-fifine-tam8p_76795.webp",
+    "galerie/m/mikrofon-fifine-tam8p_76796.webp",
+    "galerie/m/mikrofon-fifine-tam8p_76793.webp",
+    "galerie/m/mikrofon-fifine-tam8p_76794.webp",
+    "galerie/m/mikrofon-fifine-tam8p_76795.webp",
+    "galerie/m/mikrofon-fifine-tam8p_76796.webp"
+  ],
+  "manufacturer": "Fifine"
+}

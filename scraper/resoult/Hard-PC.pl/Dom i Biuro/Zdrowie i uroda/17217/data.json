@@ -1,0 +1,23 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Zdrowie i uroda"
+  ],
+  "id": "17217",
+  "code": "TSL-PC-TS200P",
+  "name": "Tesla Smart Szczoteczka soniczna do zębów róźowa",
+  "price": 249.0,
+  "description": "<h2>42 000 pulsacji na minutę</h2><p>Szczoteczka ultradźwiękowa jest idealnym pomocnikiem w walce z płytką nazębną, pigmentacją i bakteriami. Dzięki technologii ultradźwiękowej szczoteczka wytwarza wibracje o wysokiej częstotliwości, które umożliwiają wnikanie pasty w głąb przestrzeni międzyzębowych. Dzięki prędkości obrotowej 42 000 pulsacji na minutę szczotka zapewnia dokładne i skuteczne czyszczenie.</p><h2>Szczoteczka do zębów stworzona specjalnie dla Ciebie</h2><p>Szczoteczka do zębów TESLA TS200 jest idealna dla każdego użytkownika. Dzięki czterem różnym trybom możesz wybrać jeden z nich, aby zapewnić pielęgnację zębów, dokładnie taką, która najlepiej odpowiada twoim potrzebom. Wybór kilku kolorów pozwala dopasować szczoteczkę do własnych upodobań.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>19.3 cm</p></li><li><p>Szerokość:</p><p>2.2 cm</p></li><li><p>Głębokość:</p><p>2.2 cm</p></li><li><p>Waga:</p><p>0.149 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-szczoteczka-sonic_63030.webp",
+    "galerie/t/tesla-smart-szczoteczka-sonic_63031.webp",
+    "galerie/t/tesla-smart-szczoteczka-sonic_63032.webp",
+    "galerie/t/tesla-smart-szczoteczka-sonic_63030.webp",
+    "galerie/t/tesla-smart-szczoteczka-sonic_63031.webp",
+    "galerie/t/tesla-smart-szczoteczka-sonic_63032.webp"
+  ],
+  "manufacturer": "Tesla"
+}

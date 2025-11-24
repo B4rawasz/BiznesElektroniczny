@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "8244",
+  "code": "TP-GP03-A",
+  "name": "Thermalpad Gelid 7W/mK 120x20x0.5mm bulk",
+  "price": 9.9,
+  "description": "OPIS <p>Podkładka termoprzewodząca (thermalpad, termopad) stosowana wszędzie tam gdzie niezbędne jest zastosowanie elastycznego materiału o wysokiej przewodności termicznej np.: połączenia blok wodny pamięci ram, sekcja zasilania, elementów SMD itp. Dzięki miękkiej strukturze doskonale nadaje się do chłodzenie wielu elementów o nieregularnym kształcie. Umożliwiają wypełnianie połączeń od mikroskopijnych rys aż do widocznych nieregularnych powierzchni.</p><p>Ze względu ma wysoką przewodność cieplną możliwe jest stosowanie podkładek nawet do elementów o dużej powierzchni jak mostki na płycie głównej czy gęsto upakowane elementy na PCB itp.</p><p>Podkładkę można przycinać do żądanych wymiarów. Przed użyciem należy ściągnąć zabezpieczającą folie z obu stron thermalpada.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 120x20x0.5mm.</li><li>Przewodność cieplna: 7W/mK.</li><li>Wytrzymał0ść na rozciąganie: 2Kgf/cm2</li><li>Opór: 1x10^12Ω-cm</li><li>Napięcie przebicia: 10KV/mm</li><li>Maksymalne wydłużenie: 150%</li><li>Twardość: 45(Shore A)</li><li>Ciężar właściwy: 3.15</li><li>Temperatura pracy: -40 do 200*C</li><li>zgodność z ROHS</li><li>Wolny od halogenków</li><li>Nie przewodzi prądu elektrycznego.</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gelid.jpg",
+  "images": [
+    "galerie/t/thermalpad-gelid-7w-mk-120x20_31206.webp",
+    "galerie/t/thermalpad-gelid-7w-mk-120x20_31207.webp",
+    "galerie/t/thermalpad-gelid-7w-mk-120x20_31208.webp",
+    "galerie/t/thermalpad-gelid-7w-mk-120x20_31206.webp",
+    "galerie/t/thermalpad-gelid-7w-mk-120x20_31207.webp",
+    "galerie/t/thermalpad-gelid-7w-mk-120x20_31208.webp"
+  ],
+  "manufacturer": "Gelid"
+}

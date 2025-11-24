@@ -1,0 +1,42 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "13575",
+  "code": "GAMO-1039",
+  "name": "Mysz Endgame Gear XM2w Wireless Black",
+  "price": 529.0,
+  "description": "<p>Endgame Gear XM2w to pierwsza bezprzewodowa mysz dla graczy tego producenta. Podobnie jak w przypadku poprzednika (XM1r) mysz prezentuje się niepozornie – klasyczny i elegancki kształt, lekka konstrukcja (63g) pozbawiona dziur i podświetlania RGB. To co najciekawsze drzemie w jej wnętrzu.</p><h2>Zaprojektowana dla graczy</h2><p>Podczas gdy XM1r jest ulepszoną wersja XM1 to XM2w został zaprojektowany od podstaw. Mysz powstała przy współpracy z weteranami e-sportu i wykorzystuje ten sam kształt – idealny pod Claw Grip, który przyniósł poprzednikowi sukces, jednak wewnątrz każdy aspekt został przeprojektowany. Chociaż XM2w ma akumulator o pojemności 335mAh waży jedynie 63g, a to około 7g mniej niż XM1(r). Ma lekką, ale wytrzymałą konstrukcję obudowy i korzysta z najlepszych komponentów, w tym z czujnika PixArt PAW3395, dwurdzeniowego MCU dla myszy oraz nadajnika oraz wyselekcjonowanych, customowych przełączników Kailh GX.</p><h2>Dwurdzeniowy procesor dla większej wydajności</h2><p>Zarówno XM2w jak i nadajnik wykorzystują dwurdzeniowy kontroler MCU STM32, którego rdzeń ARM Cortex-M4 64MHz obsługuje główne zadania myszy, natomiast ARM Cortex-M0 32Mhz zarządza wyłącznie bezprzewodową transmisją danych, zapewniając wysoką wydajność oraz zaawansowane funkcje oszczędzania energii we wszystkich trybach.</p><h2>Zaawansowany czujnik PixArt PAW3395</h2><p>Precyzja XM2w jest perfekcyjna dzięki implementacji czujnika PixArt PAW3395 z matrycą pikseli o wyższej rozdzielczości do 26000CPI, LOD na poziomie 1mm oraz do 650IPS dla najwyższej dokładności podczas szybkich przesunięć. PAW3395 oferuje również funkcję MotionSync na poziomie czujnika, która przekłada się na spójne i zsynchronizowane raporty. Po wyłączeniu wszystkich funkcji wygładzania i zmiany kąta dane śledzenia z sensora są tak surowe, jak tylko możliwe. Optymalizacja oszczędzenia energii w połączeniu bezprzewodowym (przewodowo wyłączone) pozwala na wyciśnięcie najwyższej wydajności.</p><figure><img alt=\"\" height=\"843\" src=\"galerie/m/mysz-endgame-gear-xm2w-wirele_48918.webp\" width=\"458\"/></figure><h2>Ręcznie selekcjonowane przełączniki Kailh GX</h2><p>XM2w wykorzystuje niestandardowe przełączniki Kailh GX dla głównych przycisków. Są one wyselekcjonowane, dzięki czemu charakteryzują się identyczną charakterystyką pracy i zapewniają przyjemny i szybki klik. Endgame Gear zdecydował się na wykorzystanie mikroprzełączników Kailh również pod pozostałymi przyciskami. Pod rolką i bocznymi przyciskami znajdują się GM 2.0, które gwarantują wyraźne odczucie kliknięcia i znacznie lepszą trwałość.</p><h2>Hybrydowe ślizgacze</h2><p>Endgame Gear XM2w posiada w zestawie dwa komplety ślizgaczy PTFE (duży i mały) oraz ślizgacz wokół sensora. Dzięki hybrydowej konstrukcji dolnej obudowy możliwe jest łatwa wymiana ślizgów. Miejsca na nie są większe niż w przypadku XM1(r) dzięki czemu mysz może współpracować z różnymi ślizgaczami, również tymi z XM1 i XM1(r). Większa powierzchnia zapewnia elastyczność i pozwala dostosować stopień poślizgu. Ślizgacz wokół sensora jest opcjonalny, ale zaleca się jego wykorzystanie przy współpracy z miękkimi powierzchniami podkładek.</p><figure><img alt=\"\" height=\"840\" src=\"galerie/m/mysz-endgame-gear-xm2w-wirele_48919.webp\" width=\"937\"/></figure><h2>Opatentowana technologia analogowa dla skrócenia czasu reakcji</h2><p>Podobnie jak poprzednicy, XM2w wykorzystuje opatentowaną przez Endgame Gear analogową technologię, skuteczniejszą niż cyfrowe rozwiązania. Zaawansowany algorytm pozwala przyspieszyć wykrywanie i rejestrację kliknięcia z czasem reakcji krótszym niż 1ms.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Sensor</p><p>PixArt PAW3395</p></li><li><p>Rozdzielczość</p><p>50 - 26000 CPI w skokach co 50 CPI</p></li><li><p>Przyspieszenie</p><p>50g</p></li><li><p>Lift-Off Distance (LOD)</p><p>1mm lub 2mm (1mm standardowo)</p></li><li><p>Maksymalna szybkość</p><p>650 IPS</p></li><li><p>Mikrokontroler</p><p>Dual-Core STM32</p></li><li><p>Częstotliwość próbkowania</p><p>125, 500, 1000Hz (1000Hz standardowo)</p></li><li><p>Typ chwytu</p><p>Zaprojektowano pod Claw Grip. Palm Grip oraz Fingertip Grip możliwe (w zależnosci od rozmiaru dłoni)</p></li><li><p>Wymiary</p><p>122 x 38.5 x 66mm,</p></li><li><p>Szerokość chwytu</p><p>55.3 do 62mm</p></li><li><p>Przełączniki (prawy/lewy)</p><p>Selekcjonowane Kailh GX (80 milionów kliknięć)</p></li><li><p>Detekcja kliku</p><p>Analog Technology (&lt;&lt;1ms)</p></li><li><p>Liczba przycisków</p><p>6 (2x główne, 2x boczne, 1x scroll, 1x przycisk CPI)</p></li><li><p>Rolka</p><p>TTC</p></li><li><p>Środkowy przycisk</p><p>selekcjonowane Kailh GM 2.0 switches (20 milionów kliknięć)</p></li><li><p>Bocznep rzyciski</p><p>selekcjonowane Kailh GM 2.0 switches (20 milionów kliknięć)</p></li><li><p>Materiał</p><p>ABS (obudowa), PTFE (ślizgacze), Dry Grip Coating (powierzchnia)</p></li><li><p>Ślizgacze</p><p>PTFE Hybrid Skate Design (małe ślizgacze założone, duże ślizgacze w zestawie)<br/>Sprawdź dostępność <a href=\"p15677,slizgacze-endgame-gear-do-xm2w-i-xm2we.html\">ślizgaczy</a> akcesoryjnych do tego modelu</p></li><li><p>Waga</p><p>~63g</p></li><li><p>Połączenie</p><p>bezprzewodowe 2.4 GHz, Dongle USB 2.0 Type A)<br/>przewodowe (PC USB 2.0 Type A, Mysz USB-C)</p></li><li><p>Pojemność akumulatora</p><p>335mAh</p></li><li><p>Kabel</p><p>Flex Cord 3.0 (1.80m, USB 2.0 Type A do USB-C)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Endgame Gear</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/endgame-gear.jpg",
+  "images": [
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48885.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48886.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48887.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48888.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48889.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48890.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48891.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48892.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48893.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48894.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48918.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48919.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48885.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48886.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48887.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48888.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48889.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48890.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48891.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48892.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48893.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48894.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48918.webp",
+    "galerie/m/mysz-endgame-gear-xm2w-wirele_48919.webp"
+  ],
+  "manufacturer": "Endgame Gear"
+}

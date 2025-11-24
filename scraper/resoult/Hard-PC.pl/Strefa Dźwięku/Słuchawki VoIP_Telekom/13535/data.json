@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki VoIP/Telekom"
+  ],
+  "id": "13535",
+  "code": "1000915",
+  "name": "Słuchawki Epos ADAPT 160 USB II",
+  "price": 229.0,
+  "description": "<p>ADAPT 160 USB II - Słuchawka z pałąkiem na dwoje uszu ze złączem USB, mikrofon z wyciszaniem szumów NC, szerokie pasmo przenoszenia, kontrola połączeń w pilocie kablowym, wyściółka pałąka nagłownego. Certyfikowana do współpracy z rozwiązaniami wiodących producentów UC.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><li>Elegancki wygląd – prezentuje się również dobrze w biurze jak i w drodze do pracy z eleganckim nowoczesnym wzornictwem i elastycznym ramieniem mikrofonu który dyskretnie wpasowuje się w pałąk słuchawki</li><li>Filtrujący zakłócenia mikrofon – zapewnia czytelność i przejrzystość mowy</li><li>Elastyczny wysięgnik – optymalna pozycja mikrofonu</li><li>Technologia ActiveGard® – chroni przed szokiem akustycznym</li><li>Funkcja Noise at Work – eliminująca niebezpieczne natężenie hałasu, zgodnie z dyrektywą UE 2003/10/EC</li><li>Woreczek ochronny – przechowywanie oraz transport</li><li>Zoptymalizowany pod kątem Unified Communications – kompatybilny i certyfikowany z wiodącymi producentami oprogramowania VoIP</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Seria produktu</p><p>Adapt 100 II</p></li><li><p>Rodzaj</p><p>przewodowa</p></li><li><p>Styl noszenia</p><p>na dwoje uszu</p></li><li><p>Interfejs</p><p>USB-A</p></li><li><p>Typ mikrofonu</p><p>NC</p></li><li><p>Pasmo przenoszenia mikrofonu</p><p>100 - 8000Hz</p></li><li><p>Pasmo przenoszenia słuchawek</p><p>20 - 20000Hz</p></li><li><p>Waga</p><p>136g</p></li><li><p>Poduszka na słuchawkę</p><p>gąbka</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>EPOS</p></li><li><p>Dane producenta</p><p>EPOS Group A/S, Industriparken 27, Ballerup 2750, Dania, privacy@demant.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/epos.jpg",
+  "images": [
+    "galerie/s/sluchawki-epos-adapt-160-usb_48741.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48744.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48745.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48743.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48742.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48741.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48744.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48745.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48743.webp",
+    "galerie/s/sluchawki-epos-adapt-160-usb_48742.webp"
+  ],
+  "manufacturer": "EPOS"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20060",
+  "code": "0000010298",
+  "name": "Chłodzenie wodne AiO Arctic Liquid Freezer III Pro 240 Black",
+  "price": 335.0,
+  "description": "<h2>Radiator 240 mm i dwa wentylatory P12 Pro – wydajność w kompaktowym formacie</h2><p>Zastosowany radiator o długości 240 mm i grubości 38 mm zapewnia znacznie lepsze rozpraszanie ciepła niż standardowe konstrukcje o grubości 27 mm. Większa pojemność cieczy chłodzącej skutecznie redukuje nagłe skoki temperatur, co przekłada się na stabilniejszą pracę procesora. Dwa wentylatory Arctic P12 Pro, pracujące w zakresie od 600 do 3000 obr./min, generują efektywny przepływ powietrza oraz wysokie ciśnienie statyczne, gwarantując skuteczne chłodzenie nawet przy niższych prędkościach obrotowych.</p><h2>Zintegrowany wentylator VRM – stabilność zasilania nawet pod obciążeniem</h2><p>Innowacyjny wentylator chłodzący sekcję zasilania (VRM), sterowany sygnałem PWM, skutecznie obniża temperatury wokół procesora. Dzięki temu system działa stabilniej, a użytkownicy mogą liczyć na lepsze wyniki podczas podkręcania i wymagających zadań.</p><h2>Przesunięty montaż i ramka kontaktowa – chłodzenie dokładnie tam, gdzie trzeba</h2><p>Technologia Offset Mounting umożliwia precyzyjne przesunięcie cold plate’u (zimnej płytki) nad hotspot CPU, co zwiększa efektywność transferu ciepła. Dodatkowo, specjalna ramka kontaktowa dla procesorów Intel równomiernie rozkłada nacisk, poprawiając rozpraszanie ciepła i chroniąc delikatne komponenty procesora.</p><h2>Uniwersalna kompatybilność – Intel i AMD</h2><p>Liquid Freezer III Pro 240 Black jest kompatybilny z najnowszymi platformami Intel (LGA1851, LGA1700) oraz AMD (AM5, AM4). Dzięki przesunięciu cold plate’u i odpowiednim zestawom montażowym instalacja przebiega łatwo i bezproblemowo.</p><h2>Zarządzanie kablami i prosta instalacja – czystość i wygoda</h2><p>Zintegrowane przewody wentylatorów i pompy, zaprojektowane w formie oplotu, zapewniają porządek w obudowie oraz ułatwiają montaż. Wentylatory są fabrycznie zamontowane, a do zestawu dołączono przejrzystą, animowaną instrukcję online, dzięki której instalacja jest szybka i prosta, nawet dla początkujących użytkowników.</p><h2>Dwie opcje sterowania – pełna kontrola nad chłodzeniem</h2><p>Dołączony splitter umożliwia sterowanie wentylatorami, pompą i wentylatorem VRM osobno lub ich synchronizację jednym sygnałem PWM za pomocą kabla all-in-one. Użytkownik zyskuje pełną swobodę konfiguracji chłodzenia według własnych potrzeb.</p><h2>Pasta termoprzewodząca MX-6 i 6 lat gwarancji w zestawie</h2><p>W komplecie znajduje się wysokiej jakości pasta termoprzewodząca Arctic MX-6 (0,8 g), zapewniająca doskonałe przewodnictwo cieplne i łatwą aplikację. Producent oferuje również aż 6 lat gwarancji, co świadczy o wysokiej niezawodności i trwałości produktu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba wentylatorów</p><p>2 szt</p></li><li><p>Wymiary wentylatora</p><p>120 mm</p></li><li><p>Regulacja obrotów</p><p>Regulacja PWM</p></li><li><p>Minimalne obroty wentylatora</p><p>600 obr/min</p></li><li><p>Maksymalne obroty wentylatora</p><p>3000 obr/min</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Wymiary z wentylatorami</p><p>277 x 120 x 63 mm</p></li><li><p>Wymiary radiatora</p><p>277 x 120 x 38 mm</p></li><li><p>Podświetlenie</p><p>Brak</p></li><li><p>Zewnętrzna średnica węży</p><p>12.4 mm</p></li><li><p>Wewnętrzna średnica węży</p><p>6 mm</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Prędkość pracy pompki</p><p>800 - 2800 rpm</p></li><li><p>Przepływ powietrza</p><p>131 m<sup>3</sup>/h</p></li><li><p>Ciśnienie statyczne</p><p>6.9 mmH<sub>2</sub>O</p></li><li><p>Łożysko</p><p>Fluid Dynamic Bearing</p></li><li><p>Dołączona pasta</p><p>MX-6 0.8 gram</p></li><li><p>Kompatybilność Intel</p><p>LGA1851, LGA1700</p></li><li><p>Kompatybilność AMD</p><p>AM5, AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/arctic.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74894.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74895.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74896.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74897.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74898.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74899.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74900.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74894.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74895.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74896.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74897.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74898.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74899.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_74900.webp"
+  ],
+  "manufacturer": "Arctic"
+}

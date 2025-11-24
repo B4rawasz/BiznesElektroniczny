@@ -1,0 +1,37 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18119",
+  "code": "GAJO-535",
+  "name": "Mechanizm kierownicy MOZA R12 baza, serwo (12 Nm)",
+  "price": 2482.9,
+  "description": "",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/moza-r12-direct-drive-wheelba_66689.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66690.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66691.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66692.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66693.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66694.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66695.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66696.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66697.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66698.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66689.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66690.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66691.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66692.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66693.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66694.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66695.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66696.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66697.webp",
+    "galerie/m/moza-r12-direct-drive-wheelba_66698.webp"
+  ],
+  "manufacturer": "Moza Racing"
+}

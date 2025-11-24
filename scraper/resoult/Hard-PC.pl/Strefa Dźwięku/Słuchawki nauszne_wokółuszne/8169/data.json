@@ -1,0 +1,23 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki nauszne/wokółuszne"
+  ],
+  "id": "8169",
+  "code": "MDH9000",
+  "name": "Słuchawki nauszne zamknięte ISK MDH9000",
+  "price": 289.0,
+  "description": "<p>Słuchawki <strong>ISK MDH9000</strong> skierowane są do użytkowników którzy preferują dźwięk z silnym uderzeniem basowym. Sprawdzą się doskonale w tych gatunkach muzyki w których najniższe pasmo gra ważną rolę oraz w filmach. Zejście na najniższe poziomy basu możliwe jest dzięki rozciągnięciu pasma przenoszenia w dół aż do 10Hz. Konstrukcja słuchawek jest zamknięta więc dobrze izoluje one od otoczenia jak i otoczenie od słuchanej muzyki. Stosunkowo niska impedancja słuchawek przy wysokiej skuteczności pozwoli napędzić je praktycznie z każdego źródła dźwięku.</p><p>Słuchawki zbudowane są w oparciu o klasycznie regulowany pałąk pokryty skórą ekologiczną. Nauszniki są duże i miękkie, pokryte tym samym materiałem. Pozwalają na długie słuchanie bez uczucia zmęczenia. Słuchawki posiadają rozłączany kabel - w komplecie znajdują się dwa różne kable – prosty i sprężynkowy. Oba zakończone są wtyczką typu konwertowalnego – na stałe zamontowany jest wtyk 3,5mm a na niego można nakręcić znajdującą się w komplecie przejściówkę na wtyk o średnicy 6,5mm.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Typ: zamknięte</li><li>Średnica przetwornika: 50mm</li><li>Impedancja: 32Ohm</li><li>Czułość: 100dB +/- 3dB</li><li>Zakres częstotliwości przenoszenia: 10Hz-30kHz</li><li>Moc maksymalna: 1800mW</li><li>Długość kabla: ok. 3m prosty i ok. 2m sprężynowy</li><li>Wtyk: konwertowalny 3,5/6,3mm</li><li>waga słuchawek: ok. 358g (z kablem prostym)</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ISK</p></li><li><p>Dane producenta</p><p>Ningbo Yinzhou Shengke Electronics Co., Ltd., No.111, Yunmo East Road, Yunlongtown, Yunzhou, Ningbo, China, info@shengke.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>TechBringer Piotr Gawrysiak | ul. Marcelińska 100/8 60-324 Poznań, Poland, biuro@techbringer.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/isk.jpg",
+  "images": [
+    "galerie/s/sluchawki-isk-mdh9000_21929.webp",
+    "galerie/s/sluchawki-isk-mdh9000_21930.webp",
+    "galerie/s/sluchawki-isk-mdh9000_21931.webp",
+    "galerie/s/sluchawki-isk-mdh9000_21929.webp",
+    "galerie/s/sluchawki-isk-mdh9000_21930.webp",
+    "galerie/s/sluchawki-isk-mdh9000_21931.webp"
+  ],
+  "manufacturer": "ISK"
+}

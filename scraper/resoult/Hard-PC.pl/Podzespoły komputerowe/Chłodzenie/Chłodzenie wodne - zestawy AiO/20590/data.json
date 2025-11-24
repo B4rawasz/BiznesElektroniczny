@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20590",
+  "code": "WASE-942",
+  "name": "Chłodzenie wodne AiO Lian Li HYDROSHIFT II LCD-C 360TL ARGB Black",
+  "price": 1028.9,
+  "description": "<h2>Lian Li HYDROSHIFT II LCD-C 360TL – topowe AiO z LCD i wentylatorami UNI FAN TL Wireless</h2><p>Lian Li HYDROSHIFT II LCD-C 360TL to połączenie <b>maksymalnej wydajności chłodzenia</b> z dopracowanym designem. Wyposażone w trzy wentylatory <b>UNI FAN TL Wireless</b>, chłodzenie zapewnia potężny przepływ powietrza przy zachowaniu cichej pracy. Centralnym punktem zestawu jest okrągły, <b>2,1-calowy wyświetlacz LCD IPS</b>, który może prezentować dane systemowe, animacje, filmy MP4 i GIF-y.</p><h2>Ultracienki radiator 360 mm</h2><p>Radiator wykonany z aluminium ma grubość zaledwie 22 mm, dzięki czemu jest kompatybilny z większą liczbą obudów. W połączeniu z wysokociśnieniowymi wentylatorami TL Wireless gwarantuje skuteczne odprowadzanie ciepła nawet z najmocniejszych procesorów AMD i Intel.</p><h2>Nowoczesny wyświetlacz LCD</h2><p>Wyświetlacz LCD 2,1” oferuje żywe kolory i płynne animacje. Możesz na nim pokazywać temperatury, czas systemowy czy własne grafiki i filmy. Obsługa jest elastyczna – offline przez obrotowy pierścień na bloku pompy, przewodowo przez USB z <b>L-Connect 3</b>, lub całkowicie bezprzewodowo dzięki <b>L-Wireless Controller</b>.</p><h2>Wentylatory UNI FAN TL Wireless</h2><p>Zestaw obejmuje trzy 120-milimetrowe wentylatory TL Wireless, które zapewniają doskonały balans między wydajnością a kulturą pracy. Dzięki bezprzewodowej komunikacji z kontrolerem instalacja jest prostsza, a obudowa pozbawiona zbędnych kabli.</p><h2>Stabilna i elegancka konstrukcja</h2><p>Wysokiej klasy komponenty, w tym <b>serwerowej jakości przewody</b> oraz wzmocniony system montażowy 4-punktowy, gwarantują trwałość i stabilność. To chłodzenie AiO, które sprosta wymagającym użytkownikom, stawiającym zarówno na wydajność, jak i estetykę.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Seria</p><p>HydroShift II</p></li><li><p>Model</p><p>HYDROSHIFT II LCD-C 360TL</p></li><li><p>Typ chłodzenia</p><p>AiO wodne chłodzenie procesora</p></li><li><p>Kompatybilne gniazda CPU</p><p>Intel 1700, 1851; AMD AM4, AM5</p></li><li><p>Wyświetlacz</p><p>IPS LCD 2,1 cala (obsługa MP4, GIF, grafik, sensorów systemowych)</p></li><li><p>Radiator</p><p>360 mm (400 × 122 × 22 mm)</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Blok wodny</p><p>Miedź</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Wentylatory</p><p>3× UNI FAN TL Wireless 120 mm</p></li><li><p>Maksymalna głośność pompy</p><p>28 dB(A)</p></li><li><p>Maksymalna głośność wentylatora</p><p>33 dB(A)</p></li><li><p>Oświetlenie</p><p>RGB (adresowalne)</p></li><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Kolor ramki wentylatora</p><p>Czarny</p></li><li><p>Kolor łopatek wentylatora</p><p>Czarny</p></li><li><p>Kolor radiatora</p><p>Czarny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78510.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78511.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78512.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78510.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78511.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78512.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Akcesoria do myszek"
+  ],
+  "id": "16142",
+  "code": "GAMO-1163",
+  "name": "Wymienne przełączniki Endgame Gear do OP1we - Kailh GO 60-65gf, 2szt",
+  "price": 49.0,
+  "description": "<p>Mysz Endgame Gear OP1we została zaprojektowana tak, by można było wymienić w niej główne przełączniki. Pozwala to na personalizację myszy i dopasowanie charakterystyki pracy switchy do własnych upodobań. Ten pakiet zawiera dwa przełączniki Kailh GO wraz z płytką PCB, dzięki czemu w prosty sposób wymienisz dokonasz wymiany. Mniejsza siła nacisku (60-65gf) wymagana do aktywacji przełączników sprawia, że są to najbardziej miękkie switche w gamie.</p><p>Aby ułatwić wymianę w zestawie znajduje się śrubokręt z końcówką PH000, który jest niezbędny do otwarcia myszki.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Kompatybilność</p><p>Endgame Gear OP1we</p></li><li><p>Zawartość opakowania</p><p>2x przełącznik Kailh GO 60-65gf z PCB<br/>Śrubokręt PH000<br/>Instrukcja</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Endgame Gear</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/endgame-gear.jpg",
+  "images": [
+    "galerie/w/wymienne-przelaczniki-endgame_57296.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57297.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57298.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57299.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57300.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57301.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57296.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57297.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57298.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57299.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57300.webp",
+    "galerie/w/wymienne-przelaczniki-endgame_57301.webp"
+  ],
+  "manufacturer": "Endgame Gear"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "14394",
+  "code": "GATA-1871",
+  "name": "Klawiatura Ducky ONE 3 Classic Pure White TKL RGB Cherry MX Brown",
+  "price": 624.9,
+  "description": "<p>Klawiatura Ducky One 3 Classic to połączenie klasycznego stylu z nowoczesną technologią. Wykonana z najwyższej jakości materiałów, zapewnia trwałość i solidność. Klawiatura wykorzystuje przełączniki Cherry MX, co gwarantuje niezwykłą responsywność i komfort podczas pisania. Dodatkowo, każda klawiatura została poddana testom jakościowym, aby zapewnić długą żywotność i niezawodność.</p><p>Klawiatura Ducky One 3 Classic posiada podświetlenie LED z możliwością programowania, dzięki czemu można dostosować oświetlenie do swojego gustu i potrzeb. Wysokiej jakości materiały, takie jak aluminium, tworzące obudowę klawiatury, sprawiają, że wygląda ona nie tylko solidnie, ale też elegancko.</p><p>Klawiatura Ducky One 3 Classic jest dostępna w różnych wersjach językowych, co umożliwia użytkownikom z różnych krajów korzystanie z niej w swoim języku ojczystym. Dodatkowo, różne rozmiary keycapów umożliwiają użytkownikom dostosowanie klawiatury do swojego stylu pisania i preferencji.</p><p>Klawiatura Ducky One 3 Classic to idealna propozycja dla osób szukających klasycznego stylu w połączeniu z nowoczesną technologią. Niezawodność, wytrzymałość i solidność to cechy, które wyróżniają tę klawiaturę na tle innych produktów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane technicze:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>370 x 40 x 140 mm (W x H x D)</p></li><li><p>Waga</p><p>908g</p></li><li><p>Przełączniki</p><p>Cherry MX Brown (mechaniczny)</p></li><li><p>Siła nacisku</p><p>~55 g</p></li><li><p>Punkt aktywacji</p><p>2 mm (4 mm całkowity skok)</p></li><li><p>Layout</p><p>US (TKL 80%)</p></li><li><p>Podświetlanie</p><p>RGB</p></li><li><p>Częstotliwość próbkowania</p><p>1000 Hz</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ducky.jpg",
+  "images": [
+    "galerie/k/klawiatura-ducky-one-3-classi_52041.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52042.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52043.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52044.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52045.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52046.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52047.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52048.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52049.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52050.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52041.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52042.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52043.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52044.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52045.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52046.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52047.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52048.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52049.webp",
+    "galerie/k/klawiatura-ducky-one-3-classi_52050.webp"
+  ],
+  "manufacturer": "Ducky"
+}

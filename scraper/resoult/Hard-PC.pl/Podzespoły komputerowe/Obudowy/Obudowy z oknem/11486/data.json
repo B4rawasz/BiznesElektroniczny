@@ -1,0 +1,34 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "11486",
+  "code": "GEJB-029",
+  "name": "Obudowa Jonsbo UMX3 Tempered Glass Silver",
+  "price": 551.9,
+  "description": "<p>Stylowe obudowy komputerowe w dalszym ciągu są w modzie. Ponieważ nie każdy jest fanem oświetlenia RGB LED, Jonsbo przygotowało obudowę UMX3 charakteryzującą się eleganckim wyglądem.</p><h2>Elegancki i stylowy design</h2><p>Jonsbo UMX3 to świetnie prezentująca się obudowa, która została wykonana z wysokiej jakości materiałów. W produkcji modelu UMX3 udział wzięła stal oraz szczotkowane aluminium. Materiały te nie tylko nadają obudowie stylu, ale również gwarantują jej wytrzymałość.</p><p>Bok obudowy Jonsbo UMX3 został wykonany ze szkła hartowanego. Takie zastosowanie daje wgląd na podzespoły komputera. Panel I/O został umieszczony na froncie obudowy, co ułatwia dostęp do znajdujących się tam portów. Na przodzie znajdziemy łącznie cztery porty USB - 2x USB 3.0 oraz 2x USB 2.0. Dodatkowo umieszczono tutaj dwa porty audio oraz włącznik zasilania.</p><h2>Zbuduj mocny i wydajny zestaw</h2><p>Obudowa Jonsbo UMX3 jest przystosowana do współpracy z płytami głównymi w formacie Mini-ITX oraz Micro-ATX. Łącznie w modelu UMX3 pomieścimy cztery karty rozszerzeń. Karta graficzna, którą będziemy chcieli zainstalować w obudowie UMX3 może mieć maksymalnie 320 mm długości, chłodzenie procesora nie może być wyższe niż 163 mm, zaś zasilacz może być długi na maksymalnie 160 mm. W obudowie zamontujemy maksymalnie cztery dyski - jeden 2,5/3,5-calowy oraz trzy 2,5-calowe.</p><h2>Wentylatory pomogą utrzymać odpowiednią temperaturę</h2><p>Obudowa Jonsbo UMX3 fabrycznie posiada zamontowane dwa wentylatory: jeden, 140 mm umieszczony na górze obudowy oraz jeden, 120 mm znajdujący się na tylnym panelu.</p><article id=\"section-specyfication\" itemprop=\"description\"><div class=\"description-feauters\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><li>Wymiary: 188 x 365 x 358 mm (W x H x D)</li><li>Materiał: aluminum, stal, szkło hartowane</li><li>Waga: 5.45 kg</li><li>Standard: Mini-ITX, Micro-ATX</li><li>System chłodzenia:</li><ul><li>1x 140 mm (góra - zainstalowany)</li><li>1x 120 mm (tył - zainstalowany)</li></ul><li>Możliwość montażu chłodnicy:</li><ul><li>1x 140 mm (góra)</li><li>1x 120 mm (tył)</li></ul><li>Zatoki:</li><ul><li>1x 2.5 / 3.5\"</li><li>3x 2.5\"</li></ul><li>Zasilacz: ATX (brak w zestawie)</li><li>Ilość miejsc na karty rozszerzeń: 4</li><li>I / O panel:</li><ul><li>2x USB 3.0</li><li>2x USB 2.0</li><li>2x audio</li><li>1x power switch</li></ul><li>Maksymalna wysokość chłodzenia CPU: 163 mm</li><li>Maksymalna długość karty graficznej: 320 mm</li><li>Maksymalna długość zasilacza: 160 mm</li></ul></div></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Jonsbo</p></li><li><p>Dane producenta</p><p>Dongguan Sibositong Industrial Co., Ltd., No. 5, Xinglong Lu, Sanzhong Village, Qingxi Town, Dongguan City, Guangdong Province, 523651, China, jane@jonsbo.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/jonsbo.jpg",
+  "images": [
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38711.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38712.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38713.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38714.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38715.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38716.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38717.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38718.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38711.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38712.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38713.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38714.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38715.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38716.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38717.webp",
+    "galerie/o/obudowa-jonsbo-umx3-tempered_38718.webp"
+  ],
+  "manufacturer": "Jonsbo"
+}

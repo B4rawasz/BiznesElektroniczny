@@ -1,0 +1,32 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "18962",
+  "code": "ZUWA-331",
+  "name": "Thermalpad Thermal Grizzly Minus Pad Basic – 120x20x1,0 mm 4szt",
+  "price": 62.9,
+  "description": "<h2>Mocna alternatywa dla pasty termoprzewodzącej</h2><p>Dzięki <strong>Thermal Grizzly Minus Pad Basic</strong>, hamburski specjalista od chłodzenia rozszerza swoją ofertę o zaawansowane podkładki termiczne. Bazując na swoim poprzedniku, <em>Minus Pad 8</em>, nowa wersja została udoskonalona, aby jeszcze skuteczniej przewodzić ciepło.</p><h2>Proste i skuteczne chłodzenie</h2><p><strong>Minus Pad Basic</strong> sprawdza się tam, gdzie aplikacja pasty termoprzewodzącej jest utrudniona lub konieczne jest wypełnienie szczeliny między źródłem ciepła a radiatorem. Idealnie nadaje się do chłodzenia <em>układów pamięci</em>, <em>przetworników napięcia</em> i innych komponentów wymagających niezawodnego odprowadzania ciepła.</p><h2>Skuteczny materiał przewodzący</h2><p>Podkładka wykonana jest z silikonowego kompleksu nośnego z dodatkiem <strong>tlenku glinu</strong>, który pełni rolę medium przewodzącego. Dzięki temu osiąga <strong>wydajność porównywalną z pastą termoprzewodzącą</strong>, przy znacznie łatwiejszym montażu i bez ryzyka zabrudzenia podzespołów.</p><h2>Różne grubości, ta sama efektywność</h2><p><strong>Minus Pad Basic</strong> dostępny jest w szerokim zakresie <strong>grubości od 0,5 do 3 mm</strong>. Działa efektywnie już przy minimalnym nacisku kontaktowym, a jego przewodność cieplna pozostaje stabilna niezależnie od grubości. Wybór odpowiedniego wariantu powinien być dostosowany do dystansu, który należy pokonać między powierzchniami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Długość</p><p>100 mm</p></li><li><p>Szerokość</p><p>20 mm</p></li><li><p>Wysokość</p><p>1 mm</p></li><li><p>Materiał</p><p>Tlenek glinu</p></li><li><p>Elektr. przewodność</p><p>Nie</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/t/thermalpad-thermal-grizzly-mi_76126.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76128.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76131.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76127.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76132.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76129.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76130.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76126.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76128.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76131.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76127.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76132.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76129.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_76130.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

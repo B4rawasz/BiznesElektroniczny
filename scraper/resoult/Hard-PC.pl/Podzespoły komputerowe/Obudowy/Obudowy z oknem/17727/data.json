@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "17727",
+  "code": "GEDC-036",
+  "name": "Obudowa DeepCool Matrexx 30 SI Micro-ATX – Black",
+  "price": 89.99,
+  "description": "<p>DeepCool Matrexx 30 SI jest przeznaczony dla graczy zwracających uwagę na design, którzy chcą stworzyć harmonijną konfigurację. Kompaktowa obudowa do płyt głównych Mini-ITX i Micro-ATX oferuje otwartą konstrukcję z dobrą cyrkulacją powietrza i dużą ilością miejsca wewnątrz.</p><h2>Wystarczająco dużo miejsca na sprzęt do gier</h2><p>Oprócz miejsca na płytę główną Micro-ATX, obudowa może pomieścić karty graficzne o długości do 250 milimetrów i chłodnice procesora o wysokości do 151 milimetrów. Dzięki gniazdom na dysk 3,5” lub 2,5”, Matrexx 30 oferuje również wystarczająco dużo miejsca na Twoje dane.</p><h2>Wystarczająca wentylacja zapewniająca dobre chłodzenie</h2><p>Dzięki przewiewnej konstrukcji z dużymi wycięciami zapewniony jest optymalny dopływ powietrza. W sumie DeepCool Matrexx 30 SI może pomieścić do dwóch wentylatorów 120 mm. W przypadku systemów chłodzonych wodą z tyłu obudowy można umieścić chłodnicę 120 mm. Panel I/O z boku oferuje port USB 2.0 i USB-A 3.0, a także port audio 3,5 mm.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>193 x 378,2 x 405,8 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>3,62 kg</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Materiał</p><p>metal</p></li><li><p>Obsługiwane płyty główne</p><p>Micro-ATX, Mini-ITX</p></li><li><p>Wentylator</p><p>1x 120 mm (przód)<br/>1x 120 mm (tył)</p></li><li><p>Mocowanie chłodnicy</p><p>1x max 120 mm (tył)</p></li><li><p>Wnęki na dyski</p><p>2x 3,5 cala<br/>2x 2,5 cala</p></li><li><p>Panel I/O</p><p>1x USB 2.0<br/>1x USB 3.0<br/>1x 3,5-mm-Audio (4-pol, TRRS)</p></li><li><p>Gniazda rozszerzeń</p><p>4</p></li><li><p>Max wysokość chłodzenia</p><p>151 mm</p></li><li><p>Max długość karty graficznej</p><p>250mm</p></li><li><p>Typ zasilacza</p><p>ATX PS2 (maksymalna długość 170 mm)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/o/obudowa-deepcool-matrexx-30-s_64997.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_64998.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_64999.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65000.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65003.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_64996.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65001.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65002.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65004.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_64997.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_64998.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_64999.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65000.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65003.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_64996.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65001.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65002.webp",
+    "galerie/o/obudowa-deepcool-matrexx-30-s_65004.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

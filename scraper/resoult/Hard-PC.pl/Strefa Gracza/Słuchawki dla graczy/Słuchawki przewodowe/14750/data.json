@@ -1,0 +1,34 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Słuchawki dla graczy",
+    "Słuchawki przewodowe"
+  ],
+  "id": "14750",
+  "code": "GAPL-1160",
+  "name": "Słuchawki EPOS GSP 300",
+  "price": 253.9,
+  "description": "<p>EPOS GSP 300 to słuchawki z mikrofonem stworzone z myślą o graczach. Zapewnia ekscytujące wrażenia akustyczne i wysoką jakość dźwięku. Ciesz się głębokim basem, który wiernie odwzoruje wybuchy. Zintegrowany mikrofon z redukcją szumów umożliwia sprawną i krystalicznie czystą komunikację. Lekka i regulowana konstrukcja gwarantuje idealne dopasowanie do kształtu głowy i wysoki komfort podczas długich sesji. Duże nausznice z pamięcią kształtu poprawiają również pasywną izolację akustyczną.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Konstrukcja</p><p>Zamknięta</p></li><li><p>Pasmo przenoszenia</p><p>15 - 26,000 Hz</p></li><li><p>Impedancja</p><p>19 Ohm</p></li><li><p>Skuteczność</p><p>113 dB</p></li><li><p>Mikrofon</p><p>Pasmo przenoszenia 15 - 24,000 Hz<br/>Czułość -41 dBV/Pa<br/>Redukcja szumów - tak</p></li><li><p>Wtyczka</p><p>2x 3.5 mm / 1 x 3.5 mm (PCV 05 Combo Audio Adapter)</p></li><li><p>Długość przewodu</p><p>2m</p></li><li><p>Kompatybilność</p><p>PC, Mac OSX, PS4, Xbox One, Switch i inne konsoleze złączem 3.5mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>EPOS</p></li><li><p>Dane producenta</p><p>EPOS Group A/S, Industriparken 27, Ballerup 2750, Dania, privacy@demant.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/epos.jpg",
+  "images": [
+    "galerie/s/sluchawki-epos-gsp-300_53770.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53771.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53772.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53773.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53774.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53775.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53776.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53777.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53770.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53771.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53772.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53773.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53774.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53775.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53776.webp",
+    "galerie/s/sluchawki-epos-gsp-300_53777.webp"
+  ],
+  "manufacturer": "EPOS"
+}

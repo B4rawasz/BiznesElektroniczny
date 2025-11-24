@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Oczyszczacze"
+  ],
+  "id": "17189",
+  "code": "TSL-AC-AP3006",
+  "name": "Tesla Smart Oczyszczacz powietrza Pro L",
+  "price": 948.99,
+  "description": "<h2>Bezproblemowe sterowanie poprzez aplikację</h2><p>Możliwość wygodnego sterowania wszystkimi funkcjami oczyszczacza powietrza poprzez aplikację mobilną, która jest dostępna w języku angielskim zarówno dla systemu iOS, jak i Android. Umożliwia połączenie oczyszczacza powietrza z innymi produktami w ekosystemie Tesla Smart i ustawienie inteligentnej automatyzacji. Wróciłeś do domu? Oczyszczacz powietrza od razu zacznie działać. Otworzyłeś okno? Wyłączy się. Istnieje również możliwość włączenia timera lub trybu automatycznego. Można skonfigurować wiele różnych scenariuszy. Pozwól inteligentnym urządzeniom na realizację swoich zadań, oszczędzając czas i pieniądze. W celu upewnienia się, że wszystko jest prawidłowo sparowane, należy zadbać o sieć Wi-Fi 2,4 GHz.</p><h2>Promieniowanie UV eliminuje formaldehyd i toluen</h2><p>Formaldehyd znajduje się w meblach, dywanach, odzieży, kosmetykach, a nawet zabawkach i przedostaje się do powietrza. Według Światowej Organizacji Zdrowia może być rakotwórczy. Na szczęście oczyszczacz powietrza, dzięki lampie UV i siatce wykonanej z dwutlenku tytanu, eliminuję tę szkodliwą substancję, a wraz z nią także toluen, ksylen oraz benzen.</p><h2>Powietrze jak po burzy</h2><p>Lubisz orzeźwiające powietrze po ulewnym deszczu w letnie dni? Dzięki temu oczyszczaczowi powietrza możesz stworzyć je w domu w dowolnym momencie. Urządzenie posiada jonizator, który emituje zdrowe aniony do otoczenia, dzięki czemu robi dokładnie to, co burza w naturze.</p><h2>Filtry wychwytują cząsteczki 100x mniejsze niż włos</h2><p>Sercem oczyszczacza jest filtr HEPA, który wyłapuje wszystkie włosy i mikrocząsteczki, takie jak kurz czy pyłki. To w praktyce oznacza, że filtr wyłapuje 99% cząsteczek o wielkości do 0,3 mikrometra, czyli około 100x mniejszych niż średnica ludzkiego włosa. To doskonała wiadomość zwłaszcza dla alergików i astmatyków.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>1 szt</p></li><li><p>Wysokość:</p><p>63.5 cm</p></li><li><p>Szerokość:</p><p>41 cm</p></li><li><p>Głębokość:</p><p>21 cm</p></li><li><p>Waga:</p><p>7 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-oczyszczacz-powie_63167.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63168.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63169.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63170.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63171.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63172.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63167.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63168.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63169.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63170.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63171.webp",
+    "galerie/t/tesla-smart-oczyszczacz-powie_63172.webp"
+  ],
+  "manufacturer": "Tesla"
+}

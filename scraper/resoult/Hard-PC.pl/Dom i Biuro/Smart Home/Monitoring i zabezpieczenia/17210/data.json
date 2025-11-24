@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Monitoring i zabezpieczenia"
+  ],
+  "id": "17210",
+  "code": "TSL-SEN-SIREN",
+  "name": "Tesla Smart Syrena alarmowa",
+  "price": 114.99,
+  "description": "<h2>Inteligentna syrena zawsze da ci znać na czas</h2><p>Ilekroć w domu dzieje się coś, co może zaszkodzić Tobie lub Twojej własności, Inteligentna Syrena Czujnika TESLA powiadomi Cię o tym. I to nie tylko sygnałem dźwiękowym, ale także sygnałem świetlnym.</p><h2>Urządzenia komunikują się ze sobą</h2><p>Inteligentny Czujnik Syrena TESLA dowiaduje się o zaistniałym zagrożeniu dzięki systemowi ZigBee, do którego podłączone są niektóre elementy inteligentnego domu. Otrzymasz między innymi powiadomienie na smartfonie lub tablecie, który z łatwością połączysz z tymi urządzeniami.</p><h2>Kontrolujesz wszystko</h2><p>Zarządzanie syreną nie jest skomplikowane. Wszystko monitorujesz za pomocą aplikacji, którą możesz łatwo pobrać i zainstalować. Działa zarówno na urządzeniach z Androidem, jak i iOS. Syrenę można dostosować do własnych upodobań. Sygnał dźwiękowy emitowany przez alarm ma siłę 100 dB.</p><h2>Dogadaj się z inteligentnymi asystentami</h2><p>TESLA Smart Sensor Siren można kontrolować za pomocą inteligentnych, osobistych asystentów Google Assistant i Amazon Alexa. Rozumieją Twoje polecenia głosowe, dzięki czemu samodzielnie uruchamiają i kontrolują każdy element inteligentnego domu.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy wykorzystującej protokół ZigBee, za pomocą którego produkty komunikują się ze sobą. Do prawidłowego funkcjonowania tych produktów niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wartość, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>75 szt</p></li><li><p>Wysokość:</p><p>3.3 cm</p></li><li><p>Szerokość:</p><p>7.8 cm</p></li><li><p>Głębokość:</p><p>7.8 cm</p></li><li><p>Waga:</p><p>0.165 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-syrena-alarmowa_63047.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63048.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63049.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63050.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63051.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63052.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63047.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63048.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63049.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63050.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63051.webp",
+    "galerie/t/tesla-smart-syrena-alarmowa_63052.webp"
+  ],
+  "manufacturer": "Tesla"
+}

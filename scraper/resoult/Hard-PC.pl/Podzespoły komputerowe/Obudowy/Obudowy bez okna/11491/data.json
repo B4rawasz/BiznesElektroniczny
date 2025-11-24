@@ -1,0 +1,34 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy bez okna"
+  ],
+  "id": "11491",
+  "code": "GEJB-050",
+  "name": "Obudowa Jonsbo UMX3 Silver",
+  "price": 552.9,
+  "description": "<p>Klasyczne bryły obudów bez oświetleń RGB są dalej w modzie. Jonsbo UMX3 Micro-ATX to produkt, dla osób, które szukają stonowanej i eleganckiej obudowy komputerowej.</p><h2>Stalowa i świetnie prezentująca się obudowa</h2><p>Obudowa Jonsbo UMX3 Micro-ATX to świetnie prezentująca się obudowa komputerowa wykonana ze stali oraz szczotkowanego aluminium. Materiał te nie tylko zapewniają wytrzymałość i długotrwałość obudowy, ale również sprawiają, że model UMX3 wygląda stylowo i elegancko.</p><p>Panel I/O znalazł się na przodzie obudowy. Producent umieścił tutaj dwa porty USB 3.0, dwa porty USB 2.0, dwa złącza audio oraz przycisk zasilania. Wymiary obudowy Jonsbo UMX3 Micro-ATX to 188 x 365 x 358 mm (szer. X wys. X gł.) przy wadze 4,45 kg.</p><h2>UMX3 pomieści wydajny zestaw</h2><p>Obudowa jest w stanie pomieścić wydajny zestaw komputerowy. Model UMX3 został przystosowany do montażu płyt głównych w formacie Mini-ITX i Micro-ATX. Z racji swoich rozmiarów zmieścimy tutaj kartę graficzną o maksymalnej długości 320 mm, a zasilacz nie może być dłuższy niż 160 mm. W obudowie zmieści się chłodzenie CPU wysokie na 163 mm. UMX3 oferuje cztery zatoki na dyski: trzy na modele 2,5-calowe, jedną na 2,5/3,5-cala. Łącznie znajdziemy tutaj cztery gniazda na karty rozszerzeń.</p><h2>Wydajna sekcja chłodzenia</h2><p>W kwestii chłodzenia producent postanowił wyposażyć obudowę Jonsbo UMX3 Micro-ATX w dwa wentylatory montowane fabrycznie. U góry znajdziemy wentylator o średnicy 140 mm, zaś na tylnym panelu 120 mm mode. Zamiennie użytkownik ma możliwość montażu chłodnicy o wymiarze 120 mm (tył) lub 140 mm (góra).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"attribs\"><li>Wymiary: 188 x 365 x 358 mm (W x H x D)</li><li>Materiał: aluminum, stal</li><li>Waga: 4.45 kg</li><li>Standard: Mini-ITX, Micro-ATX</li><li>System chłodzenia:</li><ul><li>1x 140 mm (góra - zainstalowany)</li><li>1x 120 mm (tył - zainstalowany)</li></ul><li>Możliwość montażu chłodnicy:</li><ul><li>1x 140 mm (góra)</li><li>1x 120 mm (tył)</li></ul><li>Zatoki:</li><ul><li>1x 2.5 / 3.5\"</li><li>3x 2.5\"</li></ul><li>Zasilacz: ATX (brak w zestawie)</li><li>Ilość miejsc na karty rozszerzeń: 4</li><li>I / O panel:</li><ul><li>2x USB 3.0</li><li>2x USB 2.0</li><li>2x audio</li><li>1x power switch</li></ul><li>Maksymalna wysokość chłodzenia CPU: 163 mm</li><li>Maksymalna długość karty graficznej: 320 mm</li><li>Maksymalna długość zasilacza: 160 mm</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Jonsbo</p></li><li><p>Dane producenta</p><p>Dongguan Sibositong Industrial Co., Ltd., No. 5, Xinglong Lu, Sanzhong Village, Qingxi Town, Dongguan City, Guangdong Province, 523651, China, jane@jonsbo.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/jonsbo.jpg",
+  "images": [
+    "galerie/o/obudowa-jonsbo-umx3-silver_38738.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38739.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38740.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38741.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38742.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38743.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38744.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38745.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38738.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38739.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38740.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38741.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38742.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38743.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38744.webp",
+    "galerie/o/obudowa-jonsbo-umx3-silver_38745.webp"
+  ],
+  "manufacturer": "Jonsbo"
+}

@@ -1,0 +1,21 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Karty dźwiękowe - Wzmacniacze DAC"
+  ],
+  "id": "16008",
+  "code": "KA2 LT",
+  "name": "Wzmacniacz słuchawkowy FiiO KA2 DAC Lightning",
+  "price": 349.0,
+  "description": "<p>Odkryj nową erę dźwięku z KA2 - Twoim partnerem w podróży ku doskonałości dźwiękowej.</p><p>Podwójna wydajność, podwójna ekscytacja - KA2 stawia na podwójne przetworniki cyfrowo-analogowe CS43131, które rewolucjonizują doznania dźwiękowe. Każdy detal, każda nuta zostaje precyzyjnie odtworzona, zachowując wyjątkową jakość dźwięku o wysokiej rozdzielczości.</p><p>Rozwiń swoje dźwiękowe horyzonty dzięki zbalansowanemu wyjściu 4,4 mm. KA2 wydobywa pełen potencjał dźwięku, dostarczając 153 mW mocy przy 32 Ω, osiągając stosunek sygnału do szumu na poziomie 131 dB i minimalizując THD+N do zaledwie 0,0005%. Każda nuta wypełnia przestrzeń czystym, nieprzerwanym brzmieniem.</p><p>Usłyszysz każdy niuans - KA2 otwiera drzwi do świata wysokiej rozdzielczości dźwięku, obsługując DSD256 i 32bit/384kHz PCM. Twoja muzyka nabiera życia, dostarczając wrażeń dźwiękowych w najlepszej jakości.</p><p>Przystępność na nowym poziomie - dzięki aplikacji FiiO Control APP masz kontrolę nad KA2 w zasięgu ręki. Personalizuj ustawienia, dostosowując dźwięk do swoich preferencji bez wychodzenia z fotela.</p><p>Twórz swój dźwiękowy świat za pomocą pięciu filtrów cyfrowych do wyboru. KA2 oferuje możliwość dostosowania brzmienia, aby dokładnie oddać charakter Twojej muzyki.</p><p>KA2 przekracza granice platform - kompatybilny z Androidem, iOS, Windows i MacOS, zapewnia doskonały dźwięk na każdym urządzeniu. Z KA2 jako towarzyszem dźwiękowym, jakość dźwięku jest zawsze na wyciągnięcie ręki.</p><p>Wskaźnik RGB, charakterystyczny dla serii KA, jest Twoim przewodnikiem w świecie dźwięku. W jednym spojrzeniu wiesz, w jakim formacie jest odtwarzana muzyka.</p><p>Elegancja w metalowej oprawie - KA2 to esencja nowoczesnego designu. Całkowicie metalowa konstrukcja w stonowanej czarno-złotej kolorystyce podkreśla luksusowy charakter urządzenia.</p><p>Certyfikat Hi-Res Audio to gwarancja jakości, którą dostarcza KA2. Spełniając standardy JAS i CEA, KA2 przynosi pełne oddanie oryginalnemu wykonaniu, zapewniając dźwięk, który wciąga Cię w muzykalny świat w najczystszej postaci. Przygotuj się na muzyczną rewolucję z KA2 - twoim kluczem do doskonałego dźwięku, gdziekolwiek jesteś.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary obudowy</p><p>około 40x15x12mm</p></li><li><p>Długość kabla</p><p>około 70 mm</p></li><li><p>Waga</p><p>około 12.3g</p></li><li><p>Kolor</p><p>klasyczny czarny</p></li><li><p>Układ DAC</p><p>CS43131*2</p></li><li><p>Wejście</p><p>USB typu C lub Lightning</p></li><li><p>Wyjście</p><p>wyjście słuchawkowe 4,4 mm</p></li><li><p>Moc wyjściowa</p><p>153 mW (32 Ω (THD + N ＜ 1%)</p></li><li><p>SNR</p><p>125dBr (32Ω (A-ważony), 131dBr (600Ω (A-ważony)</p></li><li><p>THD+N</p><p>0,0005%%（32Ω), 0,00024% (600Ω)</p></li><li><p>Obsługa formatów audio</p><p>PCM 32bit/384kHz, DSD DSD64/128/256</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>FiiO</p></li><li><p>Dane producenta</p><p>FIIO Electronics Technology Co., Ltd., No.21 Longliang Road, Xialiang village, Longgui Street, Baiyun District, Guangzhou city,China,510540, sunny@fiio.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fiio.jpg",
+  "images": [
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-k_56891.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-k_56892.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-k_56891.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-k_56892.webp"
+  ],
+  "manufacturer": "FiiO"
+}

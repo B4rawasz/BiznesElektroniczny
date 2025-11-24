@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki bezprzewodowe"
+  ],
+  "id": "15958",
+  "code": "TRAMYS46729",
+  "name": "Mysz Bezprzewodowa Tracer Deal RF Nano",
+  "price": 19.9,
+  "description": "<p>Poznaj mobilną mysz Tracer Deal idealną do codziennych wyzwań. To mysz oferująca niezawodną łączność bezprzewodową 2.4 GHz oraz brak zakłóceń i opóźnień. Niewielki odbiornik bezprzewodowy zapewnia połączenie, na które zawsze możesz liczyć.</p><p>Ergonomiczna konstrukcja myszy Tracer gwarantuje odpowiednie podparcie dla dłoni oraz odciążenie nadgarstka podczas korzystania z urządzenia.</p><p>Sensor optyczny Dokładność i precyzję działania zapewnia sensor optyczny pracujący w maksymalnej rozdzielczości 1600 DPI. Mysz Tracer Deal jest zawsze gotowa do pracy. Zaraz po wyjęciu z pudełka możesz cieszyć się jej szybkim działaniem. Bez instalowania specjalnego oprogramowania, brak problemów i komplikacji - wystarczy podłączyć nanoodbiornik USB i można od razu zacząć korzystać z myszy.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li><p>Ilość akumulatorów / baterii</p><p>1xAA</p></li><li><p>Liczba przycisków myszy</p><p>6</p></li><li><p>Rozdzielczość CPI / DPI</p><p>800 - 1200 -1600</p></li><li><p>Technologia sensora</p><p>Optyczny</p></li><li><p>Technologia</p><p>2,4GHz</p></li><li><p>Typ odbiornika</p><p>nano USB</p></li><li><p>Maksymalny zasięg (m)</p><p>10</p></li><li><p>Maksymalna rozdzielczość (dpi)</p><p>1600</p></li><li><p>Profilowanie myszy</p><p>Praworęczne</p></li><li><p>Zmiana DPI</p><p>Tak</p></li><li><p>Transmisja danych</p><p>Bezprzewodowe RF 2.4Ghz</p></li><li><p>Nanoodbiornik</p><p>Tak</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tracer</p></li><li><p>Dane producenta</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tracer.jpg",
+  "images": [
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56726.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56727.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56728.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56729.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56730.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56726.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56727.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56728.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56729.webp",
+    "galerie/m/mysz-bezprzewodowa-tracer-dea_56730.webp"
+  ],
+  "manufacturer": "Tracer"
+}

@@ -1,0 +1,31 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Zasilacze",
+        "Zasilacze powyżej 700W"
+    ],
+    "id": "19518",
+    "code": "0000008277",
+    "name": "Zasilacz Antec NeoECO NE750G M EC 750W",
+    "price": 448.9,
+    "description": "<h2>Antec NeoECO NE750G M EC 750W</h2><p>Antec NeoECO NE750G M EC to wysokowydajny zasilacz o mocy 750 W z certyfikatem 80 PLUS Gold, zaprojektowany z myślą o stabilności i energooszczędności. Dzięki modularnej konstrukcji i zastosowaniu wysokiej jakości japońskich kondensatorów zapewnia precyzyjne napięcia oraz minimalne zakłócenia. Idealny do wymagających konfiguracji gamingowych i profesjonalnych, oferuje zaawansowaną ochronę oraz cichą pracę dzięki wentylatorowi 120 mm z funkcją Zero RPM Manager.</p><h2>Antec NeoECO NE750G M EC - Twoje zasilanie przyszłości</h2><p>Zasilacz Antec NeoECO NE750G M EC to idealne rozwiązanie dla użytkowników poszukujących niezawodnego i wydajnego zasilania dla swojego komputera. Dzięki swojej wszechstronności, pełnej modularności i zaawansowanym technologiom, zasilacz ten spełnia wymagania zarówno graczy, jak i profesjonalistów.</p><h2>Energooszczędność na najwyższym poziomie</h2><p>Certyfikat 80 PLUS Gold gwarantuje efektywność na poziomie do 92%, co oznacza mniejsze straty energii, niższe rachunki za prąd i mniejszy wpływ na środowisko. Zasilacz dostarcza stabilną moc 750 W, co czyni go idealnym wyborem dla systemów o dużym zapotrzebowaniu energetycznym, w tym konfiguracji z wieloma kartami graficznymi.</p><h2>Bezpieczeństwo i kompatybilność</h2><p>Antec NeoECO NE750G M EC wyposażono w kompleksowy zestaw zabezpieczeń CircuitShield, który chroni system przed przepięciami, przeciążeniami i zwarciami. Dzięki zgodności ze standardem ATX 12V 2.4, zasilacz jest kompatybilny z najnowszymi procesorami i płytami głównymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Moc znamionowa 750 W z certyfikatem 80 PLUS Gold.</li><li>Modularna konstrukcja dla lepszej organizacji przewodów.</li><li>Wysokiej jakości japońskie kondensatory gwarantujące stabilność.</li><li>Zaawansowany system ochronny CircuitShield: OCP, OVP, SCP, OPP, OTP, SIP, NLO.</li><li>Technologia PhaseWave – serwerowy mostek LLC z synchronizacją DC-DC.</li><li>Wentylator 120 mm z trybem Zero RPM Manager dla cichej pracy.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>750 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Gold</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Waga</p><p>1.37 kg</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>4</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>8</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>4</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Ilość wtyczek 12V-2×6 16-pin</p><p>1 szt</p></li></ul></article>",
+    "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Antec</p></li><li><p>Podmiot odpowiedzialny</p><p>Antec Europe BV, Corkstraat 46, 3047 AC Rotterdam, Holandia, eusupport@antec.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+    "manufacturer_img": "galerie/producenci/antec.jpg",
+    "images": [
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73322.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73323.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73324.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73325.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73326.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73327.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73328.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73322.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73323.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73324.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73325.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73326.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73327.webp",
+        "galerie/z/zasilacz-antec-neoeco-ne750g_73328.webp"
+    ]
+}

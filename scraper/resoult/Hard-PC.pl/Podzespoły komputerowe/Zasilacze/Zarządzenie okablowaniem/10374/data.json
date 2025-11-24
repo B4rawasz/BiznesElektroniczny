@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "10374",
+  "code": "PL-ATXCM-8P-02",
+  "name": "Grzebień Gelid 8pin - black",
+  "price": 4.9,
+  "description": "OPIS <p>Grzebień do porządkowania okablowania zasilacza. Pasuje do przedłużek Gelid!</p><p> </p><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li><div>Kolor: Black</div></li><li>Materiał:Akryl</li></ul>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gelid.jpg",
+  "images": [
+    "galerie/g/grzebien-gelid-8pin-black_32992.webp",
+    "galerie/g/grzebien-gelid-8pin-black_33180.webp",
+    "galerie/g/grzebien-gelid-8pin-black_32992.webp",
+    "galerie/g/grzebien-gelid-8pin-black_33180.webp"
+  ],
+  "manufacturer": "Gelid"
+}

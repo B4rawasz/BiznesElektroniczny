@@ -1,0 +1,37 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Routery"
+  ],
+  "id": "19021",
+  "code": "M1300(2-PACK)",
+  "name": "Zestaw Mesh Cudy M1300 WiFi 5 2,4GHz/5GHz 2szt",
+  "price": 239.0,
+  "description": "<h2>Internet w całym domu</h2><p>Z routerem Cudy M1300 uzyskasz niezawodne połączenie internetowe w każdym zakątku domu. Dwa urządzenia w zestawie eliminują martwe strefy, zapewniając ciągłość dostępu do sieci.</p><h2>Szybka transmisja danych</h2><p>Router Cudy korzysta z Wi-Fi AC1200, co zwiększa wydajność sieci bezprzewodowej. Oferuje szybką transmisję: 867 Mb/s w paśmie 5 GHz oraz 300 Mb/s w paśmie 2,4 GHz. Oznacza to płynne strumieniowanie i bezproblemowe przeglądanie sieci.</p><h2>Kompatybilność z DDNS</h2><p>Ważna cecha routera M1300 to kompatybilność z 15 dostawcami DDNS, co ułatwia zarządzanie zdalnym dostępem do sieci.</p><h2>Łączność aż do 100 urządzeń</h2><p>Router Cudy M1300 umożliwia podłączenie do 100 urządzeń jednocześnie, co czyni go idealnym dla inteligentnych domów, w których wykorzystuje się urządzenia Smart Home czy monitoring. Sprawdzi się również w przypadku intensywnego korzystania z internetu.</p><h2>Bezpieczeństwo danych</h2><p>Zaawansowane protokoły bezpieczeństwa takie jak PPTP, L2TP, OpenVPN, WireGuard, IPSec i Zerotier chronią Twoje dane, zapewniając bezpieczne połączenia VPN.</p><h2>Szyfrowanie danych</h2><p>Zabezpiecz swoją sieć dzięki szyfrowaniu WPA2 i bezpiecznym rozwiązaniom DNS, które chronią przed nieautoryzowanym dostępem.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Tryb pracy</p><p>Access Point, Router</p></li><li><p>Rodzaj urządzenia</p><p>router bezprzewodowy</p></li><li><p>Rodzaje wejść/wyjść</p><p>RJ-45 10/100/1000 (LAN/WAN) - 2 szt.</p></li><li><p>Złącze zasilania - 1 szt.</p></li><li><p>Obsługiwane standardy</p><p>Wi-Fi 5 (802.11 a/b/g/n/ac)</p></li><li><p>Częstotliwość pracy</p><p>2.4 / 5 GHz (DualBand)</p></li><li><p>Antena</p><p>Wewnętrzna - 2 szt.</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>1200 Mb/s (Wi-Fi)</p></li><li><p>Zabezpieczenia transmisji bezprzewodowej</p><p>64/128-bit WEP; WPA; WPA2; WPA-PSK; WPA2-PSK</p></li><li><p>Dodatkowe funkcje</p><p>sieć gościnna, przekierowanie portów, UPNP, DMZ, PPoE, dynamiczne / statyczne IP, przycisk Reset</p></li><li><p>Dołączone akcesoria</p><p>zasilacz, kabel RJ-45</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cudy.jpg",
+  "images": [
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70456.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70457.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70458.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70459.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70460.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70461.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70462.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70463.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70464.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70465.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70456.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70457.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70458.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70459.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70460.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70461.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70462.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70463.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70464.webp",
+    "galerie/z/zestaw-mesh-cudy-m1300-wifi-5_70465.webp"
+  ],
+  "manufacturer": "Cudy"
+}

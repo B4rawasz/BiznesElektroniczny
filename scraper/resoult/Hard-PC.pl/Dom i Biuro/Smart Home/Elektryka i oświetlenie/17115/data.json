@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17115",
+  "code": "TSL-LIG-GU10ZB-3PC",
+  "name": "TechToy Smart Żarówka RGB 4.7W GU10 Zigbee 3 szt",
+  "price": 149.0,
+  "description": "<h2>Inteligentne oświetlenie w inteligentnym ekosystemie</h2><p>Inteligentne oświetlenie od jakiegoś czasu jest integralną częścią wielu domów. Niezależnie od tego, czy użytkownicy inteligentnej technologii szukają wygody, oszczędności, czy po prostu chcą stworzyć wyjątkową atmosferę, inteligentna żarówka spełni wszystkie wymagania.</p><h2>Inteligentna aplikacja TESLA</h2><p>Steruj inteligentnymi światłami TechToy za pomocą aplikacji TESLA Smart. Łatwy w użyciu interfejs zapewnia dostęp do wszystkich ustawień i opcji automatyzacji, dzięki czemu możesz precyzyjnie dostosować sposób działania żarówki.</p><h2>Bardzo niskie zużycie energii</h2><p>Inteligentne żarówki TechToy o zużyciu zaledwie 4,7 W przyczyniają się do znacznego obniżenia rachunków za prąd. Można je wykorzystać jako częściowe oświetlenie pomieszczeń, ale w większych ilościach bez problemu poradzą sobie również z rolą oświetlenia głównego.</p><h2>Automatyzacja oświetlenia za pomocą aplikacji TESLA Smart</h2><p>Nie musisz już włączać i wyłączać światła za pomocą klasycznego włącznika. Jeżeli chcesz, możesz w ogóle nie używać włącznika. Możesz wygodnie sterować całym oświetleniem za pomocą aplikacji TESLA Smart, która jest dostępna całkowicie w języku polskim. Tutaj można także skonfigurować inteligentne programy. Światła włączają się na przykład, gdy inteligentny czujnik drzwi wykryje wejście do domu i wyłączają się, gdy wychodzisz.</p><h2>Protokół ZigBee</h2><p>Inteligentne żarówki TechToy wykorzystują wydajny protokół bezprzewodowy ZigBee do łączenia się z inteligentnym domem. Aby sterować inteligentnymi żarówkami, należy je podłączyć do jednostki centralnej TESLA Smart ZigBee Hub. Łączy wszystkie inteligentne elementy, które nie mają własnego wbudowanego modułu Wi-Fi i współpracują z protokołem ZigBee. Niesie to ze sobą szereg zalet. Najważniejszą z nich jest niska energochłonność tych produktów. Przepływ przekazywania danych pomiędzy jednostką centralną ZigBee a aplikacją TESLA Smart jest niski, więc przepustowość 2,4Ghz w sieci bezprzewodowej nie będzie podlegać nadmiernemu obciążeniu. Mieszana topologia sieci (topologia siatki) zapewnia prawidłowe funkcjonowanie ekosystemu, nawet jeśli jeden z elementów inteligentnego domu nagle przestanie działać. Ostatnią, ale nie mniej ważną zaletą jest kompatybilność pomiędzy producentami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>30 szt</p></li><li><p>Wysokość:</p><p>5.6 cm</p></li><li><p>Szerokość:</p><p>5 cm</p></li><li><p>Głębokość:</p><p>5 cm</p></li><li><p>Waga:</p><p>0.159 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64009.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64010.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64011.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64012.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64013.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64009.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64010.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64011.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64012.webp",
+    "galerie/t/techtoy-smart-zarowka-rgb-4-7_64013.webp"
+  ],
+  "manufacturer": "Tesla"
+}

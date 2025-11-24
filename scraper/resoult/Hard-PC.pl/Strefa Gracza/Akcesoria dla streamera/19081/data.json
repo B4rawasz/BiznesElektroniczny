@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "19081",
+  "code": "MH4PU-P-SV-BP",
+  "name": "Aktywny biurkowy HUB USB Orico 4xUSB-A 5Gbps Srebrny",
+  "price": 67.99,
+  "description": "<h2>Hub dopasowany do monitora</h2><p>Nie masz miejsca na biurku, a brakuje Ci portów USB-A? A może po prostu cenisz sobie minimalistyczną przestrzeń? To nie problem – ten hub od Orico możesz zamontować bezpośrednio na swoim monitorze, iMacu, czy po prostu krawędzi biurka. To doskonałe rozwiązanie dla użytkowników bezprzewodowych peryferii komputerowych, takich jak myszy czy klawiatury.</p><p>Montaż urządzenia jest bardzo prosty. Wystarczy, że dokręcisz wbudowaną śrubę odpowiednio do grubości blatu. Dzięki silikonowemu wykończeniu śruby nie musisz się martwić o mechaniczne uszkodzenia. Maksymalna grubość przedmiotu, na którym można zamontować hub to 30 mm. Plug&amp;play po podłączeniu działa od razu, bez instalowania sterowników.</p><h2>Błyskawiczny transfer danych</h2><p>Hub ma 4 porty USB-A o przepustowości 5 Gbps. Dla porównania poprzedni standard, USB 2.0 obsługuje przepustowość do 480 Mbps. Taką różnicę na pewno odczują użytkownicy przesyłający większe pliki jak np. filmy czy duże ilości zdjęć.</p><h2>Hub USB aktywny</h2><p>Hub USB 3 Orico ma port microUSB do podłączenia zasilania o mocy do 10 W (5V/2A) - do tego celu można użyć standardowej ładowarki do smartphone'a z wtykiem microUSB. Dodatkowe zasilanie przydaje się po podłączeniu kilku urządzeń peryferyjnych naraz lub urządzenia, które potrzebuje natężenia powyżej 500 mA (tyle jest w standardowym porcie USB), np. dysków twardych 3,5\".</p><p>W ofercie Orico znajdziesz też podobne 4-portowe huby w srebrnym kolorze: bez dodatkowego zasilania oraz z wbudowanym czytnikiem kart SD.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>5 Gbps</p></li><li><p>Złącze 2</p><p>Port microUSB</p></li><li><p>Port USB-A</p></li><li><p>Złącze 1</p><p>Port USB-A</p></li><li><p>Ilość portów</p><p>6 szt</p></li><li><p>Ilość portów USB-A</p><p>4 szt</p></li><li><p>Zastosowanie</p><p>Transfer danych</p></li><li><p>Współpraca z systemami</p><p>Linux, MacOS, Windows</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Orico</p></li><li><p>Dane producenta</p><p>Shenzhen ORICO Import &amp; Export Trading Co., Ltd., Jihua Street F19, 14A, Shenzhen, 518112, Chiny, supports@orico.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, orico@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/orico.jpg",
+  "images": [
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70348.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70349.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70350.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70351.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70352.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70348.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70349.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70350.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70351.webp",
+    "galerie/a/aktywny-biurkowy-hub-usrb-ori_70352.webp"
+  ],
+  "manufacturer": "Orico"
+}

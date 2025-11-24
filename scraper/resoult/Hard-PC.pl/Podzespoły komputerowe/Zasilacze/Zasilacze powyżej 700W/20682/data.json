@@ -1,0 +1,32 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "20682",
+  "code": "ZAS-MC-HEX-0850-GOLD",
+  "name": "Zasilacz Modecom Volcano HEX 850W Gold ATX 3.1 PCIE 5.1",
+  "price": 479.0,
+  "description": "<h2>Stabilna moc dla Twojego komputera</h2><p>MODECOM Volcano Hex 750W to zasilacz zaprojektowany z myślą o nowoczesnych i przyszłościowych konfiguracjach komputerowych. Dzięki zgodności ze standardami ATX 3.1 i PCIe 5.1 obsługuje nawet najbardziej wymagające komponenty, w tym karty graficzne o wysokim poborze mocy. To nie tylko solidna dawka mocy, ale też gwarancja stabilności i bezpieczeństwa.</p><h2>Nowoczesna topologia i japońskie kondensatory</h2><p>Volcano Hex wykorzystuje topologię Half-Bridge LLC z układami DC-DC na liniach 3.3V i 5V, co zapewnia wyjątkowo stabilne napięcia niezależnie od obciążenia. Wewnątrz znajdziesz wyłącznie japońskie kondensatory – gwarancję długowieczności, niezawodności i wysokiej jakości wykonania.</p><h2>Sprawność energetyczna klasy Gold</h2><p>Zasilacz posiada certyfikat Cybenetics Gold, odpowiadający poziomowi 80 Plus Gold (230V EU). To oznacza mniejsze straty energii, niższe rachunki za prąd i chłodniejszą, cichszą pracę nawet przy dużym obciążeniu.</p><h2>Cisza i chłód w standardzie</h2><p>Za chłodzenie odpowiada 140 mm wentylator z łożyskiem FDB – pracuje cicho, efektywnie i niezawodnie. Dzięki przemyślanemu projektowi oraz modularnemu okablowaniu, w obudowie panuje porządek i lepszy przepływ powietrza. To przekłada się na niższe temperatury całego systemu.</p><h2>Pełna modularność i płaskie kable</h2><p>W zestawie znajdziesz komplet modularnych przewodów – podłączasz tylko to, czego naprawdę potrzebujesz. Płaskie wiązki kabli są wygodne w prowadzeniu i pozwalają zachować estetykę wewnątrz obudowy. Złącze 12V-2x6 600W zapewnia pełną zgodność z najnowszymi GPU.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Model</p><p>MODECOM Volcano Hex 850W</p></li><li><p>Moc zasilacza</p><p>850 W</p></li><li><p>Format</p><p>ATX</p></li><li><p>Standard ATX</p><p>3.1</p></li><li><p>Sprawność</p><p>Cybenetics Gold (80Plus Gold 230V EU)</p></li><li><p>Topologia</p><p>Half-Bridge LLC + DC-DC</p></li><li><p>Kondensatory</p><p>Japońskie</p></li><li><p>Okablowanie</p><p>Modularne</p></li><li><p>Wentylator</p><p>140 mm</p></li><li><p>Łożysko wentylatora</p><p>FDB (Fluid Dynamic Bearing)</p></li><li><p>Napięcie wejściowe</p><p>100 – 240 V</p></li><li><p>Obudowa</p><p>Czarna</p></li><li><p>Wymiary</p><p>160 x 150 x 85 mm</p></li><li><p>Przewód zasilający</p><p>W zestawie</p></li><li><p>Zabezpieczenia</p><p>OCP, OPP, OTP, OVP, SCP, UVP, SIP</p></li><li><p>MB: 20+4 pin</p><p>1x (600 mm)</p></li><li><p>SATA</p><p>2x 3x SATA (500 + 150 + 150 mm)</p></li><li><p>MOLEX / FDD</p><p>1x 3x MOLEX + FDD (500 + 150 + 150 + 150 mm)</p></li><li><p>CPU: 4+4 pin</p><p>2x (700 mm)</p></li><li><p>PCI-E: 6+2 pin</p><p>2x 2x PCI-E (550 + 120 mm)</p></li><li><p>12V-2x6</p><p>1x (550 mm)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Modecom</p></li><li><p>Dane producenta</p><p>MODECOM POLSKA Sp. z o.o., Puławska 145, 02-715 Warszawa, sklep@modecom.eu</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/modecom.jpg",
+  "images": [
+    "galerie/z/zasilacz-modecom-volcano-hex_77863.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77862.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77857.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77858.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77859.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77860.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77861.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77863.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77862.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77857.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77858.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77859.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77860.webp",
+    "galerie/z/zasilacz-modecom-volcano-hex_77861.webp"
+  ],
+  "manufacturer": "Modecom"
+}

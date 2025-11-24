@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Repeatery"
+  ],
+  "id": "13811",
+  "code": "A18",
+  "name": "Dwupasmowy repeater sieciowy Tenda A18 AC1200",
+  "price": 116.9,
+  "description": "<p>A18 to dwupasmowy repeater sieciowy z serii AC1200, dedykowany do dwupiętrowych domów, willi i domów wielopokojowych o powierzchni ponad 120 metrów kwadratowych. Oferuje prędkość transmisji danych do 300 Mb/s w paśmie 11n i prędkość transmisji 867 Mb/s w paśmie 11ac. Dzięki dwóm zewnętrznym antenom wielokierunkowym, A18 może zapewnić większy zasięg WiFi, a także ekstremalnie zwiększyć szybkość przesyłania danych, zapewniając satysfakcjonujące działanie aplikacji, takich jak odtwarzacze wideo w rozdzielczości 1080P HD, gry online typu multiplayer oraz szybkie pobieranie. Dzięki uaktualnieniu kreatora instalacji, wystarczą trzy kroki, aby skonfigurować repeater, który jest łatwy w użyciu. A18 działa również z routerami WiFi innych marek dostępnych na rynku. Dla zapewnienia pełnego zasięgu WiFi w domu, A18 jest najlepszym wyborem.</p><h2>Współpracuje z routerami optycznymi dla silnej penetracji ścian w paśmie 5 GHz</h2><p>Zwykłe routery 11AC słabo radzą sobie z penetracją ścian w paśmie 5 GHz. Dzięki A18 poszerzającemu sieć WiFi 5 GHz, prędkość transmisji danych w tym paśmie może wynosić do 867 Mb/s, zapewniając pełny zasięg łącza szerokopasmowego o szybkości 100 Mb/s. Rozwiązując słabość zasięgu WiFi w paśmie 5 GHz, A18 zapewnia szybki Internet w domu.</p><h2>Automatyczny skaner jakości kanału, aby zapewnić stabilność, niezawodność i szybkość korzystania z Internetu</h2><p>Wyposażony w wysokiej jakości anteny dwupasmowe PCB, częstotliwość radiowa między antenami A18 została poprawiona do um. Każda antena zapewnia sieć w paśmie zarówno 2,4 GHz, jak i 5 GHz, a także ją na tych pasmach rozszerza. A18 może automatycznie wybrać dla ciebie kanał wysokiej jakości, gdy sygnał się zmieni i utrzymać twoje urządzenia w trybie online nawet w ruchu, automatycznie przełączając się na sieć z silniejszymi sygnałami.</p><h2>Wizualna sygnalizacja LED pomaga znaleźć najlepszą pozycję</h2><p>Kierując się diodą LED, możesz łatwo znaleźć najlepsze położenie wzmacniacza w zależności od rzeczywistego środowiska sieciowego. Kolor niebieski oznacza dobre połączenie, a czerwony złe.</p><h2>Dodatkowy port LAN 100 Mb/s na potrzeby przewodowego rozszerzenia</h2><p>Sygnał jest mocny, ale nadal nie masz połączenia z Internetem? Chcesz oglądać telewizyjne programy online na telewizorze z portem LAN, ale bez adaptera WiFi? A18 może uwolnić cię od problemów. Podłączając kabel Ethernet z routera do portu LAN A18, można rozszerzyć istniejącą sieć WiFi w sposób przewodowy. Aby oglądać telewizję online, wystarczy połączyć port LAN w A18 z portem w telewizorze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Interfejsy</p><p>1*10/100Mbps RJ45</p></li><li><p>Typ anteny</p><p>2 * External 2dBi dual-band omni-directional antenna</p></li><li><p>Przycisk</p><p>1 * WPS Button<br/>1 * Reset Button</p></li><li><p>Wskaźnik ledowy</p><p>1 * Signal LED<br/>1 * WPS LED<br/>1 * Power LED</p></li><li><p>Zasilacz</p><p>9V0.8A, built-in</p></li><li><p>Pobór energii</p><p>5.2W (max power consumption)</p></li><li><p>Wymiar</p><p>80mm*58mm*48mm(L x W x H)</p></li><li><p>Standard bezprzewodowy</p><p>IEEE802.11b,IEEE 802.11g, IEEE 802.11n, IEEE 802.11a,IEEE 802.11ac</p></li><li><p>Częstotliwość</p><p>5 GHz(11ac)<br/>2.4 GHz</p></li><li><p>Szybkość przesyłania danych</p><p>5GHz Up to 867Mbps<br/>2.4GHz Up to 300Mbps</p></li><li><p>RSSI</p><p>2.4 GHz<br/>11b-1M -97dBm<br/>11g-54M -76dBm<br/>11n-20M-MCS7 -74dBm<br/>11n-40M-MCS7 -72dBm<br/>5 GHz <br/>11a-6M -95dBm<br/>11n-20M-MCS7 -74dBm<br/>11n-40M-MCS7 -72dBm<br/>11ac-80M-MCS9 -63dBm</p></li><li><p>Moc transmisji</p><p>&lt;20dBm</p></li><li><p>Tryby bezprzewodowe</p><p>Repeater Mode，Access Point Mode</p></li><li><p>Ochrona bezprzewodowa</p><p>Default encryption mode Mix WPA-PSK/WPA2-PSK</p></li><li><p>WPA algorithm</p><p>TKIP</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tenda</p></li><li><p>Dane producenta</p><p>Tenda Polska Sp. z o.o.; Górczewska 216, 01-460 Warszawa, Polska, support.pl@tenda.cn</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tenda.jpg",
+  "images": [
+    "galerie/d/dwupasmowy-repeater-sieciowy_49809.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49810.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49811.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49812.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49813.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49809.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49810.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49811.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49812.webp",
+    "galerie/d/dwupasmowy-repeater-sieciowy_49813.webp"
+  ],
+  "manufacturer": "Tenda"
+}

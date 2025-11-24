@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "9370",
+  "code": "ZUAD-759",
+  "name": "Zestaw przedłużaczy Phanteks 50cm Czarno-Biały",
+  "price": 103.9,
+  "description": "OPIS <p>Uniwersalne przedłużacze kabli zasilających od Phanteks to idealne rozwiązanie dla entuzjastów upiększania wnętrza swojego komputera. Wykonano je z wysokiej jakości materiałów zapewniających trwałość oraz elastyczność. Ułożenie ich w obudowie jest bajecznie łatwe, a dzięki długości 50cm są odpowiednie do nawet największych obudów. W zestawie znajduje się pełen komplet okablowania wraz z grzebieniami. </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Przedłużacze</li><ul><li>1x 24-Pin ATX12V</li><li>1x 4+4-Pin ATX12V / EPS12V</li><li>2x 6+2-Pin PCIe</li></ul><li>Grzebienie</li><li><ul><li>2x 24-pin (4mm-przezroczyste)</li><li>4x 8-pin (4mm-przezroczyste)</li><li>2x 6-pin (4mm-przezroczyste)</li></ul></li><li><div>Długość: 50cm z wtyczkami</div></li><li><div>Grubość przewodu: 18AWG</div></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/z/zestaw-przedluzaczy-phanteks_27997.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_27998.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_27999.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_28000.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_28001.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_28002.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_27997.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_27998.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_27999.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_28000.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_28001.webp",
+    "galerie/z/zestaw-przedluzaczy-phanteks_28002.webp"
+  ],
+  "manufacturer": "Phanteks"
+}
