@@ -40,6 +40,75 @@
   <meta property="product:weight:value" content="{$product.weight}">
   <meta property="product:weight:units" content="{$product.weight_unit}">
   {/if}
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log('Script loaded');
+      
+      function rewriteLocalhostLinks(element) {
+        if (!element) {
+          console.log('Element not found');
+          return;
+        }
+        
+        console.log('Processing element:', element);
+        
+        const links = element.querySelectorAll('a[href]');
+        console.log('Found links:', links.length);
+        
+        links.forEach(function(link) {
+          const href = link.getAttribute('href');
+          console.log('Original href:', href);
+          
+          // Check if it's a relative URL (doesn't start with http://, https://, //, or #)
+          if (href && !href.match(/^(https?:\/\/|\/\/|#)/)) {
+            let newUrl = href;
+            
+            // If it starts with /, it's root-relative
+            if (href.startsWith('/')) {
+              newUrl = 'https://sklep.hard-pc.pl' + href;
+            } 
+            // Otherwise it's relative to current path
+            else {
+              newUrl = 'https://sklep.hard-pc.pl/' + href;
+            }
+            
+            link.setAttribute('href', newUrl);
+            console.log('Rewrote relative URL:', href, '->', newUrl);
+          }
+          // Also handle explicit localhost URLs
+          else if (href && (href.includes('localhost') || href.includes('127.0.0.1'))) {
+            let newUrl = href;
+            newUrl = newUrl.replace(/https?:\/\/localhost(:\d+)?/i, 'https://sklep.hard-pc.pl');
+            newUrl = newUrl.replace(/https?:\/\/127\.0\.0\.1(:\d+)?/i, 'https://sklep.hard-pc.pl');
+            
+            link.setAttribute('href', newUrl);
+            console.log('Rewrote localhost URL:', href, '->', newUrl);
+          }
+        });
+      }
+      
+      // Process product description
+      console.log('Looking for #desc-wrapper');
+      const productDesc = document.querySelector('#desc-wrapper');
+      rewriteLocalhostLinks(productDesc);
+      
+      // Process product short description
+      console.log('Looking for #product-description-short-{$product.id}');
+      const productShortDesc = document.querySelector('#product-description-short-{$product.id}');
+      rewriteLocalhostLinks(productShortDesc);
+      
+      // Process tab description if exists
+      console.log('Looking for #description .product-description');
+      const tabDesc = document.querySelector('#description .product-description');
+      rewriteLocalhostLinks(tabDesc);
+      
+      // Also process the duplicate in trash section
+      console.log('Looking for .trash #product-description-short-{$product.id}');
+      const trashDesc = document.querySelector('.trash #product-description-short-{$product.id}');
+      rewriteLocalhostLinks(trashDesc);
+    });
+  </script>
 {/block}
 
 {block name='head_microdata_special'}
@@ -52,33 +121,131 @@
     <meta content="{$product.url}">
 
     <div class="row product-container js-product-container">
-      <div class="col-md-6">
-        {block name='page_content_container'}
-          <section class="page-content" id="content">
-            {block name='page_content'}
-              {include file='catalog/_partials/product-flags.tpl'}
 
-              {block name='product_cover_thumbnails'}
-                {include file='catalog/_partials/product-cover-thumbnails.tpl'}
-              {/block}
-              <div class="scroll-box-arrows">
-                <i class="material-icons left">&#xE314;</i>
-                <i class="material-icons right">&#xE315;</i>
-              </div>
-
-            {/block}
-          </section>
-        {/block}
+      <div id="prod-top">
+        <div class="prod-title">
+          {block name='page_header'}
+            <h1 class="h1">{block name='page_title'}{$product.name}{/block}</h1>
+          {/block}
+          <span class="product-id-ref">
+            <span>ID: {$product.id}</span>
+            {if isset($product.reference_to_display) && $product.reference_to_display neq ''}
+              <span>Kod: {$product.reference_to_display}</span>
+            {/if}
+          </span>
         </div>
-        <div class="col-md-6">
-          {block name='page_header_container'}
-            {block name='page_header'}
-              <h1 class="h1">{block name='page_title'}{$product.name}{/block}</h1>
+        {if isset($product_manufacturer->id)}
+            {if isset($manufacturer_image_url)}
+              <a href="{$product_brand_url}">
+                <img src="{$manufacturer_image_url}" class="img img-fluid manufacturer-logo" alt="{$product_manufacturer->name}" loading="lazy">
+              </a>
+            {/if}
+        {/if}
+      </div>
+
+      <div id="prod-center">
+        <div class="prod-img">
+          {block name='page_content_container'}
+            <section class="page-content" id="content">
+              {block name='page_content'}
+                {include file='catalog/_partials/product-flags.tpl'}
+
+                {block name='product_cover_thumbnails'}
+                  {include file='catalog/_partials/product-cover-thumbnails.tpl'}
+                {/block}
+                <div class="scroll-box-arrows">
+                  <i class="material-icons left">&#xE314;</i>
+                  <i class="material-icons right">&#xE315;</i>
+                </div>
+
+              {/block}
+            </section>
+          {/block}
+        </div>
+        <div class="prod-info">
+          <div class="prod-info-wrapper">
+            {block name='product_prices'}
+              {include file='catalog/_partials/product-prices2.tpl'}
             {/block}
+            {block name='product_buy'}
+              <form action="{$urls.pages.cart}" method="post" id="add-to-cart-or-refresh">
+                <input type="hidden" name="token" value="{$static_token}">
+                <input type="hidden" name="id_product" value="{$product.id}" id="product_page_product_id">
+                <input type="hidden" name="id_customization" value="{$product.id_customization}" id="product_customization_id" class="js-product-customization-id">
+
+                {block name='product_variants'}
+                  {include file='catalog/_partials/product-variants.tpl'}
+                {/block}
+
+                {block name='product_pack'}
+                  {if $packItems}
+                    <section class="product-pack">
+                      <p class="h4">{l s='This pack contains' d='Shop.Theme.Catalog'}</p>
+                      {foreach from=$packItems item="product_pack"}
+                        {block name='product_miniature'}
+                          {include file='catalog/_partials/miniatures/pack-product.tpl' product=$product_pack showPackProductsPrice=$product.show_price}
+                        {/block}
+                      {/foreach}
+                  </section>
+                  {/if}
+                {/block}
+
+                {block name='product_discounts'}
+                  {include file='catalog/_partials/product-discounts.tpl'}
+                {/block}
+
+                {block name='product_add_to_cart'}
+                  {include file='catalog/_partials/product-add-to-cart.tpl'}
+                {/block}
+
+                {block name='product_additional_info'}
+                  {include file='catalog/_partials/product-additional-info.tpl'}
+                {/block}
+
+                {* Input to refresh product HTML removed, block kept for compatibility with themes *}
+                {block name='product_refresh'}{/block}
+              </form>
+            {/block}
+          </div>
+        </div>
+      </div>
+      <div class="page-sections">
+
+      </div>
+
+      {block name='product_description'}
+        <div class="product-description">
+        <h1>Opis produktu</h1>
+        <div id="desc-wrapper">
+        {$product.description nofilter}
+        </div>
+        </div>
+      {/block}
+
+      <ul class="list-i-goowno">
+        <li>
+          <p><i class="icon-call-center"></i> Profesjonalne doradztwo</p>
+          <p>W zakresie wyboru sprzętu</p>
+        </li>
+        <li>
+          <p><i class="icon-security"></i> Bezpieczne zakupy</p>
+          <p>W pełni szyfrowane połączenie SSL</p>
+        </li>
+        <li>
+          <p><i class="icon-return"></i> Bezproblemowe zwroty</p>
+          <p>Do 14 dni bez podania przyczyny</p>
+        </li>
+      </ul>
+
+      {block name='product_description_short'}
+        <div id="product-description-short-{$product.id}" class="product-description">{$product.description_short nofilter}</div>
+      {/block}
+
+        <div class="trash" style="display: none;">
+          {block name='page_header_container'}
+            
           {/block}
-          {block name='product_prices'}
-            {include file='catalog/_partials/product-prices.tpl'}
-          {/block}
+          
 
           <div class="product-information">
             {block name='product_description_short'}
@@ -92,45 +259,7 @@
             {/if}
 
             <div class="product-actions js-product-actions">
-              {block name='product_buy'}
-                <form action="{$urls.pages.cart}" method="post" id="add-to-cart-or-refresh">
-                  <input type="hidden" name="token" value="{$static_token}">
-                  <input type="hidden" name="id_product" value="{$product.id}" id="product_page_product_id">
-                  <input type="hidden" name="id_customization" value="{$product.id_customization}" id="product_customization_id" class="js-product-customization-id">
-
-                  {block name='product_variants'}
-                    {include file='catalog/_partials/product-variants.tpl'}
-                  {/block}
-
-                  {block name='product_pack'}
-                    {if $packItems}
-                      <section class="product-pack">
-                        <p class="h4">{l s='This pack contains' d='Shop.Theme.Catalog'}</p>
-                        {foreach from=$packItems item="product_pack"}
-                          {block name='product_miniature'}
-                            {include file='catalog/_partials/miniatures/pack-product.tpl' product=$product_pack showPackProductsPrice=$product.show_price}
-                          {/block}
-                        {/foreach}
-                    </section>
-                    {/if}
-                  {/block}
-
-                  {block name='product_discounts'}
-                    {include file='catalog/_partials/product-discounts.tpl'}
-                  {/block}
-
-                  {block name='product_add_to_cart'}
-                    {include file='catalog/_partials/product-add-to-cart.tpl'}
-                  {/block}
-
-                  {block name='product_additional_info'}
-                    {include file='catalog/_partials/product-additional-info.tpl'}
-                  {/block}
-
-                  {* Input to refresh product HTML removed, block kept for compatibility with themes *}
-                  {block name='product_refresh'}{/block}
-                </form>
-              {/block}
+              
 
             </div>
 

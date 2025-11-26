@@ -23,6 +23,7 @@
  * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
  *}
 <div id="js-product-list">
+{include file='_partials/pagination.tpl' pagination=$listing.pagination}
   {include file="catalog/_partials/productlist.tpl" products=$listing.products cssClass="row"}
 
   {block name='pagination'}

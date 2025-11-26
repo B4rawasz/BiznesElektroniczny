@@ -38,8 +38,6 @@
     {block name='subcategory_list'}
       
     {/block}
-    
-    {hook h="displayHeaderCategory"}
 
     <section id="products">
       {if $listing.products|count}

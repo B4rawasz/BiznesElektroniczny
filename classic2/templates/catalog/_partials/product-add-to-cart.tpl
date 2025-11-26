@@ -24,27 +24,28 @@
  *}
 <div class="product-add-to-cart js-product-add-to-cart">
   {if !$configuration.is_catalog}
-    <span class="control-label">{l s='Quantity' d='Shop.Theme.Catalog'}</span>
-
     {block name='product_quantity'}
       <div class="product-quantity clearfix">
-        <div class="qty">
-          <input
-            type="number"
-            name="qty"
-            id="quantity_wanted"
-            inputmode="numeric"
-            pattern="[0-9]*"
-            {if $product.quantity_wanted}
-              value="{$product.quantity_wanted}"
-              min="{$product.minimal_quantity}"
-            {else}
-              value="1"
-              min="1"
-            {/if}
-            class="input-group"
-            aria-label="{l s='Quantity' d='Shop.Theme.Actions'}"
-          >
+        <div class="qty-wrapper">
+          <span class="control-label">Ilość:</span>
+          <div class="qty">
+            <input
+              type="number"
+              name="qty"
+              id="quantity_wanted"
+              inputmode="numeric"
+              pattern="[0-9]*"
+              {if $product.quantity_wanted}
+                value="{$product.quantity_wanted}"
+                min="{$product.minimal_quantity}"
+              {else}
+                value="1"
+                min="1"
+              {/if}
+              class="input-group"
+              aria-label="{l s='Quantity' d='Shop.Theme.Actions'}"
+            >
+          </div>
         </div>
 
         <div class="add">
@@ -56,8 +57,7 @@
               disabled
             {/if}
           >
-            <i class="material-icons shopping-cart">&#xE547;</i>
-            {l s='Add to cart' d='Shop.Theme.Actions'}
+            Do koszyka
           </button>
         </div>
 

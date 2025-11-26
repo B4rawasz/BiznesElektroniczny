@@ -89,11 +89,10 @@ global_settings:
         - blockreassurance
       displayLeftColumn:
         - ps_categorytree
+      displayHeaderCategory:
         - ps_facetedsearch
       displaySearch:
         - ps_searchbar
-      displayProductAdditionalInfo:
-        - ps_sharebuttons
       displayReassurance:
         - blockreassurance
       displayOrderConfirmation2:
