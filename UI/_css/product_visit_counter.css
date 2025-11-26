@@ -1,0 +1,112 @@
+#product-visits-count.pvc-modal {
+    display: none;
+
+    font-size: 14px;
+    color: #7e7e7e;
+    font-family: Roboto, sans-serif;
+    line-height: 1.44;
+    font-weight: 300;
+    position: fixed;
+    z-index: 1;
+    left: 30px;
+    bottom: 30px;
+    width: min(500px, calc(100% - 60px));
+    height: 85px;
+    background-color: #fff;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 0px 37px 5px rgba(66, 68, 90, 0.19);
+    -moz-box-shadow: 0px 0px 37px 5px rgba(66, 68, 90, 0.19);
+    box-shadow: 0px 0px 37px 5px rgba(66, 68, 90, 0.19);
+    overflow: hidden;
+}
+
+#product-visits-count.pvc-modal.is-visible {
+    display: block !important;
+}
+
+#product-visits-count .pvc-modal-content {
+    margin: 0;
+    padding: 0 65px 0 80px;
+    box-sizing: border-box;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+#product-visits-count .pvc-progress-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+}
+
+#product-visits-count .pvc-progress {
+    width: 100%;
+    height: 100%;
+    background-color: #3a70ea;
+    border-radius: 3px;
+    animation: progress-bar-animation 10s linear forwards;
+}
+
+@keyframes progress-bar-animation {
+    0% {
+        width: 100%;
+    }
+    100% {
+        width: 0%;
+    }
+}
+
+#product-visits-count .pvc-modal-wrap {
+    height: 100%;
+
+    position: relative;
+}
+
+#product-visits-count .pvc-close-button {
+    position: absolute;
+    cursor: pointer;
+    top: 50%;
+    right: 25px;
+    transform: translateY(-50%);
+    font-size: 24px;
+    font-weight: bold;
+    color: #888;
+    cursor: pointer;
+    z-index: 10;
+}
+
+#product-visits-count .pvc-accent {
+    color: #4473db;
+    font-weight: bold;
+}
+
+#product-visits-count .pvc-icon-wrapper {
+    width: 50px;
+    height: 50px;
+    background: #f7f8fe;
+    border: 1px solid #f2f2fb;
+    border-radius: 5px;
+    position: relative;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#product-visits-count svg.pvc-icon {
+    width: 20px;
+    fill: #4473db;
+}
+
+@media screen and (max-width: 400px) {
+    #product-visits-count.pvc-modal {
+        left: 0;
+        width: 100%;
+    }
+}

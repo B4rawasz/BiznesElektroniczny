@@ -108,6 +108,7 @@ if [ -d "/var/www/html/install" ]; then
         --name=HardPC \
         --country=pl \
         --fixtures=0 \
+        --db_clear=0 \
         --activity=7 \
         --firstname=John \
         --lastname=Doe \
