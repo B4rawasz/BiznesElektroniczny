@@ -18,7 +18,13 @@ Wykorzystane narzędzia
 * Podczas konfiguracji środowiska wirtualnego będą przydatne dodatkowe pakiety np.: apache (httpd2), mysql (mariadb), git, php, php-mysql, php-pdo, i inne wskazane przez platformę do tworzenia sklepów internetowych (skrypt instalacyjny wskaże brakujące biblioteki).
 
 Sposób uruchomienia 
-
+docer-compose - Uruchomie kontenerów 
+scraper/main.py - Scraper 
+tree-builder - budowanie drzewa przedmiotów w folderach 
+list-builder - lista kategorii 
+png_generator - zamienia webp na png
+uploder/main.py - uruchamia uplodowania producentów, kategorii  i przemiotów, ilości zaopatrzenia na sklepie i promocji 
+tester/main.py - urochamia automatyczne testowanie funkcjonalności 
 
 Autorzy 
 Jakub Barwa 198360
