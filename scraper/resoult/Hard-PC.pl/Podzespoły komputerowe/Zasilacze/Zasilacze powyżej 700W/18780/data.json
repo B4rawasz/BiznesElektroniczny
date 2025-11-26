@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "18780",
+  "code": "R-PL750D-FC0B-EU-V2",
+  "name": "Zasilacz DeepCool PL750D 750W PCIE5 80Plus Bronze",
+  "price": 255.9,
+  "description": "<h2>Zaawansowany standard ATX 3.1 – gotowość na każdą sytuację</h2><p>DeepCool PL750D to zasilacz oparty na najnowszym standardzie ATX 3.1 firmy Intel, który gwarantuje niezrównaną wydajność i stabilność. Dzięki zdolności do zapewnienia dwukrotności całkowitej mocy systemu w ciągu zaledwie 0,1 ms, urządzenie eliminuje ryzyko problemów związanych ze skokami napięcia. Dodatkowo, natywne złącze PCIe 5.1 o mocy 450 W umożliwia obsługę najnowszych komponentów o wysokim zapotrzebowaniu na energię.</p><h2>Wysokiej jakości kondensatory – pewność działania w każdej chwili</h2><p>PL750D wykorzystuje kondensatory elektrolityczne najwyższej jakości, które pozwalają na utrzymanie czasu podtrzymania zasilania na poziomie ≥16 ms przy pełnym obciążeniu. Dzięki temu zasilacz bez trudu radzi sobie ze spadkami napięcia, zapewniając ciągłość pracy Twojego systemu.</p><h2>Solidna konstrukcja – niezawodność w każdych warunkach</h2><p>Zaawansowana topologia z podwójnymi tranzystorami, aktywne PFC i konwersja DC na DC to cechy, które gwarantują stabilne i efektywne zasilanie. Wysokiej jakości komponenty pozwalają na działanie urządzenia nawet na wysokości 5000 metrów nad poziomem morza.</p><h2>Wszechstronna kompatybilność – dla komputerów starszych i nowych generacji</h2><p>Zasilacz wyposażono w trzy złącza PCIe, dwa EPS oraz kabel 16AWG 12V-2x6. Dzięki temu PL750D bez trudu zasila zarówno starsze systemy, jak i nowoczesne konfiguracje gamingowe oraz stacje robocze.</p><h2>Certyfikat 80 PLUS Bronze – efektywność, która robi różnicę</h2><p>Certyfikat 80 PLUS Bronze zapewnia sprawność na poziomie co najmniej 85% przy typowym obciążeniu. To nie tylko mniejsze straty energii, ale także niższe rachunki za prąd.</p><h2>Gwarancja na lata – spokój użytkowania</h2><p>DeepCool oferuje aż 5-letnią ograniczoną gwarancję na zasilacz PL750D, co świadczy o wysokich standardach jakości produktu. Warto jednak pamiętać, że urządzenie nie jest przeznaczone do zastosowań nietypowych, takich jak wydobycie kryptowalut – w takich przypadkach gwarancja może zostać odrzucona.</p><p>Zasilacz DeepCool PL750D to idealny wybór dla wymagających użytkowników, którzy oczekują wydajności, stabilności i bezpieczeństwa w jednym. Postaw na rozwiązanie, które sprosta każdemu wyzwaniu!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>ATX12V V3.1</p></li><li><p>Wymiary produktu</p><p>150×140×86mm (W x L x H)</p></li><li><p>Certyfikat wydajności</p><p>80Plus Bronze</p></li><li><p>Rozmiar wentylatora</p><p>120mm</p></li><li><p>Łożysko wentylatora</p><p>HYB(Łożysko hydrauliczne)</p></li><li><p>Topologia</p><p>Aktywne PFC+DC to DC</p></li><li><p>Sygnał prawidłowego zasilania</p><p>100-150ms</p></li><li><p>Czas podtrzymania</p><p>≥16ms</p></li><li><p>Sprawność</p><p>≥85% Pod typowym obciążeniem (50% Obciążenie)</p></li><li><p>Ochrona</p><p>OPP/OVP/SCP/OTP/OCP/UVP/SIP/NLO</p></li><li><p>Temperatura prac</p><p>0 - 40℃</p></li><li><p>Złącza</p><p>ATX 24pin: 1<br/>EPS 12V 8pin: 2<br/>PCI-E 6+2pin: 3<br/>PCIE 12VHPWR: 1<br/>SATA: 8<br/>Molex 4pin: 2</p></li><li><p>Charakterystyka prądowa</p><p>+3.3V: 20A<br/>+5V: 20A<br/>+12V: 62.5A<br/>-12V: 0.3A<br/>+5VSB: 3A</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69236.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69237.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69238.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69239.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69240.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69241.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69242.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69243.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_73077.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69236.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69237.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69238.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69239.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69240.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69241.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69242.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_69243.webp",
+    "galerie/z/zasilacz-deepcool-pl750d-750w_73077.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

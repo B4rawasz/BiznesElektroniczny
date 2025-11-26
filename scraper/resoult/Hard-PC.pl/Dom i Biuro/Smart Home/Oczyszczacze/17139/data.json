@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Oczyszczacze"
+  ],
+  "id": "17139",
+  "code": "TSL-AC-JS01W",
+  "name": "Tesla Smart Aromatyzer",
+  "price": 249.0,
+  "description": "<h2>Bezpieczeństwo na pierwszym miejscu</h2><p>Aromatyzer wykonany jest z nieszkodliwego materiału, dzięki czemu nie wpływa negatywnie na zdrowie. Ponadto jednym z elementów jego ustawień jest automatyczne wyłączenie w sytuacji, gdyby w zbiorniku zabrakło wody. Wszystko po to, aby zapewnić bezpieczeństwo Tobie i Twojej rodzinie.</p><h2>Połączenie WiFi</h2><p>Urządzenie wyposażone zostało również w odbiornik Wi-Fi. Dzięki temu możesz sterować swoim aromatyzerem z dowolnego miejsca za pomocą aplikacji TESLA Smart. Jest również kompatybilny z osobistymi asystentami Google Assistant i Amazon Alexa, które m.in. obsługują sterowanie głosowe.</p><h2>Długie działanie</h2><p>Możesz wybrać, czy aromatyzer ma pracować nieprzerwanie – w tym przypadku do 5 godzin lub z przerwami. W takim przypadku urządzenie może pracować do 10 godzin. Decyzja należy do Ciebie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>12 szt</p></li><li><p>Wysokość:</p><p>14.3 cm</p></li><li><p>Szerokość:</p><p>15 cm</p></li><li><p>Głębokość:</p><p>15 cm</p></li><li><p>Waga:</p><p>0.53 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-aromatyzer_63602.webp",
+    "galerie/t/tesla-smart-aromatyzer_63603.webp",
+    "galerie/t/tesla-smart-aromatyzer_63604.webp",
+    "galerie/t/tesla-smart-aromatyzer_63605.webp",
+    "galerie/t/tesla-smart-aromatyzer_63606.webp",
+    "galerie/t/tesla-smart-aromatyzer_63607.webp",
+    "galerie/t/tesla-smart-aromatyzer_63602.webp",
+    "galerie/t/tesla-smart-aromatyzer_63603.webp",
+    "galerie/t/tesla-smart-aromatyzer_63604.webp",
+    "galerie/t/tesla-smart-aromatyzer_63605.webp",
+    "galerie/t/tesla-smart-aromatyzer_63606.webp",
+    "galerie/t/tesla-smart-aromatyzer_63607.webp"
+  ],
+  "manufacturer": "Tesla"
+}

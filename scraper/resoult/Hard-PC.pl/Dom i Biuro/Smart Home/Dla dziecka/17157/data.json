@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Dla dziecka"
+  ],
+  "id": "17157",
+  "code": "TSL-CAM-B250",
+  "name": "Tesla Smart Elektroniczna niania B250 TUYA",
+  "price": 299.0,
+  "description": "<h2>Inteligentna kamera, za pomocą której możesz monitorować malucha</h2><p>Małe dzieci są pełne energii, dlatego ważne jest, aby mieć je na oku zarówno w dzień, jak i w nocy. To właśnie robi dla Ciebie inteligentna kamera Tesla Smart Camera Baby B200. Posiada funkcję obrotu i pochylenia, która umożliwia obracanie aparatu o 355 stopni w poziomie i 85 stopni w pionie. W ten sposób możesz monitorować swoje dzieci bez względu na to, co robią, ze wszystkich stron.</p><h2>Wygoda, niezależnie od tego, czy dziecko bawi się, czy śpi</h2><p>Czujniki stale monitorują temperaturę i wilgotność w pomieszczeniu. Można więc ustawić powiadomienie o przekroczeniu ustawionych wartości. Jeśli twój dom jest wyposażony w termoregulatory i inne czujniki Tesla, możesz z łatwością zdalnie regulować temperaturę i wilgotność powietrza. Uważasz, że w Twoim domu jest za gorąco? W ciągu zaledwie kilku sekund możesz dostosować żądaną temperaturę. Twój maluch jest niespokojny w nocy i nie może zasnąć? Włącz kołysankę.</p><h2>Lampka nocna</h2><p>Twoje dzieci boją się ciemności? Stwórz dla nich spokojną atmosferę dzięki lampce nocnej.</p><h2>Najlepsze ustawienia zapewniające idealny widok</h2><p>Matryca CMOS 1/2,9\" o rozdzielczości 2 megapikseli i zmienna liczba klatek na sekundę zapewnia obraz wystarczająco wyraźny, aby dostrzec nawet najdrobniejsze szczegóły. Nagrania można bezpiecznie przechowywać na karcie MicroSD, a także w chmurze. Inteligentna kamera obsługuje Wi-Fi 2.4 GHz.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>8 cm</p></li><li><p>Szerokość:</p><p>14 cm</p></li><li><p>Głębokość:</p><p>8.4 cm</p></li><li><p>Waga:</p><p>0.227 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-elektroniczna-nia_63505.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63506.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63507.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63508.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63509.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63505.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63506.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63507.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63508.webp",
+    "galerie/t/tesla-smart-elektroniczna-nia_63509.webp"
+  ],
+  "manufacturer": "Tesla"
+}

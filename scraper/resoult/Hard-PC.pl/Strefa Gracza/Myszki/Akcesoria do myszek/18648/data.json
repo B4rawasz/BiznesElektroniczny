@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Akcesoria do myszek"
+  ],
+  "id": "18648",
+  "code": "HS-WR-WD8K-MB",
+  "name": "Adapter Odbiornik HITSCAN 8K 8000Hz USB Receiver",
+  "price": 129.0,
+  "description": "<p>Hitscan 8K Dongle to adapter do myszki bezprzewodowej HITSCAN, który umożliwia korzystanie z częstotliwości odświeżania 8000 Hz. To osiem razy szybciej niż standardowe 1000 Hz, co przekłada się na skrócenie czasu reakcji z 1 ms do zaledwie 0,125 ms. Dzięki temu każde przesunięcie myszy staje się płynniejsze i bardziej responsywne, gwarantując niezrównaną precyzję oraz komfort użytkowania – idealne rozwiązanie dla graczy i profesjonalistów, którzy wymagają najwyższej wydajności.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>40.5×40.5×7.5mm</p></li><li><p>Waga</p><p>10g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>HITSCAN</p></li><li><p>Dane producenta</p><p>Hitscan LLC, 5900 Balcones Drive STE 100, Texas, 78731, USA</p></li><li><p>Podmiot odpowiedzialny</p><p>MAXFPS Aktiebolag, Johanneslundsvägen 12, Upplands Väsby, Stockholm, 19461, Sweden, supply@maxfps.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/hitscan.jpg",
+  "images": [
+    "galerie/a/adapter-odbiornik-hitscan-8k_68595.webp",
+    "galerie/a/adapter-odbiornik-hitscan-8k_68596.webp",
+    "galerie/a/adapter-odbiornik-hitscan-8k_68597.webp",
+    "galerie/a/adapter-odbiornik-hitscan-8k_68598.webp",
+    "galerie/a/adapter-odbiornik-hitscan-8k_68595.webp",
+    "galerie/a/adapter-odbiornik-hitscan-8k_68596.webp",
+    "galerie/a/adapter-odbiornik-hitscan-8k_68597.webp",
+    "galerie/a/adapter-odbiornik-hitscan-8k_68598.webp"
+  ],
+  "manufacturer": "HITSCAN"
+}

@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki nauszne/wokółuszne"
+  ],
+  "id": "12837",
+  "code": "1000207",
+  "name": "Słuchawki Epos Sennheiser ADAPT 560 Bluetooth",
+  "price": 1269.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>SERIA PRODUKTU</p><p>ADAPT 500</p></li><li><p>RODZAJ SŁUCHAWKI</p><p>BEZPRZEWODOWA</p></li><li><p>STYL NOSZENIA</p><p>NA DWOJE USZU</p></li><li><p>INTERFEJS</p><p>BLUETOOTH + USB</p></li><li><p>CERTYFIKATY / PRZEZNACZENIE</p><p>MICROSOFT TEAMS</p></li><li><p>TECHNOLOGIA</p><p>BLUETOOTH + ANC - 4 MIKROFONY</p></li><li><p>ZASIĘG</p><p>DO 25 METRÓW ( ZALEŻNE OD URZĄDZENIA )</p></li><li><p>TYP MIKROFONU</p><p>2 MIKROFONY MEMS</p></li><li><p>PASMO PRZENOSZENIA MIKROFONU</p><p>100 - 10.000 HZ</p></li><li><p>PASMO PRZENOSZENIA SŁUCHAWEK</p><p>20 - 20.000 HZ</p></li><li><p>WAGA SŁUCHAWKI</p><p>229 gram</p></li><li><p>PODUSZKA NA SŁUCHAWKĘ</p><p>SKÓRA EKOLOGICZNA</p></li><li><p>CZAS PRACY AKUMULATORA</p><p>AUDIO DO 46 GODZIN, ROZMOWA DO 41 GODZIN</p></li><li><p>CZAS CZUWANIA</p><p>DO 81 DNI</p></li><li><p>CZAS ŁADOWANIA</p><p>3 GODZINY 40 minut</p></li><li><p>ZESTAW ZAWIERA</p><p>BTD 800, KABEL USB-USB-C, POKROWIEC</p></li><li> </li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>EPOS</p></li><li><p>Dane producenta</p><p>EPOS Group A/S, Industriparken 27, Ballerup 2750, Dania, privacy@demant.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/epos.jpg",
+  "images": [
+    "galerie/s/sluchawki-epos-sennheiser-ada_46235.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46236.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46237.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46238.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46239.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46235.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46236.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46237.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46238.webp",
+    "galerie/s/sluchawki-epos-sennheiser-ada_46239.webp"
+  ],
+  "manufacturer": "EPOS"
+}

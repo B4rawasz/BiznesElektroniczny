@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "20596",
+  "code": "GELI-961",
+  "name": "Obudowa Lian Li O11 Vision Compact Tempered Glass Black",
+  "price": 539.0,
+  "description": "<h2>Lian Li O11 Vision Compact – kompaktowa ekspozycja dla entuzjastów</h2><p>O11 Vision Compact to propozycja dla tych, którzy chcą wyeksponować swoje gamingowe wnętrze w możliwie najbardziej efektowny sposób. Obudowa łączy trzy tafle hartowanego szkła z pomysłową, dwukomorową konstrukcją i dużą elastycznością w zakresie chłodzenia. Pomimo mniejszych rozmiarów niż klasyczny O11 Vision, zmieści potężne komponenty – w tym karty graficzne do 408 mm długości, chłodzenia AiO 360 mm i płyty główne w formacie aż do E-ATX. W zestawie otrzymujesz dwa wymienne panele górne: pełne szkło dla maksymalnej ekspozycji oraz wersję Mesh z dodatkowymi slotami na wentylatory i chłodnice.</p><h2>Tryb Mesh lub Vision – wybór należy do Ciebie</h2><p>W trybie Vision obudowa prezentuje się jak akwarium – trzy szklane panele i pełna widoczność podzespołów. Tryb Mesh dodaje wentylację z góry i zwiększa możliwości chłodzenia nawet do 11 wentylatorów 120 mm i trzech chłodnic 360 mm. Sprytnie zaprojektowany przepust dla węży AiO i pełne wsparcie dla płyt z systemem Back-Connect (ASUS BTF, MSI Project Zero) gwarantują nie tylko porządek, ale też nowoczesny wygląd.</p><h2>Wydajność, przestrzeń i estetyka</h2><p>W obudowie zmieścisz niemal wszystko – od masywnych kart graficznych po chłodzenia CPU o wysokości do 167 mm. Dwa osobne miejsca na dyski 3.5”/2.5” oraz dwa sloty na SSD zapewniają wystarczającą przestrzeń na magazyn danych. Nowoczesny panel I/O zawiera dwa szybkie porty USB 3.0, port USB-C i combo jack 3.5 mm. Lian Li O11 Vision Compact to idealna obudowa do nowoczesnego i potężnego zestawu PC, który robi wrażenie nie tylko w benchmarkach, ale i wizualnie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>Stal SPCC, aluminium, szkło hartowane</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Typ obudowy</p><p>Midi Tower</p></li><li><p>Obsługiwane formaty płyt</p><p>E-ATX (do 280 mm), ATX, Micro ATX, Mini ITX</p></li><li><p>Maks. wysokość chłodzenia CPU</p><p>167 mm</p></li><li><p>Maks. długość GPU</p><p>408 mm</p></li><li><p>Maks. długość zasilacza</p><p>220 mm</p></li><li><p>Miejsca na wentylatory 120 mm</p><p>11</p></li><li><p>Miejsca na wentylatory 140 mm</p><p>2</p></li><li><p>Obsługa chłodnic</p><p>3x 360 mm / 1x 280 mm</p></li><li><p>Filtr przeciwkurzowy</p><p>Tak – dolny</p></li><li><p>Sloty rozszerzeń</p><p>7</p></li><li><p>Zatoki 2.5 cala</p><p>2</p></li><li><p>Zatoki 3.5 / 2.5 cala</p><p>2 (uniwersalne)</p></li><li><p>Zasilacz</p><p>ATX (brak w zestawie)</p></li><li><p>Panel I/O</p><p>1x USB-C 3.1, 2x USB-A 3.0, 1x jack combo 3.5 mm (audio/mic)</p></li><li><p>BackConnect</p><p>Tak – ASUS BTF, MSI Project Zero</p></li><li><p>Wymiary</p><p>287.5 × 446.4 × 447.5 mm (szer. × wys. × gł.)</p></li><li><p>Waga</p><p>11.35 kg</p></li><li><p>Oświetlenie</p><p>Brak</p></li><li><p>Okno boczne</p><p>Tak – szkło hartowane</p></li><li><p>Zarządzanie kablami</p><p>Tak</p></li><li><p>Tłumienie hałasu</p><p>Nie</p></li><li><p>Uchwyt do przenoszenia</p><p>Nie</p></li><li><p>Pilot w zestawie</p><p>Nie</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/o/obudowa-lian-li-o11-vision-te_77399.webp",
+    "galerie/o/obudowa-lian-li-o11-vision-te_77398.webp",
+    "galerie/o/obudowa-lian-li-o11-vision-te_77397.webp",
+    "galerie/o/obudowa-lian-li-o11-vision-te_77399.webp",
+    "galerie/o/obudowa-lian-li-o11-vision-te_77398.webp",
+    "galerie/o/obudowa-lian-li-o11-vision-te_77397.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "20860",
+  "code": "K8M-J3",
+  "name": "Klawiatura Keychron K8 Max QMK RGB Wireless Super Brown",
+  "price": 549.0,
+  "description": "<h2>Keychron K8 Max – bezkompromisowa klawiatura mechaniczna</h2><p>Keychron K8 Max to zaawansowana klawiatura mechaniczna stworzona z myślą o graczach, programistach i entuzjastach pisania. Wyróżnia się wielowarstwową konstrukcją akustyczną z pianek IXPE, PET i EPDM, które zapewniają wyjątkowo przyjemny, głęboki dźwięk oraz stabilność podczas użytkowania. Dzięki wsparciu dla QMK i aplikacji Keychron Launcher możesz w pełni dostosować układ klawiszy, makra oraz skróty do swoich potrzeb.</p><figure><img alt=\"\" height=\"3037\" src=\"galerie/k/klawiatura-keychron-k8-max-qm_78469.webp\" width=\"5399\"/></figure><h2>Pełna swoboda łączności</h2><p>K8 Max oferuje trzy tryby pracy: przewodowy przez USB-C, bezprzewodowy 2,4 GHz z częstotliwością odświeżania 1000 Hz oraz Bluetooth 5.1 z możliwością sparowania do trzech urządzeń jednocześnie. Niezależnie od tego, czy grasz, czy pracujesz na komputerze, tablecie lub smartfonie – klawiatura zapewnia płynną, responsywną i stabilną łączność.</p><figure><img alt=\"\" height=\"1080\" src=\"galerie/k/klawiatura-keychron-k8-max-qm_78464.jpg\" width=\"1920\"/></figure><h2>Najwyższa jakość pisania</h2><p>Za wyjątkowe wrażenia odpowiadają autorskie przełączniki Keychron Super, gwarantujące do 50 milionów kliknięć i doskonałe podświetlenie RGB. Stabilizatory wkręcane w PCB eliminują chybotanie większych klawiszy, a profil OSA Double-shot PBT sprawia, że klawisze są odporne na ścieranie i oleje. Dodatkowo trzy poziomy regulacji kąta nachylenia i zakrzywione keycapy zapewniają ergonomię nawet przy wielogodzinnych sesjach.</p><figure><img alt=\"\" height=\"975\" src=\"galerie/k/klawiatura-keychron-k8-max-qm_78471.webp\" width=\"3290\"/></figure><h2>Personalizacja bez granic</h2><p>K8 Max dostępna jest również w wersji hot-swap, co pozwala na szybką wymianę przełączników bez lutowania. Dzięki temu możesz łatwo eksperymentować z różnymi switchami mechanicznymi MX (Cherry, Gateron, Kailh, Panda i inne), aby stworzyć idealne warunki do pisania lub grania.</p><figure><img alt=\"\" height=\"1080\" src=\"galerie/k/klawiatura-keychron-k8-max-qm_78462.webp\" width=\"1920\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba klawiszy</p><p>87 (80%)</p></li><li><p>Switche</p><p>Keychron Super mechaniczne (hot-swap opcjonalnie)</p></li><li><p>Układ switchy</p><p>Skierowany na południe</p></li><li><p>Klawisze multimedialne</p><p>12</p></li><li><p>Materiał ramy</p><p>ABS / ABS + rama aluminiowa</p></li><li><p>Materiał keycapów</p><p>Double-shot PBT</p></li><li><p>Profil keycapów</p><p>OSA (OEM z kątem sferycznym)</p></li><li><p>Układ</p><p>ANSI</p></li><li><p>Częstotliwość odświeżania</p><p>1000 Hz (2,4 GHz i przewodowo), 90 Hz (Bluetooth)</p></li><li><p>N-Key Rollover (NKRO)</p><p>Tak, w trybie przewodowym i bezprzewodowym</p></li><li><p>Podświetlenie</p><p>RGB skierowane na południe, 22 tryby</p></li><li><p>Bateria</p><p>4000 mAh (Li-Po)</p></li><li><p>Czas pracy (bez podświetlenia)</p><p>ok. 190 h</p></li><li><p>Czas pracy (RGB)</p><p>ok. 100 h (najniższa jasność)</p></li><li><p>Łączność</p><p>2,4 GHz / Bluetooth 5.1 / przewodowe USB-C</p></li><li><p>Nazwa BT</p><p>Keychron K8 Max</p></li><li><p>Systemy</p><p>macOS / Windows / Linux</p></li><li><p>Wymiary (plastik)</p><p>354,21 × 124,18 mm</p></li><li><p>Wymiary (aluminium)</p><p>359,20 × 129,20 mm</p></li><li><p>Waga</p><p>1158 g (plastik) / 1308 g (aluminium)</p></li><li><p>Wysokość z keycapem (przód)</p><p>35,32 mm</p></li><li><p>Wysokość z keycapem (tył)</p><p>43,09 mm</p></li><li><p>Kąty pisania</p><p>3,4º / 7,7º / 10,7º</p></li><li><p>MCU</p><p>ARM Cortex-M4 32-bit STM32F402 (256KB Flash)</p></li><li><p>Środowisko pracy</p><p>-10 do 50 ℃</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Keychron</p></li><li><p>Dane producenta</p><p>Keychron Technology, Inc., Middletown, New Castle, Delaware, 19709 Middletown, USA, support@keychron.com</p></li><li><p>Podmiot odpowiedzialny</p><p>APEX CE SPECIALISTS LIMITED, UNIT 3D NORTH POINT HOUSE, NORTH POINT BUSINESS PARK, NEW MALLOW ROALD, Cork, IE, T23AT2P, support@keychron.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/keychron.jpg",
+  "images": [
+    "galerie/k/klawiatura-keychron-k8-max-qm_78473.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78465.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78466.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78467.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78468.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78461.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78462.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78463.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78464.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78469.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78471.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78472.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78473.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78465.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78466.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78467.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78468.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78461.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78462.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78463.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78464.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78469.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78471.webp",
+    "galerie/k/klawiatura-keychron-k8-max-qm_78472.webp"
+  ],
+  "manufacturer": "Keychron"
+}

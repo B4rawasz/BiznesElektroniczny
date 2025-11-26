@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20591",
+  "code": "WASE-943",
+  "name": "Chłodzenie wodne AiO Lian Li HYDROSHIFT II LCD-C 360TL ARGB White",
+  "price": 1028.9,
+  "description": "<h2>Lian Li HYDROSHIFT II LCD-C 360TL White – AiO klasy premium z LCD i wentylatorami UNI FAN TL Wireless</h2><p>Lian Li HYDROSHIFT II LCD-C 360TL w wersji <b>białej</b> to połączenie maksymalnej wydajności chłodzenia z eleganckim designem. Wyposażone w trzy <b>wentylatory UNI FAN TL Wireless</b>, chłodzenie zapewnia wyjątkową kulturę pracy przy jednoczesnym utrzymaniu bardzo wysokiej efektywności. Centralnym elementem jest okrągły <b>2,1-calowy wyświetlacz LCD IPS</b>, który prezentuje dane systemowe, GIF-y czy filmy MP4.</p><h2>Radiator 360 mm – ultracienki i kompatybilny</h2><p>Radiator wykonany z aluminium ma długość 360 mm i zaledwie 22 mm grubości, co gwarantuje szeroką kompatybilność z obudowami. W połączeniu z wysokociśnieniowymi wentylatorami TL Wireless zapewnia skuteczne chłodzenie nawet dla topowych procesorów AMD i Intel.</p><h2>Nowoczesny ekran LCD</h2><p>Wyświetlacz LCD IPS oferuje żywe kolory i płynne animacje. Obsługuje filmy MP4, animacje GIF, grafiki oraz dane z czujników systemowych. Sterowanie możliwe jest na trzy sposoby: offline poprzez obrotowy pierścień, przewodowo przez USB z <b>L-Connect 3</b> lub całkowicie bezprzewodowo z <b>L-Wireless Controller</b>.</p><h2>Wentylatory UNI FAN TL Wireless</h2><p>W zestawie znajdują się trzy białe wentylatory TL Wireless. Łączą wysoką wydajność z niskim poziomem hałasu, a bezprzewodowa komunikacja znacząco ułatwia zarządzanie kablami. To idealny wybór dla osób ceniących porządek i estetykę wewnątrz komputera.</p><h2>Stabilna i elegancka konstrukcja</h2><p>Wysokiej jakości przewody serwerowej klasy oraz wzmocniony system montażowy gwarantują długą żywotność i stabilność. AiO zostało zaprojektowane z myślą o wymagających użytkownikach, którzy chcą połączyć wydajność z minimalistycznym wyglądem.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Seria</p><p>HydroShift II</p></li><li><p>Model</p><p>HYDROSHIFT II LCD-C 360TL White</p></li><li><p>Typ chłodzenia</p><p>AiO wodne chłodzenie procesora</p></li><li><p>Kompatybilne gniazda CPU</p><p>Intel 1700, 1851; AMD AM4, AM5</p></li><li><p>Wyświetlacz</p><p>IPS LCD 2,1 cala (obsługa MP4, GIF, grafik, sensorów systemowych)</p></li><li><p>Radiator</p><p>360 mm (400 × 122 × 22 mm)</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Blok wodny</p><p>Miedź</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Wentylatory</p><p>3× UNI FAN TL Wireless 120 mm (biała ramka, biały rotor)</p></li><li><p>Maksymalna głośność pompy</p><p>28 dB(A)</p></li><li><p>Maksymalna głośność wentylatora</p><p>33 dB(A)</p></li><li><p>Oświetlenie</p><p>RGB (adresowalne)</p></li><li><p>Kolor główny</p><p>Biały</p></li><li><p>Kolor ramki wentylatora</p><p>Biały</p></li><li><p>Kolor łopatek wentylatora</p><p>Biały</p></li><li><p>Kolor radiatora</p><p>Biały</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78516.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78517.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78518.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78516.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78517.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78518.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

@@ -1,0 +1,29 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "10605",
+  "code": "M48P",
+  "name": "Zasilacz Phantom 48V do mikrofonów XLR",
+  "price": 68.9,
+  "description": "<p><strong>Zasilacz Phantom +48V</strong> to rozwiązanie proste ale bardzo skuteczne. Wystarczy podpiąć mikrofon za pomocą XLR do zasilacza a drugim przewodem audio do karty dźwiekowej i to tyle. Zasilacz Phantom M48 to idealne rozwiązanie dla mikrofonów pojemnościowych którym brakuje mocy.</p><p>Dzięki wbudowanemu zasilaczowi USB 5V nie potrzebujesz zewnętrznych urządzeń sieciowych by uruchomić M48P. Zaletą jest nie tylko jego kompaktowość ale również o wiele mniejsza wrażliwość na zakłócenia niż w przypadku tradycyjnej wersji z zasilaczem. Urządzenie wyposażone jest również w włącznik/wyłącznik który zalecamy używać przy bezczynności zasilacza oraz wskaźnik LED który ułatwi ci orientację w stanie aktywności urządzenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Zasilanie: USB DC-5V</li><li>Prąd wejściowy:&gt; 200mA</li><li>Prąd roboczy: &lt;100mA</li><li>Napięcie wyjściowe: dc-48v</li><li>Moc pobierana: &lt;= 1W</li><li>Zniekształcenia: &lt;1 uV</li><li>Port wejściowy: Standardowe zbalansowane wejście XLR</li><li>Port wyjściowy: Standardowe zbalansowane wyjście XLR</li><li>Gwarancja: 12 miesięcy</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33862.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33863.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33864.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33865.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33866.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33867.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33862.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33863.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33864.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33865.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33866.webp",
+    "galerie/z/zasilacz-phantom-48v-do-mikro_33867.webp"
+  ],
+  "manufacturer": "MOZOS"
+}

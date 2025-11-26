@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "18949",
+  "code": "ZUWA-310",
+  "name": "Folia izolacyjna Thermal Grizzly Kapton Insulation Sheet 10x60 mm",
+  "price": 17.9,
+  "description": "<p>Kapton Insulation Sheet to poliamidowa folia, która może być używana w ekstremalnych temperaturach sięgających aż 280°C. Idealnie sprawdza się jako pomoc montażowa dla elektrycznie przewodzących materiałów termoprzewodzących (TIM), takich jak Conductonaut, Carbonaut czy KryoSheet.</p><h2>Doskonała Ochrona Komponentów</h2><p>Folia Kapton jest idealna do zabezpieczania elementów takich jak SMD na CPU lub GPU. Dzięki niej możesz mieć pewność, że Twoje komponenty są chronione podczas używania płynnego metalu lub innych materiałów termoprzewodzących.</p><p>Łatwa Aplikacja Kapton Insulation Sheet jest dostarczany w zestawach zawierających 10 folii, z których każda zawiera 5 pasków klejących Kapton. Każdy pasek ma szerokość 10 mm, długość 60 mm i grubość 40µm. Przed aplikacją zaleca się dokładne oczyszczenie powierzchni kontaktowej, na przykład za pomocą izopropanolu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Odporność na Wysokie Temperatury: Bezpieczne używanie w temperaturach do 280°C.</li><li>Ochrona Komponentów: Skutecznie zabezpiecza SMD na CPU i GPU.</li><li>Łatwość Aplikacji: Prosta aplikacja dzięki gotowym paskom klejącym.</li><!-- KONIEC ATRYBUTÓW --></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Materiał</p><p>Thermal Interface Material (TIM)</p></li><li><p>Kolor</p><p>Żółty</p></li><li><p>Kompatybilność</p><p>SMD na CPU lub GPU</p></li><li><p>Długość</p><p>60 mm</p></li><li><p>Szerokość</p><p>10 mm</p></li><!-- KONIEC ATRYBUTÓW --></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/f/folia-izolacyjna-thermal-griz_69839.webp",
+    "galerie/f/folia-izolacyjna-thermal-griz_69840.webp",
+    "galerie/f/folia-izolacyjna-thermal-griz_69841.webp",
+    "galerie/f/folia-izolacyjna-thermal-griz_69842.webp",
+    "galerie/f/folia-izolacyjna-thermal-griz_69839.webp",
+    "galerie/f/folia-izolacyjna-thermal-griz_69840.webp",
+    "galerie/f/folia-izolacyjna-thermal-griz_69841.webp",
+    "galerie/f/folia-izolacyjna-thermal-griz_69842.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

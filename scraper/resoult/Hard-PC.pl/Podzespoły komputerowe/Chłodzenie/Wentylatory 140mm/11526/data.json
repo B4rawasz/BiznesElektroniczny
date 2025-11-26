@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 140mm"
+  ],
+  "id": "11526",
+  "code": "LUPH-051",
+  "name": "Wentylator Phanteks SK PH-F120SK 120mm PWM Black",
+  "price": 35.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><!-- OPIS --><h2>Dane techniczne:</h2><ul class=\"attribs\"><li>Wymiary: 120 x 120 x 25 mm (W x H x D)</li><li>Materiał: Plastik, guma</li><li>Kolor: Czarny (ramka, łopatki)</li><li>Głośność: 27 dB (A)</li><li>Prędkość obrotowa: 500 - 1500 rpm (-10 / + 5%)</li><li>Przepływ powietrza: 84.95 m³ / h</li><li>Cisnienie statyczne: 0.96 mm H2O</li><li>Zakres pracy: 4 - 13 V</li><li>Zużycie energii: max. 2.64 W.</li><li>Wtyczka: 4-pin PWM</li><li>Długość przewodu: 550 mm</li><li>MTBF: 40,000 godzin</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38947.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38948.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38949.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38950.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38951.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38952.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38947.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38948.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38949.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38950.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38951.webp",
+    "galerie/w/wentylator-phanteks-sk-ph-f12_38952.webp"
+  ],
+  "manufacturer": "Phanteks"
+}

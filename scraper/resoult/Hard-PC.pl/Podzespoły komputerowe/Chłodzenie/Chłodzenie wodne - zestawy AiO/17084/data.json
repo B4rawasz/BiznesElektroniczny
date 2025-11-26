@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "17084",
+  "code": "ACFRE00137A",
+  "name": "Chłodzenie wodne AiO Arctic Liquid Freezer III 420 Black",
+  "price": 389.0,
+  "description": "<p>Idealne rozwiązanie dla wymagających użytkowników, zapewniające doskonałą wydajność i cichą pracę. Z nowym, zoptymalizowanym wentylatorem sekcji zasilania procesora oraz większą liczbą kanałów wodnych, Liquid Freezer III gwarantuje stabilne temperatury nawet podczas intensywnego użytkowania.</p><p>Doskonałe chłodzenie dla entuzjastów komputerowych, charakteryzujące się prostotą instalacji i wysoką efektywnością. Ulepszony wentylator VRM zapewnia niemal bezgłośną wentylację, co wydłuża żywotność komponentów.</p><p>Zestaw AiO gotowy do użycia od razu po wyjęciu z opakowania. Liquid Freezer III oferuje szeroką gamę wariantów, w tym różne rozmiary radiatorów i opcje oświetlenia, dostosowane do potrzeb nawet najbardziej wymagających użytkowników.</p><p>Nowoczesny design i wydajność idą w parze. Liquid Freezer III to idealne rozwiązanie dla tych, którzy cenią sobie estetykę i funkcjonalność.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba wentylatorów</p><p>3 szt</p></li><li><p>Wymiary wentylatora</p><p>140 mm</p></li><li><p>Regulacja obrotów</p><p>Regulacja PWM</p></li><li><p>Minimalne obroty wentylatora</p><p>200 obr/min</p></li><li><p>Maksymalne obroty wentylatora</p><p>1700 obr/min</p></li><li><p>Materiał radiatora</p><p>Aluminium</p></li><li><p>Wymiary z wentylatorami</p><p>458 x 138 x 65,5 mm</p></li><li><p>Wymiary radiatora</p><p>458 x 138 x 38 mm</p></li><li><p>Zewnętrzna średnica węży</p><p>12,4 mm</p></li><li><p>Wewnętrzna średnica węży</p><p>6 mm</p></li><li><p>Długość węży</p><p>450 mm</p></li><li><p>Prędkość pracy pompki</p><p>800 - 2800 rpm</p></li><li><p>Podstawa chłodzeń</p><p>Miedź</p></li><li><p>Wentylatory</p><p>Arctic P14 PWM</p></li><li><p>Przepływ powietrza</p><p>123,76 m3/h</p></li><li><p>Ciśnienie statyczne</p><p>2,40 mmH2O</p></li><li><p>Łożysko</p><p>Fluid Dynamic Bearing</p></li><li><p>Dołączona pasta</p><p>MX-6 0.8g</p></li><li><p>Kompatybilność Intel</p><p>LGA1700</p></li><li><p>Kompatybilność AMD</p><p>AM4, AM5</p></li><li><p>Waga</p><p>2235 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/arctic.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60967.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60968.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60969.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60970.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60971.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60972.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60967.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60968.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60969.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60970.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60971.webp",
+    "galerie/c/chlodzenie-wodne-aio-arctic-l_60972.webp"
+  ],
+  "manufacturer": "Arctic"
+}

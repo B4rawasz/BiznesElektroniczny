@@ -1,0 +1,21 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "17533",
+  "code": "6972585500708",
+  "name": "Słuchawki MOONDROP Quarks",
+  "price": 79.0,
+  "description": "<h2>Potężny dynamiczny przetwornik z mikromembraną kompozytową</h2><p>Quarks wykorzystuje miniaturowy przetwornik dynamiczny z membraną zewnętrznego obwodu magnetycznego o średnicy 6 mm oraz zewnętrzny obwód magnetyczny złożony z wysokowydajnych magnesów neodymowych i magnetycznych części przewodzących, które potrafią zapewnić doskonałą dynamikę, mniejsze zniekształcenia nieliniowe i wzmocniony bas. Membrana jest wykonana z wysokowydajnych materiałów polimerowych, zarówno wytrzymałych, jak i łatwo odkształcalnych, i została dostosowywana do specjalnej struktury wnęki, aby uzyskać tak doskonałe parametry zniekształceń liniowych.</p><h2>Niewiarygodna krzywa odpowiedzi amplitudowo-częstotliwościowej</h2><p>Po dwóch latach wielokrotnych testów, Quarks osiągnął doskonałą wydajność przy swojej zamkniętej strukturze. Ma krzywą odpowiedzi częstotliwościowej, która jest bardzo zgodna z HRTF (funkcja przenoszenia związana z głową), zapewniając naturalne i otwarte pole dźwiękowe. Umiarkowane wzmocnienie basów sprawia, że Quarks są bardziej muzykalne, zapewniając pełniejszy dźwięk otoczenia.</p><h2>Opatentowane tłumienie dźwięku zapobiegające blokowaniu</h2><p>Przednia wnęka Quarks jest wyposażona w opatentowany system tłumienia dźwięku przeciwblokujący drugiej generacji, który poprawia trwałość i znacznie zmniejsza możliwość zablokowania przez woskowinę. Po raz pierwszy zastosowaliśmy podwójną strukturę tłumienia, używając dwóch materiałów o zupełnie różnych właściwościach odporności akustycznej do filtrowania średnich i wysokich częstotliwości, zapewniając bardzo gładką ich charakterystykę, znacznie eliminując dzwonienie wysokich tonów, dzięki czemu słuchawki brzmią bardziej naturalne i przyjemne.</p><h2>Wzornictwo przemysłowe</h2><p>Wygląd i konstrukcja są jak sama nazwa, zdradzają staranność wykonania, kompaktowe rozmiary i możliwość noszenia na różne sposoby. Całkowicie przezroczysta obudowa zapewnia wyraźny widok przetwornika i struktury akustycznej. To minimalistyczny, ale i niepowtarzalny wygląd.</p><h2>Doskonała izolacyjność akustyczna</h2><p>Pojedyncze dynamiczne przetworniki IEM, po raz pierwszy przyjmują całkowicie zamkniętą konstrukcję przedniej komory. Potrafi znacznie izolować hałas zewnętrzny, możemy słuchać muzyki przy niższej głośności i zmniejsza niekorzystne skutki słuchania muzyki z dużą głośnością na słuch.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Zakres odpowiedzi częstotliwości:</p><p>4 - 43kHz (IEC61094, pole swobodne)</p></li><li><p>Efektywne pasmo przenoszenia:</p><p>20 - 20kHz (IEC60318-4, -3dB)</p></li><li><p>Czułość:</p><p>116dB / Vrms @1kHz</p></li><li><p>Impedancja:</p><p>16Ω ±15% @1kHz</p></li><li><p>THD:</p><p>&lt;1%@1kHz</p></li><li><p>Przetwornik:</p><p>specjalistyczny wysokowydajny mikrodynamiczny 6 mm</p></li><li><p>Materiał obudowy:</p><p>PC</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOONDROP</p></li><li><p>Dane producenta</p><p>Chengdu shuiyueyu technology Co.,Ltd 13th Floor, Building B, Building 1, Yuetiandi Commercial Building Project, No.159 Haichuan Road, Wenjiang District, Chengdu City, Sichuan Province, China, support@moondroplab.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moondrop.jpg",
+  "images": [
+    "galerie/s/sluchawki-moondrop-quarks_64424.webp",
+    "galerie/s/sluchawki-moondrop-quarks_64423.webp",
+    "galerie/s/sluchawki-moondrop-quarks_64424.webp",
+    "galerie/s/sluchawki-moondrop-quarks_64423.webp"
+  ],
+  "manufacturer": "MOONDROP"
+}

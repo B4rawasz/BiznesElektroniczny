@@ -1,0 +1,29 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "9634",
+  "code": "FI-E2DAL",
+  "name": "Słuchawki Final Audio E2000",
+  "price": 199.0,
+  "description": "<!-- OPIS --><!-- Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład --><p>Nierdzewna, aluminowa, lekka oraz miniaturowa obudowa, energiczne brzmienie dzięki przetwornikowi dynamicznemu. Tak prezentuje się <strong>Final Audio E2000</strong>, które przy niskiej cenie mają bardzo dobrą jakość.</p><p>Cechą szczególną E2000 jest unikatowy mechanizm swing-fitting, które zapewnia odpowiednie dopasowanie się w kanale usznym, a dźwięk jest produkowany bezpośrednio do bębenka, przez co jest czystszy. Idealnie dopasowanie polega na przechylaniu tipsa w prawo bądź w lewo względem kanału.</p><p>Specjalnie zaprojektowany i skonstruowany przetwornik dynamiczny przez Final Audio zapewnia pełne, nasycone brzmienie basowe, nie tracąc przy tym wysokich tonów.</p><p>Prosta a zarazem aluminiowa obudowa, o teksturze wysokiej jakości zapobiega przenoszeniu wibracji bardziej niż obudowa z plastiku. A także prezentuje się dużo ładniej. Z tyłu obudowy mamy bass-refleksy, które zwiększają pasmo basu, ale jednoczesne dodanie filtra przeciwdziała wyciekom dźwięku na zewnątrz.</p><p>Final Audio E2000 posiadają bogate wyposażenie: 5 par tipsów, prowadnice, aby puścić kabel za ucho (over the ear), pokrowiec.</p>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Final Audio</p></li><li><p>Dane producenta</p><p>final Inc., 4-44-1 Nakasaiwaicho, Saiwai-ku, Kawasaki-shi, Kanagawa 212-0012, Japan</p></li><li><p>Podmiot odpowiedzialny</p><p>Fonnex, ul. Kasztanowa 35, 05-830 Nadarzyn, Poland, Email: info@fonnex.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/final-audio.jpg",
+  "images": [
+    "galerie/s/sluchawki-final-audio-e2000_29339.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29340.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29341.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29342.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29343.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29344.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29339.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29340.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29341.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29342.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29343.webp",
+    "galerie/s/sluchawki-final-audio-e2000_29344.webp"
+  ],
+  "manufacturer": "Final Audio"
+}

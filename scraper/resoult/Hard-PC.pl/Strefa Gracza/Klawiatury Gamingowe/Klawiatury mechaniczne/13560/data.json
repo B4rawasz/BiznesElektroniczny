@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "13560",
+  "code": "GATA-1657",
+  "name": "Klawiatura Glorious GMMK Pro Black Slate 75% TKL RGB Prebuild",
+  "price": 1674.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><ul class=\"list-specification\"><li><p>Wymiary</p><p>332 x 32 x 135 mm (W x H x D)</p></li><li><p>Kolor</p><p>Black (Black Slate)</p></li><li><p>Połączenie</p><p>USB-C</p></li><li><p>Czętotliwość próbkowania</p><p>1,000 Hz</p></li><li><p>Przewód</p><p>USB-C - USB-A 1.8m (odpinany, w oplocie nylonowym)</p></li><li><p>Layout</p><p>ANSI</p></li><li><p>Format</p><p>TKL (bez klawiatury numerycznej, 83 klawisze)</p></li><li><p>Stabilizatory</p><p>Glorious FOX (mechaniczne)<br/>Siła nacisku 45g<br/>Typ - liniowe<br/>Konstrukcja - 5-pin hot swap</p></li><li><p>Przełączniki</p><p>Glorious Stabilizer V2</p></li><li><p>Keycapy</p><p>GPBT Keycaps Artic White</p></li><li><p>Kompatybilnośc</p><p>Switche 5-pin</p></li><li><p>Zawartość</p><p>1x Pre-Built GMMK Pro Keyboard<br/>4x Mac Keycaps<br/>1x Novelty ESC Keycap<br/>1x Glorious Keyboard Wrist Rest<br/>1x Glorious Keycap Puller<br/>1x Glorious Switch Puller</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/k/klawiatura-glorious-pc-gaming_48825.webp",
+    "galerie/k/klawiatura-glorious-pc-gaming_48826.webp",
+    "galerie/k/klawiatura-glorious-pc-gaming_48827.webp",
+    "galerie/k/klawiatura-glorious-pc-gaming_48828.webp",
+    "galerie/k/klawiatura-glorious-pc-gaming_48825.webp",
+    "galerie/k/klawiatura-glorious-pc-gaming_48826.webp",
+    "galerie/k/klawiatura-glorious-pc-gaming_48827.webp",
+    "galerie/k/klawiatura-glorious-pc-gaming_48828.webp"
+  ],
+  "manufacturer": "Glorious"
+}

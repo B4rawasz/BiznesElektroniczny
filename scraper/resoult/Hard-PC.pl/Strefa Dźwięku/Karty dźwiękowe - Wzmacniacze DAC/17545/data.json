@@ -1,0 +1,23 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Karty dźwiękowe - Wzmacniacze DAC"
+  ],
+  "id": "17545",
+  "code": "6972585501484",
+  "name": "Wzmacniacz słuchawkowy MOONDROP Dawn Pro USB DAC/AMP",
+  "price": 269.0,
+  "description": "<h2>Dobrze współpracujący z komputerami, smartfonami i laptopami, oferuje zarówno dźwięk bezstratny, jak i master audio.</h2><p>DAWN PRO jest kompatybilny z większością dostępnych komputerów, smartfonów i laptopów i obsługuje dekodowanie PCM od 16Bit/44,1 kHz do 32Bit/384 kHz, nawet dla 1 bitu z DSD512.</p><h2>Flagowe układy dekodujące Dual Cirrus Logic</h2><p>DAWN PRO wykorzystuje podwójne flagowe układy wzmacniacza dekodującego CS43131 firmy Cirrus Logic oraz układ cyfrowego interfejsu USB klasy Hi-Fi, dwa niezależne oscylatory kwarcowe i trzy niezależne układy zasilania do zasilania każdego układu scalonego oddzielnie, tworząc architekturę obwodu audio Hi-Fi o wysokiej wydajności i wysokich osiągach która zapewnia wystarczającą siłę ciągu, bardzo niskie zniekształcenia, bardzo niski poziom szumów oraz bogactwo szczegółów w wrażeniach dźwiękowych przy niskim zużyciu energii.</p><h2>100-poziomowa płynna regulacja głośności DAC</h2><p>DAWN PRO został wyposażony w prawie bezstratną 100-stopniową regulację głośności, która oddziela regulację głośności urządzenia od smartfona, dzięki czemu oferuje nie tylko lepszą wydajność, ale także zapewnia płynną kontrolę.</p><h2>Wyjście single-ended 3,5 mm + zbalansowane 4,4 mm</h2><p>Port sigle-ended 3,5 mm zapewnia szeroką kompatybilność. Zbalansowany port 4,4 mm zapewnia dwukrotnie większą wydajność niż wyjście 3,5 mm.</p><h2>Konstrukcja obudowy ze stopu aluminium o skutecznym odprowadzaniu ciepła</h2><p>Obudowa DAWN PRO łączy w sobie stop aluminium lotniczego, obróbkę CNC i kształtowanie formowe. Powierzchnia obudowy jest anodowana, co wpływa na jej doskonałą teksturę i trwałość. Przy projektowaniu struktury rozpraszającej ciepło, DAWN PRO wykorzystał koncepcję konstrukcyjną stacjonarnych urządzeń Hi-Fi, gdzie otwory wentylacyjne rozpraszające ciepło są umieszczone nad chipami, które generują najwięcej ciepła, tym samym poprawiając efektywność jego rozpraszania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Waga:</p><p>13g</p></li><li><p>Wymiary:</p><p>42 mm * 22,45 mm * 12,39 mm</p></li><li><p>Złącze słuchawkowe:</p><p>3,5 single-ended, zbalansowane 4,4 mm</p></li><li><p>Pasmo przenoszenia:</p><p>5 Hz - 82 kHz (± 1 dB)</p></li><li><p>Szum:</p><p>- 4,4 mm: 1,3 μV (AES17 20 kHz)<br/>- 3,5 mm: 1,5 μV (AES17 20 kHz)</p></li><li><p>SNR:</p><p>- 4,4 mm: 131 dB (A-ważone)<br/>- 3,5 mm: 123 dB (A-ważone)</p></li><li><p>Zakres dynamiki:</p><p>4 4mm: 132dB (A-ważone)</p></li><li><p>Wyjście liniowe:</p><p>- 4,4 mm: 4 Vrms<br/>- 3,5 mm: 2 Vrms</p></li><li><p>THD+N:</p><p>0,00014% (AES17 20 kHz, bez obciążenia)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOONDROP</p></li><li><p>Dane producenta</p><p>Chengdu shuiyueyu technology Co.,Ltd 13th Floor, Building B, Building 1, Yuetiandi Commercial Building Project, No.159 Haichuan Road, Wenjiang District, Chengdu City, Sichuan Province, China, support@moondroplab.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moondrop.jpg",
+  "images": [
+    "galerie/w/wzmacniacz-sluchawkowy-moondr_64363.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-moondr_64364.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-moondr_64365.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-moondr_64363.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-moondr_64364.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-moondr_64365.webp"
+  ],
+  "manufacturer": "MOONDROP"
+}

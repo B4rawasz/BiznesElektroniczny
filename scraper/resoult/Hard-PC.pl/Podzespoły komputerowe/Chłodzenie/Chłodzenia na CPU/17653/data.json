@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "17653",
+  "code": "CPDC-009",
+  "name": "Chłodzenie DeepCool AG500 ARGB 120mm Black",
+  "price": 181.9,
+  "description": "<h2>Chłodzenie DeepCool AG500</h2><p>Chłodnica DeepCool AG500 zapewnia wyjątkowo wysoką wydajność chłodzenia dzięki pięciu rurkom cieplnym i wentylatorowi PWM RGB. Dzięki TDP na poziomie 240 W, chłodziarka jest również bardzo cicha i ma ogromne rezerwy chłodzenia dla podkręconych procesorów i pomimo swoich rozmiarów może być instalowana nawet z zainstalowaną płytą główną.</p><h2>Prosta konstrukcja z dużą wydajnością chłodzenia</h2><p>AG500 to wydajna chłodnica jednowieżowa , która umożliwia bardzo wydajne i ciche chłodzenie dzięki wentylatorowi. Płynnie pracujący silnik wentylatora zapewnia redukcję wibracji i w połączeniu z łożyskiem zapewnia bardzo długą żywotność.</p><h2>Idealne chłodzenie dla Twojego procesora</h2><p>Dzięki pięciu wysokowydajnym rurkom cieplnym radiator zapewnia doskonałe odprowadzanie ciepła odpadowego. Konstrukcja powierzchni żeberek chłodnicy jest bardzo duża, dzięki czemu duża ilość ciepła może zostać przekazana przepływającemu powietrzu. Listwy są zakrzywione w kształcie fali, co nie tylko poprawia rozwój objętości, ale także wydajność chłodzenia.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>125 × 95 × 155 mm (szer. x wys. x głęb.)</p></li><li><p>Materiał</p><p>miedź (rurki cieplne, płyta podstawy), aluminium (lamele, pokrywa)</p></li><li><p>Waga</p><p>861g</p></li><li><p>Kolor</p><p>Czarny</p></li><li><p>Rurki cieplne</p><p>5x Ø 6 mm</p></li><li><p>TDP</p><p>240 W</p></li><li><p>Wentylator</p><p>1x 120 mm PWM RGB (maks. 1850 obr./min)</p></li><li><p>Głośność</p><p>29,4 dB(A)</p></li><li><p>Złącze wentylatora</p><p>4-pinowe PWM</p></li><li><p>Kompatybilność</p><p>Intel: LGA 1700, 1200, 1151, 1150, 1155<br/>AMD: AM5 / AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65635.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65636.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65637.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65638.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65639.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65640.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65641.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65642.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65643.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65644.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65635.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65636.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65637.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65638.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65639.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65640.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65641.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65642.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65643.webp",
+    "galerie/c/chlodzenie-deepcool-ag500-arg_65644.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Elektryka i oświetlenie"
+  ],
+  "id": "17242",
+  "code": "TSL-LIG-TLAMP",
+  "name": "Tesla TechToy Smart Lampa biurkowa",
+  "price": 179.0,
+  "description": "<h2>Kompaktowa lampa biurkowa, z którą nie zgubisz się w ciemności.</h2><p>Inteligentna lampka biurkowa TechToy działa dokładnie tak, jak się tego spodziewasz. Zapewnia jasność do 350 lm, co w przybliżeniu odpowiada tradycyjnej żarówce o mocy 25W.</p><h2>Kolor do wyboru</h2><p>Niezależnie od atmosfery, którą chcesz stworzyć, możesz mieć niemal 100% pewności, że znalazłeś odpowiedni kolor. Do Twojej dyspozycji jest 16 milionów opcji kolorystycznych i możliwość regulacji jasności. W drugim trybie lampka biurkowa TechToy świeci zarówno białym światłem, jak i z regulowaną intensywnością jasności.</p><h2>Funkcje automatyczne</h2><p>Lampką można sterować za pomocą aplikacji lub bezpośrednio poprzez przyciski na samej lampce. Na przykład można ustawić timer wyłączenia na 30 lub 60 minut. Korzystanie z aplikacji TESLA Smart oferuje jednak szereg innych ustawień. Tutaj można ustawić timer dokładnie na potrzebne godziny i minuty. Natomiast harmonogram pozwala włączyć lampkę o dokładnie określonej godzinie i pomaga w porannym wstawaniu. Dzięki aplikacji mobilnej można tworzyć automatyczne funkcje dla inteligentnej lampki biurkowej TechToy. Mogą one na przykład kontrolować sposób, w jaki lampka przełącza się między kolorami w trybie „statycznym, przeskakującym lub ciągłym”.</p><h2>Cały zestaw można znaleźć w aplikacji TESLA Smart</h2><p>Głównym centrum sterowania Twoim inteligentnym domem jest urządzenie mobilne z zainstalowaną aplikacją TESLA Smart. Można ją pobrać za darmo z Google Android Market i Apple App Store. Ponadto jest ona po polsku, co znacznie ułatwi konfigurację i zarządzanie domem. Na szczególną uwagę zasługuje funkcja tworzenia „inteligentnych” automatyzacji dla Twojego domu. Na przykład, jeśli masz czujnik drzwi Tesla, możesz zaprogramować lampkę biurkową, aby włączała się, gdy otwierasz drzwi do sypialni i odwrotnie. W aplikacji można również ustawić timer włączania urządzenia, a także kolor oświetlenia i jego intensywność.</p><h2>Oszczędność energii</h2><p>Niewątpliwie ważną zaletą inteligentnej lampki biurkowej TechToy jest jej niskie zużycie energii. Korzystając z domowych inteligentnych produktów, zapewne wiesz, ile energii elektrycznej wydajesz na oświetlenie. Ponadto lampka wyposażona jest w diody LED, więc jej działanie jest energooszczędne.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>12 szt</p></li><li><p>Wysokość:</p><p>18 cm</p></li><li><p>Szerokość:</p><p>10 cm</p></li><li><p>Głębokość:</p><p>10 cm</p></li><li><p>Waga:</p><p>0.446 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62761.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62762.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62763.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62764.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62765.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62766.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62767.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62768.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62761.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62762.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62763.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62764.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62765.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62766.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62767.webp",
+    "galerie/t/tesla-techtoy-smart-lampa-biu_62768.webp"
+  ],
+  "manufacturer": "Tesla"
+}

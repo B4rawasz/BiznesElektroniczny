@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Chłodzenie",
+        "Chłodzenia na CPU"
+    ],
+    "id": "8027",
+    "code": "CPRT-003",
+    "name": "Chłodzenie RAIJINTEK Themis Evo",
+    "price": 95.9,
+    "description": "<p>Raijintek to zdecydowanie jedna z podstawowych obecnie firm wyznaczających trendy na rynku chłodzenia do procesorów. Raijintek Themis Evo w stosunku do swojego poprzednika oferuje znaczące ulepszenia. Mimo, że Themis Evo jest sporo większy to wciąż jest w pełni kompatybilny z większością płyt głównych i pamięci RAM dostępnych na rynku. Zwiększenie rozmiarów radiatora pozwoliło na wykorzystanie jeszcze jednego ciepłowodu, zatem w wersji Evo mamy ich łącznie 4, w dodatku są one niklowane.</p><h2>Dane techniczne:</h2><ul id=\"attribs\"><!-- ATRYBUTY--><!-- <li>Atrybut: wartość</li>--><li>Przeznaczenie: ciche i wydajne chłodzenie na procesor do komputera stacjonarnego</li><li>Wymiary: 122 x 165 x 82 mm (szer. x wys. x głęb.)</li><li>Materiał: aluminium (żeberka w radiatorze, podstawa), miedź (rurki cieplne)</li><li>Waga: 614 g (bez wentylatora)</li><li>Rurki cieplne: 4x o średnicy 8 mm (wychodzące w dwie strony)</li><li>Wentylator: 120 mm (maksymalnie 27,86 dB (A), 1000 - 1500 obr / min)</li><li>Napięcie pracy: od 7 do 12V</li><li>Złącze: 4-pin PWM</li><li>MTBF wentylatora: 40.000 godzin</li><li>Kompatybilność:<br/>-Intel Socket 775, 1150, 1155, 1156, 1366, 2011<br/>-AMD Socket AM2, AM2 (+), AM3 (+), FM1, FM2</li></ul>",
+    "security_data": "",
+    "manufacturer_img": "galerie/producenci/raijintek.jpg",
+    "images": [
+        "galerie/c/chlodzenie-raijintek-the_21057.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21058.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21059.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21060.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21061.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21062.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21063.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21064.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21065.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21066.webp",
+        "galerie/c/chlodzenie-raijintek-the_21057.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21058.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21059.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21060.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21061.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21062.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21063.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21064.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21065.webp",
+        "galerie/k/kopia-chlodzenie-raijint_21066.webp"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "11086",
+  "code": "GATA-1084",
+  "name": "Klawiatura Das Keyboard X50Q Soft Tactile Omron",
+  "price": 427.9,
+  "description": "<h2>Dane techniczne:</h2><ul id=\"attribs\"><li>Informacje o produkcie</li><ul><li>Podświetlanie: RGB</li><li>Połączenie: USB 2.0</li><li>Keycapy: ABS</li><li>Górny panel: Aluminiowy</li><li>Dodatkowe przyciski: Volume Knob, Play/Pause, Track Forward/Backward</li></ul><li>Przełączniki Gamma Zulu by Omron:</li><ul><li>Feel: Soft tactile</li><li>Gold Cross Point Contacts: 2</li><li>Wytrzymałość: 100mln kliknięć</li><li>Skok przełącznika (do aktywacji): 1.5 mm</li><li>Siła aktywacji: 45 g</li><li>Skok przełącznika (cały): 3.5 mm</li></ul><li>Cechy fizyczne</li><ul><li>Wysokość: 3.2 cm</li><li>Szerokość: 16.8 cm</li><li>Długość: (45.7 cm</li><li>Waga: 1.55 kg</li><li>Długość kabla: 2 </li></ul></ul>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Das Keyboard</p></li><li><p>Dane producenta</p><p>Metadot Corporation, 29 bis, Rue de la Prairie78120 Rambouillet, France, Tel: +1 512-637-9983</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/das-keyboard.jpg",
+  "images": [
+    "galerie/k/klawiatura-das-keyboard-x50q_36419.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36420.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36421.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36422.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36423.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36424.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36425.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36426.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36427.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36419.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36420.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36421.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36422.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36423.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36424.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36425.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36426.webp",
+    "galerie/k/klawiatura-das-keyboard-x50q_36427.webp"
+  ],
+  "manufacturer": "Das Keyboard"
+}

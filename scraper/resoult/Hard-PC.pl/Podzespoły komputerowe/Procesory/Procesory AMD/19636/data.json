@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory AMD"
+  ],
+  "id": "19636",
+  "code": "100-100001084WOF",
+  "name": "Procesor AMD Ryzen 7 9800X3D - BOX",
+  "price": 2036.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Gniazdo procesora (socket)</p><p>Socket AM5</p></li><li><p>Architektura</p><p>Zen 5</p></li><li><p>Taktowanie rdzenia</p><p>4.7 GHz (5.2 GHz w trybie turbo)</p></li><li><p>Liczba rdzeni fizycznych</p><p>8 rdzeni</p></li><li><p>Liczba wątków</p><p>16 wątków</p></li><li><p>Odblokowany mnożnik</p><p>Tak</p></li><li><p>Pamięć podręczna</p><p>104 MB</p></li><li><p>Zintegrowany układ graficzny</p><p>Tak</p></li><li><p>Model układu graficznego</p><p>Radeon™ Graphics</p></li><li><p>Rodzaj obsługiwanej pamięci</p><p>DDR5-6000</p></li><li><p>Proces litograficzny</p><p>4 nm</p></li><li><p>Pobór mocy (TDP)</p><p>120 W</p></li><li><p>Zastosowane technologie</p><p>AMD 3D V-Cache™<br/>AMD EXPO™</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Advanced Micro Devices, Inc., 2485 Augustine Drive, 95054, Santa Clara, CA , USA, youtube@amd.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Advanced Micro Devices GmbH, Einsteinring 22-28, 85609 Aschheim, Munich, Niemcy, +49 89-450-53100</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/amd.jpg",
+  "images": [
+    "galerie/p/procesor-amd-ryzen-7-9800x3d_74710.webp",
+    "galerie/p/procesor-amd-ryzen-7-9800x3d_74710.webp"
+  ],
+  "manufacturer": "Lamzu"
+}

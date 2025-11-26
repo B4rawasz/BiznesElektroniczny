@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Karty sieciowe"
+  ],
+  "id": "15782",
+  "code": "NBD-2003",
+  "name": "Adapter Bluetooth 5.0 Natec Fly Nano",
+  "price": 25.9,
+  "description": "<h2>Działaj wydajniej z Natec Fly</h2><p>Poznaj Natec Fly – niewielki odbiornik BT 5.0, który usprawni Twoją pracę i pozwoli połączyć kilka urządzeń równocześnie. Postaw na prostą obsługę i kompatybilność z systemami Windows. Z Natec Fly to łatwe, jak nigdy.</p><h2>Połącz do 7 urządzeń jednocześnie</h2><p>Używasz akcesoriów bezprzewodowych i chcesz połączyć je ze swoim komputerem stacjonarnym? Ten niewielki odbiornik umożliwi równoczesne działanie nawet 7 urządzeniom BT jednocześnie. Dużą zaletą jest też maksymalny zasięg, wynoszący aż 20 m. Problemy ze stabilnym połączeniem? Z Natec Fly możesz o nich zapomnieć.</p><h2>Jeszcze niższe zużycie energii</h2><p>Używaj sprzętu z technologią niskiego zużycia energii (BLE), zachowując przy tym wygodę i stabilność komunikacji. Dzięki Natec Fly skorzystasz z nich z łatwością, ograniczając częstą wymianę baterii i troszcząc się o środowisko.</p><h2>Szybko i wygodnie</h2><p>Zapomnij o instalacji dodatkowych aplikacji bądź problematycznych sterowników. Wystarczy jedynie, że podłączysz Natec Fly do swojego komputera. To naprawdę proste.</p><h2>Kompatybilność z systemami Windows</h2><p>Natec Fly to niezawodność i pełna kompatybilność z systemami operacyjnymi Windows 7/8/10/11. Ciesz się wygodą i działaniem od pierwszych sekund.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Komunikacja</p><p>Bluetooth</p></li><li><p>Standard</p><p>5.0 Class II</p></li><li><p>Chipset</p><p>Realtek RTL 8761B</p></li><li><p>Złącza</p><p>USB 2.0 Typ-A</p></li><li><p>Wersja Bluetooth</p><p>5.0</p></li><li><p>Zasięg</p><p>20 m</p></li><li><p>Wersja USB</p><p>2.0</p></li><li><p>Obsługiwane systemy operacyjne</p><p>Windows 10<br/>Windows 11<br/>Windows 7<br/>Windows 8</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Natec</p></li><li><p>Dane producenta</p><p>Impakt S.A., ul. Stanisława Lema 16, 62-050 Mosina, Polska, info@impakt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/natec.jpg",
+  "images": [
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56214.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56215.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56216.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56217.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56218.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56214.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56215.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56216.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56217.webp",
+    "galerie/a/adapter-bluetooth-5-0-natec-f_56218.webp"
+  ],
+  "manufacturer": "Natec"
+}

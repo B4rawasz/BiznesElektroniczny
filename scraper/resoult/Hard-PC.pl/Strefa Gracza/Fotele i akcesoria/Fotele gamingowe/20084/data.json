@@ -1,0 +1,42 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Fotele i akcesoria",
+    "Fotele gamingowe"
+  ],
+  "id": "20084",
+  "code": "AD12YDC-L-01-O-PV/C",
+  "name": "Fotel Anda Seat Kaiser 3 L Orange",
+  "price": 2199.0,
+  "description": "",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Anda Seat</p></li><li><p>Dane producenta</p><p>Brak danych</p></li><li><p>Podmiot odpowiedzialny</p><p>QLABPRO sp. z o.o., ul. OSTROBRAMSKA, nr 101A, lok. 301, 04-041 Warszawa, support@andaseat.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/anda-seat.jpg",
+  "images": [
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75372.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75373.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75374.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75375.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75376.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75377.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75378.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75379.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75380.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75381.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75382.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75383.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75372.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75373.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75374.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75375.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75376.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75377.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75378.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75379.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75380.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75381.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75382.webp",
+    "galerie/f/fotel-anda-seat-kaiser-3-l-or_75383.webp"
+  ],
+  "manufacturer": "Anda Seat"
+}

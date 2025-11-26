@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Czujniki"
+  ],
+  "id": "17146",
+  "code": "TSL-SEN-GAS",
+  "name": "Tesla Smart Czujnik gazu",
+  "price": 119.99,
+  "description": "<h2>Inteligentny czujnik ostrzegający o wycieku gazu</h2><p>Czujnik gazowy TESLA natychmiastowo powiadamia Cię za pośrednictwem telefonu lub tabletu kiedy wydarzy się coś niepokojącego. Dzięki zastosowaniu czujnika możesz szybko zareagować w przypadku wycieku gazu.</p><h2>Sterowanie dla każdego</h2><p>Zarządzanie czujnikiem jest bardzo proste, urządzenie bez problemu obsłuży użytkownik niezaawansowany. Dodatkowo inteligentni asystenci Google Assistant i Amazon Alexa pomogą Ci obsługiwać urządzenie.</p><h2>Ciągła kontrola</h2><p>Czujnik zasilany jest z zewnętrznego zasilacza, dzięki czemu nie musisz martwić się o wymianę baterii. W momencie, gdy wykryje niebezpieczeństwo w otoczeniu, nie tylko powiadomi o tym Twój telefon, ale także uruchomi alarm dźwiękowy i świetlny w samym budynku. Działa 24 godziny na dobę, 7 dni w tygodniu, więc nigdy nie ma chwili, w której Twój dom nie jest bezpieczny.</p><h2>Protokół ZigBee</h2><p>Produkt należy do grupy wykorzystującej protokół ZigBee, za pomocą którego produkty komunikują się ze sobą. Do prawidłowego funkcjonowania tych urządzeń niezbędne jest posiadanie w ramach inteligentnego domu jednostki centralnej TESLA Smart ZigBee Hub. Tworzy to wspólną sieć dla tych produktów i umożliwia im wzajemną interakcję. Na przykład, jeśli czujnik wilgotności wykryje podwyższoną wilgotność, automatycznie powiadomi o tym osuszacz za pośrednictwem TESLA Smart ZigBee Hub, który się uruchomi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>75 szt</p></li><li><p>Wysokość:</p><p>3 cm</p></li><li><p>Szerokość:</p><p>8.5 cm</p></li><li><p>Głębokość:</p><p>8.5 cm</p></li><li><p>Waga:</p><p>0.067 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-czujnik-gazu_63571.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63572.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63573.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63574.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63575.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63571.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63572.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63573.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63574.webp",
+    "galerie/t/tesla-smart-czujnik-gazu_63575.webp"
+  ],
+  "manufacturer": "Tesla"
+}

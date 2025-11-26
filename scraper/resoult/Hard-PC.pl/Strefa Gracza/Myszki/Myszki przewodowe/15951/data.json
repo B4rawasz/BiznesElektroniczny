@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Myszki przewodowe"
+  ],
+  "id": "15951",
+  "code": "A4TMYS43754",
+  "name": "Mysz biurowa A4TECH OP-720 USB Czarna",
+  "price": 18.5,
+  "description": "<p>Mysz z optycznym sensorem pracującym w rozdzielczości 1200 dpi. Pracuje na większości powierzchni.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Częstotliwość próbkowania (Hz)</p><p>125-500</p></li><li><p>Długość przewodu (m)</p><p>1,5</p></li><li><p>Liczba przycisków myszy</p><p>3</p></li><li><p>Rozdzielczość CPI / DPI</p><p>1200</p></li><li><p>Technologia sensora</p><p>Optyczny</p></li><li><p>Złącze</p><p>USB</p></li><li><p>Zmiana kolorów w różnych trybach DPI</p><p>Nie</p></li><li><p>Profilowanie myszy</p><p>Symetryczne</p></li><li><p>Zmiana DPI</p><p>Nie</p></li><li><p>Waga</p><p>86 g (bez kabla)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>A4Tech</p></li><li><p>Dane producenta</p><p>A-Four Tech Co., Ltd., 6F, No. 108, Min-Chuan Rd., Hsin-Tien City, New Taipei City, Tajwan, market@a4tech.com.tw</p></li><li><p>Podmiot odpowiedzialny</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/a4tech.jpg",
+  "images": [
+    "galerie/m/mysz-biurowa-a4tech-op-720-us_56695.webp",
+    "galerie/m/mysz-biurowa-a4tech-op-720-us_56696.webp",
+    "galerie/m/mysz-biurowa-a4tech-op-720-us_56697.webp",
+    "galerie/m/mysz-biurowa-a4tech-op-720-us_56698.webp",
+    "galerie/m/mysz-biurowa-a4tech-op-720-us_56695.webp",
+    "galerie/m/mysz-biurowa-a4tech-op-720-us_56696.webp",
+    "galerie/m/mysz-biurowa-a4tech-op-720-us_56697.webp",
+    "galerie/m/mysz-biurowa-a4tech-op-720-us_56698.webp"
+  ],
+  "manufacturer": "A4Tech"
+}

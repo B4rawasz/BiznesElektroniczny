@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "17666",
+  "code": "CPDC-034",
+  "name": "Chłodzenie DeepCool AK500S Digital 120mm White",
+  "price": 218.9,
+  "description": "<h2>Chłodzenie DeepCool AK500S</h2><p>DeepCool AK500S to wydajna, jednowieżowa chłodnica procesora, która maksymalizuje potencjał chłodzenia dzięki dużemu radiatorowi, pięciu rurkom cieplnym i wysokowydajnemu wentylatorowi FDB 120 mm. Dzięki mocy odprowadzania ciepła 240 W jesteś idealnie przygotowany na wydajne procesory najnowszej generacji.</p><h2>Znakomita technologia rurek cieplnych</h2><p>Miedziane rurki cieplne maksymalizują rozpraszanie ciepła, niezależnie od orientacji obudowy, dzięki zoptymalizowanej strukturze kapilarnej i precyzyjnemu dostarczaniu płynu. Ten zrównoważony stosunek umożliwia efektywną zmianę fazy w całej rurze cieplnej, przy zmniejszonym oporze cieplnym w szerokim spektrum mocy. Specjalna kątowa i przesunięta konstrukcja rurek cieplnych zapewnia nieograniczony dostęp do banków pamięci, zapewniając optymalną kompatybilność nawet z potężną pamięcią RAM z dużymi rozpraszaczami ciepła. Konstrukcja ta umiejętnie podkreśla także wszystkie efekty świetlne RGB. Na czterokanałowych płytach głównych odległość między tylnymi gniazdami wynosi 45 mm.</p><h2>Fajny, cichy i mocny</h2><p>Dzięki dołączonemu wentylatorowi FK120 nie tylko uzyskasz maksymalny przepływ powietrza i ciśnienie statyczne, co zapewnia wydajne chłodzenie, ale możesz także inteligentnie przełączać, aby uzyskać cichą wydajność. Dołączony adapter umożliwia pracę przy niskich prędkościach, a dodatkowe wsporniki wentylatorów zapewniają elastyczność przy przyszłych aktualizacjach.</p><h2>Zintegrowane oświetlenie RGB i wyświetlacz temperatury</h2><p>Dzięki zintegrowanemu oświetleniu RGB możesz pozwolić swojej chłodnicy procesora świecić we wszystkich możliwych kolorach. Daje Ci to niemal nieograniczone możliwości, dzięki którym Twoja konstrukcja będzie błyszczeć tak, jak sobie tego życzysz.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>125 x 96 x 160 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>miedź (rurki cieplne, płyta podstawy), aluminium (lamele, pokrywa)</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Rurki cieplne</p><p>5x Ø 6 mm</p></li><li><p>Rodzaj łożyska</p><p>Hydrodynamiczne łożysko ślizgowe</p></li><li><p>Wentylator</p><p>1x 120 mm PWM</p></li><li><p>Głośność</p><p>31,5 dB(A)</p></li><li><p>Prędkość</p><p>500 - 1850 obr./min</p></li><li><p>Złącze wentylatora</p><p>4-pinowe PWM</p></li><li><p>Kompatybilność</p><p>Intel: LGA2066 / 2011-v3 / 2011 / 1700 / 1200 / 1151 / 1150 / 1155<br/>AMD: AM5 / AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65507.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65508.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65509.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65510.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65511.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65512.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65513.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65514.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65515.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65516.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65507.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65508.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65509.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65510.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65511.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65512.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65513.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65514.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65515.webp",
+    "galerie/c/chlodzenie-deepcool-ak500s-di_65516.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

@@ -1,0 +1,25 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Routery"
+  ],
+  "id": "14112",
+  "code": "AC5",
+  "name": "Router WiFi Tenda AC5 AC1200 Dual Band",
+  "price": 94.9,
+  "description": "<p>AC5 to dwuzakresowy router WiFi AC1200 przeznaczony do średnich mieszkań z dostępem do światłowodu 100 Mb/s. Zapewnia prędkość WiFi do 1167 Mb/s (5 GHz: 867 Mb/s i 2,4 GHz: 300 Mb/s). Zintegrowana technologia dwupasmowa łączy sygnały 2,4 GHz i 5 GHz pod jedną nazwą WiFi. Nasz dynamiczny system optymalizacji przydzieli szybsze pasmo Twoim urządzeniom. Router został wyposażony w 4 anteny 6dBi o wysokim wzmocnieniu i wydajny procesor 28 nm. AC5 obsługuje protokół IPv6 i może skrócić czas transmisji danych oraz zminimalizować opóźnienie. Ponadto funkcja zdalnego zarządzania przez aplikację Tenda WiFi zapewnia najprostszy sposób zarządzania urządzeniem.</p><h2>Obsługa internetu światłowodowego do 100 Mb/s</h2><p>AC5 to dwuzakresowy router WiFi, który zapewnia prędkość do 1167 Mb/s (5 GHz: 867 Mb/s oraz 2,4 GHz: 300 Mb/s), aby maksymalnie wykorzystać dostęp do światłowodu 100 Mb/s. Zapewnia doskonałe surfowanie po sieci sześciokrotnie szybsze niż w przypadku jednopasmowego routera.</p><h2>Inteligentne ustalanie priorytetów ruchu</h2><p>Zintegrowana technologia dwupasmowa łączy sygnały 2,4 GHz i 5 GHz pod jedną nazwą WiFi. Nasz dynamiczny system optymalizacji przydzieli szybsze pasmo Twoim urządzeniom.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standardowy i protokół</p><p>IEEE802.3, IEEE802.3u</p></li><li><p>Interfejsy</p><p>10/100 Mbps WAN port*1<br/>10/100 Mbps LAN port*3</p></li><li><p>Antena</p><p>5dBi External antenna*4</p></li><li><p>Przycisk</p><p>WPS/Reset button*1, WiFi on/off button*1</p></li><li><p>Moc</p><p>AC input: 100-240V-50/60Hz, 0.2A<br/>DC output: 9V 1A</p></li><li><p>Wymiar</p><p>171mm*171mm*210mm(L*W*H)</p></li><li><p>Wskaźnik ledowy</p><p>SYS*1, WiFi*1, WAN*1, LAN*3</p></li><li><p>Standard bezprzewodowy</p><p>IEEE 802.11ac/a/n @5GHz<br/>IEEE 802.11b/g/n @2.4GHz</p></li><li><p>Szybkość przesyłania danych</p><p>5GHz: 867Mbps<br/>2.4GHz: 300Mbps</p></li><li><p>Częstotliwość</p><p>2.4 &amp; 5GHz</p></li><li><p>Moc transmisji</p><p>CE &lt;20dBm(2.4G) &lt;23dBm(5G)<br/>FVV &lt;30dBm</p></li><li><p>Podstawowe funkcje</p><p>SSID Broadcast: Enable/Disable<br/>Beamforming<br/>MU-MIMO</p></li><li><p>Ochrona bezprzewodowa</p><p>WPA-PSK/WPA2-PSK, WPA/WPA2<br/>Wireless Security : Enable /Disable<br/>WPS(WiFi Protected Set-up) fast encryption</p></li><li><p>Typ połączenia internetowego</p><p>PPPoE, Dynamic IP, Static IP<br/>PPPoE(Russia), PPTP(Russia), L2TP(Russia)</p></li><li><p>Tryb pracy</p><p>Wireless Router Mode<br/>Universal Repeater Mode<br/>WISP Mode<br/>AP Mode</p></li><li><p>DHCP serwer</p><p>DHCP Server<br/>DHCP Client List<br/>DHCP Reservation</p></li><li><p>Wirtualny serwer</p><p>Port Forwarding<br/>DMZ Host<br/>UPnP</p></li><li><p>Bezpieczeństwo</p><p>Client Filter <br/>Parental Control<br/>Remote Web Management</p></li><li><p>Zapora</p><p>Forbid UDP flood attack<br/>Forbid TCP flood attack<br/>Forbid ICMP attack<br/>Forbid WAN PING from internet</p></li><li><p>DDNS</p><p>Support DDNS, No-ip, 3322.org, Oray.com, 88ip</p></li><li><p>VPN</p><p>PPTP<br/>L2TP<br/>PPTP client<br/>L2TP client</p></li><li><p>Cechy szczególne</p><p>PPPoE Username/Password Clone<br/>Smart WiFi Schedule<br/>Smart Sleeping Mode<br/>Smart LED on/off<br/>Tenda WiFi App</p></li><li><p>Inne</p><p>Bandwidth Control<br/>Guest Network<br/>IPTV<br/>MAC Address Clone<br/>System Log<br/>Backup &amp; Restore configurations<br/>Online firmware upgrade<br/>Local firmware upgrade</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tenda</p></li><li><p>Dane producenta</p><p>Tenda Polska Sp. z o.o.; Górczewska 216, 01-460 Warszawa, Polska, support.pl@tenda.cn</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tenda.jpg",
+  "images": [
+    "galerie/r/router-wifi-tenda-ac5-ac1200_50634.webp",
+    "galerie/r/router-wifi-tenda-ac5-ac1200_50635.webp",
+    "galerie/r/router-wifi-tenda-ac5-ac1200_50636.webp",
+    "galerie/r/router-wifi-tenda-ac5-ac1200_50637.webp",
+    "galerie/r/router-wifi-tenda-ac5-ac1200_50634.webp",
+    "galerie/r/router-wifi-tenda-ac5-ac1200_50635.webp",
+    "galerie/r/router-wifi-tenda-ac5-ac1200_50636.webp",
+    "galerie/r/router-wifi-tenda-ac5-ac1200_50637.webp"
+  ],
+  "manufacturer": "Tenda"
+}

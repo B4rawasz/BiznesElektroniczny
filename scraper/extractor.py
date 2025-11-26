@@ -1,0 +1,58 @@
+from bs4 import BeautifulSoup
+
+import elements.name as element_name
+import elements.category as element_category
+import elements.price as element_price
+import elements.description as element_description
+import elements.security as element_security
+import elements.manufacturer as element_manufacturer
+import elements.manufacturer_img as element_manufacturer_img
+import elements.photos as element_photos
+import elements.ID as element_id
+import elements.code as element_code
+
+import elements.category_name as element_category_name
+import elements.category_description as element_category_description
+import elements.category_description_long as element_category_description_long
+import elements.category_sub_images as element_category_sub_images
+
+def extract(page: BeautifulSoup) -> dict:
+    result = {
+        "category": [],
+        "id": "",
+        "code": "",
+        "name": "",
+        "price": 0,
+        "description": "",
+        "security_data": "",
+        "manufacturer": "",
+        "manufacturer_img": "",
+        "images": []
+        }
+
+    result["category"] = element_category.getCategory(page)
+    result["name"] = element_name.getName(page)
+    result["price"] = element_price.getPrice(page)
+    result["description"] = element_description.getDescription(page)
+    result["security_data"] = element_security.getSecurityData(page)
+    result["manufacturer"] = element_manufacturer.getManufacurer(page)
+    result["manufacturer_img"] = element_manufacturer_img.getManufacturerImg(page)
+    result["images"] = element_photos.getPhotos(page)
+    result["id"] = element_id.getID(page)
+    result["code"] = element_code.getCode(page) 
+
+    return result
+
+def extract_category(page: BeautifulSoup) -> dict:
+    result = {
+        "name": "",
+        "description": "",
+        "description_long": "",
+        "sub_images": []
+        }
+
+    result["name"] = element_category_name.getName(page)
+    result["description"] = element_category_description.getDescription(page)
+    result["description_long"] = element_category_description_long.getDescription(page)
+    result["sub_images"] = element_category_sub_images.getSubCeategoryImages(page)
+    return result

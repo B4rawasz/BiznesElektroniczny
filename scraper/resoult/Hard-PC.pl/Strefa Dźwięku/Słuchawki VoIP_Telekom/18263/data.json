@@ -1,0 +1,33 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki VoIP/Telekom"
+  ],
+  "id": "18263",
+  "code": "1000430",
+  "name": "Słuchawki EPOS PC 3 Chat",
+  "price": 79.9,
+  "description": "<p>Odkryj doskonałą jakość dźwięku i wygodę użytkowania z Epos PC 3 CHAT – idealnymi słuchawkami do komunikacji internetowej, rozmów VoIP oraz muzyki.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Złącze Jack 2 x 3,5 mm: Kompatybilne z większością komputerów i urządzeń wyposażonych w gniazdo audio Jack. Dzięki dwóm złączom 3,5 mm z 3 polami, zapewnia bezproblemowe podłączenie do karty dźwiękowej.</li><li>Mikrofon z redukcją szumów: Zapewnia krystalicznie czyste rozmowy bez zakłóceń z otoczenia, bez konieczności podnoszenia głosu.</li><li>Stereofoniczny dźwięk: Idealny do rozmów telefonicznych, komunikacji VoIP, a także słuchania muzyki, zapewniając pełne, naturalne brzmienie.</li><li>Lekka konstrukcja: Wyjątkowo komfortowy, lekki pałąk na dwoje uszu umożliwia długie godziny użytkowania bez uczucia dyskomfortu.</li><li>Jakość za rozsądną cenę: Doskonała równowaga między ceną a jakością, z trwałością i dźwiękiem na najwyższym poziomie.</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wersja</p><p>Pałąk nagłowny, dwuuszny</p></li><li><p>Długość kabla</p><p>2m</p></li><li><p>Interfejs</p><p>2 x jack 3,5 mm</p></li><li><p>Pasmo przenoszenia</p><p>42 - 17 000 Hz</p></li><li><p>Impedancja</p><p>32 Ω</p></li><li><p>Poziom ciśnienia akustycznego (SPL)</p><p>95 dB</p></li><li><p>Mikrofon</p></li><li><p>Pasmo przenoszenia</p><p>90 - 15 000 Hz</p></li><li><p>Rodzaj</p><p>Z redukcją szumów</p></li><li><p>Czułość</p><p>-40dBV/Pa</p></li><li><p>Waga</p><p>77g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>EPOS</p></li><li><p>Dane producenta</p><p>EPOS Group A/S, Industriparken 27, Ballerup 2750, Dania, privacy@demant.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/epos.jpg",
+  "images": [
+    "galerie/s/sluchawki-epos-pc-3-chat_67778.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67779.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67780.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67781.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67782.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67783.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67784.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67785.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67778.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67779.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67780.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67781.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67782.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67783.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67784.webp",
+    "galerie/s/sluchawki-epos-pc-3-chat_67785.webp"
+  ],
+  "manufacturer": "EPOS"
+}

@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "11759",
+  "code": "ZUWA-211",
+  "name": "Lakier Thermal Grizzly Shield - 5ml",
+  "price": 45.9,
+  "description": "<p>Thermal Grizzly Shield to formuła opracowana w celu ochrony wrażliwych elementów wokół procesora czy układu graficznego. Lakier ten izoluje elementy przed cieczą i elektrycznością. Zapewnia bezpieczeństwo podczas aplikacji past termoprzewodzących przewodzących prąd, w tym również past z ciekłego metalu.</p><p>Lakier ochronny został zoptymalizowany pod kątem szybkości schnięcia. Wystarczy jedynie 30min od momentu aplikacji do całkowitego utwardzenia. Zintegrowany pędzelek umożliwia precyzyjne nanoszenie substancji.</p><p>Zwartość wystarcza od 10 do 20 aplikacji w zależności od rozmiaru procesora lub karty graficznej. Szeroki zakres trwałości (od -20 do 110 stopni Celsjusza) umożliwia stosowanie na wszystkich popularnych procesorach i układach graficznych, nawet tych mocno podkręconych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Pojemność: 5 ml (od 10 do 20 aplikacji)</li><li>Zakres pracy: -20 ° C to 110 ° C</li><li>Kolor: Czerwony</li><li>Czas utwardzenia: 30 min w 20 ° C</li><li>Przeznaczenie: CPU, GPU, Notebook</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/l/lakier-thermal-grizzly-shield_40117.webp",
+    "galerie/l/lakier-thermal-grizzly-shield_40116.webp",
+    "galerie/l/lakier-thermal-grizzly-shield_40117.webp",
+    "galerie/l/lakier-thermal-grizzly-shield_40116.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

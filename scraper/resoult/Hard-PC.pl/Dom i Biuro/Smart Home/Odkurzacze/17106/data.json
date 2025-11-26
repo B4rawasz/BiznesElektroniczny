@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Odkurzacze"
+  ],
+  "id": "17106",
+  "code": "TSL-VC-AI300PLUS",
+  "name": "Smart Robot Vacuum AI300 Plus",
+  "price": 1599.0,
+  "description": "<h2>Dzięki aplikacji mobilnej sprzątanie nabiera nowego wymiaru</h2><p>Sprzątaj dom bez wysiłku. Możesz aktywować odkurzacz bez wstawania. Na przykład prosto z kanapy. Aplikacja mobilna TESLA Smart nie tylko umożliwia zdalne sterowanie urządzeniem, ale także oferuje szereg dodatkowych funkcji, takich jak ustawienie siły ssania, umieszczenie na wirtualnej ścianie i planowanie sprzątania. Aplikacja umożliwia także podłączenie odkurzacza do asystentów głosowych lub skonfigurowanie inteligentnej automatyzacji poprzez podłączenie go do innych inteligentnych urządzeń w domu.</p><h2>Jeszcze mniej zmartwień związanych ze sprzątaniem</h2><p>Robot Vacuum AI300 Plus jest wyposażony w baterię 3200 mAh i może pracować do 100 minut. Nie musisz się martwić o ładowanie - jeśli poziom naładowania akumulatora spadnie poniżej 20%, odkurzacz automatycznie połączy się ze stacją dokującą i po naładowaniu do 80% będzie kontynuował sprzątanie od miejsca, w którym przerwał. Stacja dokująca pełni także funkcję zewnętrznego pojemnika na śmieci - gdy pojemnik na śmieci w odkurzaczu zapełni się, automatycznie opróżni się w obszarze stacji dokującej.</p><h2>Jest wyposażony w duży zestaw</h2><p>Wyposażenie uzupełnia duży zapas części zamiennych. Oprócz podstawowego wyposażenia otrzymujesz parę szczotek bocznych, zapasowy filtr, worki na śmieci, dwie ściereczki do sprzątania, drewnianą matę podłogową i środek do czyszczenia szczotek. Wszystkie akcesoria, w tym instrukcję, można starannie schować w torbie TESLA, która również jest dołączona do zestawu. A jeśli zabraknie ci części zamiennych, nie będzie niespodzianek przy zakupie nowych - materiały eksploatacyjne są dostępne w sklepach w przystępnej cenie.</p><h2>Nawigacja laserowa, mapowanie i planowanie</h2><p>Dzięki laserowej nawigacji LiDAR odkurzacz tworzy mapę otaczającego terytorium i w połączeniu z technologią SLAM planuje trasę sprzątania, aby jak najlepiej pokryć cały obszar. Więc nie musisz się martwić, że przegapisz jakiś odcinek. Czujniki laserowe wykrywają również przeszkody i zapobiegają możliwym kolizjom, takim jak zderzenie z meblami lub upadek ze schodów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>24 szt</p></li><li><p>Wysokość:</p><p>32 cm</p></li><li><p>Szerokość:</p><p>46 cm</p></li><li><p>Głębokość:</p><p>32 cm</p></li><li><p>Waga:</p><p>7.15 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/s/smart-robot-vacuum-ai300-plus_64070.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64071.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64072.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64073.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64074.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64075.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64070.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64071.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64072.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64073.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64074.webp",
+    "galerie/s/smart-robot-vacuum-ai300-plus_64075.webp"
+  ],
+  "manufacturer": "Tesla"
+}

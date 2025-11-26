@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Oczyszczacze"
+  ],
+  "id": "17140",
+  "code": "TSL-AC-AD100",
+  "name": "Tesla Smart Aromatyzer AD100",
+  "price": 149.0,
+  "description": "<h2>Oaza spokoju w Twoim domu</h2><p>Lawenda na uspokojenie, eukaliptus na przeziębienie czy cytrusy na poprawę nastroju? Aromaterapia ma swój własny aromat na prawie każdą chorobę. Wystarczy dodać kilka kropli olejku eterycznego do pojemnika z wodą, a dyfuzor rozproszy zapach po pomieszczeniu w postaci delikatnej mgiełki. Relaks ułatwia przyjemne oświetlenie LED – możesz wybrać jedną z siedmiu opcji kolorystycznych.</p><h2>Pomoc w walce z suchym powietrzem</h2><p>Suche powietrze może powodować szereg problemów, takich jak trudności w oddychaniu, kaszel i suchość skóry. Zwłaszcza zimą, kiedy ogrzewanie sprawia, że powietrze jest jeszcze bardziej suche. Dyfuzor zapachowy AD100 uwalnia parę wodną do pomieszczenia, nawilżając w ten sposób powietrze i zapobiegając tym problemom.</p><h2>Zaprojektowany z myślą o bezpieczeństwie</h2><p>Gdy w zbiorniku skończy się woda, urządzenie wyłączy się automatycznie, więc nie musisz się martwić o jego uszkodzenie lub ryzyko przepalenia. Dodatkowo do produkcji dyfuzora użyto materiałów niezawierających bisfenolu, dzięki czemu jest on w pełni bezpieczny w użytkowaniu.</p><h2>Ciągła praca do 10 godzin</h2><p>Dyfuzor zapachowy AD100 zaspokoi Twoje potrzeby, niezależnie od tego, czy lubisz od czasu do czasu wypełniać swój dom zapachem, czy też zachować lekki zapach przez cały czas. W trybie ciągłym będzie działać do 5 godzin, a jeśli wybierzesz funkcję natryskiwania interwałowego, może wytwarzać parę przez 10 godzin. Wystarczy wybrać żądany tryb za pomocą przycisku bezpośrednio na dyfuzorze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>12 szt</p></li><li><p>Wysokość:</p><p>16.4 cm</p></li><li><p>Szerokość:</p><p>13 cm</p></li><li><p>Głębokość:</p><p>13 cm</p></li><li><p>Waga:</p><p>0.26 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-aromatyzer-ad100_63597.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63598.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63599.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63600.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63601.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63597.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63598.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63599.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63600.webp",
+    "galerie/t/tesla-smart-aromatyzer-ad100_63601.webp"
+  ],
+  "manufacturer": "Tesla"
+}

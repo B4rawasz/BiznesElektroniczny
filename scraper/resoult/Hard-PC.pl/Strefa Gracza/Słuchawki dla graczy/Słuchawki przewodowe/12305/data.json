@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Słuchawki dla graczy",
+    "Słuchawki przewodowe"
+  ],
+  "id": "12305",
+  "code": "Eclipse-One",
+  "name": "Słuchawki ISK Elite Gear Eclipse One",
+  "price": 199.0,
+  "description": "<p>Nowa marka dla graczy Elite Gear debiutuje ze swoim pierwszym modelem słuchawek Elipse One! Właściciele marki korzystają z dobrodziejstwa sprawdzonych producentów i ich doświadczenia. Słuchawki dla graczy Eclipse One stworzono bowiem przy współpracy z marką ISK. Konstrukcja słuchawek opiera się o doskonale znane i cenione w świecie konsumenckiego audio HP2011, w których wprowadzono liczne modyfikacje przystosowujące ten świetnie brzmiący model do zastosowań gamingowych.</p><p>Zewnętrznie słuchawki od swojego pierwowzoru różnią się niewiele. Nadal mamy tutaj solidną aluminiową ramę , odporną na uszkodzenia. Dokonano natomiast modyfikacji kolorystyki oraz zmieniono na muszlach tzw. dekle oraz zastosowano inny materiał obicia pałąka w miejscu styku się z głową co zwiększy komfort użytkowania. Na lewej muszli znalazło się również złącze mini-jack 3.5mm do podłączenia mikrofonu. Właśnie ten aspekt sprawia, że słuchawki sprawdzą się idealnie nie tylko w grach, ale również w codziennym słuchani muzyki czy to w zaciszu domu, czy na ulicy (po wypięciu mikrofonu).</p><p>Zastosowano również nieco dłuższe okablowanie pozwalające na swobodniejszą regulację pałąka w celu lepszego dostosowania do kształtu głowy. Miękkie obicie pałąka oraz zrównoważony docisk sprawiają, ze słuchawki doskonale sprawdzają się przy dłuższych sesjach gamingowych niepowodując nadmiernej potliwości uszu czy ogólnego dyskomfortu.</p><p>Słuchawki Eclipse One posiadają nieco zmodyfikowane przetworniki znane z HP2011. Zwiększono ich impedancję oraz zmieniono strojenie, tak by brzmienie było bardziej odpowiednie dla graczy. Efektem jest między innymi podkreślony bas, który pozytywnie wpływa na odbiór efektów dźwiękowych podczas rozgrywki. Szeroka scena ułatwi natomiast lokalizację przeciwników.</p><p>Elite Gear Eclipse One to słuchawki kierowane do graczy, ale dzięki dość uniwersalnemu zestrojeniu charakteryzują się brzmieniem, które idealnie sprawdzi siew różnych gatunkach muzycznych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Typ</p><p>zamknięte</p></li><li><p>Konstrukcja</p><p>Wokółuszna</p></li><li><p>Średnica przetwornika</p><p>53mm</p></li><li><p>Typ przetwornika</p><p>Dynamiczny</p></li><li><p>Impedancja</p><p>60Ohm</p></li><li><p>Czułość</p><p>98dB +/- 3dB</p></li><li><p>Pasmo przenoszenia</p><p>16Hz-25kHz</p></li><li><p>Moc maksymalna</p><p>400mW</p></li><li><p>Mikrofon</p><p>Elektretowy</p></li><li><p>Pasmo przenoszenia mikrofonu</p><p>50Hz-17kHz</p></li><li><p>Czułość</p><p>-39dB +/- 3dB (odB = 1V/Pa, kHz)</p></li><li><p>Waga</p><p>300g (słuchawki), 320g (słuchawki z mikrofonem)</p></li><li><p>Kabel</p><p>1.5m</p></li><li><p>Wtyczka</p><p>4-polowy mini-jack 3.5mm</p></li><li><p>Kompatybilność</p><p>PC, Mac, Konsole, Urządzenia mobilne</p></li><li><p>W zestawie</p><p>Słuchawki, Odczepiany mikrofon, Splitter, Instrukcja</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>ISK</p></li><li><p>Dane producenta</p><p>Ningbo Yinzhou Shengke Electronics Co., Ltd., No.111, Yunmo East Road, Yunlongtown, Yunzhou, Ningbo, China, info@shengke.com.cn</p></li><li><p>Podmiot odpowiedzialny</p><p>TechBringer Piotr Gawrysiak | ul. Marcelińska 100/8 60-324 Poznań, Poland, biuro@techbringer.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/isk.jpg",
+  "images": [
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43712.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43713.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43714.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43715.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43716.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43717.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43712.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43713.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43714.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43715.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43716.webp",
+    "galerie/s/sluchawki-elite-gear-isk-ecli_43717.webp"
+  ],
+  "manufacturer": "ISK"
+}

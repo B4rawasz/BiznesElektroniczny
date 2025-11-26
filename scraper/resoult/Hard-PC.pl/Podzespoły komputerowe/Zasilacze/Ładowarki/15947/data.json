@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Ładowarki"
+  ],
+  "id": "15947",
+  "code": "Y-C477BK",
+  "name": "Kabel USB-C - USB-C Unitek Y-C477BK 1m",
+  "price": 32.99,
+  "description": "<p>Przewód Uniteka USB Typ-C - Typ-C do przesyłu danych, synchronizacji oraz ładowania urządzeń z gniazdem USB Typ-C takich jak tablety, telefony i ultrabooki, w połączeniu z hostem wyposażonym w gniazdo USB Typ-C czyli komputerem, ładowarką itp. Wykonany z najlepszych materiałów, jakość gwarantowana przez firmę Unitek. .</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>profesjonalne wykonanie, najlepsze materiały: przewód 100% miedzi</li><li>cienki przewód i smukłe konektory</li><li>wykonanie gwarantujące właściwą izolacje: powłoka wykonana z Premium PVC, bezpieczna</li><li>każda żyła transmisyjna foliowana, w celu zapewniania stabilności połączenia i braku interferencji</li><li>każda partia przechodzi testy: wstrząsowe, wytrzymałości konektorów, ciągliwości, odporności na korozje</li><li>wtyki USB Typ-C symetryczne, czyli jak trafisz tak podłączysz</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przepustowość</p><p>5 Gbps</p></li><li><p>Standard USB</p><p>USB-C</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-C</p></li><li><p>Złącze 2</p><p>Wtyk USB-C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-usb-c-usb-c-unitek-y-c4_56682.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-y-c4_56683.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-y-c4_56682.webp",
+    "galerie/k/kabel-usb-c-usb-c-unitek-y-c4_56683.webp"
+  ],
+  "manufacturer": "Unitek"
+}

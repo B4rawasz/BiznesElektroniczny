@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy z oknem"
+  ],
+  "id": "14260",
+  "code": "GELI-911",
+  "name": "Obudowa Lian Li Lancool 205  Mesh C ARGB Tempered Glass Black",
+  "price": 389.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>205 x 485 x 415 mm (W x H x D)</p></li><li><p>Materiał</p><p>steel (chassis), tempered glass (left side panel), mesh (inserts)</p></li><li><p>Kolor</p><p>Black</p></li><li><p>Standard</p><p>ATX, Micro-ATX, Mini-ITX</p></li><li><p>Możliwość montażu wentylatorów</p><p>Front 2x 120 / 2x 140 mm<br/>Cover 2x 120 / 2x 140 mm<br/>Rear 1x 120 mm</p></li><li><p>Fabrycnzie zainstalowane wentylatory</p><p>Front 2x 140 mm PWM<br/>Rear 1x 120 mm PWM</p></li><li><p>Możliwość montażu chłodnic</p><p>Front 1x max. 280 mm<br/>Cover 1x max. 280 mm</p></li><li><p>Filtry</p><p>front, cover, zasilacz (demontowlane)</p></li><li><p>Zatoki</p><p>2x 2.5 inch (MB tray)<br/>2x 3.5/2.5 inch (drive cage)</p></li><li><p>Ilość miejsca na karty rozszerzeń</p><p>7</p></li><li><p>I/O panel</p><p>2x USB 3.0 (Type A, USB 3.2 Gen 1, max. 5 Gbit/s)<br/>1x USB 3.0 (Type C, USB 3.2 Gen 1, max. 5 Gbit/s)<br/>2x 3.5 mm jack (3-pin, TRS, 1x audio in / 1x audio out)</p></li><li><p>Maksymalna długość karty graficznej</p><p>350 mm</p></li><li><p>Maksymalna wysokość chłodzenia CPU</p><p>160mm</p></li><li><p>Maksymalna długość zasilacza</p><p>165mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/o/obudowa-lian-li-lancool-205-m_51374.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51375.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51376.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51377.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51378.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51379.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51380.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51381.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51382.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51374.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51375.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51376.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51377.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51378.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51379.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51380.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51381.webp",
+    "galerie/o/obudowa-lian-li-lancool-205-m_51382.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

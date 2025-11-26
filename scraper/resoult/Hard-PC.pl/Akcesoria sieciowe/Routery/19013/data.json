@@ -1,0 +1,37 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Routery"
+  ],
+  "id": "19013",
+  "code": "RE1200",
+  "name": "Repeater Cudy RE1200 Wzmacniacz sygnału WiFi Mesh",
+  "price": 89.0,
+  "description": "<h2>Zasięg w każdym kącie</h2><p>Repeater Wi-Fi Cudy RE1200 to idealne rozwiązanie do eliminacji martwych stref. Dwupasmowa konstrukcja rozszerza sygnał Wi-Fi do odległych miejsc w domu.</p><h2>Szybki transfer danych</h2><p>Osiągając przepustowość do 1,2 Gb/s (300 Mb/s na 2,4 GHz i 867 Mb/s na 5 GHz), repeater Cudy RE1200 zapewnia płynny streaming i efektywną grę online.</p><h2>Prosta instalacja</h2><p>Zaprojektowany dla łatwej konfiguracji Cudy RE1200 oferuje szybki montaż. Dioda LED wskazuje siłę sygnału, a przycisk WPS ułatwia połączenie.</p><h2>Funkcjonalność Mesh</h2><p>Repeater Cudy jest kompatybilność z Whole Home Mesh i dzięki temu zapewnia niezauważalne przełączanie się między sieciami, gwarantując płynny roaming po domu.</p><h2>Port Ethernet dla urządzeń przewodowych</h2><p>Wbudowany port RJ-45 Fast Ethernet w Cudy RE1200 umożliwia podłączenie przewodowych urządzeń do sieci Wi-Fi, zapewniając komfort użytkowania.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Tryb pracy</p><p>Access Point, Repeater</p></li><li><p>Rodzaje wejść/wyjść</p><p>RJ-45 10/100 (LAN) - 1 szt.</p></li><li><p>Obsługiwane standardy</p><p>Wi-Fi 5 (802.11 a/b/g/n/ac)</p></li><li><p>Częstotliwość pracy</p><p>2,4 GHz, 5 GHz</p></li><li><p>Antena</p><p>zewnętrzna - 2 szt.</p></li><li><p>Maksymalna prędkość transmisji bezprzewodowej</p><p>1200 Mb/s</p></li><li><p>Zabezpieczenia transmisji bezprzewodowej</p><p>WPA-PSK, WPA2-PSK</p></li><li><p>Zasilanie</p><p>gniazdo elektryczne (zasilacz wbudowany)</p></li><li><p>Dołączone akcesoria</p><p>poradnik szybkiej konfiguracji</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cudy.jpg",
+  "images": [
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69937.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69938.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69939.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69940.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69941.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69942.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69943.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69944.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69945.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69946.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69937.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69938.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69939.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69940.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69941.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69942.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69943.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69944.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69945.webp",
+    "galerie/r/repeater-cudy-re1200-wzmacnia_69946.webp"
+  ],
+  "manufacturer": "Cudy"
+}

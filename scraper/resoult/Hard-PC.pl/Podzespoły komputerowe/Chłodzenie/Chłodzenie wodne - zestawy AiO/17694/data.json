@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "17694",
+  "code": "WASE-866",
+  "name": "Chłodzenie wodne AiO DeepCool Mystique LCD 360mm",
+  "price": 676.9,
+  "description": "<h2>DeepCool Mystique LCD 360: idealne rozwiązanie typu „wszystko w jednym”</h2><p>Uniwersalny moduł chłodzenia wodą DeepCool Mystique LCD 360 łączy w sobie dobry wygląd z wydajnym chłodzeniem. Blok procesora wyposażony jest w kilka kanałów, które lepiej izolują od siebie gorący i zimny płyn chłodzący, zapewniając w ten sposób bardziej efektywne odprowadzanie ciepła . Dzięki zintegrowanemu wyświetlaczowi masz zawsze pod ręką wszystkie ważne dane i możesz płynnie monitorować swój system.</p><h2>Wydajne chłodzenie procesora</h2><p>Chłodnica 360 mm służy jako radiator dla podgrzewanego płynu chłodzącego. Jest wykonany z aluminium i doskonale nadaje się jako rozpraszacz ciepła. Jego powłoka zapewnia dobrą odporność na korozję, tłuszcz, parę i rozpuszczalniki. Trzy wentylatory 120 mm zawarte w zestawie zapewniają bardzo dobrą przepustowość powietrza . Przekonują bardzo cichą pracą i bardzo dobrym ciśnieniem statycznym. Dzieje się tak dzięki specjalnym skrzydełkom. Ogólnie rzecz biorąc, zapewnia to maksymalną wydajność chłodzenia przy minimalnym poziomie hałasu.</p><h2>Zintegrowane oświetlenie RGB i wyświetlacz na pompie</h2><p>Całość dopełnia zintegrowane oświetlenie RGB. Blok procesora, można dowolnie regulować pod względem koloru i jasności oświetlenia. Oświetlenie można podłączyć do płyty głównej i sterować za pomocą popularnych programów RGB. Wyświetlacz wyraźnie pokazuje wszystkie ważne dane i przyciąga wzrok na pompie.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>Czarny</p></li><li><p>Wymiary chłodnicy</p><p>360 x 27</p></li><li><p>Napięcie pompy</p><p>12 V</p></li><li><p>Liczba wentylatorów</p><p>3 x 120mm</p></li><li><p>Przepływ powietrza</p><p>123,11 m³/h</p></li><li><p>Głośność</p><p>36,5 dBA</p></li><li><p>Połączenie</p><p>4-pin PWM</p></li><li><p>Kompatybilność</p><p>Intel Gniazdo: LGA1700, 1200, 115x, 771<br/>AMD Gniazdo: AM5, AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65291.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65292.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65293.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65294.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65295.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65296.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65291.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65292.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65293.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65294.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65295.webp",
+    "galerie/c/chlodzenie-wodne-aio-deepcool_65296.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

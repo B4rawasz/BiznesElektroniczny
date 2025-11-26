@@ -1,0 +1,30 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20584",
+  "code": "WASE-920",
+  "name": "Chłodzenie wodne AiO Lian Li GALAHAD II Lite RGB 360mm Black",
+  "price": 427.9,
+  "description": "<h2>Lian Li GA II Lite: kompleksowe chłodzenie wodne z lustrem Infinity</h2><p>Podświetlana obudowa pompy mieści geometrycznie idealnie zaaranżowane <strong>lustro nieskończoności</strong>, które tworzy fascynujący efekt głębi dzięki <strong>16 adresowalnym diodom LED</strong>. Obrotowe logo dopasowuje się do każdej pozycji instalacji, zapewniając idealny wygląd niezależnie od sposobu montażu pompy. Efekty ARGB można kontrolować za pomocą płyty głównej lub zewnętrznych kontrolerów i idealnie skoordynować z resztą systemu.</p><h2>Wydajne chłodzenie dla procesorów najwyższej klasy</h2><p>Radiator o dużej powierzchni w połączeniu z trzema wentylatorami RGB o średnicy 120 mm zapewnia <strong>doskonałą wydajność termiczną</strong>. Dzięki ciśnieniu statycznemu <strong>5,1 mmH₂O</strong> i przepływowi powietrza <strong>134,2 m³/h</strong>, nawet podkręcone procesory są bezpiecznie utrzymywane w odpowiedniej temperaturze. Pompa pracuje z prędkością <strong>3800 obr./min</strong> i, dzięki miedzianej płycie podstawy, charakteryzuje się wyjątkowo wydajnym odprowadzaniem ciepła.</p><h2>Schludny, trwały, odporny na przyszłość</h2><p>Dzięki połączeniu szeregowemu wszystkie wentylatory są podłączone jednym kablem, co upraszcza zarządzanie okablowaniem i oszczędza czas podczas instalacji. Węże o długości <strong>400 mm</strong>, pokryte tkaniną, są elastyczne i odporne na ścieranie, dzięki czemu idealnie nadają się do łatwego prowadzenia i różnych typów obudów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Radiator 360 mm: zapewnia ekstremalną wydajność chłodzenia</li><li>Pompka lustrzana Infinity: z obrotowym logo i 16 diodami LED</li><li>3 wentylatory ARGB: konstrukcja szeregowa, 2500 obr./min, 134,2 m³/h</li><li>ARGB sterowane przez płytę główną: synchronizacja z Aura, RGB Fusion itp.</li><li>Obsługa Intel i AMD: LGA1700/1851 i AM4/AM5</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Długość / Głębokość</p><p>397 mm</p></li><li><p>Szerokość</p><p>120 mm</p></li><li><p>Wysokość</p><p>27 mm</p></li><li><p>Gniazdo procesora</p><p>1700, 1851, AM4, AM5</p></li><li><p>Rozmiar wentylatora</p><p>120 mm</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Materiał</p><p>aluminium, miedź</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78967.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78965.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78963.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78964.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78966.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78962.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78967.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78965.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78963.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78964.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78966.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78962.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

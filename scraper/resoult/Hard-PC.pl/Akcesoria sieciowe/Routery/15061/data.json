@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Routery"
+  ],
+  "id": "15061",
+  "code": "TL-WR841N",
+  "name": "Router WiFi TP-Link TL-WR841N",
+  "price": 83.9,
+  "description": "<h2>Szybkie i niezawodne połączenie Wi-Fi</h2><p>Router TP-Link TL-WR841N to urządzenie o dużej wydajności, które pozwala na bezprzewodowe połączenie wielu urządzeń w jednej sieci. Posiada on dwie anteny, które zapewniają stabilne połączenie Wi-Fi o prędkości do 300Mb/s, co sprawia, że jest to idealne rozwiązanie dla użytkowników wymagających szybkiego i niezawodnego połączenia.</p><h2>Bezpieczeństwo sieci dzięki wbudowanemu firewall</h2><p>Router ten oferuje funkcję QoS, dzięki której można kontrolować przepustowość dla różnych urządzeń i aplikacji, co umożliwia kontrolowanie ruchu w sieci i unikanie przeciążeń. Wbudowany firewall zapewnia bezpieczeństwo sieci poprzez blokowanie niepożądanych połączeń i ochronę przed atakami z zewnątrz.</p><p>TL-WR841N posiada także możliwość konfiguracji w trybie WDS, który umożliwia bezprzewodowe rozszerzenie zasięgu sieci, co jest przydatne w przypadku dużej powierzchni mieszkania lub biura.</p><h2>Łatwa i intuicyjna konfiguracja routera</h2><p>Konfiguracja routera jest łatwa i intuicyjna dzięki przyjaznemu interfejsowi użytkownika. Wszystkie ustawienia można dokonać w przeglądarce internetowej, bez konieczności instalowania dodatkowego oprogramowania.</p><p>Podsumowując, TP-Link TL-WR841N to wydajny i niezawodny router, który oferuje wiele funkcji i jest łatwy w konfiguracji. Jest to idealne rozwiązanie dla użytkowników, którzy potrzebują szybkiego i bezpiecznego połączenia Wi-Fi w swoim domu lub biurze.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Prędkość transmisji do 300Mb/s zapewnia płynny przekaz danych wrażliwych na zakłócenia (np. transmisja wideo w jakości HD)</li><li>Oddzielna sieć Wi-Fi dla gości, przy jednoczesnym zabezpieczeniu sieci domowej</li><li>Zgodność z IPv6 (Protokołem internetowym w wersji 6)</li><li>Przycisk WPS umożliwia proste zestawienie połączenia szyfrowanego</li><li>Obsługa funkcji IGMP Proxy/Snooping, Bridge i Tag VLAN zapewnia optymalizację transmisji IPTV</li><li>Kontrola przepustowości umożliwia przypisywanie największej przepustowości wybranym urządzeniom</li><li>Kontrola rodzicielska pozwala na monitorowanie czasu spędzonego w sieci</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standardy</p><p>Wi-Fi 4<br/>IEEE 802.11n/b/g 2,4 GHz</p></li><li><p>Prędkości sieci WiFi</p><p>N300 2,4 GHz 300 Mb/s (802.11n)</p></li><li><p>Zasięg sieci WiFi</p><p>Domy 2-pokojowe</p></li><li><p>Anteny</p><p>2 zintegrowane anteny</p></li><li><p>Wydajność sieci WiFi</p><p>Standardowa</p></li><li><p>Tryby pracy</p><p>Tryb routera<br/>Tryb punktu dostępowego<br/>Tryb wzmacniacza sygnału<br/>Tryb WISP</p></li><li><p>Szyfrowanie sieci WiFi</p><p>WPA<br/>WPA2<br/>WPA3<br/>WPA/WPA2-Enterprise (802.1x)</p></li><li><p>Ochrona sieci</p><p>Zapora sieciowa SPI<br/>Kontrola dostępu<br/>Wiązanie adresów IP i MAC<br/>Application Layer Gateway</p></li><li><p>Funkcja Guest Network</p><p>Sieć dla gości 2,4 GHz</p></li><li><p>Protokoły</p><p>IPv4<br/>IPv6</p></li><li><p>Kontrola rodzicielska</p><p>Filtrowanie adresów URL<br/>Czasowe ograniczenia dostępu</p></li><li><p>Typy sieci WAN</p><p>Dynamiczne przydzielanie adresów IP<br/>Statyczne przydzielanie adresów IP<br/>PPPoE<br/>PPTP<br/>L2TP</p></li><li><p>Quality of Service</p><p>Priorytety QoS dla urządzeń</p></li><li><p>Przekierowywanie NAT</p><p>Serwer wirtualny<br/>Port Forwarding<br/>Port Triggering<br/>DMZ<br/>UPnP</p></li><li><p>IPTV</p><p>IGMP Proxy<br/>IGMP Snooping</p></li><li><p>DHCP</p><p>Rezerwacja adresów<br/>Lista klientów DHCP<br/>Serwer</p></li><li><p>DDNS</p><p>NO-IP<br/>Comex<br/>DynDNS</p></li><li><p>Zarządzanie</p><p>Aplikacja Tether</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tp-link.jpg",
+  "images": [
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54555.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54556.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54557.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54558.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54559.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54555.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54556.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54557.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54558.webp",
+    "galerie/r/router-wifi-tp-link-tl-wr841n_54559.webp"
+  ],
+  "manufacturer": "TP-Link"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "16188",
+  "code": "SSR-1600PD2",
+  "name": "Zasilacz Seasonic PRIME PX-1600 ATX 3.1 80Plus Platinum 1600W",
+  "price": 1817.9,
+  "description": "<p>Przedstawiamy Seasonic PRIME PX 3.1 - zasilacz, który podnosi poprzeczkę jeszcze wyżej. Dzięki zgodności z ATX 3.1 i PCIe 5.1, ta seria zasilaczy bazuje na już imponujących funkcjach platformy PRIME PX, dostarczając niesamowitą wydajność i niezawodność.</p><h2>Zasilaj Nowoczesne Komponenty</h2><p>Najnowsza seria PRIME ATX 3.1 firmy Seasonic jest idealnie przystosowana do zasilania najnowszych komponentów komputerowych, które wymagają zgodności z nowymi standardami ATX 3.1 i PCIe 5.1.</p><h2>Stabilność na Najwyższym Poziomie</h2><p>Dzięki mikrotolerancyjnemu regulowaniu obciążenia, nowa konstrukcja Seasonic zapewnia napięcie wyjściowe w bardzo ścisłym zakresie, osiągając regulację obciążenia poniżej 0,5%. Ta imponująca wydajność elektryczna sprawia, że ten zasilacz to idealny wybór dla systemów o wysokiej wydajności.</p><h2>Kontrola Wentylatora Hybrydowego w Wersji Cyfrowej</h2><p>Doświadczenie Seasonic w projektowaniu cichych i efektywnych zasilaczy przekształciło się w opracowanie trybu hybrydowego, czyli zaawansowanej kontroli wentylatora w wersji cyfrowej. Dzięki temu użytkownicy mogą utrzymać ogólny poziom hałasu wentylatora na najniższym możliwym poziomie, nie rezygnując z wydajności.</p><h2>Łożysko Dynamiczne o Działaniu Płynnym (FDB)</h2><p>Wysoko wydajne wentylatory z łożyskiem dynamicznym o działaniu płynnym (FDB) zostały zaprojektowane tak, aby wykorzystywać efekty pochłaniania wstrząsów oleju. Są niezwykle niezawodne i generują znacznie mniej hałasu i ciepła niż wentylatory z łożyskiem kulkowym. Smarowanie powierzchni łożyska redukuje tarcie i wibracje, co obniża ogólny pobór mocy. Dzięki płynnym, cichszym obrotom i solidnej konstrukcji, ta niezawodna technologia wentylatora znacznie wydłuża żywotność wentylatora.</p><h2>Projekt Bez Kabli</h2><p>Inżynierowie Seasonic wprowadzili innowacyjny element projektu, w którym zamiast kabli, tylna ściana i płyta drukowana (PCB) są połączone miedzianą płytą. To przełomowe rozwiązanie nie tylko zmniejsza ryzyko błędów produkcyjnych podczas ręcznego montażu, ale także poprawia jakość dostarczanego zasilania.</p><p>Dzięki Seasonic PRIME PX 3.1 Series, masz pewność, że Twój komputer będzie gotowy na obsługę najnowszych, wysoko wydajnych kart graficznych i procesorów dostępnych na rynku. To zasilacz, na którym można polegać, zapewniający stabilność i wydajność na najwyższym poziomie. Nie pozostawaj w tyle - ulepsz swój system już teraz!</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>1600 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Platinum</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>135 mm</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Częściowa</p></li><li><p>Obciążalność linii +3.3V</p><p>25 A</p></li><li><p>Obciążalność linii -12V</p><p>0,3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>25 A</p></li><li><p>Obciążalność linii +12V1</p><p>133.3 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>6</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>16</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Ilość wtyczek PCI-e 16-pin</p><p>2 szt</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/seasonic.jpg",
+  "images": [
+    "galerie/z/zasilacz-seasonic-prime-px-16_57558.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57559.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57560.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57561.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57562.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57563.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57564.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57565.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57566.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57567.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57558.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57559.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57560.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57561.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57562.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57563.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57564.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57565.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57566.webp",
+    "galerie/z/zasilacz-seasonic-prime-px-16_57567.webp"
+  ],
+  "manufacturer": "Seasonic"
+}

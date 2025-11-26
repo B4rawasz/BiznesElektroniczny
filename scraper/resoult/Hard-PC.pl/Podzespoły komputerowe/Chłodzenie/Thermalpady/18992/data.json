@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "18992",
+  "code": "ZUWA-141",
+  "name": "Thermalpad Thermal Grizzly Minus Pad 8 – 120x20x1mm",
+  "price": 42.0,
+  "description": "<h2>Thermal Grizzly Minus Pad – Wysokowydajne termopady dla Twojego sprzętu</h2><p>Thermal Grizzly Minus Pad to zaawansowane rozwiązanie dla wymagających użytkowników, które łączy wyjątkową przewodność cieplną, elastyczność oraz łatwość zastosowania. Zaprojektowane z myślą o najbardziej wymagających zastosowaniach, termopady tej serii doskonale sprawdzają się w chłodzeniu procesorów, kart graficznych i innych podzespołów elektronicznych.</p><h2>Wyjątkowa przewodność cieplna</h2><p>Minus Pad oferuje wysoką przewodność cieplną dzięki unikalnej formule opartej na nanocząstkach tlenku aluminium i ceramicznym silikonie. Gwarantuje to optymalne odprowadzanie ciepła z nawet najbardziej wymagających komponentów.</p><h2>Elastyczność i dopasowanie</h2><p>Termopady wyróżniają się dużą elastycznością i doskonale przylegają do nierówności powierzchni. Dzięki temu mogą z łatwością kompensować różnice w wysokości i strukturze elementów, zapewniając pełne pokrycie i efektywny kontakt cieplny.</p><h2>Łatwość aplikacji</h2><p>Dzięki swojej strukturze termopady wymagają minimalnego nacisku do skutecznego zamocowania. Proces instalacji jest szybki i intuicyjny, co czyni je idealnym wyborem zarówno dla profesjonalistów, jak i początkujących użytkowników.</p><h2>Bezpieczeństwo i ekologia</h2><p>Thermal Grizzly Minus Pads są elektrycznie izolujące, co zwiększa bezpieczeństwo ich użytkowania, eliminując ryzyko zwarcia. Ponadto są zgodne z normami RoHS, co oznacza, że są przyjazne dla środowiska.</p><h2>Dostępność w różnych rozmiarach</h2><p>Termopady są dostępne w różnych wymiarach i grubościach, co pozwala na ich dostosowanie do różnorodnych potrzeb i zastosowań.</p><h2>Postaw na jakość i wydajność</h2><p>Thermal Grizzly Minus Pad to niezawodne rozwiązanie dla każdego, kto oczekuje efektywnego i długotrwałego chłodzenia. Dzięki zaawansowanej technologii i łatwej aplikacji zadbasz o swój sprzęt, zapewniając mu optymalne warunki pracy przez długi czas.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Skuteczne chłodzenie: Wysoka przewodność cieplna dla stabilnej pracy komponentów.</li><li>Łatwość montażu: Intuicyjna instalacja nawet dla mniej doświadczonych użytkowników.</li><li>Wszechstronność: Doskonałe do procesorów, kart graficznych i innych podzespołów.</li><li>Ekologiczne materiały: Zgodność z normami RoHS.</li><!-- KONIEC ATRYBUTÓW --></ul><h2>Specyfikacja Produktu:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Wymiary</p><p>100 x 20 x 1 mm (szer. x wys. x gł.)</p></li><li><p>Materiał</p><p>Nano-tlenek aluminium, ceramiczny silikon</p></li><li><p>Kolor</p><p>Beżowy / kolor skóry</p></li><li><p>Grubość</p><p>1mm</p></li><li><p>Bezpieczeństwo</p><p>Elektryczna izolacja, zgodność z RoHS</p></li><!-- KONIEC ATRYBUTÓW --></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/t/thermalpad-thermal-grizzly-mi_69828.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_69829.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_69830.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_69828.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_69829.webp",
+    "galerie/t/thermalpad-thermal-grizzly-mi_69830.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

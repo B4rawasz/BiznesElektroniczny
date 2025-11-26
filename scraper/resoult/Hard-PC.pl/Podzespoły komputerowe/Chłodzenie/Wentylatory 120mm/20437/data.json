@@ -1,0 +1,34 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Wentylatory 120mm"
+  ],
+  "id": "20437",
+  "code": "LUPH-099",
+  "name": "Wentylator Phanteks M25 Gen2 PWM D-RGB Fan 3-pack 120mm - czarny",
+  "price": 127.9,
+  "description": "<h2>PHANTEKS M25 Gen2: Wydajność chłodzenia i wyjątkowa konstrukcja</h2><p>Wentylatory M25 Gen2 nie tylko skutecznie chłodzą komputer, ale również olśniewają swoim wyglądem. Konstrukcja łopatek zapewnia doskonały przepływ powietrza nawet przy niskich prędkościach, także podczas pracy przed radiatorem lub za drobną siatką. Wbudowane oświetlenie RGB oraz lustro Infinity idealnie uzupełniają obudowę M25 Gen2, gwarantując unikalny, efektowny design.</p><h2>Niezwykle wydajny i cichy</h2><p>Hałas wentylatora może przeszkadzać w rozgrywce i koncentracji. Dzięki hydrodynamicznym łożyskom ślizgowym, PHANTEKS M25 Gen2 działa wyjątkowo cicho, osiągając maksymalny poziom hałasu zaledwie 35,13 dB(A). Redukcja tarcia pozwala na wyższą prędkość obrotową przy tym samym zużyciu energii, co skutkuje znacznie zwiększonym przepływem powietrza i ponadprzeciętną wydajnością – idealną do intensywnych sesji gamingowych.</p><h2>Idealne chłodzenie dla Twojego sprzętu high-end</h2><p>Zoptymalizowane łopatki wentylatora zapewniają doskonałą współpracę z radiatorami. Wysokie ciśnienie statyczne na poziomie 2,51 mmH2O gwarantuje optymalny przepływ powietrza nawet przy niskich obrotach, co przekłada się na efektywne chłodzenie komponentów high-end. Przepływ powietrza wynoszący 123,55 m³/h zapewnia stały dopływ świeżego powietrza do systemu.</p><h2>Zoptymalizowane zarządzanie okablowaniem dzięki LINQ6 i gumowym amortyzatorom zapewniającym cichą pracę</h2><p>System zarządzania kablami pozwala na obsługę wielu wentylatorów połączonych szeregowo. Do działania potrzebny jest tylko jeden kabel combo PWM/RGB, który przesyła sygnał przez złącze LINQ6. Wbudowane gumowe bufory na narożnikach skutecznie tłumią drgania, zapobiegając ich przenoszeniu na obudowę, co zapewnia stabilnie cichą pracę urządzenia.</p><h2>Stylowe oświetlenie RGB i lustra Infinity przyciągają wzrok</h2><p>Adresowalne, zintegrowane oświetlenie RGB wraz z lustrem Infinity daje niemal nieograniczone możliwości efektów świetlnych, pozwalając wyróżnić Twój komputer gamingowy i nadać mu wyjątkowego charakteru.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Wentylator PWM 120 mm w kolorze czarnym</li><li>Łączenie szeregowe dla kabli mniej widocznych</li><li>Zoptymalizowany do stosowania przed radiatorami lub za siatką</li><li>Cyfrowo adresowalne diody LED RGB i lustra Infinity</li><li>Maksymalna prędkość 2000 obr./min przy 35,13 dB(A)</li><li>Maksymalny przepływ 123,55 m³/h i maks. ciśnienie statyczne 2,51 mmH2O</li><li>Gumowe podkładki na rogach, które izolują przeszkadzające wibracje</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Długość / Głębokość</p><p>120 mm</p></li><li><p>Szerokość</p><p>120 mm</p></li><li><p>Wysokość wentylatora</p><p>25 mm</p></li><li><p>Rozmiar wentylatora</p><p>120 mm</p></li><li><p>Wyrównanie łopatek wentylatora</p><p>standard</p></li><li><p>min. prędkość wentylatora</p><p>350 obr./min.</p></li><li><p>maksymalna prędkość wentylatora</p><p>2000 obr./min</p></li><li><p>maks. przepływ (pojedynczy wentylator)</p><p>123,55 m³/godz.</p></li><li><p>maksymalne ciśnienie statyczne</p><p>2,51 mmH2O</p></li><li><p>Napięcie znamionowe</p><p>12 V</p></li><li><p>Napięcie początkowe</p><p>7 V</p></li><li><p>Maksymalny poziom hałasu wentylatora dB(A) (pojedynczy wentylator)</p><p>35,13 dB(A)</p></li><li><p>Złącza wentylatora</p><p>LINQ6</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Kolor oświetlenia</p><p>RGB</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/w/wentylator-phanteks-m25-gen2_77053.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77056.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77054.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77052.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77057.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77058.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77055.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77059.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77053.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77056.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77054.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77052.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77057.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77058.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77055.webp",
+    "galerie/w/wentylator-phanteks-m25-gen2_77059.webp"
+  ],
+  "manufacturer": "Phanteks"
+}

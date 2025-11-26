@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Odkurzacze"
+  ],
+  "id": "17207",
+  "code": "TSL-VC-AI200",
+  "name": "Tesla Smart Robot sprzątający laserowy AI200",
+  "price": 1299.0,
+  "description": "<h2>Najlepsze czujniki do sprzątania bez troski</h2><p>Odkurzacz nie spadnie ze schodów i natychmiast się zorientuje. Posiada czujniki zapobiegające upadkom i kolizjom oraz laserowy system nawigacji zapewniający prawidłową orientację w pomieszczeniu.</p><h2>Ustaw granice</h2><p>Chcesz po prostu posprzątać okruchy w jadalni po śniadaniu? Nie ma problemu. Skieruj robota sprzątającego właśnie tam. Odkurz całe pomieszczenie lub tylko jego część. Możesz użyć wirtualnych ścian, aby wyznaczyć robotowi granice, której nie przekroczy.</p><h2>Jeszcze jeden uczestnik inteligentnego domu</h2><p>Ustaw sprzątanie przed powrotem do domu z pracy lub ustaw go tak, aby wyłączał się automatycznie po włączeniu telewizora. Doskonale połączony inteligentny dom oferuje dziesiątki innych możliwych scenariuszy i automatyzacji dzięki inteligentnemu robotowi sprzątającemu TESLA Laser AI200.</p><h2>Sterowanie za pomocą aplikacji lub asystenta</h2><p>Wybierz metodę komunikacji, która najbardziej Ci odpowiada. Czy masz w domu Amazon Alexa lub Google Home? Podłącz je i steruj za pomocą asystentów głosowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>1 szt</p></li><li><p>Wysokość:</p><p>7 cm</p></li><li><p>Szerokość:</p><p>33 cm</p></li><li><p>Głębokość:</p><p>33 cm</p></li><li><p>Waga:</p><p>3.94 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-robot-sprzatajacy_63062.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63063.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63064.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63065.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63066.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63062.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63063.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63064.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63065.webp",
+    "galerie/t/tesla-smart-robot-sprzatajacy_63066.webp"
+  ],
+  "manufacturer": "Tesla"
+}

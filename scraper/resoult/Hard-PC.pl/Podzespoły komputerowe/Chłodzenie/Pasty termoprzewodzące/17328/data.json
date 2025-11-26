@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "17328",
+  "code": "ACTCP00081A",
+  "name": "Pasta termoprzewodząca Arctic MX-6 - 8g",
+  "price": 39.0,
+  "description": "OPIS <h2>Najnowsza technologia dla Twojego komputera</h2><p>Arctic MX-6 to niezawodna pasta termoprzewodząca, która zapewnia maksymalną wydajność bez ryzyka przewodzenia prądu. Dzięki innowacyjnemu składowi na bazie wypełniacza węglowego, MX-6 gwarantuje doskonałą przewodność cieplną bez konieczności stosowania drogich składników, jak pył diamentowy czy metale szlachetne. Teraz możesz cieszyć się optymalną temperaturą bez obaw o przegrzewanie się komponentów.</p><h2>Łatwa aplikacja, stała wydajność</h2><p>Dzięki swojej konsystencji, pasta MX-6 jest łatwa w aplikacji nawet dla początkujących użytkowników. Oferuje stałą i długotrwałą wydajność, eliminując ryzyko wycieków czy przewodzenia prądu. Dodatkowo, jej wszechstronność sprawia, że jest idealna do różnych zastosowań, od montażu radiatora po chłodzenie matrycy czy procesora graficznego.</p><h2>Bezpieczeństwo i jakość</h2><p>Arctic MX-6 została opracowana z myślą o zapewnieniu najwyższej jakości w uczciwej cenie. Dzięki ponad 20-letniemu doświadczeniu w branży, możesz być pewien, że otrzymujesz produkt sprawdzony i godny zaufania. Dodatkowo, pasta termiczna Arctic MX-6 jest łatwa do czyszczenia, co zapewnia długotrwałą ochronę dla Twojego sprzętu.</p><p>Zadbaj o stabilną temperaturę swojego komputera z Arctic MX-6 - pasta termoprzewodząca dla wymagających użytkowników.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Opakowanie</p><p>Strzykawka</p></li><li><p>Kolor</p><p>Szary</p></li><li><p>Siła dielektryczna</p><p>7,5 kV/mm</p></li><li><p>Gęstość</p><p>2,6 g/cm3</p></li><li><p>Lepkość</p><p>45000 poise</p></li><li><p>Waga</p><p>8 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Arctic</p></li><li><p>Dane producenta</p><p>ARCTIC GmbH, Bevenroder Straße 149, 38108 Braunschweig, info@arctic.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/arctic.jpg",
+  "images": [
+    "galerie/p/pasta-termoprzewodzaca-arctic_61660.webp",
+    "galerie/p/pasta-termoprzewodzaca-arctic_61660.webp"
+  ],
+  "manufacturer": "Arctic"
+}

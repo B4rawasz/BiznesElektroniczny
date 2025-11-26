@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory AMD"
+  ],
+  "id": "16812",
+  "code": "100-000000927B",
+  "name": "Procesor AMD Ryzen 5 5600 3.5 GHz, 32 MB, AM4 + chłodzenie BOX",
+  "price": 589.0,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Gniazdo procesora</p><p>Socket AM4</p></li><li><p>Taktowanie procesora</p><p>3.5 GHz</p></li><li><p>Taktowanie (Boost)</p><p>4.4 GHz</p></li><li><p>Liczba rdzeni</p><p>6</p></li><li><p>Liczba wątków</p><p>12</p></li><li><p>Cache L2</p><p>3 MB</p></li><li><p>Cache L3</p><p>32 MB</p></li><li><p>Obsługa ECC</p><p>Nie</p></li><li><p>Technologia wykonania</p><p>7 nm</p></li><li><p>Architektura</p><p>64-bit</p></li><li><p>Dodatkowe chłodzenie</p><p>Tak z wersji BOX</p></li><li><p>Wersja</p><p>OEM</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Advanced Micro Devices, Inc., 2485 Augustine Drive, 95054, Santa Clara, CA , USA, youtube@amd.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Advanced Micro Devices GmbH, Einsteinring 22-28, 85609 Aschheim, Munich, Niemcy, +49 89-450-53100</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/amd.jpg",
+  "images": [
+    "galerie/p/procesor-amd-ryzen-5-5600-3-5_59215.webp",
+    "galerie/p/procesor-amd-ryzen-5-5600-3-5_59215.webp"
+  ],
+  "manufacturer": "Lamzu"
+}

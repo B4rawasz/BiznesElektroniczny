@@ -1,0 +1,18 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Strefa Gracza",
+        "Słuchawki dla graczy"
+    ],
+    "id": "12576",
+    "code": "",
+    "name": "Bon zakupowy do sklepu Hard-Pc Voucher - 50zł",
+    "price": 50.0,
+    "description": "<h2>Chcesz sprawić komuś prezent?</h2><p>Bon kwotowy to idealne rozwiązanie jeśli nie masz pomysłu na prezent, a decyzję o nim chcesz pozostawić obdarowywanej osobie.</p><p>Wartość bonu możesz ustalić dowolnie (minimalnie 50zł) poprzez dodanie do koszyka wielokrotności tej kwoty</p><p>Po zakupie i opłaceniu zamówienia otrzymasz od nas mailowo kod obniżający wartość zamówienia o wartość bonu*</p><p><i>Realizacja zamówień na vouchery możliwa jedynie przy przedpłacie. Jako formę transportu należy wybrać \"Odbiór osobisty w siedzibie firmy\"</i></p>",
+    "security_data": "",
+    "manufacturer_img": "galerie/producenci/hard-pc.jpg",
+    "images": [
+        "galerie/b/bon-zakupowy-do-sklepu-hard-p_45098.webp",
+        "galerie/b/bon-zakupowy-do-sklepu-hard-p_45098.webp"
+    ]
+}

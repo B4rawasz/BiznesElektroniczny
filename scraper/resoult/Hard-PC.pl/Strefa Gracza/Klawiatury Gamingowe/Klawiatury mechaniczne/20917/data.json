@@ -1,0 +1,34 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Klawiatury mechaniczne"
+  ],
+  "id": "20917",
+  "code": "K10M-A4",
+  "name": "Klawiatura Keychron K10 Max QMK Wireless Super Banana",
+  "price": 499.0,
+  "description": "<h2>Keychron K10 Max – pełnowymiarowa klawiatura mechaniczna 100%</h2><p>Keychron K10 Max to bezprzewodowa klawiatura mechaniczna w pełnym układzie 100%, zaprojektowana z myślą o graczach i profesjonalistach. Obsługuje trzy tryby łączności: 2,4 GHz z odświeżaniem 1000 Hz, Bluetooth 5.1 (do 3 urządzeń) oraz połączenie przewodowe USB-C. Dzięki wsparciu dla QMK/VIA i aplikacji Keychron Launcher oferuje pełną personalizację – od makr po remapowanie klawiszy.</p><h2>Wysoka wydajność i niskie opóźnienia</h2><p>Architektura ARM Cortex-M4 z 256 KB pamięci Flash oraz częstotliwość odświeżania 1000 Hz w trybie 2,4 GHz i przewodowym zapewniają błyskawiczną reakcję. To sprawia, że K10 Max jest idealna zarówno do pracy wielozadaniowej, jak i dynamicznych gier.</p><h2>Komfort pisania i trwałość</h2><p>Wielowarstwowe pianki akustyczne (IXPE, PET, EPDM) poprawiają brzmienie i odczucie klawiszy, a stalowa płyta wzmacnia konstrukcję i stabilność. Klawiatura jest wyposażona w nakładki keycap OSA z double-shot PBT, które są odporne na ścieranie i zapewniają wygodę nawet podczas długiego użytkowania.</p><h2>Hot-swap i Keychron Super Switch</h2><p>Wersja hot-swap umożliwia wymianę switchy bez lutowania – kompatybilna z większością 3- i 5-pinowych przełączników MX. Keychron Super Switch gwarantuje trwałość do 50 milionów kliknięć i precyzyjne działanie.</p><h2>Podświetlenie i ergonomia</h2><p>Klawiatura posiada 22 tryby podświetlenia RGB skierowanego na południe, które lepiej eksponuje efekty świetlne. Trzy stopnie regulacji kąta oraz wyprofilowane keycapy OSA zapewniają ergonomiczne wsparcie dla nadgarstków podczas pisania i grania.</p><h2>Kompatybilność i uniwersalność</h2><p>K10 Max jest kompatybilna z macOS, Windows i Linux. W zestawie znajdują się dodatkowe keycapy dla systemów Windows i macOS oraz przełącznik systemowy, co pozwala zapisać dwa różne układy i błyskawicznie je przełączać.</p><figure><img alt=\"\" height=\"975\" src=\"galerie/k/klawiatura-keychron-k10-max-q_78653.webp\" width=\"3290\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba klawiszy</p><p>108 (100%)</p></li><li><p>Switch</p><p>Keychron Super (mechaniczne, hot-swap w wybranych wersjach)</p></li><li><p>Układ</p><p>ANSI</p></li><li><p>Keycapy</p><p>Double-shot PBT, profil OSA</p></li><li><p>Konstrukcja</p><p>Stalowa płyta, wkręcane stabilizatory PCB</p></li><li><p>Podświetlenie</p><p>Białe LED</p></li><li><p>Łączność</p><p>2,4 GHz / Bluetooth 5.1 (3 urządzenia) / przewodowe USB-C</p></li><li><p>Częstotliwość odświeżania</p><p>1000 Hz (2,4 GHz i przewodowe), 90 Hz (Bluetooth)</p></li><li><p>N-Key Rollover</p><p>Tak (w trybach przewodowym i bezprzewodowym)</p></li><li><p>Bateria</p><p>4000 mAh (Li-Po)</p></li><li><p>Czas pracy (bez podświetlenia)</p><p>do 190 h</p></li><li><p>Czas pracy (białe)</p><p>do 100 h (najniższa jasność)</p></li><li><p>Wymiary</p><p>447,37 × 139,82 mm</p></li><li><p>Waga</p><p>1530 g</p></li><li><p>Wysokość z keycapami</p><p>32,9 mm (przód) / 40,1 mm (tył)</p></li><li><p>Kąt pisania</p><p>3,43º / 7,26º / 10,06º</p></li><li><p>MCU</p><p>ARM Cortex-M4 STM32F402 (32-bit, 256KB Flash)</p></li><li><p>Kompatybilność</p><p>macOS, Windows, Linux</p></li><li><p>Akcesoria w zestawie</p><p>Dodatkowe keycapy dla macOS i Windows, kabel USB-C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Keychron</p></li><li><p>Dane producenta</p><p>Keychron Technology, Inc., Middletown, New Castle, Delaware, 19709 Middletown, USA, support@keychron.com</p></li><li><p>Podmiot odpowiedzialny</p><p>APEX CE SPECIALISTS LIMITED, UNIT 3D NORTH POINT HOUSE, NORTH POINT BUSINESS PARK, NEW MALLOW ROALD, Cork, IE, T23AT2P, support@keychron.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/keychron.jpg",
+  "images": [
+    "galerie/k/klawiatura-keychron-k10-max-q_78656.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78646.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78647.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78648.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78649.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78650.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78651.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78653.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78656.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78646.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78647.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78648.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78649.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78650.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78651.webp",
+    "galerie/k/klawiatura-keychron-k10-max-q_78653.webp"
+  ],
+  "manufacturer": "Keychron"
+}

@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "9058",
+  "code": "TRASRO33237",
+  "name": "Sprężone powietrze Tracer Air Duster 600ml",
+  "price": 15.9,
+  "description": "<p style=\"font-size: 12px; font-weight: 400;\">Sprężony gaz doskonale czyści i usuwa kurz z trudno dostępnych miejsc w urządzeniach biurowych takich jak: klawiatury, obudowy komputerowe, drukarki, faksy itp. Bardzo prosty w użyciu, a dzięki dokładanej kapilarnej rurce możliwe jest precyzyjne skierowanie silnego strumienia gazu w zabrudzone miejsce.  </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul id=\"attribs\" style=\"font-size: 12px; font-weight: 400;\"><li>Pojemność: 600ml</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tracer</p></li><li><p>Dane producenta</p><p>Megabajt Sp. z o.o., ul. Rydygiera 8 /budynek 6A/, 01-793 Warszawa, email : info@megabajt.com.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tracer.jpg",
+  "images": [
+    "galerie/s/sprezone-powietrze-tracer-air_26288.webp",
+    "galerie/s/sprezone-powietrze-tracer-air_26289.webp",
+    "galerie/s/sprezone-powietrze-tracer-air_26288.webp",
+    "galerie/s/sprezone-powietrze-tracer-air_26289.webp"
+  ],
+  "manufacturer": "Tracer"
+}

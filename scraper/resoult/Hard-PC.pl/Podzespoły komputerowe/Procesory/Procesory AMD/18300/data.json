@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory AMD"
+  ],
+  "id": "18300",
+  "code": "100-100000031SBX",
+  "name": "Procesor AMD Ryzen 5 3600, 3.6GHz, 32MB, AM4, BOX",
+  "price": 213.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Częstotliwość bazowa procesora</p><p>3,6 GHz</p></li><li><p>Typ procesora</p><p>AMD Ryzen™ 5</p></li><li><p>Liczba rdzeni procesora</p><p>6</p></li><li><p>Gniazdo procesora</p><p>Socket AM4</p></li><li><p>Przeznaczenie</p><p>PC</p></li><li><p>Proces litograficzny</p><p>7 nm</p></li><li><p>Liczba wątków</p><p>12</p></li><li><p>Tryb pracy procesora</p><p>32-bit<br/>64-bit</p></li><li><p>Maksymalne taktowanie procesora</p><p>4,2 GHz</p></li><li><p>Cache procesora</p><p>32 MB</p></li><li><p>Typ pamięci procesora</p><p>L3</p></li><li><p>Termiczny układ zasilania (TDP)</p><p>65 W</p></li><li><p>Typy pamięci wspierane przez procesor</p><p>DDR4-SDRAM</p></li><li><p>Taktowanie zegara pamięci wspierane przez procesor</p><p>3200 MHz</p></li><li><p>Obsługa kanałów pamięci</p><p>Dwukanałowy</p></li><li><p>Wbudowana karta graficzna</p><p>Nie</p></li><li><p>Dedykowana karta graficzna</p><p>Nie</p></li><li><p>Model wbudowanej karty graficznej</p><p>Niedostępny</p></li><li><p>Model dedykowanej karty graficznej</p><p>Niedostępny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Advanced Micro Devices, Inc., 2485 Augustine Drive, 95054, Santa Clara, CA , USA, youtube@amd.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Advanced Micro Devices GmbH, Einsteinring 22-28, 85609 Aschheim, Munich, Niemcy, +49 89-450-53100</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/amd.jpg",
+  "images": [
+    "galerie/p/procesor-amd-ryzen-5-3600-3-6_68326.webp",
+    "galerie/p/procesor-amd-ryzen-5-3600-3-6_68326.webp"
+  ],
+  "manufacturer": "Lamzu"
+}

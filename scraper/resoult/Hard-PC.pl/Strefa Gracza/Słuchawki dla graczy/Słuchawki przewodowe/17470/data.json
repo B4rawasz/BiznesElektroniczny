@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Słuchawki dla graczy",
+    "Słuchawki przewodowe"
+  ],
+  "id": "17470",
+  "code": "GAPL-1394",
+  "name": "Słuchawki Fnatic REACT  7.1 USB",
+  "price": 371.9,
+  "description": "<p>Słuchawki Fnatic React + zostały zaprojektowane specjalnie dla graczy, którzy nie tylko chcą cieszyć się wysokiej jakości dźwiękiem, ale także komunikować się ze swoim zespołem z krystaliczną klarownością. Połączenie 52mm przetworników z zamkniętą konstrukcją dostarcza naturalnego i zrównoważonego dźwięku o szerokim paśmie przenoszenia. React+ można podłączyć zarówno poprzez jack 3.5mm jak i przez dołączoną kartę USB, która generuje również zwrirtualizowany dźwięk 7.1. Dzięki niej istnieje również możliwość regulacja głośności słuchawek, mikrofonu jak i jego wyciszenie</p><p>Funkcje słuchawek Fnatic React + zostały doskonale dopasowane do ich zamierzonego zastosowania. 1,2-metrowy, jednostronny kabel ułatwia codzienne użytkowanie, a solidna konstrukcja ze sprężystej stali zapewnia pewne dopasowanie i niezawodne noszenie. Dodatkowy kabel USB z kartą dźwiękową ma długość 1,6 metra.</p><p>Miękkie, wyściełane muszle zapewniają wysoki poziom komfortu noszenia przez długi czas. Nakładki na uszy są dostępne w dwóch różnych wersjach: jedna z pokryciem ze skóry syntetycznej, a druga z weluru. Dzięki temu Fnatic React + to właściwy wybór dla graczy, którzy cenią wyjątkowy komfort i chcą komunikować się bez zakłóceń.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Średnica przetwornika</p><p>52 mm</p></li><li><p>Konstrukcja</p><p>zamknięta</p></li><li><p>Pasmo przenoszenia</p><p>20 - 40,000 Hz</p></li><li><p>Ciśnienie akustyczne</p><p>117 dB / mW</p></li><li><p>Moc znamionowa</p><p>500 mW</p></li><li><p>Impedancja</p><p>23 Ohm</p></li><li><p>Połączenie</p><p>3.5 mm jack (4-pin)</p></li><li><p>W zestawie</p><p>Fnatic React+<br/>1x USB-A (1.6 m, zintegrowany z kartą dźwiękową)<br/>2x pary nausznic (skóra syntetyczna, welur)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fnatic</p></li><li><p>Dane producenta</p><p>Fnatic Gear Ltd, 1 Kingsland Passage, E8 2BB London, UK, shop@fnatic.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fnatic.jpg",
+  "images": [
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63807.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63808.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63809.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63810.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63811.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63807.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63808.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63809.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63810.webp",
+    "galerie/s/sluchawki-fnatic-react-7-1-us_63811.webp"
+  ],
+  "manufacturer": "Fnatic"
+}

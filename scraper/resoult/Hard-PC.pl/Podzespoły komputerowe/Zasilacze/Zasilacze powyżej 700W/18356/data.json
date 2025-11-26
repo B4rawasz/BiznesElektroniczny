@@ -1,0 +1,40 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze powyżej 700W"
+  ],
+  "id": "18356",
+  "code": "FOCUS-PX-750",
+  "name": "Zasilacz Seasonic FOCUS PX-750 80Plus Platinum 750W",
+  "price": 602.9,
+  "description": "<p>Seasonic FOCUS PX-750 to zaawansowany zasilacz komputerowy o mocy 750W, który łączy nowoczesne technologie z doskonałą efektywnością energetyczną, potwierdzoną certyfikatem 80Plus Platinum. Zapewnia wyjątkową wydajność, a dzięki kompaktowym rozmiarom idealnie nadaje się do montażu w różnych obudowach ATX. Zasilacz ten został zaprojektowany z myślą o użytkownikach oczekujących niezawodności, stabilności i ciszy w pracy komputera.</p><h2>Modularna budowa i zaawansowane zabezpieczenia</h2><p>Dzięki w pełni modularnej konstrukcji okablowania, Seasonic FOCUS PX-750 umożliwia łatwe prowadzenie kabli, co pozwala na lepszą organizację wnętrza komputera. Ponadto, zasilacz oferuje liczne zabezpieczenia, takie jak OPP, OVP, UVP, SCP, OCP, OTP, chroniące podzespoły przed uszkodzeniami.</p><p>Seasonic FOCUS PX-750 to doskonały wybór dla wymagających użytkowników, którzy szukają zasilacza łączącego wydajność, niezawodność i energooszczędność.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Zasilacz o mocy 750 W</li><li>Spełnia wymagania specyfikacji ATX 2.4</li><li>W pełni modularna konstrukcja</li><li>Potężna linia +12V o obciążalności 62A (744W)</li><li>Cichy i niezawodny wentylator 120mm z łożyskiem FDB</li><li>Zwarta konstrukcja o długości 140mm pasuje do każdej obudowy ATX</li><li>Wysoka sprawnosć potwierdzona potwierdzona certyfikatem 80Plus Platinum</li><li>Zaawansowany układ hybrydowej pracy wentylatora S3FC</li><li>Topologia “full bridge” LLC oraz konwertery DC-DC</li><li>Podwójne PCB płytki z gniazdami przewodów dla stabilniejszych napięć</li><li>Usuniete kondensatory z przewodów dla łatwiejszego prowadzenia w obudowie</li><li>Dwa kable zasilające CPU i aż 10 SATA</li><li>Zgodność środowiskowa: Energy Star, RoHS, WEEE, ErP Lot 6, REACH</li><li>Bezpieczeństwo i EMC: cTUVus, TUV, CB, CCC, BSMI, EAC, CE</li><li>Najwyższa jakość wykonania potwierdzona 10 latami gwarancji</li><li>Zabezpieczenia OPP / OVP / UVP / SCP / OCP / OTP</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>750 W</p></li><li><p>Standard</p><p>ATX</p></li><li><p>Odpinane przewody</p><p>W pełni odpinane</p></li><li><p>Certyfikat sprawności</p><p>80Plus Platinum</p></li><li><p>Kolor obudowy</p><p>Czarny</p></li><li><p>Ilość wentylatorów</p><p>1</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Układ PFC</p><p>Aktywny</p></li><li><p>Podświetlenie</p><p>Nie</p></li><li><p>Pasywna praca</p><p>Częściowa</p></li><li><p>Liczba linii +12V</p><p>1</p></li><li><p>Obciążalność linii +3.3V</p><p>20 A</p></li><li><p>Obciążalność linii -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +5Vsb</p><p>3 A</p></li><li><p>Obciążalność linii +5V</p><p>20 A</p></li><li><p>Obciążalność linii +12V1</p><p>62 A</p></li><li><p>Ilość wtyczek PCIe 8-pin (6+2)</p><p>4</p></li><li><p>Ilość wtyczek SATA 15-pin</p><p>10</p></li><li><p>Ilość wtyczek Molex 4-pin</p><p>3</p></li><li><p>Ilość wtyczek CPU 8/4-Pin</p><p>2</p></li><li><p>Ilość wtyczek MB 24/20-Pin</p><p>1</p></li><li><p>Długość zasilacza</p><p>140 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Seasonic</p></li><li><p>Dane producenta</p><p>Sea Sonic Europe BV, Rietveld 7, 5258 ED Berlicum, The Netherlands, europe@seasonic.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/seasonic.jpg",
+  "images": [
+    "galerie/z/zasilacz-seasonic-focus-px-75_68339.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68340.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68341.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68342.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68343.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68344.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68345.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68346.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68347.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68348.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68349.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68339.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68340.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68341.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68342.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68343.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68344.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68345.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68346.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68347.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68348.webp",
+    "galerie/z/zasilacz-seasonic-focus-px-75_68349.webp"
+  ],
+  "manufacturer": "Seasonic"
+}

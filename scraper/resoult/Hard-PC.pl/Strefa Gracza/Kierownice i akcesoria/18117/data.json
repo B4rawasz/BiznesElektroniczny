@@ -1,0 +1,19 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Kierownice i akcesoria"
+  ],
+  "id": "18117",
+  "code": "GAJO-518",
+  "name": "MOZA Baseplate (dla wszystkich kierownic MOZA)",
+  "price": 87.9,
+  "description": "<p>Adapter MOZA umożliwia łatwy montaż wszystkich baz kierownicy MOZA do symulatorów z punktami montażowymi 66 mm, rozszerzając możliwości Twojego domowego setupu wyścigowego.</p><h2>Łatwy montaż</h2><p>Adapter płyta MOZA jest kompatybilna ze wszystkimi bazami kierownicy MOZA, co pozwala na szybką i bezproblemową instalację w symulatorach z punktami montażowymi 66 mm. Ulepsz swoje stanowisko wyścigowe i ciesz się bardziej realistycznymi wrażeniami.</p><h2>Trwałość na lata</h2><p>Wykonana z wysokiej jakości stali, płyta adaptera zapewnia wyjątkową trwałość i stabilność. Konstrukcja gwarantuje brak niechcianych wibracji czy chybotania, co przekłada się na pełną kontrolę i komfort podczas wyścigów.</p><h2>Doskonałe uzupełnienie każdego setupu wyścigowego</h2><p>Adapter płyta MOZA to niezbędny element dla każdego miłośnika symulacji wyścigowych, który chce zapewnić sobie maksymalną stabilność i wszechstronność podczas jazdy. Zwiększ swoje możliwości montażowe i dopasuj symulator do własnych potrzeb.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Materiał</p><p>stal</p></li><li><p>Grubość materiału</p><p>5mm</p></li><li><p>Kompatybilność</p><p>rozstawy osi MOZA</p></li><li><p>Zakres dostawy</p><p>1x płyta adaptera MOZA<br/>1x zestaw akcesoriów</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Moza Racing</p></li><li><p>Dane producenta</p><p>Gudsen Technology (HK) CO., Limited., RM 416/F HO KING COMM CTR 2-16 FAYUEN ST MONGKOK KL HongKong, support@mozaracing.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moza-racing.jpg",
+  "images": [
+    "galerie/m/moza-baseplate-for-all-moza-w_66684.webp",
+    "galerie/m/moza-baseplate-for-all-moza-w_66684.webp"
+  ],
+  "manufacturer": "Moza Racing"
+}

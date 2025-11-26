@@ -1,0 +1,21 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Słuchawki dla graczy"
+  ],
+  "id": "20155",
+  "code": "4820216973273",
+  "name": "Słuchawki Fifine AmpliGame H9P",
+  "price": 199.99,
+  "description": "<h2>Komfort i izolacja dźwiękowa</h2><p>Słuchawki Fifine H9P to doskonały wybór dla graczy, którzy oczekują wygody podczas długich sesji grania. Konstrukcja nauszna zapewnia wygodne dopasowanie i skuteczną izolację akustyczną, blokując hałas zewnętrzny i pozwalając skupić się na dźwiękach gry.</p><h2>Dźwięk przestrzenny 7.1 i precyzyjna lokalizacja</h2><p>Technologia dźwięku przestrzennego 7.1 umożliwia pełne zanurzenie się w świat gry oraz dokładne określenie kierunku dźwięków, co jest kluczowe dla efektywnej rozgrywki i szybkiego reagowania na wydarzenia w grze.</p><h2>Odłączany mikrofon i sterowanie</h2><p>Fifine H9P wyposażono w odpinany mikrofon o czułości -40 ± 3 dB, który zapewnia czystą komunikację bez szumów i pisków. Mechaniczne sterowanie pozwala wygodnie wyciszyć mikrofon i aktywować dźwięk przestrzenny, a regulator głośności umieszczony na kablu umożliwia szybką i łatwą regulację dźwięku podczas gry.</p><h2>Wytrzymała konstrukcja i wygoda użytkowania</h2><p>Obudowa słuchawek wykonana jest z trwałych materiałów – plastiku i metalu, które gwarantują odporność na uszkodzenia i długą żywotność zestawu. Kabel o długości 2 m z materiałowym oplotem zapewnia wygodę podczas korzystania i wytrzymałość na przetarcia.</p><h2>Szeroka kompatybilność</h2><p>Słuchawki Fifine H9P współpracują z popularnymi konsolami do gier, takimi jak Microsoft Xbox One, Xbox Series X|S, Sony PlayStation 4 i 5 oraz Nintendo Switch, co daje użytkownikom swobodę wyboru platformy do rozgrywki.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>różowy</p></li><li><p>Złącze</p><p>USB + 3 mm</p></li><li><p>Zasilanie</p><p>5 V ± 0,25 V</p></li><li><p>Prąd pracy</p><p>200 mA</p></li><li><p>Częstotliwość próbkowania</p><p>48 kHz</p></li><li><p>Pasmo przenoszenia</p><p>20 Hz - 20 kHz</p></li><li><p>Czułość mikrofonu</p><p>40 dB ± 3 dB (przy 1 kHz)</p></li><li><p>Typ mikrofonu</p><p>dookólny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fifine.jpg",
+  "images": [
+    "galerie/s/sluchawki-fifine-ampligame-h9_76750.webp",
+    "galerie/s/sluchawki-fifine-ampligame-h9_76751.webp",
+    "galerie/s/sluchawki-fifine-ampligame-h9_76750.webp",
+    "galerie/s/sluchawki-fifine-ampligame-h9_76751.webp"
+  ],
+  "manufacturer": "Fifine"
+}

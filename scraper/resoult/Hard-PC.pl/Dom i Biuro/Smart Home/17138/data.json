@@ -1,0 +1,31 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home"
+  ],
+  "id": "17138",
+  "code": "TSL-HC-SC100",
+  "name": "Tesla Smart analityczna waga łazienkowa TUYA",
+  "price": 99.0,
+  "description": "<p>Wystarczy wejść na wagę, a wszystkie ważne parametry zostaną wyraźnie wyświetlone w aplikacji. Inteligentna waga TESLA Smart Composition Scale SC100 mierzy i analizuje 18 wskaźników, w tym wagę, BMI, wiek metaboliczny i tkankę tłuszczową. W ten sposób możesz szybko dowiedzieć się, w jakiej formie jesteś.</p><h2>Dokładna i dogłębna analiza stanu zdrowia</h2><p>Inteligentna waga TESLA Smart Composition Scale SC100 to idealne narzędzie dla każdego, kto dba o swoje zdrowie. Dzięki pomiarowi i analizie 18 różnych wartości, w tym wagi, wskaźnika masy ciała, tkanki tłuszczowej i masy kostnej, waga ta dostarcza dokładnych i szczegółowych informacji o Twoim ciele.</p><h2>Informacje odnośnie parametrów zdrowotnych</h2><p>Aplikacja dostarczy ci informacji, które pomogą określić, które parametry zdrowotne wymagają poprawy. Dane będą nie tylko pomocne przy odchudzaniu, ale także przy budowaniu masy mięśniowej.</p><h2>Wysokiej jakości czujniki zapewniają dokładny pomiar</h2><p>Inteligentna osobista waga kompozycyjna TESLA SC100 jest wyposażona w cztery tensometry, które są inteligentnie rozmieszczone, aby zapewnić najdokładniejszy pomiar masy za każdym razem. Oprócz tych czujników na górze urządzenia znajduje się kilka elektrod, które zapewniają określenie i pomiar innych parametrów.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>5 szt</p></li><li><p>Wysokość:</p><p>2.4 cm</p></li><li><p>Szerokość:</p><p>30 cm</p></li><li><p>Głębokość:</p><p>30 cm</p></li><li><p>Waga:</p><p>0.8 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-analityczna-waga_63608.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63609.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63610.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63611.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63612.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63613.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63614.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63608.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63609.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63610.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63611.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63612.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63613.webp",
+    "galerie/t/tesla-smart-analityczna-waga_63614.webp"
+  ],
+  "manufacturer": "Tesla"
+}

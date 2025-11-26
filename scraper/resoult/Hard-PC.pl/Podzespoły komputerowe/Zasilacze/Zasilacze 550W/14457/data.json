@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zasilacze 550W"
+  ],
+  "id": "14457",
+  "code": "MAG A550BN",
+  "name": "Zasilacz MSI MAG A550BN 550W 80Plus Bronze",
+  "price": 239.0,
+  "description": "OPIS <p>MAG A550BN to podstawowej klasy zasilacz, który oferuje graczom bezpieczne, niezawodne i wydajne zasilanie komputera. Jego podstawowe funkcje i cechy obejmują certyfikat 80 PLUS Bronze, konstrukcję obwodów zasilania z przetwornicami prądu stałego (tzw. układ DC to DC), pojedynczą fazę 12V, aktywny PFC oraz cicho pracujący wentylator. MAG A550BN to jeden z najlepszych wyborów dla graczy, którzy dopiero zaczynają swoją przygodę z samodzielnym składaniem komputerów. Po jego zainstalowaniu, użytkownik może od razu cieszyć się niezawodną pracą urządzenia i dużą wydajnością, bez potrzeby jego dodatkowego konfigurowania.</p><h2>CERTYFIKAT 80 PLUS BRONZE</h2><p>Sprawność Twojego zasilacza ma bezpośredni wpływ na wydajność systemu i zużycie energii. 80 PLUS BRONZE to certyfikat gwarantujący niższe zużycie energii i wyższą sprawność.</p><h2>120-MILIMETROWY WENTYLATOR GENERUJĄCY NIEWIELKI HAŁAS</h2><p>Łożysko tulejowe wentylatora redukuje generowany hałas przy jednoczesnym zachowaniu możliwości doskonałego rozpraszania ciepła.</p><h2>KONSTRUKCJA OBWODU ZASILANIA Z PRZETWORNICAMI PRĄDU STAŁEGO</h2><p>Zastosowanie konstrukcji obwodu zasilania z przetwornicami prądu stałego (DC-to-DC) zmniejsza niestabilność napięcia wyjściowego i zwiększa niezawodność pracy zasilacza.</p><h2>KOMPLEKSOWA OCHRONA OBWODÓW</h2><p>W zasilaczu zastosowano takie mechanizmy zabezpieczające jego obwody, jak: OCP (nadprądowe), OVP (przeciwprzepięciowe), SCP (przeciwzwarciowe), OPP (przeciążeniowe) i OTP (temperaturowe), które gwarantują kompleksową ochronę urządzenia.</p><h2>5-LETNIA, OGRANICZONA GWARANCJA</h2><p>MAG A550BN jest objęty 5-letnią, ograniczoną gwarancją. Dzięki temu użytkownik może mieć pewność, że jego urządzenie będzie długo i niezawodnie działać.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Moc</p><p>550 W</p></li><li><p>Certyfikat sprawności</p><p>80 Plus Bronze</p></li><li><p>Zabezpieczenia</p><p>OCP / OVP / OPP / OTP / SCP</p></li><li><p>Średnica wentylatora</p><p>120 mm</p></li><li><p>Zakres napięcia wejściowego</p><p>100 - 240 V</p></li><li><p>Natężenie przy napięciu +12V1</p><p>45,5 A</p></li><li><p>Natężenie przy napięciu +5V</p><p>20 A</p></li><li><p>Natężenie przy napięciu +3.3V</p><p>20 A</p></li><li><p>Natężenie przy napięciu +5Vsb</p><p>2,53 A</p></li><li><p>Natężenie przy napięciu -12V</p><p>0.3 A</p></li><li><p>Obciążalność linii +12V</p><p>546 W</p></li><li><p>Obciążalność linii +3.3V i +5V</p><p>110 W</p></li><li><p>Liczba złącz PCI-E</p><p>2</p></li><li><p>Liczba złącz SATA</p><p>5</p></li><li><p>Liczba złącz Molex</p><p>2</p></li><li><p>Pozostałe złącza</p><p>ATX 24-pin<br/>EPS 4+4 pin<br/>FDD</p></li><li><p>Typ PFC</p><p>Aktywne</p></li><li><p>Konstrukcja</p><p>Standardowa</p></li><li><p>Liczba zainstalowanych wentylatorów</p><p>1</p></li><li><p>Zainstalowane wentylatory</p><p>1x120 mm</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MSI</p></li><li><p>Dane producenta</p><p>MSI Polska Sp. z o.o., ul. Magazynowa 1, 55-040 Bielany Wrocławskie Poland, info.pl@msi.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/msi.jpg",
+  "images": [
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52388.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52389.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52390.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52391.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52392.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52388.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52389.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52390.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52391.webp",
+    "galerie/z/zasilacz-msi-mag-a550bn-550w_52392.webp"
+  ],
+  "manufacturer": "MSI"
+}

@@ -1,0 +1,19 @@
+{
+    "category": [
+        "Hard-PC.pl",
+        "Podzespoły komputerowe",
+        "Karty graficzne",
+        "NVIDIA"
+    ],
+    "id": "21079",
+    "code": "",
+    "name": "Karta Graficzna Asus RTX 5070 Dual",
+    "price": 2459.0,
+    "description": "",
+    "security_data": "",
+    "manufacturer_img": "galerie/k/karta-graficzna-asus-rtx-5070_79659_p.webp",
+    "images": [
+        "galerie/k/karta-graficzna-asus-rtx-5070_79659.webp",
+        "galerie/k/karta-graficzna-asus-rtx-5070_79659.webp"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Switche"
+  ],
+  "id": "19020",
+  "code": "FS1010PG",
+  "name": "Switch Cudy FS1010PG Przełącznik sieciowy 8-portowy PoE+ 120W",
+  "price": 209.0,
+  "description": "<h2>Cudy FS1010PG 8-FE PoE 2x Uplink GbE</h2><p>Przełącznik FS1010PG 1.0 to wszechstronne i wydajne rozwiązanie do zarządzania siecią. Dzięki 8 portom PoE, 2 portom uplink GbE oraz zasilaczowi 120W, zapewnia stabilne zasilanie i szybkie połączenia.</p><h2>Elastyczne zasilanie PoE dla wielu urządzeń</h2><p>Switch FS1010PG 1.0 to przełącznik PoE, który dzięki 8 portom Fast Ethernet (FE) z obsługą 802.3at/af Mode A, umożliwia efektywne zasilanie i przesył danych do różnych urządzeń w sieci. Możesz łatwo podłączyć kamery IP, punkty dostępowe czy telefony VoIP, eliminując potrzebę dodatkowych kabli zasilających. To rozwiązanie znacząco upraszcza instalację i pozwala na estetyczne uporządkowanie kabli.</p><h2>Szybkie połączenie z portami uplink</h2><p>Dwa porty uplink Gigabit Ethernet (GbE) w FS1010PG 1.0 pozwalają na szybką integrację z innymi urządzeniami sieciowymi lub z siecią nadrzędną. Możesz bezproblemowo podłączyć przełącznik do większej infrastruktury sieciowej lub dodatkowych urządzeń, co zwiększa elastyczność i rozbudowuje możliwości Twojej sieci. To idealne rozwiązanie do rozbudowy sieci w różnych środowiskach.</p><h2>Mocne zasilanie i ciche chłodzenie</h2><p>Wyposażony w zasilacz o mocy 120W, FS1010PG 1.0 zapewnia stabilne zasilanie dla wszystkich portów PoE i uplink. Dodatkowo, cichy system chłodzenia bez wentylatora eliminuje hałas związany z działaniem urządzenia, co sprawia, że przełącznik jest idealny do biur, domów i innych przestrzeni wymagających cichej pracy. To komfortowe rozwiązanie, które nie zakłóci codziennego życia.</p><h2>Wszechstronne tryby pracy</h2><p>Switch FS1010PG 1.0 oferuje różne tryby pracy: domyślny, VLAN i Extend, które umożliwiają dostosowanie urządzenia do różnych potrzeb sieciowych. Tryb VLAN pozwala na segmentację sieci dla lepszej organizacji i bezpieczeństwa, natomiast tryb Extend umożliwia wydłużenie zasięgu PoE do 250 metrów. Te funkcje dają Ci pełną kontrolę nad konfiguracją i optymalizacją sieci.</p><h2>Elastyczny montaż i kompaktowy rozmiar</h2><p>Dzięki możliwości montażu na ścianie lub na biurku, FS1010PG 1.0 jest wszechstronny i łatwy w instalacji. Jego kompaktowe wymiary (200×118×44 mm) sprawiają, że łatwo znajdziesz dla niego miejsce w różnych środowiskach, zarówno w biurze, jak i w domu. To praktyczne rozwiązanie, które można łatwo dopasować do każdego wnętrza.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Porty</p><p>8× FE z 802.at/af trybem A PoE<br/>2× Łącze nadrzędne GbE</p></li><li><p>Zasilacz</p><p>120W</p></li><li><p>Tryby</p><p>domyślne/VLAN/Extend</p></li><li><p>Watchdog</p><p>w trybach VLAN lub Extend</p></li><li><p>Wymiary</p><p>200×118×44 mm (7,87×4,65×1,73'')</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Cudy</p></li><li><p>Dane producenta</p><p>Shenzhen Cudy Technology Co. Ltd, Room A606 Gaoxingi Industrial Park Liuxianyi Road Baona District, Shenzhen, Chiny sales@cudy.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Cudy Polska Sp. Z o.o., Nowogrodzka 50/54/515, 00-650 Warszawa, sales@cudy.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/cudy.jpg",
+  "images": [
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70451.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70452.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70453.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70454.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70455.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70451.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70452.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70453.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70454.webp",
+    "galerie/s/switch-cudy-fs1010pg-przelacz_70455.webp"
+  ],
+  "manufacturer": "Cudy"
+}

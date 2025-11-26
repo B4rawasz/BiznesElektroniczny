@@ -1,0 +1,26 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "12800",
+  "code": "GAZU-759",
+  "name": "Narzędzie do wyciągania switchy Glorious Switch Puller",
+  "price": 35.9,
+  "description": "<p>Narzędzie do wyciągania przełączników Glorious Switch Puller zostało stworzone dla posiadaczy mechanicznych klawiatur modułowych takich jak GMM Pro. Dzięki niemu wymiana przełączników jest łatwiejsza i bezpieczniejsza niż kiedykolwiek wcześniej. Narzędzie wykonano ze stali nierdzewnej co gwarantuje jego wysoką jakość i trwałość. Smukły, ergonomiczny profil zapewnia komfort użytkowania. Glorious Switch Puller jest bezpieczny zarówno dla przełącznika; minimalizuje ryzyko uszkodzenie obudowy jak i płytki drukowanej.</p><figure><img alt=\"\" height=\"1098\" src=\"galerie/n/narzedzie-do-wyciagania-switc_46305.webp\" width=\"2800\"/></figure><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li><p>Waga</p><p>11g</p></li><li><p>Materiał</p><p>stal nierdzewna</p></li><li><p>Długość</p><p>89,9mm</p></li><li><p>Kompatybilność</p><p>Wszystkie modułowe klawiatury mechaniczne</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Glorious</p></li><li><p>Dane producenta</p><p>Glorious LLC, 13809 Research Blvd, Suite 500, Austin, TX 78750, USA​, sales@gloriousgaming.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Glorious Europe NV, Hoveniersstraat 30, Office 305, Box 185, 2018 Antwerp, Belgium​, sales@gloriousgaming.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/glorious.jpg",
+  "images": [
+    "galerie/n/narzedzie-do-wyciagania-switc_46306.webp",
+    "galerie/n/narzedzie-do-wyciagania-switc_46307.webp",
+    "galerie/n/narzedzie-do-wyciagania-switc_46308.webp",
+    "galerie/n/narzedzie-do-wyciagania-switc_46305.webp",
+    "galerie/n/narzedzie-do-wyciagania-switc_46306.webp",
+    "galerie/n/narzedzie-do-wyciagania-switc_46307.webp",
+    "galerie/n/narzedzie-do-wyciagania-switc_46308.webp",
+    "galerie/n/narzedzie-do-wyciagania-switc_46305.webp"
+  ],
+  "manufacturer": "Glorious"
+}

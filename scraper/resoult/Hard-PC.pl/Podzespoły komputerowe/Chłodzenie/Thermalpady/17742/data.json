@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Thermalpady"
+  ],
+  "id": "17742",
+  "code": "ZUWA-268",
+  "name": "Thermalpad DeepCool EK720-XL - 120 x 120 x 2 mm",
+  "price": 112.9,
+  "description": "<p>Ta podkładka termiczna firmy DeepCool jest łatwa i czysta w montażu oraz ma wysoką przewodność cieplną. Te właściwości sprawiają, że jest to najlepszy nośnik ciepła dla overclockerów, cichych fanów i przyjaciół komputerów PC. Podkładka ma wymiary 120 x 120 mm i grubość 2 mm . Podkładki termicznej można używać z większością procesorów i układów scalonych, ponieważ można ją łatwo przyciąć nożyczkami lub nożem. Podkładkę termiczną można stosować na wszystkich materiałach dostępnych na rynku chłodnic, takich jak aluminium lub miedź.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>120 x 120 mm x 2 mm</p></li><li><p>Kolor</p><p>szary</p></li><li><p>Przewodność cieplna</p><p>6,0 W/mK</p></li><li><p>Impedancja cieplna</p><p>0,8°C cm²/W</p></li><li><p>Temperatura pracy</p><p>-40°C / +200°C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/t/thermalpad-deepcool-ek720-xl_64912.webp",
+    "galerie/t/thermalpad-deepcool-ek720-xl_64913.webp",
+    "galerie/t/thermalpad-deepcool-ek720-xl_64914.webp",
+    "galerie/t/thermalpad-deepcool-ek720-xl_64912.webp",
+    "galerie/t/thermalpad-deepcool-ek720-xl_64913.webp",
+    "galerie/t/thermalpad-deepcool-ek720-xl_64914.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

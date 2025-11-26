@@ -1,0 +1,25 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Kable"
+  ],
+  "id": "15572",
+  "code": "C1811GBK",
+  "name": "Kabel sieciowy Unitek Ethernet UTP Cat.6 - 3m (płaski)",
+  "price": 9.99,
+  "description": "<h2>Połączenie z siecią</h2><p>Przewody sieciowe Unitek 6. kategorii pozwalają na szybkie i stabilne podłączenie różnych urządzeń do Internetu albo sieci lokalnej. Z obu stron przewodu LAN znajduje się taka sama pozłacana wtyczka 8P8C typu B zabezpieczona gumową osłonką.</p><h2>Wygoda przede wszystkim</h2><p>Nie musisz decydować, czy wolisz stylowe wnętrze bez plączących się kabli czy szybkie i stabilne połączenie LAN. Płaski przewód o grubości jedynie 1,8 mm można schować pod panelami, wykładziną czy za meblami tak, żeby nie było go widać i nie przeszkadzał w chodzeniu. Pary miedzianych żył są skręcane dla ograniczenia zakłóceń bez dodatkowego ekranowania, żeby nie zwiększać grubości przewodu.</p><h2>Gigabit Ethernet z kablem Cat. 6</h2><p>Skrętka Unitek Cat. 6 obsługuje szybkie karty sieciowe 1000 Mbit / 1 Gbit. Ich przepustowość jest certyfikowana przez organizację Fluke Networks. Jest uniwersalny i nie wymaga instalacji dodatkowych sterowników, możesz go użyć do podłączenina komputera, routera, serwera NAS, telewizora, konsoli czy innych urządzeń z portem RJ45 (8P8C).</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Kabel sieciowy Cat. 6 1000 Mbit/s</li><li>Płaski do montowania w trudnodostępnych miejscach</li><li>Przekrój kabla: 1,8 x 6 mm</li><li>Wtyki RJ45 typu B</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pozłacane końcówki</p><p>tak</p></li><li><p>Przepustowość</p><p>1 Gbps</p></li><li><p>Rodzaj urządzenia</p><p>Przewód</p></li><li><p>Standard Sieciowy</p><p>Cat. 6</p></li><li><p>Zastosowanie</p><p>Sieć</p></li><li><p>Złącze 1</p><p>Wtyk RJ-45 (8P8C)</p></li><li><p>Złącze 2</p><p>Wtyk RJ-45 (8P8C)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/k/kabel-sieciowy-unitek-etherne_55505.webp",
+    "galerie/k/kabel-sieciowy-unitek-etherne_55506.webp",
+    "galerie/k/kabel-sieciowy-unitek-etherne_55507.webp",
+    "galerie/k/kabel-sieciowy-unitek-etherne_55508.webp",
+    "galerie/k/kabel-sieciowy-unitek-etherne_55505.webp",
+    "galerie/k/kabel-sieciowy-unitek-etherne_55506.webp",
+    "galerie/k/kabel-sieciowy-unitek-etherne_55507.webp",
+    "galerie/k/kabel-sieciowy-unitek-etherne_55508.webp"
+  ],
+  "manufacturer": "Unitek"
+}

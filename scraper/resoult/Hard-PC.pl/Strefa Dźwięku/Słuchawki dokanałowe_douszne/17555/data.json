@@ -1,0 +1,25 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "17555",
+  "code": "6972585501309",
+  "name": "Słuchawki MOONDROP The Droplet USB-C z DSP",
+  "price": 329.0,
+  "description": "<h2>Mosiężna obudowa</h2><p>Obudowa The Droplet wykonana jest z mosiądzu metodą cięcia CNC i chromowania, o gładkiej powierzchni, charakteryzującej się stabilnością i trwałością. Mała i wykwintna wnęka zapewnia długotrwałe noszenie bez uczucia zmęczenia.</p><h2>Cyfrowe przetwarzanie sygnału - optymalizacja strojenia zgodnie z charakterystyką jednostki</h2><p>Dzięki wbudowanemu procesorowi DSP audio SOC w interfejsie USB-C, charakterystyka dźwięku zastosowanego zbalansowanego przetwornika armaturowego The Droplet jest precyzyjnie dostrojona, zapewniając płynną i bogatą sygnaturę brzmieniową, a także odpowiednią ilość basu. Chip jest zintegrowany z obwodami dekodowania i wzmacniania, co sprawia, że mamy do czynienia z przenośnym systemem HI-FI.</p><h2>Przetwornik armaturowy</h2><p>The Droplet posiada specjalnie dostosowany, zbalansowany przetwornik armaturowy bez dyszy o pełnej częstotliwości. Nie posiada dodatkowego otworu w całej wnęce dzięki charakterystyce tego przetwornika, co potrafi znacznie zredukować hałas zewnętrzny i uzyskać wciągające wrażenia audiowizualne.</p><h2>Profesjonalne strojenie - bezkompromisowa jakość dźwięku</h2><p>Polegając na ukierunkowanej optymalizacji DSP, The Droplet optymalizuje doznania odsłuchowe w zakresie średnich i wysokich tonów na podstawie wysoce dopasowanej odpowiedzi docelowej VDSF [1], co sprawia, że dźwięk The Droplet jest bardziej wyraźny i ma wystarczającą ilość basów. Subtelne szczegóły są dobrze oddane, odczuwalna jest również obszerna scena dźwiękowa.</p><h2>Uniwersalne złącze USB-C</h2><p>The Droplet przyjmuje uniwersalny interfejs USB-C, dzięki któremu można łatwo łączyć się ze smartfonami, tabletami i laptopami, aby spełnić różne potrzeby.</p><h2>Wysokiej klasy mikrofon i pilot</h2><p>Kabel Droplet jest wyposażony w pilota na kablu wraz z wysokiej jakości mikrofonem MEMS, dzięki czemu można łatwo sterować odtwarzaniem oraz korzystać z połączeń głosowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Przetwornik:</p><p>zbalansowany armaturowy o pełnej częstotliwości</p></li><li><p>Materiał obudowy:</p><p>mosiądz chromowany</p></li><li><p>THD:</p><p>THD przy 1kHz ≤1%</p></li><li><p>Efektywna charakterystyka częstotliwościowa:</p><p>20Hz-20kHz (EC60318-4, -3dB)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOONDROP</p></li><li><p>Dane producenta</p><p>Chengdu shuiyueyu technology Co.,Ltd 13th Floor, Building B, Building 1, Yuetiandi Commercial Building Project, No.159 Haichuan Road, Wenjiang District, Chengdu City, Sichuan Province, China, support@moondroplab.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/moondrop.jpg",
+  "images": [
+    "galerie/s/sluchawki-moondrop-the-drople_64431.webp",
+    "galerie/s/sluchawki-monndrop-the-drople_64301.webp",
+    "galerie/s/sluchawki-monndrop-the-drople_64302.webp",
+    "galerie/s/sluchawki-monndrop-the-drople_64303.webp",
+    "galerie/s/sluchawki-moondrop-the-drople_64431.webp",
+    "galerie/s/sluchawki-monndrop-the-drople_64301.webp",
+    "galerie/s/sluchawki-monndrop-the-drople_64302.webp",
+    "galerie/s/sluchawki-monndrop-the-drople_64303.webp"
+  ],
+  "manufacturer": "MOONDROP"
+}

@@ -1,0 +1,21 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Karty dźwiękowe - Wzmacniacze DAC"
+  ],
+  "id": "16006",
+  "code": "KA1 LT",
+  "name": "Wzmacniacz słuchawkowy FiiO KA1 DAC Lightning",
+  "price": 269.0,
+  "description": "<p>Odkryj muzyczną rewolucję w kompaktowym wymiarze dzięki KA1 - Twojemu kluczowi do głębokiej jakości dźwięku.</p><p>KA1 to małe urządzenie, a jednak kryje w sobie ogromne możliwości. Wymiary zaledwie 40x15x8mm nie oddają pełnego potencjału, jaki drzemie wewnątrz tego przenośnego cuda. Przetwornik cyfrowo-analogowy i wzmacniacz klasy premium pracują w pełnej harmonii, dostarczając dźwięk, który ożywia muzykę tak, jak tego pragnąli artyści w studio. Z KA1 doświadczysz dźwięku, który wyróżnia się w tłumie, dostarczając wyjątkowe wrażenia, które przekraczają granice przenośnych przetworników cyfrowo-analogowych i wzmacniaczy.</p><p>Dźwięk najwyższej jakości to rezultat zastosowania układu ES9281AC PRO od ESS w KA1. To więcej niż przetwornik - to połączenie interfejsu audio USB, przetwornika cyfrowo-analogowego i wzmacniacza w jednym. Dzięki wielowarstwowej płytki PCB HDI z pozłacanymi elementami, KA1 osiąga niższy poziom przesłuchów i wyższą efektywność energetyczną, co przekłada się na czysty i klarowny dźwięk.</p><p>Przeniknij do świata high-endowego dekodowania dzięki wsparciu dla 32bit/384kHz PCM i DSD256. Każdy niuans, każdy detal Twojej ulubionej muzyki zostanie odsłonięty w niespotykany dotąd sposób. Dzięki certyfikacji przez MQA, KA1 dostarcza autentycznego brzmienia, które odzwierciedla artystyczną wizję w najdrobniejszych szczegółach. Funkcja MQA Renderer pozwala na pełne wydobycie potencjału z plików MQA, zapewniając niesamowite doświadczenia dźwiękowe.</p><p>Kolorowy wskaźnik RGB to nie tylko atrakcyjny element designu - to intuicyjne narzędzie, które dostarcza informacji o aktualnym formacie audio i częstotliwości próbkowania. Bez względu na to, co słuchasz, będziesz mieć pełen ogląd na swoje brzmienie.</p><p>Niech KA1 stanie się Twoim wszechstronnym towarzyszem dźwiękowym. Kompatybilny z Androidem, iOS, Windows i Mac, KA1 idealnie współgra z Twoim smartfonem, przenośnym odtwarzaczem audio, tabletem czy komputerem. Dzięki KA1 możesz cieszyć się doskonałą jakością dźwięku w każdym miejscu i czasie. Wprowadź rewolucję dźwiękową do swojego życia dzięki KA1 - prawdziwemu małemu gigantowi dźwięku.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary obudowy</p><p>około 40x15x8mm</p></li><li><p>Długość kabla</p><p>około 70 mm;</p></li><li><p>Waga</p><p>około 10g</p></li><li><p>Kolory</p><p>klasyczny czarny, ciemnozielony;</p></li><li><p>Układ DAC</p><p>ES9281AC PRO;</p></li><li><p>Wejście</p><p>USB typu C lub Lightning</p></li><li><p>Wyjście</p><p>gniazdo słuchawkowe 3,5 mm;</p></li><li><p>Moc wyjściowa</p><p>45mW (32Ω, THD+N＜1%)</p></li><li><p>SNR</p><p>114 dBr (32 Ω, A-ważony)</p></li><li><p>THD+N：0.0005%</p></li><li><p>Obsługa formatów audio</p><p>PCM 32bit/384kHz<br/>DoP DSD64/128<br/>Natywny DSD64/128/256</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>FiiO</p></li><li><p>Dane producenta</p><p>FIIO Electronics Technology Co., Ltd., No.21 Longliang Road, Xialiang village, Longgui Street, Baiyun District, Guangzhou city,China,510540, sunny@fiio.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Multimedia Intelligent Products sp. j., Pl. Bankowy 2, 00-095 Warszawa, kontakt@mp3store.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fiio.jpg",
+  "images": [
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-k_56887.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-k_56888.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-k_56887.webp",
+    "galerie/w/wzmacniacz-sluchawkowy-fiio-k_56888.webp"
+  ],
+  "manufacturer": "FiiO"
+}

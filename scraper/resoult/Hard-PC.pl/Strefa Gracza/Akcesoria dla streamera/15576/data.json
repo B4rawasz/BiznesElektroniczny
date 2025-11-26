@@ -1,0 +1,23 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "15576",
+  "code": "A1034NI",
+  "name": "Adapter USB-A na USB-C 3.1 Gen1 Unitek",
+  "price": 15.99,
+  "description": "<p>Metalowy adapter USB-A na USB-C zaprojektowany do ładowania i transferu danych w laptopach, smartfonach i tabletach.</p><h2>Adapter bez opóźnień</h2><p>Adapter z portu USB-C na wtyczkę USB-A przyda się przy podłączaniu nowszych urządzeń czy przewodów do ładowarek i komputerów ze starszym USB. W odróżnieniu od wielu podobnych urządzeń na rynku, w tym adapterze obie końcówki odpowiadają specyfikacji USB 3.1 Gen1, więc synchronizacja przebiega bez żadnych opóźnień. Są oczywiście wstecznie kompatybilne z poprzednimi standardami USB. Dzięki tej niepozornej przejściówce oszczędzisz na kupowaniu nowych kabli i możesz dłużej korzystać z urządzeń, które już masz w domu.</p><h2>Trwałe materiały</h2><p>Obudowa konwertera USB-A na USB-C jest zrobiona z trwałego stopu cynku i ma dziurkę do zawieszenia np. jako breloczek przy kluczach, tak jak niektórzy noszą pendrive’y. Adapter przeszedł rygorystyczne testy – gwarantowana wytrzymałość 10 tysięcy podłączeń bez poluzowania wtyków.</p><h2>Jakość gwarantowana</h2><p>Wszystkie produkty marki Unitek w Polsce mogą zostać objęte trzyletnią gwarancją dystrybutora. Aby ją aktywować zarejestruj zakup przez aplikację Unitek Search (dostępna na iOS i Android).</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Adapter port USB-C na wtyczkę USB-A</li><li>Standard USB 3.1 Gen 1 po obu stronach</li><li>Cynkowa obudowa z zawieszką</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał zewnętrzny</p><p>Cynk</p></li><li><p>Przepustowość</p><p>5 Gbps</p></li><li><p>Standard USB</p><p>USB 5Gbps</p></li><li><p>Zastosowanie</p><p>Transfer danych<br/>Zasilanie / ładowanie</p></li><li><p>Złącze 1</p><p>Wtyk USB-A</p></li><li><p>Złącze 2</p><p>Port USB-C</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Unitek</p></li><li><p>Dane producenta</p><p>Unitek International Group Limited, Hongkong SAR, Hong Kong, Wang Chiu Road 39, Chiny,</p></li><li><p>Podmiot odpowiedzialny</p><p>Konsorcjum Fen sp. z o. o., Czarnkowska 13, 60-415 Poznań, unitek@fen.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/unitek.jpg",
+  "images": [
+    "galerie/a/adapter-usb-a-na-usb-c-3-1-ge_55512.webp",
+    "galerie/a/adapter-usb-a-na-usb-c-3-1-ge_55513.webp",
+    "galerie/a/adapter-usb-a-na-usb-c-3-1-ge_55514.webp",
+    "galerie/a/adapter-usb-a-na-usb-c-3-1-ge_55512.webp",
+    "galerie/a/adapter-usb-a-na-usb-c-3-1-ge_55513.webp",
+    "galerie/a/adapter-usb-a-na-usb-c-3-1-ge_55514.webp"
+  ],
+  "manufacturer": "Unitek"
+}

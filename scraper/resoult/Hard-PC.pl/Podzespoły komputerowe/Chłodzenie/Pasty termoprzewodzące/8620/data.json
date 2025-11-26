@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Pasty termoprzewodzące"
+  ],
+  "id": "8620",
+  "code": "ZUWA-153",
+  "name": "Pasta termoprzewodząca Thermal Grizzly Conductonaut - 1g",
+  "price": 40.9,
+  "description": "OPIS <p><strong>Thermal Grizzly Conductonaut</strong> to pasta termoprzewodząca będąca ciekłym metalem, przeznaczona do zastosowań wymagających bardzo wysokiej wydajności. Zalecana jest dla doświadczonych użytkowników.</p><p>Conductonaut składa się z ciekłego związku metali na bazie stopu cyny, galu i indu.</p><h2>Uwaga na podróbki</h2><p>W związku z pojawieniem się w sprzedaży nieoryginalnych produktów Thermal Grizzly otrzymujemy wiele zapytań o sprzedawane przez nas pasty termoprzewodzące TG. Pragniemy zapewnić, że jesteśmy oficjalnym partnerem producenta i gwarantujemy oryginalność sprzedawanych past, którą możecie Państwo potwierdzić podczas elektronicznej weryfikacji towaru na stronie thermal-grizzly.com</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Przewodność cieplna: 73 W/mk</li><li>Rezystancaj cieplna: 0,0021 K/W</li><li>Zakrtes pracy: 10 °C / +140 °C</li><li>Waga: 1g</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Thermal Grizzly</p></li><li><p>Dane producenta</p><p>Thermal Grizzly Holding GmbH, Gewerbestraße 39, 16540, Hohen Neuendorf, Deutschland , alex@thermal-grizzly.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/thermal-grizzly.jpg",
+  "images": [
+    "galerie/p/pasta-termoprzewodzaca-therma_23950.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23951.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23952.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23953.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23954.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23950.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23951.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23952.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23953.webp",
+    "galerie/p/pasta-termoprzewodzaca-therma_23954.webp"
+  ],
+  "manufacturer": "Thermal Grizzly"
+}

@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory Intel"
+  ],
+  "id": "19595",
+  "code": "BX8071512400",
+  "name": "Procesor Intel Core i5-12400 18M Cache to 4.40GHz",
+  "price": 967.9,
+  "description": "<p>Procesory Intel Core i5 12. generacji (Alder Lake) to doskonały wybór dla użytkowników poszukujących wydajnego, nowoczesnego rozwiązania do pracy, nauki i rozrywki. Dzięki innowacyjnej architekturze hybrydowej łączącej wysokowydajne rdzenie Performance (P-cores) z energooszczędnymi rdzeniami Efficient (E-cores), procesory te zapewniają imponującą moc obliczeniową przy jednoczesnej optymalizacji zużycia energii.</p><p>Intel Core i5 12. generacji idealnie sprawdza się w komputerach przeznaczonych do codziennego użytku, gier, pracy biurowej, a nawet profesjonalnych zastosowań kreatywnych. Obsługa najnowszych technologii, takich jak DDR5, PCIe 5.0 czy Intel Thread Director, gwarantuje maksymalną responsywność systemu oraz przyszłościową kompatybilność z nowymi komponentami.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Nowoczesna architektura hybrydowa Intel Alder Lake</li><li>Do 10 rdzeni i 16 wątków (w zależności od modelu)</li><li>Obsługa pamięci DDR4 i DDR5</li><li>Kompatybilność z chipsetami Intel z serii 600</li><li>Technologia Intel Turbo Boost dla zwiększonej wydajności</li><li>Zintegrowany układ graficzny Intel UHD (wybrane modele)</li><li>Idealne połączenie wydajności i energooszczędności</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Generacja</p><p>12. (Alder Lake)</p></li><li><p>Liczba rdzeni</p><p>6 (wszystkie typu Performance)</p></li><li><p>Liczba wątków</p><p>12</p></li><li><p>Taktowanie bazowe</p><p>2,5 GHz</p></li><li><p>Taktowanie maksymalne (Turbo)</p><p>4,4 GHz</p></li><li><p>Cache (pamięć podręczna)</p><p>18 MB Intel Smart Cache</p></li><li><p>Zintegrowana grafika</p><p>Intel UHD Graphics 730</p></li><li><p>TDP</p><p>65 W (bazowe), 117 W (maksymalne Turbo)</p></li><li><p>Typ pamięci</p><p>DDR4 (do 3200 MHz), DDR5 (do 4800 MHz)</p></li><li><p>Maks. pojemność pamięci RAM</p><p>128 GB</p></li><li><p>Liczba kanałów pamięci</p><p>2</p></li><li><p>Obsługa PCI Express</p><p>wersje 5.0 i 4.0</p></li><li><p>Liczba linii PCIe</p><p>20</p></li><li><p>Gniazdo (socket)</p><p>LGA 1700</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/intel.jpg",
+  "images": [
+    "galerie/p/procesor-intel-core-i5-12400_72123.webp",
+    "galerie/p/procesor-intel-core-i5-12400_72123.webp"
+  ],
+  "manufacturer": "Intel"
+}

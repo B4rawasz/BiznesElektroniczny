@@ -1,0 +1,35 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Mikrofony"
+  ],
+  "id": "10535",
+  "code": "MKIT-700PRO",
+  "name": "Zestaw MOZOS MKIT-700PRO V2 USB Mikrofon, Statyw, Pop-Filtr, Koszyk",
+  "price": 163.9,
+  "description": "OPIS  Każdy kolejny akapit ma być otoczony znacznikami <p></p>, poniżej przykład <p>Zestaw od MOZOS MKIT-700PRO to wszystko czego potrzebujesz by zacząć swoją przygodę z profesjonalnym nagrywaniem dźwięku. W zestawie znajdziesz mikrofon wysokiej jakości o próbkowaniu 192KHz/24bit co można rzadko spotkać nawet w sporo droższych konstrukcjach. Dodatkowo w tej cenie otrzymasz statyw biurkowy (wysięgnik), pop filtr, gąbkę, przewód usb, kosz antywibracyjny! Mikrofon wystarczy wpiąć do gniazda USB i gotowe. Dzięki wbudowanej karcie dźwiękowej mikrofon zostanie zainstalowany przez system operacyjny automatycznie i w ciągu chwili będzie gotowy do nagrywania. Już dziś możesz zacząć nagrywać piosenki, filmy na youtube, grać na streamie nie posiadając dużego budżetu.</p><h2>MOZOS MKIT-700PRO v2 - zmiany</h2><p>Nowa wersja (v2) to przede wszystkim mikrofon z serii mkit-900pro. To duży skok jakościowy. Jedyna różnica między mikrofonami to kolor oringa (niebieski zamiast czerwonego). Mikrofon posiada również malowanie lakierem premium który jest bardziej odporny na zużycie i zarysowania. Zmieniono też zacisk biurkowy który tym razem występuje w wersji odlanej z jednego kawałka stali. To ogromnie wpływa na jego wytrzymałość. Dopracowano opakowanie z zewnątrz jak i wewnątrz. To wszystko aby twój mikrofon był bezpieczny w czasie transportu. Główna różnica między zestawem mkit-900pro oraz mkit-700pro to sposób montażu. W modelu 900pro mamy statyw biurkowy z regulacją wysokości natomiast w modelu 700pro zastosowano ramię biurkowe/wysięgnik. Urządzenie jest bardzo proste w montażu. Aby podłączyć mikrofon do komputera wystarczy jeden przewód wpiąć do mikrofonu a z drugiej strony do portu USB w PC. System automatycznie odnajdzie mikrofon i zainstaluje sterowniki.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Idealny zestaw mikrofonowy dla początkującego youtubera, streamera.</li><li>Mikrofon wysokiej jakości z próbkowaniem 192khz/24bit.</li><li>Wszystkie niezbędne akcesoria w zestawie w tym statyw.</li><li>Nie potrzebujesz żadnych zewnętrznych urządzeń zasilających. Wystarczy wpiąć mikrofon do portu USB w komputerze.</li><li>Idealny na prezent.</li></ul><h2>Specyfikacja:</h2><ul class=\"list-specification\"><li><p>Częstotliwość próbkowania</p><p>192 kHz / 24 bity</p></li><li><p>Czułość</p><p>– 42 ± 3dB (1,5 V, 680 KΩ; 0 dB = 1 V / Pa, 1 KHz)</p></li><li><p>Impedancja wyjściowa</p><p>niska impedancja (&lt;680Ω)</p></li><li><p>Kierunkowość</p><p>kardioidalna</p></li><li><p>Zakres częstotliwości</p><p>100 Hz – 18000 Hz</p></li><li><p>Maksymalny wejściowy poziom ciśnienia akustycznego</p><p>125dB</p></li><li><p>Stosunek sygnału do szumu</p><p>&gt; 70dB</p></li><li> </li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>MOZOS</p></li><li><p>Dane producenta</p><p>MOZOS SP. Z O.O., Sokratesa 13/37, 01-909 Warszawa, sklep@mozos.pl</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/mozos.jpg",
+  "images": [
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37406.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37407.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37408.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37409.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37410.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37411.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37412.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37413.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37414.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37406.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37407.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37408.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37409.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37410.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37411.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37412.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37413.webp",
+    "galerie/z/zestaw-mozos-mkit-700pro-v2-u_37414.webp"
+  ],
+  "manufacturer": "MOZOS"
+}

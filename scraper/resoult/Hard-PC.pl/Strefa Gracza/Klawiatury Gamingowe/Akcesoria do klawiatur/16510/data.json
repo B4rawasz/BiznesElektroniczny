@@ -1,0 +1,36 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Klawiatury Gamingowe",
+    "Akcesoria do klawiatur"
+  ],
+  "id": "16510",
+  "code": "GAKC-168",
+  "name": "Keycap Ducky x Hot Keys Project Ducky League - Aqua Duck",
+  "price": 170.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Rozmiar</p><p>1u</p></li><li><p>Kolor</p><p>Aqua Duck</p></li><li><p>Materiał</p><p>Plastik</p></li><li><p>Kompatybilność</p><p>Cherry MX and compatible switches (+ stem)</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Ducky</p></li><li><p>Dane producenta</p><p>Pro Gamersware GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@gamersware.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/ducky.jpg",
+  "images": [
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58944.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58945.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58946.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58947.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58948.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58949.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58950.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58951.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58952.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58944.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58945.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58946.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58947.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58948.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58949.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58950.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58951.webp",
+    "galerie/k/keycapy-ducky-x-hot-keys-proj_58952.webp"
+  ],
+  "manufacturer": "Ducky"
+}

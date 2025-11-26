@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home"
+  ],
+  "id": "17131",
+  "code": "TSL-BT-HCC",
+  "name": "Tesla Lokówka do włosów z wymiennymi końcówkami",
+  "price": 299.0,
+  "description": "<h2>Piękne falowane włosy już w kilka minut</h2><p>Lokówka do włosów TESLA o mocy 55 W to skuteczne narzędzie do stylizacji włosów. Wystarczy owinąć pasmo włosów wokół lokówki, która utrzyma je w żądanym kształcie przez 5-8 sekund.</p><h2>Włosy falowane z natury</h2><p>Lokówka do włosów TESLA jest wyposażona w pięć nasadek umożliwiających tworzenie idealnych fryzur. Pozwalają one tworzyć małe, średnie i duże fale. Dzięki stożkowej nasadce można tworzyć naturalne loki.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>12 szt</p></li><li><p>Wysokość:</p><p>3.2 cm</p></li><li><p>Szerokość:</p><p>3.2 cm</p></li><li><p>Głębokość:</p><p>17 cm</p></li><li><p>Waga:</p><p>0.81 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63845.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63846.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63847.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63848.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63849.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63845.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63846.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63847.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63848.webp",
+    "galerie/t/tesla-lokowka-do-wlosow-z-wym_63849.webp"
+  ],
+  "manufacturer": "Tesla"
+}

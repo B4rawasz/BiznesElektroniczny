@@ -1,0 +1,19 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Karty sieciowe"
+  ],
+  "id": "11706",
+  "code": "TL-WN881ND",
+  "name": "Karta sieciowa WiFi TP-LINK WN881ND N300 2.4Ghz PCI-E",
+  "price": 69.0,
+  "description": "<p>Do karty TL-WN881ND dołączona jest płyta CD z kreatorem instalacji pozwalającym skonfigurować bezprzewodowe ustawienia sieciowe, takie jak np. zabezpieczenia przesyłu danych lub ustawienia połączeń bezprzewodowych. Ułatwia to obsługę urządzenia nawet początkującym użytkownikom.</p><p>Szyfrowanie WEP nie stanowi już najlepszej ochrony połączeń Wi-Fi przed atakami z poza sieci. Karta TL-WN881ND obsługuje stworzony przez WI-FI Alliance industry group standard szyfrowania WPA/WPA2 zabezpieczający sieć WLAN przed zagrożeniami z zewnątrz.</p><p>Technologia Clear Channel Assessment (CCA) umożliwia automatyczne unikanie konfliktów kanałów zwiększając wydajność bezprzewodowej transmisji.</p><p>Wykorzystując technologię MIMO zakładającą użycie kilku anten do nadawania i odbierania danych, urządzenie ogranicza straty sygnału powstałe na skutek dużych odległości lub przeszkód (stalowych lub betonowych ścian budynków firm lub mieszkań). Ponadto, w przeciwieństwie do rozwiązań standardu 11g, możliwe jest utworzenie długodystansowego połączenia z siecią bezprzewodową.</p><p>Bezprzewodowa karta sieciowa PCI Express 2.0(x1) TL-WN881ND działająca zgodnie ze standardem N umożliwia podłączenie komputera do sieci bezprzewodowej zapewniając dostęp do szybkiego połączenia internetowego. Prędkość transmisji bezprzewodowej w standardzie N wynosi do 300 Mb/s, dzięki czemu możliwy jest płynny przekaz HD wideo, lub działanie gier online.</p><h2>Dane techniczne</h2><ul class=\"attribs\"><li>Typ: WiFi</li><li>Interfejs: PCIe</li><li>Porty we/wy: Brak</li><li>Pasmo: 2,4 GHz</li><li>Standardy: </li><ul><li>802.11b</li><li>802.11g</li><li>802.11n</li></ul><li>Liczba anten: 2</li><li>Antena: Zewnętrzna odłączana</li><li>Zysk anteny: 2 dBi</li><li>Bezpieczeństwo: </li><ul><li>64/128 bitowe szyfrowanie WEP,</li><li>WPA/WPA2/WPA-PSK/WPA2-PSK</li><li>Filtrowanie adresów MAC urządzeń bezprzewodowych</li></ul><li>Modulacja: </li><ul><li>DBPSK</li><li>DQPSK</li><li>CCK</li><li>OFDM</li><li>16-QAM</li><li>64-QAM</li></ul><li>Obsługiwane systemy operacyjne: </li><ul><li>Windows 2000</li><li>Windows XP</li><li>Windows Vista</li><li>Windows 7</li></ul><li>Akcesoria w zestawie: </li><ul><li>Bezprzewodowa karta sieciowa TL-WN861N</li><li>Płyta CD</li><li>Skrócona instrukcja obsługi</li></ul><li>Wymiary: 59,7 x 51 x 3,3mm</li><li>Pozostałe parametry: </li><ul><li>Tryby pracy bezprzewodowej: Ad-hoc / infrastruktury</li><li>Prędkość bezprzewodowej transmisji danych w standardzie N do 300Mb/s; płynny przekaz wideo, wykonywanie połączeń telefonicznych przez Internet oraz działanie gier online</li><li>Technologia 2T2R MIMO™ zapewnia większą przepustowość i zasięg transmisji w porównaniu z tradycyjnymi rozwiązaniami</li><li>Łatwa konfiguracja bezpiecznego połączenia szyfrowanego dzięki wbudowanemu oprogramowaniu QSS</li><li>Obsługa połączeń X-link dla Sony PSP dla gier sieciowych w systemie Windows XP</li><li>Oprogramowanie Easy Setup Assistant umożliwia wygodną i szybką instalację</li></ul></ul>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tp-link.jpg",
+  "images": [
+    "galerie/k/karta-sieciowa-wifi-tp-link-w_39888.webp",
+    "galerie/k/karta-sieciowa-wifi-tp-link-w_39888.webp"
+  ],
+  "manufacturer": "TP-Link"
+}

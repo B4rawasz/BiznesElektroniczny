@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory Intel"
+  ],
+  "id": "19589",
+  "code": "BX8071512100",
+  "name": "Procesor Intel Core i3-12100 12M Cache to 4.30GHz",
+  "price": 592.9,
+  "description": "<p>Procesory Intel Core i3 12. generacji to idealny wybór dla użytkowników poszukujących nowoczesnej wydajności w przystępnej cenie. Dzięki nowej architekturze Intel Alder Lake i wsparciu dla technologii hybrydowej (łączenie wydajnych i energooszczędnych rdzeni), układy i3 oferują zauważalny wzrost mocy obliczeniowej względem poprzednich generacji.</p><p>Procesory z tej serii świetnie sprawdzą się w komputerach domowych, biurowych oraz w zastosowaniach edukacyjnych – zapewniając płynną pracę w codziennych zadaniach, takich jak przeglądanie internetu, praca z dokumentami, wideokonferencje, a nawet mniej wymagające gry.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Nowoczesna architektura Intel Alder Lake</li><li>Obsługa pamięci DDR4 i DDR5 oraz interfejsu PCIe 5.0</li><li>Zintegrowany układ graficzny Intel UHD Graphics 730/710</li><li>Zoptymalizowana wydajność energetyczna</li><li>Kompatybilność z podstawką LGA 1700</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Liczba rdzeni</p><p>4</p></li><li><p>Liczba wątków</p><p>8</p></li><li><p>Bazowa częstotliwość taktowania</p><p>3,3 GHz</p></li><li><p>Maksymalna częstotliwość turbo</p><p>4,3 GHz</p></li><li><p>Pamięć podręczna L3</p><p>12 MB</p></li><li><p>Pamięć podręczna L2</p><p>5 MB</p></li><li><p>TDP (Thermal Design Power)</p><p>60 W</p></li><li><p>Obsługiwane typy pamięci</p><p>DDR4 3200 MT/s, DDR5 4800 MT/s</p></li><li><p>Zintegrowana karta graficzna</p><p>Intel UHD Graphics 730</p></li><li><p>Gniazdo (socket)</p><p>Intel Socket 1700</p></li><li><p>Kod procesora</p><p>SRL62</p></li><li><p>Kod zamówienia</p><p>BX8071512100</p></li><li><p>Dołączone chłodzenie</p><p>Laminar RM1</p></li><li><p>Obsługiwane technologie</p><p>Intel Hyper-Threading, Intel Virtualization Technology (VT-x), Intel Virtualization Technology for Directed I/O (VT-d), Intel 64, Intel AES New Instructions, Intel SpeedStep Technology</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Intel</p></li><li><p>Dane producenta</p><p>Intel Corporation, Veldkant 31, 2550 Kontich, Belgia,</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/intel.jpg",
+  "images": [
+    "galerie/p/procesor-intel-core-i3-12100_72117.webp",
+    "galerie/p/procesor-intel-core-i3-12100_72117.webp"
+  ],
+  "manufacturer": "Intel"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Strefa Gracza",
+    "description": "<h1>Strefa Gracza</h1><p>Witaj w Strefie Gracza Hard‑Pc – sercu naszego sklepu dedykowanym pasjonatom gier. Znajdziesz tu wszystko, czego potrzebuje gracz: <strong>od precyzyjnych myszek gamingowych</strong> i <strong>mechanicznych klawiatur,</strong> przez <strong>wygodne fotele gamingowe</strong>, po <strong>słuchawki z mikrofonem</strong> i <strong>podkładki gamingowe</strong>, które podniosą komfort podczas długich sesji. Rozbudowane działy umożliwiają szybki wybór sprzętu dla e‑sportu, streamingu i komfortowej rozrywki – w tym gamepady, kierownice, akcesoria do klawiatur i myszek, a także sprzęt dla streamerów i miłośników <strong>gier planszowych</strong>.</p>",
+    "description_long": "<h2>Sprawdzone produkty od solidnych marek</h2><p>Każdy produkt w Strefie Gracza to starannie wyselekcjonowana, przetestowana propozycja – od sprawdzonych marek takich jak <strong>Lamzu</strong>, <strong>Pulsar</strong>, <strong>Lethal Gaming Gear</strong>, <strong>Redragon</strong> i wielu innych. Oferujemy <strong>nowości</strong>, bestsellery i promocje – dzięki czemu znajdziesz zarówno topowe modele <strong>sprzętu gamingowego</strong>, jak i świetne <strong>okazje cenowe</strong>.</p><h2>Potrzebujesz pomocy?</h2><p>Zakupy w Strefie Gracza to nie tylko bogaty asortyment, ale i pasja + profesjonalne doradztwo – nasi eksperci testują sprzęt dla graczy i chętnie pomogą w wyborze idealnych rozwiązań. To miejsce stworzone przez graczy dla graczy.</p>",
+    "sub_images": [
+        {
+            "name": "Myszki",
+            "image_url": "SUCRO/strefa-gracza/myszki-gamingowe.webp"
+        },
+        {
+            "name": "Podkładki",
+            "image_url": "SUCRO/strefa-gracza/podkladki-gamingowe.webp"
+        },
+        {
+            "name": "Klawiatury gamingowe",
+            "image_url": "SUCRO/strefa-gracza/klawiatury-gamingowe.webp"
+        },
+        {
+            "name": "Słuchawki dla graczy",
+            "image_url": "SUCRO/strefa-gracza/sluchawki-gamingowe.webp"
+        },
+        {
+            "name": "Fotele i akcesoria",
+            "image_url": "SUCRO/strefa-gracza/fotele-komputerowe.webp"
+        },
+        {
+            "name": "Gamepady",
+            "image_url": "SUCRO/strefa-gracza/pady-gamingowe.webp"
+        },
+        {
+            "name": "Kierownice i akcesoria",
+            "image_url": "SUCRO/strefa-gracza/kierownice-i-akcesoria.webp"
+        },
+        {
+            "name": "Akcesoria dla streamera",
+            "image_url": "SUCRO/strefa-gracza/akcesoria-dla-streamera.webp"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Obudowy",
+    "Obudowy bez okna"
+  ],
+  "id": "10137",
+  "code": "GEPH-103",
+  "name": "Obudowa Phanteks Eclipse P600S Black",
+  "price": 717.9,
+  "description": "OPIS <p><strong>Obudowa Phanteks Eclipse P600S</strong> przyciąga uwagę swoim stylowym wyglądem i zastosowanymi rozwiązaniami. <strong>P600S</strong> dziedziczy funkcjonalność z droższego Evolv X pozwalającą na stworzenie dwóch systemów w jednej obudowie poprzez montaż drugiej płyty głównej mini-ITX obok E-ATX. Podobnie jak miało to miejsce w modelu P400, dopisek S oznacza, że wnętrze wyłożono matami wygłuszającymi.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li>Wymiary: 240 x 520 x 510 mm</li><li>Waga: 13,5 kg</li><li>Materiał: Stal, </li><li>Standard: E-ATX, ATX, Micro-ATX, Mini-ITX</li><li>System chłodzenia:</li><li><ul><li>Front: 3x 140/120 mm (2x 140mm preinstalowane)</li><li>Top: 2x 140 / 3x 120 mm </li><li>Tył: 1x 140/120 mm (1x 140mm preinstalowany)</li></ul></li><li>Możliwość montażu chłodnic:</li><li><ul><li>Front: Max 420/360 mm</li><li>Tył: Max 140/120 mm</li><li>Top: Max 280/360 mm</li></ul></li><li>Filtry przeciwkurzowe: Zasilacz, front</li><li><ul><li>Zatoki:</li><li>4x 3,5\" (wewnętrzne; + 6x po zastosowaniu zestawu montażowego - brak w komplecie)</li><li>3x 2,5\" (wewnetrzne)</li></ul></li><li>Sloty na karty rozszerzeń: 7+3</li><li>I/O Panel:</li><li><ul><li>1x USB 3.1 Typ C</li><li>2x USB 3.0</li><li>1x Audio In/Out</li></ul></li><li>Maksymalna długość kart graifcznych: 435</li><li>Masymalna wysokość chłodzenia CPU: 190 mm</li><li>Maksmymalna grubość chłodnicy na froncie+wentylator: 95 mm</li><li>Maksmymalna grubość chłodnicy na topie+wentylator: 65 mm</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Phanteks</p></li><li><p>Dane producenta</p><p>Axpertec B.V., Sydneystraat 33, 3047 BP, Rotterdam, Niederlande, Yunlai@phanteks.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/phanteks.jpg",
+  "images": [
+    "galerie/o/obudowa-phanteks-eclipse-p600_31788.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31789.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31790.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31791.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31792.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31793.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31794.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31795.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31796.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31797.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31788.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31789.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31790.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31791.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31792.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31793.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31794.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31795.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31796.webp",
+    "galerie/o/obudowa-phanteks-eclipse-p600_31797.webp"
+  ],
+  "manufacturer": "Phanteks"
+}

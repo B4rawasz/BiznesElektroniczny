@@ -1,0 +1,24 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Pamięć RAM",
+    "DDR4"
+  ],
+  "id": "19722",
+  "code": "PVS416G360C7K",
+  "name": "Pamięć DDR4 Patriot Viper Steel 16GB(2* 8GB) 3600MHz CL18",
+  "price": 142.9,
+  "description": "<p>Moduły pamięci Patriot Viper Steel zostały zaprojektowane z myślą o prawdziwej wydajności. Stworzone z myślą o najnowszych platformach Intel® oraz AMD™, pamięci Viper Steel DDR4 zapewniają najwyższą stabilność i niezawodność nawet w najbardziej wymagających środowiskach komputerowych.</p><p>Dzięki specjalnie zaprojektowanemu aluminiowemu radiatorowi o wysokiej wydajności, pamięć Viper Steel nie tylko efektywnie odprowadza ciepło, ale także prezentuje się stylowo i nowocześnie w każdej obudowie – elegancki, stalowy wygląd podkreśla charakter zestawu.</p><p>Pamięci Viper Steel gwarantują niezawodne działanie nawet podczas pracy z najbardziej obciążającymi aplikacjami. Wykonane z najwyższej jakości komponentów, są ręcznie testowane i weryfikowane pod kątem kompatybilności z różnymi systemami.</p><p>Dostępne w szerokim zakresie prędkości – od 3000 MT/s do 4400 MT/s – i wyposażone w obsługę profili XMP 2.0, pamięci Patriot Viper Steel są idealnym wyborem dla entuzjastów, graczy oraz profesjonalistów. Dodatkowo, objęte są ograniczoną dożywotnią gwarancją, co zapewnia długotrwały spokój użytkowania.</p><p> </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Pojemność pamięci RAM</p><p>16 GB (2 x 8 GB)</p></li><li><p>Typ pamięci</p><p>DDR4</p></li><li><p>Zastosowanie</p><p>Komputery stacjonarne / Serwery</p></li><li><p>Rodzaj modułu</p><p>288-pin DIMM</p></li><li><p>Układ pamięci</p><p>Dual Channel (2 moduły po 8 GB)</p></li><li><p>Prędkość taktowania</p><p>3600 MHz</p></li><li><p>Opóźnienia (CAS Latency)</p><p>18</p></li><li><p>Typ pamięci buforowej</p><p>Unregistered (Unbuffered)</p></li><li><p>Obsługa ECC</p><p>Nie</p></li><li><p>Napięcie zasilania</p><p>1.35 V</p></li><li><p>Profil XMP</p><p>Tak, Intel® XMP 2.0</p></li><li><p>Zgodność z RoHS</p><p>Tak</p></li><li><p>Szerokość</p><p>135,7 mm</p></li><li><p>Głębokość</p><p>7 mm</p></li><li><p>Wysokość</p><p>44,4 mm</p></li><li><p>Waga</p><p>96 g</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Patriot</p></li><li><p>Dane producenta</p><p>Patriot Memory B.V., Innsbruckweg 190, 3047 AH ROTTERDAM, patrioteuropeoffice@patriotmemory.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/patriot.jpg",
+  "images": [
+    "galerie/p/pamiec-ddr4-patriot-viper-ste_73078.webp",
+    "galerie/p/pamiec-ddr4-patriot-viper-ste_73079.webp",
+    "galerie/p/pamiec-ddr4-patriot-viper-ste_73080.webp",
+    "galerie/p/pamiec-ddr4-patriot-viper-ste_73078.webp",
+    "galerie/p/pamiec-ddr4-patriot-viper-ste_73079.webp",
+    "galerie/p/pamiec-ddr4-patriot-viper-ste_73080.webp"
+  ],
+  "manufacturer": "Patriot"
+}

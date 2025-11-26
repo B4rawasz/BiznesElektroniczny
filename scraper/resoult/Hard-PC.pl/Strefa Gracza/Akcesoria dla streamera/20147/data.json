@@ -1,0 +1,27 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Akcesoria dla streamera"
+  ],
+  "id": "20147",
+  "code": "4820216972474",
+  "name": "Mikser audio Fifine Sound Card SC3",
+  "price": 299.0,
+  "description": "<h2>Mikser audio FIFINE SC3 Black USB z RGB XLR 2-kanałowy</h2><p>Mikser FIFINE SC3 to profesjonalne urządzenie audio przeznaczone do nagrywania i odsłuchiwania dźwięku o wyjątkowej jakości. Dzięki szerokiemu pasmu przenoszenia oraz wysokiemu zakresowi dynamicznemu pozwala na precyzyjne i szczegółowe rejestrowanie oraz miksowanie dźwięków. Urządzenie świetnie sprawdzi się zarówno podczas tworzenia muzyki, prowadzenia webinarów, jak i streamingu czy pracy z różnymi źródłami audio.</p><h2>Funkcje i zalety</h2><p>Mikser oferuje szeroki zakres wzmocnienia, co umożliwia dokładne ustawienie poziomu dźwięku dopasowanego do indywidualnych potrzeb. Wyjście słuchawkowe charakteryzuje się doskonałą jakością dźwięku, szerokim zakresem częstotliwości oraz niską impedancją, co przekłada się na czysty i klarowny odsłuch. Z kolei wyjścia i wejścia liniowe zapewniają kompatybilność z profesjonalnym sprzętem audio. Dzięki lekkiej, przenośnej konstrukcji (waga 0,8 kg) mikser jest wygodny w użyciu w różnych warunkach.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Kolor</p><p>czarny</p></li><li><p>Liczba kanałów</p><p>2</p></li><li><p>Współczynnik sygnał/szum</p><p>75 dB</p></li><li><p>Waga produktu z opakowaniem jednostkowym</p><p>1 kg</p></li><li><p>Pasmo przenoszenia</p><p>20-20000 Hz</p></li><li><p>Pobór mocy</p><p>5 W</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Fifine</p></li><li><p>Dane producenta</p><p>Fifine, 17531 Railroad St Unit A, City of Industry, California 91748, US, web@fifine.cc</p></li><li><p>Podmiot odpowiedzialny</p><p> QLABPRO sp z o o, Ostrobramska 101A, lok. 301, 04-041 Warszawa</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/fifine.jpg",
+  "images": [
+    "galerie/m/mikser-audio-fifine-sound-car_76780.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76783.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76784.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76782.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76781.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76780.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76783.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76784.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76782.webp",
+    "galerie/m/mikser-audio-fifine-sound-car_76781.webp"
+  ],
+  "manufacturer": "Fifine"
+}

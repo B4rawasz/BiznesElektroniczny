@@ -1,0 +1,29 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Karty sieciowe"
+  ],
+  "id": "15032",
+  "code": "UB500",
+  "name": "Adapter Bluetooth 5.0 TP-LINK UB500",
+  "price": 35.0,
+  "description": "<h2>Bluetooth 5.0: Większa prędkość, Większy zasięg</h2><p>UB500 wyposaża Twój komputer w zaawansowaną technologię Bluetooth 5.0, która wprowadza wiele ulepszeń w stosunku do poprzednich wersji. Większa szybkość połączeń i większy zasięg względem Bluetooth 4.0 zapewniają silne i stabilne połączenie bezprzewodowe między Twoim komputerem i urządzeniami Bluetooth. Dodatkową korzyścią jest oszczędność energii.</p><h2>Odtwarzaj muzykę z drugiego końca pokoju</h2><p>Dzięki ulepszeniom w Bluetooth 5.0, UB500 ma większy zasięg transmisji między urządzeniami jak odtwarzacz muzyki i komputer PC. Większy zasięg pozwala na cieszenie się bezstratną jakością dźwięku przez zestaw Bluetooth, bez konieczności poruszania się w pobliżu komputera. Nie musisz się już martwić o dystans wpływający na Twoje słuchanie muzyki.</p><h2>Połączenie z komputerem poprzez Bluetooth</h2><p>Połącz swoje urządzenia Bluetooth z komputerem. Możliwość połączenia do 7 urządzeń Bluetooth jednocześnie. Możesz przesyłać pliki, muzykę, filmy między Twoimi urządzeniami Bluetooth i komputerem z 2x większą prędkością.</p><h2>Rozmiar Nano - Podłącz i zapomnij</h2><p>Elegancka i ultra-mała obudowa pozwala na podłączenie adaptera do dowolnego portu USB i pozostawienie go tam bez znaczenia czy podróżujesz lub używasz go w domu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standardy i protokoły</p><p>Bluetooth 5.0</p></li><li><p>Porty</p><p>USB 2.0</p></li><li><p>Wymiar</p><p>14.8 × 6.8 × 18.9 mm</p></li><li><p>Zawartość opakowania</p><p>Nano adapter UB500<br/>Instrukcja szybkiej instalacji</p></li><li><p>Wymagania systemowe</p><p>Windows 11/10/8.1/7</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>TP-Link</p></li><li><p>Dane producenta</p><p>TP-Link Polska Sp. z o.o., Ożarowska 40/42, 05-850 Duchnice, vipsupport.pl@tp-link.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tp-link.jpg",
+  "images": [
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54442.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54443.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54444.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54447.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54446.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54445.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54442.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54443.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54444.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54447.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54446.webp",
+    "galerie/a/adapter-bluetooth-5-0-tp-link_54445.webp"
+  ],
+  "manufacturer": "TP-Link"
+}

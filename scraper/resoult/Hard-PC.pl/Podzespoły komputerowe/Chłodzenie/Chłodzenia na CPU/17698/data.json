@@ -1,0 +1,38 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenia na CPU"
+  ],
+  "id": "17698",
+  "code": "CPDC-029",
+  "name": "Chłodzenie DeepCool AK620 Digital 120mm White",
+  "price": 269.9,
+  "description": "<p>Nadeszła era cyfrowych chłodnic powietrza i DeepCool z dumą przedstawia AK620 DIGITAL. Wszystko, co kochasz w AK620 ZERO DARK, w połączeniu z smukłym, magnetycznym wyświetlaczem stanu i paskami LED A-RGB.</p><h2>Wyświetlanie statusu w czasie rzeczywistym</h2><p>Krystalicznie czysty, cyfrowy ekran wyświetla w czasie rzeczywistym temperaturę systemu i obciążenie procesora oraz ostrzega o nadmiernej temperaturze. Sterowanie wyświetlaczem odbywa się za pomocą prostej aplikacji, która wymaga jedynie wolnego portu USB 2.0.</p><h2>Sprawdzona konstrukcja</h2><p>Całkowicie czarna wersja dominującej, wysokowydajnej chłodnicy procesora AK620. Te same wysokiej jakości materiały z sześcioma zaawansowanymi miedzianymi rurkami cieplnymi, płytą bazową z czystej miedzi, gęstym radiatorem z podwójną wieżą i dwoma cichymi wentylatorami FDB tworzą potężną, zwycięską formułę dla wydajnego chłodzenia w kruczej konstrukcji ZERO DARK.</p><h2>Uwolnij swój potencjał</h2><p>Osiągnij najwyższą wydajność procesora przy znacznej wydajności chłodzenia do przetaktowywania. AK620 DIGITAL zapewnia maksymalne odprowadzanie ciepła i lepszy przepływ powietrza, aby obniżyć temperatury w wymagających zastosowaniach systemowych.</p><h2>Fajny, cichy i mocny</h2><p>Dwa mocne wentylatory PWM z doskonałymi łożyskami dynamicznymi zapewniają cichą pracę bez pogarszania wydajności chłodzenia, zapewniając idealną równowagę.</p><h2>Łatwa konstrukcja</h2><p>Dołączony, całkowicie metalowy wspornik umożliwia łatwą instalację, zapewniając odpowiedni kontakt i nacisk zarówno na platformach Intel, jak i AMD.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Wymiary</p><p>129 x 138 x 162 mm (szer. x wys. x gł.)</p></li><li><p>Waga</p><p>ok. 1,486 kg</p></li><li><p>Materiał</p><p>miedź, aluminium, plastik</p></li><li><p>Kolor</p><p>Biały</p></li><li><p>Wentylatory</p><p>2x 120 mm</p></li><li><p>Prędkość</p><p>500 - 1850 obr/min</p></li><li><p>Ciśnienie statyczne</p><p>2,19 mmH2O</p></li><li><p>Przepływ powietrza</p><p>117,2 m³/h</p></li><li><p>Objętość</p><p>28 dB(A)</p></li><li><p>Złącze</p><p>4-pin PWM</p></li><li><p>Napięcie robocze</p><p>12 V</p></li><li><p>Oświetlenie</p><p>A-RGB, 3-pinowe RGB (5VDG, 5V), 9-pinowe (USB 2.0)</p></li><li><p>Rurki cieplne</p><p>6x6 mm</p></li><li><p>Kompatybilność</p><p>Gniazdo Intel: LGA2066 / 2011-v3 / 2011 / 1700 / 1200 / 1151 / 1150 / 1155<br/>Gniazdo AMD: AM5 / AM4</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>DeepCool</p></li><li><p>Dane producenta</p><p>DeepCool B.V., Le Havre 91, 5627 SV, Eindhoven, Niederlande, after-sales-service@deepcool.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/deepcool.jpg",
+  "images": [
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65275.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65276.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65277.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65278.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65279.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65280.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65281.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65282.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65283.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65284.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65275.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65276.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65277.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65278.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65279.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65280.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65281.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65282.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65283.webp",
+    "galerie/c/chlodzenie-deepcool-ak620-dig_65284.webp"
+  ],
+  "manufacturer": "DeepCool"
+}

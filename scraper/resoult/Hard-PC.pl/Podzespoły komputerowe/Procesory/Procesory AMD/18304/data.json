@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Procesory",
+    "Procesory AMD"
+  ],
+  "id": "18304",
+  "code": "100-100000589WOF",
+  "name": "Procesor AMD Ryzen 9 7900X, 4.7GHz, 64MB, AM5, BOX",
+  "price": 1415.9,
+  "description": "<article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Model procesora</p><p>7900X</p></li><li><p>Częstotliwość bazowa procesora</p><p>4,7 GHz</p></li><li><p>Typ procesora</p><p>AMD Ryzen™ 9</p></li><li><p>Liczba rdzeni procesora</p><p>12</p></li><li><p>Gniazdo procesora</p><p>Gniazdo AM5</p></li><li><p>Liczba wątków</p><p>24</p></li><li><p>Tryb pracy procesora</p><p>32-bit <br/>64-bit</p></li><li><p>Maksymalne taktowanie procesora</p><p>5,6 GHz</p></li><li><p>Cache procesora</p><p>64 MB</p></li><li><p>Typ pamięci procesora</p><p>L3</p></li><li><p>Termiczny układ zasilania (TDP)</p><p>170 W</p></li><li><p>Pudełko</p><p>Tak</p></li><li><p>Maksymalna pamięć wewnętrzna wspierana przez procesor</p><p>128 GB</p></li><li><p>Taktowanie zegara pamięci wspierane przez procesor</p><p>3600<br/>5200 MHz</p></li><li><p>Obsługa kanałów pamięci</p><p>Dwukanałowy</p></li><li><p>Korekcja ECC</p><p>Tak</p></li><li><p>Wbudowana karta graficzna</p><p>Tak</p></li><li><p>Dedykowana karta graficzna</p><p>Nie</p></li><li><p>Model wbudowanej karty graficznej</p><p>AMD Radeon Graphics</p></li><li><p>Wbudowana bazowa częstotliwość procesora</p><p>400 MHz</p></li><li><p>Dynamiczne taktowanie wbudowanej karty graficznej (max)</p><p>2200 MHz</p></li><li><p>Model dedykowanej karty graficznej</p><p>Niedostępny</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lamzu</p></li><li><p>Dane producenta</p><p>Advanced Micro Devices, Inc., 2485 Augustine Drive, 95054, Santa Clara, CA , USA, youtube@amd.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Advanced Micro Devices GmbH, Einsteinring 22-28, 85609 Aschheim, Munich, Niemcy, +49 89-450-53100</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/amd.jpg",
+  "images": [
+    "galerie/p/procesor-amd-ryzen-9-7900x-4_68327.webp",
+    "galerie/p/procesor-amd-ryzen-9-7900x-4_68327.webp"
+  ],
+  "manufacturer": "Lamzu"
+}

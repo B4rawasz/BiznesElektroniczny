@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Chłodzenie",
+    "Chłodzenie wodne - zestawy AiO"
+  ],
+  "id": "20583",
+  "code": "WASE-919",
+  "name": "Chłodzenie wodne AiO Lian Li GALAHAD II Lite Performance 240mm Black",
+  "price": 363.9,
+  "description": "<h2>Wydajność Lian Li GA II Lite: Chłodzenie najwyższej klasy – niewidoczna wydajność</h2><p>Dwa wydajne wentylatory i ogromna powierzchnia chłodzenia zapewniają <strong>niskie temperatury nawet przy szczytowym obciążeniu</strong>. Niezależnie od tego, czy używasz <em>procesora AMD Ryzen 9</em>, <em>Intel Core i9</em>, czy <em>Xeon do stacji roboczych</em>, ten komputer AiO sprosta najwyższym wymaganiom, zachowując jednocześnie przyjemną ciszę.</p><h2>Czyste konstrukcje bez rozpraszaczy</h2><p>Prosty design idealnie pasuje do <strong>konfiguracji studyjnych</strong>, <strong>profesjonalnych stacji roboczych</strong> lub <strong>funkcjonalnych komputerów gamingowych</strong>. Czyste linie i konstrukcja ułatwiająca okablowanie podkreślają <em>zaangażowanie w jakość i porządek</em>.</p><h2>Długowieczność w centrum uwagi</h2><p>Wentylatory fluidodynamiczne charakteryzują się <strong>niskim zużyciem</strong> i <strong>długim czasem pracy</strong>. W połączeniu z wydajną pompą i systemem węży osłonowych stanowią <em>bezobsługowe rozwiązanie</em> dla systemów pracujących dzień po dniu.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Radiator 240 mm: dodatkowa powierzchnia chłodząca dla podkręconych procesorów i ciągłego obciążenia</li><li>3 wentylatory o wysokiej wydajności: wysokie ciśnienie powietrza (5,0 mmH₂O), niski poziom hałasu (29,8 dBA)</li><li>Długość węża 400 mm: zapewnia elastyczną instalację nawet w przypadku dużych obudów</li><li>Wentylatory łączone szeregowo: mniejszy wysiłek związany z kablami, co pozwala na tworzenie czystych konstrukcji</li><li>Chłodnica miedziana i trwała pompa: zaprojektowane do pracy ciągłej</li></ul><h2>Dane techniczne</h2><ul class=\"list-specification\"><li><p>Kolor główny</p><p>Czarny</p></li><li><p>Długość / Głębokość</p><p>276 mm</p></li><li><p>Szerokość</p><p>120 mm</p></li><li><p>Wysokość</p><p>27 mm</p></li><li><p>Długość rury/węża</p><p>400 cm</p></li><li><p>Gniazdo procesora</p><p>1700, 1851, AM4, AM5</p></li><li><p>Maksymalny poziom hałasu wentylatora dB(A) (pojedynczy wentylator)</p><p>29,8 dB(A)</p></li><li><p>Oświetlenie / RGB</p><p>Tak</p></li><li><p>Materiał</p><p>aluminium, miedź</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Lian Li</p></li><li><p>Dane producenta</p><p>Lian Li Industrial Co., LTD, No.11-1, Kong-Chien N. Rd., Liu-Tu Industrial Park, 206 Keelung, Taiwan</p></li><li><p>Podmiot odpowiedzialny</p><p>Caseking GmbH, Gaußstraße 1, 10589 Berlin, Deutschland, info@caseking.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/lian-li.jpg",
+  "images": [
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78969.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78970.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78972.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78971.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78968.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78969.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78970.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78972.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78971.webp",
+    "galerie/c/chlodzenie-wodne-aio-lian-li_78968.webp"
+  ],
+  "manufacturer": "Lian Li"
+}

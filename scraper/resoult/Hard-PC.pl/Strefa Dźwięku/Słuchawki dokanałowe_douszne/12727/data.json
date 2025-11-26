@@ -1,0 +1,23 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Dźwięku",
+    "Słuchawki dokanałowe/douszne"
+  ],
+  "id": "12727",
+  "code": "KZ-ZAX-M",
+  "name": "Słuchawki KZ ZAX z mikrofonem Czarne",
+  "price": 449.0,
+  "description": "<p>KZ ZAX to zaawansowane technologicznie, szesnastoprzetwornikowe słuchawki dokanałowe. Zastosowanie takiego rozwiązania pozwoliło na osiągnięcie równego brzmienia w pełnym zakresie częstotliwości. Odpowiednie strojenie sprawia, że niskie tony są doskonałym tłem dla szczegółowego górnego pasma, za którego reprodukcję odpowiadają przetworniki armaturowe.</p><p>W KZ ZAX każda słuchawka posiada wbudowanych aż 8 przetworników. Mocny bas to zasługa dynamicznego przetwornika z podwójną cewką. Pełną szczegółowość wokali osiągnięto dzięki zastosowaniu zmodyfikowanych przetworników armaturowych 300019. Szeroka scena to zasługa aż czterech przetworników armaturowych 50024. Zbalansowany przetwornik armaturowy 30095 odpowiada natomiast za reprodukcję najwyższych częstotliwości.</p><p>Wykorzystanie posrebrzanego kabla z miedzi beztlenowej o wysokiej czystości skutecznie zmniejsza zniekształcenia, a doskonałe materiały sprawiają, że dźwięk uzyskiwany wraz z tym kablem jest o wiele bardziej transparentny.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><!-- ATRYBUTY --><li><p>Czułość</p><p>113dB</p></li><li><p>Typ wtyczki</p><p>3,5 mm</p></li><li><p>Waga</p><p>27 ± 3g</p></li><li><p>Impedancja</p><p>24Ω</p></li><li><p>Typ pinu</p><p>0,75 mm</p></li><li><p>Sposób noszenia</p><p>Zaczep na ucho</p></li><li><p>Częstotliwość</p><p>10-40000 HZ</p></li><li><p>Długość kabla</p><p>125 ± 5 cm</p></li><li><p>Konfiguracja</p><p>1 podwójny obwód magnetyczny, kompozyt 10 mm dynamiczny<br/>7 specjalnie opracowanych zbalansowanych jednostek armaturowych</p></li><li></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>KZ ACOUSTICS</p></li><li><p>Dane producenta</p><p>KZ ACOUSTICS, 2nd Floor, Building A, Longchang MicroPort Park, No.26 Hantang Street, Gutou Community, Dongcheng, Dongguan, Guangdong, China, sales@kzhifi.com</p></li><li><p>Podmiot odpowiedzialny</p><p> </p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/kz-acoustics.jpg",
+  "images": [
+    "galerie/s/sluchawki-kz-zax-czarne_45769.webp",
+    "galerie/s/sluchawki-kz-zax-czarne_45770.webp",
+    "galerie/s/sluchawki-kz-zax-z-mikrofonem_45771.webp",
+    "galerie/s/sluchawki-kz-zax-czarne_45769.webp",
+    "galerie/s/sluchawki-kz-zax-czarne_45770.webp",
+    "galerie/s/sluchawki-kz-zax-z-mikrofonem_45771.webp"
+  ],
+  "manufacturer": "KZ ACOUSTICS"
+}

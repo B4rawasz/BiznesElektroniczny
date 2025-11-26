@@ -1,0 +1,25 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Switche"
+  ],
+  "id": "17354",
+  "code": "SG108M",
+  "name": "Switch Tenda SG108M 8-portów Gigabit",
+  "price": 64.9,
+  "description": "<h2>W pełni gigabitowe porty, połączenie o pełnej prędkości</h2><p>Z ośmioma portami Gigabit Ethernet, prędkością tramisji do 2000 Mb/s w trybie full duplex, z większą zdolnością przetwarzania danych, switch może skutecznie rozwiązać problemy opóźnienień wideo oraz utraty obrazy w środowisku monitorowania HD, swobodnie obsługując kamery monitoringu HD o mocy 400 W.</p><h2>Mały i wykwintny, pozwala zaoszczędzić miejsce</h2><p>Superminiaturowa obudowa o rozmiarach 124*59*23 mm pozwala zaoszczędzić więcej przestrzeni. Obsługuje także montaż naścienny, co pozwala na umieszczenie go w dowolnym miejscu.</p><h2>Plug And Play, wygodne tworzenie i korzystanie z sieci</h2><p>Każdy port obsługuje automatyczną zmianę MDI/MDIX. Wepnij kabel sieciowy, aby uzyskać dostęp do Internetu. Bez niepotrzebnego wprowadzania ustawień, prosto i wygodnie.</p><h2>Szerokie zastosowanie</h2><p>Switch jest kompatybilny z urządzeniami sieciowymi, takimi jak kamery monitoringu, komputery, drukarki, Smart TV czy konsolami do gier, aby lepiej realizować warunki korzystania z sieci w środowiskach domowych i firmowych.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Standardy sieciowe</p><p>IEEE802.3<br/>IEEE802.3u<br/>IEEE802.3x<br/>IEEE802.3ab</p></li><li><p>Wskaźnik ledowy</p><p>One Link/Act LED indicator for each Gigabit port</p></li><li><p>Interfejsy</p><p>8*10/100/1000Base-T Ethernet ports</p></li><li><p>Środki przekazu</p><p>Ethernet CAT3 UTP or better<br/>Fast Ethernet CAT5 UTP or better<br/>Gigabit Ethernet CAT5e UTP or better</p></li><li><p>Wymiar</p><p>142.0*90.0*23.0mm(L*W*H)</p></li><li><p>Materiał</p><p>Plastic</p></li><li><p>Tryb przekazywania</p><p>Store-and-forward</p></li><li><p>Pojemność przełącznika</p><p>16Gbps</p></li><li><p>Szybkość przekazywania pakietów</p><p>11.9Mpps</p></li><li><p>Bufor</p><p>1Mb</p></li><li><p>Tabela adresów MAC</p><p>8K</p></li><li><p>Ramka Jombo</p><p>15K</p></li><li><p>Moc</p><p>Input 100-240V AC 50/60Hz<br/>Output 5.0V 0.6A ( External Power Adapter )</p></li><li><p>Pobór energii</p><p>Max &lt;3W</p></li><li><p>Montowanie</p><p>Desktop mounting support<br/>Wall mounting support <br/>Rack mounting non-support</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tenda</p></li><li><p>Dane producenta</p><p>Tenda Polska Sp. z o.o.; Górczewska 216, 01-460 Warszawa, Polska, support.pl@tenda.cn</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tenda.jpg",
+  "images": [
+    "galerie/s/switch-tenda-sg108m-8-portow_62796.webp",
+    "galerie/s/switch-tenda-sg108m-8-portow_62797.webp",
+    "galerie/s/switch-tenda-sg108m-8-portow_62798.webp",
+    "galerie/s/switch-tenda-sg108m-8-portow_62799.webp",
+    "galerie/s/switch-tenda-sg108m-8-portow_62796.webp",
+    "galerie/s/switch-tenda-sg108m-8-portow_62797.webp",
+    "galerie/s/switch-tenda-sg108m-8-portow_62798.webp",
+    "galerie/s/switch-tenda-sg108m-8-portow_62799.webp"
+  ],
+  "manufacturer": "Tenda"
+}

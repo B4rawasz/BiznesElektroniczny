@@ -1,0 +1,20 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Strefa Gracza",
+    "Myszki",
+    "Akcesoria do myszek"
+  ],
+  "id": "16297",
+  "code": "CSP2650",
+  "name": "Ślizgacze Corepad do Lamzu Atlantis Mini - 2szt",
+  "price": 45.0,
+  "description": "<p>Corepad to producent profesjonalnych ślizgaczy do myszek. Ponad 20 lat doświadczenia w branży gamingowej sprawia, że Corepad posiada najszerszy wybór zamiennych ślizgów. Wykonane ze 100% PTFE (teflon) ślizgacze sprawiają, że mysz w sposób niezakłócony sunie po podkładce, zwiększa się precyzja, a zmniejsza tarcie. Idealna gładkość i wysoka dokładność wykonania przekłada się na zwiększoną ochronę podkładki – ślizgacze w żaden sposób nie zahaczają o materiałowa powierzchnię.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Materiał</p><p>100% PTFE</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Corepad</p></li><li><p>Dane producenta</p><p>Com-Tra.de Maik Schoephoerster, Liegnitzer Str. 6, 32312 Luebbecke, Germany, Info@Com-Tra.de</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/corepad.jpg",
+  "images": [
+    "galerie/s/slizgacze-corepad-do-lamzu-at_57947.webp",
+    "galerie/s/slizgacze-corepad-do-lamzu-at_57947.webp"
+  ],
+  "manufacturer": "Corepad"
+}

@@ -1,0 +1,25 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Akcesoria sieciowe",
+    "Karty sieciowe"
+  ],
+  "id": "13710",
+  "code": "U12",
+  "name": "Karta sieciowa WiFi Tenda U12 USB AC1300",
+  "price": 59.0,
+  "description": "<h2>Połącz z gigabitowym routerem dla niezrównanej wydajności sieci 5 GHz</h2><p>U12 w pełni wykorzystuje przepustowość gigabitowego routera, aby osiągnąć prędkość bezprzewodowego pobierania do 580 Mb/s. Tym samym pobieranie filmu o pojemności 2 GB zajmuje zaledwie 28 sekund, oferując ekscytujące doświadczenia w cyberprzestrzeni.</p><h2>Nowa generacja technologii bezprzewodowej 11AC</h2><p>Oferuje ona prędkość transmisji 3X. Wykorzystuje technologię 256-QAM, aby przełamać ograniczenie prędkości protokołu 802.11n i osiągnąć przepustowość do 400 Mb/s w sieci 2,4 GHz. Oferuje również przepustowość do 867 Mbps w sieci 5 GHz. Możesz wybrać pasmo częstotliwości rzadko używanej w otoczeniu, aby skutecznie uniknąć zakłóceń radiowych i przeciążenia sieci w celu uzyskania bardziej stabilnych sygnałów bezprzewodowych oraz lepszej wydajności transmisji.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Cechy:</h2><ul class=\"list-specification\"><li>Cztery oddzielone elektrycznie warstwy PCB dla lepszej zdolności antyzakłóceniowej komponentów</li><li>Precyzyjny zasilacz liniowy do dalszej stabilizacji</li><li>Duplekser Walsin RFD do poprawy wykorzystania sygnału</li><li>Filtr trybu wspólnego TDK do tłumienia zakłóceń sygnału z portu USB </li><li>Stabilna transmisja USB 3.0, 10 razy szybsza niż transmisja USB 2.0.</li><li>Przewód przedłużający (rdzeń miedziany z wieloma warstwami folii aluminiowej), umożliwiający elastyczne dopasowanie położenia bezprzewodowej karty sieciowej w celu uzyskania optymalnej wydajnoś</li></ul><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Interfejsy</p><p>USB3.0</p></li><li><p>Typ anteny</p><p>PIFA Antenna</p></li><li><p>Przycisk</p><p>WPS</p></li><li><p>Wskaźnik ledowy</p><p>1 * System LED</p></li><li><p>Wymiar</p><p>93.8mm*30.2mm*13.4mm(L x W x H)</p></li><li><p>Standard bezprzewodowy</p><p>IEEE802.11b,IEEE 802.11g, IEEE 802.11n, IEEE 802.11a,IEEE 802.11ac</p></li><li><p>Częstotliwość</p><p>5GHz(11ac), 2.4GHz</p></li><li><p>Szybkość przesyłania danych</p><p>5GHz Up to 867Mbps, 2.4GHz Up to 400Mbps</p></li><li><p>Moc transmisji</p><p>&lt;20dBm (EIRP)</p></li><li><p>Tryby bezprzewodowe</p><p>Station Mode</p></li><li><p>Ochrona bezprzewodowa</p><p>64/128-bit WEP,WPA-PSK / WPA2-PSK,WPA / WPA2</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tenda</p></li><li><p>Dane producenta</p><p>Tenda Polska Sp. z o.o.; Górczewska 216, 01-460 Warszawa, Polska, support.pl@tenda.cn</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tenda.jpg",
+  "images": [
+    "galerie/k/karta-sieciowa-wifi-tenda-u12_49215.webp",
+    "galerie/k/karta-sieciowa-wifi-tenda-u12_49216.webp",
+    "galerie/k/karta-sieciowa-wifi-tenda-u12_49217.webp",
+    "galerie/k/karta-sieciowa-wifi-tenda-u12_49218.webp",
+    "galerie/k/karta-sieciowa-wifi-tenda-u12_49215.webp",
+    "galerie/k/karta-sieciowa-wifi-tenda-u12_49216.webp",
+    "galerie/k/karta-sieciowa-wifi-tenda-u12_49217.webp",
+    "galerie/k/karta-sieciowa-wifi-tenda-u12_49218.webp"
+  ],
+  "manufacturer": "Tenda"
+}

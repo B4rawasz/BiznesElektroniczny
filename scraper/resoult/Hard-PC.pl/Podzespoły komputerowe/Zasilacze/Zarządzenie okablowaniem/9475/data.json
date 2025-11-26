@@ -1,0 +1,28 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Podzespoły komputerowe",
+    "Zasilacze",
+    "Zarządzenie okablowaniem"
+  ],
+  "id": "9475",
+  "code": "PL-ATXCM-24P-01",
+  "name": "Grzebień Gelid 24pin - clear",
+  "price": 7.9,
+  "description": "OPIS <p>Grzebień do porządkowania okablowania zasilacza. Pasuje do przedłużek Gelid!</p><p> </p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"attribs\"><!-- ATRYBUTY --><li><div>Kolor: Clear</div></li><li>Materiał:Akryl</li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Gelid</p></li><li><p>Dane producenta</p><p>GELID Solutions Ltd, Unit 602, 6/F, Tower A, Southmark, 11 Yip Hing Street, Wong Chuk Hang, Aberdeen, Hong Kong, info@gelidsolution.com</p></li><li><p>Podmiot odpowiedzialny</p><p>Via Vittorio Veneto 163, 21050 Lonate Ceppino (VA), Włochy, info@gelidsolution.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/gelid.jpg",
+  "images": [
+    "galerie/g/grzebien-gelid-24pin-clear_28545.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28546.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28547.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28548.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28549.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28545.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28546.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28547.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28548.webp",
+    "galerie/g/grzebien-gelid-24pin-clear_28549.webp"
+  ],
+  "manufacturer": "Gelid"
+}

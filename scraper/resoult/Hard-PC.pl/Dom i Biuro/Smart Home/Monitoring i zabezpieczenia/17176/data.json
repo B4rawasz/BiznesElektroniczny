@@ -1,0 +1,32 @@
+{
+  "category": [
+    "Hard-PC.pl",
+    "Dom i Biuro",
+    "Smart Home",
+    "Monitoring i zabezpieczenia"
+  ],
+  "id": "17176",
+  "code": "TSL-CAM-BF100",
+  "name": "Tesla Smart Kamera akumulatorowa z reflektorem",
+  "price": 799.0,
+  "description": "<h2>Nowoczesne technologie</h2><p>Nie chcesz przeciągać kabla do kamery? Mamy dla Ciebie rozwiązanie. Za pomocą złącza USB-C kamerę można podłączyć do panelu słonecznego TESLA o mocy 5W. Wbudowany akumulator ma pojemność 9000 mAh, dzięki czemu aparat może pracować niemal bez przerwy. Wystarczy jedna godzina światła słonecznego dziennie.</p><h2>Aplikacje nie tylko do śledzenia online</h2><p>Zaletą kamery bezpieczeństwa sterowanej przez aplikację mobilną Tesla Smart jest łatwość i wygoda zarządzania i monitorowania nieruchomości z dowolnego miejsca. Dzięki aplikacji masz dostęp w czasie rzeczywistym do wideo na żywo, alertów o zdarzeniach i możliwość ustawiania różnych trybów pracy. Ta zaawansowana technologia zwiększa kontrolę nad domem lub firmą i poprawia ogólne poczucie bezpieczeństwa.</p><h2>Zaawansowane funkcje wykrywania ruchu</h2><p>Kamera posiada zaawansowane funkcje detekcji, które umożliwiają identyfikację widzianego obiektu np. człowieka. Zmniejsza to liczbę fałszywych alarmów, co ostatecznie pozwala zaoszczędzić energię elektryczną.</p><h2>Rozmawiaj przez kamerę</h2><p>Chcesz odstraszyć niechcianego gościa lub porozmawiać z kurierem? Nie ma problemu. Nasza kamera umożliwia dwukierunkową komunikację audio za pomocą wbudowanego mikrofonu i głośnika, dzięki czemu za pomocą naszej aplikacji mobilnej możesz łatwo dotrzeć do rozmówcy, a on może natychmiast odpowiedzieć.</p><article id=\"section-specyfication\" itemprop=\"description\"><h2>Dane techniczne:</h2><ul class=\"list-specification\"><li><p>Ilość w opakowaniu zbiorczym:</p><p>20 szt</p></li><li><p>Wysokość:</p><p>7 cm</p></li><li><p>Szerokość:</p><p>7.5 cm</p></li><li><p>Głębokość:</p><p>12.2 cm</p></li><li><p>Waga:</p><p>0.46 kg</p></li></ul></article>",
+  "security_data": "<h2>Bezpieczeństwo</h2><ul class=\"list-specification\"><li><p>Producent</p><p>Tesla</p></li><li><p>Dane producenta</p><p>TESLA Solar, s.r.o., Rubeška 215/1, Praga 9 Vysočany, 190 00 Praga, wsparcie@teslasmart.com</p></li><li><p>Instrukcja bezpieczeństwa</p><p>Pobierz <a href=\"dok/instrukcja_bezpieczenstwa.pdf\">tutaj</a></p></li></ul>",
+  "manufacturer_img": "galerie/producenci/tesla.jpg",
+  "images": [
+    "galerie/t/tesla-smart-kamera-akumulator_63336.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63337.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63338.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63339.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63340.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63341.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63342.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63336.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63337.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63338.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63339.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63340.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63341.webp",
+    "galerie/t/tesla-smart-kamera-akumulator_63342.webp"
+  ],
+  "manufacturer": "Tesla"
+}
