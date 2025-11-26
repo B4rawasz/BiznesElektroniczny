@@ -44,7 +44,7 @@
               <a
                   id=""
                   class=""
-                  href="/content/4-about-us"
+                  href="/content/4-o-sklepie"
                   title=""
                   target=""
               >
@@ -70,7 +70,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/content/6-program-lojalnosciowy"
                   title=""
                   target=""
               >
@@ -83,7 +83,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/content/7-oferty-pracy"
                   title=""
                   target=""
               >
@@ -96,7 +96,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="https://hard-pc.biz/"
                   title=""
                   target=""
               >
@@ -112,7 +112,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/content/8-regulamin"
                   title=""
                   target=""
               >
@@ -125,7 +125,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/content/9-polityka-prywatnosci"
                   title=""
                   target=""
               >
@@ -138,7 +138,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/content/10-reklamacje"
                   title=""
                   target=""
               >
@@ -151,7 +151,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/content/11-odstapienie-od-umowy"
                   title=""
                   target=""
               >
@@ -164,7 +164,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/content/12-formy-platnosci-i-transportu"
                   title=""
                   target=""
               >
@@ -180,7 +180,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/dane-osobiste"
                   title=""
                   target=""
               >
@@ -193,7 +193,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/historia-zamowien"
                   title=""
                   target=""
               >
@@ -209,7 +209,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/29-zestaw-komputerowy-do-2500-zl"
                   title=""
                   target=""
               >
@@ -222,7 +222,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/30-zestaw-komputerowy-do-3000-zl"
                   title=""
                   target=""
               >
@@ -235,7 +235,7 @@
               <a
                   id=""
                   class=""
-                  href=""
+                  href="/31-zestaw-komputerowy-do-4000-zl"
                   title=""
                   target=""
               >

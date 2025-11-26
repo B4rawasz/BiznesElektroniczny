@@ -11,11 +11,11 @@
         <span class="hidden-sm-down">Twoje konto</span>
       </a>
 
-      <a>
+      <a href="/content/6-program-lojalnosciowy" title="Program lojalnościowy">
         Program lojalnościowy
       </a>
 
-      <a>
+      <a href="/content/7-oferty-pracy" title="Współpraca">
         Współpraca
       </a>
 

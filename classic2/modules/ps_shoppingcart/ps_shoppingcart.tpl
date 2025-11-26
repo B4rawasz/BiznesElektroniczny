@@ -27,15 +27,15 @@
     <div class="header">
       <span class="cart-label">Koszyk:</span>
       <span class="cart-value">{$cart.totals.total.value}</span>
-      {if $cart.products_count > 0}
-        <a rel="nofollow" aria-label="{l s='Shopping cart link containing %nbProducts% product(s)' sprintf=['%nbProducts%' => $cart.products_count] d='Shop.Theme.Checkout'}" href="{$cart_url}">
-      {/if}
+
+        <a id="cart-but" rel="nofollow" aria-label="{l s='Shopping cart link containing %nbProducts% product(s)' sprintf=['%nbProducts%' => $cart.products_count] d='Shop.Theme.Checkout'}" href="{$cart_url}">
         <div class="icon-cart"></div>
         <span class="cart-products-count">({$cart.products_count})</span>
         <div class="icon-cart-arrow"></div>
-      {if $cart.products_count > 0}
+
         </a>
-      {/if}
+
+
     </div>
   </div>
 </div>

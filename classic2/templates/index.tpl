@@ -53,22 +53,22 @@
                   
                     <div class="product-a">
                       <figure>
-                        <a href="p20661,zestaw-ryzen-5-8400f-rtx-5060-8gb-32gb-ddr5-1tb-ssd-650w-aramis-midi-argb.html" title="Zestaw | Ryzen 5 8400F, RTX 5060 8GB, 32GB DDR5, 1TB SSD, 650W, Aramis Midi ARGB">
-                          <img src="/themes/classic2/assets/img/zestaw-ryzen-7-7800x3d-rx-907_75900_k.webp" alt="Zestaw | Ryzen 5 8400F, RTX 5060 8GB, 32GB DDR5, 1TB SSD, 650W, Aramis Midi ARGB" title="Zestaw | Ryzen 5 8400F, RTX 5060 8GB, 32GB DDR5, 1TB SSD, 650W, Aramis Midi ARGB" width="500" heigh="500">
+                        <a href="/zestaw-komputerowy-do-4000-zl/406-zestaw-intel-i3-12100f-rx-6500xt-4gb-16gb-ddr4-500gb-ssd-aramis-midi-550w.html" title="Zestaw | Intel I3-12100f, RX 6500XT 4GB, 16GB DDR4, 500GB SSD, Aramis Midi, 550W">
+                          <img src="/themes/classic2/assets/img/pc.jpg" alt="Zestaw | Intel I3-12100f, RX 6500XT 4GB, 16GB DDR4, 500GB SSD, Aramis Midi, 550W" title="Zestaw | Intel I3-12100f, RX 6500XT 4GB, 16GB DDR4, 500GB SSD, Aramis Midi, 550W" width="500" heigh="500">
                         </a>
                       
                       </figure>
                       <h3>
-                        <a href="p20835,zestaw-ryzen-7-7800x3d-rtx-5070-12gb-32gb-ddr5-1tb-ssd-stellar-5f-argb-black.html" title="Zestaw | Ryzen 7 7800X3D, RTX 5070 12GB, 32GB DDR5, 1TB SSD, Stellar 5F ARGB Black">Zestaw | Ryzen 7 7800X3D, RTX 5070 12GB, 32GB DDR5, 1TB SSD, Stellar 5F ARGB Black</a>
+                        <a href="/zestaw-komputerowy-do-4000-zl/406-zestaw-intel-i3-12100f-rx-6500xt-4gb-16gb-ddr4-500gb-ssd-aramis-midi-550w.html" title="Zestaw | Intel I3-12100f, RX 6500XT 4GB, 16GB DDR4, 500GB SSD, Aramis Midi, 550W">Zestaw | Intel I3-12100f, RX 6500XT 4GB, 16GB DDR4, 500GB SSD, Aramis Midi, 550W</a>
                       </h3>
                       <div class="attr">
 										    <p class="new">Nowość</p>    
 									    </div>
                       <p class="prices">
-                        <span class="default promo">6 649,00 zł</span>
-	                      <span class="old">8 049,00 zł</span>
+                        <span class="default promo">3 329,10 zł</span>
+	                      <span class="old">3 699,00 zł</span>
                       </p>
-                      <div class="omn hit-omn">Najniższa cena z 30 dni: <span>6 099,00 zł</span></div>             
+                      <div class="omn hit-omn">Najniższa cena z 30 dni: <span>3 329,10 zł</span></div>             
                     </div>
                   
                 </article>

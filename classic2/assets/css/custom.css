@@ -412,6 +412,18 @@ textarea {
 	transform: rotate(-90deg);
 }
 
+#_desktop_cart #cart-but-e {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	position: relative;
+	padding: 7px 28px 7px 12px;
+	border-radius: 4px;
+	background: #3a70ea;
+	color: #fff;
+	font-weight: 700;
+}
+
 #_desktop_cart .header {
 	display: flex;
 	align-items: center;
@@ -1197,6 +1209,10 @@ textarea {
 #main #js-product-list-header[data-category-id="81"],
 #main #js-product-list-header[data-category-id="82"] {
 	background-image: url("../img/strefa-dzwieku.png");
+}
+
+#main #js-product-list-header[data-category-id="10"] {
+	display: none;
 }
 
 #main #js-product-list-header .block-category {
@@ -2042,4 +2058,98 @@ textarea {
 
 #wishlist-link {
 	display: none !important;
+}
+
+#cart #main .cart-grid {
+	display: flex;
+	flex-direction: column;
+}
+
+#cart #main .blockreassurance_product {
+	display: none;
+}
+
+#cart #main .cart-grid > div {
+	width: 100%;
+}
+
+#cart #main .cart-grid .checkout a {
+	width: auto;
+	position: relative;
+	padding: 11px 34px 11px 62px;
+	border: 0;
+	border-radius: 3px;
+	background: #3a70ea;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 1.1;
+	cursor: pointer;
+	text-transform: none !important;
+}
+
+#cart #main .cart-grid .checkout a::before {
+	content: "\e929";
+	left: 17px;
+	width: auto;
+	font-size: 20px;
+	display: block;
+	position: absolute;
+	top: 50%;
+	margin: -10px 0 0;
+	font-weight: 400;
+	font-family: "icomoon" !important;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0;
+	letter-spacing: normal;
+}
+
+#cart #main .cart-grid .checkout > div {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+#checkout #header .header-nav {
+	padding: 20px 0 !important;
+}
+
+#checkout #header .container {
+	border: 0;
+}
+
+#checkout #header .row {
+	flex-direction: row;
+}
+
+#checkout #_desktop_contact_link::after {
+	display: none !important;
+}
+
+#checkout #header .row > div:nth-child(2) {
+	justify-content: flex-end;
+}
+
+#checkout .blockreassurance_product {
+	display: none;
+}
+
+#search #js-product-list-header {
+	height: 220px;
+	color: #fff;
+	font-size: 23px;
+	font-weight: 500;
+	line-height: 1.02;
+	text-transform: none !important;
+	box-sizing: border-box;
+	padding: 30px 120px;
+}
+
+#category #subcategories {
+	border: 0 !important;
+}
+
+#cms #main {
+	padding-top: 20px;
 }
